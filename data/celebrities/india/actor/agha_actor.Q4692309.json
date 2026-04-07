@@ -1,5 +1,5 @@
 {
-  "publicId": "c2b03093",
+  "publicId": "0d249ac6",
   "wikipediaSlug": "Agha_(actor)",
   "wikipediaId": "Q4692309",
   "name": "Agha (actor)",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "18.521111111",
   "birthCoordinatesLng": "73.855277777",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "10",
+  "sunSign": "12",
+  "lagnaSignText": "3",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q4692309",
   "birthPlace": "Pune",
-  "fetchedAt": "2026-04-07T12:16:49.377Z"
+  "fetchedAt": "2026-04-07T16:25:16.902Z"
 }

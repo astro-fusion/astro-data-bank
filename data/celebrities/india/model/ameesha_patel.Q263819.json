@@ -1,5 +1,5 @@
 {
-  "publicId": "cc74af90",
+  "publicId": "c2d7531a",
   "wikipediaSlug": "Ameesha_Patel",
   "wikipediaId": "Q263819",
   "name": "Ameesha Patel",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "2",
+  "sunSign": "2",
+  "lagnaSignText": "5",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -27,5 +25,5 @@
   ],
   "qid": "Q263819",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T11:31:33.015Z"
+  "fetchedAt": "2026-04-07T16:33:47.941Z"
 }

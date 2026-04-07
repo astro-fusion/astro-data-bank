@@ -1,5 +1,5 @@
 {
-  "publicId": "7a161290",
+  "publicId": "5ed47805",
   "wikipediaSlug": "Bhumika_Chawla",
   "wikipediaId": "Q3236611",
   "name": "Bhumika Chawla",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.613888888",
   "birthCoordinatesLng": "77.208888888",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "12",
+  "sunSign": "5",
+  "lagnaSignText": "7",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q3236611",
   "birthPlace": "New Delhi",
-  "fetchedAt": "2026-04-07T11:31:32.293Z"
+  "fetchedAt": "2026-04-07T16:33:47.439Z"
 }

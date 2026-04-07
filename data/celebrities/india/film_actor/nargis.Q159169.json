@@ -1,5 +1,5 @@
 {
-  "publicId": "c2922f21",
+  "publicId": "7a290940",
   "wikipediaSlug": "Nargis",
   "wikipediaId": "Q159169",
   "name": "Nargis",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "22.5675",
   "birthCoordinatesLng": "88.37",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "11",
+  "sunSign": "2",
+  "lagnaSignText": "5",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -27,5 +25,5 @@
   ],
   "qid": "Q159169",
   "birthPlace": "Kolkata",
-  "fetchedAt": "2026-04-07T11:32:43.332Z"
+  "fetchedAt": "2026-04-07T16:34:34.656Z"
 }

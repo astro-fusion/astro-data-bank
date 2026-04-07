@@ -1,5 +1,5 @@
 {
-  "publicId": "2b3bf628",
+  "publicId": "9246a106",
   "wikipediaSlug": "Phoolan_Devi",
   "wikipediaId": "Q465026",
   "name": "Phoolan Devi",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "26",
   "birthCoordinatesLng": "79.5",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "12",
+  "sunSign": "4",
+  "lagnaSignText": "7",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q465026",
   "birthPlace": "Jalaun district",
-  "fetchedAt": "2026-04-07T11:32:46.814Z"
+  "fetchedAt": "2026-04-07T16:34:40.522Z"
 }

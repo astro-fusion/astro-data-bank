@@ -1,5 +1,5 @@
 {
-  "publicId": "a954bd01",
+  "publicId": "f4bfe1c1",
   "wikipediaSlug": "Kiara_Advani",
   "wikipediaId": "Q16762720",
   "name": "Kiara Advani",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "12",
+  "sunSign": "4",
+  "lagnaSignText": "7",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q16762720",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T12:14:39.668Z"
+  "fetchedAt": "2026-04-07T16:34:27.057Z"
 }

@@ -1,5 +1,5 @@
 {
-  "publicId": "3512e0e0",
+  "publicId": "5decd496",
   "wikipediaSlug": "Karisma_Kapoor",
   "wikipediaId": "Q464578",
   "name": "Karisma Kapoor",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "5",
+  "sunSign": "3",
+  "lagnaSignText": "6",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -28,5 +26,5 @@
   ],
   "qid": "Q464578",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T11:31:47.026Z"
+  "fetchedAt": "2026-04-07T16:34:00.738Z"
 }

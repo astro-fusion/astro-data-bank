@@ -1,5 +1,5 @@
 {
-  "publicId": "05505e4e",
+  "publicId": "f2645191",
   "wikipediaSlug": "Ashok_Kumar",
   "wikipediaId": "Q3899724",
   "name": "Ashok Kumar",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "25.25",
   "birthCoordinatesLng": "87.016666666",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "3",
+  "sunSign": "6",
+  "lagnaSignText": "9",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -27,5 +25,5 @@
   ],
   "qid": "Q3899724",
   "birthPlace": "Bhagalpur",
-  "fetchedAt": "2026-04-07T12:17:14.305Z"
+  "fetchedAt": "2026-04-07T16:25:31.049Z"
 }

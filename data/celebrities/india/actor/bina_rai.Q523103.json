@@ -1,5 +1,5 @@
 {
-  "publicId": "63eb51f8",
+  "publicId": "76cd8bca",
   "wikipediaSlug": "Bina_Rai",
   "wikipediaId": "Q523103",
   "name": "Bina Rai",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "31.549722222",
   "birthCoordinatesLng": "74.343611111",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "10",
+  "sunSign": "2",
+  "lagnaSignText": "5",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q523103",
   "birthPlace": "Lahore",
-  "fetchedAt": "2026-04-07T11:31:35.796Z"
+  "fetchedAt": "2026-04-07T16:33:57.921Z"
 }

@@ -1,5 +1,5 @@
 {
-  "publicId": "969f8acc",
+  "publicId": "36dc9195",
   "wikipediaSlug": "Kriti_Sanon",
   "wikipediaId": "Q16233540",
   "name": "Kriti Sanon",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.613888888",
   "birthCoordinatesLng": "77.208888888",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "6",
+  "sunSign": "4",
+  "lagnaSignText": "7",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -27,5 +25,5 @@
   ],
   "qid": "Q16233540",
   "birthPlace": "New Delhi",
-  "fetchedAt": "2026-04-07T12:19:06.729Z"
+  "fetchedAt": "2026-04-07T16:34:39.806Z"
 }

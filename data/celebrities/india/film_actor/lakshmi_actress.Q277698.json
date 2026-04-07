@@ -1,5 +1,5 @@
 {
-  "publicId": "5e075328",
+  "publicId": "451165bb",
   "wikipediaSlug": "Lakshmi_(actress)",
   "wikipediaId": "Q277698",
   "name": "Lakshmi (actress)",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "13.0825",
   "birthCoordinatesLng": "80.275",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "7",
+  "sunSign": "8",
+  "lagnaSignText": "11",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -26,5 +24,5 @@
   ],
   "qid": "Q277698",
   "birthPlace": "Chennai",
-  "fetchedAt": "2026-04-07T11:32:01.309Z"
+  "fetchedAt": "2026-04-07T16:34:12.962Z"
 }

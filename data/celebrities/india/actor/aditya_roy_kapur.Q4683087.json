@@ -1,5 +1,5 @@
 {
-  "publicId": "20f75282",
+  "publicId": "dfca8ec8",
   "wikipediaSlug": "Aditya_Roy_Kapur",
   "wikipediaId": "Q4683087",
   "name": "Aditya Roy Kapur",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "9",
+  "sunSign": "8",
+  "lagnaSignText": "10",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q4683087",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T12:16:47.910Z"
+  "fetchedAt": "2026-04-07T16:24:53.795Z"
 }

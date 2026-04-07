@@ -1,5 +1,5 @@
 {
-  "publicId": "e6426389",
+  "publicId": "9473e56f",
   "wikipediaSlug": "Mariam-uz-Zamani",
   "wikipediaId": "Q2724440",
   "name": "Mariam-uz-Zamani",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "26.983333333",
   "birthCoordinatesLng": "75.866666666",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "3",
+  "sunSign": "6",
+  "lagnaSignText": "9",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q2724440",
   "birthPlace": "Amber",
-  "fetchedAt": "2026-04-07T11:32:08.510Z"
+  "fetchedAt": "2026-04-07T16:34:24.037Z"
 }

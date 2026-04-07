@@ -1,5 +1,5 @@
 {
-  "publicId": "9b5f7e08",
+  "publicId": "dc5a5670",
   "wikipediaSlug": "Amitabh_Bachchan",
   "wikipediaId": "Q9570",
   "name": "Amitabh Bachchan",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "25.45",
   "birthCoordinatesLng": "81.85",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "7",
+  "sunSign": "6",
+  "lagnaSignText": "9",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -29,5 +27,5 @@
   ],
   "qid": "Q9570",
   "birthPlace": "Prayagraj",
-  "fetchedAt": "2026-04-07T12:16:50.781Z"
+  "fetchedAt": "2026-04-07T16:25:19.742Z"
 }

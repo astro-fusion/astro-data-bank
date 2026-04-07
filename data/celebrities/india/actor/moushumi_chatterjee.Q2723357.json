@@ -1,5 +1,5 @@
 {
-  "publicId": "d6a2cf16",
+  "publicId": "9214371d",
   "wikipediaSlug": "Moushumi_Chatterjee",
   "wikipediaId": "Q2723357",
   "name": "Moushumi Chatterjee",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "22.5675",
   "birthCoordinatesLng": "88.37",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "8",
+  "sunSign": "1",
+  "lagnaSignText": "4",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q2723357",
   "birthPlace": "Kolkata",
-  "fetchedAt": "2026-04-07T11:32:44.354Z"
+  "fetchedAt": "2026-04-07T16:34:35.382Z"
 }

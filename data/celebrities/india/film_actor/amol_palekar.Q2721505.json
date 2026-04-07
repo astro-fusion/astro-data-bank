@@ -1,5 +1,5 @@
 {
-  "publicId": "b7630146",
+  "publicId": "7e123385",
   "wikipediaSlug": "Amol_Palekar",
   "wikipediaId": "Q2721505",
   "name": "Amol Palekar",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "11",
+  "sunSign": "8",
+  "lagnaSignText": "10",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -28,5 +26,5 @@
   ],
   "qid": "Q2721505",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T11:29:18.482Z"
+  "fetchedAt": "2026-04-07T16:24:46.181Z"
 }

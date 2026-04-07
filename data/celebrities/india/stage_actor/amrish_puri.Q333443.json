@@ -1,5 +1,5 @@
 {
-  "publicId": "e0750f91",
+  "publicId": "11a461f6",
   "wikipediaSlug": "Amrish_Puri",
   "wikipediaId": "Q333443",
   "name": "Amrish Puri",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "31.325555555",
   "birthCoordinatesLng": "75.579166666",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "10",
+  "sunSign": "3",
+  "lagnaSignText": "6",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -26,5 +24,5 @@
   ],
   "qid": "Q333443",
   "birthPlace": "Jalandhar",
-  "fetchedAt": "2026-04-07T12:17:11.169Z"
+  "fetchedAt": "2026-04-07T16:25:19.207Z"
 }

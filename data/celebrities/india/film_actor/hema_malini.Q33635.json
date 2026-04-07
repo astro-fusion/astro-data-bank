@@ -1,5 +1,5 @@
 {
-  "publicId": "82175cfb",
+  "publicId": "74d22996",
   "wikipediaSlug": "Hema_Malini",
   "wikipediaId": "Q33635",
   "name": "Hema Malini",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "10.64777778",
   "birthCoordinatesLng": "79.27111111",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "12",
+  "sunSign": "6",
+  "lagnaSignText": "9",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -30,5 +28,5 @@
   ],
   "qid": "Q33635",
   "birthPlace": "Ammankudi",
-  "fetchedAt": "2026-04-07T11:31:44.739Z"
+  "fetchedAt": "2026-04-07T16:33:58.433Z"
 }

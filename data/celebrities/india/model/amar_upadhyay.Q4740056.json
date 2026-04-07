@@ -1,5 +1,5 @@
 {
-  "publicId": "33b87173",
+  "publicId": "2d8911c2",
   "wikipediaSlug": "Amar_Upadhyay",
   "wikipediaId": "Q4740056",
   "name": "Amar Upadhyay",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "23.021944444",
   "birthCoordinatesLng": "72.579722222",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "6",
+  "sunSign": "4",
+  "lagnaSignText": "7",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -26,5 +24,5 @@
   ],
   "qid": "Q4740056",
   "birthPlace": "Ahmedabad",
-  "fetchedAt": "2026-04-07T12:18:12.370Z"
+  "fetchedAt": "2026-04-07T16:24:43.475Z"
 }

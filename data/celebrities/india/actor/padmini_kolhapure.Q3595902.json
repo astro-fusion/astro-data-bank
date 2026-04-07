@@ -1,5 +1,5 @@
 {
-  "publicId": "fc5f9fef",
+  "publicId": "a70fc4a2",
   "wikipediaSlug": "Padmini_Kolhapure",
   "wikipediaId": "Q3595902",
   "name": "Padmini Kolhapure",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "18.97",
   "birthCoordinatesLng": "72.82",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "10",
+  "sunSign": "7",
+  "lagnaSignText": "9",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q3595902",
   "birthPlace": "Maharashtra",
-  "fetchedAt": "2026-04-07T11:32:21.527Z"
+  "fetchedAt": "2026-04-07T16:34:33.213Z"
 }

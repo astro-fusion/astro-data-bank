@@ -1,5 +1,5 @@
 {
-  "publicId": "67decda8",
+  "publicId": "b0e2ea8d",
   "wikipediaSlug": "Alia_Bhatt",
   "wikipediaId": "Q4725343",
   "name": "Alia Bhatt",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "9",
+  "sunSign": "12",
+  "lagnaSignText": "2",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -26,5 +24,5 @@
   ],
   "qid": "Q4725343",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T11:31:33.486Z"
+  "fetchedAt": "2026-04-07T16:33:48.396Z"
 }

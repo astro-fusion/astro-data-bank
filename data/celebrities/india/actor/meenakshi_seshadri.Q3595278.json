@@ -1,5 +1,5 @@
 {
-  "publicId": "afa7ca36",
+  "publicId": "9358b001",
   "wikipediaSlug": "Meenakshi_Seshadri",
   "wikipediaId": "Q3595278",
   "name": "Meenakshi Seshadri",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "23.75",
   "birthCoordinatesLng": "86.7",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "7",
+  "sunSign": "7",
+  "lagnaSignText": "10",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q3595278",
   "birthPlace": "Sindri",
-  "fetchedAt": "2026-04-07T11:32:09.755Z"
+  "fetchedAt": "2026-04-07T16:34:22.350Z"
 }

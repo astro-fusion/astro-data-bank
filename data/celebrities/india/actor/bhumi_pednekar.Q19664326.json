@@ -1,5 +1,5 @@
 {
-  "publicId": "50defda2",
+  "publicId": "1622f9ca",
   "wikipediaSlug": "Bhumi_Pednekar",
   "wikipediaId": "Q19664326",
   "name": "Bhumi Pednekar",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "9",
+  "sunSign": "4",
+  "lagnaSignText": "6",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q19664326",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T11:31:43.117Z"
+  "fetchedAt": "2026-04-07T16:33:51.600Z"
 }

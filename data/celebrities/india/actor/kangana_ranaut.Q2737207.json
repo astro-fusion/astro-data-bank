@@ -1,5 +1,5 @@
 {
-  "publicId": "58f6e506",
+  "publicId": "816d20b7",
   "wikipediaSlug": "Kangana_Ranaut",
   "wikipediaId": "Q2737207",
   "name": "Kangana Ranaut",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "31.709388888",
   "birthCoordinatesLng": "76.931694444",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "5",
+  "sunSign": "12",
+  "lagnaSignText": "3",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q2737207",
   "birthPlace": "Mandi district",
-  "fetchedAt": "2026-04-07T12:14:24.354Z"
+  "fetchedAt": "2026-04-07T16:34:24.538Z"
 }

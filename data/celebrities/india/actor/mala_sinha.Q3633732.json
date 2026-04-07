@@ -1,5 +1,5 @@
 {
-  "publicId": "41d21f0c",
+  "publicId": "deedecb1",
   "wikipediaSlug": "Mala_Sinha",
   "wikipediaId": "Q3633732",
   "name": "Mala Sinha",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "22.5675",
   "birthCoordinatesLng": "88.37",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "6",
+  "sunSign": "7",
+  "lagnaSignText": "10",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q3633732",
   "birthPlace": "Kolkata",
-  "fetchedAt": "2026-04-07T11:31:59.261Z"
+  "fetchedAt": "2026-04-07T16:34:12.257Z"
 }

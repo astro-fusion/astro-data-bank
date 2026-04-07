@@ -1,5 +1,5 @@
 {
-  "publicId": "98c2cf35",
+  "publicId": "6121f31e",
   "wikipediaSlug": "Mary_Kom",
   "wikipediaId": "Q328951",
   "name": "Mary Kom",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "24.81",
   "birthCoordinatesLng": "93.94",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "1",
+  "sunSign": "11",
+  "lagnaSignText": "3",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q328951",
   "birthPlace": "Manipur",
-  "fetchedAt": "2026-04-07T11:32:22.282Z"
+  "fetchedAt": "2026-04-07T16:34:33.970Z"
 }

@@ -1,5 +1,5 @@
 {
-  "publicId": "87b5d465",
+  "publicId": "77a15004",
   "wikipediaSlug": "Geeta_Bali",
   "wikipediaId": "Q2360377",
   "name": "Geeta Bali",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "31.626917",
   "birthCoordinatesLng": "74.87704",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "10",
+  "sunSign": "9",
+  "lagnaSignText": "12",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q2360377",
   "birthPlace": "Amritsar",
-  "fetchedAt": "2026-04-07T11:31:56.645Z"
+  "fetchedAt": "2026-04-07T16:34:02.133Z"
 }

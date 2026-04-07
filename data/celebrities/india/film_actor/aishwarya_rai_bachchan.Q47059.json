@@ -1,5 +1,5 @@
 {
-  "publicId": "0847dbe7",
+  "publicId": "a06e3ff8",
   "wikipediaSlug": "Aishwarya_Rai_Bachchan",
   "wikipediaId": "Q47059",
   "name": "Aishwarya Rai Bachchan",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "12.871666666",
   "birthCoordinatesLng": "74.8425",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "9",
+  "sunSign": "7",
+  "lagnaSignText": "10",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -27,5 +25,5 @@
   ],
   "qid": "Q47059",
   "birthPlace": "Mangaluru",
-  "fetchedAt": "2026-04-07T11:31:31.614Z"
+  "fetchedAt": "2026-04-07T16:33:49.351Z"
 }

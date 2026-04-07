@@ -1,5 +1,5 @@
 {
-  "publicId": "66238fbd",
+  "publicId": "b93f1eb6",
   "wikipediaSlug": "Anarkali",
   "wikipediaId": "Q3595744",
   "name": "Anarkali",
@@ -11,16 +11,14 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "6",
+  "sunSign": "9",
+  "lagnaSignText": "12",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [],
   "qid": "Q3595744",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T11:31:34.364Z"
+  "fetchedAt": "2026-04-07T16:33:49.919Z"
 }

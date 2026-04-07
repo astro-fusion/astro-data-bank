@@ -1,5 +1,5 @@
 {
-  "publicId": "f643781e",
+  "publicId": "598f27a4",
   "wikipediaSlug": "Katrina_Kaif",
   "wikipediaId": "Q9550",
   "name": "Katrina Kaif",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "22.280068253",
   "birthCoordinatesLng": "114.160327229",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "6",
+  "sunSign": "3",
+  "lagnaSignText": "7",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q9550",
   "birthPlace": "British Hong Kong",
-  "fetchedAt": "2026-04-07T12:19:26.036Z"
+  "fetchedAt": "2026-04-07T16:34:22.814Z"
 }

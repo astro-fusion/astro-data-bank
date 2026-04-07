@@ -1,5 +1,5 @@
 {
-  "publicId": "79312912",
+  "publicId": "d42a95ff",
   "wikipediaSlug": "Preity_Zinta",
   "wikipediaId": "Q188671",
   "name": "Preity Zinta",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "31.103333333",
   "birthCoordinatesLng": "77.172222222",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "6",
+  "sunSign": "10",
+  "lagnaSignText": "1",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q188671",
   "birthPlace": "Shimla",
-  "fetchedAt": "2026-04-07T11:32:46.120Z"
+  "fetchedAt": "2026-04-07T16:34:37.357Z"
 }

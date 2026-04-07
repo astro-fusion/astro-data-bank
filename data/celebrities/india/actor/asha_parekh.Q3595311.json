@@ -1,5 +1,5 @@
 {
-  "publicId": "95c87c7d",
+  "publicId": "3ede747a",
   "wikipediaSlug": "Asha_Parekh",
   "wikipediaId": "Q3595311",
   "name": "Asha Parekh",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "12.9791198",
   "birthCoordinatesLng": "77.5912997",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "3",
+  "sunSign": "6",
+  "lagnaSignText": "9",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -27,5 +25,5 @@
   ],
   "qid": "Q3595311",
   "birthPlace": "Bengaluru",
-  "fetchedAt": "2026-04-07T11:31:31.162Z"
+  "fetchedAt": "2026-04-07T16:33:48.880Z"
 }

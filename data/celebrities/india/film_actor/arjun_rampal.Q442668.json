@@ -1,5 +1,5 @@
 {
-  "publicId": "d080d6d2",
+  "publicId": "2f9ee23c",
   "wikipediaSlug": "Arjun_Rampal",
   "wikipediaId": "Q442668",
   "name": "Arjun Rampal",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "23.166666666",
   "birthCoordinatesLng": "79.933333333",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "4",
+  "sunSign": "8",
+  "lagnaSignText": "11",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -26,5 +24,5 @@
   ],
   "qid": "Q442668",
   "birthPlace": "Jabalpur",
-  "fetchedAt": "2026-04-07T12:17:11.618Z"
+  "fetchedAt": "2026-04-07T16:25:20.223Z"
 }

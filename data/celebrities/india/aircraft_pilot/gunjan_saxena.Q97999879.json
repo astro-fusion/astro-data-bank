@@ -1,5 +1,5 @@
 {
-  "publicId": "33b72181",
+  "publicId": "ab5c52f6",
   "wikipediaSlug": "Gunjan_Saxena",
   "wikipediaId": "Q97999879",
   "name": "Gunjan Saxena",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "26.847",
   "birthCoordinatesLng": "80.947",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "4",
+  "sunSign": "9",
+  "lagnaSignText": "12",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q97999879",
   "birthPlace": "Lucknow",
-  "fetchedAt": "2026-04-07T11:31:48.716Z"
+  "fetchedAt": "2026-04-07T16:34:01.199Z"
 }

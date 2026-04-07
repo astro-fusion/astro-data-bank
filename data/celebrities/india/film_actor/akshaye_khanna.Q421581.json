@@ -1,5 +1,5 @@
 {
-  "publicId": "3af0afa6",
+  "publicId": "bb835496",
   "wikipediaSlug": "Akshaye_Khanna",
   "wikipediaId": "Q421581",
   "name": "Akshaye Khanna",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "6",
+  "sunSign": "12",
+  "lagnaSignText": "3",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q421581",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T12:16:59.164Z"
+  "fetchedAt": "2026-04-07T16:24:44.666Z"
 }

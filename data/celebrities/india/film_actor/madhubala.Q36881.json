@@ -1,5 +1,5 @@
 {
-  "publicId": "659d567c",
+  "publicId": "d6541336",
   "wikipediaSlug": "Madhubala",
   "wikipediaId": "Q36881",
   "name": "Madhubala",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.613888888",
   "birthCoordinatesLng": "77.208888888",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "6",
+  "sunSign": "11",
+  "lagnaSignText": "2",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q36881",
   "birthPlace": "New Delhi",
-  "fetchedAt": "2026-04-07T11:31:57.096Z"
+  "fetchedAt": "2026-04-07T16:34:09.864Z"
 }

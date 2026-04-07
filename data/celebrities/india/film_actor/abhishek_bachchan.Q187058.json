@@ -1,5 +1,5 @@
 {
-  "publicId": "b5acbab4",
+  "publicId": "cfcd4fdb",
   "wikipediaSlug": "Abhishek_Bachchan",
   "wikipediaId": "Q187058",
   "name": "Abhishek Bachchan",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "12",
+  "sunSign": "10",
+  "lagnaSignText": "1",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -27,5 +25,5 @@
   ],
   "qid": "Q187058",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T12:16:46.394Z"
+  "fetchedAt": "2026-04-07T16:24:43.941Z"
 }

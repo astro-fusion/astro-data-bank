@@ -1,5 +1,5 @@
 {
-  "publicId": "16224953",
+  "publicId": "f1146a40",
   "wikipediaSlug": "Amjad_Khan_(actor)",
   "wikipediaId": "Q46392",
   "name": "Amjad Khan (actor)",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "12",
+  "sunSign": "7",
+  "lagnaSignText": "10",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q46392",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T12:17:03.379Z"
+  "fetchedAt": "2026-04-07T16:25:07.420Z"
 }

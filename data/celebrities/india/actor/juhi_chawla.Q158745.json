@@ -1,5 +1,5 @@
 {
-  "publicId": "445e2baa",
+  "publicId": "04a148cc",
   "wikipediaSlug": "Juhi_Chawla",
   "wikipediaId": "Q158745",
   "name": "Juhi Chawla",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "30.378611111",
   "birthCoordinatesLng": "76.7725",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "12",
+  "sunSign": "7",
+  "lagnaSignText": "10",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -28,5 +26,5 @@
   ],
   "qid": "Q158745",
   "birthPlace": "Ambala",
-  "fetchedAt": "2026-04-07T11:31:55.752Z"
+  "fetchedAt": "2026-04-07T16:34:09.418Z"
 }

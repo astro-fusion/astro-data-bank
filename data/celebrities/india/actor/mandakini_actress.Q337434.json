@@ -1,5 +1,5 @@
 {
-  "publicId": "ff8e67a2",
+  "publicId": "f603fb4e",
   "wikipediaSlug": "Mandakini_(actress)",
   "wikipediaId": "Q337434",
   "name": "Mandakini (actress)",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.98",
   "birthCoordinatesLng": "77.706388888",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "10",
+  "sunSign": "4",
+  "lagnaSignText": "7",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +22,5 @@
   ],
   "qid": "Q337434",
   "birthPlace": "Meerut",
-  "fetchedAt": "2026-04-07T11:32:11.775Z"
+  "fetchedAt": "2026-04-07T16:34:21.575Z"
 }

@@ -1,5 +1,5 @@
 {
-  "publicId": "b64704d5",
+  "publicId": "15959608",
   "wikipediaSlug": "Neena_Gupta",
   "wikipediaId": "Q6986875",
   "name": "Neena Gupta",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.666666666",
   "birthCoordinatesLng": "77.216666666",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "1",
+  "sunSign": "2",
+  "lagnaSignText": "5",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -29,5 +27,5 @@
   ],
   "qid": "Q6986875",
   "birthPlace": "Delhi",
-  "fetchedAt": "2026-04-07T11:32:20.732Z"
+  "fetchedAt": "2026-04-07T16:34:36.816Z"
 }

@@ -1,5 +1,5 @@
 {
-  "publicId": "e1b3dd69",
+  "publicId": "0d43d7cd",
   "wikipediaSlug": "Deepika_Padukone",
   "wikipediaId": "Q159178",
   "name": "Deepika Padukone",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "55.676111111",
   "birthCoordinatesLng": "12.568888888",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "7",
+  "sunSign": "9",
+  "lagnaSignText": "9",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -26,5 +24,5 @@
   ],
   "qid": "Q159178",
   "birthPlace": "Copenhagen",
-  "fetchedAt": "2026-04-07T11:31:44.269Z"
+  "fetchedAt": "2026-04-07T16:33:58.902Z"
 }

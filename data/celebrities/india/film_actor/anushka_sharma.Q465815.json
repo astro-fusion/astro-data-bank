@@ -1,5 +1,5 @@
 {
-  "publicId": "f2fc70fa",
+  "publicId": "6b346495",
   "wikipediaSlug": "Anushka_Sharma",
   "wikipediaId": "Q465815",
   "name": "Anushka Sharma",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "26.799166666",
   "birthCoordinatesLng": "82.204444444",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "7",
+  "sunSign": "1",
+  "lagnaSignText": "4",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -27,5 +25,5 @@
   ],
   "qid": "Q465815",
   "birthPlace": "Ayodhya",
-  "fetchedAt": "2026-04-07T11:31:34.033Z"
+  "fetchedAt": "2026-04-07T16:33:49.821Z"
 }

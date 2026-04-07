@@ -1,5 +1,5 @@
 {
-  "publicId": "b2b09450",
+  "publicId": "89164e51",
   "wikipediaSlug": "Bhagyashree",
   "wikipediaId": "Q3537444",
   "name": "Bhagyashree",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "2",
+  "sunSign": "11",
+  "lagnaSignText": "2",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -26,5 +24,5 @@
   ],
   "qid": "Q3537444",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T11:31:36.495Z"
+  "fetchedAt": "2026-04-07T16:33:51.088Z"
 }

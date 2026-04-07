@@ -1,5 +1,5 @@
 {
-  "publicId": "a3569ee5",
+  "publicId": "dd3fbe23",
   "wikipediaSlug": "Janhvi_Kapoor",
   "wikipediaId": "Q22290570",
   "name": "Janhvi Kapoor",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "10",
+  "sunSign": "11",
+  "lagnaSignText": "2",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -25,5 +23,5 @@
   ],
   "qid": "Q22290570",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T11:31:58.583Z"
+  "fetchedAt": "2026-04-07T16:34:11.346Z"
 }

@@ -1,5 +1,5 @@
 {
-  "publicId": "a62366f7",
+  "publicId": "ecf6a20d",
   "wikipediaSlug": "Manisha_Koirala",
   "wikipediaId": "Q186606",
   "name": "Manisha Koirala",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "27.71",
   "birthCoordinatesLng": "85.32",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "10",
+  "sunSign": "4",
+  "lagnaSignText": "7",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -28,5 +26,5 @@
   ],
   "qid": "Q186606",
   "birthPlace": "Kathmandu",
-  "fetchedAt": "2026-04-07T11:31:59.773Z"
+  "fetchedAt": "2026-04-07T16:34:14.129Z"
 }

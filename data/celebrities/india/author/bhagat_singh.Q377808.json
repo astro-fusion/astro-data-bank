@@ -1,5 +1,5 @@
 {
-  "publicId": "3d91a4c9",
+  "publicId": "362382a8",
   "wikipediaSlug": "Bhagat_Singh",
   "wikipediaId": "Q377808",
   "name": "Bhagat Singh",
@@ -9,8 +9,8 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhagat_Singh",
   "dateOfBirth": "1907-09-27",
   "birthTime": "12:00:00",
-  "birthCoordinatesLat": "22.541111111",
-  "birthCoordinatesLng": "88.337777777",
+  "birthCoordinatesLat": "31.24",
+  "birthCoordinatesLng": "73.18",
   "moonSign": null,
   "sunSign": null,
   "lagnaSignText": null,
@@ -25,6 +25,6 @@
     "revolutionary"
   ],
   "qid": "Q377808",
-  "birthPlace": "British Raj",
-  "fetchedAt": "2026-04-07T11:29:22.382Z"
+  "birthPlace": "Banga",
+  "fetchedAt": "2026-04-07T16:00:05.663Z"
 }

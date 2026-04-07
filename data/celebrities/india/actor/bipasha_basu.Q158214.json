@@ -1,5 +1,5 @@
 {
-  "publicId": "534bc6c6",
+  "publicId": "9900f2e7",
   "wikipediaSlug": "Bipasha_Basu",
   "wikipediaId": "Q158214",
   "name": "Bipasha Basu",
@@ -11,12 +11,10 @@
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.613888888",
   "birthCoordinatesLng": "77.208888888",
-  "moonSign": null,
-  "sunSign": null,
-  "lagnaSignText": null,
-  "planetaryCombinationIndex": [
-    "Manual_Sync_Required"
-  ],
+  "moonSign": "1",
+  "sunSign": "9",
+  "lagnaSignText": "12",
+  "planetaryCombinationIndex": null,
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -26,5 +24,5 @@
   ],
   "qid": "Q158214",
   "birthPlace": "New Delhi",
-  "fetchedAt": "2026-04-07T11:31:35.075Z"
+  "fetchedAt": "2026-04-07T16:33:50.370Z"
 }
