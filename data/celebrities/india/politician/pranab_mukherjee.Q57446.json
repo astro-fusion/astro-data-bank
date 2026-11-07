@@ -1,0 +1,34 @@
+{
+  "publicId": "2d2e0687",
+  "wikipediaSlug": "Pranab_Mukherjee",
+  "wikipediaId": "Q57446",
+  "name": "Pranab Mukherjee",
+  "fullName": "Pranab Mukherjee",
+  "profileSummary": "Pranab Mukherjee was an Indian politician who served as the president of India from 2012 until 2017. He was the first person from West Bengal to hold the post of President of India. In a political career spanning five decades, Mukherjee was a senior leader in the Indian National Congress and occupied several top ministerial portfolios in the Government of India. Prior to his election as President, Mukherjee was Finance Minister from 2009 to 2012 also in 1982 to 1984. He was awarded India's highest civilian honour, the Bharat Ratna, in 2019, by his successor as president, Ram Nath Kovind.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pranab_Mukherjee_Portrait_%28cropped%29.jpg/330px-Pranab_Mukherjee_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pranab_Mukherjee",
+  "dateOfBirth": "1935-12-11",
+  "birthDateParsed": "1935-12-11",
+  "dateOfDeath": "2020-08-31",
+  "deathDateParsed": "2020-08-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.791467",
+  "birthCoordinatesLng": "87.878567",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "autobiographer",
+    "jurist",
+    "finance minister"
+  ],
+  "qid": "Q57446",
+  "birthPlace": "Mirati",
+  "fetchedAt": "2026-08-07T10:33:24.350Z"
+}

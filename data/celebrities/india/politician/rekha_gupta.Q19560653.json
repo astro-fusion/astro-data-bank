@@ -1,20 +1,25 @@
 {
-  "publicId": "668dc769",
+  "publicId": "a59e1697",
   "wikipediaSlug": "Rekha_Gupta",
   "wikipediaId": "Q19560653",
   "name": "Rekha Gupta",
   "fullName": "Rekha Gupta",
-  "profileSummary": "Rekha Gupta is an Indian politician who is serving as the current Chief Minister of Delhi from February 2025. A member of Bharatiya Janata Party (BJP), she has been the MLA for Shalimar Bagh since 2025.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chief_Minister_of_Delhi%2C_Smt._Rekha_Gupta.jpg/330px-Chief_Minister_of_Delhi%2C_Smt._Rekha_Gupta.jpg",
+  "profileSummary": "Rekha Gupta is an Indian politician serving as the current Chief Minister of Delhi from February 2025. A member of Bharatiya Janata Party (BJP), she has been the MLA for Shalimar Bagh since 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chief_Minister_of_Delhi%2C_Smt._Rekha_Gupta.jpg/330px-Chief_Minister_of_Delhi%2C_Smt._Rekha_Gupta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Rekha_Gupta",
   "dateOfBirth": "1974-07-19",
+  "birthDateParsed": "1974-07-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "3",
-  "sunSign": "4",
-  "lagnaSignText": "6",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q19560653",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:16:23.489Z"
+  "fetchedAt": "2026-08-09T12:07:27.676Z"
 }

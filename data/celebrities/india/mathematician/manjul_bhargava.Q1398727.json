@@ -1,0 +1,32 @@
+{
+  "publicId": "97e4d487",
+  "wikipediaSlug": "Manjul_Bhargava",
+  "wikipediaId": "Q1398727",
+  "name": "Manjul Bhargava",
+  "fullName": "Manjul Bhargava",
+  "profileSummary": "Manjul Bhargava is a Canadian-American mathematician. He is the Robert Gunning-Brandon Fradd, Class of 1983, Professor of Mathematics at Princeton University, the Stieltjes Professor of Number Theory at Leiden University, and also holds Adjunct Professorships at the Tata Institute of Fundamental Research, the Indian Institute of Technology Bombay, and the University of Hyderabad. He is known primarily for his contributions to number theory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Manjul_Bhargava_FieldsMedal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manjul_Bhargava",
+  "dateOfBirth": "1974-08-08",
+  "birthDateParsed": "1974-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.256666666",
+  "birthCoordinatesLng": "-79.869166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q1398727",
+  "birthPlace": "Hamilton",
+  "fetchedAt": "2026-08-06T07:28:12.648Z"
+}

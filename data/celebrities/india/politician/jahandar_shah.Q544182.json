@@ -1,0 +1,31 @@
+{
+  "publicId": "4ab3ec10",
+  "wikipediaSlug": "Jahandar_Shah",
+  "wikipediaId": "Q544182",
+  "name": "Jahandar Shah",
+  "fullName": "Jahandar Shah",
+  "profileSummary": "Jahandar Shah was the ninth Mughal emperor briefly from 1712 to 1713.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jahandar_Shah%2C_Mughal_Emperor..jpg/330px-Jahandar_Shah%2C_Mughal_Emperor..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jahandar_Shah",
+  "dateOfBirth": "1661-05-09",
+  "birthDateParsed": "1661-05-09",
+  "dateOfDeath": "1713-02-12",
+  "deathDateParsed": "1713-02-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "15",
+  "birthCoordinatesLng": "77",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q544182",
+  "birthPlace": "Deccan Plateau",
+  "fetchedAt": "2026-08-07T11:48:59.414Z"
+}

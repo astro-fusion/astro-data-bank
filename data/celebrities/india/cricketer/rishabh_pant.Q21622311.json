@@ -1,0 +1,31 @@
+{
+  "publicId": "43ddbb46",
+  "wikipediaSlug": "Rishabh_Pant",
+  "wikipediaId": "Q21622311",
+  "name": "Rishabh Pant",
+  "fullName": "Rishabh Pant",
+  "profileSummary": "Rishabh Rajendra Pant is an Indian international cricketer who plays for the Indian national team as a wicket-keeper batter. He plays for the Delhi Capitals in the Indian Premier League and Delhi in domestic cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rishabh_Pant.jpg/330px-Rishabh_Pant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rishabh_Pant",
+  "dateOfBirth": "1997-10-04",
+  "birthDateParsed": "1997-10-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.966666666",
+  "birthCoordinatesLng": "78.166666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q21622311",
+  "birthPlace": "Haridwar",
+  "fetchedAt": "2026-08-06T16:12:15.269Z"
+}

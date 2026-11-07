@@ -1,0 +1,31 @@
+{
+  "publicId": "36c33905",
+  "wikipediaSlug": "Michael_Hussey",
+  "wikipediaId": "Q174147",
+  "name": "Michael Hussey",
+  "fullName": "Michael Hussey",
+  "profileSummary": "Michael Edward Killeen Hussey is an Australian cricket coach, commentator and former international cricketer, who played all forms of the game. Hussey is also widely known by his nickname 'Mr Cricket'. Hussey was a relative latecomer to both the Australian one-day international and Test teams, debuting at 28 and 30 years of age in the respective formats, with 15,313 first-class runs before making his Test debut. With his time representing Australia, Hussey won multiple ICC titles with the team: the 2007 Cricket World Cup, the 2006 ICC Champions Trophy, and the 2009 ICC Champions Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Michael_Hussey_2022.jpg/330px-Michael_Hussey_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Hussey",
+  "dateOfBirth": "1975-05-27",
+  "birthDateParsed": "1975-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.887",
+  "birthCoordinatesLng": "115.907",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q174147",
+  "birthPlace": "Morley",
+  "fetchedAt": "2026-08-09T03:16:06.787Z"
+}

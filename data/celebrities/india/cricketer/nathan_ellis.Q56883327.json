@@ -1,0 +1,31 @@
+{
+  "publicId": "c4625c55",
+  "wikipediaSlug": "Nathan_Ellis",
+  "wikipediaId": "Q56883327",
+  "name": "Nathan Ellis",
+  "fullName": "Nathan Ellis",
+  "profileSummary": "Nathan Trevor Ellis is an Australian cricketer. He made his international debut for the Australia cricket team in August 2021. He made history when he became the first cricketer to take a hat-trick on his debut in a Twenty20 International (T20I) match.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathan_Ellis",
+  "dateOfBirth": "1994-09-22",
+  "birthDateParsed": "1994-09-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q56883327",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-09T03:16:49.405Z"
+}

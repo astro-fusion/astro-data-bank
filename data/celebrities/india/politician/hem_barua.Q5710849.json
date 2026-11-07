@@ -1,0 +1,32 @@
+{
+  "publicId": "c416c81d",
+  "wikipediaSlug": "Hem_Barua",
+  "wikipediaId": "Q5710849",
+  "name": "Hem Barua",
+  "fullName": "Hem Barua",
+  "profileSummary": "Hem Barua was a prominent Indian writeer, poet, and politician from Assam who was one of the pioneers of the modern literary movement in the state.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/HemBaruaPic.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hem_Barua",
+  "dateOfBirth": "1915-04-22",
+  "birthDateParsed": "1915-04-22",
+  "dateOfDeath": "1977-04-09",
+  "deathDateParsed": "1977-04-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.62",
+  "birthCoordinatesLng": "92.79",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "poet"
+  ],
+  "qid": "Q5710849",
+  "birthPlace": "Tezpur",
+  "fetchedAt": "2026-08-07T01:44:23.989Z"
+}

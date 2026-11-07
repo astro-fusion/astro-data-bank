@@ -1,0 +1,31 @@
+{
+  "publicId": "df330ebe",
+  "wikipediaSlug": "Josh_Hazlewood",
+  "wikipediaId": "Q6288970",
+  "name": "Josh Hazlewood",
+  "fullName": "Josh Hazlewood",
+  "profileSummary": "Josh Reginald Hazlewood is an Australian international cricketer. He is a pace bowler known for his accuracy and has been compared to former Australian paceman Glenn McGrath. He has captained Australia in an ODI and served as a Test vice-captain after the 2018 Australian ball-tampering scandal, following which Australia's then captain Steve Smith and vice-captain David Warner had stood down. Hazlewood currently ranks no. 6 in Test, no. 8 in ODI and no. 10 in T20I in the ICC Men's Player Rankings. He won multiple ICC tournaments with the Australian team: the 2015 Cricket World Cup, the 2021 T20 World Cup and the 2023 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2018_Josh_Hazlewood_%28cropped%29.jpg/330px-2018_Josh_Hazlewood_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josh_Hazlewood",
+  "dateOfBirth": "1991-01-08",
+  "birthDateParsed": "1991-01-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.090555555",
+  "birthCoordinatesLng": "150.9316667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6288970",
+  "birthPlace": "Tamworth",
+  "fetchedAt": "2026-08-09T03:15:33.097Z"
+}

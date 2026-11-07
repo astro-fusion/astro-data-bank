@@ -1,0 +1,33 @@
+{
+  "publicId": "8a132fd7",
+  "wikipediaSlug": "Gopinath_Kartha",
+  "wikipediaId": "Q5584302",
+  "name": "Gopinath Kartha",
+  "fullName": "Gopinath Kartha",
+  "profileSummary": "Gopinath Kartha was a crystallographer of Indian origin. In 1967, he determined the molecular structure of the enzyme ribonuclease.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gopinath_Kartha",
+  "dateOfBirth": "1927-01-26",
+  "birthDateParsed": "1927-01-26",
+  "dateOfDeath": "1984-06-18",
+  "deathDateParsed": "1984-06-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.686210395",
+  "birthCoordinatesLng": "76.342589113",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "crystallographer",
+    "biophysicist"
+  ],
+  "qid": "Q5584302",
+  "birthPlace": "Cherthala",
+  "fetchedAt": "2026-08-06T04:18:51.845Z"
+}

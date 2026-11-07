@@ -1,0 +1,31 @@
+{
+  "publicId": "d1c6c3d3",
+  "wikipediaSlug": "Doug_Bollinger",
+  "wikipediaId": "Q3037928",
+  "name": "Doug Bollinger",
+  "fullName": "Doug Bollinger",
+  "profileSummary": "Douglas Erwin Bollinger is a former Australian cricketer. He has played first-class cricket for the New South Wales cricket team and international cricket for Australia. He is a left-handed batsman and a left-arm fast bowler. Bollinger has played for Worcestershire County Cricket Club and Kent County Cricket Club in England, for the Chennai Super Kings in the Indian Premier League and for Hobart Hurricanes, Sydney Thunder and Sydney Sixers in domestic T20 competition. He announced his retirement from all forms of cricket on 5 February 2018. Bollinger was a member of the Australian squad which won the 2009 ICC Champions Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Doug_Bollinger.jpg/330px-Doug_Bollinger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Doug_Bollinger",
+  "dateOfBirth": "1981-07-24",
+  "birthDateParsed": "1981-07-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3037928",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-09T03:15:24.903Z"
+}

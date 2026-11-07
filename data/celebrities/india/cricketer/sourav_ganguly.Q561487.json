@@ -1,0 +1,33 @@
+{
+  "publicId": "95feee76",
+  "wikipediaSlug": "Sourav_Ganguly",
+  "wikipediaId": "Q561487",
+  "name": "Sourav Ganguly",
+  "fullName": "Sourav Ganguly",
+  "profileSummary": "Sourav Chandidas Ganguly is an Indian cricket administrator and former cricketer and captain of the Indian national cricket team. He is popularly called the Maharaja of Indian Cricket. He is regarded as one of India's most successful cricket captains. As captain, he led Indian national team to win the 2002 ICC Champions Trophy and reach the final of the 2003 Cricket World Cup, the 2000 ICC Champions Trophy and the 2004 Asia Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sourav_Ganguly_%28late_2010s%29.jpg/330px-Sourav_Ganguly_%28late_2010s%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sourav_Ganguly",
+  "dateOfBirth": "1972-07-08",
+  "birthDateParsed": "1972-07-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "sports executive",
+    "athlete"
+  ],
+  "qid": "Q561487",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-09T16:53:34.867Z"
+}

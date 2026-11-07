@@ -1,0 +1,31 @@
+{
+  "publicId": "bcc50f23",
+  "wikipediaSlug": "Shah_Alam_II",
+  "wikipediaId": "Q719449",
+  "name": "Shah Alam II",
+  "fullName": "Shah Alam II",
+  "profileSummary": "Shah Alam II, also known by his birth name Ali Gohar, or Ali Gauhar, was the seventeenth Mughal emperor and the son of Alamgir II.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Shahalam2.png/330px-Shahalam2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shah_Alam_II",
+  "dateOfBirth": "1728-06-25",
+  "birthDateParsed": "1728-06-25",
+  "dateOfDeath": "1806-11-19",
+  "deathDateParsed": "1806-11-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.66",
+  "birthCoordinatesLng": "77.23",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet"
+  ],
+  "qid": "Q719449",
+  "birthPlace": "Old Delhi",
+  "fetchedAt": "2026-08-07T11:49:33.115Z"
+}

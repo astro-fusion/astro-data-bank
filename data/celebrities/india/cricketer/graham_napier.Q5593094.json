@@ -1,0 +1,31 @@
+{
+  "publicId": "242f95dc",
+  "wikipediaSlug": "Graham_Napier",
+  "wikipediaId": "Q5593094",
+  "name": "Graham Napier",
+  "fullName": "Graham Napier",
+  "profileSummary": "Graham Richard Napier is an English former cricketer. He was a right-handed batsman and a right-arm medium pace bowler.\nNapier played first-class cricket for his home county of Essex since the outset of his senior career in 1997. Between 1997 and 1999 Napier played in four Youth Test matches in England against Zimbabwe, South Africa (twice) and Australia's respective under-19 teams. He was also a member of the 1998 Under-19 Cricket World Cup winning squad. Napier was on the books of Ipswich Town as a goalkeeper and played for a season on loan at Felixstowe Town. He retired at the end of the 2016 season.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Graham_Napier_Profile_Photo.jpg/330px-Graham_Napier_Profile_Photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Graham_Napier",
+  "dateOfBirth": "1980-01-06",
+  "birthDateParsed": "1980-01-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.888611",
+  "birthCoordinatesLng": "0.903611",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5593094",
+  "birthPlace": "Colchester",
+  "fetchedAt": "2026-08-08T13:53:06.560Z"
+}

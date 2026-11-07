@@ -1,0 +1,31 @@
+{
+  "publicId": "603d8a50",
+  "wikipediaSlug": "Chris_Jordan_(cricketer)",
+  "wikipediaId": "Q5107047",
+  "name": "Chris Jordan (cricketer)",
+  "fullName": "Chris Jordan (cricketer)",
+  "profileSummary": "Christopher James Jordan is a Bajan British cricketer who plays for England in One Day International (ODI) and Twenty20 International (T20I) cricket, and previously played for the Test team. In domestic cricket, he represents Surrey, having previously played for Sussex, and has played in multiple Twenty20 leagues.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The_Prime_Minister_welcomes_the_World_Cup_winning_cricketers_%2852764885608%29.jpg/330px-The_Prime_Minister_welcomes_the_World_Cup_winning_cricketers_%2852764885608%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Jordan_(cricketer)",
+  "dateOfBirth": "1988-10-04",
+  "birthDateParsed": "1988-10-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.17",
+  "birthCoordinatesLng": "-59.5525",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5107047",
+  "birthPlace": "Barbados",
+  "fetchedAt": "2026-08-09T03:14:55.604Z"
+}

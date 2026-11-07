@@ -1,0 +1,31 @@
+{
+  "publicId": "b541401a",
+  "wikipediaSlug": "Asoke_Nath_Mitra",
+  "wikipediaId": "Q16091107",
+  "name": "Asoke Nath Mitra",
+  "fullName": "Asoke Nath Mitra",
+  "profileSummary": "Asoke Nath Mitra was an Indian theoretical physicist. He was a lifetime professor emeritus at Delhi University. He is known for his work in nuclear physics, particle physics and quantum field theory and in particular, for his fundamental contributions in obtaining the exact solution of the nucleon 3- body problem with separable potentials which led to the few nucleon studies, quark-recoil effect, development of an integrated dynamics of 2- and 3- body systems from nucleons to quarks as well as for the development of quark dynamics and relativistic quark models for hadrons in the Bethe-Salpeter framework. He was awarded the Shanti Swarup Bhatnagar Prize in 1969.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Asoke_Nath_Mitra_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Asoke_Nath_Mitra",
+  "dateOfBirth": "1929-04-15",
+  "birthDateParsed": "1929-04-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.366666666",
+  "birthCoordinatesLng": "88.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q16091107",
+  "birthPlace": "Rajshahi",
+  "fetchedAt": "2026-08-06T04:18:42.080Z"
+}

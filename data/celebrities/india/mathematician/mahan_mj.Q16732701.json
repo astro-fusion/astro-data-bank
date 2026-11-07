@@ -1,0 +1,31 @@
+{
+  "publicId": "eaaef6fc",
+  "wikipediaSlug": "Mahan_Mj",
+  "wikipediaId": "Q16732701",
+  "name": "Mahan Mj",
+  "fullName": "Mahan Mj",
+  "profileSummary": "Mahan Maharaj, also known as Mahan Mj and Swami Vidyanathananda, is an Indian mathematician and monk of the Ramakrishna Order. He is currently Professor of Mathematics at the Tata Institute of Fundamental Research in Mumbai. He is a recipient of the 2025 Vigyan Shree Award 2011 Shanti Swarup Bhatnagar Award in mathematical sciences and the Infosys Prize 2015 for Mathematical Sciences. He is best known for his work in hyperbolic geometry, geometric group theory, low-dimensional topology and complex geometry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mahan_mj.webp/330px-Mahan_mj.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahan_Mj",
+  "dateOfBirth": "1968-04-05",
+  "birthDateParsed": "1968-04-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q16732701",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T07:28:16.259Z"
+}

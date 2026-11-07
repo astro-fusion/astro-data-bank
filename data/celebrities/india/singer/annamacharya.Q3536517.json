@@ -1,0 +1,33 @@
+{
+  "publicId": "f84f595e",
+  "wikipediaSlug": "Annamacharya",
+  "wikipediaId": "Q3536517",
+  "name": "Annamacharya",
+  "fullName": "Annamacharya",
+  "profileSummary": "Tallapaka Annamacharya, also known as Annamayya, was a Telugu composer and Hindu saint. Born in Thallapaka, he composed devotional songs known as saṁkīrtanas in praise of Venkateswara, a form of Vishnu. Annamacharya is widely regarded as one of the earliest known composers to systematically use the devotional saṁkīrtana format in Telugu devotional music..",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Annamacharya.jpg/330px-Annamacharya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annamacharya",
+  "dateOfBirth": "1408-05-18",
+  "birthDateParsed": "1408-05-18",
+  "dateOfDeath": "1503-03-05",
+  "deathDateParsed": "1503-03-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "poet"
+  ],
+  "qid": "Q3536517",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-07T01:41:50.858Z"
+}

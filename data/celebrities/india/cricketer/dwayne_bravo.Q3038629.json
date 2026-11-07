@@ -1,0 +1,32 @@
+{
+  "publicId": "6be2a59b",
+  "wikipediaSlug": "Dwayne_Bravo",
+  "wikipediaId": "Q3038629",
+  "name": "Dwayne Bravo",
+  "fullName": "Dwayne Bravo",
+  "profileSummary": "Dwayne John \"DJ\" Bravo is a Trinidadian retired cricketer, former captain of the West Indies cricket team and the current mentor of Kolkata Knight Riders as well as the head coach of the other teams of the Knight Riders Group, including Trinbago Knight Riders. A right-arm seam bowling all-rounder, Bravo was well known for his aggressive lower-order batting and for his bowling in the final overs of a match. During his prime, he was regarded as one of the best death bowlers in T20 cricket. He also performs as a singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bravo_at_IIFA_2017_Green_Carpet.jpg/330px-Bravo_at_IIFA_2017_Green_Carpet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dwayne_Bravo",
+  "dateOfBirth": "1983-10-07",
+  "birthDateParsed": "1983-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.716666666",
+  "birthCoordinatesLng": "-61.466666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "singer"
+  ],
+  "qid": "Q3038629",
+  "birthPlace": "Santa Cruz",
+  "fetchedAt": "2026-08-09T03:15:34.158Z"
+}

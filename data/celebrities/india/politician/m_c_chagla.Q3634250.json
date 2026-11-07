@@ -1,0 +1,35 @@
+{
+  "publicId": "39e4a814",
+  "wikipediaSlug": "M._C._Chagla",
+  "wikipediaId": "Q3634250",
+  "name": "M. C. Chagla",
+  "fullName": "M. C. Chagla",
+  "profileSummary": "Mahommedali Currim Chagla was an Indian jurist, diplomat, and Cabinet Minister who served as Chief Justice of the Bombay High Court from 1947 to 1958.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Mohamed_Ali_Currim_Chagla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/M._C._Chagla",
+  "dateOfBirth": "1900-09-30",
+  "birthDateParsed": "1900-09-30",
+  "dateOfDeath": "1981-02-09",
+  "deathDateParsed": "1981-02-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "judge",
+    "diplomat",
+    "barrister",
+    "lawyer"
+  ],
+  "qid": "Q3634250",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-07T10:33:00.565Z"
+}

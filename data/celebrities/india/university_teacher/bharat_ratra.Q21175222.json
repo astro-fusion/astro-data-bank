@@ -1,0 +1,31 @@
+{
+  "publicId": "ca6b28fe",
+  "wikipediaSlug": "Bharat_Ratra",
+  "wikipediaId": "Q21175222",
+  "name": "Bharat Ratra",
+  "fullName": "Bharat Ratra",
+  "profileSummary": "Bharat Vishnu Ratra is an Indian-American physicist, physical cosmologist and astroparticle physicist who is currently a university distinguished professor of physics at Kansas State University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bharat_Ratra.jpg/330px-Bharat_Ratra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bharat_Ratra",
+  "dateOfBirth": "1960-01-26",
+  "birthDateParsed": "1960-01-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher"
+  ],
+  "qid": "Q21175222",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-06T04:18:27.068Z"
+}

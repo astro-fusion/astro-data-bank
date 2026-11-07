@@ -1,0 +1,31 @@
+{
+  "publicId": "3c44313b",
+  "wikipediaSlug": "Mallikarjun_Kharge",
+  "wikipediaId": "Q6744197",
+  "name": "Mallikarjun Kharge",
+  "fullName": "Mallikarjun Kharge",
+  "profileSummary": "Mapanna Mallikarjun Kharge is an Indian politician and lawyer from the Indian state of Karnataka serving as the 61st President of the Indian National Congress since 2022 and Leader of the Opposition in Rajya Sabha since 2021. He has been a Member of Parliament, Rajya Sabha from Karnataka since 2020. He has been re-elected for Rajya Sabha in June 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mallikarjun_Kharge_briefing_the_media_after_presenting_the_Interim_Railway_Budget_2014-15_in_New_Delhi_%28cropped%29.jpg/330px-Mallikarjun_Kharge_briefing_the_media_after_presenting_the_Interim_Railway_Budget_2014-15_in_New_Delhi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mallikarjun_Kharge",
+  "dateOfBirth": "1942-07-21",
+  "birthDateParsed": "1942-07-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "15",
+  "birthCoordinatesLng": "76",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q6744197",
+  "birthPlace": "Karnataka",
+  "fetchedAt": "2026-08-07T10:33:01.004Z"
+}

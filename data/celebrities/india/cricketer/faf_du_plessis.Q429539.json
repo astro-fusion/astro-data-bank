@@ -1,0 +1,31 @@
+{
+  "publicId": "9e1e5aca",
+  "wikipediaSlug": "Faf_du_Plessis",
+  "wikipediaId": "Q429539",
+  "name": "Faf du Plessis",
+  "fullName": "Faf du Plessis",
+  "profileSummary": "François \"Faf\" du Plessis is a South African cricketer and former captain of the South Africa national cricket team. He is considered one of the greatest fielders of all time and among the best all-format batsmen of his era. One of the most successful international captains of his era with a winning percentage of 73.68 in ODIs, he is the first international captain to defeat Australia in Australia in all three formats of the game and defeat Australia in both Home and Away test series back to back, in 2016 and 2018. In 2016, he also became the first and only international captain to whitewash Australia defeating them 5–0 in a five match ODI series. Du Plessis was a major part in the success of Chennai Super Kings, helping them win two IPL titles and a Champions League title.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Faf_du_Plessis_2019_Boxing_Day.jpg/330px-Faf_du_Plessis_2019_Boxing_Day.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faf_du_Plessis",
+  "dateOfBirth": "1984-07-13",
+  "birthDateParsed": "1984-07-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-25.746388888",
+  "birthCoordinatesLng": "28.188055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q429539",
+  "birthPlace": "Pretoria",
+  "fetchedAt": "2026-08-09T03:15:25.525Z"
+}

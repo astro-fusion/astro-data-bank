@@ -1,0 +1,31 @@
+{
+  "publicId": "f3661f5f",
+  "wikipediaSlug": "David_Willey_(cricketer)",
+  "wikipediaId": "Q5241102",
+  "name": "David Willey (cricketer)",
+  "fullName": "David Willey (cricketer)",
+  "profileSummary": "David Jonathan Willey is an English former international cricketer. He is a left-handed batsman and bowler. He is the son of former England cricketer and international umpire Peter Willey. Willey was a member of the England team that won the 2022 T20 World Cup. On 1 November 2023, he announced his retirement from international cricket, following the 2023 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/David_Willey_%2851223172836%29_%28cropped%29.jpg/330px-David_Willey_%2851223172836%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Willey_(cricketer)",
+  "dateOfBirth": "1990-02-28",
+  "birthDateParsed": "1990-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.233333333",
+  "birthCoordinatesLng": "-0.9",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5241102",
+  "birthPlace": "Northampton",
+  "fetchedAt": "2026-08-09T03:14:57.913Z"
+}

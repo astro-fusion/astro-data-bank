@@ -1,0 +1,38 @@
+{
+  "publicId": "18475f3c",
+  "wikipediaSlug": "Amit_Chaudhuri",
+  "wikipediaId": "Q472352",
+  "name": "Amit Chaudhuri",
+  "fullName": "Amit Chaudhuri",
+  "profileSummary": "Amit Chaudhuri is a novelist, poet, essayist, literary critic, editor, singer, and music composer from India. He is currently a professor of creative writing at Ashoka University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Amit_Chaudhuri_-_Kolkata_2014-01-31_8218.JPG/330px-Amit_Chaudhuri_-_Kolkata_2014-01-31_8218.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amit_Chaudhuri",
+  "dateOfBirth": "1962-05-15",
+  "birthDateParsed": "1962-05-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professor",
+    "writer",
+    "novelist",
+    "poet",
+    "essayist",
+    "literary scholar",
+    "literary critic",
+    "musician"
+  ],
+  "qid": "Q472352",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-07T01:41:47.380Z"
+}

@@ -1,0 +1,29 @@
+{
+  "publicId": "cc98f685",
+  "wikipediaSlug": "Muhammad_Kam_Bakhsh",
+  "wikipediaId": "Q6932564",
+  "name": "Muhammad Kam Bakhsh",
+  "fullName": "Muhammad Kam Bakhsh",
+  "profileSummary": "Mirza Muhammad Kam Bakhsh was the youngest son of Mughal emperor Aurangzeb, born to his wife Udaipuri Mahal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kam_Bakhsh1.png/330px-Kam_Bakhsh1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Kam_Bakhsh",
+  "dateOfBirth": "1667-03-06",
+  "birthDateParsed": "1667-03-06",
+  "dateOfDeath": "1709-01-14",
+  "deathDateParsed": "1709-01-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q6932564",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-07T11:49:21.943Z"
+}

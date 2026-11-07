@@ -1,0 +1,31 @@
+{
+  "publicId": "9d82069d",
+  "wikipediaSlug": "Dinesh_Chandra_Yadav_(Indian_politician)",
+  "wikipediaId": "Q5278070",
+  "name": "Dinesh Chandra Yadav (Indian politician)",
+  "fullName": "Dinesh Chandra Yadav (Indian politician)",
+  "profileSummary": "Dinesh Chandra Yadav was a member of the 15th Lok Sabha of India from Khagaria and 17th Lok Sabha member from Madhepura as a member of JDU.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Dinesh_Chandra_Yadav.jpg/330px-Dinesh_Chandra_Yadav.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dinesh_Chandra_Yadav_(Indian_politician)",
+  "dateOfBirth": "1951-07-01",
+  "birthDateParsed": "1951-07-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.37",
+  "birthCoordinatesLng": "85.13",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5278070",
+  "birthPlace": "Bihar",
+  "fetchedAt": "2026-08-07T00:27:44.500Z"
+}

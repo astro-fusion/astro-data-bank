@@ -1,0 +1,32 @@
+{
+  "publicId": "8b56701e",
+  "wikipediaSlug": "Akshay_Venkatesh",
+  "wikipediaId": "Q176588",
+  "name": "Akshay Venkatesh",
+  "fullName": "Akshay Venkatesh",
+  "profileSummary": "Akshay Venkatesh is an Australian mathematician and a professor at the School of Mathematics at the Institute for Advanced Study, Princeton. His research interests are in the fields of counting, equidistribution problems in automorphic forms and number theory, in particular representation theory, locally symmetric spaces, ergodic theory, and algebraic topology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Akshay_Venkatesh_2014_%28cropped%29.jpg/330px-Akshay_Venkatesh_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akshay_Venkatesh",
+  "dateOfBirth": "1981-11-21",
+  "birthDateParsed": "1981-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q176588",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-06T07:27:42.483Z"
+}

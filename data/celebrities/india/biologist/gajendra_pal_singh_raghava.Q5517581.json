@@ -1,0 +1,32 @@
+{
+  "publicId": "42ec8586",
+  "wikipediaSlug": "Gajendra_Pal_Singh_Raghava",
+  "wikipediaId": "Q5517581",
+  "name": "Gajendra Pal Singh Raghava",
+  "fullName": "Gajendra Pal Singh Raghava",
+  "profileSummary": "Gajendra Pal Singh Raghava is an Indian bio-informatician and Professor at Indraprastha Institute of Information Technology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Raghava2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gajendra_Pal_Singh_Raghava",
+  "dateOfBirth": "1963-05-25",
+  "birthDateParsed": "1963-05-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.406944444",
+  "birthCoordinatesLng": "77.849722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "bioinformatician"
+  ],
+  "qid": "Q5517581",
+  "birthPlace": "Bulandshahr",
+  "fetchedAt": "2026-08-06T04:18:54.428Z"
+}

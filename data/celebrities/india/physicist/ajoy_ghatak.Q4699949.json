@@ -1,0 +1,31 @@
+{
+  "publicId": "1ddca9c8",
+  "wikipediaSlug": "Ajoy_Ghatak",
+  "wikipediaId": "Q4699949",
+  "name": "Ajoy Ghatak",
+  "fullName": "Ajoy Ghatak",
+  "profileSummary": "Ajoy Kumar Ghatak is an Indian physicist and author of physics textbooks.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ghatak-Ajoy-sm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajoy_Ghatak",
+  "dateOfBirth": "1939-11-09",
+  "birthDateParsed": "1939-11-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.847",
+  "birthCoordinatesLng": "80.947",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q4699949",
+  "birthPlace": "Lucknow",
+  "fetchedAt": "2026-08-06T04:18:39.504Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "7948de64",
+  "wikipediaSlug": "Matthew_Short",
+  "wikipediaId": "Q18128002",
+  "name": "Matthew Short",
+  "fullName": "Matthew Short",
+  "profileSummary": "Matthew William Short is an Australian international cricketer who represents the Australia national team in limited overs cricket. A right-handed top-order batter who bowls right-arm off break, Short plays for Victoria at state level, captains the Adelaide Strikers in the Big Bash League and plays for the Chennai Super Kings in Indian Premier League.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Short",
+  "dateOfBirth": "1995-11-08",
+  "birthDateParsed": "1995-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-25",
+  "birthCoordinatesLng": "133",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q18128002",
+  "birthPlace": "Australia",
+  "fetchedAt": "2026-08-09T03:16:11.681Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "3c572c83",
+  "wikipediaSlug": "Dharmapuri_Arvind",
+  "wikipediaId": "Q23887787",
+  "name": "Dharmapuri Arvind",
+  "fullName": "Dharmapuri Arvind",
+  "profileSummary": "Dharmapuri Arvind is an Indian politician, philanthropist, and former Ranji Trophy cricketer. He is currently serving as the member of\nparliament in the Lok Sabha from Nizamabad, Telangana. He is the youngest of two sons of D. Srinivas who served as a Cabinet Minister under 4 Chief Ministers in United Andhra Pradesh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ArvindDharmapuri.jpg/330px-ArvindDharmapuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dharmapuri_Arvind",
+  "dateOfBirth": "1976-08-25",
+  "birthDateParsed": "1976-08-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.671997222",
+  "birthCoordinatesLng": "78.094",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "politician"
+  ],
+  "qid": "Q23887787",
+  "birthPlace": "Nizamabad",
+  "fetchedAt": "2026-08-07T00:27:26.347Z"
+}

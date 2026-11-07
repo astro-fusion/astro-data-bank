@@ -1,0 +1,31 @@
+{
+  "publicId": "c97df8bc",
+  "wikipediaSlug": "Shreyas_Iyer",
+  "wikipediaId": "Q18705305",
+  "name": "Shreyas Iyer",
+  "fullName": "Shreyas Iyer",
+  "profileSummary": "Shreyas Santosh Iyer is an Indian international cricketer who plays for the India national team. Iyer captains India in T20Is and serves as the vice-captain in ODIs. A right-handed batter, he primarily plays as a top-order or middle-order batter across formats. Iyer also captains Mumbai in domestic cricket and captains the Punjab Kings in the Indian Premier League (IPL).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg/330px-Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shreyas_Iyer",
+  "dateOfBirth": "1994-12-06",
+  "birthDateParsed": "1994-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q18705305",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-06T16:12:40.669Z"
+}

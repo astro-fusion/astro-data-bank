@@ -1,0 +1,31 @@
+{
+  "publicId": "35d09530",
+  "wikipediaSlug": "Ram_Naik",
+  "wikipediaId": "Q6002323",
+  "name": "Ram Naik",
+  "fullName": "Ram Naik",
+  "profileSummary": "Ram Naik is a veteran Indian politician from the Bharatiya Janata Party who served as the 19th Governor of Uttar Pradesh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Governor_Ram_Naik.jpg/330px-Governor_Ram_Naik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram_Naik",
+  "dateOfBirth": "1934-04-16",
+  "birthDateParsed": "1934-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.25",
+  "birthCoordinatesLng": "74.57",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q6002323",
+  "birthPlace": "Atpadi",
+  "fetchedAt": "2026-08-08T00:24:46.089Z"
+}

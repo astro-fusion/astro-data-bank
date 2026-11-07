@@ -1,20 +1,25 @@
 {
-  "publicId": "28c06ef5",
+  "publicId": "53851097",
   "wikipediaSlug": "Himanta_Biswa_Sarma",
   "wikipediaId": "Q5765114",
   "name": "Himanta Biswa Sarma",
   "fullName": "Himanta Biswa Sarma",
-  "profileSummary": "Himanta Biswa Sarma is an Indian politician and lawyer serving as the 15th and the current Chief Minister of Assam since 2021. A former member of the Indian National Congress, Sarma joined the Bharatiya Janata Party on 23 August 2015 and soon was made convenor of NEDA. He is a five time Member of the Assam Legislative Assembly from Jalukbari, having been elected since 2001.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Himanta_Biswa_Sarma_in_2025.jpg/330px-Himanta_Biswa_Sarma_in_2025.jpg",
+  "profileSummary": "Himanta Biswa Sarma is an Indian politician and lawyer serving as the 15th and the current Chief Minister of Assam since 2021. A former member of the Indian National Congress, Sarma joined the Bharatiya Janata Party on 23 August 2015 and soon was made convenor of NEDA. He is a six time Member of the Assam Legislative Assembly from Jalukbari, having been elected since 2001.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Himanta_Biswa_Sarma_in_2026.jpg/330px-Himanta_Biswa_Sarma_in_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
   "dateOfBirth": "1969-02-01",
+  "birthDateParsed": "1969-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "26.1805876",
   "birthCoordinatesLng": "91.750238",
-  "moonSign": "4",
-  "sunSign": "10",
-  "lagnaSignText": "2",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -23,5 +28,5 @@
   ],
   "qid": "Q5765114",
   "birthPlace": "Guwahati",
-  "fetchedAt": "2026-04-07T16:36:47.847Z"
+  "fetchedAt": "2026-08-09T12:06:49.332Z"
 }

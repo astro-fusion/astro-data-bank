@@ -1,0 +1,31 @@
+{
+  "publicId": "87d9608b",
+  "wikipediaSlug": "Agam_Singh_Giri",
+  "wikipediaId": "Q19603966",
+  "name": "Agam Singh Giri",
+  "fullName": "Agam Singh Giri",
+  "profileSummary": "Agam Singh Giri was an Indian Nepali language poet and lyricist from Darjeeling, West Bengal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Agam_Singh_Giri.jpg/330px-Agam_Singh_Giri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agam_Singh_Giri",
+  "dateOfBirth": "1927-07-27",
+  "birthDateParsed": "1927-07-27",
+  "dateOfDeath": "1971-01-31",
+  "deathDateParsed": "1971-01-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.0375",
+  "birthCoordinatesLng": "88.263055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet"
+  ],
+  "qid": "Q19603966",
+  "birthPlace": "Darjeeling",
+  "fetchedAt": "2026-08-07T01:42:04.413Z"
+}

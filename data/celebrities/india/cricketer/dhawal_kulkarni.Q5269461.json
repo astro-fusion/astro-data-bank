@@ -1,5 +1,5 @@
 {
-  "publicId": "91044793",
+  "publicId": "f1c282ca",
   "wikipediaSlug": "Dhawal_Kulkarni",
   "wikipediaId": "Q5269461",
   "name": "Dhawal Kulkarni",
@@ -8,6 +8,9 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dhawal_Kulkarni",
   "dateOfBirth": "1988-12-10",
+  "birthDateParsed": "1988-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q5269461",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T10:57:20.554Z"
+  "fetchedAt": "2026-08-08T13:53:05.133Z"
 }

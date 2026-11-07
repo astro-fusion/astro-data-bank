@@ -1,0 +1,32 @@
+{
+  "publicId": "bc481bce",
+  "wikipediaSlug": "Motilal_Nehru",
+  "wikipediaId": "Q380148",
+  "name": "Motilal Nehru",
+  "fullName": "Motilal Nehru",
+  "profileSummary": "Motilal Nehru was an Indian lawyer, activist, and politician affiliated with the Indian National Congress. He served as the Congress President twice, from 1919 to 1920 and from 1928 to 1929. He was a patriarch of the Nehru-Gandhi family and the father of Jawaharlal Nehru, India's first Prime Minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/MotilalNehru3.jpg/330px-MotilalNehru3.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Motilal_Nehru",
+  "dateOfBirth": "1861-05-06",
+  "birthDateParsed": "1861-05-06",
+  "dateOfDeath": "1931-02-06",
+  "deathDateParsed": "1931-02-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.18",
+  "birthCoordinatesLng": "78.02",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "barrister"
+  ],
+  "qid": "Q380148",
+  "birthPlace": "Agra",
+  "fetchedAt": "2026-08-07T10:33:13.159Z"
+}

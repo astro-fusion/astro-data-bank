@@ -1,0 +1,31 @@
+{
+  "publicId": "b47a5e75",
+  "wikipediaSlug": "Shivaji",
+  "wikipediaId": "Q239505",
+  "name": "Shivaji",
+  "fullName": "Shivaji",
+  "profileSummary": "Shivaji I was an Indian ruler and a member of the Bhonsle dynasty. Shivaji inherited a fiefdom from his father who served as a retainer for the Sultanate of Bijapur, which later formed the genesis of the Maratha Kingdom. In 1674, he was formally crowned the Chhatrapati of his realm at Raigad Fort.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Shivaji_British_Museum.jpg/330px-Shivaji_British_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shivaji",
+  "dateOfBirth": "1627-03-01",
+  "birthDateParsed": "1627-03-01",
+  "dateOfDeath": "1680-04-13",
+  "deathDateParsed": "1680-04-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.19664276",
+  "birthCoordinatesLng": "73.85900088",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "emperor"
+  ],
+  "qid": "Q239505",
+  "birthPlace": "Shivneri Fort",
+  "fetchedAt": "2026-08-08T00:44:20.457Z"
+}

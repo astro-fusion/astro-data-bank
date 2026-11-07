@@ -1,0 +1,32 @@
+{
+  "publicId": "ae5ddf90",
+  "wikipediaSlug": "Sucharit_Sarkar",
+  "wikipediaId": "Q7632861",
+  "name": "Sucharit Sarkar",
+  "fullName": "Sucharit Sarkar",
+  "profileSummary": "Sucharit Sarkar is an Indian topologist and professor of mathematics at the University of California, Los Angeles who works in low-dimensional topology.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sucharit_Sarkar",
+  "dateOfBirth": "1983-10-28",
+  "birthDateParsed": "1983-10-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q7632861",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T07:29:28.945Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "3b7ce122",
+  "wikipediaSlug": "Rachin_Ravindra",
+  "wikipediaId": "Q58008279",
+  "name": "Rachin Ravindra",
+  "fullName": "Rachin Ravindra",
+  "profileSummary": "Rachin Ravindra is a New Zealand professional cricketer who bats left-handed and bowls left-arm orthodox spin. He represents the New Zealand national team and Wellington. As of June 2026, he is signed with the Washington Freedom in Major League Cricket (MLC) and the Kolkata Knight Riders in the Indian Premier League (IPL).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Rachin_Ravindra.jpg/330px-Rachin_Ravindra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rachin_Ravindra",
+  "dateOfBirth": "1999-11-18",
+  "birthDateParsed": "1999-11-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.288888888",
+  "birthCoordinatesLng": "174.777222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q58008279",
+  "birthPlace": "Wellington",
+  "fetchedAt": "2026-08-09T03:16:36.616Z"
+}

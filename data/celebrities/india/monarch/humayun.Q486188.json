@@ -1,0 +1,31 @@
+{
+  "publicId": "2e3f5a64",
+  "wikipediaSlug": "Humayun",
+  "wikipediaId": "Q486188",
+  "name": "Humayun",
+  "fullName": "Humayun",
+  "profileSummary": "Nasir al-Din Muhammad, commonly known by his regnal name Humayun, was the second Mughal emperor, who ruled much of what is now eastern Afghanistan, Bangladesh, Northern India, and Pakistan from 1530 to 1540 and again from 1555 to his death in 1556. At the time of his death, the Mughal Empire spanned almost one million square kilometers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Contemporary_portrait_of_Humayun_seated_%28made_in_Kabul_in_1550-1555%29.jpg/330px-Contemporary_portrait_of_Humayun_seated_%28made_in_Kabul_in_1550-1555%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Humayun",
+  "dateOfBirth": "1508-03-16",
+  "birthDateParsed": "1508-03-16",
+  "dateOfDeath": "1556-02-06",
+  "deathDateParsed": "1556-02-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.532777777",
+  "birthCoordinatesLng": "69.165833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch"
+  ],
+  "qid": "Q486188",
+  "birthPlace": "Kabul",
+  "fetchedAt": "2026-08-07T11:48:41.187Z"
+}

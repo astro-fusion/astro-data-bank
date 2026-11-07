@@ -1,0 +1,31 @@
+{
+  "publicId": "b4692893",
+  "wikipediaSlug": "Robert_Duncan_Bell",
+  "wikipediaId": "Q7343683",
+  "name": "Robert Duncan Bell",
+  "fullName": "Robert Duncan Bell",
+  "profileSummary": "Sir Robert Duncan Bell, KCSI, CIE was a Scottish civil servant who was the Acting Governor of Bombay during the British Raj, from 30 May 1937 to 18 September 1937.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_grave_of_Robert_Duncan_Bell%2C_Grange_Cemetery%2C_Edinburgh.jpg/330px-The_grave_of_Robert_Duncan_Bell%2C_Grange_Cemetery%2C_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Duncan_Bell",
+  "dateOfBirth": "1878-05-18",
+  "birthDateParsed": "1878-05-18",
+  "dateOfDeath": "1953-05-24",
+  "deathDateParsed": "1953-05-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat"
+  ],
+  "qid": "Q7343683",
+  "birthPlace": "Edinburgh",
+  "fetchedAt": "2026-08-09T12:07:13.309Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "24e9a84f",
+  "wikipediaSlug": "Dwayne_Smith",
+  "wikipediaId": "Q5318032",
+  "name": "Dwayne Smith",
+  "fullName": "Dwayne Smith",
+  "profileSummary": "Dwayne Romel Smith is a former Barbadian international cricketer who has represented the West Indies in all three formats of the game. An all-rounder, he is known as an aggressive and powerful right-handed batsman, bowls medium pace, and is also an athletic fielder. Smith was a part of the West Indies team that won the 2012 T20 World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/DWAYNE_SMITH.jpg/330px-DWAYNE_SMITH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dwayne_Smith",
+  "dateOfBirth": "1983-04-12",
+  "birthDateParsed": "1983-04-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5318032",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-09T03:15:36.071Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "569c55ad",
+  "wikipediaSlug": "M._Ram_Murty",
+  "wikipediaId": "Q470508",
+  "name": "M. Ram Murty",
+  "fullName": "M. Ram Murty",
+  "profileSummary": "Maruti Ram Pedaprolu Murty, FRSC \nis an Indo-Canadian mathematician at Queen's University, where he holds a Queen's Research Chair in mathematics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ram-2-june-2019.png/330px-Ram-2-june-2019.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/M._Ram_Murty",
+  "dateOfBirth": "1953-10-16",
+  "birthDateParsed": "1953-10-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "16.3",
+  "birthCoordinatesLng": "80.45",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q470508",
+  "birthPlace": "Guntur",
+  "fetchedAt": "2026-08-06T07:28:15.610Z"
+}

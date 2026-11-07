@@ -1,0 +1,33 @@
+{
+  "publicId": "b82ea745",
+  "wikipediaSlug": "M._Visvesvaraya",
+  "wikipediaId": "Q741700",
+  "name": "M. Visvesvaraya",
+  "fullName": "M. Visvesvaraya",
+  "profileSummary": "Sir Mokshagundam Visvesvaraya, also referred to by his initials, MV, was an Indian civil engineer, administrator, and statesman, who served as the 19th Dewan of Mysore from 1912 to 1918.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Vishveshvarayya_in_his_30%27s.jpg/330px-Vishveshvarayya_in_his_30%27s.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/M._Visvesvaraya",
+  "dateOfBirth": "1861-09-15",
+  "birthDateParsed": "1861-09-15",
+  "dateOfDeath": "1962-04-14",
+  "deathDateParsed": "1962-04-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.40722222",
+  "birthCoordinatesLng": "77.69444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "politician",
+    "Dewan of Mysore"
+  ],
+  "qid": "Q741700",
+  "birthPlace": "Muddenahalli",
+  "fetchedAt": "2026-08-06T04:20:35.127Z"
+}

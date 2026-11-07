@@ -1,0 +1,32 @@
+{
+  "publicId": "ff9a5808",
+  "wikipediaSlug": "Santosh_Vempala",
+  "wikipediaId": "Q7420673",
+  "name": "Santosh Vempala",
+  "fullName": "Santosh Vempala",
+  "profileSummary": "Santosh Vempala is a prominent computer scientist. He is a Distinguished Professor of Computer Science at the Georgia Institute of Technology. His main work has been in the area of Theoretical Computer Science.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Santosh_Vempala",
+  "dateOfBirth": "1971-10-18",
+  "birthDateParsed": "1971-10-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.693888888",
+  "birthCoordinatesLng": "83.292222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "researcher"
+  ],
+  "qid": "Q7420673",
+  "birthPlace": "Visakhapatnam",
+  "fetchedAt": "2026-08-06T07:28:50.355Z"
+}

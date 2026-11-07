@@ -1,0 +1,36 @@
+{
+  "publicId": "be67420e",
+  "wikipediaSlug": "Javed_Akhtar",
+  "wikipediaId": "Q2319562",
+  "name": "Javed Akhtar",
+  "fullName": "Javed Akhtar",
+  "profileSummary": "Javed Akhtar is an Indian screenwriter, lyricist, poet, and political activist. Renowned for his extensive work in Hindi cinema, he has won five National Film Awards and sixteen Filmfare Awards. He was honoured with the Padma Shri in 1999 and the Padma Bhushan in 2007, two of India's highest civilian honours. He is widely regarded as one of the greatest screenwriters and lyricists in the history of Indian cinema.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Javed_Akhtar_at_Jaipur_Literature_Festival_2026.jpg/330px-Javed_Akhtar_at_Jaipur_Literature_Festival_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Javed_Akhtar",
+  "dateOfBirth": "1945-01-17",
+  "birthDateParsed": "1945-01-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.53",
+  "birthCoordinatesLng": "80.75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "writer",
+    "poet",
+    "lyricist",
+    "songwriter",
+    "politician"
+  ],
+  "qid": "Q2319562",
+  "birthPlace": "Khairabad",
+  "fetchedAt": "2026-08-07T01:44:38.417Z"
+}

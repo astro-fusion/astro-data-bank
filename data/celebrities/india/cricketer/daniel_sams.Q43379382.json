@@ -1,0 +1,31 @@
+{
+  "publicId": "e4f44619",
+  "wikipediaSlug": "Daniel_Sams",
+  "wikipediaId": "Q43379382",
+  "name": "Daniel Sams",
+  "fullName": "Daniel Sams",
+  "profileSummary": "Daniel Richard Sams is an Australian international cricketer. Nicknamed \"the Karate Kid\", he made his international debut for the Australia cricket team in December 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Daniel_Sams_Batting.jpg/330px-Daniel_Sams_Batting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Sams",
+  "dateOfBirth": "1992-10-27",
+  "birthDateParsed": "1992-10-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.94",
+  "birthCoordinatesLng": "150.9761111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q43379382",
+  "birthPlace": "Milperra",
+  "fetchedAt": "2026-08-08T13:53:36.238Z"
+}

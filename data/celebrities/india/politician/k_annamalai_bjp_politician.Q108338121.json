@@ -1,0 +1,33 @@
+{
+  "publicId": "afbe9dfe",
+  "wikipediaSlug": "K._Annamalai_(BJP_politician)",
+  "wikipediaId": "Q108338121",
+  "name": "K. Annamalai (BJP politician)",
+  "fullName": "K. Annamalai (BJP politician)",
+  "profileSummary": "Annamalai Kuppusamy, commonly known as K. Annamalai, is an Indian politician and former Indian Police Service officer employed with the Karnataka State Police from 2011 until his resignation in 2019. A former member of Bharatiya Janata Party (BJP), he served as the state president of the BJP - Tamil Nadu from July 2021 to April 2025, during which he became known for rising visibility and prominence of the party in the state. He unsuccessfully contested the 2021 Tamil Nadu Legislative Assembly election from Aravakurichi and 2024 Lok Sabha election from Coimbatore. He formally resigned from BJP on 5 June 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/K._Annamalai_at_padayatra.jpg/330px-K._Annamalai_at_padayatra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K._Annamalai_(BJP_politician)",
+  "dateOfBirth": "1984-06-04",
+  "birthDateParsed": "1984-06-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.88",
+  "birthCoordinatesLng": "78.19",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "farmer",
+    "police officer"
+  ],
+  "qid": "Q108338121",
+  "birthPlace": "Karur district",
+  "fetchedAt": "2026-08-08T00:23:43.530Z"
+}

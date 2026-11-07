@@ -1,5 +1,5 @@
 {
-  "publicId": "db2a065b",
+  "publicId": "3553a18c",
   "wikipediaSlug": "Alfred_Kan-Ngam_Arthur",
   "wikipediaId": "Q76810328",
   "name": "Alfred Kan-Ngam Arthur",
@@ -8,17 +8,22 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Kan-Ngam_Arthur",
   "dateOfBirth": "1976-12-10",
+  "birthDateParsed": "1976-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "24.81611111",
   "birthCoordinatesLng": "94.35694444",
-  "moonSign": "4",
-  "sunSign": "8",
-  "lagnaSignText": "12",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [],
   "qid": "Q76810328",
   "birthPlace": "Shangshak",
-  "fetchedAt": "2026-04-07T16:22:57.232Z"
+  "fetchedAt": "2026-08-07T00:24:53.287Z"
 }

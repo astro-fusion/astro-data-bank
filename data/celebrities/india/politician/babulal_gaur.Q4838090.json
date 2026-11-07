@@ -1,0 +1,31 @@
+{
+  "publicId": "ed27756c",
+  "wikipediaSlug": "Babulal_Gaur",
+  "wikipediaId": "Q4838090",
+  "name": "Babulal Gaur",
+  "fullName": "Babulal Gaur",
+  "profileSummary": "Babulal Gaur was an Indian politician from Bharatiya Janata Party (BJP) who served as the 16th Chief Minister of Madhya Pradesh. He was elected ten times to the Madhya Pradesh Legislative Assembly, twice from Bhopal South and eight times from Govindpura. He retired from electoral politics in 2018 due to old age.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Babulal_Gaur_%28cropped%29.jpg/330px-Babulal_Gaur_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Babulal_Gaur",
+  "dateOfBirth": "1930-06-02",
+  "birthDateParsed": "1930-06-02",
+  "dateOfDeath": "2019-08-21",
+  "deathDateParsed": "2019-08-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.8944",
+  "birthCoordinatesLng": "81.9388",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q4838090",
+  "birthPlace": "Pratapgarh district",
+  "fetchedAt": "2026-08-08T00:22:56.289Z"
+}

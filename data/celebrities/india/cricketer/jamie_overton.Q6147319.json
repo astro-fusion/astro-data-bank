@@ -1,0 +1,31 @@
+{
+  "publicId": "df2782ad",
+  "wikipediaSlug": "Jamie_Overton",
+  "wikipediaId": "Q6147319",
+  "name": "Jamie Overton",
+  "fullName": "Jamie Overton",
+  "profileSummary": "Jamie Overton is an English cricketer who plays for Surrey County Cricket Club. He is a right-arm fast bowler who also bats right-handed. He made his debut for Somerset in the 2012 Clydesdale Bank 40 against Surrey. He made his international debut for the England cricket team in June 2022. His twin brother, Craig, plays for Somerset.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jamie_Overton.jpg/330px-Jamie_Overton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamie_Overton",
+  "dateOfBirth": "1994-04-10",
+  "birthDateParsed": "1994-04-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.0823",
+  "birthCoordinatesLng": "-4.0489",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6147319",
+  "birthPlace": "Barnstaple",
+  "fetchedAt": "2026-08-09T03:15:53.540Z"
+}

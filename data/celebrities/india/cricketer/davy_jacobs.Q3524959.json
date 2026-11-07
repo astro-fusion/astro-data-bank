@@ -1,0 +1,31 @@
+{
+  "publicId": "bdd36f12",
+  "wikipediaSlug": "Davy_Jacobs",
+  "wikipediaId": "Q3524959",
+  "name": "Davy Jacobs",
+  "fullName": "Davy Jacobs",
+  "profileSummary": "David Johan Jacobs is a South African cricketer, who played for Warriors and the Eagles cricket team. Since then, he has represented the Canadian cricket team, and in 2018, he captained the team as part of a first-class cricket tournament in the West Indies. He has also played for the Mumbai Indians in the Indian Premier League (IPL).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Davy_Jacobs",
+  "dateOfBirth": "1982-11-04",
+  "birthDateParsed": "1982-11-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.866666666",
+  "birthCoordinatesLng": "26.666666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3524959",
+  "birthPlace": "Klerksdorp",
+  "fetchedAt": "2026-08-08T13:53:08.726Z"
+}

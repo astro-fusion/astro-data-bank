@@ -1,0 +1,31 @@
+{
+  "publicId": "f9201ce9",
+  "wikipediaSlug": "Chris_Gayle",
+  "wikipediaId": "Q2732196",
+  "name": "Chris Gayle",
+  "fullName": "Chris Gayle",
+  "profileSummary": "Christopher Henry Gayle OD is a former Jamaican cricketer who played international cricket for the West Indies from 1999 to 2021. Gayle is widely regarded as the greatest Twenty20 batsman in the history of cricket. He played a crucial role in the West Indies teams that won the 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Two_views_of_Chris_Gayle_%2848020785077%29.jpg/330px-Two_views_of_Chris_Gayle_%2848020785077%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Gayle",
+  "dateOfBirth": "1979-09-21",
+  "birthDateParsed": "1979-09-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.971388888",
+  "birthCoordinatesLng": "-76.793055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2732196",
+  "birthPlace": "Kingston",
+  "fetchedAt": "2026-08-06T16:11:42.883Z"
+}

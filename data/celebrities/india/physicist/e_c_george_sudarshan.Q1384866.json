@@ -1,0 +1,32 @@
+{
+  "publicId": "fce3f1d1",
+  "wikipediaSlug": "E._C._George_Sudarshan",
+  "wikipediaId": "Q1384866",
+  "name": "E. C. George Sudarshan",
+  "fullName": "E. C. George Sudarshan",
+  "profileSummary": "Ennackal Chandy George Sudarshan was an Indian American theoretical physicist and a professor at the University of Texas. Sudarshan has been credited with numerous contributions to the field of theoretical physics, including Glauber–Sudarshan P representation, V-A theory, tachyons, quantum Zeno effect, open quantum system and quantum master equations, spin–statistics theorem, non-invariance groups, positive maps of density matrices, and quantum computation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ECG_Sudarshan.jpg/330px-ECG_Sudarshan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/E._C._George_Sudarshan",
+  "dateOfBirth": "1931-09-16",
+  "birthDateParsed": "1931-09-16",
+  "dateOfDeath": "2018-05-14",
+  "deathDateParsed": "2018-05-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.534722222",
+  "birthCoordinatesLng": "76.518055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q1384866",
+  "birthPlace": "Pallom",
+  "fetchedAt": "2026-08-06T04:19:03.818Z"
+}

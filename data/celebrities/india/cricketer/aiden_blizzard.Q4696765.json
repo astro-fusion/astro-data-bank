@@ -1,0 +1,31 @@
+{
+  "publicId": "03d71531",
+  "wikipediaSlug": "Aiden_Blizzard",
+  "wikipediaId": "Q4696765",
+  "name": "Aiden Blizzard",
+  "fullName": "Aiden Blizzard",
+  "profileSummary": "Aiden Craig Blizzard is a former Australian cricketer who played domestic cricket for Tasmania, South Australia, and Victoria. An aggressive left-handed batsman, he hit 89 from 38 balls on his Twenty20 debut for Victoria on New Years Day 2007. His innings included 8 sixes. In 2004 he toured India and Sri Lanka with the Australian Cricket Academy. He has also played for Rajshahi Rangers in Bangladesh's NCL T20 Bangladesh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aiden_Blizzard.jpg/330px-Aiden_Blizzard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aiden_Blizzard",
+  "dateOfBirth": "1984-06-27",
+  "birthDateParsed": "1984-06-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.383333333",
+  "birthCoordinatesLng": "145.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4696765",
+  "birthPlace": "Shepparton",
+  "fetchedAt": "2026-08-08T13:52:27.309Z"
+}

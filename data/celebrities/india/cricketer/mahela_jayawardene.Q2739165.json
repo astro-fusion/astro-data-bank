@@ -1,0 +1,31 @@
+{
+  "publicId": "2666ccbc",
+  "wikipediaSlug": "Mahela_Jayawardene",
+  "wikipediaId": "Q2739165",
+  "name": "Mahela Jayawardene",
+  "fullName": "Mahela Jayawardene",
+  "profileSummary": "Denagamage Praboth Mahela de Silva Jayawardene is a Sri Lankan former professional cricketer, captain, and batsman of the Sri Lankan national cricket team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahela_Jayawardene_3.JPG/330px-Mahela_Jayawardene_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahela_Jayawardene",
+  "dateOfBirth": "1977-05-27",
+  "birthDateParsed": "1977-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.926666666",
+  "birthCoordinatesLng": "79.860555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2739165",
+  "birthPlace": "Colombo",
+  "fetchedAt": "2026-08-06T16:12:05.709Z"
+}

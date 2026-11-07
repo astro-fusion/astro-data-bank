@@ -1,0 +1,29 @@
+{
+  "publicId": "d3c8a1eb",
+  "wikipediaSlug": "Muhammad_Ibrahim_(Mughal_emperor)",
+  "wikipediaId": "Q3051944",
+  "name": "Muhammad Ibrahim (Mughal emperor)",
+  "fullName": "Muhammad Ibrahim (Mughal emperor)",
+  "profileSummary": "Muhammad Ibrahim or Jahangir II was a Mughal prince and claimant to the throne of the Mughal Empire in 1720.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mu%E1%B8%A5ammad_%CA%BFIbr%C3%A1h%C3%ADm..jpg/330px-Mu%E1%B8%A5ammad_%CA%BFIbr%C3%A1h%C3%ADm..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Ibrahim_(Mughal_emperor)",
+  "dateOfBirth": "1703-08-09",
+  "birthDateParsed": "1703-08-09",
+  "dateOfDeath": "1746-01-31",
+  "deathDateParsed": "1746-01-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q3051944",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-07T11:49:21.554Z"
+}

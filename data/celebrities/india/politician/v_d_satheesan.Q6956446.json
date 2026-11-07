@@ -1,0 +1,32 @@
+{
+  "publicId": "06b34c43",
+  "wikipediaSlug": "V._D._Satheesan",
+  "wikipediaId": "Q6956446",
+  "name": "V. D. Satheesan",
+  "fullName": "V. D. Satheesan",
+  "profileSummary": "Vadasseri Damodaran Satheesan is an Indian politician and lawyer who is serving as the 13th Chief Minister of Kerala since May 2026. A member of the Indian National Congress, he has represented Paravur in the Kerala Legislative Assembly since 2001.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/VD_Satheesan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/V._D._Satheesan",
+  "dateOfBirth": "1964-05-31",
+  "birthDateParsed": "1964-05-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.927",
+  "birthCoordinatesLng": "76.31",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q6956446",
+  "birthPlace": "Nettur",
+  "fetchedAt": "2026-08-09T12:07:35.008Z"
+}

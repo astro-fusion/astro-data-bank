@@ -1,0 +1,33 @@
+{
+  "publicId": "ad01c3e0",
+  "wikipediaSlug": "Kannan_Soundararajan",
+  "wikipediaId": "Q1356865",
+  "name": "Kannan Soundararajan",
+  "fullName": "Kannan Soundararajan",
+  "profileSummary": "Kannan Soundararajan is an Indian-born American mathematician and a professor of mathematics at Stanford University. Before moving to Stanford in 2006, he was a faculty member at University of Michigan, where he had also pursued his undergraduate studies. His main research interest is in analytic number theory, particularly in the subfields of automorphic L-functions, and multiplicative number theory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kannan_Soundararajan_Stanford_October_2010.jpg/330px-Kannan_Soundararajan_Stanford_October_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kannan_Soundararajan",
+  "dateOfBirth": "1973-12-27",
+  "birthDateParsed": "1973-12-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0825",
+  "birthCoordinatesLng": "80.275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher",
+    "academic"
+  ],
+  "qid": "Q1356865",
+  "birthPlace": "Chennai",
+  "fetchedAt": "2026-08-06T07:27:50.956Z"
+}

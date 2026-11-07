@@ -1,0 +1,32 @@
+{
+  "publicId": "00e3e6c5",
+  "wikipediaSlug": "Madhu_Sudan",
+  "wikipediaId": "Q93149",
+  "name": "Madhu Sudan",
+  "fullName": "Madhu Sudan",
+  "profileSummary": "Madhu Sudan is an Indian-American computer scientist. He has been a Gordon McKay Professor of Computer Science at the Harvard John A. Paulson School of Engineering and Applied Sciences since 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Madhu_Sudan_Oberwolfach_2015.jpg/330px-Madhu_Sudan_Oberwolfach_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Madhu_Sudan",
+  "dateOfBirth": "1966-09-12",
+  "birthDateParsed": "1966-09-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0825",
+  "birthCoordinatesLng": "80.275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q93149",
+  "birthPlace": "Chennai",
+  "fetchedAt": "2026-08-06T07:28:03.248Z"
+}

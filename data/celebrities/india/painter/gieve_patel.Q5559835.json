@@ -1,0 +1,38 @@
+{
+  "publicId": "9908d738",
+  "wikipediaSlug": "Gieve_Patel",
+  "wikipediaId": "Q5559835",
+  "name": "Gieve Patel",
+  "fullName": "Gieve Patel",
+  "profileSummary": "Gieve Patel was an Indian poet, playwright, painter, as well as a physician. He belonged to a group of writers who had subscribed themselves to the Green Movement which was involved in an effort to protect the environment. His poems speak of deep concerns for nature and expose man's cruelty to it. His notable poems include, How Do You Withstand (1966), Body (1976), Mirrored Mirroring (1991) and On killing a tree. He also wrote three plays, titled Princes (1971), Savaksa (1982) and Mr. Behram (1987).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gieve_Patel.jpg/330px-Gieve_Patel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gieve_Patel",
+  "dateOfBirth": "1940-08-18",
+  "birthDateParsed": "1940-08-18",
+  "dateOfDeath": "2023-11-03",
+  "deathDateParsed": "2023-11-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "painter",
+    "writer",
+    "poet",
+    "general practitioner",
+    "playwright",
+    "physician",
+    "physicist",
+    "art critic"
+  ],
+  "qid": "Q5559835",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-07T01:43:55.266Z"
+}

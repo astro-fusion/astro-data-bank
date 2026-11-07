@@ -1,20 +1,25 @@
 {
-  "publicId": "a5998e2a",
+  "publicId": "d5e5d910",
   "wikipediaSlug": "Mohan_Yadav",
   "wikipediaId": "Q28794137",
   "name": "Mohan Yadav",
   "fullName": "Mohan Yadav",
-  "profileSummary": "Mohan Yadav is an Indian politician and businessman serving as the current Chief Minister of Madhya Pradesh and also serving as leader of the house in legislative assembly. A member of the Bharatiya Janata Party, he represents Ujjain South constituency as Member of Legislative Assembly of Madhya Pradesh since 2013.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mohan_Yadav%2C_Chief_Minister_of_Madhya_Pradesh.jpg/330px-Mohan_Yadav%2C_Chief_Minister_of_Madhya_Pradesh.jpg",
+  "profileSummary": "Mohan Yadav is an Indian politician serving as the current Chief Minister of Madhya Pradesh and also serving as leader of the house in legislative assembly. A member of the Bharatiya Janata Party, he represents Ujjain South constituency as Member of Legislative Assembly of Madhya Pradesh since 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mohan_Yadav%2C_Chief_Minister_of_Madhya_Pradesh.jpg/330px-Mohan_Yadav%2C_Chief_Minister_of_Madhya_Pradesh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohan_Yadav",
   "dateOfBirth": "1965-03-25",
+  "birthDateParsed": "1965-03-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "23.182777777",
   "birthCoordinatesLng": "75.777222222",
-  "moonSign": "9",
-  "sunSign": "12",
-  "lagnaSignText": "3",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q28794137",
   "birthPlace": "Ujjain",
-  "fetchedAt": "2026-04-07T16:36:50.707Z"
+  "fetchedAt": "2026-08-09T12:07:04.251Z"
 }

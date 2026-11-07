@@ -1,0 +1,31 @@
+{
+  "publicId": "d98f4a8c",
+  "wikipediaSlug": "Jerome_Taylor",
+  "wikipediaId": "Q6182931",
+  "name": "Jerome Taylor",
+  "fullName": "Jerome Taylor",
+  "profileSummary": "Jerome Everton Taylor is a Jamaican former cricketer who played as a fast bowler for the West Indies. Taylor took over 100 wickets for the Windies in both Tests and One Day Internationals (ODI). During 2017 he reversed an initial decision to retire from international cricket. Taylor has also featured for Jamaica, English sides Somerset, Leicestershire and Sussex, CPL teams St Lucia Zouks and Jamaica Tallawahs and IPL side Pune Warriors in his cricketing career. Taylor was a member of the West Indies team that won the 2016 T20 World Cup. He is the only bowler to have ever taken a hat-trick in a Champions Trophy match, which he did in the 2006 tournament against Australia, and that was the first hat-trick taken by a West Indian bowler in the ODI format.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jerome_Taylor_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerome_Taylor",
+  "dateOfBirth": "1984-06-22",
+  "birthDateParsed": "1984-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.05",
+  "birthCoordinatesLng": "-77.783333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6182931",
+  "birthPlace": "Saint Elizabeth Parish",
+  "fetchedAt": "2026-08-08T13:53:58.335Z"
+}

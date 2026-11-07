@@ -1,0 +1,32 @@
+{
+  "publicId": "7a082e61",
+  "wikipediaSlug": "Charan_Singh",
+  "wikipediaId": "Q319824",
+  "name": "Charan Singh",
+  "fullName": "Charan Singh",
+  "profileSummary": "Chaudhary Charan Singh was an Indian politician, peasant leader, author and an independence activist who briefly served as the prime minister of India from July 1979 to January 1980. Singh was principally known for his land and agricultural reform initiatives, and was Member of Parliament (MP) for Baghpat. During his premiership, he was a member of the Janata Party (Secular). He served as the Chief Minister of Uttar Pradesh as a member of Bharatiya Kranti Dal. He also briefly served as the deputy prime minister of India from January 1979 to July 1979 as a member of the Janata Party. Singh is widely regarded as the \"Champion of Farmers\", dedicated to advocating for the well being and rights of farmers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Charan_Singh_Portrait.jpg/330px-Charan_Singh_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charan_Singh",
+  "dateOfBirth": "1902-12-23",
+  "birthDateParsed": "1902-12-23",
+  "dateOfDeath": "1987-05-29",
+  "deathDateParsed": "1987-05-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.149444444",
+  "birthCoordinatesLng": "78.408333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "head of government"
+  ],
+  "qid": "Q319824",
+  "birthPlace": "Noorpur",
+  "fetchedAt": "2026-08-08T15:25:03.855Z"
+}

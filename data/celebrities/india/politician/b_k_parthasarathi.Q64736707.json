@@ -1,5 +1,5 @@
 {
-  "publicId": "60543dd2",
+  "publicId": "2a335181",
   "wikipediaSlug": "B._K._Parthasarathi",
   "wikipediaId": "Q64736707",
   "name": "B. K. Parthasarathi",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/B._K._Parthasarathi",
   "dateOfBirth": "1959-09-03",
+  "birthDateParsed": "1959-09-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "14.09285",
   "birthCoordinatesLng": "77.42876",
-  "moonSign": "5",
-  "sunSign": "5",
-  "lagnaSignText": "8",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q64736707",
   "birthPlace": "Roddam",
-  "fetchedAt": "2026-04-07T16:20:34.807Z"
+  "fetchedAt": "2026-08-07T00:25:47.636Z"
 }

@@ -1,0 +1,35 @@
+{
+  "publicId": "33ca1059",
+  "wikipediaSlug": "M._S._Swaminathan",
+  "wikipediaId": "Q982109",
+  "name": "M. S. Swaminathan",
+  "fullName": "M. S. Swaminathan",
+  "profileSummary": "Mankombu Sambasivan Swaminathan was an Indian geneticist and plant breeder, administrator and humanitarian. Swaminathan was a global leader of the green revolution. He has been called the main architect of the green revolution in India for his leadership and role in introducing and further developing high-yielding varieties of wheat and rice.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Monkombu_Sambasivan_Swaminathan_-_Kolkata_2013-01-07_2674.JPG/330px-Monkombu_Sambasivan_Swaminathan_-_Kolkata_2013-01-07_2674.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/M._S._Swaminathan",
+  "dateOfBirth": "1925-08-07",
+  "birthDateParsed": "1925-08-07",
+  "dateOfDeath": "2023-09-28",
+  "deathDateParsed": "2023-09-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.966666666",
+  "birthCoordinatesLng": "79.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "geneticist",
+    "agronomist",
+    "administrator",
+    "botanist"
+  ],
+  "qid": "Q982109",
+  "birthPlace": "Kudanthaiyan",
+  "fetchedAt": "2026-08-06T04:20:03.559Z"
+}

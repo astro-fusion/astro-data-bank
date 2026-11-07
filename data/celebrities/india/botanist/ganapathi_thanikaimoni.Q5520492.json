@@ -1,0 +1,32 @@
+{
+  "publicId": "c8d35f81",
+  "wikipediaSlug": "Ganapathi_Thanikaimoni",
+  "wikipediaId": "Q5520492",
+  "name": "Ganapathi Thanikaimoni",
+  "fullName": "Ganapathi Thanikaimoni",
+  "profileSummary": "Ganapathi Thanikaimoni, often referred to as Thanikaimoni, was an Indian palynologist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/Thani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganapathi_Thanikaimoni",
+  "dateOfBirth": "1938-01-01",
+  "birthDateParsed": "1938-01-01",
+  "dateOfDeath": "1986-09-05",
+  "deathDateParsed": "1986-09-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0825",
+  "birthCoordinatesLng": "80.275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "botanist",
+    "biologist"
+  ],
+  "qid": "Q5520492",
+  "birthPlace": "Chennai",
+  "fetchedAt": "2026-08-06T04:18:49.896Z"
+}

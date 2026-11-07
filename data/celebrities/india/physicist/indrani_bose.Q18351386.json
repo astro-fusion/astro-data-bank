@@ -1,0 +1,31 @@
+{
+  "publicId": "f91fdc06",
+  "wikipediaSlug": "Indrani_Bose",
+  "wikipediaId": "Q18351386",
+  "name": "Indrani Bose",
+  "fullName": "Indrani Bose",
+  "profileSummary": "Indrani Bose is an Indian physicist, senior Professor at Department of Physics, Bose Institute, Kolkata. Her fields of specialization are in theoretical condensed matter, quantum information theory, statistical physics, biological physics and systems.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Indrani_Bose",
+  "dateOfBirth": "1951-08-15",
+  "birthDateParsed": "1951-08-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q18351386",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T04:19:33.979Z"
+}

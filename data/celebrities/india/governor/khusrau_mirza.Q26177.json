@@ -1,0 +1,32 @@
+{
+  "publicId": "1e51c2e7",
+  "wikipediaSlug": "Khusrau_Mirza",
+  "wikipediaId": "Q26177",
+  "name": "Khusrau Mirza",
+  "fullName": "Khusrau Mirza",
+  "profileSummary": "Khusrau Mirza was the eldest son of the Mughal Emperor Jahangir and his first wife, Shah Begum. Being Jahangir's eldest son, he was the heir-apparent to his father but Jahangir favoured his son Khurram Mirza as he held an animosity against Khusrau.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sultan-Khusrow2.png/330px-Sultan-Khusrow2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Khusrau_Mirza",
+  "dateOfBirth": "1587-08-16",
+  "birthDateParsed": "1587-08-16",
+  "dateOfDeath": "1622-01-26",
+  "deathDateParsed": "1622-01-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.549722222",
+  "birthCoordinatesLng": "74.343611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "governor",
+    "Mansabdar"
+  ],
+  "qid": "Q26177",
+  "birthPlace": "Lahore",
+  "fetchedAt": "2026-08-07T11:48:58.712Z"
+}

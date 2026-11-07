@@ -1,0 +1,33 @@
+{
+  "publicId": "1d7e8048",
+  "wikipediaSlug": "A._A._Krishnaswami_Ayyangar",
+  "wikipediaId": "Q4647478",
+  "name": "A. A. Krishnaswami Ayyangar",
+  "fullName": "A. A. Krishnaswami Ayyangar",
+  "profileSummary": "A. A. Krishnaswami Ayyangar (1892–1953) was an Indian mathematician. He received his M.A. in Mathematics at the age of 18 from Pachaiyappa's College, and subsequently taught mathematics there. In 1918, he joined the mathematics department of the University of Mysore and retired from there in 1947. He was born in a Tamil Brahmin family. He died in June 1953. He was the father of the Kannada poet and scholar A. K. Ramanujan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Headshot_of_A._A._Krishnaswami_Ayyangar.png/330px-Headshot_of_A._A._Krishnaswami_Ayyangar.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._A._Krishnaswami_Ayyangar",
+  "dateOfBirth": "1892-12-01",
+  "birthDateParsed": "1892-12-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.267222222",
+  "birthCoordinatesLng": "80.306666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher",
+    "historian of science"
+  ],
+  "qid": "Q4647478",
+  "birthPlace": "Athipattu",
+  "fetchedAt": "2026-08-06T07:27:40.086Z"
+}

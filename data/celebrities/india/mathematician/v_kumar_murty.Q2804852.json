@@ -1,0 +1,32 @@
+{
+  "publicId": "d04c2cce",
+  "wikipediaSlug": "V._Kumar_Murty",
+  "wikipediaId": "Q2804852",
+  "name": "V. Kumar Murty",
+  "fullName": "V. Kumar Murty",
+  "profileSummary": "Vijaya Kumar Murty is an Indo-Canadian mathematician working in number theory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kumar_Murty.jpg/330px-Kumar_Murty.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/V._Kumar_Murty",
+  "dateOfBirth": "1956-05-20",
+  "birthDateParsed": "1956-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q2804852",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T07:29:38.304Z"
+}

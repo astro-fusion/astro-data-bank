@@ -1,0 +1,32 @@
+{
+  "publicId": "f3ef9c7b",
+  "wikipediaSlug": "Sambhaji",
+  "wikipediaId": "Q2737041",
+  "name": "Sambhaji",
+  "fullName": "Sambhaji",
+  "profileSummary": "Sambhaji, also known as Shambhuraje, ruled from 1681 to 1689 as the second king (Chhatrapati) of the Maratha Empire, a prominent state in early modern India. He was the eldest son of Shivaji, the founder of the Maratha Empire.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sambhaji_painting_late_17th_century.png/330px-Sambhaji_painting_late_17th_century.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sambhaji",
+  "dateOfBirth": "1657-05-14",
+  "birthDateParsed": "1657-05-14",
+  "dateOfDeath": "1689-03-11",
+  "deathDateParsed": "1689-03-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.28333333",
+  "birthCoordinatesLng": "73.98333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "king",
+    "writer"
+  ],
+  "qid": "Q2737041",
+  "birthPlace": "Purandar Fort",
+  "fetchedAt": "2026-08-08T00:44:20.884Z"
+}

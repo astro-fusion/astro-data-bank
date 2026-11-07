@@ -1,0 +1,32 @@
+{
+  "publicId": "3c23fe1b",
+  "wikipediaSlug": "Mark_Wood_(cricketer)",
+  "wikipediaId": "Q6770412",
+  "name": "Mark Wood (cricketer)",
+  "fullName": "Mark Wood (cricketer)",
+  "profileSummary": "Mark Andrew Wood is an English cricketer who plays internationally for England in all formats. In domestic cricket, he represents Durham, and has played for Chennai Super Kings and Lucknow Super Giants in the Indian Premier League.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mark_wood_bowling_boxing_day_test.jpg/330px-Mark_wood_bowling_boxing_day_test.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Wood_(cricketer)",
+  "dateOfBirth": "1990-01-11",
+  "birthDateParsed": "1990-01-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.181",
+  "birthCoordinatesLng": "-1.568",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "columnist"
+  ],
+  "qid": "Q6770412",
+  "birthPlace": "Ashington",
+  "fetchedAt": "2026-08-09T03:16:34.769Z"
+}

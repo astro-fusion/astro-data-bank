@@ -1,0 +1,31 @@
+{
+  "publicId": "a3738376",
+  "wikipediaSlug": "Robin_Uthappa",
+  "wikipediaId": "Q2745297",
+  "name": "Robin Uthappa",
+  "fullName": "Robin Uthappa",
+  "profileSummary": "Robin Uthappa Aiyuda is an Indian cricket commentator and former cricketer. He represented the Indian national team in One Day International and Twenty20 International cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Robin_Uthappa_1.jpg/330px-Robin_Uthappa_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robin_Uthappa",
+  "dateOfBirth": "1984-11-11",
+  "birthDateParsed": "1984-11-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.4208",
+  "birthCoordinatesLng": "75.7397",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2745297",
+  "birthPlace": "Kodagu district",
+  "fetchedAt": "2026-08-09T03:16:24.801Z"
+}

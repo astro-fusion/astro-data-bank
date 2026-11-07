@@ -1,0 +1,31 @@
+{
+  "publicId": "5705692c",
+  "wikipediaSlug": "Brad_Hodge",
+  "wikipediaId": "Q2923401",
+  "name": "Brad Hodge",
+  "fullName": "Brad Hodge",
+  "profileSummary": "Bradley John Hodge is an Australian cricket coach and former cricketer. He was a right-handed batsman who batted in the middle order, as well as a part-time right-arm off-spin bowler. Hodge was a member of the Australian team that won the 2007 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Brad_Hodge_2008.jpg/330px-Brad_Hodge_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brad_Hodge",
+  "dateOfBirth": "1974-12-29",
+  "birthDateParsed": "1974-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2923401",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-09T16:53:36.182Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "194ee803",
+  "wikipediaSlug": "Indira_Gandhi",
+  "wikipediaId": "Q1149",
+  "name": "Indira Gandhi",
+  "fullName": "Indira Gandhi",
+  "profileSummary": "Indira Priyadarshini Gandhi was an Indian stateswoman, politician and public official who twice served as the prime minister of India, for four terms, from 1966 to 1977 and again from 1980 until her assassination in 1984. She was India's first and only female prime minister. She was a central figure in Indian politics as the leader of the Indian National Congress (INC). She was the daughter of Jawaharlal Nehru, the first prime minister of India, and the mother of Rajiv Gandhi, who succeeded her as prime minister. Her cumulative tenure of 15 years and 350 days makes her the second-longest-serving Indian prime minister after her father.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indira_Gandhi_official_portrait.png/330px-Indira_Gandhi_official_portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+  "dateOfBirth": "1917-11-19",
+  "birthDateParsed": "1917-11-19",
+  "dateOfDeath": "1984-10-31",
+  "deathDateParsed": "1984-10-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.45",
+  "birthCoordinatesLng": "81.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer"
+  ],
+  "qid": "Q1149",
+  "birthPlace": "Prayagraj",
+  "fetchedAt": "2026-08-07T10:32:37.639Z"
+}

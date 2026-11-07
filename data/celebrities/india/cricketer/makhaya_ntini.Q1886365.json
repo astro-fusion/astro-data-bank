@@ -1,0 +1,31 @@
+{
+  "publicId": "2c25f34c",
+  "wikipediaSlug": "Makhaya_Ntini",
+  "wikipediaId": "Q1886365",
+  "name": "Makhaya Ntini",
+  "fullName": "Makhaya Ntini",
+  "profileSummary": "Makhaya Ntini is a South African former professional cricketer, who played all forms of the game. He was the first black player to play for the South African national cricket team. Ntini made his Test cricket debut against Sri Lanka, One Day International debut against New Zealand in 1998. Ntini was a member of the South Africa team that won the 1998 ICC KnockOut Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Makhaya_Ntini_4.jpg/330px-Makhaya_Ntini_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Makhaya_Ntini",
+  "dateOfBirth": "1977-07-06",
+  "birthDateParsed": "1977-07-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.883333333",
+  "birthCoordinatesLng": "27.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q1886365",
+  "birthPlace": "Qonce",
+  "fetchedAt": "2026-08-09T03:16:07.408Z"
+}

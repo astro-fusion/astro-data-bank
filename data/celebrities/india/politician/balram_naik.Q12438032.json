@@ -1,5 +1,5 @@
 {
-  "publicId": "7ac640ed",
+  "publicId": "fcb2528b",
   "wikipediaSlug": "Balram_Naik",
   "wikipediaId": "Q12438032",
   "name": "Balram Naik",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Porika_Balram_Naik_%28cropped%29.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Balram_Naik",
   "dateOfBirth": "1964-06-06",
+  "birthDateParsed": "1964-06-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "17.6167",
   "birthCoordinatesLng": "80.0167",
-  "moonSign": "12",
-  "sunSign": "2",
-  "lagnaSignText": "5",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q12438032",
   "birthPlace": "Mahabubabad",
-  "fetchedAt": "2026-04-07T16:21:02.225Z"
+  "fetchedAt": "2026-08-07T00:26:07.858Z"
 }

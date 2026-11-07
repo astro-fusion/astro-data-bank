@@ -1,0 +1,31 @@
+{
+  "publicId": "aaa90e69",
+  "wikipediaSlug": "Mark_Boucher",
+  "wikipediaId": "Q678379",
+  "name": "Mark Boucher",
+  "fullName": "Mark Boucher",
+  "profileSummary": "Mark Verdon Boucher is a South African cricket coach and former cricketer who played all three formats of the game. Boucher is regarded as one of the best wicket-keeper batsmen of all time, and holds the record for the most Test dismissals by a wicket-keeper, with 532 catches and 555 total dismissals. Boucher was a member of the South Africa team that won the 1998 ICC KnockOut Trophy, the only time the country had won an ICC trophy until the 2025 World Test Championship final.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Markboucher.jpg/330px-Markboucher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Boucher",
+  "dateOfBirth": "1976-12-03",
+  "birthDateParsed": "1976-12-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.0175",
+  "birthCoordinatesLng": "27.904722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q678379",
+  "birthPlace": "East London",
+  "fetchedAt": "2026-08-08T13:54:13.676Z"
+}

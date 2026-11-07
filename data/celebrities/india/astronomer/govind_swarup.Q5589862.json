@@ -1,0 +1,31 @@
+{
+  "publicId": "26c834a8",
+  "wikipediaSlug": "Govind_Swarup",
+  "wikipediaId": "Q5589862",
+  "name": "Govind Swarup",
+  "fullName": "Govind Swarup",
+  "profileSummary": "Govind Swarup was a pioneer in radio astronomy. In addition to research contributions in multiple areas of astronomy and astrophysics, he was a driving force behind the building of \"ingenious, innovative and powerful observational facilities for front-line research in radio astronomy\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Govind_Swarup.jpg/330px-Govind_Swarup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Govind_Swarup",
+  "dateOfBirth": "1929-01-01",
+  "birthDateParsed": "1929-01-01",
+  "dateOfDeath": "2020-09-07",
+  "deathDateParsed": "2020-09-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.84",
+  "birthCoordinatesLng": "78.76",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer"
+  ],
+  "qid": "Q5589862",
+  "birthPlace": "Moradabad district",
+  "fetchedAt": "2026-08-06T04:19:01.891Z"
+}

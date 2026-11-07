@@ -1,0 +1,31 @@
+{
+  "publicId": "8b7267fb",
+  "wikipediaSlug": "Manoj_Sinha",
+  "wikipediaId": "Q6751189",
+  "name": "Manoj Sinha",
+  "fullName": "Manoj Sinha",
+  "profileSummary": "Manoj Sinha is an Indian politician serving as the 2nd and the current lieutenant governor of Jammu and Kashmir in the disputed Kashmir region. He served as the minister of state for Communications and minister of state for Railways in the government of India. Sinha was elected to the Lok Sabha, representing Ghazipur parliamentary constituency for three terms from the Bharatiya Janata Party. Sinha was in the race for the post of Uttar Pradesh chief minister after the 2017 Uttar Pradesh Legislative Assembly election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Manoj_Sinha_Lt._Governor.jpg/330px-Manoj_Sinha_Lt._Governor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manoj_Sinha",
+  "dateOfBirth": "1959-07-01",
+  "birthDateParsed": "1959-07-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.583333333",
+  "birthCoordinatesLng": "83.566666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q6751189",
+  "birthPlace": "Ghazipur",
+  "fetchedAt": "2026-08-08T00:24:25.532Z"
+}

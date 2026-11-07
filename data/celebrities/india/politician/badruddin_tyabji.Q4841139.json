@@ -1,0 +1,33 @@
+{
+  "publicId": "e3065114",
+  "wikipediaSlug": "Badruddin_Tyabji",
+  "wikipediaId": "Q4841139",
+  "name": "Badruddin Tyabji",
+  "fullName": "Badruddin Tyabji",
+  "profileSummary": "Badruddin Tyabji was an Indian lawyer, activist, and politician during the British Raj. Tyabji was the first Indian to practice as a barrister of the High Court of Bombay. He also served as the third President of the Indian National Congress. He was one of the founding members and the first Muslim president of the Indian National Congress. He founded the Anjuman-i-Islam College in Bombay in 1874. It started with one school and today it has more than eighty institutions from pre-primary schools to graduate and postgraduate level. Tyabji is often referred to as the most prominent member of the Tyabji family.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Badruddin_Tyabji_Portrait.jpg/330px-Badruddin_Tyabji_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Badruddin_Tyabji",
+  "dateOfBirth": "1844-10-10",
+  "birthDateParsed": "1844-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "barrister",
+    "jurist"
+  ],
+  "qid": "Q4841139",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-07T10:32:23.162Z"
+}

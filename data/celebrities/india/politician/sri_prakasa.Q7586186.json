@@ -1,0 +1,32 @@
+{
+  "publicId": "2ee914a3",
+  "wikipediaSlug": "Sri_Prakasa",
+  "wikipediaId": "Q7586186",
+  "name": "Sri Prakasa",
+  "fullName": "Sri Prakasa",
+  "profileSummary": "Sri Prakasa was an Indian politician, freedom-fighter and administrator. He served as India's first High Commissioner to Pakistan from 1947 to 1949, Governor of Assam from 1949 to 1950, Governor of Madras from 1952 to 1956 and Governor of Bombay from 1956 to 1962.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sri_Prakasa_Portrait.jpg/330px-Sri_Prakasa_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Prakasa",
+  "dateOfBirth": "1890-08-03",
+  "birthDateParsed": "1890-08-03",
+  "dateOfDeath": "1971-06-23",
+  "deathDateParsed": "1971-06-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.318888888",
+  "birthCoordinatesLng": "83.012777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat"
+  ],
+  "qid": "Q7586186",
+  "birthPlace": "Varanasi",
+  "fetchedAt": "2026-08-09T12:07:14.710Z"
+}

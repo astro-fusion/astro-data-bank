@@ -1,13 +1,16 @@
 {
-  "publicId": "a91c70e6",
+  "publicId": "8fb10718",
   "wikipediaSlug": "Ajinkya_Rahane",
   "wikipediaId": "Q137669",
   "name": "Ajinkya Rahane",
   "fullName": "Ajinkya Rahane",
-  "profileSummary": "Ajinkya Rahane is an Indian cricketer and former captain and vice-captain of the Indian cricket team. He currently captains Kolkata Knight Riders in the Indian Premier League. He is the former captain of Mumbai. He played primarily as a middle-order batsman in the Test format and as a top-order batsman in white-ball forms of the game. India lost only one match under his captaincy.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ajinkya_Rahane_2016_%28cropped%29.jpg",
+  "profileSummary": "Ajinkya Madhukar Rahane is a former Indian professional cricketer and also captained the India national cricket team in all three formats. He formerly played for and captained Mumbai in domestic cricket. He played primarily as a middle-order batsman in the Test format and as a top-order batsman in white-ball forms of the game. India lost only one match under his captaincy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ajinkya_Rahane_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajinkya_Rahane",
   "dateOfBirth": "1988-06-05",
+  "birthDateParsed": "1988-06-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.5152909",
   "birthCoordinatesLng": "74.3592452",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q137669",
   "birthPlace": "Ashwi KD",
-  "fetchedAt": "2026-04-07T10:57:54.880Z"
+  "fetchedAt": "2026-08-09T03:15:18.682Z"
 }

@@ -1,20 +1,25 @@
 {
-  "publicId": "9b201789",
+  "publicId": "a1e3f646",
   "wikipediaSlug": "Bhagwant_Mann",
   "wikipediaId": "Q4900687",
   "name": "Bhagwant Mann",
   "fullName": "Bhagwant Mann",
-  "profileSummary": "Bhagwant Singh Mann, better known by his stage name \"Jugnu\", is an Indian politician, social worker, former comedian, actor and singer who is currently serving as the 17th Chief Minister of Punjab He represents the Dhuri Assembly constituency in the Punjab Legislative Assembly since 2022 and is also serving as the state convener of Aam Aadmi Party, Punjab since 2019. Previously, he was a member of the lower house of Parliament from Sangrur from 2014 to 2022.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bhagwant_Mann.png",
+  "profileSummary": "Bhagwant Singh Mann is an Indian politician, social worker, former comedian, actor and singer who is currently serving as the 17th Chief Minister of Punjab He represents the Dhuri Assembly constituency in the Punjab Legislative Assembly since 2022 and is also serving as the state convener of Aam Aadmi Party, Punjab since 2019. Previously, he was a member of the lower house of Parliament from Sangrur from 2014 to 2022. On 15th June 2026, the Akal Takht declared Mann a Guru Dokhi and Panth Virodhi (anti-sikh) over an objectionable video purportedly showing him in an act that hurt Sikh sentiments.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bhagwant_Mann_2026.jpg/330px-Bhagwant_Mann_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
   "dateOfBirth": "1972-10-17",
+  "birthDateParsed": "1972-10-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "10",
-  "sunSign": "7",
-  "lagnaSignText": "9",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -24,5 +29,5 @@
   ],
   "qid": "Q4900687",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:15:48.368Z"
+  "fetchedAt": "2026-08-09T12:06:36.724Z"
 }

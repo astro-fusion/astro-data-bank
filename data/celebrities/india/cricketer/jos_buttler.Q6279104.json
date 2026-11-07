@@ -1,0 +1,31 @@
+{
+  "publicId": "75dd5dc1",
+  "wikipediaSlug": "Jos_Buttler",
+  "wikipediaId": "Q6279104",
+  "name": "Jos Buttler",
+  "fullName": "Jos Buttler",
+  "profileSummary": "Joseph Charles Buttler is an English international cricketer and the former captain of the England cricket team. He plays for Lancashire in domestic cricket and played in multiple T20 leagues. He is known for his innovative and aggressive batting style. He was part of the England team that won the 2019 ODI World Cup and led the team to victory at the 2022 T20 World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jos_Buttler_in_2023.jpg/330px-Jos_Buttler_in_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos_Buttler",
+  "dateOfBirth": "1990-09-08",
+  "birthDateParsed": "1990-09-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.019166666",
+  "birthCoordinatesLng": "-3.1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6279104",
+  "birthPlace": "Taunton",
+  "fetchedAt": "2026-08-08T13:54:00.409Z"
+}

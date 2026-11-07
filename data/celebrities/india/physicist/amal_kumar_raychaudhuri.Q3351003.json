@@ -1,0 +1,31 @@
+{
+  "publicId": "5067928f",
+  "wikipediaSlug": "Amal_Kumar_Raychaudhuri",
+  "wikipediaId": "Q3351003",
+  "name": "Amal Kumar Raychaudhuri",
+  "fullName": "Amal Kumar Raychaudhuri",
+  "profileSummary": "Amal Kumar Raychaudhuri was an Indian physicist, known for his research in general relativity and cosmology. His most significant contribution is the eponymous Raychaudhuri equation, which demonstrates that singularities arise inevitably in general relativity and is a key ingredient in the proofs of the Penrose–Hawking singularity theorems. Raychaudhuri was also revered as a teacher during his tenure at Presidency College, Kolkata.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/AKRaychaudhuri.jpg/330px-AKRaychaudhuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amal_Kumar_Raychaudhuri",
+  "dateOfBirth": "1923-09-14",
+  "birthDateParsed": "1923-09-14",
+  "dateOfDeath": "2005-06-18",
+  "deathDateParsed": "2005-06-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.7",
+  "birthCoordinatesLng": "90.366666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q3351003",
+  "birthPlace": "Barishal",
+  "fetchedAt": "2026-08-06T04:18:18.443Z"
+}

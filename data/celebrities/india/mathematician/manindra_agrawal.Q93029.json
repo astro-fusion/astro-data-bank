@@ -1,0 +1,33 @@
+{
+  "publicId": "a5b47dbd",
+  "wikipediaSlug": "Manindra_Agrawal",
+  "wikipediaId": "Q93029",
+  "name": "Manindra Agrawal",
+  "fullName": "Manindra Agrawal",
+  "profileSummary": "Manindra Agrawal is an Indian computer scientist and director of Indian Institute of Technology, Kanpur. He is also a professor at the Department of Computer Science and Engineering at the Indian Institute of Technology, Kanpur. He was the recipient of the first Infosys Prize for Mathematics, the Godel Prize in 2006; and the Shanti Swarup Bhatnagar Award in Mathematical Sciences in 2003. He has been honoured with Padma Shri, India's 4th highest civilian award, in 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manindra_Agarwal.jpg/330px-Manindra_Agarwal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manindra_Agrawal",
+  "dateOfBirth": "1966-05-20",
+  "birthDateParsed": "1966-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.45",
+  "birthCoordinatesLng": "81.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q93029",
+  "birthPlace": "Prayagraj",
+  "fetchedAt": "2026-08-06T07:28:04.326Z"
+}

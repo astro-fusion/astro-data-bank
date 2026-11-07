@@ -1,0 +1,31 @@
+{
+  "publicId": "4dcd44d6",
+  "wikipediaSlug": "JP_Duminy",
+  "wikipediaId": "Q3531633",
+  "name": "JP Duminy",
+  "fullName": "JP Duminy",
+  "profileSummary": "Jean-Paul Duminy, more commonly known as JP Duminy, is a South African former international cricketer. He was vice-captain of the South Africa Twenty20 team. He is a left-handed batsman and a right-arm off spin bowler. Duminy, who is a Cape Coloured, was raised in the Western Cape and played domestic cricket for his home team, the Cape Cobras. Duminy made history when he was the first South African to take a hat-trick at a Cricket World Cup, which he did against Sri Lanka during the 2015 tournament.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/JP_DUMINY_%2815681049126%29.jpg/330px-JP_DUMINY_%2815681049126%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/JP_Duminy",
+  "dateOfBirth": "1984-04-14",
+  "birthDateParsed": "1984-04-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.925277777",
+  "birthCoordinatesLng": "18.423888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3531633",
+  "birthPlace": "Cape Town",
+  "fetchedAt": "2026-08-08T13:52:57.367Z"
+}

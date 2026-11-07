@@ -1,0 +1,36 @@
+{
+  "publicId": "c061efef",
+  "wikipediaSlug": "Dileep_Jhaveri",
+  "wikipediaId": "Q34837913",
+  "name": "Dileep Jhaveri",
+  "fullName": "Dileep Jhaveri",
+  "profileSummary": "Dileep Manubhai Jhaveri is an Indian Gujarati-language poet, playwright, translator, editor and physician from Mumbai, India. He is a recipient of the Sahitya Akademi Award (2024).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dileep_Jhaveri",
+  "dateOfBirth": "1943-04-03",
+  "birthDateParsed": "1943-04-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "playwright",
+    "translator",
+    "editor",
+    "physician",
+    "writer"
+  ],
+  "qid": "Q34837913",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-07T01:43:56.722Z"
+}

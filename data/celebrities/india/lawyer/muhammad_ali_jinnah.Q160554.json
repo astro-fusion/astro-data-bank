@@ -1,0 +1,34 @@
+{
+  "publicId": "da2ecb64",
+  "wikipediaSlug": "Muhammad_Ali_Jinnah",
+  "wikipediaId": "Q160554",
+  "name": "Muhammad Ali Jinnah",
+  "fullName": "Muhammad Ali Jinnah",
+  "profileSummary": "Muhammad Ali Jinnah was a barrister, statesman, and the founder of Pakistan. He served as the leader of the All-India Muslim League from 1913 until the independence of Pakistan on 14 August 1947, and then as Pakistan's first governor-general until his death a year later in 1948.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jinnah1945c.jpg/330px-Jinnah1945c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah",
+  "dateOfBirth": "1876-12-25",
+  "birthDateParsed": "1876-12-25",
+  "dateOfDeath": "1948-09-11",
+  "deathDateParsed": "1948-09-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.86",
+  "birthCoordinatesLng": "67.01",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "barrister",
+    "freedom fighter",
+    "politician"
+  ],
+  "qid": "Q160554",
+  "birthPlace": "Karachi",
+  "fetchedAt": "2026-08-08T00:24:22.062Z"
+}

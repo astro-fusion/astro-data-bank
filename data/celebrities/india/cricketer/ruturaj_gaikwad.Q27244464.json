@@ -1,0 +1,31 @@
+{
+  "publicId": "f730f09d",
+  "wikipediaSlug": "Ruturaj_Gaikwad",
+  "wikipediaId": "Q27244464",
+  "name": "Ruturaj Gaikwad",
+  "fullName": "Ruturaj Gaikwad",
+  "profileSummary": "Ruturaj Dashrat Gaikwad is an Indian cricketer who plays for the India national cricket team. He is a right-handed top order batter. He captained the Indian team that won the gold medal in the 2022 Asian Games.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ruturaj_Gaikwad.jpeg/330px-Ruturaj_Gaikwad.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruturaj_Gaikwad",
+  "dateOfBirth": "1997-01-31",
+  "birthDateParsed": "1997-01-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.521111111",
+  "birthCoordinatesLng": "73.855277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q27244464",
+  "birthPlace": "Pune",
+  "fetchedAt": "2026-08-09T03:16:24.186Z"
+}

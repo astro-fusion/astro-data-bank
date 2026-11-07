@@ -1,0 +1,31 @@
+{
+  "publicId": "1d0ccde0",
+  "wikipediaSlug": "Francis_Verner_Wylie",
+  "wikipediaId": "Q15040006",
+  "name": "Francis Verner Wylie",
+  "fullName": "Francis Verner Wylie",
+  "profileSummary": "Sir Francis Verner Wylie was an Indian Civil Servant.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Verner_Wylie",
+  "dateOfBirth": "1891-08-09",
+  "birthDateParsed": "1891-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat"
+  ],
+  "qid": "Q15040006",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-08T15:25:20.857Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "ed63f9ca",
+  "wikipediaSlug": "Asima_Chatterjee",
+  "wikipediaId": "Q7450",
+  "name": "Asima Chatterjee",
+  "fullName": "Asima Chatterjee",
+  "profileSummary": "Asima Chatterjee was an Indian organic chemist noted for her work in the fields of organic chemistry and phytomedicine. Her most notable work includes research on vinca alkaloids, the development of anti-epileptic drugs, and development of anti-malarial drugs. She also authored a considerable volume of work on medicinal plants of the Indian subcontinent. She was the first woman to receive a Doctorate of Science from an Indian university.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Asima_Chatterjee_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Asima_Chatterjee",
+  "dateOfBirth": "1917-09-23",
+  "birthDateParsed": "1917-09-23",
+  "dateOfDeath": "2006-11-22",
+  "deathDateParsed": "2006-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "botanist",
+    "university teacher",
+    "writer"
+  ],
+  "qid": "Q7450",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T04:18:13.195Z"
+}

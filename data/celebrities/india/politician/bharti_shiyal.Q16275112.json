@@ -1,0 +1,31 @@
+{
+  "publicId": "3b218452",
+  "wikipediaSlug": "Bharti_Shiyal",
+  "wikipediaId": "Q16275112",
+  "name": "Bharti Shiyal",
+  "fullName": "Bharti Shiyal",
+  "profileSummary": "Bharti Dhirubhai Shiyal is an Indian politician. She was elected to the Lok Sabha, the lower house of the Parliament of India from Bhavnagar, Gujarat as a member of the Bharatiya Janata Party. She was earlier elected to the Gujarat Legislative Assembly in 2012 from Talaja in Bhavnagar district. She is consulting Ayurvedic practitioner by profession. She belongs to Koli community of Gujarat. She is a National Vice President of the BJP.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bharti_Shiyal_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bharti_Shiyal",
+  "dateOfBirth": "1964-03-23",
+  "birthDateParsed": "1964-03-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.77445",
+  "birthCoordinatesLng": "72.1525",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q16275112",
+  "birthPlace": "Bhavnagar",
+  "fetchedAt": "2026-08-08T00:23:07.282Z"
+}

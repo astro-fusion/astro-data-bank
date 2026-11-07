@@ -1,0 +1,32 @@
+{
+  "publicId": "3a54b1db",
+  "wikipediaSlug": "Ghulam_Nabi_Firaq",
+  "wikipediaId": "Q31320299",
+  "name": "Ghulam Nabi Firaq",
+  "fullName": "Ghulam Nabi Firaq",
+  "profileSummary": "Professor Ghulam Nabi Firaq was a Kashmiri poet, writer and an educationist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ghulam_Nabi_Firaq.JPG/330px-Ghulam_Nabi_Firaq.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghulam_Nabi_Firaq",
+  "dateOfBirth": "1922-07-15",
+  "birthDateParsed": "1922-07-15",
+  "dateOfDeath": "2016-12-17",
+  "deathDateParsed": "2016-12-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q31320299",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-07T01:44:09.006Z"
+}

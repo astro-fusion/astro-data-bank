@@ -1,0 +1,31 @@
+{
+  "publicId": "12fca020",
+  "wikipediaSlug": "Narayan_Rane",
+  "wikipediaId": "Q3631470",
+  "name": "Narayan Rane",
+  "fullName": "Narayan Rane",
+  "profileSummary": "Narayan Tatu Rane is an Indian politician and Member of Parliament, Lok Sabha from Ratnagiri-Sindhudurg. He was a Chief Minister of Maharashtra. He formerly served as Minister of Micro, Small and Medium Enterprises in the Second Modi ministry. He has previously held Cabinet Ministry positions for Industry, Port, Employment and Self-employment; Revenue; and Industry in the Government of Maharashtra.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Narayan_Rane_with_PM_Modi_%28cropped%29.jpg/330px-Narayan_Rane_with_PM_Modi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Narayan_Rane",
+  "dateOfBirth": "1952-04-10",
+  "birthDateParsed": "1952-04-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3631470",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-09T12:06:59.018Z"
+}

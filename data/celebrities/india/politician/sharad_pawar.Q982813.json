@@ -1,0 +1,31 @@
+{
+  "publicId": "9b7f23b9",
+  "wikipediaSlug": "Sharad_Pawar",
+  "wikipediaId": "Q982813",
+  "name": "Sharad Pawar",
+  "fullName": "Sharad Pawar",
+  "profileSummary": "Sharadchandra Govindrao Pawar is an Indian politician who has served as a Member of Parliament, Rajya Sabha since 2014. Prior to 2014 he served as a member of Lok Sabha, as a member of the Nationalist Congress Party (NCP). He has served four terms as the Chief Minister of Maharashtra including (1990–1991): Following the 1990 assembly elections, he continued his leadership as Chief Minister, and held cabinet positions in the Union Council of Ministers, including the Minister of Defence under P. V. Narasimha Rao government and the Minister of Agriculture under Manmohan Singh government. In 1999, he founded the NCP following a split from the Indian National Congress. In July 2023, following a split within the NCP, he now leads the Sharadchandra Pawar faction. Pawar has been involved in several coalition governments and political alliances in Maharashtra.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/The_Union_Minister_for_Agriculture_and_Food_Processing_Industries%2C_Shri_Sharad_Pawar_addressing_at_the_launch_of_the_Sahana_Group%E2%80%99s_New_Marathi_Channel_%E2%80%9CJai_Maharashtra%E2%80%9D%2C_in_Mumbai_on_April_27%2C_2013_%28cropped%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharad_Pawar",
+  "dateOfBirth": "1940-12-12",
+  "birthDateParsed": "1940-12-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.521111111",
+  "birthCoordinatesLng": "73.855277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q982813",
+  "birthPlace": "Pune",
+  "fetchedAt": "2026-08-09T12:07:13.975Z"
+}

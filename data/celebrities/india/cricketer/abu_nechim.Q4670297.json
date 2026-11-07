@@ -1,0 +1,31 @@
+{
+  "publicId": "afbcdf7b",
+  "wikipediaSlug": "Abu_Nechim",
+  "wikipediaId": "Q4670297",
+  "name": "Abu Nechim",
+  "fullName": "Abu Nechim",
+  "profileSummary": "Abu Nechim Ahmed is an Indian cricketer who plays for Assam in domestic cricket and played for Royal Challengers Bangalore and Mumbai Indians in the Indian Premier League. He is a right-arm fast bowler and right-handed lower order batsman. He captained Assam cricket team in the Ranji Trophy, Vijay Hazare Trophy and Syed Mushtaq Ali Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Abu_Nechim.jpg/330px-Abu_Nechim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abu_Nechim",
+  "dateOfBirth": "1988-11-05",
+  "birthDateParsed": "1988-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.1805876",
+  "birthCoordinatesLng": "91.750238",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4670297",
+  "birthPlace": "Guwahati",
+  "fetchedAt": "2026-08-08T13:52:19.092Z"
+}

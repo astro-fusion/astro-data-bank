@@ -1,0 +1,32 @@
+{
+  "publicId": "1a16ccd7",
+  "wikipediaSlug": "M._S._Krishnan_(geologist)",
+  "wikipediaId": "Q15455923",
+  "name": "M. S. Krishnan (geologist)",
+  "fullName": "M. S. Krishnan (geologist)",
+  "profileSummary": "Maharajapuram Seetharaman Krishnan was an Indian Geologist. He was the first Indian to serve as the Director of the Geological Survey of India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dr._M_S_Krishnan.jpg/330px-Dr._M_S_Krishnan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/M._S._Krishnan_(geologist)",
+  "dateOfBirth": "1898-08-24",
+  "birthDateParsed": "1898-08-24",
+  "dateOfDeath": "1970-04-24",
+  "deathDateParsed": "1970-04-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.787",
+  "birthCoordinatesLng": "79.137806",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "geologist",
+    "university teacher"
+  ],
+  "qid": "Q15455923",
+  "birthPlace": "Thanjavur",
+  "fetchedAt": "2026-08-06T04:20:33.360Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "4a2d31a1",
+  "wikipediaSlug": "Jayanta_Mahapatra",
+  "wikipediaId": "Q5886890",
+  "name": "Jayanta Mahapatra",
+  "fullName": "Jayanta Mahapatra",
+  "profileSummary": "Jayanta Mahapatra was an Indian poet. He is the first Indian poet to win a Sahitya Akademi award for English poetry. He was the author of poems such as \"Indian Summer\" and \"Hunger\", which are regarded as classics in modern Indian English literature. He was awarded a Padma Shri, the fourth highest civilian honour in India in 2009, but he returned the award in 2015 to protest against rising intolerance in India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jayanta_Mahapatra.JPG/330px-Jayanta_Mahapatra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jayanta_Mahapatra",
+  "dateOfBirth": "1928-10-22",
+  "birthDateParsed": "1928-10-22",
+  "dateOfDeath": "2023-08-27",
+  "deathDateParsed": "2023-08-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.45",
+  "birthCoordinatesLng": "85.866666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "translator",
+    "writer"
+  ],
+  "qid": "Q5886890",
+  "birthPlace": "Cuttack",
+  "fetchedAt": "2026-08-07T01:44:36.539Z"
+}

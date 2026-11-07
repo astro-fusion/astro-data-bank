@@ -1,0 +1,31 @@
+{
+  "publicId": "25d6c583",
+  "wikipediaSlug": "Piyush_Chawla",
+  "wikipediaId": "Q3521395",
+  "name": "Piyush Chawla",
+  "fullName": "Piyush Chawla",
+  "profileSummary": "Piyush Chawla is an Indian cricketer. He is an all-rounder, who bats left handed and bowls right-arm leg break. Chawla has played for the India national team, and was a member of the Indian squad that won the 2007 T20 World Cup and the 2011 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Piyush_Chawla_2019.jpg/330px-Piyush_Chawla_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Piyush_Chawla",
+  "dateOfBirth": "1988-12-24",
+  "birthDateParsed": "1988-12-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.88",
+  "birthCoordinatesLng": "78.08",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3521395",
+  "birthPlace": "Aligarh",
+  "fetchedAt": "2026-08-09T03:15:59.800Z"
+}

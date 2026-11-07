@@ -1,0 +1,31 @@
+{
+  "publicId": "9ac2186a",
+  "wikipediaSlug": "Anmolpreet_Singh",
+  "wikipediaId": "Q23761384",
+  "name": "Anmolpreet Singh",
+  "fullName": "Anmolpreet Singh",
+  "profileSummary": "Anmolpreet Singh is an Indian professional cricketer who plays for Punjab. He has made appearances in the Indian Premier League for Mumbai Indians and Sunrisers Hyderabad.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Anmolpreet_Singh_2.jpg/330px-Anmolpreet_Singh_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anmolpreet_Singh",
+  "dateOfBirth": "1998-03-28",
+  "birthDateParsed": "1998-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.566666666",
+  "birthCoordinatesLng": "76.633333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q23761384",
+  "birthPlace": "Patiala",
+  "fetchedAt": "2026-08-08T13:52:43.219Z"
+}

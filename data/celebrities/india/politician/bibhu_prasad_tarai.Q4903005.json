@@ -1,5 +1,5 @@
 {
-  "publicId": "37423a71",
+  "publicId": "478b6e7d",
   "wikipediaSlug": "Bibhu_Prasad_Tarai",
   "wikipediaId": "Q4903005",
   "name": "Bibhu Prasad Tarai",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bibhu_Prasad_Tarai_MP_2024.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bibhu_Prasad_Tarai",
   "dateOfBirth": "1964-06-17",
+  "birthDateParsed": "1964-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "6",
-  "sunSign": "3",
-  "lagnaSignText": "5",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4903005",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:21:17.336Z"
+  "fetchedAt": "2026-08-07T00:26:51.573Z"
 }

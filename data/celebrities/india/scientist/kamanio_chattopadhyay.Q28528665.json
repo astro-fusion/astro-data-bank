@@ -1,0 +1,31 @@
+{
+  "publicId": "7df84d37",
+  "wikipediaSlug": "Kamanio_Chattopadhyay",
+  "wikipediaId": "Q28528665",
+  "name": "Kamanio Chattopadhyay",
+  "fullName": "Kamanio Chattopadhyay",
+  "profileSummary": "Kamanio Chattopadhyay is an Indian materials engineer and an honorary professor at the Indian Institute of Science, Bengaluru.\n He is the chair of the Mechanical Sciences Division of IISc and a former chair of the Department of Materials Engineering.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kamanio_chattopadhyay.jpeg/330px-Kamanio_chattopadhyay.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamanio_Chattopadhyay",
+  "dateOfBirth": "1950-03-03",
+  "birthDateParsed": "1950-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23",
+  "birthCoordinatesLng": "87",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "scientist"
+  ],
+  "qid": "Q28528665",
+  "birthPlace": "West Bengal",
+  "fetchedAt": "2026-08-06T04:19:59.612Z"
+}

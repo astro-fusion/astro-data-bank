@@ -1,0 +1,32 @@
+{
+  "publicId": "13d34d5f",
+  "wikipediaSlug": "Syed_Hasan_Imam",
+  "wikipediaId": "Q7660338",
+  "name": "Syed Hasan Imam",
+  "fullName": "Syed Hasan Imam",
+  "profileSummary": "Syed Hasan Imam was an Indian barrister and politician who served as the President of the Indian National Congress and was elected in September 1918.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Syed_Hasan_Imam.jpg/330px-Syed_Hasan_Imam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Syed_Hasan_Imam",
+  "dateOfBirth": "1871-08-31",
+  "birthDateParsed": "1871-08-31",
+  "dateOfDeath": "1933-04-19",
+  "deathDateParsed": "1933-04-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "barrister"
+  ],
+  "qid": "Q7660338",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-07T10:34:05.093Z"
+}

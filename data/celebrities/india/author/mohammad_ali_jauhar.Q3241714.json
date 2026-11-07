@@ -1,0 +1,35 @@
+{
+  "publicId": "72c27500",
+  "wikipediaSlug": "Mohammad_Ali_Jauhar",
+  "wikipediaId": "Q3241714",
+  "name": "Mohammad Ali Jauhar",
+  "fullName": "Mohammad Ali Jauhar",
+  "profileSummary": "Muhammad Ali Jawhar was an Indian politician and activist of the Indian independence movement. He was a co-founder of the All-India Muslim League and Jamia Millia Islamia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Molana-Muhammad-Ali.jpg/330px-Molana-Muhammad-Ali.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Ali_Jauhar",
+  "dateOfBirth": "1878-12-10",
+  "birthDateParsed": "1878-12-10",
+  "dateOfDeath": "1931-01-04",
+  "deathDateParsed": "1931-01-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.81014",
+  "birthCoordinatesLng": "79.02699",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "author",
+    "journalist",
+    "translator",
+    "freedom fighter",
+    "politician"
+  ],
+  "qid": "Q3241714",
+  "birthPlace": "Rampur",
+  "fetchedAt": "2026-08-07T10:33:21.237Z"
+}

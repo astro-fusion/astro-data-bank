@@ -1,13 +1,16 @@
 {
-  "publicId": "3fcc13a3",
+  "publicId": "ad08f923",
   "wikipediaSlug": "Sachin_Tendulkar",
   "wikipediaId": "Q9488",
   "name": "Sachin Tendulkar",
   "fullName": "Sachin Tendulkar",
-  "profileSummary": "Sachin Ramesh Tendulkar is an Indian former international cricketer who captained the Indian national team. Often dubbed the \"God of Cricket\" in India, he is widely regarded as one of the greatest cricketers of all time. He holds several world records, including being the all-time highest run-scorer in international cricket, receiving the most player of the match awards in international cricket, and being the only batsman to score 100 international centuries. Tendulkar was a Member of Parliament, Rajya Sabha by presidential nomination from 2012 to 2018.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg/330px-The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg",
+  "profileSummary": "Sachin Ramesh Tendulkar is an Indian former international cricketer who captained the Indian national team. Tendulkar is widely regarded as one of the greatest cricketers in the history of cricket. He holds several world records, including being the all-time highest run-scorer in international cricket, receiving the most player of the match awards in international cricket, and being the only batsman to score 100 international centuries. Tendulkar was a Member of Parliament, Rajya Sabha by presidential nomination from 2012 to 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg/330px-The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
   "dateOfBirth": "1973-04-24",
+  "birthDateParsed": "1973-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.075833333",
   "birthCoordinatesLng": "72.8775",
@@ -25,5 +28,5 @@
   ],
   "qid": "Q9488",
   "birthPlace": "Mumbai",
-  "fetchedAt": "2026-04-07T10:58:21.047Z"
+  "fetchedAt": "2026-08-06T16:12:17.024Z"
 }

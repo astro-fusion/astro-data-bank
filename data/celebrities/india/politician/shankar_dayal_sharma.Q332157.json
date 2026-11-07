@@ -1,0 +1,32 @@
+{
+  "publicId": "c72c1487",
+  "wikipediaSlug": "Shankar_Dayal_Sharma",
+  "wikipediaId": "Q332157",
+  "name": "Shankar Dayal Sharma",
+  "fullName": "Shankar Dayal Sharma",
+  "profileSummary": "Shankar Dayal Sharma was an Indian lawyer and politician who served as the president of India from 1992 to 1997 and vice president of India from 1987 to 1992.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Shri_Shankar_Dayal_Sharma.jpg/330px-Shri_Shankar_Dayal_Sharma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shankar_Dayal_Sharma",
+  "dateOfBirth": "1918-08-19",
+  "birthDateParsed": "1918-08-19",
+  "dateOfDeath": "1999-12-26",
+  "deathDateParsed": "1999-12-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.258888888",
+  "birthCoordinatesLng": "77.4125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q332157",
+  "birthPlace": "Bhopal",
+  "fetchedAt": "2026-08-07T10:33:47.113Z"
+}

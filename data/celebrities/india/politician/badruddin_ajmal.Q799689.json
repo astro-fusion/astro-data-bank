@@ -1,5 +1,5 @@
 {
-  "publicId": "f795b0af",
+  "publicId": "0a2eb94e",
   "wikipediaSlug": "Badruddin_Ajmal",
   "wikipediaId": "Q799689",
   "name": "Badruddin Ajmal",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Shri_M._Badruddin_Ajmal_2016.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Badruddin_Ajmal",
   "dateOfBirth": "1950-02-12",
+  "birthDateParsed": "1950-02-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "26.349166666",
   "birthCoordinatesLng": "92.686111111",
-  "moonSign": "9",
-  "sunSign": "10",
-  "lagnaSignText": "2",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q799689",
   "birthPlace": "Nagaon",
-  "fetchedAt": "2026-04-07T16:20:35.804Z"
+  "fetchedAt": "2026-08-07T00:25:51.237Z"
 }

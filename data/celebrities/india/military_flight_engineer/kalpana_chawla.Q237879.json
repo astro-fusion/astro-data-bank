@@ -1,0 +1,33 @@
+{
+  "publicId": "d92b2e4e",
+  "wikipediaSlug": "Kalpana_Chawla",
+  "wikipediaId": "Q237879",
+  "name": "Kalpana Chawla",
+  "fullName": "Kalpana Chawla",
+  "profileSummary": "Kalpana Chawla was an Indian-American astronaut, aerospace engineer, and pilot who was the first Indian woman to fly to space. She participated in two spaceflights, STS-87 and STS-107, in 1997 and 2003, respectively. On both of these flights, she conducted scientific experiments researching the effects of microgravity on various physical processes. When the crew members in STS-107 descended back to Earth, Space Shuttle Columbia disintegrated due to damage it sustained at liftoff. This killed all seven astronauts on board, including Chawla.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kalpana_Chawla%2C_NASA_photo_portrait_in_orange_suit.jpg/330px-Kalpana_Chawla%2C_NASA_photo_portrait_in_orange_suit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kalpana_Chawla",
+  "dateOfBirth": "1962-03-17",
+  "birthDateParsed": "1962-03-17",
+  "dateOfDeath": "2003-02-01",
+  "deathDateParsed": "2003-02-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.69",
+  "birthCoordinatesLng": "76.988333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "astronaut",
+    "amateur radio operator"
+  ],
+  "qid": "Q237879",
+  "birthPlace": "Karnal",
+  "fetchedAt": "2026-08-06T04:19:17.921Z"
+}

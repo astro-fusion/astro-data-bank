@@ -1,13 +1,16 @@
 {
-  "publicId": "e8fc4e7d",
+  "publicId": "0e51e2e4",
   "wikipediaSlug": "Karn_Sharma",
   "wikipediaId": "Q16225462",
   "name": "Karn Sharma",
   "fullName": "Karn Sharma",
   "profileSummary": "Karn Vinod Sharma is an Indian cricketer. He plays as an all-rounder for the Railways cricket team. He is a left-hand batsman and leg break bowler. He made his Twenty20 International debut against England in 2014. He made his One Day International debut for India against Sri Lanka on 13 November 2014. He made his Test debut against Australia in Adelaide on 9 December 2014.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Karn_Sharma_2015.jpg/330px-Karn_Sharma_2015.jpg",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Karn_Sharma_2015.jpg/330px-Karn_Sharma_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Karn_Sharma",
   "dateOfBirth": "1987-10-23",
+  "birthDateParsed": "1987-10-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.98",
   "birthCoordinatesLng": "77.706388888",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q16225462",
   "birthPlace": "Meerut",
-  "fetchedAt": "2026-04-07T10:58:09.461Z"
+  "fetchedAt": "2026-08-09T03:15:46.058Z"
 }

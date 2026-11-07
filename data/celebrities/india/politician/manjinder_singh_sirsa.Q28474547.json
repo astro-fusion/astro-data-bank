@@ -1,0 +1,31 @@
+{
+  "publicId": "4b371076",
+  "wikipediaSlug": "Manjinder_Singh_Sirsa",
+  "wikipediaId": "Q28474547",
+  "name": "Manjinder Singh Sirsa",
+  "fullName": "Manjinder Singh Sirsa",
+  "profileSummary": "Manjinder Singh Sirsa is an Indian politician who is serving as a cabinet minister in the Government of Delhi and National Secretary of the Bharatiya Janata Party. Sirsa is a member of the Delhi Legislative Assembly, representing Rajouri Garden.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Official_portrait%2C2025.jpg/330px-Official_portrait%2C2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manjinder_Singh_Sirsa",
+  "dateOfBirth": "1972-02-28",
+  "birthDateParsed": "1972-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.532222222",
+  "birthCoordinatesLng": "75.031944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q28474547",
+  "birthPlace": "Sirsa",
+  "fetchedAt": "2026-08-08T00:24:46.781Z"
+}

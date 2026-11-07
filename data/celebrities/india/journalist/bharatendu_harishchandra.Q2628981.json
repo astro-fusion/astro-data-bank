@@ -1,0 +1,36 @@
+{
+  "publicId": "2e4d821d",
+  "wikipediaSlug": "Bharatendu_Harishchandra",
+  "wikipediaId": "Q2628981",
+  "name": "Bharatendu Harishchandra",
+  "fullName": "Bharatendu Harishchandra",
+  "profileSummary": "Bharatendu Harishchandra was an Indian poet, writer, and playwright. He authored several dramas, biographical sketches, and travel accounts with the goal of influencing public opinion. Bharatendu Harishchandra is often considered the father of modern Hindi literature and theatre. Some modern Indian authors have described him as a Yug Charan for his writing depicting the exploitative nature of the British Raj.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bharatendu_Harishchandra_1976_stamp_of_India.jpg/330px-Bharatendu_Harishchandra_1976_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bharatendu_Harishchandra",
+  "dateOfBirth": "1850-09-09",
+  "birthDateParsed": "1850-09-09",
+  "dateOfDeath": "1885-01-06",
+  "deathDateParsed": "1885-01-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.318888888",
+  "birthCoordinatesLng": "83.012777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "writer",
+    "poet",
+    "playwright",
+    "opinion journalist",
+    "novelist"
+  ],
+  "qid": "Q2628981",
+  "birthPlace": "Varanasi",
+  "fetchedAt": "2026-08-07T01:41:58.734Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "217cb44a",
+  "wikipediaSlug": "André_Nel",
+  "wikipediaId": "Q3525729",
+  "name": "André Nel",
+  "fullName": "André Nel",
+  "profileSummary": "André Nel is a South African former cricketer who played all formats as a fast bowler. He retired from international cricket on 25 March 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Andre_Nel_Bfdefence.jpg/330px-Andre_Nel_Bfdefence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Nel",
+  "dateOfBirth": "1977-06-15",
+  "birthDateParsed": "1977-06-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.216666666",
+  "birthCoordinatesLng": "28.166666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525729",
+  "birthPlace": "Germiston",
+  "fetchedAt": "2026-08-08T13:52:26.820Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "9a424280",
+  "wikipediaSlug": "David_Hussey",
+  "wikipediaId": "Q672856",
+  "name": "David Hussey",
+  "fullName": "David Hussey",
+  "profileSummary": "David John Hussey is an Australian cricket coach and former cricketer. Hussey is a right-handed batter and can also bowl right-arm off breaks. He is the younger brother of former Australian cricketer Michael Hussey. He was captain of the Melbourne Stars in the Big Bash League.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/David_Hussey_2.jpg/330px-David_Hussey_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Hussey",
+  "dateOfBirth": "1977-07-15",
+  "birthDateParsed": "1977-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.9301013",
+  "birthCoordinatesLng": "115.8746073",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q672856",
+  "birthPlace": "Mount Lawley",
+  "fetchedAt": "2026-08-09T03:15:08.666Z"
+}

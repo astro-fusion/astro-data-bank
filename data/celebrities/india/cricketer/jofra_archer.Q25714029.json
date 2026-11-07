@@ -1,0 +1,31 @@
+{
+  "publicId": "d85baada",
+  "wikipediaSlug": "Jofra_Archer",
+  "wikipediaId": "Q25714029",
+  "name": "Jofra Archer",
+  "fullName": "Jofra Archer",
+  "profileSummary": "Jofra Chioke Archer is an English cricketer who represents England in all formats as a right-arm fast bowler. In domestic cricket he plays for Sussex as well as a number of T20 franchises. Archer was a member of the England squad that won the 2019 Cricket World Cup. In April 2020, Archer was named as one of the Wisden Cricketers of the Year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Jofra_Archer_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jofra_Archer",
+  "dateOfBirth": "1995-04-01",
+  "birthDateParsed": "1995-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0975",
+  "birthCoordinatesLng": "-59.616666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q25714029",
+  "birthPlace": "Bridgetown",
+  "fetchedAt": "2026-08-08T13:54:11.531Z"
+}

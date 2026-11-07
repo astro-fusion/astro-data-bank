@@ -1,0 +1,31 @@
+{
+  "publicId": "abdd5bd6",
+  "wikipediaSlug": "Aryan_Juyal",
+  "wikipediaId": "Q56248299",
+  "name": "Aryan Juyal",
+  "fullName": "Aryan Juyal",
+  "profileSummary": "Aryan Juyal is an Indian cricketer. He played as right hand batter and Wicket-keeper. He represented Uttar Pradesh in domestic cricket.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aryan_Juyal",
+  "dateOfBirth": "2001-11-11",
+  "birthDateParsed": "2001-11-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.838888888",
+  "birthCoordinatesLng": "78.776944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q56248299",
+  "birthPlace": "Moradabad",
+  "fetchedAt": "2026-08-08T13:52:51.151Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "873764f3",
+  "wikipediaSlug": "Jnan_Chandra_Ghosh",
+  "wikipediaId": "Q15647901",
+  "name": "Jnan Chandra Ghosh",
+  "fullName": "Jnan Chandra Ghosh",
+  "profileSummary": "Sir Jnan Chandra Ghosh or Jnanendra Chandra Ghosh was an Indian chemist best known for his contribution to the development of scientific research, industrial development and technology education in India. He served as the director of the newly formed Eastern Higher Technical Institute in 1950, which was renamed as IIT Kharagpur in 1951. He was also the director of the Indian Institute of Science Bangalore and Vice Chancellor of the University of Calcutta.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jnan_Chandra_Ghosh.jpg/330px-Jnan_Chandra_Ghosh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jnan_Chandra_Ghosh",
+  "dateOfBirth": "1894-09-14",
+  "birthDateParsed": "1894-09-14",
+  "dateOfDeath": "1959-01-21",
+  "deathDateParsed": "1959-01-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.18138889",
+  "birthCoordinatesLng": "86.31083333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist"
+  ],
+  "qid": "Q15647901",
+  "birthPlace": "Giridih",
+  "fetchedAt": "2026-08-06T04:20:04.852Z"
+}

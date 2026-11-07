@@ -1,0 +1,32 @@
+{
+  "publicId": "649ae609",
+  "wikipediaSlug": "Changampuzha_Krishna_Pillai",
+  "wikipediaId": "Q2956035",
+  "name": "Changampuzha Krishna Pillai",
+  "fullName": "Changampuzha Krishna Pillai",
+  "profileSummary": "Changampuzha Krishna Pillai was a celebrated Malayalam poet from Kerala, India, known for his elegy Ramanan which was written in 1936 and sold over 100,000 copies. It is a long pastoral elegy, a play written in the form of verse, allegedly based on the life of Changampuzha's friend Edappally Raghavan Pillai. It was adapted into a movie in 1967. He is credited with bringing poetry to the masses with his simple romantic style. He died of tuberculosis aged 36. His style influenced the next few generations of Malayalam poetry, notable among them was Vayalar Ramavarma, famous Malayalam lyricist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Changampuzha.jpg/330px-Changampuzha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Changampuzha_Krishna_Pillai",
+  "dateOfBirth": "1911-10-11",
+  "birthDateParsed": "1911-10-11",
+  "dateOfDeath": "1948-06-17",
+  "deathDateParsed": "1948-06-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.977",
+  "birthCoordinatesLng": "76.27",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q2956035",
+  "birthPlace": "Edappally",
+  "fetchedAt": "2026-08-07T01:42:38.409Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "c42ccb97",
+  "wikipediaSlug": "Harish-Chandra",
+  "wikipediaId": "Q1585395",
+  "name": "Harish-Chandra",
+  "fullName": "Harish-Chandra",
+  "profileSummary": "Harish-Chandra FRS was an Indian-American mathematician and physicist who did fundamental work in representation theory, especially harmonic analysis on semisimple Lie groups.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Harish-Chandra_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harish-Chandra",
+  "dateOfBirth": "1923-10-11",
+  "birthDateParsed": "1923-10-11",
+  "dateOfDeath": "1983-10-16",
+  "deathDateParsed": "1983-10-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.4725",
+  "birthCoordinatesLng": "80.331111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q1585395",
+  "birthPlace": "Kanpur",
+  "fetchedAt": "2026-08-06T07:27:48.944Z"
+}

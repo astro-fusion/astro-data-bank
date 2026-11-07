@@ -1,20 +1,25 @@
 {
-  "publicId": "b27b85b1",
+  "publicId": "708b1f1e",
   "wikipediaSlug": "Ajit_Pawar",
   "wikipediaId": "Q4699799",
   "name": "Ajit Pawar",
   "fullName": "Ajit Pawar",
   "profileSummary": "Ajit Anantrao Pawar was an Indian politician who served as Maharashtra's longest-serving deputy chief minister for more than eight years, between 2010 and his death in 2026, for six terms. He held the office under various governments, including the cabinets of Prithviraj Chavan, Devendra Fadnavis, Uddhav Thackeray, and Eknath Shinde.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Shri_Ajit_Anantrao_Pawar.jpg",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Shri_Ajit_Anantrao_Pawar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajit_Pawar",
   "dateOfBirth": "1959-07-22",
+  "birthDateParsed": "1959-07-22",
+  "dateOfDeath": "2026-01-28",
+  "deathDateParsed": "2026-01-28",
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.473",
   "birthCoordinatesLng": "74.62",
-  "moonSign": "11",
-  "sunSign": "4",
-  "lagnaSignText": "6",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4699799",
   "birthPlace": "Deolali Pravara",
-  "fetchedAt": "2026-04-07T16:19:40.554Z"
+  "fetchedAt": "2026-08-07T00:24:52.363Z"
 }

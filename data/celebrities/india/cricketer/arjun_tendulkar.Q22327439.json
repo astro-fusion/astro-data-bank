@@ -1,0 +1,31 @@
+{
+  "publicId": "63225cb7",
+  "wikipediaSlug": "Arjun_Tendulkar",
+  "wikipediaId": "Q22327439",
+  "name": "Arjun Tendulkar",
+  "fullName": "Arjun Tendulkar",
+  "profileSummary": "Arjun Sachin Tendulkar  is an Indian cricketer who plays for Goa in domestic cricket and Lucknow Super Giants in the Indian Premier League. He is the son of former cricketer Sachin Tendulkar.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sachin_Tendulkar_family_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arjun_Tendulkar",
+  "dateOfBirth": "1999-09-24",
+  "birthDateParsed": "1999-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q22327439",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-08T13:52:42.091Z"
+}

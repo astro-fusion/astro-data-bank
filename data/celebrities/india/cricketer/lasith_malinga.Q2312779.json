@@ -1,0 +1,31 @@
+{
+  "publicId": "1c540f4c",
+  "wikipediaSlug": "Lasith_Malinga",
+  "wikipediaId": "Q2312779",
+  "name": "Lasith Malinga",
+  "fullName": "Lasith Malinga",
+  "profileSummary": "Separamadu Lasith Malinga is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time. Playing as a right-arm fast bowler, Malinga was commonly used as a specialist death bowler, and captained the Sri Lanka national cricket team to the 2014 T20 World Cup title. He was nicknamed \"Slinga Malinga\" due to his distinctive round-arm action, sometimes referred to as a sling action. He announced his retirement from all forms of cricket on 14 September 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg/330px-Lasith_Malinga_tossing_a_cricket_ball_at_practice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasith_Malinga",
+  "dateOfBirth": "1983-08-28",
+  "birthDateParsed": "1983-08-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.032777777",
+  "birthCoordinatesLng": "80.215555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2312779",
+  "birthPlace": "Galle",
+  "fetchedAt": "2026-08-08T13:53:29.171Z"
+}

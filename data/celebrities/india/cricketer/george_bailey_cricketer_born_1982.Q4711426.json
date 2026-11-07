@@ -1,0 +1,31 @@
+{
+  "publicId": "f9ba32b5",
+  "wikipediaSlug": "George_Bailey_(cricketer,_born_1982)",
+  "wikipediaId": "Q4711426",
+  "name": "George Bailey (cricketer, born 1982)",
+  "fullName": "George Bailey (cricketer, born 1982)",
+  "profileSummary": "George John Bailey is a former Australian cricketer, who played all formats for the national team and captained the team in limited-over formats. Domestically, Bailey played for the Tasmanian cricket team in all three domestic state competitions as well as the Hobart Hurricanes and Melbourne Stars in the Twenty20 Big Bash's successor, the KFC Big Bash League. He has also played in the Indian Premier League and T20 Blast, and in Scotland with Grange Cricket Club. Bailey was a member of the Australian team that won the 2015 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GEORGE_BAILEY_%2811704709453%29.jpg/330px-GEORGE_BAILEY_%2811704709453%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Bailey_(cricketer%2C_born_1982)",
+  "dateOfBirth": "1982-09-07",
+  "birthDateParsed": "1982-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.444444444",
+  "birthCoordinatesLng": "147.137777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4711426",
+  "birthPlace": "Launceston",
+  "fetchedAt": "2026-08-09T03:15:32.683Z"
+}

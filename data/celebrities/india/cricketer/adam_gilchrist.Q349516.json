@@ -1,0 +1,31 @@
+{
+  "publicId": "1ab351fd",
+  "wikipediaSlug": "Adam_Gilchrist",
+  "wikipediaId": "Q349516",
+  "name": "Adam Gilchrist",
+  "fullName": "Adam Gilchrist",
+  "profileSummary": "Adam Craig Gilchrist is an Australian cricket commentator and former international cricketer and captain of the Australia national cricket team. He was an attacking left-handed batsman and record-breaking wicket-keeper, who redefined the role for the Australia national team through his aggressive batting. Widely regarded as the greatest wicket-keeper-batsman in the history of the game, Gilchrist held the world record for the most dismissals by a wicket-keeper in One Day International (ODI) cricket until it was surpassed by Kumar Sangakkara in 2015 and the most by an Australian in Test cricket. Gilchrist was a member of the Australian team that won three consecutive world titles in a row: the 1999 Cricket World Cup, the 2003 Cricket World Cup, and the 2007 Cricket World Cup, along with winning the 2006 ICC Champions Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Adam_Gilchrist_of_Australia_%28cropped%29.jpg/330px-Adam_Gilchrist_of_Australia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Gilchrist",
+  "dateOfBirth": "1969-11-14",
+  "birthDateParsed": "1969-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-30.448333333",
+  "birthCoordinatesLng": "152.9011111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q349516",
+  "birthPlace": "Bellingen",
+  "fetchedAt": "2026-08-06T16:11:40.687Z"
+}

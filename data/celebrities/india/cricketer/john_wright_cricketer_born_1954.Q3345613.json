@@ -1,0 +1,31 @@
+{
+  "publicId": "afe0c326",
+  "wikipediaSlug": "John_Wright_(cricketer,_born_1954)",
+  "wikipediaId": "Q3345613",
+  "name": "John Wright (cricketer, born 1954)",
+  "fullName": "John Wright (cricketer, born 1954)",
+  "profileSummary": "John Geoffrey Wright is a former international cricketer who represented – and captained – New Zealand. He made his international debut in 1978 against England.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/John_Wright_1990_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Wright_(cricketer%2C_born_1954)",
+  "dateOfBirth": "1954-07-05",
+  "birthDateParsed": "1954-07-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.488",
+  "birthCoordinatesLng": "172.109",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3345613",
+  "birthPlace": "Darfield",
+  "fetchedAt": "2026-08-08T13:53:35.127Z"
+}

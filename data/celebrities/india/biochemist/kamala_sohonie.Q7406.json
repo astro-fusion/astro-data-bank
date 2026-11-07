@@ -1,0 +1,32 @@
+{
+  "publicId": "25830d8e",
+  "wikipediaSlug": "Kamala_Sohonie",
+  "wikipediaId": "Q7406",
+  "name": "Kamala Sohonie",
+  "fullName": "Kamala Sohonie",
+  "profileSummary": "Kamala Sohonie was an Indian biochemist who in 1939 became the first Indian woman to receive a PhD in a scientific discipline. Her acceptance into and work at the Indian Institute of Science, Bengaluru, paved the way for women to be accepted into the institution for the first time in its history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Kamala_Sohonie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamala_Sohonie",
+  "dateOfBirth": "1911-06-18",
+  "birthDateParsed": "1911-06-18",
+  "dateOfDeath": "1998-06-28",
+  "deathDateParsed": "1998-06-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.718611111",
+  "birthCoordinatesLng": "75.855",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "researcher"
+  ],
+  "qid": "Q7406",
+  "birthPlace": "Indore",
+  "fetchedAt": "2026-08-06T04:19:35.239Z"
+}

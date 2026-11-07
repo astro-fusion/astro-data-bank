@@ -1,0 +1,31 @@
+{
+  "publicId": "260af0cf",
+  "wikipediaSlug": "Amol_Redij",
+  "wikipediaId": "Q4747490",
+  "name": "Amol Redij",
+  "fullName": "Amol Redij",
+  "profileSummary": "Amol Redij is author, poet, and creative content designer from Maharashtra, India. He was awarded Literoma Author Achiever Award 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Amol_Redij.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amol_Redij",
+  "dateOfBirth": "1977-09-18",
+  "birthDateParsed": "1977-09-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "author"
+  ],
+  "qid": "Q4747490",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-07T01:42:00.380Z"
+}

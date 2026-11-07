@@ -1,0 +1,31 @@
+{
+  "publicId": "8202c200",
+  "wikipediaSlug": "C._P._Ramanujam",
+  "wikipediaId": "Q5006756",
+  "name": "C. P. Ramanujam",
+  "fullName": "C. P. Ramanujam",
+  "profileSummary": "Chidambaram Padmanabhan Ramanujam was an Indian mathematician who worked in the fields of number theory and algebraic geometry. He was elected a fellow of the Indian Academy of Sciences in 1973.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C._P._Ramanujam",
+  "dateOfBirth": "1938-01-09",
+  "birthDateParsed": "1938-01-09",
+  "dateOfDeath": "1974-10-27",
+  "deathDateParsed": "1974-10-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0825",
+  "birthCoordinatesLng": "80.275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q5006756",
+  "birthPlace": "Chennai",
+  "fetchedAt": "2026-08-06T07:27:41.855Z"
+}

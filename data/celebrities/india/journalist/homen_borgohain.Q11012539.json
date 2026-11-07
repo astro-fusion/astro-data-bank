@@ -1,0 +1,35 @@
+{
+  "publicId": "5e045f49",
+  "wikipediaSlug": "Homen_Borgohain",
+  "wikipediaId": "Q11012539",
+  "name": "Homen Borgohain",
+  "fullName": "Homen Borgohain",
+  "profileSummary": "Homen Borgohain was an Assamese author and journalist. He was awarded the 1978 Sahitya Akademi Award in Assamese language for his novel Pita Putra. He was also the President of Assam Sahitya Sabha from 2001 to 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Homen-bgn.jpg/330px-Homen-bgn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Homen_Borgohain",
+  "dateOfBirth": "1932-12-07",
+  "birthDateParsed": "1932-12-07",
+  "dateOfDeath": "2021-05-12",
+  "deathDateParsed": "2021-05-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26",
+  "birthCoordinatesLng": "93",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "poet",
+    "editor",
+    "writer",
+    "critic"
+  ],
+  "qid": "Q11012539",
+  "birthPlace": "Assam",
+  "fetchedAt": "2026-08-07T01:44:10.385Z"
+}

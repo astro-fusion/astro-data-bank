@@ -1,0 +1,31 @@
+{
+  "publicId": "7463c77d",
+  "wikipediaSlug": "Muhammad_Shah",
+  "wikipediaId": "Q558714",
+  "name": "Muhammad Shah",
+  "fullName": "Muhammad Shah",
+  "profileSummary": "Mirza Nasir-ud-Din Muḥammad Shah was the thirteenth Mughal emperor from 1719 to 1748. He was son of Khujista Akhtar, the fourth son of Bahadur Shah I. After being chosen by the Sayyid Brothers of Barha, he ascended the throne at the young age of 18, under their strict supervision.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nidha_Mal_Jharokha_portrait_of_Muhammad_Shah_holding_an_emerald_and_the_mouthpiece_of_a_huqqa_ca._1730_The_San_Diego_Museum_of_Art.jpg/330px-Nidha_Mal_Jharokha_portrait_of_Muhammad_Shah_holding_an_emerald_and_the_mouthpiece_of_a_huqqa_ca._1730_The_San_Diego_Museum_of_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Shah",
+  "dateOfBirth": "1702-08-07",
+  "birthDateParsed": "1702-08-07",
+  "dateOfDeath": "1747-04-16",
+  "deathDateParsed": "1747-04-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.091111111",
+  "birthCoordinatesLng": "77.661111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "calligrapher"
+  ],
+  "qid": "Q558714",
+  "birthPlace": "Fatehpur Sikri",
+  "fetchedAt": "2026-08-07T11:49:13.135Z"
+}

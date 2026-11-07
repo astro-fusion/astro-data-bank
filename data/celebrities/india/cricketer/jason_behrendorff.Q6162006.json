@@ -1,0 +1,31 @@
+{
+  "publicId": "0976cf6b",
+  "wikipediaSlug": "Jason_Behrendorff",
+  "wikipediaId": "Q6162006",
+  "name": "Jason Behrendorff",
+  "fullName": "Jason Behrendorff",
+  "profileSummary": "Jason Paul Behrendorff is an Australian cricketer who played One Day Internationals and Twenty20 Internationals for Australia and first-class and List A cricket for Western Australia, but has now retired from those formats of cricket. He currently plays Twenty20 cricket in the Big Bash League for the Melbourne Renegades.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Jason_behrendorff.jpg/330px-Jason_behrendorff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Behrendorff",
+  "dateOfBirth": "1990-04-20",
+  "birthDateParsed": "1990-04-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.054444444",
+  "birthCoordinatesLng": "150.695833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6162006",
+  "birthPlace": "Camden",
+  "fetchedAt": "2026-08-08T13:53:56.097Z"
+}

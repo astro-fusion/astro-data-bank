@@ -1,5 +1,5 @@
 {
-  "publicId": "5a278017",
+  "publicId": "ba91f23c",
   "wikipediaSlug": "Bhola_Singh_(Uttar_Pradesh_politician)",
   "wikipediaId": "Q16736893",
   "name": "Bhola Singh (Uttar Pradesh politician)",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhola_Singh_(Uttar_Pradesh_politician)",
   "dateOfBirth": "1977-09-10",
+  "birthDateParsed": "1977-09-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.406944444",
   "birthCoordinatesLng": "77.849722222",
-  "moonSign": "4",
-  "sunSign": "5",
-  "lagnaSignText": "8",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q16736893",
   "birthPlace": "Bulandshahr",
-  "fetchedAt": "2026-04-07T16:21:15.954Z"
+  "fetchedAt": "2026-08-07T00:26:50.873Z"
 }

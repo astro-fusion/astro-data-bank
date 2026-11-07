@@ -1,13 +1,16 @@
 {
-  "publicId": "e44e28fc",
+  "publicId": "341bd4c9",
   "wikipediaSlug": "Axar_Patel",
   "wikipediaId": "Q16225109",
   "name": "Axar Patel",
   "fullName": "Axar Patel",
-  "profileSummary": "Akshar Rajeshbhai Patel is an Indian international cricketer. He plays for the Indian national team as an all-rounder in all the three formats. He is a left-handed batter and slow left-arm orthodox bowler. Patel represents Gujarat in domestic cricket and captains Delhi Capitals in the Indian Premier League. He was part of the Indian teams that won the 2024 and 2026 T20 World Cups and the 2025 Champions Trophy.He is currently the vice-captain of the Indian cricket team in the T20I format.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Axar_Patel_in_PMO_New_Delhi.jpg/330px-Axar_Patel_in_PMO_New_Delhi.jpg",
+  "profileSummary": "Akshar Rajeshbhai Patel is an Indian international cricketer. He plays for the Indian national team as an all-rounder in all the three formats. He is a left-handed batter and slow left-arm orthodox bowler. Patel represents Gujarat in domestic cricket and captains Delhi Capitals in the Indian Premier League. He was part of the Indian teams that won the 2024 and 2026 T20 World Cups and the 2025 Champions Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Axar_Patel_in_PMO_New_Delhi.jpg/330px-Axar_Patel_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Axar_Patel",
   "dateOfBirth": "1994-01-20",
+  "birthDateParsed": "1994-01-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "22.7",
   "birthCoordinatesLng": "72.87",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q16225109",
   "birthPlace": "Nadiad",
-  "fetchedAt": "2026-04-07T10:57:43.832Z"
+  "fetchedAt": "2026-08-08T13:52:44.541Z"
 }

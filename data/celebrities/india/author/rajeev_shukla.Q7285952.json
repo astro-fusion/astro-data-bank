@@ -1,0 +1,33 @@
+{
+  "publicId": "c5438624",
+  "wikipediaSlug": "Rajeev_Shukla",
+  "wikipediaId": "Q7285952",
+  "name": "Rajeev Shukla",
+  "fullName": "Rajeev Shukla",
+  "profileSummary": "Rajeev Shukla is an Indian politician, former journalist, political commentator and the former chairman of Indian Premier League. In 2015, he was re-appointed unanimously as the Chairman of IPL by the BCCI. On 18 December 2020, he was elected unopposed Vice President of the BCCI.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Minister_of_State_for_Parliamentary_Affairs%2C_Shri_Rajiv_Shukla_addressing_at_the_%E2%80%9CNational_Press_Day_Celebration%E2%80%9D%2C_organized_by_the_Press_Council_of_India%2C_in_New_Delhi_on_November_16%2C_2011.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajeev_Shukla",
+  "dateOfBirth": "1959-09-13",
+  "birthDateParsed": "1959-09-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.4725",
+  "birthCoordinatesLng": "80.331111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "author",
+    "politician",
+    "journalist"
+  ],
+  "qid": "Q7285952",
+  "birthPlace": "Kanpur",
+  "fetchedAt": "2026-08-07T10:33:19.268Z"
+}

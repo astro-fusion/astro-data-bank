@@ -1,0 +1,31 @@
+{
+  "publicId": "b9ea8fa4",
+  "wikipediaSlug": "Jitendra_Prasada",
+  "wikipediaId": "Q6203271",
+  "name": "Jitendra Prasada",
+  "fullName": "Jitendra Prasada",
+  "profileSummary": "Jitendra Prasada was an Indian politician and a former vice-president of the Indian National Congress. He was also the political advisor to two prime ministers of India, Rajiv Gandhi in 1991 and P. V. Narasimha Rao in 1994.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jitendra_Prasada",
+  "dateOfBirth": "1938-11-12",
+  "birthDateParsed": "1938-11-12",
+  "dateOfDeath": "2001-01-16",
+  "deathDateParsed": "2001-01-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.8775",
+  "birthCoordinatesLng": "79.908611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q6203271",
+  "birthPlace": "Shahjahanpur",
+  "fetchedAt": "2026-08-07T10:33:10.255Z"
+}

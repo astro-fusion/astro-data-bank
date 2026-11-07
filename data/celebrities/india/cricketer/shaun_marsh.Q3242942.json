@@ -1,0 +1,31 @@
+{
+  "publicId": "b13c172e",
+  "wikipediaSlug": "Shaun_Marsh",
+  "wikipediaId": "Q3242942",
+  "name": "Shaun Marsh",
+  "fullName": "Shaun Marsh",
+  "profileSummary": "Shaun Edward Marsh is an Australian cricketer who previously played for the Western Australia cricket team in Australian domestic cricket and has represented Australia in all three formats. Nicknamed SOS, he is a left-handed top-order batsman.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Shaun_Marsh.jpg/330px-Shaun_Marsh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shaun_Marsh",
+  "dateOfBirth": "1983-07-09",
+  "birthDateParsed": "1983-07-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.936",
+  "birthCoordinatesLng": "117.178",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3242942",
+  "birthPlace": "Narrogin",
+  "fetchedAt": "2026-08-06T16:12:27.888Z"
+}

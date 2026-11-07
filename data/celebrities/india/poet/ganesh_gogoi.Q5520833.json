@@ -1,0 +1,31 @@
+{
+  "publicId": "2b772baa",
+  "wikipediaSlug": "Ganesh_Gogoi",
+  "wikipediaId": "Q5520833",
+  "name": "Ganesh Gogoi",
+  "fullName": "Ganesh Gogoi",
+  "profileSummary": "Ganesh Gogoi was a poet of Assam and is remembered also as a lyricist, composer, playwright, actor and football player. He is also known as Papori Kobi.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/GaneshGogoiPic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganesh_Gogoi",
+  "dateOfBirth": "1907-12-28",
+  "birthDateParsed": "1907-12-28",
+  "dateOfDeath": "1938-08-21",
+  "deathDateParsed": "1938-08-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.75751",
+  "birthCoordinatesLng": "94.20306",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet"
+  ],
+  "qid": "Q5520833",
+  "birthPlace": "Jorhat",
+  "fetchedAt": "2026-08-07T01:44:06.785Z"
+}

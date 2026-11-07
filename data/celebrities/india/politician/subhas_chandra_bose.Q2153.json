@@ -1,0 +1,37 @@
+{
+  "publicId": "d99868b6",
+  "wikipediaSlug": "Subhas_Chandra_Bose",
+  "wikipediaId": "Q2153",
+  "name": "Subhas Chandra Bose",
+  "fullName": "Subhas Chandra Bose",
+  "profileSummary": "Subhas Chandra Bose was an Indian anti-colonial nationalist whose defiance of British authority in India made him a hero among many Indians, but his wartime alliances with Nazi Germany and the Empire of Japan left a legacy vexed by authoritarianism, antisemitism, and military failure. The honorific Netaji was first applied to Bose in Germany in early 1942—by the Indian soldiers of the Indische Legion and by the German and Indian officials in the Special Bureau for India in Berlin. It is now used throughout India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Subhas_Chandra_Bose_NRB.jpg/330px-Subhas_Chandra_Bose_NRB.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subhas_Chandra_Bose",
+  "dateOfBirth": "1897-01-23",
+  "birthDateParsed": "1897-01-23",
+  "dateOfDeath": "1945-08-18",
+  "deathDateParsed": "1945-08-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.45",
+  "birthCoordinatesLng": "85.866666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "revolutionary",
+    "writer",
+    "freedom fighter",
+    "autobiographer",
+    "resistance fighter",
+    "political leader"
+  ],
+  "qid": "Q2153",
+  "birthPlace": "Cuttack",
+  "fetchedAt": "2026-08-07T10:33:46.040Z"
+}

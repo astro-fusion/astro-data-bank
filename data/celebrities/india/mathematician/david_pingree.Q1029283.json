@@ -1,0 +1,38 @@
+{
+  "publicId": "af6e7eda",
+  "wikipediaSlug": "David_Pingree",
+  "wikipediaId": "Q1029283",
+  "name": "David Pingree",
+  "fullName": "David Pingree",
+  "profileSummary": "David Edwin Pingree was an American historian of mathematics in the ancient world. He was a University Professor and Professor of History of Mathematics and Classics at Brown University.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Pingree",
+  "dateOfBirth": "1933-01-02",
+  "birthDateParsed": "1933-01-02",
+  "dateOfDeath": "2005-11-11",
+  "deathDateParsed": "2005-11-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.308333333",
+  "birthCoordinatesLng": "-72.925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "historian of mathematics",
+    "university teacher",
+    "astrologer",
+    "historian",
+    "writer",
+    "historian of science",
+    "orientalist"
+  ],
+  "qid": "Q1029283",
+  "birthPlace": "New Haven",
+  "fetchedAt": "2026-08-06T07:27:42.936Z"
+}

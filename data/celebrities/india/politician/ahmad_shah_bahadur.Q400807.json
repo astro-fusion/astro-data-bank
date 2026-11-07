@@ -1,0 +1,31 @@
+{
+  "publicId": "6148e37d",
+  "wikipediaSlug": "Ahmad_Shah_Bahadur",
+  "wikipediaId": "Q400807",
+  "name": "Ahmad Shah Bahadur",
+  "fullName": "Ahmad Shah Bahadur",
+  "profileSummary": "Ahmad Shah Bahadur, also known as Mirza Ahmad Shah or Mujahid-ud-Din Ahmad Shah Ghazi, was the fourteenth Mughal emperor from 1748 to 1754. Born to Emperor Muhammad Shah, he succeeded his father to the throne in 1748, at the age of 22. When Ahmed Shah Bahadur came to power, the Mughal Empire was in decline. Furthermore, his administrative weakness eventually led to the rise of the usurping Imad-ul-Mulk.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/AhmadShah.png/330px-AhmadShah.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Shah_Bahadur",
+  "dateOfBirth": "1725-12-23",
+  "birthDateParsed": "1725-12-23",
+  "dateOfDeath": "1775-01-01",
+  "deathDateParsed": "1775-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q400807",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-07T11:48:27.127Z"
+}

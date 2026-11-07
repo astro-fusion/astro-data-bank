@@ -1,0 +1,32 @@
+{
+  "publicId": "76131362",
+  "wikipediaSlug": "Sambit_Patra",
+  "wikipediaId": "Q18226273",
+  "name": "Sambit Patra",
+  "fullName": "Sambit Patra",
+  "profileSummary": "Sambit Patra is an Indian politician and surgeon who serves as the Member of Parliament from the Puri constituency since 4 June 2024. He has served as the national spokesperson of the Bharatiya Janata Party since 2014 and currently serving as a chairman in tourism department since November 2021. Patra had his first job at Hindu Rao Hospital. He was appointed an independent director of the board of Oil and Natural Gas Corporation Limited (ONGC) in 2017. On 30 November 2021, Patra was appointed Chairman of the India Tourism Development Corporation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sambit_Patra_MP_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sambit_Patra",
+  "dateOfBirth": "1974-12-13",
+  "birthDateParsed": "1974-12-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.15",
+  "birthCoordinatesLng": "83.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "surgeon"
+  ],
+  "qid": "Q18226273",
+  "birthPlace": "Odisha",
+  "fetchedAt": "2026-08-08T00:24:50.269Z"
+}

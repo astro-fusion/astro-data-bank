@@ -1,0 +1,35 @@
+{
+  "publicId": "918d8c1d",
+  "wikipediaSlug": "Balachandran_Chullikkad",
+  "wikipediaId": "Q4849743",
+  "name": "Balachandran Chullikkad",
+  "fullName": "Balachandran Chullikkad",
+  "profileSummary": "Balachandran Chullikkad is an Indian poet, orator, lyricist and actor in Malayalam-language media.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Balachandran_chullikad_2012.jpg/330px-Balachandran_chullikad_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Balachandran_Chullikkad",
+  "dateOfBirth": "1957-07-30",
+  "birthDateParsed": "1957-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.15",
+  "birthCoordinatesLng": "76.23",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "actor",
+    "screenwriter",
+    "lyricist",
+    "songwriter"
+  ],
+  "qid": "Q4849743",
+  "birthPlace": "North Paravur",
+  "fetchedAt": "2026-08-07T01:42:13.055Z"
+}

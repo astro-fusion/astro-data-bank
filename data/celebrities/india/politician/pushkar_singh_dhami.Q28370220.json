@@ -1,20 +1,25 @@
 {
-  "publicId": "04dac244",
+  "publicId": "9bf4975d",
   "wikipediaSlug": "Pushkar_Singh_Dhami",
   "wikipediaId": "Q28370220",
   "name": "Pushkar Singh Dhami",
   "fullName": "Pushkar Singh Dhami",
-  "profileSummary": "Pushkar Singh Dhami is an Indian politician and a member of the Bharatiya Janata Party, serving as the Chief Minister of Uttarakhand since 4 July 2021. He represents the Champawat Assembly constituency in the Uttarakhand Legislative Assembly since 2022 and previously from Khatima from 2012 to 2022. He lost his seat in 2022 elections, but was re-elected as Chief Minister by BJP MLAs. He was later elected to Uttarakhand Legislative Assembly following a by-election. He is the only Chief Minister of the state to assume a second consecutive term as CM, since its creation.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pushkar_Singh_Dhami%2C_Chief_Minister_of_Uttarakhand.jpg/330px-Pushkar_Singh_Dhami%2C_Chief_Minister_of_Uttarakhand.jpg",
+  "profileSummary": "Pushkar Singh Dhami is an Indian politician and a member of the Bharatiya Janata Party, serving as the Chief Minister of Uttarakhand since 4 July 2021, who is also the longest serving chief minister for the state. He has represented the Champawat Assembly constituency in the Uttarakhand Legislative Assembly since 2022 and represented Khatima from 2012 to 2022. He lost his seat in the 2022 elections, but was re-elected as Chief Minister by BJP MLAs. He was later elected to Uttarakhand Legislative Assembly following a by-election. He is the only Chief Minister of the state to assume a second consecutive term as CM.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pushkar_Singh_Dhami%2C_Chief_Minister_of_Uttarakhand.jpg/330px-Pushkar_Singh_Dhami%2C_Chief_Minister_of_Uttarakhand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Pushkar_Singh_Dhami",
   "dateOfBirth": "1975-09-16",
+  "birthDateParsed": "1975-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "29.585871",
   "birthCoordinatesLng": "80.215167",
-  "moonSign": "10",
-  "sunSign": "5",
-  "lagnaSignText": "8",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q28370220",
   "birthPlace": "Pithoragarh",
-  "fetchedAt": "2026-04-07T16:16:16.526Z"
+  "fetchedAt": "2026-08-09T12:07:27.034Z"
 }

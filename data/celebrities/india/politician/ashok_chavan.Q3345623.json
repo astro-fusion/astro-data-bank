@@ -1,0 +1,32 @@
+{
+  "publicId": "42a9cb60",
+  "wikipediaSlug": "Ashok_Chavan",
+  "wikipediaId": "Q3345623",
+  "name": "Ashok Chavan",
+  "fullName": "Ashok Chavan",
+  "profileSummary": "Ashok Shankarrao Chavan is an Indian politician from Maharashtra. He is the son of the late former Maharashtra Chief Minister Shankarrao Chavan. He was one of the most influential leaders of Indian National Congress in Maharashtra but joined Bhartiya Janata Party on 13 February 2024. He served as the chief minister of Maharashtra state from 8 December 2008 to 9 November 2010.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_Prime_Minister%2C_Dr._Manmohan_Singh_with_the_Chief_Minister_of_Maharashtra%2C_Shri_Ashok_Chavan_and_the_Deputy_Chief_Minister_of_Maharashtra%2C_Shri_Chhagan_Chandrakant_Bhujbal%2C_in_New_Delhi_on_December_12%2C_2008_%28cropped%29_1.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashok_Chavan",
+  "dateOfBirth": "1958-10-28",
+  "birthDateParsed": "1958-10-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q3345623",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-09T12:06:33.499Z"
+}

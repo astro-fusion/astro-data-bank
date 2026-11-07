@@ -1,0 +1,38 @@
+{
+  "publicId": "d0ac7b37",
+  "wikipediaSlug": "Ashutosh_Mukherjee",
+  "wikipediaId": "Q4806139",
+  "name": "Ashutosh Mukherjee",
+  "fullName": "Ashutosh Mukherjee",
+  "profileSummary": "Sir Ashutosh Mukherjee was an Indian mathematician, lawyer, jurist, judge, educator, and institution builder. A unique figure in Indian history, he made major contributions in the fields of mathematics, law, and higher education.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Asutosh_Mukhopadhyay.jpg/330px-Asutosh_Mukhopadhyay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashutosh_Mukherjee",
+  "dateOfBirth": "1864-06-29",
+  "birthDateParsed": "1864-06-29",
+  "dateOfDeath": "1924-05-25",
+  "deathDateParsed": "1924-05-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "barrister",
+    "academic administrator",
+    "educator",
+    "official",
+    "university teacher",
+    "essayist",
+    "jurist"
+  ],
+  "qid": "Q4806139",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T07:27:38.360Z"
+}

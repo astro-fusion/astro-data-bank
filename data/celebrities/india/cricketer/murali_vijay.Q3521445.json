@@ -1,13 +1,16 @@
 {
-  "publicId": "6d726480",
+  "publicId": "1b55f154",
   "wikipediaSlug": "Murali_Vijay",
   "wikipediaId": "Q3521445",
   "name": "Murali Vijay",
   "fullName": "Murali Vijay",
   "profileSummary": "Murali Vijay is a former Indian international cricketer. He was a right-handed opening batter and an occasional right-arm off break bowler. He has represented the Indian cricket team and played for Tamil Nadu in domestic first-class cricket. He was a member of the Indian team that won the 2013 ICC Champions Trophy.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Murali_Vijay_1_%28cropped%29.jpg/330px-Murali_Vijay_1_%28cropped%29.jpg",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Murali_Vijay_1_%28cropped%29.jpg/330px-Murali_Vijay_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Murali_Vijay",
   "dateOfBirth": "1984-04-01",
+  "birthDateParsed": "1984-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "13.0825",
   "birthCoordinatesLng": "80.275",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q3521445",
   "birthPlace": "Chennai",
-  "fetchedAt": "2026-04-07T10:58:22.491Z"
+  "fetchedAt": "2026-08-09T03:16:12.696Z"
 }

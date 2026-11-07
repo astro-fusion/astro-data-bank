@@ -1,0 +1,34 @@
+{
+  "publicId": "c1f663d8",
+  "wikipediaSlug": "Aloke_Paul",
+  "wikipediaId": "Q42843433",
+  "name": "Aloke Paul",
+  "fullName": "Aloke Paul",
+  "profileSummary": "Aloke Paul is an Indian materials scientist and a professor at the Department of Materials Engineering of the Indian Institute of Science. Known for his studies on solid-state diffusion, Paul is an Alexander von Humboldt Fellow. The Council of Scientific and Industrial Research, the apex agency of the Government of India for scientific research, awarded him the Shanti Swarup Bhatnagar Prize for Science and Technology, the highest Indian science award, for his contributions to engineering sciences in 2017.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aloke_Paul",
+  "dateOfBirth": "1973-10-04",
+  "birthDateParsed": "1973-10-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.55",
+  "birthCoordinatesLng": "87.32",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "materials scientist",
+    "university teacher",
+    "materials science",
+    "engineer"
+  ],
+  "qid": "Q42843433",
+  "birthPlace": "Durgapur",
+  "fetchedAt": "2026-08-06T04:18:38.843Z"
+}

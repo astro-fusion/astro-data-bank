@@ -1,0 +1,31 @@
+{
+  "publicId": "81908aa2",
+  "wikipediaSlug": "Gulab_Chand_Kataria",
+  "wikipediaId": "Q5617192",
+  "name": "Gulab Chand Kataria",
+  "fullName": "Gulab Chand Kataria",
+  "profileSummary": "Gulab Chand Jain Kataria is an Indian politician who is serving as the 37th Governor of Punjab and 17th Administrator of Chandigarh since 31 July 2024. He was the Governor of Assam from 22 February 2023 to 29 July 2024. He was a minister in the Government of Rajasthan from 2013 till 2018, 2003 to 2008 and from 1993 to 1998. He is a senior leader of the Bharatiya Janata Party (BJP) in Rajasthan and is also a member of central working committee of the party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GC_Kataria.jpg/330px-GC_Kataria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gulab_Chand_Kataria",
+  "dateOfBirth": "1944-10-13",
+  "birthDateParsed": "1944-10-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.058611111",
+  "birthCoordinatesLng": "73.888611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5617192",
+  "birthPlace": "Rajsamand",
+  "fetchedAt": "2026-08-08T00:23:41.815Z"
+}

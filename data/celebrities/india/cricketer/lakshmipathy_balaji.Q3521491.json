@@ -1,13 +1,16 @@
 {
-  "publicId": "66a4f8c1",
+  "publicId": "18510fd5",
   "wikipediaSlug": "Lakshmipathy_Balaji",
   "wikipediaId": "Q3521491",
   "name": "Lakshmipathy Balaji",
   "fullName": "Lakshmipathy Balaji",
   "profileSummary": "Lakshmipathy Balaji is an Indian cricket coach and former international cricketer. He was a right-arm fast medium bowler. He represented the Indian cricket team and was part of the Indian team that finished as runners-up in the 2004 Asia Cup. He played for Tamil Nadu and South Zone in domestic cricket.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shubek_Gill_%28right%29_with_L_Balaji_%28left%29.jpg/330px-Shubek_Gill_%28right%29_with_L_Balaji_%28left%29.jpg",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shubek_Gill_%28right%29_with_L_Balaji_%28left%29.jpg/330px-Shubek_Gill_%28right%29_with_L_Balaji_%28left%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Lakshmipathy_Balaji",
   "dateOfBirth": "1981-09-27",
+  "birthDateParsed": "1981-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "13.0825",
   "birthCoordinatesLng": "80.275",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q3521491",
   "birthPlace": "Chennai",
-  "fetchedAt": "2026-04-07T10:57:43.393Z"
+  "fetchedAt": "2026-08-09T03:15:23.613Z"
 }

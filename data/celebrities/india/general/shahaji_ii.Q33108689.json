@@ -1,0 +1,29 @@
+{
+  "publicId": "96238ff7",
+  "wikipediaSlug": "Shahaji_II",
+  "wikipediaId": "Q33108689",
+  "name": "Shahaji II",
+  "fullName": "Shahaji II",
+  "profileSummary": "Shahaji II was Maharaja of Dewas (Senior) from 21 December 1937 until his abdication on 23 March 1947 and Maharaja of Kolhapur from 31 March 1947 until his death in 1983.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Shahaji_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shahaji_II",
+  "dateOfBirth": "1910-04-04",
+  "birthDateParsed": "1910-04-04",
+  "dateOfDeath": "1983-05-09",
+  "deathDateParsed": "1983-05-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "16.7",
+  "birthCoordinatesLng": "74.233333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q33108689",
+  "birthPlace": "Kolhapur",
+  "fetchedAt": "2026-08-08T00:44:23.192Z"
+}

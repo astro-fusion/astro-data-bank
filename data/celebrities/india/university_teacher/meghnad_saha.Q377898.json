@@ -1,0 +1,35 @@
+{
+  "publicId": "7b6199aa",
+  "wikipediaSlug": "Meghnad_Saha",
+  "wikipediaId": "Q377898",
+  "name": "Meghnad Saha",
+  "fullName": "Meghnad Saha",
+  "profileSummary": "Meghnad Saha was an Indian astrophysicist and politician who helped devise the theory of thermal ionisation. His Saha ionisation equation allowed astronomers to accurately relate the spectral classes of stars to their actual temperatures.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dr-Meghnad-Saha.jpg/330px-Dr-Meghnad-Saha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Meghnad_Saha",
+  "dateOfBirth": "1893-10-06",
+  "birthDateParsed": "1893-10-06",
+  "dateOfDeath": "1956-02-16",
+  "deathDateParsed": "1956-02-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.728888888",
+  "birthCoordinatesLng": "90.394444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "astrophysicist",
+    "physicist",
+    "astronomer",
+    "politician"
+  ],
+  "qid": "Q377898",
+  "birthPlace": "Dhaka",
+  "fetchedAt": "2026-08-06T04:19:52.826Z"
+}

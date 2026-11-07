@@ -1,0 +1,32 @@
+{
+  "publicId": "708c31d3",
+  "wikipediaSlug": "P._Chidambaram",
+  "wikipediaId": "Q377358",
+  "name": "P. Chidambaram",
+  "fullName": "P. Chidambaram",
+  "profileSummary": "Palaniyappan Chidambaram, better known as P. Chidambaram, is an Indian politician and lawyer, who currently serves as a Member of Parliament, Rajya Sabha. He served as the Chairman of the Parliamentary Standing Committee on Home Affairs from 2017 to 2018. He also served as Interim Deputy Leader of Opposition in Rajya Sabha from 2022 to 2023 under Mallikarjun Kharge.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/P.Chidambaram_in_a_press_conference.jpg/330px-P.Chidambaram_in_a_press_conference.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/P._Chidambaram",
+  "dateOfBirth": "1945-09-16",
+  "birthDateParsed": "1945-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.166669444",
+  "birthCoordinatesLng": "78.791111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q377358",
+  "birthPlace": "Kanadukathan",
+  "fetchedAt": "2026-08-07T10:33:20.586Z"
+}

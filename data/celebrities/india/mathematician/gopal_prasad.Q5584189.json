@@ -1,0 +1,31 @@
+{
+  "publicId": "84da6eb7",
+  "wikipediaSlug": "Gopal_Prasad",
+  "wikipediaId": "Q5584189",
+  "name": "Gopal Prasad",
+  "fullName": "Gopal Prasad",
+  "profileSummary": "Gopal Prasad is an Indian-American mathematician. His research interests span the fields of Lie groups, their discrete subgroups, algebraic groups, arithmetic groups, geometry of locally symmetric spaces, and representation theory of reductive p-adic groups.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPrasad_%28cropped%29.jpg/330px-GPrasad_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gopal_Prasad",
+  "dateOfBirth": "1945-07-31",
+  "birthDateParsed": "1945-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.583333333",
+  "birthCoordinatesLng": "83.566666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q5584189",
+  "birthPlace": "Ghazipur",
+  "fetchedAt": "2026-08-06T07:27:54.194Z"
+}

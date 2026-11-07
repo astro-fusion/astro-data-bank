@@ -1,0 +1,31 @@
+{
+  "publicId": "fafd9f3e",
+  "wikipediaSlug": "Imran_Tahir",
+  "wikipediaId": "Q3530644",
+  "name": "Imran Tahir",
+  "fullName": "Imran Tahir",
+  "profileSummary": "Mohammad Imran Tahir is a South African former international cricketer. A spin bowler who predominantly bowls googlies and a right-handed batsman, Tahir played for South Africa in all three formats of cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Imran_Tahir.jpg/330px-Imran_Tahir.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Imran_Tahir",
+  "dateOfBirth": "1979-03-27",
+  "birthDateParsed": "1979-03-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.549722222",
+  "birthCoordinatesLng": "74.343611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3530644",
+  "birthPlace": "Lahore",
+  "fetchedAt": "2026-08-09T03:15:26.147Z"
+}

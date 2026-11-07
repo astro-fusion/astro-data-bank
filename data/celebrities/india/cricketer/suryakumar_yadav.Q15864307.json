@@ -1,0 +1,31 @@
+{
+  "publicId": "643726fb",
+  "wikipediaSlug": "Suryakumar_Yadav",
+  "wikipediaId": "Q15864307",
+  "name": "Suryakumar Yadav",
+  "fullName": "Suryakumar Yadav",
+  "profileSummary": "Suryakumar Ashok Yadav, also known by his initials SKY, is an Indian cricketer and former captain of the Twenty20 International team, a role he held as India won the 2026 Men's T20 World Cup and the 2025 Asia Cup. He was part of the national team that won the 2024 Men's T20 World Cup and the 2023 Asia Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Suryakumar_Yadav_in_PMO_New_Delhi.jpg/330px-Suryakumar_Yadav_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suryakumar_Yadav",
+  "dateOfBirth": "1990-09-14",
+  "birthDateParsed": "1990-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q15864307",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-06T16:12:40.247Z"
+}

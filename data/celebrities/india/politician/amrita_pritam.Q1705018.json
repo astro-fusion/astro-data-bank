@@ -1,0 +1,36 @@
+{
+  "publicId": "1adbe479",
+  "wikipediaSlug": "Amrita_Pritam",
+  "wikipediaId": "Q1705018",
+  "name": "Amrita Pritam",
+  "fullName": "Amrita Pritam",
+  "profileSummary": "Amrita Pritam was an Indian novelist, essayist and poet, who wrote in Punjabi and Hindi. A prominent figure in Punjabi literature, she is the recipient of the 1956 Sahitya Akademi Award. Her body of work comprised over 100 books of poetry, fiction, biographies, essays, a collection of Punjabi folk songs and an autobiography that were all translated into several Indian and foreign languages.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Amrita_Pritam_%281919_%E2%80%93_2005%29_%2C_in_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amrita_Pritam",
+  "dateOfBirth": "1919-08-31",
+  "birthDateParsed": "1919-08-31",
+  "dateOfDeath": "2005-10-31",
+  "deathDateParsed": "2005-10-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.15",
+  "birthCoordinatesLng": "74.183333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "autobiographer",
+    "poet",
+    "writer",
+    "journalist",
+    "novelist"
+  ],
+  "qid": "Q1705018",
+  "birthPlace": "Gujranwala",
+  "fetchedAt": "2026-08-07T01:41:46.607Z"
+}

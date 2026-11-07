@@ -1,0 +1,34 @@
+{
+  "publicId": "3522b4b1",
+  "wikipediaSlug": "Harivansh_Rai_Bachchan",
+  "wikipediaId": "Q9575",
+  "name": "Harivansh Rai Bachchan",
+  "fullName": "Harivansh Rai Bachchan",
+  "profileSummary": "Harivansh Rai Bachchan was an Indian poet and writer of the Nayi Kavita literary movement of early 20th century Hindi literature. He was also a poet of the Hindi Kavi Sammelan. Bachchan is best known for his early work Madhushala. He was the father of Amitabh Bachchan, and grandfather of Shweta Bachchan Nanda and Abhishek Bachchan. His wife Teji Bachchan was a social activist. In 1976, he received the Padma Bhushan for his service to Hindi literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Harivansh_Rai_Bachchan_2003_stamp_of_India.jpg/330px-Harivansh_Rai_Bachchan_2003_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harivansh_Rai_Bachchan",
+  "dateOfBirth": "1907-11-27",
+  "birthDateParsed": "1907-11-27",
+  "dateOfDeath": "2003-01-18",
+  "deathDateParsed": "2003-01-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.45",
+  "birthCoordinatesLng": "81.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "politician",
+    "prose writer"
+  ],
+  "qid": "Q9575",
+  "birthPlace": "Prayagraj",
+  "fetchedAt": "2026-08-07T01:44:12.773Z"
+}

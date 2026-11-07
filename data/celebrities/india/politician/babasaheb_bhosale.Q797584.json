@@ -1,0 +1,32 @@
+{
+  "publicId": "b9bb8c70",
+  "wikipediaSlug": "Babasaheb_Bhosale",
+  "wikipediaId": "Q797584",
+  "name": "Babasaheb Bhosale",
+  "fullName": "Babasaheb Bhosale",
+  "profileSummary": "Babasaheb Anantrao Bhosale was an Indian lawyer and politician who served as Chief Minister of Maharashtra from January 1982 until February 1983.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Babasaheb_Bhosale.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Babasaheb_Bhosale",
+  "dateOfBirth": "1921-01-15",
+  "birthDateParsed": "1921-01-15",
+  "dateOfDeath": "2007-10-06",
+  "deathDateParsed": "2007-10-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.7",
+  "birthCoordinatesLng": "74",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q797584",
+  "birthPlace": "Satara district",
+  "fetchedAt": "2026-08-09T12:06:34.917Z"
+}

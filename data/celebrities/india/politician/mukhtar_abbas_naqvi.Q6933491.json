@@ -1,0 +1,31 @@
+{
+  "publicId": "ab739744",
+  "wikipediaSlug": "Mukhtar_Abbas_Naqvi",
+  "wikipediaId": "Q6933491",
+  "name": "Mukhtar Abbas Naqvi",
+  "fullName": "Mukhtar Abbas Naqvi",
+  "profileSummary": "Mukhtar Abbas Naqvi is an Indian politician and was the Union Minister of Minority Affairs. He had served as a Member of Parliament in the Rajya Sabha from 2002 to 2022 and was Deputy Leader of the House in Rajya Sabha between 2021 and 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mukhtar_Abbas_Naqvi_addressing_media_%28cropped%29.jpg/330px-Mukhtar_Abbas_Naqvi_addressing_media_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mukhtar_Abbas_Naqvi",
+  "dateOfBirth": "1957-10-15",
+  "birthDateParsed": "1957-10-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.45",
+  "birthCoordinatesLng": "81.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q6933491",
+  "birthPlace": "Prayagraj",
+  "fetchedAt": "2026-08-08T00:24:27.250Z"
+}

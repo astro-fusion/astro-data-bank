@@ -1,0 +1,33 @@
+{
+  "publicId": "c63b85f6",
+  "wikipediaSlug": "Guru_Angad",
+  "wikipediaId": "Q370204",
+  "name": "Guru Angad",
+  "fullName": "Guru Angad",
+  "profileSummary": "Guru Angad was the second of the ten Sikh gurus of Sikhism. After meeting Guru Nanak, the founder of Sikhism, becoming a Sikh, and serving and working with Nanak for many years, Nanak gave Lehna the name Angad, and chose Angad as the second Sikh Guru.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Guru_Angad_miniature_painting.jpg/330px-Guru_Angad_miniature_painting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guru_Angad",
+  "dateOfBirth": "1504-04-10",
+  "birthDateParsed": "1504-04-10",
+  "dateOfDeath": "1552-04-07",
+  "deathDateParsed": "1552-04-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.5141744",
+  "birthCoordinatesLng": "74.6711285",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guru",
+    "religious leader",
+    "writer"
+  ],
+  "qid": "Q370204",
+  "birthPlace": "Sarai Naga",
+  "fetchedAt": "2026-08-07T01:43:57.859Z"
+}

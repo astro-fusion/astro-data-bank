@@ -1,0 +1,31 @@
+{
+  "publicId": "fc4c1274",
+  "wikipediaSlug": "Lendl_Simmons",
+  "wikipediaId": "Q13120876",
+  "name": "Lendl Simmons",
+  "fullName": "Lendl Simmons",
+  "profileSummary": "Lendl Mark Platter Simmons is a Trinidadian cricketer who played internationally for the West Indies. He is a right-handed batsman, an occasional right-arm medium pace bowler, and a part-time wicket-keeper. His uncle is former West Indian Test cricketer Phil Simmons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lendl_Simmons.jpg/330px-Lendl_Simmons.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lendl_Simmons",
+  "dateOfBirth": "1985-01-25",
+  "birthDateParsed": "1985-01-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.666666666",
+  "birthCoordinatesLng": "-61.516666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q13120876",
+  "birthPlace": "Port of Spain",
+  "fetchedAt": "2026-08-08T13:53:48.754Z"
+}

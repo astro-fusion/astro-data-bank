@@ -1,0 +1,31 @@
+{
+  "publicId": "4e2017c0",
+  "wikipediaSlug": "Chand_Bardai",
+  "wikipediaId": "Q3633648",
+  "name": "Chand Bardai",
+  "fullName": "Chand Bardai",
+  "profileSummary": "Chand Bardai was an Indian poet who composed Prithviraj Raso, an epic poem in Brajbhasa about the life of the Chahamana king Prithviraj Chauhan. The poem presents him as a court poet of Prithviraj. According to it, after Prithviraj was defeated at the Second battle of Tarain and taken to Ghazna by Muhammad of Ghor, Chand Bardai travelled to Ghazna and helped Prithviraj kill Muhammad.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Painting_of_Prithviraj_Chauhan_hunting_a_tiger%2C_with_Chand_Bardai_beside_him%2C_Jodhpur%2C_ca.1830.jpg/330px-Painting_of_Prithviraj_Chauhan_hunting_a_tiger%2C_with_Chand_Bardai_beside_him%2C_Jodhpur%2C_ca.1830.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chand_Bardai",
+  "dateOfBirth": "1149-10-07",
+  "birthDateParsed": "1149-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.572777777",
+  "birthCoordinatesLng": "73.838888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer"
+  ],
+  "qid": "Q3633648",
+  "birthPlace": "Rajasthan",
+  "fetchedAt": "2026-08-07T01:42:35.922Z"
+}

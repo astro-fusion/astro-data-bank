@@ -1,0 +1,31 @@
+{
+  "publicId": "9097f3a1",
+  "wikipediaSlug": "Dharmendra_Pradhan",
+  "wikipediaId": "Q5269370",
+  "name": "Dharmendra Pradhan",
+  "fullName": "Dharmendra Pradhan",
+  "profileSummary": "Dharmendra Pradhan is an Indian politician who served as the 9th Minister of Education from 2021 until his resignation in 2026. He previously served as Minister of Petroleum and Natural Gas from 2014 to 2021, Minister of Steel from 2019 to 2021, and Minister of Skill Development and Entrepreneurship from 2017 to 2024. Pradhan is currently a member of the Indian parliament representing the Sambalpur constituency in the Lok Sabha as a member of the Bharatiya Janata Party. Previously, he has also served as a member of Rajya Sabha representing Bihar and Madhya Pradesh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Dharmendra_Pradhan%2C_Minister_of_Education.jpg/330px-Dharmendra_Pradhan%2C_Minister_of_Education.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dharmendra_Pradhan",
+  "dateOfBirth": "1969-06-26",
+  "birthDateParsed": "1969-06-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.797222222",
+  "birthCoordinatesLng": "85.023888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5269370",
+  "birthPlace": "Angul",
+  "fetchedAt": "2026-08-07T00:27:18.820Z"
+}

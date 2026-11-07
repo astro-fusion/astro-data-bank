@@ -1,0 +1,35 @@
+{
+  "publicId": "29dfa6fe",
+  "wikipediaSlug": "Damodar_Dharmananda_Kosambi",
+  "wikipediaId": "Q2722635",
+  "name": "Damodar Dharmananda Kosambi",
+  "fullName": "Damodar Dharmananda Kosambi",
+  "profileSummary": "Damodar Dharmananda Kosambi was an Indian polymath with interests in mathematics, statistics, philology, history, and genetics. He contributed to genetics by introducing the Kosambi map function. In statistics, he was the first person to develop orthogonal infinite series expressions for stochastic processes via the Kosambi–Karhunen–Loève theorem. He is also well known for his work in numismatics and for compiling critical editions of ancient Sanskrit texts. His father, Dharmananda Damodar Kosambi, had studied ancient Indian texts with a particular emphasis on Buddhism and its literature in the Pali language. Damodar Kosambi emulated him by developing a keen interest in his country's ancient history. He was also a Marxist historian specialising in ancient India who employed the historical materialist approach in his work. He is particularly known for his classic work An Introduction to the Study of Indian History.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kosambi-dd.jpg/330px-Kosambi-dd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Damodar_Dharmananda_Kosambi",
+  "dateOfBirth": "1907-05-31",
+  "birthDateParsed": "1907-05-31",
+  "dateOfDeath": "1966-06-29",
+  "deathDateParsed": "1966-06-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "15.401944444",
+  "birthCoordinatesLng": "74.043333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "historian",
+    "numismatist",
+    "writer",
+    "humanities scholar"
+  ],
+  "qid": "Q2722635",
+  "birthPlace": "Goa",
+  "fetchedAt": "2026-08-06T07:27:37.687Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "b3db4f04",
+  "wikipediaSlug": "Manish_Pandey",
+  "wikipediaId": "Q11027874",
+  "name": "Manish Pandey",
+  "fullName": "Manish Pandey",
+  "profileSummary": "Manish Krishnanand Pandey is an Indian cricketer. He is a right-handed top-order batsman representing, Karnataka in domestic cricket and Kolkata Knight Riders in the Indian Premier League (IPL). He became the first Indian player to score a century in the IPL in the 2009 season, playing for his former team Royal Challengers Bengaluru. He was a part of the Indian squad which won the 2018 Asia Cup and won the 2014 and 2024 IPL titles with KKR.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Manish_Pandey_%283%29.jpg/330px-Manish_Pandey_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manish_Pandey",
+  "dateOfBirth": "1989-09-10",
+  "birthDateParsed": "1989-09-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.391944444",
+  "birthCoordinatesLng": "79.454166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q11027874",
+  "birthPlace": "Nainital",
+  "fetchedAt": "2026-08-06T16:12:05.041Z"
+}

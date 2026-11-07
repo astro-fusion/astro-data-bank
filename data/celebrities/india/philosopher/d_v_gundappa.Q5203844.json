@@ -1,0 +1,33 @@
+{
+  "publicId": "102bd6cb",
+  "wikipediaSlug": "D._V._Gundappa",
+  "wikipediaId": "Q5203844",
+  "name": "D. V. Gundappa",
+  "fullName": "D. V. Gundappa",
+  "profileSummary": "Devanahalli Venkataramanaiah Gundappa, popularly known as DVG, was an Indian writer, poet and philosopher in Kannada-language. He is one of the stalwarts of modern Kannada literature. His most notable work is the Mankuthimmana Kagga, which is similar to the wisdom poems of the late medieval poet Sarvajna.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/DV_Gundappa_1988_stamp_of_India.jpg/330px-DV_Gundappa_1988_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/D._V._Gundappa",
+  "dateOfBirth": "1887-03-17",
+  "birthDateParsed": "1887-03-17",
+  "dateOfDeath": "1975-10-07",
+  "deathDateParsed": "1975-10-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.1667",
+  "birthCoordinatesLng": "78.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "poet",
+    "writer"
+  ],
+  "qid": "Q5203844",
+  "birthPlace": "Mulbagal",
+  "fetchedAt": "2026-08-07T01:42:39.239Z"
+}

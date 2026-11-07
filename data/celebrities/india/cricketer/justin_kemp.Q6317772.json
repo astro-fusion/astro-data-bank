@@ -1,0 +1,31 @@
+{
+  "publicId": "c7dc7aa7",
+  "wikipediaSlug": "Justin_Kemp",
+  "wikipediaId": "Q6317772",
+  "name": "Justin Kemp",
+  "fullName": "Justin Kemp",
+  "profileSummary": "Justin Miles Kemp is a South African former international cricketer who played all formats of the game for South Africa.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Kemp",
+  "dateOfBirth": "1977-10-02",
+  "birthDateParsed": "1977-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.9",
+  "birthCoordinatesLng": "26.883333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6317772",
+  "birthPlace": "Queenstown",
+  "fetchedAt": "2026-08-09T03:15:33.741Z"
+}

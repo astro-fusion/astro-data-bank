@@ -1,0 +1,35 @@
+{
+  "publicId": "143b6d91",
+  "wikipediaSlug": "Bapudeva_Sastri",
+  "wikipediaId": "Q4857748",
+  "name": "Bapudeva Sastri",
+  "fullName": "Bapudeva Sastri",
+  "profileSummary": "Bapudeva Sastri or Narasimha Deva Paranjpe (1821–1900) was an Indian mathematician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pandit_Bapudeva_Sastri_%281821-1900%29%2C_Professor_of_Astronomy%2C_teaching_a_class_at_Queen%27s_College%2C_Varanasi.jpg/330px-Pandit_Bapudeva_Sastri_%281821-1900%29%2C_Professor_of_Astronomy%2C_teaching_a_class_at_Queen%27s_College%2C_Varanasi.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bapudeva_Sastri",
+  "dateOfBirth": "1821-11-01",
+  "birthDateParsed": "1821-11-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.75148",
+  "birthCoordinatesLng": "75.713888055",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "translator",
+    "schoolchild",
+    "mathematician",
+    "historian of mathematics"
+  ],
+  "qid": "Q4857748",
+  "birthPlace": "Maharashtra",
+  "fetchedAt": "2026-08-06T07:27:41.224Z"
+}

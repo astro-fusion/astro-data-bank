@@ -1,0 +1,31 @@
+{
+  "publicId": "b5ddc172",
+  "wikipediaSlug": "James_Franklin_(cricketer)",
+  "wikipediaId": "Q3530165",
+  "name": "James Franklin (cricketer)",
+  "fullName": "James Franklin (cricketer)",
+  "profileSummary": "James Edward Charles Franklin is a New Zealand cricket coach and former cricketer, who played all forms of the game internationally.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/James_Franklin_and_Joe_Burns.jpg/330px-James_Franklin_and_Joe_Burns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Franklin_(cricketer)",
+  "dateOfBirth": "1980-11-07",
+  "birthDateParsed": "1980-11-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.288888888",
+  "birthCoordinatesLng": "174.777222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3530165",
+  "birthPlace": "Wellington",
+  "fetchedAt": "2026-08-08T13:53:55.624Z"
+}

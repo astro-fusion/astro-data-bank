@@ -1,0 +1,31 @@
+{
+  "publicId": "3dd7e283",
+  "wikipediaSlug": "Jagdeep_Dhankhar",
+  "wikipediaId": "Q50410280",
+  "name": "Jagdeep Dhankhar",
+  "fullName": "Jagdeep Dhankhar",
+  "profileSummary": "Jagdeep Dhankhar is an Indian politician and lawyer who served as the vice president of India from 2022 to 2025. He previously served as the Governor of West Bengal from 2019 to 2022. He also served as a Union Minister of State for Parliamentary Affairs in the Chandra Shekhar ministry from 1990 to 1991, and served as a member of Lok Sabha from 1989 to 1991. Between 1993 and 1998, he was a Member of Rajasthan's Legislative Assembly. He has been affiliated with Bharatiya Janata Party (BJP).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Shri_Jagdeep_Dhankhar_14th_Vice_President_of_India.png/330px-Shri_Jagdeep_Dhankhar_14th_Vice_President_of_India.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jagdeep_Dhankhar",
+  "dateOfBirth": "1951-05-18",
+  "birthDateParsed": "1951-05-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28",
+  "birthCoordinatesLng": "75.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer"
+  ],
+  "qid": "Q50410280",
+  "birthPlace": "Jhunjhunu district",
+  "fetchedAt": "2026-08-08T00:24:04.550Z"
+}

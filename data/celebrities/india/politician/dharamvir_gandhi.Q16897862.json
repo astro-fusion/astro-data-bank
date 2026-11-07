@@ -1,0 +1,31 @@
+{
+  "publicId": "4c23404f",
+  "wikipediaSlug": "Dharamvir_Gandhi",
+  "wikipediaId": "Q16897862",
+  "name": "Dharamvir Gandhi",
+  "fullName": "Dharamvir Gandhi",
+  "profileSummary": "Dharamvir Gandhi is an Indian politician and a member of Indian National Congress. In 2024 Indian general election he was elected from Patiala Lok Sabha constituency defeating the incumbent MP Preneet Kaur. He was earlier a member of the Aam Aadmi Party (AAP) and Nawa Punjab Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dharamvir_Gandhi.png/330px-Dharamvir_Gandhi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dharamvir_Gandhi",
+  "dateOfBirth": "1951-06-01",
+  "birthDateParsed": "1951-06-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q16897862",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-07T00:27:38.152Z"
+}

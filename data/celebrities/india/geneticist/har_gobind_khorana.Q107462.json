@@ -1,0 +1,34 @@
+{
+  "publicId": "a11e4f3c",
+  "wikipediaSlug": "Har_Gobind_Khorana",
+  "wikipediaId": "Q107462",
+  "name": "Har Gobind Khorana",
+  "fullName": "Har Gobind Khorana",
+  "profileSummary": "Har Gobind Khorana was an Indian-American biochemist. While on the faculty of the University of Wisconsin–Madison, he shared the 1968 Nobel Prize for Physiology or Medicine with Marshall W. Nirenberg and Robert W. Holley for research that showed the order of nucleotides in nucleic acids, which carry the genetic code of the cell and control the cell's synthesis of proteins. Khorana and Nirenberg were also awarded the Louisa Gross Horwitz Prize from Columbia University in the same year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Har_Gobind_Khorana_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Har_Gobind_Khorana",
+  "dateOfBirth": "1922-01-09",
+  "birthDateParsed": "1922-01-09",
+  "dateOfDeath": "2011-11-09",
+  "deathDateParsed": "2011-11-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.85305556",
+  "birthCoordinatesLng": "73.35027778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "geneticist",
+    "biologist",
+    "university teacher",
+    "chemist"
+  ],
+  "qid": "Q107462",
+  "birthPlace": "Raipur",
+  "fetchedAt": "2026-08-06T04:19:29.154Z"
+}

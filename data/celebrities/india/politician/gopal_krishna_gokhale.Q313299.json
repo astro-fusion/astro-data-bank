@@ -1,0 +1,37 @@
+{
+  "publicId": "5b7deb18",
+  "wikipediaSlug": "Gopal_Krishna_Gokhale",
+  "wikipediaId": "Q313299",
+  "name": "Gopal Krishna Gokhale",
+  "fullName": "Gopal Krishna Gokhale",
+  "profileSummary": "Gopal Krishna Gokhale was an Indian political leader and a social reformer during the Indian independence movement, and political mentor of Indian freedom fighter Mahatma Gandhi. Gokhale was a senior leader of the Indian National Congress and the founder of the Servants of India Society. Through the Society as well as the Congress and other legislative bodies he served in, Gokhale campaigned for Indian self-rule and social reforms. He was the leader of the moderate faction of the Congress that advocated reforms by working with existing government institutions, and a major member of the Poona Association or the Poona Sarvajanik Sabha.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/GKGokhale.jpg/330px-GKGokhale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gopal_Krishna_Gokhale",
+  "dateOfBirth": "1866-05-09",
+  "birthDateParsed": "1866-05-09",
+  "dateOfDeath": "1915-02-19",
+  "deathDateParsed": "1915-02-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist",
+    "philosopher",
+    "writer",
+    "revolutionary",
+    "freedom fighter",
+    "translator"
+  ],
+  "qid": "Q313299",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-07T10:32:38.735Z"
+}

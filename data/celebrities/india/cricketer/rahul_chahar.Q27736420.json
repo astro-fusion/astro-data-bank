@@ -1,0 +1,31 @@
+{
+  "publicId": "94487019",
+  "wikipediaSlug": "Rahul_Chahar",
+  "wikipediaId": "Q27736420",
+  "name": "Rahul Chahar",
+  "fullName": "Rahul Chahar",
+  "profileSummary": "Rahul Desraj Chahar is an Indian cricketer who plays for Rajasthan in domestic cricket and Chennai Super Kings in the Indian Premier League.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rahul_Chahar",
+  "dateOfBirth": "1999-08-04",
+  "birthDateParsed": "1999-08-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.217222222",
+  "birthCoordinatesLng": "77.49",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q27736420",
+  "birthPlace": "Bharatpur",
+  "fetchedAt": "2026-08-09T03:16:46.815Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "6481558f",
+  "wikipediaSlug": "Kevin_Pietersen",
+  "wikipediaId": "Q1398682",
+  "name": "Kevin Pietersen",
+  "fullName": "Kevin Pietersen",
+  "profileSummary": "Kevin Peter Pietersen is a former England international cricketer. He is regarded as one of England's greatest ever batsmen and renowned for his competitive, and often controversial nature. He was a right-handed batsman and occasional off spin bowler who played in all three formats for England between 2004 and 2014, which included a brief tenure as captain. He won the Player of the Series award for his performances in 2010 ICC World Twenty20 which helped England to win their maiden ICC trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kevin_Pietersen_2014.jpg/330px-Kevin_Pietersen_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Pietersen",
+  "dateOfBirth": "1980-06-27",
+  "birthDateParsed": "1980-06-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.6009",
+  "birthCoordinatesLng": "30.3796",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q1398682",
+  "birthPlace": "Pietermaritzburg",
+  "fetchedAt": "2026-08-06T16:11:52.366Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "1e786918",
+  "wikipediaSlug": "Lal_Bahadur_Shastri",
+  "wikipediaId": "Q244689",
+  "name": "Lal Bahadur Shastri",
+  "fullName": "Lal Bahadur Shastri",
+  "profileSummary": "Lal Bahadur Shastri was an Indian politician and statesman who served as the prime minister of India from 1964 to 1966. He previously served as home minister from 1961 to 1963.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Asadullah_Sayeed_IAS%28cropped%29.jpg/330px-Asadullah_Sayeed_IAS%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri",
+  "dateOfBirth": "1904-10-02",
+  "birthDateParsed": "1904-10-02",
+  "dateOfDeath": "1966-01-11",
+  "deathDateParsed": "1966-01-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.3",
+  "birthCoordinatesLng": "83.12",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q244689",
+  "birthPlace": "Pandit Deen Dayal Upadhyaya Nagar",
+  "fetchedAt": "2026-08-07T10:32:57.028Z"
+}

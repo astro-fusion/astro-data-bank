@@ -1,0 +1,31 @@
+{
+  "publicId": "896cc08a",
+  "wikipediaSlug": "Jagdambika_Pal",
+  "wikipediaId": "Q6122270",
+  "name": "Jagdambika Pal",
+  "fullName": "Jagdambika Pal",
+  "profileSummary": "Jagdambika Pal is an Indian politician and advocate belonging to the Bharatiya Janata Party (BJP). He is currently serving as a member of the Lok Sabha representing the Domariyaganj constituency since 2009. Initially, he represented the Indian National Congress in the 15th Lok Sabha until his resignation on 7 March 2014, after which he joined the BJP and won subsequent elections.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Jagdambika_Pal.jpg/330px-Jagdambika_Pal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jagdambika_Pal",
+  "dateOfBirth": "1950-10-21",
+  "birthDateParsed": "1950-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.82816",
+  "birthCoordinatesLng": "82.77924",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q6122270",
+  "birthPlace": "Basti district",
+  "fetchedAt": "2026-08-08T00:23:39.399Z"
+}

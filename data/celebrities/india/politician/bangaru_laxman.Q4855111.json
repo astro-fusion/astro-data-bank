@@ -1,0 +1,31 @@
+{
+  "publicId": "5938ba6e",
+  "wikipediaSlug": "Bangaru_Laxman",
+  "wikipediaId": "Q4855111",
+  "name": "Bangaru Laxman",
+  "fullName": "Bangaru Laxman",
+  "profileSummary": "Bangaru Laxman was an Indian politician. He was a member of the Bharatiya Janata Party (BJP) and the Rashtriya Swayamsevak Sangh (RSS). He was president of the party from 2000 to 2001 and served as Minister of Railways in the Indian government from 1999 to 2000. He was sentenced to four years in jail for the defence deal corruption case.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/BangaruLaxman2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bangaru_Laxman",
+  "dateOfBirth": "1939-03-17",
+  "birthDateParsed": "1939-03-17",
+  "dateOfDeath": "2014-03-01",
+  "deathDateParsed": "2014-03-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.361666666",
+  "birthCoordinatesLng": "78.474722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q4855111",
+  "birthPlace": "Hyderabad",
+  "fetchedAt": "2026-08-08T00:22:52.377Z"
+}

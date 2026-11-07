@@ -1,0 +1,31 @@
+{
+  "publicId": "7e17f690",
+  "wikipediaSlug": "Amitava_Raychaudhuri",
+  "wikipediaId": "Q4746928",
+  "name": "Amitava Raychaudhuri",
+  "fullName": "Amitava Raychaudhuri",
+  "profileSummary": "Amitava Raychaudhuri is an Indian theoretical particle physicist. He is Professor Emeritus at the Physics Department of the Science College, University of Calcutta where he earlier held the Sir Tarak Nath Palit Chair Professorship. He is the nephew of another renowned Indian physicist, Amal Kumar Raychaudhuri.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Amitava_Raychaudhuri_1.jpg/330px-Amitava_Raychaudhuri_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amitava_Raychaudhuri",
+  "dateOfBirth": "1952-03-17",
+  "birthDateParsed": "1952-03-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q4746928",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T04:18:27.709Z"
+}

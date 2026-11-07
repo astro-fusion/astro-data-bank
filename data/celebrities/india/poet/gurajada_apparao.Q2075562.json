@@ -1,0 +1,33 @@
+{
+  "publicId": "26e551b9",
+  "wikipediaSlug": "Gurajada_Apparao",
+  "wikipediaId": "Q2075562",
+  "name": "Gurajada Apparao",
+  "fullName": "Gurajada Apparao",
+  "profileSummary": "Gurajada Venkata Apparao was an Indian playwright, dramatist, poet, and writer known for his works in Telugu theatre. Rao wrote the play Kanyasulkam in 1892, which is considered as the greatest play in the Telugu language. One of the pioneers of Indian theatre, Apparao holds the titles Kavisekhara and Abyudaya Kavitha Pithamahudu. In 1910, Rao scripted the widely known Telugu patriotic song \"Desamunu Preminchumanna\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gurazada_Apparao_portrait_01.jpg/330px-Gurazada_Apparao_portrait_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gurajada_Apparao",
+  "dateOfBirth": "1862-09-21",
+  "birthDateParsed": "1862-09-21",
+  "dateOfDeath": "1915-11-30",
+  "deathDateParsed": "1915-11-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "16.076875972",
+  "birthCoordinatesLng": "79.252735173",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "playwright",
+    "writer"
+  ],
+  "qid": "Q2075562",
+  "birthPlace": "Rayavaram",
+  "fetchedAt": "2026-08-07T01:44:11.087Z"
+}

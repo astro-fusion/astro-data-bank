@@ -1,0 +1,32 @@
+{
+  "publicId": "6c0d3013",
+  "wikipediaSlug": "Srinivasa_Ramanujan",
+  "wikipediaId": "Q83163",
+  "name": "Srinivasa Ramanujan",
+  "fullName": "Srinivasa Ramanujan",
+  "profileSummary": "Srinivasa Ramanujan Iyengar was an Indian mathematician who worked during the early 20th century. He made substantial contributions to mathematical analysis, number theory, infinite series, and continued fractions, including solutions to mathematical problems then considered unsolvable.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Srinivasa_Ramanujan-Add._MS_a94_version2_%28cropped%29.jpg/330px-Srinivasa_Ramanujan-Add._MS_a94_version2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan",
+  "dateOfBirth": "1887-12-22",
+  "birthDateParsed": "1887-12-22",
+  "dateOfDeath": "1920-04-26",
+  "deathDateParsed": "1920-04-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "11.3428",
+  "birthCoordinatesLng": "77.72741",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "accountant"
+  ],
+  "qid": "Q83163",
+  "birthPlace": "Erode",
+  "fetchedAt": "2026-08-06T07:28:48.697Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "8ba51806",
+  "wikipediaSlug": "Chanchal_Kumar_Majumdar",
+  "wikipediaId": "Q29471544",
+  "name": "Chanchal Kumar Majumdar",
+  "fullName": "Chanchal Kumar Majumdar",
+  "profileSummary": "Chanchal Kumar Majumdar was an Indian condensed matter physicist and the founder director of S.N. Bose National Centre for Basic Sciences. Known for his research in quantum mechanics, Majumdar was an elected fellow of all the three major Indian science academies – the Indian National Science Academy, the National Academy of Sciences, India, and the Indian Academy of Sciences – as well a member of the New York Academy of Sciences and the American Physical Society.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/Chanchal_Kumar_Majumder.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chanchal_Kumar_Majumdar",
+  "dateOfBirth": "1938-08-11",
+  "birthDateParsed": "1938-08-11",
+  "dateOfDeath": "2000-06-20",
+  "deathDateParsed": "2000-06-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q29471544",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T04:19:07.170Z"
+}

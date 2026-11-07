@@ -1,0 +1,32 @@
+{
+  "publicId": "8726e509",
+  "wikipediaSlug": "Jayanta_Kumar_Ghosh",
+  "wikipediaId": "Q16773201",
+  "name": "Jayanta Kumar Ghosh",
+  "fullName": "Jayanta Kumar Ghosh",
+  "profileSummary": "Jayanta Kumar Ghosh was an Indian statistician, an emeritus professor at Indian Statistical Institute and a professor of statistics at Purdue University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jayanta_Kumar_Ghosh.JPG/330px-Jayanta_Kumar_Ghosh.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jayanta_Kumar_Ghosh",
+  "dateOfBirth": "1937-05-23",
+  "birthDateParsed": "1937-05-23",
+  "dateOfDeath": "2017-09-30",
+  "deathDateParsed": "2017-09-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "statistician"
+  ],
+  "qid": "Q16773201",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T07:27:50.313Z"
+}

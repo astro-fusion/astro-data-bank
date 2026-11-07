@@ -1,0 +1,31 @@
+{
+  "publicId": "88bd9dd3",
+  "wikipediaSlug": "Kieron_Pollard",
+  "wikipediaId": "Q3530594",
+  "name": "Kieron Pollard",
+  "fullName": "Kieron Pollard",
+  "profileSummary": "Kieron Adrian Pollard is a Trinidadian cricketer, who captained the West Indies cricket team in limited overs cricket. He used to play in various T20 leagues around the globe as an all-rounder. He also used to captain MI Cape Town, MI Emirates and MI New York in the SA20, ILT20 and MLC respectively. He is currently playing for the Trinbago Knight Riders in the Caribbean Premier League. He is also the batting coach of the Mumbai Indians in the Indian Premier League and was the assistant coach of the England cricket team for the ICC Men's T20 World Cup 2024. He was part of the 2012 ICC World Twenty20 winning team for West Indies. During his period, he was one of the most aggressive batsmen and he also has the record of six 6s in an over against Sri Lanka.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kieron_Pollard.jpg/330px-Kieron_Pollard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kieron_Pollard",
+  "dateOfBirth": "1987-05-12",
+  "birthDateParsed": "1987-05-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.63333333",
+  "birthCoordinatesLng": "-61.36666667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3530594",
+  "birthPlace": "Tacarigua",
+  "fetchedAt": "2026-08-08T13:53:57.897Z"
+}

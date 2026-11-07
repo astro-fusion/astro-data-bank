@@ -1,0 +1,32 @@
+{
+  "publicId": "0bcd9d70",
+  "wikipediaSlug": "Anandamohan_Bose",
+  "wikipediaId": "Q4751341",
+  "name": "Anandamohan Bose",
+  "fullName": "Anandamohan Bose",
+  "profileSummary": "Ananda Mohan Bose was a Bengali politician, academic, social reformer, and lawyer during the British Raj. He co-founded the Indian National Association, one of the earliest Indian political organizations, and later became a senior leader of the Indian National Congress. In 1874, he became the first Indian Wrangler of the Cambridge University. He was also a prominent religious leader of Brahmoism and with Sivanath Sastri a leading light of Adi Dharm.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Anandamohan_Bose.jpg/330px-Anandamohan_Bose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anandamohan_Bose",
+  "dateOfBirth": "1847-09-23",
+  "birthDateParsed": "1847-09-23",
+  "dateOfDeath": "1906-08-20",
+  "deathDateParsed": "1906-08-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.433333333",
+  "birthCoordinatesLng": "90.783333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "barrister"
+  ],
+  "qid": "Q4751341",
+  "birthPlace": "Kishoreganj District",
+  "fetchedAt": "2026-08-07T10:32:34.974Z"
+}

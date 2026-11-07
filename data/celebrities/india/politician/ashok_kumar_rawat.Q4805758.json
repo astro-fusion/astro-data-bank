@@ -1,5 +1,5 @@
 {
-  "publicId": "00eab052",
+  "publicId": "a1fc7516",
   "wikipediaSlug": "Ashok_Kumar_Rawat",
   "wikipediaId": "Q4805758",
   "name": "Ashok Kumar Rawat",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashok_Kumar_Rawat",
   "dateOfBirth": "1975-11-26",
+  "birthDateParsed": "1975-11-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "27.3947",
   "birthCoordinatesLng": "80.1283",
-  "moonSign": "5",
-  "sunSign": "8",
-  "lagnaSignText": "10",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4805758",
   "birthPlace": "Hardoi",
-  "fetchedAt": "2026-04-07T16:20:04.372Z"
+  "fetchedAt": "2026-08-07T00:25:36.440Z"
 }

@@ -1,0 +1,31 @@
+{
+  "publicId": "d38c424f",
+  "wikipediaSlug": "Bahadur_Shah_I",
+  "wikipediaId": "Q544228",
+  "name": "Bahadur Shah I",
+  "fullName": "Bahadur Shah I",
+  "profileSummary": "Bahadur Shah I or Shah Alam I, was the eighth Mughal emperor from 1707 to 1712. He was the second son of the sixth Mughal emperor Aurangzeb, who he conspired to overthrow in his youth. He was also the governor of the imperial provinces of Agra, Kabul and Lahore and had to face revolts of Rajputs and Sikhs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shah_Alam_Bahadur.jpg/330px-Shah_Alam_Bahadur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bahadur_Shah_I",
+  "dateOfBirth": "1643-10-14",
+  "birthDateParsed": "1643-10-14",
+  "dateOfDeath": "1712-02-27",
+  "deathDateParsed": "1712-02-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.3",
+  "birthCoordinatesLng": "76.226667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch"
+  ],
+  "qid": "Q544228",
+  "birthPlace": "Burhanpur",
+  "fetchedAt": "2026-08-07T11:48:29.007Z"
+}

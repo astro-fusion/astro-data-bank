@@ -1,0 +1,32 @@
+{
+  "publicId": "79b093d5",
+  "wikipediaSlug": "Bashir_Badr",
+  "wikipediaId": "Q196547",
+  "name": "Bashir Badr",
+  "fullName": "Bashir Badr",
+  "profileSummary": "Bashir Badr was an Indian poet born in Bukiya village near Hanswar in present-day Ambedkar Nagar district, Uttar Pradesh. He taught Urdu at the Aligarh Muslim University. He primarily wrote in the Urdu language, particularly ghazals. He also wrote a couplet titled Dushmani Jam Kar Karo in 1972 during Shimla Agreement that revolves around the partition of India. \nMost of Badr's unpublished literary work, including an uncertain number of poems was lost during the 1987 Meerut communal riots, and later he moved to Bhopal, Madhya Pradesh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3a/Bashir_Badr_pic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bashir_Badr",
+  "dateOfBirth": "1935-02-15",
+  "birthDateParsed": "1935-02-15",
+  "dateOfDeath": "2026-05-28",
+  "deathDateParsed": "2026-05-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.783333333",
+  "birthCoordinatesLng": "82.133333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q196547",
+  "birthPlace": "Faizabad",
+  "fetchedAt": "2026-08-07T01:42:23.408Z"
+}

@@ -1,5 +1,5 @@
 {
-  "publicId": "49d840f3",
+  "publicId": "6ab97e27",
   "wikipediaSlug": "Atul_Garg",
   "wikipediaId": "Q29467315",
   "name": "Atul Garg",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Atul_Garg",
   "dateOfBirth": "1957-08-26",
+  "birthDateParsed": "1957-08-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.666666666",
   "birthCoordinatesLng": "77.416666666",
-  "moonSign": "5",
-  "sunSign": "5",
-  "lagnaSignText": "7",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q29467315",
   "birthPlace": "Ghaziabad",
-  "fetchedAt": "2026-04-07T16:20:26.290Z"
+  "fetchedAt": "2026-08-07T00:25:46.938Z"
 }

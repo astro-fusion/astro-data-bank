@@ -1,5 +1,5 @@
 {
-  "publicId": "7e3ed688",
+  "publicId": "300caea8",
   "wikipediaSlug": "Alok_Kumar_Suman",
   "wikipediaId": "Q64141266",
   "name": "Alok Kumar Suman",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Alok_Kumar_Suman.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Alok_Kumar_Suman",
   "dateOfBirth": "1957-03-04",
+  "birthDateParsed": "1957-03-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "12",
-  "sunSign": "11",
-  "lagnaSignText": "2",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q64141266",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:19:50.958Z"
+  "fetchedAt": "2026-08-07T00:25:05.122Z"
 }

@@ -1,0 +1,35 @@
+{
+  "publicId": "b666c337",
+  "wikipediaSlug": "Sarojini_Naidu",
+  "wikipediaId": "Q250165",
+  "name": "Sarojini Naidu",
+  "fullName": "Sarojini Naidu",
+  "profileSummary": "Sarojini Naidu  was an Indian political activist and poet who served as the first Governor of United Provinces, after India's independence. She played an important role in the Indian independence movement against the British Raj. She was the first Indian woman to be president of the Indian National Congress and appointed governor of a state.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sarojini_Naidu.jpg/330px-Sarojini_Naidu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+  "dateOfBirth": "1879-02-13",
+  "birthDateParsed": "1879-02-13",
+  "dateOfDeath": "1949-03-02",
+  "deathDateParsed": "1949-03-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.361666666",
+  "birthCoordinatesLng": "78.474722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "politician",
+    "independence activist",
+    "freedom fighter",
+    "writer"
+  ],
+  "qid": "Q250165",
+  "birthPlace": "Hyderabad",
+  "fetchedAt": "2026-08-07T10:33:43.848Z"
+}

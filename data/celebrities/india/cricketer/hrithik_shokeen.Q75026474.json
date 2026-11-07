@@ -1,0 +1,31 @@
+{
+  "publicId": "9485e757",
+  "wikipediaSlug": "Hrithik_Shokeen",
+  "wikipediaId": "Q75026474",
+  "name": "Hrithik Shokeen",
+  "fullName": "Hrithik Shokeen",
+  "profileSummary": "Hrithik Shokeen is an Indian cricketer who plays for Delhi in domestic cricket and has played for the Mumbai Indians in the Indian Premier League.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hrithik_Shokeen",
+  "dateOfBirth": "2000-01-18",
+  "birthDateParsed": "2000-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q75026474",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-08T13:53:43.762Z"
+}

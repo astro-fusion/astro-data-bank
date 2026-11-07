@@ -1,0 +1,33 @@
+{
+  "publicId": "f5fd6946",
+  "wikipediaSlug": "Gudrun_Krämer",
+  "wikipediaId": "Q1381905",
+  "name": "Gudrun Krämer",
+  "fullName": "Gudrun Krämer",
+  "profileSummary": "Gudrun Krämer is a German scholar of Islamic history and co-editor of the third edition of the Encyclopaedia of Islam. She is professor of Islamic studies, Chair of the Institute of Islamic Studies at the Free University of Berlin and a member of the Berlin-Brandenburg Academy of Sciences and Humanities. Her expertise is in topics related to modern Islamic history and in Islam, democracy, and modernity.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Roemerberggespraeche-04-2015-gudrun-kr%C3%A4mer-ffm-365.jpg/330px-Roemerberggespraeche-04-2015-gudrun-kr%C3%A4mer-ffm-365.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gudrun_Kr%C3%A4mer",
+  "dateOfBirth": "1953-08-03",
+  "birthDateParsed": "1953-08-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.816666666",
+  "birthCoordinatesLng": "8.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "Islamicist",
+    "historian"
+  ],
+  "qid": "Q1381905",
+  "birthPlace": "Marburg",
+  "fetchedAt": "2026-08-07T11:48:55.059Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "662db32a",
+  "wikipediaSlug": "Debasish_Ghose",
+  "wikipediaId": "Q22277536",
+  "name": "Debasish Ghose",
+  "fullName": "Debasish Ghose",
+  "profileSummary": "\n\nDebasish Ghose is a professor at Department of Aerospace Engineering, Indian Institute of Science. He is believed to have initiated work on cooperative control in India, having pioneered research on Intelligent control and multi-agents. He founded the first mobile robotics lab in India i.e. Mobile Robotics Laboratory at IISc in 2002. He is known for his early work in swarm intelligence, distributed computing and game theory. His primary research is in Guidance and control of autonomous vehicles, although, current interest is in Computational intelligence i.e. Machine Learning for Aerial Robotics.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Debasish_Ghose",
+  "dateOfBirth": "1960-05-16",
+  "birthDateParsed": "1960-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "university teacher"
+  ],
+  "qid": "Q22277536",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T04:19:27.875Z"
+}

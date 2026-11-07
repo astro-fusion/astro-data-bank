@@ -1,0 +1,31 @@
+{
+  "publicId": "5a40a84f",
+  "wikipediaSlug": "Jonny_Bairstow",
+  "wikipediaId": "Q3183593",
+  "name": "Jonny Bairstow",
+  "fullName": "Jonny Bairstow",
+  "profileSummary": "Jonathan Marc Bairstow is an English cricketer who played internationally for England in all formats as a right-handed wicket-keeper-batter. He represents Yorkshire in domestic cricket and London Spirit in The Hundred. Bairstow was part of the England team that won the 2019 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2_05_Bairstow_out.jpg/330px-2_05_Bairstow_out.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonny_Bairstow",
+  "dateOfBirth": "1989-09-26",
+  "birthDateParsed": "1989-09-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3183593",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T16:12:02.193Z"
+}

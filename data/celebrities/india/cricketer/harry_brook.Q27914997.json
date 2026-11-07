@@ -1,0 +1,31 @@
+{
+  "publicId": "0310c14a",
+  "wikipediaSlug": "Harry_Brook",
+  "wikipediaId": "Q27914997",
+  "name": "Harry Brook",
+  "fullName": "Harry Brook",
+  "profileSummary": "Harry Cherrington Brook is an English international cricketer who plays for England in all three formats of the game and is the Test vice-captain, ODI and T20I captain. Brook plays domestic cricket for Yorkshire. Primarily a right-handed batsman, he also bowls right-arm medium pace. He made his international debut for England in January 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Harry_Brook_County_cricket_cropped.jpg/330px-Harry_Brook_County_cricket_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Brook",
+  "dateOfBirth": "1999-02-22",
+  "birthDateParsed": "1999-02-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.866666666",
+  "birthCoordinatesLng": "-1.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q27914997",
+  "birthPlace": "Keighley",
+  "fetchedAt": "2026-08-06T16:11:54.364Z"
+}

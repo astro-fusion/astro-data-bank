@@ -1,0 +1,31 @@
+{
+  "publicId": "9fa18243",
+  "wikipediaSlug": "John_Hastings_(cricketer)",
+  "wikipediaId": "Q6238210",
+  "name": "John Hastings (cricketer)",
+  "fullName": "John Hastings (cricketer)",
+  "profileSummary": "John Wayne Hastings is an Australian former international cricketer who played for the Victoria cricket team. He played as an all-rounder.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hastings_(cricketer)",
+  "dateOfBirth": "1985-11-04",
+  "birthDateParsed": "1985-11-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6238210",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-09T03:15:36.687Z"
+}

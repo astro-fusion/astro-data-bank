@@ -1,0 +1,31 @@
+{
+  "publicId": "621b2d25",
+  "wikipediaSlug": "Quinton_de_Kock",
+  "wikipediaId": "Q7272502",
+  "name": "Quinton de Kock",
+  "fullName": "Quinton de Kock",
+  "profileSummary": "Quinton de Kock is a South African international cricketer and former captain of the South Africa national team in all three formats. He currently plays for Titans at the domestic level and for South Africa in white ball cricket. He was named the Cricketer of the Year at Cricket South Africa's 2017 Annual Awards, and is considered as one of the best wicket keeper batsmen of his generation. An opening batsman and wicket-keeper, de Kock made his domestic debut for the Highveld Lions during the 2012/2013 season. He quickly caught the national selectors' eye when he starred in a match-winning partnership with Neil McKenzie in the Champions League T20 against the Mumbai Indians in the Indian Premier League (IPL). He also finished fourth on the first-class rankings, despite playing only six of the 10 matches that summer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/QUINTON_DE_KOCK_%2815681398316%29.jpg/330px-QUINTON_DE_KOCK_%2815681398316%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Quinton_de_Kock",
+  "dateOfBirth": "1992-12-17",
+  "birthDateParsed": "1992-12-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q7272502",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-08-06T16:12:13.940Z"
+}

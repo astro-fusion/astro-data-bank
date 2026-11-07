@@ -1,0 +1,31 @@
+{
+  "publicId": "aaa32258",
+  "wikipediaSlug": "Aaron_Finch",
+  "wikipediaId": "Q4662015",
+  "name": "Aaron Finch",
+  "fullName": "Aaron Finch",
+  "profileSummary": "Aaron James Finch is an Australian cricket commentator and former international cricketer who previously captained the Australia national cricket team in both One Day International (ODI) and Twenty20 International (T20I) cricket. An opening batter and occasional left arm orthodox spinner, he made his international debut in 2011. He also played for Victoria in domestic cricket and the Melbourne Renegades in the Big Bash League.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/AARON_FINCH_%286299558883%29.jpg/330px-AARON_FINCH_%286299558883%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Finch",
+  "dateOfBirth": "1986-11-17",
+  "birthDateParsed": "1986-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-38.333333333",
+  "birthCoordinatesLng": "143.583333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4662015",
+  "birthPlace": "Colac",
+  "fetchedAt": "2026-08-08T13:52:28.443Z"
+}

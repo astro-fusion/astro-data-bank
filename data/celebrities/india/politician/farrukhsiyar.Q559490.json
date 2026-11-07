@@ -1,0 +1,31 @@
+{
+  "publicId": "63eb2486",
+  "wikipediaSlug": "Farrukhsiyar",
+  "wikipediaId": "Q559490",
+  "name": "Farrukhsiyar",
+  "fullName": "Farrukhsiyar",
+  "profileSummary": "Farrukhsiyar, also spelled as Farrukh Siyar, was the tenth Mughal Emperor from 1713 to 1719. He rose to the throne after deposing his uncle Jahandar Shah. He was an emperor only in name, with all effective power in the hands of the two courtiers, the Sayyid brothers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Muhhamad_Farukhsiyar.jpg/330px-Muhhamad_Farukhsiyar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Farrukhsiyar",
+  "dateOfBirth": "1683-09-11",
+  "birthDateParsed": "1683-09-11",
+  "dateOfDeath": "1719-04-19",
+  "deathDateParsed": "1719-04-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.88",
+  "birthCoordinatesLng": "75.32",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q559490",
+  "birthPlace": "Aurangabad",
+  "fetchedAt": "2026-08-08T00:44:10.594Z"
+}

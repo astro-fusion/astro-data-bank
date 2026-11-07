@@ -1,0 +1,32 @@
+{
+  "publicId": "aafd0724",
+  "wikipediaSlug": "Rash_Behari_Ghosh",
+  "wikipediaId": "Q7294817",
+  "name": "Rash Behari Ghosh",
+  "fullName": "Rash Behari Ghosh",
+  "profileSummary": "Sir Rash Behari Ghosh was an Indian politician, lawyer, social worker and philanthropist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rashbehari_Ghosh.jpg/330px-Rashbehari_Ghosh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rash_Behari_Ghosh",
+  "dateOfBirth": "1845-12-23",
+  "birthDateParsed": "1845-12-23",
+  "dateOfDeath": "1921-02-28",
+  "deathDateParsed": "1921-02-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.20911",
+  "birthCoordinatesLng": "87.69827",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "freedom fighter"
+  ],
+  "qid": "Q7294817",
+  "birthPlace": "Khandaghosh",
+  "fetchedAt": "2026-08-07T10:33:33.288Z"
+}

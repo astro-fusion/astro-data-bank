@@ -1,5 +1,5 @@
 {
-  "publicId": "20313cab",
+  "publicId": "c8991cea",
   "wikipediaSlug": "Anoop_Pradhan",
   "wikipediaId": "Q111365575",
   "name": "Anoop Pradhan",
@@ -8,17 +8,22 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anoop_Pradhan",
   "dateOfBirth": "1981-02-08",
+  "birthDateParsed": "1981-02-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "12",
-  "sunSign": "10",
-  "lagnaSignText": "2",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [],
   "qid": "Q111365575",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:23:16.260Z"
+  "fetchedAt": "2026-08-07T00:25:34.907Z"
 }

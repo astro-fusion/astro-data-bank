@@ -1,0 +1,32 @@
+{
+  "publicId": "2029306a",
+  "wikipediaSlug": "Anna_Mani",
+  "wikipediaId": "Q4511444",
+  "name": "Anna Mani",
+  "fullName": "Anna Mani",
+  "profileSummary": "Anna Mani was an Indian physicist and meteorologist. She retired as the deputy director general of the Indian Meteorological Department and also served as a visiting professor at the Raman Research Institute.\nMani made contributions to the field of meteorological instrumentation, conducted research, and published numerous papers on solar radiation, ozone, and wind energy measurements.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Anna_Mani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Mani",
+  "dateOfBirth": "1918-08-23",
+  "birthDateParsed": "1918-08-23",
+  "dateOfDeath": "2001-08-16",
+  "deathDateParsed": "2001-08-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "8.433333333",
+  "birthCoordinatesLng": "76.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "meteorologist"
+  ],
+  "qid": "Q4511444",
+  "birthPlace": "Kingdom of Thiruvithamkoor",
+  "fetchedAt": "2026-08-06T04:18:40.163Z"
+}

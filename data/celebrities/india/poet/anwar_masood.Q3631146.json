@@ -1,0 +1,32 @@
+{
+  "publicId": "f27edf2b",
+  "wikipediaSlug": "Anwar_Masood",
+  "wikipediaId": "Q3631146",
+  "name": "Anwar Masood",
+  "fullName": "Anwar Masood",
+  "profileSummary": "Anwar Masood is a Pakistani poet and educationist primarily known for his comic Punjabi poetry. His works include a wide variety of genres including humour, sentimentalism and literary criticism. He predominantly writes in Punjabi, and Urdu, but in Persian as well.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Anwar_Masood_Photo1.jpg/330px-Anwar_Masood_Photo1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anwar_Masood",
+  "dateOfBirth": "1935-11-08",
+  "birthDateParsed": "1935-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.573611111",
+  "birthCoordinatesLng": "74.078888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q3631146",
+  "birthPlace": "Gujrat",
+  "fetchedAt": "2026-08-07T01:41:49.014Z"
+}

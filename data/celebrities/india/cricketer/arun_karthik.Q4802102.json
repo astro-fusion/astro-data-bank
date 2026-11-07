@@ -1,0 +1,31 @@
+{
+  "publicId": "db2c9cef",
+  "wikipediaSlug": "Arun_Karthik",
+  "wikipediaId": "Q4802102",
+  "name": "Arun Karthik",
+  "fullName": "Arun Karthik",
+  "profileSummary": "Konda Bhaskar Arun Karthik is an Indian cricketer, who currently plays for Puducherry and was a member of the Royal Challengers Bangalore squad. Karthik is a right-hand batsman and leg-spin bowler. He was a wicket-keeper batsman for Royal Challengers Bangalore.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arun_Karthik",
+  "dateOfBirth": "1994-05-25",
+  "birthDateParsed": "1994-05-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13",
+  "birthCoordinatesLng": "79.314",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4802102",
+  "birthPlace": "Walajapet",
+  "fetchedAt": "2026-08-09T03:15:01.121Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "ba718680",
+  "wikipediaSlug": "Vincent_Arthur_Smith",
+  "wikipediaId": "Q2526510",
+  "name": "Vincent Arthur Smith",
+  "fullName": "Vincent Arthur Smith",
+  "profileSummary": "Vincent Arthur Smith was an Irish Indologist, historian, member of the Indian Civil Service, and curator. He was one of the prominent figures in Indian historiography during the British Raj.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Early_History_of_India_by_Vincent_Arthur_Smith.jpg/330px-The_Early_History_of_India_by_Vincent_Arthur_Smith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vincent_Arthur_Smith",
+  "dateOfBirth": "1848-06-03",
+  "birthDateParsed": "1848-06-03",
+  "dateOfDeath": "1920-02-06",
+  "deathDateParsed": "1920-02-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "Indologist",
+    "university teacher"
+  ],
+  "qid": "Q2526510",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-08-07T11:49:35.693Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "8f413f54",
+  "wikipediaSlug": "Uddhav_Thackeray",
+  "wikipediaId": "Q3634346",
+  "name": "Uddhav Thackeray",
+  "fullName": "Uddhav Thackeray",
+  "profileSummary": "Uddhav Bal Thackeray is an Indian politician who served as the 19th Chief Minister of Maharashtra from 2019 to 2022 and the Leader of the House, Maharashtra Legislative Assembly from 2019 to 2022. He is a member of Maharashtra Legislative Council since 2020, the president of Maha Vikas Aghadi since 2019 and the president of Shivsena since 2022. He was also the leader (pramukh) of Shivsena from 2013 to 2022, working President from 2003 to 2013 and the editor-in-chief of Saamana from 2006 to 2019. During his tenure from 2019 to 2022, he was ranked as the most popular Chief Minister in a survey conducted in 13 states of India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Uddhav_Thackeray%2C_President_of_Shiv_Sena-UBT.jpg/330px-Uddhav_Thackeray%2C_President_of_Shiv_Sena-UBT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Uddhav_Thackeray",
+  "dateOfBirth": "1960-07-27",
+  "birthDateParsed": "1960-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "party leader"
+  ],
+  "qid": "Q3634346",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-09T12:07:24.268Z"
+}

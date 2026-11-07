@@ -1,0 +1,32 @@
+{
+  "publicId": "0e3cf50a",
+  "wikipediaSlug": "Binoy_Majumdar",
+  "wikipediaId": "Q4914503",
+  "name": "Binoy Majumdar",
+  "fullName": "Binoy Majumdar",
+  "profileSummary": "Binoy Majumdar was a Bengali poet who received the Sahitya Akademi Award in 2005.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/BinoyMajumdarPic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Binoy_Majumdar",
+  "dateOfBirth": "1934-09-17",
+  "birthDateParsed": "1934-09-17",
+  "dateOfDeath": "2006-12-11",
+  "deathDateParsed": "2006-12-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22",
+  "birthCoordinatesLng": "96",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q4914503",
+  "birthPlace": "Myanmar",
+  "fetchedAt": "2026-08-07T01:42:34.987Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "f1bced41",
+  "wikipediaSlug": "Will_Jacks",
+  "wikipediaId": "Q51879484",
+  "name": "Will Jacks",
+  "fullName": "Will Jacks",
+  "profileSummary": "William George Jacks is an English cricketer who plays for the England cricket team in all formats of this game. He is a right-handed batter and off spin bowler. He made his Test debut against Pakistan in December 2022. He has featured in various global Twenty20 (T20) leagues.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/4_20_Will_Jacks.jpg/330px-4_20_Will_Jacks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Will_Jacks",
+  "dateOfBirth": "1998-11-21",
+  "birthDateParsed": "1998-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.3902",
+  "birthCoordinatesLng": "-0.5074",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q51879484",
+  "birthPlace": "Chertsey",
+  "fetchedAt": "2026-08-06T16:12:44.290Z"
+}

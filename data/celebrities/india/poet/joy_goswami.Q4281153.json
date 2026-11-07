@@ -1,0 +1,31 @@
+{
+  "publicId": "76585e31",
+  "wikipediaSlug": "Joy_Goswami",
+  "wikipediaId": "Q4281153",
+  "name": "Joy Goswami",
+  "fullName": "Joy Goswami",
+  "profileSummary": "Joy Goswami is an Indian poet, novelist, and short story writer. Goswami writes in Bengali and is widely considered as one of the most important poets in the post-Jibanananda Das era of Bengali poetry. His work addresses ordinary lives, marriage struggles, relationships with women, and the act of writing. He is lauded for his linguistically inventive poetry, its semi-abstract imagery, and strong lyrical appeal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Joy_Goswami_-_Kolkata_2014-02-03_8315.JPG/330px-Joy_Goswami_-_Kolkata_2014-02-03_8315.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joy_Goswami",
+  "dateOfBirth": "1954-11-10",
+  "birthDateParsed": "1954-11-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet"
+  ],
+  "qid": "Q4281153",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-07T01:44:32.721Z"
+}

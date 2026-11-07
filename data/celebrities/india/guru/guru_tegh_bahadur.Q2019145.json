@@ -1,0 +1,33 @@
+{
+  "publicId": "2b7978ec",
+  "wikipediaSlug": "Guru_Tegh_Bahadur",
+  "wikipediaId": "Q2019145",
+  "name": "Guru Tegh Bahadur",
+  "fullName": "Guru Tegh Bahadur",
+  "profileSummary": "Guru Tegh Bahadur was the ninth of ten gurus who founded the Sikh religion and was the leader of Sikhs from 1664 until his beheading in 1675. He was born in Amritsar, Punjab, India in 1621 and was the youngest son of Guru Hargobind, the sixth Sikh guru. Considered a principled and fearless warrior, he was a learned spiritual scholar and a poet whose 115 hymns are included in the Guru Granth Sahib, which is the main text of Sikhism. He was the founder of Anandpur Sahib in 1664.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Contemporary_painting_of_Guru_Tegh_Bahadur_by_Ahsan%2C_ca.1667%E2%80%9368_%28detail%29.jpg/330px-Contemporary_painting_of_Guru_Tegh_Bahadur_by_Ahsan%2C_ca.1667%E2%80%9368_%28detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur",
+  "dateOfBirth": "1621-04-01",
+  "birthDateParsed": "1621-04-01",
+  "dateOfDeath": "1675-11-11",
+  "deathDateParsed": "1675-11-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.626917",
+  "birthCoordinatesLng": "74.87704",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guru",
+    "religious leader",
+    "writer"
+  ],
+  "qid": "Q2019145",
+  "birthPlace": "Amritsar",
+  "fetchedAt": "2026-08-07T11:48:41.882Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "7bbdc405",
+  "wikipediaSlug": "Rajyavardhan_Singh_Rathore",
+  "wikipediaId": "Q982805",
+  "name": "Rajyavardhan Singh Rathore",
+  "fullName": "Rajyavardhan Singh Rathore",
+  "profileSummary": "Rajyavardhan Singh Rathore is an Indian politician, Olympic medallist in shooting and retired colonel in the Indian Army. He is serving as a cabinet minister at the Industry & Commerce, Youth Affairs & Sports Department in the Government of Rajasthan since December 2023. Rathore was a Member of Parliament in the Lok Sabha from Jaipur Rural seat since 2014 till 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Minister_of_State_for_Youth_Affairs_and_Sports_%28IC%29_and_Information_%26_Broadcasting%2C_Col._Rajyavardhan_Singh_Rathore_addressing_after_felicitating_the_winners_of_the_World_Youth_Boxing_Championship_2017%2C_at_a_function_%28cropped%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajyavardhan_Singh_Rathore",
+  "dateOfBirth": "1970-01-29",
+  "birthDateParsed": "1970-01-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.916666666",
+  "birthCoordinatesLng": "70.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "sport shooter"
+  ],
+  "qid": "Q982805",
+  "birthPlace": "Jaisalmer",
+  "fetchedAt": "2026-08-08T00:24:45.449Z"
+}

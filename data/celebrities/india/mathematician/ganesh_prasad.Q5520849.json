@@ -1,0 +1,33 @@
+{
+  "publicId": "86c4cbf6",
+  "wikipediaSlug": "Ganesh_Prasad",
+  "wikipediaId": "Q5520849",
+  "name": "Ganesh Prasad",
+  "fullName": "Ganesh Prasad",
+  "profileSummary": "Ganesh Prasad was an Indian mathematician who specialised in the theory of potentials, theory of functions of a real variable, Fourier series and the theory of surfaces. He was trained at the Universities of Cambridge and Göttingen and on return to India he helped develop the culture of mathematical research in India. The mathematical community of India considers Ganesh Prasad as the \"Father of Mathematical Research in India\". He was also an educator taking special interest in the advancement of primary education in the rural areas of India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/GaneshPrasadImage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganesh_Prasad",
+  "dateOfBirth": "1876-11-15",
+  "birthDateParsed": "1876-11-15",
+  "dateOfDeath": "1935-03-09",
+  "deathDateParsed": "1935-03-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.7625",
+  "birthCoordinatesLng": "84.151944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "historian of mathematics",
+    "university teacher"
+  ],
+  "qid": "Q5520849",
+  "birthPlace": "Ballia",
+  "fetchedAt": "2026-08-06T07:27:53.540Z"
+}

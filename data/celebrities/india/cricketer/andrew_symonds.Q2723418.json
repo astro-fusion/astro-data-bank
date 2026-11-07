@@ -1,0 +1,32 @@
+{
+  "publicId": "1b0a66ac",
+  "wikipediaSlug": "Andrew_Symonds",
+  "wikipediaId": "Q2723418",
+  "name": "Andrew Symonds",
+  "fullName": "Andrew Symonds",
+  "profileSummary": "Andrew Symonds was an Australian international cricketer, who played all three formats as a batting all-rounder. Commonly nicknamed \"Roy\", he was a key member of two World Cup–winning squads. Symonds was a part of the team that won both the 2003 Cricket World Cup and, four years later, the 2007 Cricket World Cup. Symonds played as a right-handed, middle-order batsman and alternated between medium pace and off-spin bowling. He was also notable for his exceptional fielding skills.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Andrew_symonds_%28cropped%29.jpg/330px-Andrew_symonds_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Symonds",
+  "dateOfBirth": "1975-06-09",
+  "birthDateParsed": "1975-06-09",
+  "dateOfDeath": "2022-05-14",
+  "deathDateParsed": "2022-05-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "athlete"
+  ],
+  "qid": "Q2723418",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-08-08T13:52:17.704Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "85e991bb",
+  "wikipediaSlug": "Ram_Prakash_Gupta",
+  "wikipediaId": "Q7288556",
+  "name": "Ram Prakash Gupta",
+  "fullName": "Ram Prakash Gupta",
+  "profileSummary": "Ram Prakash Gupta was Chief Minister of Uttar Pradesh, and Governor of Madhya Pradesh. He was a leader of Bharatiya Janata Party, as well as its predecessor party, the Bharatiya Jana Sangh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ram_Prakash_Gupta.jpg/330px-Ram_Prakash_Gupta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram_Prakash_Gupta",
+  "dateOfBirth": "1923-10-26",
+  "birthDateParsed": "1923-10-26",
+  "dateOfDeath": "2004-05-01",
+  "deathDateParsed": "2004-05-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.44862",
+  "birthCoordinatesLng": "78.56962",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q7288556",
+  "birthPlace": "Jhansi",
+  "fetchedAt": "2026-08-08T15:25:43.318Z"
+}

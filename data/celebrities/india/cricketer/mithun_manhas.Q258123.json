@@ -1,0 +1,31 @@
+{
+  "publicId": "574a9fcf",
+  "wikipediaSlug": "Mithun_Manhas",
+  "wikipediaId": "Q258123",
+  "name": "Mithun Manhas",
+  "fullName": "Mithun Manhas",
+  "profileSummary": "Mithun Manhas is an Indian cricket administrator and former cricketer who is serving as the president of the Board of Control for Cricket in India since September 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mithun_manhas.jpg/330px-Mithun_manhas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mithun_Manhas",
+  "dateOfBirth": "1979-10-12",
+  "birthDateParsed": "1979-10-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.73569",
+  "birthCoordinatesLng": "74.86911",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q258123",
+  "birthPlace": "Jammu",
+  "fetchedAt": "2026-08-09T03:16:34.142Z"
+}

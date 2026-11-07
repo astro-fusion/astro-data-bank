@@ -1,0 +1,31 @@
+{
+  "publicId": "01955aef",
+  "wikipediaSlug": "Ben_Cutting",
+  "wikipediaId": "Q4885492",
+  "name": "Ben Cutting",
+  "fullName": "Ben Cutting",
+  "profileSummary": "Benjamin Colin James Cutting is an Australian cricketer who plays as an all-rounder. Cutting represented Australia in one-day internationals and T20 matches, and at the 2006 U-19 Cricket World Cup in Sri Lanka. Cutting played first-class cricket for the Queensland between 2007 and 2018 before opting to play only white-ball cricket in the nascent worldwide Twenty20 franchise system. He most recently played for the New York Lions in the USA National Cricket League.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Brisbane_Heat_vs_Melbourne_Stars_T20_15.jpg/330px-Brisbane_Heat_vs_Melbourne_Stars_T20_15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Cutting",
+  "dateOfBirth": "1987-01-30",
+  "birthDateParsed": "1987-01-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.579",
+  "birthCoordinatesLng": "153.059",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4885492",
+  "birthPlace": "Sunnybank",
+  "fetchedAt": "2026-08-08T13:52:40.056Z"
+}

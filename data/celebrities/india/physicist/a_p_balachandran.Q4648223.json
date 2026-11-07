@@ -1,0 +1,32 @@
+{
+  "publicId": "15588eca",
+  "wikipediaSlug": "A._P._Balachandran",
+  "wikipediaId": "Q4648223",
+  "name": "A. P. Balachandran",
+  "fullName": "A. P. Balachandran",
+  "profileSummary": "Aiyalam Parameswaran Balachandran was an Indian theoretical physicist known for his extensive contributions to the role of classical topology in quantum physics. He was an emeritus professor in the Department of Physics, Syracuse University, where he was previously the Joel Dorman Steele Professor of Physics between 1999 and 2012. He was also a fellow of the American Physical Society since 1988 and was awarded a prize by the U.S. Chapter of the Indian Physics Association in recognition of his outstanding scientific contributions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A._P._Balachandran.jpg/330px-A._P._Balachandran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._P._Balachandran",
+  "dateOfBirth": "1938-01-25",
+  "birthDateParsed": "1938-01-25",
+  "dateOfDeath": "2025-04-18",
+  "deathDateParsed": "2025-04-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "11.65",
+  "birthCoordinatesLng": "78.166666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q4648223",
+  "birthPlace": "Salem",
+  "fetchedAt": "2026-08-06T04:18:16.485Z"
+}

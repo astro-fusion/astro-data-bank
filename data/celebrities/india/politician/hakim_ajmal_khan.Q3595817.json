@@ -1,0 +1,33 @@
+{
+  "publicId": "46c49c83",
+  "wikipediaSlug": "Hakim_Ajmal_Khan",
+  "wikipediaId": "Q3595817",
+  "name": "Hakim Ajmal Khan",
+  "fullName": "Hakim Ajmal Khan",
+  "profileSummary": "Mohammad Ajmal Khan, better known as Hakim Ajmal Khan, was a physician in Delhi, India, and one of the founders of the Jamia Millia Islamia university in Delhi, India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Photograph_Hakim_Ajmal_Khan.jpg/330px-Photograph_Hakim_Ajmal_Khan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakim_Ajmal_Khan",
+  "dateOfBirth": "1864-02-11",
+  "birthDateParsed": "1864-02-11",
+  "dateOfDeath": "1927-12-29",
+  "deathDateParsed": "1927-12-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "freedom fighter",
+    "Hakīm"
+  ],
+  "qid": "Q3595817",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-07T10:32:39.988Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "fb655d82",
+  "wikipediaSlug": "William_Wedderburn",
+  "wikipediaId": "Q8020135",
+  "name": "William Wedderburn",
+  "fullName": "William Wedderburn",
+  "profileSummary": "Sir William Wedderburn, 4th Baronet, JP DL was a British civil servant and politician who was a Liberal Party member of Parliament (MP). Wedderburn was one of the founding members of the Indian National Congress. He was also the president of Congress in 1889 and 1910, for the Allahabad session.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/William_Wedderburn.jpg/330px-William_Wedderburn.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Wedderburn",
+  "dateOfBirth": "1838-03-25",
+  "birthDateParsed": "1838-03-25",
+  "dateOfDeath": "1918-01-25",
+  "deathDateParsed": "1918-01-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q8020135",
+  "birthPlace": "Edinburgh",
+  "fetchedAt": "2026-08-07T10:33:45.597Z"
+}

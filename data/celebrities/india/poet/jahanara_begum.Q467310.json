@@ -1,0 +1,33 @@
+{
+  "publicId": "72c56066",
+  "wikipediaSlug": "Jahanara_Begum",
+  "wikipediaId": "Q467310",
+  "name": "Jahanara Begum",
+  "fullName": "Jahanara Begum",
+  "profileSummary": "Jahanara Begum was a princess of the Mughal Empire. She was the second and the eldest surviving child of Mughal Emperor Shah Jahan and Mumtaz Mahal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Princess_Jahanara_aged_18%2C_British_Library%2C_Add_Or_3129%2C_f.13v.jpg/330px-Princess_Jahanara_aged_18%2C_British_Library%2C_Add_Or_3129%2C_f.13v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jahanara_Begum",
+  "dateOfBirth": "1614-04-02",
+  "birthDateParsed": "1614-04-02",
+  "dateOfDeath": "1681-09-16",
+  "deathDateParsed": "1681-09-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.18",
+  "birthCoordinatesLng": "78.02",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "autobiographer"
+  ],
+  "qid": "Q467310",
+  "birthPlace": "Agra",
+  "fetchedAt": "2026-08-07T11:49:05.225Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "ce122a23",
+  "wikipediaSlug": "Raghu_Raj_Bahadur",
+  "wikipediaId": "Q1245339",
+  "name": "Raghu Raj Bahadur",
+  "fullName": "Raghu Raj Bahadur",
+  "profileSummary": "Raghu Raj Bahadur was an Indian statistician considered by peers to be \"one of the architects of the modern theory of mathematical statistics\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/78/Raghu_Raj_Bahadur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Raghu_Raj_Bahadur",
+  "dateOfBirth": "1924-04-30",
+  "birthDateParsed": "1924-04-30",
+  "dateOfDeath": "1997-06-07",
+  "deathDateParsed": "1997-06-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "statistician"
+  ],
+  "qid": "Q1245339",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-06T07:28:33.752Z"
+}

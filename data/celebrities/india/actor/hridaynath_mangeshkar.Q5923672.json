@@ -1,0 +1,33 @@
+{
+  "publicId": "d8d95a3f",
+  "wikipediaSlug": "Hridaynath_Mangeshkar",
+  "wikipediaId": "Q5923672",
+  "name": "Hridaynath Mangeshkar",
+  "fullName": "Hridaynath Mangeshkar",
+  "profileSummary": "Pandit Hridaynath Mangeshkar is an Indian music director and occasional singer. He is the only son of musician Deenanath Mangeshkar and younger brother of Lata Mangeshkar and Asha Bhosle. He is popularly known as Balasaheb in the music and film industry. He received Filmfare Marathi Lifetime Achievement Award for his contributions in Marathi cinema.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hridaynath-Mangeshkar-2008.JPG/330px-Hridaynath-Mangeshkar-2008.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hridaynath_Mangeshkar",
+  "dateOfBirth": "1937-10-26",
+  "birthDateParsed": "1937-10-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "composer",
+    "music director"
+  ],
+  "qid": "Q5923672",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-07T01:43:55.946Z"
+}

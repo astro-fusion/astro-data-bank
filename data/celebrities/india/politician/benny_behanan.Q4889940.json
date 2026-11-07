@@ -1,5 +1,5 @@
 {
-  "publicId": "2ebc9821",
+  "publicId": "40717ab3",
   "wikipediaSlug": "Benny_Behanan",
   "wikipediaId": "Q4889940",
   "name": "Benny Behanan",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Benny_Behanan_BNC.jpg/330px-Benny_Behanan_BNC.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Benny_Behanan",
   "dateOfBirth": "1952-08-22",
+  "birthDateParsed": "1952-08-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "10.082",
   "birthCoordinatesLng": "76.467",
-  "moonSign": "5",
-  "sunSign": "5",
-  "lagnaSignText": "8",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4889940",
   "birthPlace": "Vengola",
-  "fetchedAt": "2026-04-07T16:21:00.782Z"
+  "fetchedAt": "2026-08-07T00:26:07.273Z"
 }

@@ -1,0 +1,31 @@
+{
+  "publicId": "0f5c725f",
+  "wikipediaSlug": "Anandiben_Patel",
+  "wikipediaId": "Q4751365",
+  "name": "Anandiben Patel",
+  "fullName": "Anandiben Patel",
+  "profileSummary": "Anandiben Mafatbhai Patel is an Indian politician serving as the 20th and current governor of Uttar Pradesh since 2019. She also served as the 17th governor of Madhya Pradesh from 2020 to 2021 and as Governor of Chhattisgarh from 2018 to 2019. She has served as the first and to date, the only female Chief Minister of Gujarat. She is also the second female Governor of Uttar Pradesh after Sarojini Naidu and also the longest-serving governor for the state. She is a member of the Bharatiya Janata Party (BJP) since 1987. She was the Cabinet Minister for Education from 2002 to 2007.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Anandiben.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anandiben_Patel",
+  "dateOfBirth": "1941-11-21",
+  "birthDateParsed": "1941-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.75",
+  "birthCoordinatesLng": "82.57",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q4751365",
+  "birthPlace": "Kharod",
+  "fetchedAt": "2026-08-08T00:23:15.583Z"
+}

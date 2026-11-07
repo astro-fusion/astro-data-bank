@@ -1,0 +1,31 @@
+{
+  "publicId": "9ccdf731",
+  "wikipediaSlug": "Jonty_Rhodes",
+  "wikipediaId": "Q3521562",
+  "name": "Jonty Rhodes",
+  "fullName": "Jonty Rhodes",
+  "profileSummary": "Jonathan Neil \"Jonty\" Rhodes is a South African professional cricket coach, commentator and former Test and One Day International cricketer. He is regarded as one of the greatest fielders of all time and was the first South African cricketer to take 100 ODI catches. He played for the South African cricket team between 1992 and 2003. He is the fielding coach of the Lucknow Super Giants in the Indian Premier League. He is the fielding coach of Durban's Super Giants as well as the consultant fielding coach of the Sri Lanka national cricket team. Rhodes was a member of the South Africa cricket team that won the 1998 ICC KnockOut Trophy, the first ICC trophy the country has won.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JONTY_RHODES.jpg/330px-JONTY_RHODES.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonty_Rhodes",
+  "dateOfBirth": "1969-07-27",
+  "birthDateParsed": "1969-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.6009",
+  "birthCoordinatesLng": "30.3796",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3521562",
+  "birthPlace": "Pietermaritzburg",
+  "fetchedAt": "2026-08-08T13:53:48.016Z"
+}

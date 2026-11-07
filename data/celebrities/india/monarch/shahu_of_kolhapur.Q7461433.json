@@ -1,0 +1,31 @@
+{
+  "publicId": "21a88bf6",
+  "wikipediaSlug": "Shahu_of_Kolhapur",
+  "wikipediaId": "Q7461433",
+  "name": "Shahu of Kolhapur",
+  "fullName": "Shahu of Kolhapur",
+  "profileSummary": "Shahu Maharaj, also known as Chhatrapati Rajarshi Shahu or Shahu IV, was the ruler of the princely state of Kolhapur in British India from 1894 to 1922. Born Yeshwantrao Ghatge into the Ghatge Maratha family of Kagal, he was adopted by the Kolhapur royal family on 17 March 1884 following the death of the childless Raja Shivaji IV. He received his education at Rajkumar College in Rajkot and was tutored in administrative affairs by Sir Stuart Fraser before ascending to the throne on 2 April 1894.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Maharajah_of_Kolhapur_1912.jpg/330px-Maharajah_of_Kolhapur_1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shahu_of_Kolhapur",
+  "dateOfBirth": "1874-06-26",
+  "birthDateParsed": "1874-06-26",
+  "dateOfDeath": "1922-05-06",
+  "deathDateParsed": "1922-05-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch"
+  ],
+  "qid": "Q7461433",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-08T00:44:49.988Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "d330adda",
+  "wikipediaSlug": "Lungi_Ngidi",
+  "wikipediaId": "Q24579247",
+  "name": "Lungi Ngidi",
+  "fullName": "Lungi Ngidi",
+  "profileSummary": "Lungisani True-man Ngidi is a South African professional cricketer who plays for the South Africa national cricket team. In the 2018 South African Cricket Annual Awards, he was named as one of the five Cricketers of the Year. In July 2020, Ngidi was named both ODI and T20I cricketer of the year at Cricket South Africa's annual awards ceremony. Ngidi was a member of the South African team which won the 2025 ICC World Test Championship.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lungi_Ngidi_2022.jpg/330px-Lungi_Ngidi_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lungi_Ngidi",
+  "dateOfBirth": "1996-03-29",
+  "birthDateParsed": "1996-03-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.858333333",
+  "birthCoordinatesLng": "31.025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q24579247",
+  "birthPlace": "Durban",
+  "fetchedAt": "2026-08-09T03:15:58.573Z"
+}

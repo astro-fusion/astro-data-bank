@@ -1,0 +1,31 @@
+{
+  "publicId": "08316725",
+  "wikipediaSlug": "A._S._Kiran_Kumar",
+  "wikipediaId": "Q18761821",
+  "name": "A. S. Kiran Kumar",
+  "fullName": "A. S. Kiran Kumar",
+  "profileSummary": "Aluru Seelin Kiran Kumar is an Indian space scientist, member of board of governors of the Indian Institute of Technology Jodhpur and former chairman of ISRO, having assumed office on 14 January 2015. He is credited with the development of key scientific instruments aboard the Chandrayaan-1 and Mangalyaan space crafts. In 2014, he was awarded the Padma Shri, India's fourth highest civilian award, for his contributions to the fields of science and technology. Kiran Kumar previously served as Director of the Space Applications Centre in Ahmedabad.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Askiran.jpg/330px-Askiran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._S._Kiran_Kumar",
+  "dateOfBirth": "1952-10-22",
+  "birthDateParsed": "1952-10-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.005",
+  "birthCoordinatesLng": "76.102777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer"
+  ],
+  "qid": "Q18761821",
+  "birthPlace": "Hassan",
+  "fetchedAt": "2026-08-06T04:18:38.159Z"
+}

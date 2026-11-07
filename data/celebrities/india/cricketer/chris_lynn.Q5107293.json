@@ -1,0 +1,31 @@
+{
+  "publicId": "138ce0cc",
+  "wikipediaSlug": "Chris_Lynn",
+  "wikipediaId": "Q5107293",
+  "name": "Chris Lynn",
+  "fullName": "Chris Lynn",
+  "profileSummary": "Christopher Austin Lynn is an Australian cricketer. He is a right-handed batsman who plays for Queensland and the Adelaide Strikers in Australian domestic cricket. Lynn was born in Brisbane, Queensland, and attended St Joseph's Nudgee College and the Queensland Academy of Sport. He is known for being an explosive batsman capable of hitting big sixes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Brisbane_Heat_vs_Melbourne_Stars_T20_7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Lynn",
+  "dateOfBirth": "1990-04-10",
+  "birthDateParsed": "1990-04-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.467777777",
+  "birthCoordinatesLng": "153.027777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5107293",
+  "birthPlace": "Brisbane",
+  "fetchedAt": "2026-08-08T13:53:20.065Z"
+}

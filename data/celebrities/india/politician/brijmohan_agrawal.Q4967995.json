@@ -1,5 +1,5 @@
 {
-  "publicId": "fafed14e",
+  "publicId": "24c81e29",
   "wikipediaSlug": "Brijmohan_Agrawal",
   "wikipediaId": "Q4967995",
   "name": "Brijmohan Agrawal",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Brijmohan_Agrawal",
   "dateOfBirth": "1959-05-01",
+  "birthDateParsed": "1959-05-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "21.2379468",
   "birthCoordinatesLng": "81.6336833",
-  "moonSign": "11",
-  "sunSign": "1",
-  "lagnaSignText": "4",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4967995",
   "birthPlace": "Raipur",
-  "fetchedAt": "2026-04-07T16:21:15.258Z"
+  "fetchedAt": "2026-08-07T00:26:46.107Z"
 }

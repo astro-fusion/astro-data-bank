@@ -1,0 +1,32 @@
+{
+  "publicId": "68ada419",
+  "wikipediaSlug": "Pathani_Samanta",
+  "wikipediaId": "Q12425547",
+  "name": "Pathani Samanta",
+  "fullName": "Pathani Samanta",
+  "profileSummary": "Pathani Samanta better known as Mahamahopadhyaya Chandrasekhara Singha Harichandana Mahapatra Samanta,(13 December 1835 – 11 June 1904) was an Indian astronomer, mathematician and scholar who measured the distance from the Earth to the Sun with a bamboo pipe and traditional instruments. He was born in Purnimanta Pousha Krishna Ashtami, and died in Purnimanta Adhika Jyeshtha Krishna Trayodashi.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pathani_samant.jpg/330px-Pathani_samant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pathani_Samanta",
+  "dateOfBirth": "1835-12-13",
+  "birthDateParsed": "1835-12-13",
+  "dateOfDeath": "1904-06-11",
+  "deathDateParsed": "1904-06-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.27",
+  "birthCoordinatesLng": "85.18",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "writer"
+  ],
+  "qid": "Q12425547",
+  "birthPlace": "Khandapada",
+  "fetchedAt": "2026-08-06T07:28:51.656Z"
+}

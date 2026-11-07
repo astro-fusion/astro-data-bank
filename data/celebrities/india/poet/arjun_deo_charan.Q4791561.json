@@ -1,0 +1,32 @@
+{
+  "publicId": "efafab72",
+  "wikipediaSlug": "Arjun_Deo_Charan",
+  "wikipediaId": "Q4791561",
+  "name": "Arjun Deo Charan",
+  "fullName": "Arjun Deo Charan",
+  "profileSummary": "Arjun Deo Charan is a Rajasthani poet, critic, playwright, theatre director and translator. A prominent figure in Indian theatre, he is among the country's top 10 theatre personalities.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/ImageArjundeocharan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arjun_Deo_Charan",
+  "dateOfBirth": "1954-05-10",
+  "birthDateParsed": "1954-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.53",
+  "birthCoordinatesLng": "72.98",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q4791561",
+  "birthPlace": "Mathania",
+  "fetchedAt": "2026-08-07T01:42:12.348Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "3e03401c",
+  "wikipediaSlug": "Sourav_Chatterjee",
+  "wikipediaId": "Q7565096",
+  "name": "Sourav Chatterjee",
+  "fullName": "Sourav Chatterjee",
+  "profileSummary": "Sourav Chatterjee is an Indian mathematician from West Bengal, specialising in mathematical statistics and probability theory. Chatterjee is credited with work on the study of fluctuations in random structures, concentration and super-concentration inequalities, Poisson and other non-normal limits, first-passage percolation, Stein's method and spin glasses. He has received a Sloan Fellowship in mathematics, Tweedie Award, Rollo Davidson Prize, Doeblin Prize, Loève Prize, and Infosys Prize in mathematical sciences. He was an invited speaker at the International Congress of Mathematicians in 2014.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sourav_Chatterjee_2010.jpg/330px-Sourav_Chatterjee_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sourav_Chatterjee",
+  "dateOfBirth": "1979-11-26",
+  "birthDateParsed": "1979-11-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher",
+    "academic",
+    "statistician"
+  ],
+  "qid": "Q7565096",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T07:29:16.294Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "6c25b908",
+  "wikipediaSlug": "Raja_Maharaj_Singh",
+  "wikipediaId": "Q7285483",
+  "name": "Raja Maharaj Singh",
+  "fullName": "Raja Maharaj Singh",
+  "profileSummary": "Raja Sir Maharaj Singh was the first Indian Governor of Bombay. He was also the Prime Minister of Jammu and Kashmir during Maharaja Hari Singh's rule and also the Dewan of Jodhpur for a short while. Raja Sir Maharaja Singh served as the president of the All India Conference of Indians in the 1940s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Raja_Maharaj_Singh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Raja_Maharaj_Singh",
+  "dateOfBirth": "1878-05-17",
+  "birthDateParsed": "1878-05-17",
+  "dateOfDeath": "1959-06-06",
+  "deathDateParsed": "1959-06-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "diplomat",
+    "politician"
+  ],
+  "qid": "Q7285483",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-09T12:07:23.846Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "e38b2e5c",
+  "wikipediaSlug": "Indira_Sant",
+  "wikipediaId": "Q55765",
+  "name": "Indira Sant",
+  "fullName": "Indira Sant",
+  "profileSummary": "Indira Sant was a Marathi poet from Maharashtra, India.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Indira_Sant",
+  "dateOfBirth": "1914-01-04",
+  "birthDateParsed": "1914-01-04",
+  "dateOfDeath": "2000-07-13",
+  "deathDateParsed": "2000-07-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q55765",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-07T01:44:25.636Z"
+}

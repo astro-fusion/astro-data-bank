@@ -1,0 +1,29 @@
+{
+  "publicId": "77ba43ed",
+  "wikipediaSlug": "Shah_Jahan_II",
+  "wikipediaId": "Q3238719",
+  "name": "Shah Jahan II",
+  "fullName": "Shah Jahan II",
+  "profileSummary": "Shah Jahan II, born Mirza Rafi-ud-Daulah, was briefly the twelfth Mughal emperor in 1719.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Rafi-ud-daulah.png/330px-Rafi-ud-daulah.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shah_Jahan_II",
+  "dateOfBirth": "1696-06-07",
+  "birthDateParsed": "1696-06-07",
+  "dateOfDeath": "1719-09-17",
+  "deathDateParsed": "1719-09-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q3238719",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-07T11:49:33.445Z"
+}

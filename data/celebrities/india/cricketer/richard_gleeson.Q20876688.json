@@ -1,0 +1,31 @@
+{
+  "publicId": "d3559453",
+  "wikipediaSlug": "Richard_Gleeson",
+  "wikipediaId": "Q20876688",
+  "name": "Richard Gleeson",
+  "fullName": "Richard Gleeson",
+  "profileSummary": "Richard James Gleeson is an English cricketer, who plays for Warwickshire in domestic cricket. He made his international debut for the England cricket team in July 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Richard_Gleeson.jpg/330px-Richard_Gleeson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Gleeson",
+  "dateOfBirth": "1987-12-02",
+  "birthDateParsed": "1987-12-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.816666666",
+  "birthCoordinatesLng": "-3.05",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q20876688",
+  "birthPlace": "Blackpool",
+  "fetchedAt": "2026-08-09T03:16:25.855Z"
+}

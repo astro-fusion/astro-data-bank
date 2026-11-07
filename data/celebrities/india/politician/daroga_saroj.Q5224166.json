@@ -1,0 +1,31 @@
+{
+  "publicId": "87bd1eec",
+  "wikipediaSlug": "Daroga_Saroj",
+  "wikipediaId": "Q5224166",
+  "name": "Daroga Saroj",
+  "fullName": "Daroga Saroj",
+  "profileSummary": "Daroga Prasad Saroj Azamgarh is an Indian politician for the Lalganj in Uttar Pradesh.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daroga_Saroj",
+  "dateOfBirth": "1956-01-01",
+  "birthDateParsed": "1956-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.06",
+  "birthCoordinatesLng": "83.19",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5224166",
+  "birthPlace": "Azamgarh",
+  "fetchedAt": "2026-08-07T00:27:18.121Z"
+}

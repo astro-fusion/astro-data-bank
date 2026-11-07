@@ -1,5 +1,5 @@
 {
-  "publicId": "cef33ce7",
+  "publicId": "d0dd77ab",
   "wikipediaSlug": "B._Y._Raghavendra",
   "wikipediaId": "Q24037",
   "name": "B. Y. Raghavendra",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/B._Y._Raghavendra",
   "dateOfBirth": "1973-08-16",
+  "birthDateParsed": "1973-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "14.269722222",
   "birthCoordinatesLng": "75.356388888",
-  "moonSign": "11",
-  "sunSign": "4",
-  "lagnaSignText": "7",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q24037",
   "birthPlace": "Shikaripur",
-  "fetchedAt": "2026-04-07T16:20:35.310Z"
+  "fetchedAt": "2026-08-07T00:25:48.322Z"
 }

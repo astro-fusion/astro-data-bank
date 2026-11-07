@@ -1,0 +1,33 @@
+{
+  "publicId": "199ecab8",
+  "wikipediaSlug": "Henry_Every",
+  "wikipediaId": "Q456882",
+  "name": "Henry Every",
+  "fullName": "Henry Every",
+  "profileSummary": "Henry Every, also known as Henry Avery, sometimes erroneously given as Jack Avery or John Avery, was an English pirate who operated in the Atlantic and Indian oceans in the mid-1690s. He probably used several aliases throughout his career, including Benjamin Bridgeman, and was known as Long Ben to his crewmen and associates.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Every%2CHenry.JPG/330px-Every%2CHenry.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Every",
+  "dateOfBirth": "1659-08-23",
+  "birthDateParsed": "1659-08-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.3167",
+  "birthCoordinatesLng": "-4.03333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "privateer",
+    "pirate",
+    "slave trader"
+  ],
+  "qid": "Q456882",
+  "birthPlace": "Newton Ferrers",
+  "fetchedAt": "2026-08-07T11:48:56.758Z"
+}

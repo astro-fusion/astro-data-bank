@@ -1,0 +1,34 @@
+{
+  "publicId": "05724cc6",
+  "wikipediaSlug": "Bharathidasan",
+  "wikipediaId": "Q3534483",
+  "name": "Bharathidasan",
+  "fullName": "Bharathidasan",
+  "profileSummary": "Bharathidasan was a 20th-century Tamil poet and rationalist writer whose literary works handled mostly socio-political issues. He was deeply influenced by the Tamil poet Subramania Bharathi and named himself \"Bharathi dasan\" meaning follower or adherent of Bharathi. His greatest influence was Periyar and his self-respect movement. Bharathidasan's writings served as a catalyst for the growth of the Self-Respect Movement in Tamil Nadu. In addition to poetry, his views found expression in other forms such as plays, film scripts, short stories and essays. The Government of Puducherry union territory has adopted the song of Invocation to Mother Tamil, written by Bharathidasan as the state song of Puducherry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bharathidasan_%28cropped%29.jpg/330px-Bharathidasan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bharathidasan",
+  "dateOfBirth": "1891-04-29",
+  "birthDateParsed": "1891-04-29",
+  "dateOfDeath": "1964-04-21",
+  "deathDateParsed": "1964-04-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "11.93",
+  "birthCoordinatesLng": "79.83",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "politician",
+    "film director",
+    "screenwriter"
+  ],
+  "qid": "Q3534483",
+  "birthPlace": "Pondicherry",
+  "fetchedAt": "2026-08-07T01:42:03.018Z"
+}

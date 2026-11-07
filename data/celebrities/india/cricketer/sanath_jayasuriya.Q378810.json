@@ -1,0 +1,33 @@
+{
+  "publicId": "625e22f3",
+  "wikipediaSlug": "Sanath_Jayasuriya",
+  "wikipediaId": "Q378810",
+  "name": "Sanath Jayasuriya",
+  "fullName": "Sanath Jayasuriya",
+  "profileSummary": "Deshabandu Sanath Teran Jayasuriya, is a Sri Lankan former cricketer, captain, cricket administrator and coach. He is widely regarded as one of the greatest all rounders ever to play in ODI cricket. A left arm orthodox spinner, left-handed batter and a dynamic fielder, Jayasuriya and his opening batting partner Romesh Kaluwitharana are credited for revolutionizing one-day international cricket with explosive batting in the mid-1990s, which initiated the hard-hitting modern-day batting strategy of all nations. He was a key member of the Sri Lankan team that won the 1996 Cricket World Cup. Under his captaincy Sri Lanka became joint champions along with India in the 2002 Champions Trophy. He is the former head coach of the Sri Lanka national cricket team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sanath_jayasuriya_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sanath_Jayasuriya",
+  "dateOfBirth": "1969-06-30",
+  "birthDateParsed": "1969-06-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "5.95",
+  "birthCoordinatesLng": "80.533333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "politician",
+    "athlete"
+  ],
+  "qid": "Q378810",
+  "birthPlace": "Matara",
+  "fetchedAt": "2026-08-06T16:12:26.177Z"
+}

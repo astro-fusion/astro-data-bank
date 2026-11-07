@@ -1,0 +1,35 @@
+{
+  "publicId": "dc31ecd3",
+  "wikipediaSlug": "Subrahmanyan_Chandrasekhar",
+  "wikipediaId": "Q148109",
+  "name": "Subrahmanyan Chandrasekhar",
+  "fullName": "Subrahmanyan Chandrasekhar",
+  "profileSummary": "Subrahmanyan Chandrasekhar was an Indian-American theoretical physicist. He shared the 1983 Nobel Prize in Physics \"for his theoretical studies of the physical processes of importance to the structure and evolution of the stars.\" His mathematical treatment of stellar evolution yielded many of the current theoretical models of the later evolutionary stages of massive stars. The Chandrasekhar limit describes the maximum mass of a white dwarf. Above it, a stellar remnant will collapse to form a neutron star or black hole. Many concepts, institutions and inventions, including the Chandra X-Ray Observatory, are named after him.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Subrahmanyan_Chandrasekhar.jpg/330px-Subrahmanyan_Chandrasekhar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
+  "dateOfBirth": "1910-10-19",
+  "birthDateParsed": "1910-10-19",
+  "dateOfDeath": "1995-08-21",
+  "deathDateParsed": "1995-08-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.549722222",
+  "birthCoordinatesLng": "74.343611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "physicist",
+    "astronomer",
+    "astrophysicist",
+    "university teacher"
+  ],
+  "qid": "Q148109",
+  "birthPlace": "Lahore",
+  "fetchedAt": "2026-08-06T07:28:48.275Z"
+}

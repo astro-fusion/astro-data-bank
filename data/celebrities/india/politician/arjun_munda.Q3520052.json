@@ -1,0 +1,31 @@
+{
+  "publicId": "970990fc",
+  "wikipediaSlug": "Arjun_Munda",
+  "wikipediaId": "Q3520052",
+  "name": "Arjun Munda",
+  "fullName": "Arjun Munda",
+  "profileSummary": "Arjun Munda is an Indian politician. He is a member of the Bharatiya Janata Party, a former Chief Minister of the Indian state of Jharkhand and the former Minister of Tribal Affairs and Minister of Agriculture and Farmers' Welfare in the Second Modi ministry. He has also served as a member of parliament, having been elected to the 15th Lok Sabha from the Jamshedpur constituency in the 2009 parliamentary elections. The BJP has appointed him as one of the general secretary of the party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Arjun_Munda.jpg/330px-Arjun_Munda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arjun_Munda",
+  "dateOfBirth": "1968-01-05",
+  "birthDateParsed": "1968-01-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.8",
+  "birthCoordinatesLng": "86.183333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3520052",
+  "birthPlace": "Jamshedpur",
+  "fetchedAt": "2026-08-08T00:22:54.894Z"
+}

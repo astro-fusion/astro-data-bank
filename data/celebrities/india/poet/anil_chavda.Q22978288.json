@@ -1,0 +1,31 @@
+{
+  "publicId": "4d1845a3",
+  "wikipediaSlug": "Anil_Chavda",
+  "wikipediaId": "Q22978288",
+  "name": "Anil Chavda",
+  "fullName": "Anil Chavda",
+  "profileSummary": "Anil Chavda is a Gujarati language poet, writer and columnist from Gujarat, India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Anil_Chavda_At_His_Book_Launch_Event_In_Ahmedabad.jpg/330px-Anil_Chavda_At_His_Book_Launch_Event_In_Ahmedabad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anil_Chavda",
+  "dateOfBirth": "1985-05-10",
+  "birthDateParsed": "1985-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.725",
+  "birthCoordinatesLng": "71.633333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet"
+  ],
+  "qid": "Q22978288",
+  "birthPlace": "Surendranagar",
+  "fetchedAt": "2026-08-07T01:42:03.704Z"
+}

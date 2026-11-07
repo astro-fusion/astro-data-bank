@@ -1,0 +1,35 @@
+{
+  "publicId": "57c46256",
+  "wikipediaSlug": "Faiz_Ahmad_Faiz",
+  "wikipediaId": "Q381296",
+  "name": "Faiz Ahmad Faiz",
+  "fullName": "Faiz Ahmad Faiz",
+  "profileSummary": "Faiz Ahmad Faiz was a Pakistani poet and author of Urdu and Punjabi literature. Faiz was one of the most well-known Urdu writers of his time and remains influential in Pakistan and India.He was also a teacher, military officer, journalist, trade unionist, and broadcaster.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Faiz_Ahmed_Faiz_%28cropped%29.jpg/330px-Faiz_Ahmed_Faiz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faiz_Ahmad_Faiz",
+  "dateOfBirth": "1911-02-13",
+  "birthDateParsed": "1911-02-13",
+  "dateOfDeath": "1984-11-20",
+  "deathDateParsed": "1984-11-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.5",
+  "birthCoordinatesLng": "74.533333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "journalist",
+    "writer",
+    "lyricist",
+    "songwriter"
+  ],
+  "qid": "Q381296",
+  "birthPlace": "Sialkot",
+  "fetchedAt": "2026-08-07T01:43:18.410Z"
+}

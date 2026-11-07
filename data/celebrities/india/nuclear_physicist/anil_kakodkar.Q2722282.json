@@ -1,0 +1,32 @@
+{
+  "publicId": "6d55da24",
+  "wikipediaSlug": "Anil_Kakodkar",
+  "wikipediaId": "Q2722282",
+  "name": "Anil Kakodkar",
+  "fullName": "Anil Kakodkar",
+  "profileSummary": "Anil Kakodkar is an Indian nuclear physicist and mechanical engineer. He was the chairman of the Atomic Energy Commission of India and the Secretary to the Government of India, he was the Director of the Bhabha Atomic Research Centre, Trombay from 1996 to 2000. He was awarded the Padma Vibhushan, India's second highest civilian honour, on 26 January 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Anil_Kakodkar.JPG/330px-Anil_Kakodkar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anil_Kakodkar",
+  "dateOfBirth": "1943-11-11",
+  "birthDateParsed": "1943-11-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.032222222",
+  "birthCoordinatesLng": "74.899722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "nuclear physicist",
+    "mechanical engineer"
+  ],
+  "qid": "Q2722282",
+  "birthPlace": "Barwani",
+  "fetchedAt": "2026-08-06T04:18:17.821Z"
+}

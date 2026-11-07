@@ -1,0 +1,31 @@
+{
+  "publicId": "9e891e73",
+  "wikipediaSlug": "M._S._Narasimhan",
+  "wikipediaId": "Q1880793",
+  "name": "M. S. Narasimhan",
+  "fullName": "M. S. Narasimhan",
+  "profileSummary": "Mudumbai Seshachalu Narasimhan FRS was an Indian mathematician. His focus areas included number theory, algebraic geometry, representation theory, and partial differential equations. He was a pioneer in the study of moduli spaces of holomorphic vector bundles on projective varieties. His work is considered the foundation for Kobayashi–Hitchin correspondence that links differential geometry and algebraic geometry of vector bundles over complex manifolds. He was also known for his collaboration with mathematician C. S. Seshadri, for their proof of the Narasimhan–Seshadri theorem which proved the necessary conditions for stable vector bundles on a Riemann surface.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NarasimhaninBengaluru2010_214.jpg/330px-NarasimhaninBengaluru2010_214.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/M._S._Narasimhan",
+  "dateOfBirth": "1932-06-07",
+  "birthDateParsed": "1932-06-07",
+  "dateOfDeath": "2021-05-16",
+  "deathDateParsed": "2021-05-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.1",
+  "birthCoordinatesLng": "79.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q1880793",
+  "birthPlace": "Tandarai",
+  "fetchedAt": "2026-08-06T07:28:14.338Z"
+}

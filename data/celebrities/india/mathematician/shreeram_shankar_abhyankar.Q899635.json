@@ -1,0 +1,32 @@
+{
+  "publicId": "8b4dd101",
+  "wikipediaSlug": "Shreeram_Shankar_Abhyankar",
+  "wikipediaId": "Q899635",
+  "name": "Shreeram Shankar Abhyankar",
+  "fullName": "Shreeram Shankar Abhyankar",
+  "profileSummary": "Shreeram Shankar Abhyankar was an Indian American mathematician known for his contributions to algebraic geometry. At the time of his death, he held the Marshall Distinguished Professor of Mathematics Chairman at Purdue University, and was also a professor of computer science and industrial engineering. He is known for Abhyankar's conjecture of finite group theory. His later research was in the area of computational and algorithmic algebraic geometry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Abhyankar_Grothendieck.jpg/330px-Abhyankar_Grothendieck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shreeram_Shankar_Abhyankar",
+  "dateOfBirth": "1930-07-22",
+  "birthDateParsed": "1930-07-22",
+  "dateOfDeath": "2012-11-02",
+  "deathDateParsed": "2012-11-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.182777777",
+  "birthCoordinatesLng": "75.777222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q899635",
+  "birthPlace": "Ujjain",
+  "fetchedAt": "2026-08-06T07:29:17.558Z"
+}

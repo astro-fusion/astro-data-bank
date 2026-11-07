@@ -1,0 +1,32 @@
+{
+  "publicId": "e7d89c60",
+  "wikipediaSlug": "Ramaiyengar_Sridharan",
+  "wikipediaId": "Q7288777",
+  "name": "Ramaiyengar Sridharan",
+  "fullName": "Ramaiyengar Sridharan",
+  "profileSummary": "Ramaiyengar Sridharan is a mathematician at Chennai Mathematical Institute, formerly at the Tata Institute of Fundamental Research (TIFR).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ramaiyengar_Sridharan.jpg/330px-Ramaiyengar_Sridharan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramaiyengar_Sridharan",
+  "dateOfBirth": "1935-07-04",
+  "birthDateParsed": "1935-07-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "11.75",
+  "birthCoordinatesLng": "79.75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q7288777",
+  "birthPlace": "Cuddalore",
+  "fetchedAt": "2026-08-06T07:28:36.279Z"
+}

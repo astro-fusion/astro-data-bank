@@ -1,0 +1,41 @@
+{
+  "publicId": "4750436a",
+  "wikipediaSlug": "Henry_Thomas_Colebrooke",
+  "wikipediaId": "Q237271",
+  "name": "Henry Thomas Colebrooke",
+  "fullName": "Henry Thomas Colebrooke",
+  "profileSummary": "Henry Thomas Colebrooke FRS FRSE FLS was an English orientalist and botanist. He has been described as \"the first great Sanskrit scholar in Europe\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/HTColebrooke.jpg/330px-HTColebrooke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Thomas_Colebrooke",
+  "dateOfBirth": "1765-06-15",
+  "birthDateParsed": "1765-06-15",
+  "dateOfDeath": "1837-03-10",
+  "deathDateParsed": "1837-03-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "botanist",
+    "linguist",
+    "Sanskrit scholar",
+    "mathematician",
+    "historian of mathematics",
+    "translator",
+    "Bible translator",
+    "magistrate",
+    "Indologist",
+    "orientalist",
+    "jurist"
+  ],
+  "qid": "Q237271",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-06T07:27:40.594Z"
+}

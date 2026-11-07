@@ -1,0 +1,31 @@
+{
+  "publicId": "3b07b974",
+  "wikipediaSlug": "Aditya_Tare",
+  "wikipediaId": "Q4683090",
+  "name": "Aditya Tare",
+  "fullName": "Aditya Tare",
+  "profileSummary": "Aditya Prakash Tare is an Indian cricketer. He is a wicketkeeper batsman who played for Mumbai Indians in the Indian Premier League and for Uttarakhand in domestic cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aditya_Tare.jpg/330px-Aditya_Tare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aditya_Tare",
+  "dateOfBirth": "1987-11-07",
+  "birthDateParsed": "1987-11-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4683090",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-08T13:52:14.493Z"
+}

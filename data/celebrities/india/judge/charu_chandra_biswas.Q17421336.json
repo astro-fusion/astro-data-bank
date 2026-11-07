@@ -1,0 +1,32 @@
+{
+  "publicId": "65a13dfb",
+  "wikipediaSlug": "Charu_Chandra_Biswas",
+  "wikipediaId": "Q17421336",
+  "name": "Charu Chandra Biswas",
+  "fullName": "Charu Chandra Biswas",
+  "profileSummary": "Charu Chandra Biswas CIE was an Indian National Congress politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Charu_Chandra_Biswas_image.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charu_Chandra_Biswas",
+  "dateOfBirth": "1888-04-21",
+  "birthDateParsed": "1888-04-21",
+  "dateOfDeath": "1960-12-09",
+  "deathDateParsed": "1960-12-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "politician"
+  ],
+  "qid": "Q17421336",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-07T10:32:56.577Z"
+}

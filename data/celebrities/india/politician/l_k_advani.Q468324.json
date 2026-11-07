@@ -1,0 +1,33 @@
+{
+  "publicId": "01ed4235",
+  "wikipediaSlug": "L._K._Advani",
+  "wikipediaId": "Q468324",
+  "name": "L. K. Advani",
+  "fullName": "L. K. Advani",
+  "profileSummary": "Lal Krishna Advani is an Indian lawyer, journalist, politician and statesman who served as the 7th Deputy Prime Minister of India from 2002 to 2004. He is one of the co-founders of the Bharatiya Janata Party (BJP) and a member of the Rashtriya Swayamsevak Sangh (RSS), a Hindutva nationalist organisation. He was the longest serving Minister of Home Affairs serving for 6 years and 64 days from 1998 to 2004, until his protége Amit Shah overtook him in 2025. He is also the longest serving Leader of the Opposition in the Lok Sabha, as well as the longest serving President of the BJP. He was the BJP's prime ministerial candidate during the 1989, 1991, and 2009 general elections.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lalkrishna_Advani.jpg/330px-Lalkrishna_Advani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/L._K._Advani",
+  "dateOfBirth": "1927-11-08",
+  "birthDateParsed": "1927-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.86",
+  "birthCoordinatesLng": "67.01",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "autobiographer"
+  ],
+  "qid": "Q468324",
+  "birthPlace": "Karachi",
+  "fetchedAt": "2026-08-08T00:23:26.344Z"
+}

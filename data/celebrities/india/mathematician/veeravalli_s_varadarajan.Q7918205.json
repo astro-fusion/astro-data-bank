@@ -1,0 +1,33 @@
+{
+  "publicId": "ff5f7217",
+  "wikipediaSlug": "Veeravalli_S._Varadarajan",
+  "wikipediaId": "Q7918205",
+  "name": "Veeravalli S. Varadarajan",
+  "fullName": "Veeravalli S. Varadarajan",
+  "profileSummary": "Veeravalli Seshadri Varadarajan was an Indian mathematician at the University of California, Los Angeles, who worked in many areas of mathematics, including probability, Lie groups and their representations, quantum mechanics, differential equations, and supersymmetry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Varadarajan.jpg/330px-Varadarajan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Veeravalli_S._Varadarajan",
+  "dateOfBirth": "1937-05-18",
+  "birthDateParsed": "1937-05-18",
+  "dateOfDeath": "2019-04-27",
+  "deathDateParsed": "2019-04-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.9791198",
+  "birthCoordinatesLng": "77.5912997",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher",
+    "physicist"
+  ],
+  "qid": "Q7918205",
+  "birthPlace": "Bengaluru",
+  "fetchedAt": "2026-08-06T07:29:29.620Z"
+}

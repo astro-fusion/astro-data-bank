@@ -1,0 +1,35 @@
+{
+  "publicId": "27676ebe",
+  "wikipediaSlug": "Vallabhbhai_Patel",
+  "wikipediaId": "Q9455",
+  "name": "Vallabhbhai Patel",
+  "fullName": "Vallabhbhai Patel",
+  "profileSummary": "Vallabhbhai Patel, commonly known as Sardar Patel, was a Gandhian Indian independence activist, lawyer and statesman who served as the first Deputy Prime Minister and Home Minister of India from 1947 to 1950. He was a senior leader of the Indian National Congress, who played a significant role in the Indian independence movement and India's political integration. In India and elsewhere, he was often called Sardar meaning \"chief\". He acted as the Home Minister during the political integration of India and the Indo-Pakistani War of 1947.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sardar_patel_%28cropped%29.jpg/330px-Sardar_patel_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vallabhbhai_Patel",
+  "dateOfBirth": "1875-10-31",
+  "birthDateParsed": "1875-10-31",
+  "dateOfDeath": "1950-12-15",
+  "deathDateParsed": "1950-12-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.7",
+  "birthCoordinatesLng": "72.87",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist",
+    "barrister",
+    "jurist",
+    "freedom fighter"
+  ],
+  "qid": "Q9455",
+  "birthPlace": "Nadiad",
+  "fetchedAt": "2026-08-07T10:33:53.274Z"
+}

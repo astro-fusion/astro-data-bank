@@ -1,0 +1,31 @@
+{
+  "publicId": "c3157c3d",
+  "wikipediaSlug": "Matthew_Hayden",
+  "wikipediaId": "Q981493",
+  "name": "Matthew Hayden",
+  "fullName": "Matthew Hayden",
+  "profileSummary": "Matthew Lawrence Hayden is an Australian cricket commentator and former cricketer. His playing career spanned fifteen years. Hayden was a powerful and aggressive left-handed opening batsman who, along with opening partners Justin Langer and Adam Gilchrist, contributed heavily to Australia's success during its \"golden era\" (2000–2008) in Test and ODI cricket respectively. He holds the record of highest individual score by an Australian batsman in Tests, having scored 380 against Zimbabwe during Zimbabwe's 2003 tour of Australia. This stands as the second-highest individual score in test cricket. It is the highest score by an opening batsman in Tests. Hayden was a member of the Australian team that won both the 2003 Cricket World Cup, and the 2007 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Matthew_Hayden_Image.jpg/330px-Matthew_Hayden_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Hayden",
+  "dateOfBirth": "1971-10-29",
+  "birthDateParsed": "1971-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.533333333",
+  "birthCoordinatesLng": "151.833333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q981493",
+  "birthPlace": "Kingaroy",
+  "fetchedAt": "2026-08-09T03:16:09.030Z"
+}

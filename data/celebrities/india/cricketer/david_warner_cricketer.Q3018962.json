@@ -1,0 +1,32 @@
+{
+  "publicId": "2ae3e23f",
+  "wikipediaSlug": "David_Warner_(cricketer)",
+  "wikipediaId": "Q3018962",
+  "name": "David Warner (cricketer)",
+  "fullName": "David Warner (cricketer)",
+  "profileSummary": "David Andrew Warner is an Australian former international cricketer, captain of Big Bash League team Sydney Thunder and captain of Pakistan Super League team Karachi Kings. A left-handed opening batter, Warner was the first Australian cricketer in 132 years to be selected for the national team in any format without experience in first-class cricket. He captained Australia in ODIs and T20Is and served as a vice-captain across formats before his suspension and played his domestic cricket for New South Wales Cricket Team. Warner was a prominent member of the victorious Australian squad of the 2015 Cricket World Cup, the 2021 T20 World Cup, where he was the Player of the Tournament, the 2021–2023 ICC World Test Championship, and the 2023 ICC Cricket World Cup. Warner also guided Indian Premier League team Sunrisers Hyderabad to their first and only IPL title, becoming the third Australian captain after Adam Gilchrist and Shane Warne to do so. Warner holds the record of the most international centuries as an opening batsman across all international formats. He also holds the record for most 50+ scores in T20 cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DAVID_WARNER_%2811704782453%29.jpg/330px-DAVID_WARNER_%2811704782453%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Warner_(cricketer)",
+  "dateOfBirth": "1986-10-27",
+  "birthDateParsed": "1986-10-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.8848",
+  "birthCoordinatesLng": "151.226",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "actor"
+  ],
+  "qid": "Q3018962",
+  "birthPlace": "Paddington",
+  "fetchedAt": "2026-08-06T16:11:44.161Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "2b257516",
+  "wikipediaSlug": "C._Joseph_Vijay",
+  "wikipediaId": "Q528496",
+  "name": "C. Joseph Vijay",
+  "fullName": "C. Joseph Vijay",
+  "profileSummary": "Chandrasekaran Joseph Vijay is an Indian politician and former actor who is currently serving as the ninth chief minister of Tamil Nadu since May 2026. He is the founder and president of the political party Tamilaga Vettri Kazhagam (TVK). Prior to entering politics, he was a leading actor in Tamil cinema and among the highest-paid actors in India, having won numerous accolades including multiple Tamil Nadu State Film Awards and South Indian International Movie Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/JosephVijay.jpg/330px-JosephVijay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C._Joseph_Vijay",
+  "dateOfBirth": "1974-06-22",
+  "birthDateParsed": "1974-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0825",
+  "birthCoordinatesLng": "80.275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "film actor",
+    "playback singer"
+  ],
+  "qid": "Q528496",
+  "birthPlace": "Chennai",
+  "fetchedAt": "2026-08-09T12:06:38.039Z"
+}

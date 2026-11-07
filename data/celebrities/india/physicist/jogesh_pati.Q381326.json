@@ -1,0 +1,31 @@
+{
+  "publicId": "2646c4f2",
+  "wikipediaSlug": "Jogesh_Pati",
+  "wikipediaId": "Q381326",
+  "name": "Jogesh Pati",
+  "fullName": "Jogesh Pati",
+  "profileSummary": "Jogesh C. Pati is an Indian-American theoretical physicist at the SLAC National Accelerator Laboratory. With Abdus Salam, he is known for the Pati–Salam model.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jogesh_Pati",
+  "dateOfBirth": "1937-04-03",
+  "birthDateParsed": "1937-04-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.935",
+  "birthCoordinatesLng": "86.721388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q381326",
+  "birthPlace": "Baripada",
+  "fetchedAt": "2026-08-06T04:19:19.239Z"
+}

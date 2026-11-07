@@ -1,13 +1,16 @@
 {
-  "publicId": "67a1ad2d",
+  "publicId": "1e7a2da4",
   "wikipediaSlug": "Abhishek_Nayar",
   "wikipediaId": "Q320626",
   "name": "Abhishek Nayar",
   "fullName": "Abhishek Nayar",
-  "profileSummary": "Abhishek Mohan Nayar is a former Indian international cricketer and is the current head coach of Kolkata Knight Riders and UP Warriorz. He is also the former Assistant Coach of Indian men’s cricket team. He was an all-rounder who batted left-handed and bowled right-arm medium pace. He played first class cricket for Mumbai and Pondicherry, and played his 100th first-class match in November 2018. Nayar represented Mumbai Indians, Kings XI Punjab, Pune Warriors India, and Rajasthan Royals in the Indian Premier League.",
+  "profileSummary": "Abhishek Mohan Nayar is a former Indian international cricketer and is the current head coach of Kolkata Knight Riders and UP Warriorz. He is also the former Assistant Coach of Indian men's cricket team. He was an all-rounder who batted left-handed and bowled right-arm medium pace. He played first class cricket for Mumbai and Pondicherry, and played his 100th first-class match in November 2018. Nayar represented Mumbai Indians, Kings XI Punjab, Pune Warriors India, and Rajasthan Royals in the Indian Premier League.",
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Abhishek_Nayar",
   "dateOfBirth": "1983-10-08",
+  "birthDateParsed": "1983-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "17.45",
   "birthCoordinatesLng": "78.5",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q320626",
   "birthPlace": "Secunderabad",
-  "fetchedAt": "2026-04-07T10:56:20.403Z"
+  "fetchedAt": "2026-08-08T13:52:27.971Z"
 }

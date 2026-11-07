@@ -1,0 +1,31 @@
+{
+  "publicId": "c5e5af61",
+  "wikipediaSlug": "J._P._Nadda",
+  "wikipediaId": "Q16193764",
+  "name": "J. P. Nadda",
+  "fullName": "J. P. Nadda",
+  "profileSummary": "Jagat Prakash Nadda is an Indian lawyer and politician who is serving as the 34th Minister of Health, 25th Minister of Chemicals and Fertilizers since 2024 and served as the 10th national president of the Bharatiya Janata Party (BJP) from 2020 to 2026. He is also the member of the Rajya Sabha representing Gujarat since 2024. A key decision maker of the BJP, he is a close aide to Narendra Modi. He was the BJP's national working president from 2019 to 2020. Nadda was also the Minister of Health and Family Welfare in the first Modi ministry from 2014 to 2019 and Parliamentary Board Secretary of Bharatiya Janata Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jagat_Prakash_Nadda_2023.jpg/330px-Jagat_Prakash_Nadda_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J._P._Nadda",
+  "dateOfBirth": "1960-12-02",
+  "birthDateParsed": "1960-12-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.61",
+  "birthCoordinatesLng": "85.141388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q16193764",
+  "birthPlace": "Patna",
+  "fetchedAt": "2026-08-08T00:23:28.472Z"
+}

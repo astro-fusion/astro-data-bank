@@ -1,0 +1,32 @@
+{
+  "publicId": "d1090eb1",
+  "wikipediaSlug": "S._G._Dani",
+  "wikipediaId": "Q7387480",
+  "name": "S. G. Dani",
+  "fullName": "S. G. Dani",
+  "profileSummary": "Shrikrishna Gopalrao Dani is a professor of mathematics at the Centre for Excellence in Basic Sciences, Mumbai who works in the broad area of ergodic theory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Shrikrishna_Dani.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/S._G._Dani",
+  "dateOfBirth": "1947-06-03",
+  "birthDateParsed": "1947-06-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "15.856944444",
+  "birthCoordinatesLng": "74.504444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q7387480",
+  "birthPlace": "Belgaum",
+  "fetchedAt": "2026-08-06T07:28:49.326Z"
+}

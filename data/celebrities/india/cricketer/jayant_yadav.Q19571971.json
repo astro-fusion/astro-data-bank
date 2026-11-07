@@ -1,0 +1,31 @@
+{
+  "publicId": "00369b4a",
+  "wikipediaSlug": "Jayant_Yadav",
+  "wikipediaId": "Q19571971",
+  "name": "Jayant Yadav",
+  "fullName": "Jayant Yadav",
+  "profileSummary": "Jayant Yadav is an Indian cricketer from Delhi who plays for Haryana in India and Middlesex in England in domestic cricket.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jayant_Yadav",
+  "dateOfBirth": "1990-01-22",
+  "birthDateParsed": "1990-01-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q19571971",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-08T13:54:08.994Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "7980c53e",
+  "wikipediaSlug": "Suresh_Raina",
+  "wikipediaId": "Q3519505",
+  "name": "Suresh Raina",
+  "fullName": "Suresh Raina",
+  "profileSummary": "Suresh Raina is an Indian former international cricketer. He played for the India national team and represented Uttar Pradesh in domestic cricket. He was an aggressive left-handed middle-order batsman and who occasionally bowled right-arm off-spin. Raina is the first Indian batsman to hit a century in all three formats of international cricket, and the first Indian to score a century in the T20 World Cup. He was a member of the Indian team that won the 2011 Cricket World Cup and the 2013 ICC Champions Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Suresh_Raina_grace_the_%27Salaam_Sachin%27_conclave.jpg/330px-Suresh_Raina_grace_the_%27Salaam_Sachin%27_conclave.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suresh_Raina",
+  "dateOfBirth": "1986-11-27",
+  "birthDateParsed": "1986-11-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.78",
+  "birthCoordinatesLng": "77.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3519505",
+  "birthPlace": "Muradnagar",
+  "fetchedAt": "2026-08-09T03:16:48.149Z"
+}

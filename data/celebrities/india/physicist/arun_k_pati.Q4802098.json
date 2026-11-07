@@ -1,0 +1,31 @@
+{
+  "publicId": "ffc32f8a",
+  "wikipediaSlug": "Arun_K._Pati",
+  "wikipediaId": "Q4802098",
+  "name": "Arun K. Pati",
+  "fullName": "Arun K. Pati",
+  "profileSummary": "Arun Kumar Pati is an Indian physicist notable for his research in quantum information, quantum computation and Foundations of quantum mechanics. He has made pioneering contributions in the area of quantum information.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pati-Photo-Wiki.jpg/330px-Pati-Photo-Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arun_K._Pati",
+  "dateOfBirth": "1966-04-13",
+  "birthDateParsed": "1966-04-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q4802098",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T04:18:25.962Z"
+}

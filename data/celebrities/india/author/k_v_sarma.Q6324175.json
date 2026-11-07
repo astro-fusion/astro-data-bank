@@ -1,0 +1,35 @@
+{
+  "publicId": "766d5b42",
+  "wikipediaSlug": "K._V._Sarma",
+  "wikipediaId": "Q6324175",
+  "name": "K. V. Sarma",
+  "fullName": "K. V. Sarma",
+  "profileSummary": "Krishna Venkateswara Sarma (1919–2005) was an Indian historian of science, particularly the astronomy and mathematics of the Kerala school. He was responsible for bringing to light several of the achievements of the Kerala school. He was editor of the Vishveshvaranand Indological Research Series, and published the critical edition of several source works in Sanskrit, including the Aryabhatiya of Aryabhata. He was recognised as \"the greatest authority on Kerala's astronomical tradition\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/K_V_Sharma.jpg/330px-K_V_Sharma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K._V._Sarma",
+  "dateOfBirth": "1919-12-27",
+  "birthDateParsed": "1919-12-27",
+  "dateOfDeath": "2005-01-13",
+  "deathDateParsed": "2005-01-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.318483333",
+  "birthCoordinatesLng": "76.614016666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "author",
+    "mathematician",
+    "historian of mathematics",
+    "historian",
+    "Indologist"
+  ],
+  "qid": "Q6324175",
+  "birthPlace": "Chengannur",
+  "fetchedAt": "2026-08-06T07:28:00.723Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "30f16687",
+  "wikipediaSlug": "Madan_Lal_Puri",
+  "wikipediaId": "Q1313675",
+  "name": "Madan Lal Puri",
+  "fullName": "Madan Lal Puri",
+  "profileSummary": "Madan Lal Puri is a statistician from India who built his career in the United States. He was born on February 20, 1929 in Sialkot, and is known for his work in mathematics which has had profound effects on the way statistics is understood and applied. He has won many honours and awards, including the Bicentennial Medal from Indiana University, Bloomington.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Madan_Puri%2C_1974.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Madan_Lal_Puri",
+  "dateOfBirth": "1929-02-20",
+  "birthDateParsed": "1929-02-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.5",
+  "birthCoordinatesLng": "74.533333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "statistician",
+    "professor of mathematics"
+  ],
+  "qid": "Q1313675",
+  "birthPlace": "Sialkot",
+  "fetchedAt": "2026-08-06T07:28:13.284Z"
+}

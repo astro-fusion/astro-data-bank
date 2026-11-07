@@ -1,0 +1,33 @@
+{
+  "publicId": "d6cfe756",
+  "wikipediaSlug": "Fredoon_Kabraji",
+  "wikipediaId": "Q104187788",
+  "name": "Fredoon Kabraji",
+  "fullName": "Fredoon Kabraji",
+  "profileSummary": "Fredoon Kabraji was an Indian poet, writer, journalist, and artist of Parsi descent.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fredoon_Kabraji%2C_Parsi_Indian_Poet.jpg/330px-Fredoon_Kabraji%2C_Parsi_Indian_Poet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fredoon_Kabraji",
+  "dateOfBirth": "1897-02-10",
+  "birthDateParsed": "1897-02-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.8",
+  "birthCoordinatesLng": "83",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "freedom fighter"
+  ],
+  "qid": "Q104187788",
+  "birthPlace": "India",
+  "fetchedAt": "2026-08-07T01:43:53.611Z"
+}

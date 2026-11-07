@@ -1,0 +1,35 @@
+{
+  "publicId": "71c7a6b4",
+  "wikipediaSlug": "Rajendra_Prasad",
+  "wikipediaId": "Q197736",
+  "name": "Rajendra Prasad",
+  "fullName": "Rajendra Prasad",
+  "profileSummary": "Rajendra Prasad was an Indian politician, lawyer, journalist and scholar who served as the first president of India from 1950 to 1962 for two terms. He joined the Indian National Congress during the Indian independence movement and became a major leader from the region of Bihar. A supporter of Mahatma Gandhi, Prasad was imprisoned by British authorities during the Salt Satyagraha of 1930 and the Quit India movement of 1942. After the constituent assembly 1946 elections, Prasad served as 1st Minister of Food and Agriculture in the central government from 1947 to 1948. Upon independence in 1947, Prasad was elected as President of the Constituent Assembly of India, which prepared the Constitution of India and which served as its provisional Parliament.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg/330px-Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajendra_Prasad",
+  "dateOfBirth": "1884-12-03",
+  "birthDateParsed": "1884-12-03",
+  "dateOfDeath": "1963-02-28",
+  "deathDateParsed": "1963-02-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.236",
+  "birthCoordinatesLng": "84.248",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "teacher",
+    "scholar",
+    "writer"
+  ],
+  "qid": "Q197736",
+  "birthPlace": "Ziradei Block",
+  "fetchedAt": "2026-08-07T10:33:21.748Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "669a9959",
+  "wikipediaSlug": "Tarabai",
+  "wikipediaId": "Q3595159",
+  "name": "Tarabai",
+  "fullName": "Tarabai",
+  "profileSummary": "Maharani Tarabai Bhonsle was the regent of the Maratha Empire from 1700 until 1708. She was the queen of Rajaram I, and daughter-in-law of the kingdom's founder Shivaji I. She is acclaimed for her role in keeping alive the resistance against Mughal rule in Konkan, and acting as the regent of the Maratha Kingdom during the minority of her son, Shivaji II. She defeated Mughal forces of Aurangzeb in several battles and expanded the Maratha Kingdom.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tarabai.jpg/330px-Tarabai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tarabai",
+  "dateOfBirth": "1675-04-14",
+  "birthDateParsed": "1675-04-14",
+  "dateOfDeath": "1761-12-09",
+  "deathDateParsed": "1761-12-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.35",
+  "birthCoordinatesLng": "74.13",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3595159",
+  "birthPlace": "Talbid",
+  "fetchedAt": "2026-08-08T00:44:51.972Z"
+}

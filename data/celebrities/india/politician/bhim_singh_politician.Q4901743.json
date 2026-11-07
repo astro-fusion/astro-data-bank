@@ -1,5 +1,5 @@
 {
-  "publicId": "7dc0261b",
+  "publicId": "af8f52d9",
   "wikipediaSlug": "Bhim_Singh_(politician)",
   "wikipediaId": "Q4901743",
   "name": "Bhim Singh (politician)",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Prof._Bhim_Singh_with_President_of_India_Kovind.jpg/330px-Prof._Bhim_Singh_with_President_of_India_Kovind.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhim_Singh_(politician)",
   "dateOfBirth": "1941-08-17",
+  "birthDateParsed": "1941-08-17",
+  "dateOfDeath": "2022-05-31",
+  "deathDateParsed": "2022-05-31",
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "33",
   "birthCoordinatesLng": "75.166666666",
-  "moonSign": "2",
-  "sunSign": "5",
-  "lagnaSignText": "7",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4901743",
   "birthPlace": "Udhampur district",
-  "fetchedAt": "2026-04-07T16:21:01.526Z"
+  "fetchedAt": "2026-08-07T00:26:11.172Z"
 }

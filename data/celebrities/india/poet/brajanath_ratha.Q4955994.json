@@ -1,0 +1,33 @@
+{
+  "publicId": "b8e93544",
+  "wikipediaSlug": "Brajanath_Ratha",
+  "wikipediaId": "Q4955994",
+  "name": "Brajanath Ratha",
+  "fullName": "Brajanath Ratha",
+  "profileSummary": "Brajanath Ratha was an Indian poet who wrote in the Odia language. Ratha is internationally recognised and is the recipient of many awards such as the Odisha Sahitya Academy Award, Vishuba Award, Gokarnika Award, First Shudramuni Sahitya Award and Honoured by South Korea's Ambassador, from Global Cooperation Society International, Seol, Republic of Korea for Contribution in World Welfare, Cooperation and Services.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brajanath_Ratha.jpg/330px-Brajanath_Ratha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brajanath_Ratha",
+  "dateOfBirth": "1936-01-12",
+  "birthDateParsed": "1936-01-12",
+  "dateOfDeath": "2014-05-31",
+  "deathDateParsed": "2014-05-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.503333333",
+  "birthCoordinatesLng": "86.925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "translator",
+    "writer"
+  ],
+  "qid": "Q4955994",
+  "birthPlace": "Balasore",
+  "fetchedAt": "2026-08-07T01:42:55.736Z"
+}

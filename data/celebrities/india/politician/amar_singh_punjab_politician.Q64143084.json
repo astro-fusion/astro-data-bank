@@ -1,20 +1,25 @@
 {
-  "publicId": "c6c9a937",
+  "publicId": "4a498fde",
   "wikipediaSlug": "Amar_Singh_(Punjab_politician)",
   "wikipediaId": "Q64143084",
   "name": "Amar Singh (Punjab politician)",
   "fullName": "Amar Singh (Punjab politician)",
-  "profileSummary": "Amar Malkiat Singh is an Indian physician, bureaucrat and Member of Parliament for Fatehgarh Sahib constituency.",
+  "profileSummary": "Amar Malkiat Singh Boparai is an Indian physician, bureaucrat and Member of Parliament for Fatehgarh Sahib constituency.",
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Amar_Singh_(Punjab_politician)",
   "dateOfBirth": "1953-05-26",
+  "birthDateParsed": "1953-05-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "7",
-  "sunSign": "2",
-  "lagnaSignText": "5",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q64143084",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:20:17.210Z"
+  "fetchedAt": "2026-08-07T00:25:34.573Z"
 }

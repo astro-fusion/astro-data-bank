@@ -1,0 +1,31 @@
+{
+  "publicId": "0a331c54",
+  "wikipediaSlug": "Glenn_Maxwell",
+  "wikipediaId": "Q4272108",
+  "name": "Glenn Maxwell",
+  "fullName": "Glenn Maxwell",
+  "profileSummary": "Glenn James Maxwell is an Australian professional cricketer who plays for the Australia national cricket team in Twenty20 Internationals (T20I). He also plays for Victoria in domestic cricket and the Melbourne Stars in the Big Bash League. He previously played both Test and One Day International (ODI) cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Glen_Maxwell_2026_%28cropped%29.jpg/330px-Glen_Maxwell_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Glenn_Maxwell",
+  "dateOfBirth": "1988-10-14",
+  "birthDateParsed": "1988-10-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.805277777",
+  "birthCoordinatesLng": "145.035833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4272108",
+  "birthPlace": "Kew",
+  "fetchedAt": "2026-08-08T13:53:21.569Z"
+}

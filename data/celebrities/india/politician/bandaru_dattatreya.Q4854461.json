@@ -1,0 +1,31 @@
+{
+  "publicId": "7aa07f9c",
+  "wikipediaSlug": "Bandaru_Dattatreya",
+  "wikipediaId": "Q4854461",
+  "name": "Bandaru Dattatreya",
+  "fullName": "Bandaru Dattatreya",
+  "profileSummary": "Bandaru Dattatreya is an Indian politician and the former governor of the State of Haryana from 2021 till 2025. He was also the 20th governor of Himachal Pradesh and was the member of Lok Sabha for Secunderabad from 2014 to 2019. He belongs to the Bharatiya Janata Party (BJP).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_ILO_Deputy_Director_General_%28Policy%29_International_Labour_Organization%2C_Ms._Deborah_Greenfield_meeting_the_Minister_of_State_for_Labour_and_Employment_%28Independent_Charge%29%2C_Shri_Bandaru_Dattatreya%2C_in_New_Delhi_%28cropped%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bandaru_Dattatreya",
+  "dateOfBirth": "1947-02-26",
+  "birthDateParsed": "1947-02-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.361666666",
+  "birthCoordinatesLng": "78.474722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q4854461",
+  "birthPlace": "Hyderabad",
+  "fetchedAt": "2026-08-08T00:22:51.745Z"
+}

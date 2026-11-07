@@ -1,0 +1,33 @@
+{
+  "publicId": "cc1e0b70",
+  "wikipediaSlug": "Vinod_Johri",
+  "wikipediaId": "Q7932729",
+  "name": "Vinod Johri",
+  "fullName": "Vinod Johri",
+  "profileSummary": "Vinod Johri was an Indian astrophysicist. He was an eminent cosmologist, a retired professor of astrophysics at Indian Institute of Technology, Madras and an emeritus professor at Lucknow University since 1995. Johri had over 75 research publications and articles published in pioneering journals. His major contributions in cosmological research included 'power law inflation, genesis of quintessence fields of dark energy and phantom cosmologies'. He was the co-author of the first model of power law inflation in Brans–Dicke theory along with C. Mathiazhagan. He was honored by Uttar Pradesh Government by Research Award of the Council of Science & Technology (CSIR).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/VinodJohri.JPG/330px-VinodJohri.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vinod_Johri",
+  "dateOfBirth": "1935-06-10",
+  "birthDateParsed": "1935-06-10",
+  "dateOfDeath": "2014-05-10",
+  "deathDateParsed": "2014-05-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.63",
+  "birthCoordinatesLng": "78.67",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "astronomer",
+    "astrophysicist"
+  ],
+  "qid": "Q7932729",
+  "birthPlace": "Etah",
+  "fetchedAt": "2026-08-06T07:29:18.842Z"
+}

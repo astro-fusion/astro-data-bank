@@ -1,5 +1,5 @@
 {
-  "publicId": "0a588af9",
+  "publicId": "85c9970c",
   "wikipediaSlug": "Asit_Kumar_Mal",
   "wikipediaId": "Q64006872",
   "name": "Asit Kumar Mal",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Asit_Kumar_Mal",
   "dateOfBirth": "1955-07-11",
+  "birthDateParsed": "1955-07-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "24.15163",
   "birthCoordinatesLng": "87.84421",
-  "moonSign": "12",
-  "sunSign": "3",
-  "lagnaSignText": "6",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q64006872",
   "birthPlace": "Margram",
-  "fetchedAt": "2026-04-07T16:20:36.578Z"
+  "fetchedAt": "2026-08-07T00:25:51.920Z"
 }

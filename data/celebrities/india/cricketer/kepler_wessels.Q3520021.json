@@ -1,0 +1,31 @@
+{
+  "publicId": "05342b34",
+  "wikipediaSlug": "Kepler_Wessels",
+  "wikipediaId": "Q3520021",
+  "name": "Kepler Wessels",
+  "fullName": "Kepler Wessels",
+  "profileSummary": "Kepler Christoffel Wessels is a South African-Australian cricket commentator and former cricketer who captained South Africa after playing 24 Tests for Australia. Since retiring he has been a lawn bowls competitor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kepler_Wessels",
+  "dateOfBirth": "1957-09-14",
+  "birthDateParsed": "1957-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.1",
+  "birthCoordinatesLng": "26.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3520021",
+  "birthPlace": "Bloemfontein",
+  "fetchedAt": "2026-08-09T03:15:31.424Z"
+}

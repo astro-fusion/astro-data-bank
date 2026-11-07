@@ -1,0 +1,31 @@
+{
+  "publicId": "35e3b2da",
+  "wikipediaSlug": "Daya_Shankar_Kulshreshtha",
+  "wikipediaId": "Q28086306",
+  "name": "Daya Shankar Kulshreshtha",
+  "fullName": "Daya Shankar Kulshreshtha",
+  "profileSummary": "Daya Shankar Kulshreshtha is an Indian theoretical physicist, specializing in formal aspects of quantum field theory, string theory, supersymmetry, supergravity and superstring theory, Dirac's instant-form and light-front quantization of field theories and D-brane actions. His work on the models of gravity focuses on the studies of charged compact boson stars and boson shells.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Daya_Shankar_Kulshreshtha_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daya_Shankar_Kulshreshtha",
+  "dateOfBirth": "1951-12-05",
+  "birthDateParsed": "1951-12-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.433333333",
+  "birthCoordinatesLng": "77.65",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q28086306",
+  "birthPlace": "Shivpuri",
+  "fetchedAt": "2026-08-06T04:19:30.425Z"
+}

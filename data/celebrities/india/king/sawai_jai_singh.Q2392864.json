@@ -1,0 +1,31 @@
+{
+  "publicId": "373bd648",
+  "wikipediaSlug": "Sawai_Jai_Singh",
+  "wikipediaId": "Q2392864",
+  "name": "Sawai Jai Singh",
+  "fullName": "Sawai Jai Singh",
+  "profileSummary": "Sawai Jai Singh II, was the 30th Kachhwaha ruler of the Kingdom of Amber, who later founded the fortified city of Jaipur and made it his capital. He became the ruler of Amber at the age of 11, after the untimely death of his father Mirza Raja Bishan Singh on 31 December 1699.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1_Maharaja_Sawai_Jai_Singh_II_ca_1725_Jaipur._British_museum.jpg/330px-1_Maharaja_Sawai_Jai_Singh_II_ca_1725_Jaipur._British_museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sawai_Jai_Singh",
+  "dateOfBirth": "1688-11-03",
+  "birthDateParsed": "1688-11-03",
+  "dateOfDeath": "1743-09-21",
+  "deathDateParsed": "1743-09-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.983333333",
+  "birthCoordinatesLng": "75.866666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "king"
+  ],
+  "qid": "Q2392864",
+  "birthPlace": "Amber",
+  "fetchedAt": "2026-08-06T07:28:35.006Z"
+}

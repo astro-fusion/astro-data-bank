@@ -1,0 +1,31 @@
+{
+  "publicId": "0f8a94b5",
+  "wikipediaSlug": "Rafi_ud-Darajat",
+  "wikipediaId": "Q3236324",
+  "name": "Rafi ud-Darajat",
+  "fullName": "Rafi ud-Darajat",
+  "profileSummary": "Mirza Rafi Ul-Darjat ; 1 December 1699 – 6 June 1719) was briefly the eleventh Mughal emperor from 28 February 1719 until his death on 6 June 1719. He was the youngest son of Rafi-ush-Shan, the nephew of Azim-ush-Shan and a grandson of Bahadur Shah I.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rafi-ud-darjat.jpg/330px-Rafi-ud-darjat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafi_ud-Darajat",
+  "dateOfBirth": "1699-11-30",
+  "birthDateParsed": "1699-11-30",
+  "dateOfDeath": "1719-06-06",
+  "deathDateParsed": "1719-06-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3236324",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-07T11:49:30.379Z"
+}

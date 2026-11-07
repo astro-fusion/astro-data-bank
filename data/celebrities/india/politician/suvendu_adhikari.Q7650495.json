@@ -1,0 +1,31 @@
+{
+  "publicId": "81800292",
+  "wikipediaSlug": "Suvendu_Adhikari",
+  "wikipediaId": "Q7650495",
+  "name": "Suvendu Adhikari",
+  "fullName": "Suvendu Adhikari",
+  "profileSummary": "Suvendu Adhikari is an Indian politician who is serving as the 9th Chief Minister of West Bengal since 9 May 2026. He is the first chief minister of West Bengal belonging to the Bharatiya Janata Party (BJP).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Suvendu_Adhikari_May_2026_%28cropped%29.jpg/330px-Suvendu_Adhikari_May_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
+  "dateOfBirth": "1970-12-15",
+  "birthDateParsed": "1970-12-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.78",
+  "birthCoordinatesLng": "87.75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q7650495",
+  "birthPlace": "Contai",
+  "fetchedAt": "2026-08-09T12:07:26.402Z"
+}

@@ -1,13 +1,16 @@
 {
-  "publicId": "e728167e",
+  "publicId": "48d1d042",
   "wikipediaSlug": "Bajirao_I",
   "wikipediaId": "Q2514706",
   "name": "Bajirao I",
   "fullName": "Bajirao I",
   "profileSummary": "Bajirao I was the 7th Peshwa of the Maratha Empire.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bajirao_I_painting.jpg/330px-Bajirao_I_painting.jpg",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bajirao_I_painting.jpg/330px-Bajirao_I_painting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bajirao_I",
   "dateOfBirth": "1700-08-18",
+  "birthDateParsed": "1700-08-18",
+  "dateOfDeath": "1740-04-28",
+  "deathDateParsed": "1740-04-28",
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "19.85",
   "birthCoordinatesLng": "74",
@@ -22,5 +25,5 @@
   "categories": [],
   "qid": "Q2514706",
   "birthPlace": "Sinnar",
-  "fetchedAt": "2026-04-07T15:59:54.249Z"
+  "fetchedAt": "2026-08-08T00:44:08.162Z"
 }

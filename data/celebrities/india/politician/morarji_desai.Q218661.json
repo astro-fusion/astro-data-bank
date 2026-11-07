@@ -1,0 +1,33 @@
+{
+  "publicId": "04bbd80a",
+  "wikipediaSlug": "Morarji_Desai",
+  "wikipediaId": "Q218661",
+  "name": "Morarji Desai",
+  "fullName": "Morarji Desai",
+  "profileSummary": "Morarji Ranchhodji Desai was an Indian politician and independence activist who served as the prime minister of India between 1977 and 1979 leading the government formed by the Janata Party. During his long career in politics, he held many important posts in government such as the chief minister of Bombay State, the home minister, the finance minister, and the deputy prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Morarji_Desai_During_his_visit_to_the_United_States_of_America_%28cropped%29.jpg/330px-Morarji_Desai_During_his_visit_to_the_United_States_of_America_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Morarji_Desai",
+  "dateOfBirth": "1896-02-29",
+  "birthDateParsed": "1896-02-29",
+  "dateOfDeath": "1995-04-10",
+  "deathDateParsed": "1995-04-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.61005",
+  "birthCoordinatesLng": "72.925872222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "peace activist",
+    "badminton executive and administrator"
+  ],
+  "qid": "Q218661",
+  "birthPlace": "Valsad district",
+  "fetchedAt": "2026-08-09T12:07:00.894Z"
+}

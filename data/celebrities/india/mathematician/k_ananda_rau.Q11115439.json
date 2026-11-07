@@ -1,0 +1,31 @@
+{
+  "publicId": "932a192b",
+  "wikipediaSlug": "K._Ananda_Rau",
+  "wikipediaId": "Q11115439",
+  "name": "K. Ananda Rau",
+  "fullName": "K. Ananda Rau",
+  "profileSummary": "K. Ananda Rau was an eminent Indian mathematician and a contemporary of Ramanujan. Though Rau was six years junior to Ramanujan, his mathematical trajectory, unlike Ramanujan's, was very much a conventional one and he had decided to pursue a career in mathematics well before Ramanujan's prowess became known.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ananda_rau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K._Ananda_Rau",
+  "dateOfBirth": "1893-09-21",
+  "birthDateParsed": "1893-09-21",
+  "dateOfDeath": "1966-01-22",
+  "deathDateParsed": "1966-01-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0825",
+  "birthCoordinatesLng": "80.275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q11115439",
+  "birthPlace": "Chennai",
+  "fetchedAt": "2026-08-06T04:19:34.599Z"
+}

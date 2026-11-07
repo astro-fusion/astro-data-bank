@@ -1,5 +1,5 @@
 {
-  "publicId": "039aa008",
+  "publicId": "4213382c",
   "wikipediaSlug": "Deepak_Hooda",
   "wikipediaId": "Q18637468",
   "name": "Deepak Hooda",
@@ -8,6 +8,9 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Deepak_Hooda",
   "dateOfBirth": "1995-04-19",
+  "birthDateParsed": "1995-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.9",
   "birthCoordinatesLng": "76.566666666",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q18637468",
   "birthPlace": "Rohtak",
-  "fetchedAt": "2026-04-07T10:57:46.982Z"
+  "fetchedAt": "2026-08-09T03:15:46.700Z"
 }

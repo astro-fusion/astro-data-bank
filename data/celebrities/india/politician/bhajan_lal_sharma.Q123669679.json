@@ -1,20 +1,25 @@
 {
-  "publicId": "a297445b",
+  "publicId": "1b512977",
   "wikipediaSlug": "Bhajan_Lal_Sharma",
   "wikipediaId": "Q123669679",
   "name": "Bhajan Lal Sharma",
   "fullName": "Bhajan Lal Sharma",
   "profileSummary": "Bhajan Lal Sharma is an Indian politician serving as the 14th and current chief minister of Rajasthan and also as leader of the house in state assembly. A member of the Bharatiya Janata Party (BJP), he represents the Sanganer constituency in the 16th Rajasthan Assembly.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bhajan_Lal_Sharma_and_deputies_meets_VP_of_India.jpg",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bhajan_Lal_Sharma_and_deputies_meets_VP_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhajan_Lal_Sharma",
   "dateOfBirth": "1966-12-15",
+  "birthDateParsed": "1966-12-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "10",
-  "sunSign": "8",
-  "lagnaSignText": "11",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q123669679",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:15:48.805Z"
+  "fetchedAt": "2026-08-09T12:06:38.730Z"
 }

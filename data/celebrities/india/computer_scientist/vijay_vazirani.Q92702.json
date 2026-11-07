@@ -1,0 +1,33 @@
+{
+  "publicId": "8c6020db",
+  "wikipediaSlug": "Vijay_Vazirani",
+  "wikipediaId": "Q92702",
+  "name": "Vijay Vazirani",
+  "fullName": "Vijay Vazirani",
+  "profileSummary": "Vijay Virkumar Vazirani is an Indian American distinguished professor of computer science in the Donald Bren School of Information and Computer Sciences at the University of California, Irvine.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Vijay_Vazirani_UCI_2021.jpg/330px-Vijay_Vazirani_UCI_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vijay_Vazirani",
+  "dateOfBirth": "1957-04-20",
+  "birthDateParsed": "1957-04-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.8",
+  "birthCoordinatesLng": "83",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher",
+    "mathematician"
+  ],
+  "qid": "Q92702",
+  "birthPlace": "India",
+  "fetchedAt": "2026-08-06T07:29:15.629Z"
+}

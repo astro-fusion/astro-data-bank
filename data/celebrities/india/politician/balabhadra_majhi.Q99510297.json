@@ -1,5 +1,5 @@
 {
-  "publicId": "ac337b01",
+  "publicId": "ee403e98",
   "wikipediaSlug": "Balabhadra_Majhi",
   "wikipediaId": "Q99510297",
   "name": "Balabhadra Majhi",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Balabhadra_Majhi_MP_2024.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Balabhadra_Majhi",
   "dateOfBirth": "1961-02-09",
+  "birthDateParsed": "1961-02-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "8",
-  "sunSign": "10",
-  "lagnaSignText": "2",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q99510297",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:20:40.256Z"
+  "fetchedAt": "2026-08-07T00:26:06.454Z"
 }

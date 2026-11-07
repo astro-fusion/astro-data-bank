@@ -1,20 +1,25 @@
 {
-  "publicId": "4318f4da",
+  "publicId": "83f8a408",
   "wikipediaSlug": "Bhupendrabhai_Patel",
   "wikipediaId": "Q48732972",
   "name": "Bhupendrabhai Patel",
   "fullName": "Bhupendrabhai Patel",
   "profileSummary": "Bhupendrabhai Rajnikant Patel is an Indian politician who has been serving as the 17th Chief Minister of Gujarat since September 2021. He is also serving as leader of the house in legislative assembly. He represents the Ghatlodia Assembly constituency in the Gujarat Legislative Assembly since 2017. He is a member of the BJP and started his political career working in municipal bodies of Ahmedabad.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chief_Minister_of_Gujarat%2C_Shri_Bhupendra_Patel_%282%29.jpg/330px-Chief_Minister_of_Gujarat%2C_Shri_Bhupendra_Patel_%282%29.jpg",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bhupendra_Patel_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhupendrabhai_Patel",
   "dateOfBirth": "1962-07-15",
+  "birthDateParsed": "1962-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "23.021944444",
   "birthCoordinatesLng": "72.579722222",
-  "moonSign": "9",
-  "sunSign": "3",
-  "lagnaSignText": "6",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -23,5 +28,5 @@
   ],
   "qid": "Q48732972",
   "birthPlace": "Ahmedabad",
-  "fetchedAt": "2026-04-07T16:15:47.891Z"
+  "fetchedAt": "2026-08-09T12:06:37.566Z"
 }

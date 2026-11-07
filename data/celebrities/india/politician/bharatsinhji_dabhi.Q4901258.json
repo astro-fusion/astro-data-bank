@@ -1,5 +1,5 @@
 {
-  "publicId": "61a2f8b3",
+  "publicId": "412f65a8",
   "wikipediaSlug": "Bharatsinhji_Dabhi",
   "wikipediaId": "Q4901258",
   "name": "Bharatsinhji Dabhi",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bharatsinhji_Dabhi",
   "dateOfBirth": "1955-03-18",
+  "birthDateParsed": "1955-03-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "23.16666667",
   "birthCoordinatesLng": "72.73333333",
-  "moonSign": "9",
-  "sunSign": "12",
-  "lagnaSignText": "3",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4901258",
   "birthPlace": "Dabhoda",
-  "fetchedAt": "2026-04-07T16:21:12.177Z"
+  "fetchedAt": "2026-08-07T00:26:46.805Z"
 }

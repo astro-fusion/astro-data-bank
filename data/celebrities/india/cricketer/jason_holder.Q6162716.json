@@ -1,0 +1,31 @@
+{
+  "publicId": "8470ce2f",
+  "wikipediaSlug": "Jason_Holder",
+  "wikipediaId": "Q6162716",
+  "name": "Jason Holder",
+  "fullName": "Jason Holder",
+  "profileSummary": "Jason Omar Holder is a Barbadian cricketer and the former captain of the West Indies cricket team. He is a right arm medium-fast bowling all-rounder who features in all three cricketing formats. In January 2019, he was ranked as the no. 1 all rounder in the ICC Test rankings. In August 2019, Cricket West Indies named him as the Test Player of the Year and on 14 April 2021, he was named one of Wisden's Five Cricketers of the Year. Holder is the first West Indian male cricketer to take a hat-trick in a T20I, and the 5th, to achieve both 2000 runs and 100 wickets in ODIs. He is also the second West Indian, after Sir Garfield Sobers, to attain both 2500 runs and 150 wickets in Tests. Holder was a member of the West Indies team that won the 2016 T20 World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jason_Holder.jpg/330px-Jason_Holder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Holder",
+  "dateOfBirth": "1991-11-05",
+  "birthDateParsed": "1991-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.17",
+  "birthCoordinatesLng": "-59.5525",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6162716",
+  "birthPlace": "Barbados",
+  "fetchedAt": "2026-08-09T03:15:42.422Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "f9ed59c6",
+  "wikipediaSlug": "Michael_Knatchbull,_5th_Baron_Brabourne",
+  "wikipediaId": "Q2783907",
+  "name": "Michael Knatchbull, 5th Baron Brabourne",
+  "fullName": "Michael Knatchbull, 5th Baron Brabourne",
+  "profileSummary": "Michael Herbert Rudolf Knatchbull, 5th Baron Brabourne, was a British peer and soldier, the son of the 4th Baron Brabourne.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/21/1929_Michael_Knatchbull.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Knatchbull%2C_5th_Baron_Brabourne",
+  "dateOfBirth": "1895-05-08",
+  "birthDateParsed": "1895-05-08",
+  "dateOfDeath": "1939-02-23",
+  "deathDateParsed": "1939-02-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q2783907",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-09T12:06:59.686Z"
+}

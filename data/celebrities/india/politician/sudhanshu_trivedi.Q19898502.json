@@ -1,0 +1,31 @@
+{
+  "publicId": "9cec2261",
+  "wikipediaSlug": "Sudhanshu_Trivedi",
+  "wikipediaId": "Q19898502",
+  "name": "Sudhanshu Trivedi",
+  "fullName": "Sudhanshu Trivedi",
+  "profileSummary": "Sudhanshu Trivedi is an Indian politician and former professor. A leader of the Bharatiya Janata Party and Member of Parliament from its Upper House, the Rajya Sabha since 2019, Trivedi is a senior National Spokesperson of the Bharatiya Janata Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sudhanshu_Trivedi.jpg/330px-Sudhanshu_Trivedi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sudhanshu_Trivedi",
+  "dateOfBirth": "1970-10-20",
+  "birthDateParsed": "1970-10-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.847",
+  "birthCoordinatesLng": "80.947",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q19898502",
+  "birthPlace": "Lucknow",
+  "fetchedAt": "2026-08-08T00:24:56.570Z"
+}

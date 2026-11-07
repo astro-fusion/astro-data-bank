@@ -1,0 +1,31 @@
+{
+  "publicId": "a372cc2d",
+  "wikipediaSlug": "Akbar_II",
+  "wikipediaId": "Q2091579",
+  "name": "Akbar II",
+  "fullName": "Akbar II",
+  "profileSummary": "Akbar II, also known as Akbar Shah II, was the nineteenth Mughal emperor from 1806 to 1837. He was the second son of Shah Alam II and the father of Bahadur Shah II, who would eventually succeed him and become the last Mughal emperor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Akbar_Shah_II_of_India.jpg/330px-Akbar_Shah_II_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akbar_II",
+  "dateOfBirth": "1760-04-22",
+  "birthDateParsed": "1760-04-22",
+  "dateOfDeath": "1837-09-28",
+  "deathDateParsed": "1837-09-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.427",
+  "birthCoordinatesLng": "81.248",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet"
+  ],
+  "qid": "Q2091579",
+  "birthPlace": "Mukundpur",
+  "fetchedAt": "2026-08-07T11:48:31.572Z"
+}

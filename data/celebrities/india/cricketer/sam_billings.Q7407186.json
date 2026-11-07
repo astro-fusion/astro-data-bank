@@ -1,0 +1,32 @@
+{
+  "publicId": "0fd09dd0",
+  "wikipediaSlug": "Sam_Billings",
+  "wikipediaId": "Q7407186",
+  "name": "Sam Billings",
+  "fullName": "Sam Billings",
+  "profileSummary": "Samuel William Billings is an English professional cricketer. Billings is a right-handed batsman who fields as a wicket-keeper. He was born at Pembury in Kent and has played for Kent County Cricket Club teams since he was eight years old, making his senior debut for the First XI in 2011. In October 2017, he was appointed as the vice-captain of the team, before being appointed as captain in January 2018, replacing Sam Northeast. He served as the club's captain until the end of the 2023 season when he resigned, although he retained the captaincy of the club's Twenty20 cricket team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sam_Billings_Kent_V_Surrey_2015_at_Kia_Oval_Cricket_Ground_%2827190750944%29.jpg/330px-Sam_Billings_Kent_V_Surrey_2015_at_Kia_Oval_Cricket_Ground_%2827190750944%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Billings",
+  "dateOfBirth": "1991-06-15",
+  "birthDateParsed": "1991-06-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.1456",
+  "birthCoordinatesLng": "0.3224",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "association football player"
+  ],
+  "qid": "Q7407186",
+  "birthPlace": "Pembury",
+  "fetchedAt": "2026-08-09T03:16:22.952Z"
+}

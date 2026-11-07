@@ -1,0 +1,32 @@
+{
+  "publicId": "7f28ca0c",
+  "wikipediaSlug": "K._N._Shankara",
+  "wikipediaId": "Q6323666",
+  "name": "K. N. Shankara",
+  "fullName": "K. N. Shankara",
+  "profileSummary": "Koodli Nanjunda Ghanapathi Shankara was a space scientist from India. He was the Director of ISRO's Space Applications Centre (SAC), Ahmedabad and ISRO Satellite Centre (ISAC), Bangalore. He was the Director of Satellite Communications Program Office and Program Director, INSAT, and was looking after overall planning and direction of communication satellite program. His work in the field of transponder design and development led to a boost in India's communication satellite technology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/8/87/KN_Shankara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K._N._Shankara",
+  "dateOfBirth": "1945-05-07",
+  "birthDateParsed": "1945-05-07",
+  "dateOfDeath": "2017-07-17",
+  "deathDateParsed": "2017-07-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "engineer"
+  ],
+  "qid": "Q6323666",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T04:19:50.873Z"
+}

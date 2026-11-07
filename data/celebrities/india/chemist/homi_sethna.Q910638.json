@@ -1,0 +1,33 @@
+{
+  "publicId": "4ea84d48",
+  "wikipediaSlug": "Homi_Sethna",
+  "wikipediaId": "Q910638",
+  "name": "Homi Sethna",
+  "fullName": "Homi Sethna",
+  "profileSummary": "Homi Nusserwanji Sethna was an Indian nuclear scientist and a chemical engineer, gaining international fame as the Chairman of the Atomic Energy Commission (India) during the time when the first nuclear test, codename Smiling Buddha in Pokhran Test Range in 1974 was conducted. He was the primary and central figure in India's civilian nuclear program as well as the construction of nuclear power plants. In 1991, he was appointed as Sheriff of Mumbai.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Homi_Sethna",
+  "dateOfBirth": "1923-08-24",
+  "birthDateParsed": "1923-08-24",
+  "dateOfDeath": "2010-09-05",
+  "deathDateParsed": "2010-09-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "nuclear physicist",
+    "chemical engineer"
+  ],
+  "qid": "Q910638",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-06T04:19:33.347Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "501179ed",
+  "wikipediaSlug": "Shane_Watson",
+  "wikipediaId": "Q2732224",
+  "name": "Shane Watson",
+  "fullName": "Shane Watson",
+  "profileSummary": "Shane Robert Watson is an Australian cricket coach, commentator and former cricketer who played for and occasionally captained the Australian national cricket team between 2002 and 2016. He was an all-rounder who played as a right-handed batsman and a right-arm fast-medium bowler. He was ranked as the world's No. 1 all-rounder in Twenty20 Internationals (T20I) for 150 weeks, including an all-time record of 120 consecutive weeks from 13 October 2011 to 30 January 2014. He began playing during the Australian team's golden era in the early 2000s, and was the last player from this era to retire. In his time playing for Australia, Watson was part of their winning squad in the Cricket World Cup two times in 2007, and 2015 along with the ICC Champions Trophy twice in 2006 and 2009, with Watson named as the player of the match in the final on both occasions, as he scored the winning run in the 2006 tournament, with the winning six in the 2009 tournament.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/SHANE_WATSON_%2811705862116%29.jpg/330px-SHANE_WATSON_%2811705862116%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shane_Watson",
+  "dateOfBirth": "1981-06-17",
+  "birthDateParsed": "1981-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.616666666",
+  "birthCoordinatesLng": "152.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2732224",
+  "birthPlace": "Ipswich",
+  "fetchedAt": "2026-08-09T03:16:47.434Z"
+}

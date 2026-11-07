@@ -1,0 +1,33 @@
+{
+  "publicId": "1a75c163",
+  "wikipediaSlug": "Bishnu_Dey",
+  "wikipediaId": "Q3351362",
+  "name": "Bishnu Dey",
+  "fullName": "Bishnu Dey",
+  "profileSummary": "Bishnu Dey was a Bengali poet, writer, essayist, academician, art appreciator, and connoisseur in the era of modernism and post-modernism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/8/86/BishnuDeyPic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bishnu_Dey",
+  "dateOfBirth": "1909-07-18",
+  "birthDateParsed": "1909-07-18",
+  "dateOfDeath": "1982-12-03",
+  "deathDateParsed": "1982-12-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "literary critic"
+  ],
+  "qid": "Q3351362",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-07T01:42:53.112Z"
+}

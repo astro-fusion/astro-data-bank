@@ -1,0 +1,33 @@
+{
+  "publicId": "ce243b28",
+  "wikipediaSlug": "Gopaldas_Neeraj",
+  "wikipediaId": "Q2384063",
+  "name": "Gopaldas Neeraj",
+  "fullName": "Gopaldas Neeraj",
+  "profileSummary": "Gopaldas Saxena was an Indian poet and author of Hindi literature. He was also a poet of Hindi Kavi sammelan. He wrote under the pen name \"Neeraj\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Poet_Gopaldas_Neeraj.jpg/330px-Poet_Gopaldas_Neeraj.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gopaldas_Neeraj",
+  "dateOfBirth": "1925-01-04",
+  "birthDateParsed": "1925-01-04",
+  "dateOfDeath": "2018-07-19",
+  "deathDateParsed": "2018-07-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.85",
+  "birthCoordinatesLng": "80.91",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lyricist",
+    "songwriter",
+    "writer"
+  ],
+  "qid": "Q2384063",
+  "birthPlace": "Uttar Pradesh",
+  "fetchedAt": "2026-08-07T01:43:16.830Z"
+}

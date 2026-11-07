@@ -1,0 +1,34 @@
+{
+  "publicId": "009b2925",
+  "wikipediaSlug": "Pranab_K._Sen",
+  "wikipediaId": "Q3909884",
+  "name": "Pranab K. Sen",
+  "fullName": "Pranab K. Sen",
+  "profileSummary": "Pranab Kumar Sen was an Indian-American statistician who was a professor of statistics and the Cary C. Boshamer Professor of Biostatistics at the University of North Carolina at Chapel Hill.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pranab_K._Sen",
+  "dateOfBirth": "1937-11-07",
+  "birthDateParsed": "1937-11-07",
+  "dateOfDeath": "2023-12-31",
+  "deathDateParsed": "2023-12-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biostatistician",
+    "university teacher",
+    "mathematician",
+    "statistician"
+  ],
+  "qid": "Q3909884",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T07:28:46.880Z"
+}

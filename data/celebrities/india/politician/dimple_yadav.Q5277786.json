@@ -1,0 +1,31 @@
+{
+  "publicId": "ca041cb1",
+  "wikipediaSlug": "Dimple_Yadav",
+  "wikipediaId": "Q5277786",
+  "name": "Dimple Yadav",
+  "fullName": "Dimple Yadav",
+  "profileSummary": "Dimple Yadav is an Indian politician and the incumbent Member of Parliament from Mainpuri of Uttar Pradesh. She has earlier been a member of the Lok Sabha for two terms from Kannauj and currently serving a second term from Mainpuri Lok Sabha constituency.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dimple_Yadav.img.jpg/330px-Dimple_Yadav.img.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dimple_Yadav",
+  "dateOfBirth": "1978-01-15",
+  "birthDateParsed": "1978-01-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.511111111",
+  "birthCoordinatesLng": "78.953888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5277786",
+  "birthPlace": "Uttarakhand",
+  "fetchedAt": "2026-08-07T00:27:45.209Z"
+}

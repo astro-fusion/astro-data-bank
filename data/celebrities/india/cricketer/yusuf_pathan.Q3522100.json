@@ -1,0 +1,32 @@
+{
+  "publicId": "8c81bba7",
+  "wikipediaSlug": "Yusuf_Pathan",
+  "wikipediaId": "Q3522100",
+  "name": "Yusuf Pathan",
+  "fullName": "Yusuf Pathan",
+  "profileSummary": "Yusuf Khan Pathan is an Indian former cricketer and politician of the Nationalist Citizens Party of India. Pathan made his debut in first-class cricket in 2001/02 as a right-handed batsman and a right-arm off-break bowler. His younger brother, Irfan Pathan was also an Indian cricketer. Pathan retired from all forms of cricket in February 2021. He was a member of the Indian team that won both the 2007 T20 World Cup and the 2011 Cricket World Cup. As of June 2024, Pathan is a Member of Parliament from the Baharampur Lok Sabha constituency of West Bengal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Yusuf_Pathan.jpg/330px-Yusuf_Pathan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_Pathan",
+  "dateOfBirth": "1982-11-17",
+  "birthDateParsed": "1982-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.3",
+  "birthCoordinatesLng": "73.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "politician"
+  ],
+  "qid": "Q3522100",
+  "birthPlace": "Vadodara",
+  "fetchedAt": "2026-08-06T16:12:29.001Z"
+}

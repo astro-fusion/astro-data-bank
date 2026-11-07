@@ -1,0 +1,35 @@
+{
+  "publicId": "7eb9e343",
+  "wikipediaSlug": "Ashok_Chavda",
+  "wikipediaId": "Q23415108",
+  "name": "Ashok Chavda",
+  "fullName": "Ashok Chavda",
+  "profileSummary": "Ashok Chavda, also known by his pen name Bedil, is a Gujarati poet, writer and critic from Gujarat, India. His anthology of poetry, Dalkhi Thi Saav Chhutan (2012), was awarded the Yuva Puraskar by the Sahitya Akademi in 2013. His collection of known writings include Pagla Talaavma (2003), Pagarav Talaavma (2012), Tu Kahu Ke Tame (2012), Pityo Ashko (2012), Shabdoday (2012), and Ghazalistan (2012), which is a translation of Urdu ghazals written by Indian and Pakistani poets. He is also a recipient of the Yuva Gaurav Award (2012) from the Gujarat Sahitya Akademi, and the Dasi Jivan Award (2013–14) from the Government of Gujarat. He has appeared in several TV and radio programs on All India Radio and Doordarshan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ashok_Chavda.jpg/330px-Ashok_Chavda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashok_Chavda",
+  "dateOfBirth": "1978-08-23",
+  "birthDateParsed": "1978-08-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.77445",
+  "birthCoordinatesLng": "72.1525",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "literary critic",
+    "translator",
+    "editor"
+  ],
+  "qid": "Q23415108",
+  "birthPlace": "Bhavnagar",
+  "fetchedAt": "2026-08-07T01:42:37.589Z"
+}

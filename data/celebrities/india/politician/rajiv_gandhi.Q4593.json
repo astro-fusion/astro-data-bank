@@ -1,0 +1,32 @@
+{
+  "publicId": "464dfd03",
+  "wikipediaSlug": "Rajiv_Gandhi",
+  "wikipediaId": "Q4593",
+  "name": "Rajiv Gandhi",
+  "fullName": "Rajiv Gandhi",
+  "profileSummary": "Rajiv Ratna Gandhi was an Indian aircraft pilot and politician who served as the prime minister of India from 1984 to 1989 for two terms. He took office after the assassination of his mother, then–prime minister Indira Gandhi, to become the youngest Indian prime minister at the age of 40. He served until his defeat at the 1989 election, and then became Leader of the Opposition in Lok Sabha, resigning in December 1990, six months before his own assassination.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rajiv_Gandhi_%281987%29.jpg/330px-Rajiv_Gandhi_%281987%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajiv_Gandhi",
+  "dateOfBirth": "1944-08-20",
+  "birthDateParsed": "1944-08-20",
+  "dateOfDeath": "1991-05-21",
+  "deathDateParsed": "1991-05-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "amateur radio operator"
+  ],
+  "qid": "Q4593",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-07T10:33:11.462Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "cae63615",
+  "wikipediaSlug": "Stephen_Fleming",
+  "wikipediaId": "Q3352116",
+  "name": "Stephen Fleming",
+  "fullName": "Stephen Fleming",
+  "profileSummary": "Stephen Paul Fleming is a cricket coach and former captain of the New Zealand national cricket team. He is the current Test Match coach of the England Cricket Team. He was a left-handed opening batter and an occasional right arm slow medium bowler. He is New Zealand's second-most capped Test cricketer with 111 appearances. He is also the team's longest-serving and most successful captain with 28 test victories and led the team to win the 2000 ICC KnockOut Trophy, the team's first International Cricket Council trophy. Fleming captained New Zealand in the first ever Twenty20 International against Australia in 2005.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Stephen_Fleming_ONZM_%28cropped%29.jpg/330px-Stephen_Fleming_ONZM_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Fleming",
+  "dateOfBirth": "1973-04-01",
+  "birthDateParsed": "1973-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3352116",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-08-09T03:16:37.845Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "a1b1f755",
+  "wikipediaSlug": "Harry_Graham_Haig",
+  "wikipediaId": "Q5669217",
+  "name": "Harry Graham Haig",
+  "fullName": "Harry Graham Haig",
+  "profileSummary": "Sir Harry Graham Haig KCSI CIE JP ICS \n was a British administrator in India.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Graham_Haig",
+  "dateOfBirth": "1881-04-13",
+  "birthDateParsed": "1881-04-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat"
+  ],
+  "qid": "Q5669217",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-08T15:25:18.810Z"
+}

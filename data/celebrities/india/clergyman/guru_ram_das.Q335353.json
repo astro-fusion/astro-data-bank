@@ -1,0 +1,33 @@
+{
+  "publicId": "be7c2a04",
+  "wikipediaSlug": "Guru_Ram_Das",
+  "wikipediaId": "Q335353",
+  "name": "Guru Ram Das",
+  "fullName": "Guru Ram Das",
+  "profileSummary": "Guru Ram Das, sometimes spelled as Guru Ramdas, was the fourth of the ten Sikh gurus. He was born to a family based in Lahore, who named him Bhai Jetha. He was orphaned at age seven; and thereafter grew up with his maternal grandmother in a village.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Guru_Ram_Das_miniature_painting.jpg/330px-Guru_Ram_Das_miniature_painting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+  "dateOfBirth": "1534-10-04",
+  "birthDateParsed": "1534-10-04",
+  "dateOfDeath": "1581-09-11",
+  "deathDateParsed": "1581-09-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.549722222",
+  "birthCoordinatesLng": "74.343611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "clergyman",
+    "religious leader",
+    "writer"
+  ],
+  "qid": "Q335353",
+  "birthPlace": "Lahore",
+  "fetchedAt": "2026-08-07T01:44:11.558Z"
+}

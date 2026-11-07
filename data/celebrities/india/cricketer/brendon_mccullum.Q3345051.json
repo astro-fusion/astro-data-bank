@@ -1,0 +1,31 @@
+{
+  "publicId": "2aa32f13",
+  "wikipediaSlug": "Brendon_McCullum",
+  "wikipediaId": "Q3345051",
+  "name": "Brendon McCullum",
+  "fullName": "Brendon McCullum",
+  "profileSummary": "Brendon Barrie McCullum is a New Zealand cricket coach and former player who is the head coach of the England men's cricket team in T20s and ODIs, and formerly Test matches until his sacking as England Test coach in July 2026. Representing New Zealand, he captained the team in all formats. McCullum was renowned for his quick scoring, notably setting a record for the fastest Test century. He is considered one of New Zealand's most successful batsmen and captained the team to the finals of the 2015 Cricket World Cup and 2009 ICC Champions Trophy. He is also an inductee of the New Zealand Cricket Hall of Fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Brendon_McCullum_ONZM_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brendon_McCullum",
+  "dateOfBirth": "1981-09-27",
+  "birthDateParsed": "1981-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-45.874166666",
+  "birthCoordinatesLng": "170.503611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3345051",
+  "birthPlace": "Dunedin",
+  "fetchedAt": "2026-08-09T16:53:36.866Z"
+}

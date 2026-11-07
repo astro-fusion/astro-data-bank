@@ -1,0 +1,31 @@
+{
+  "publicId": "48fdad95",
+  "wikipediaSlug": "Akeal_Hosein",
+  "wikipediaId": "Q22005214",
+  "name": "Akeal Hosein",
+  "fullName": "Akeal Hosein",
+  "profileSummary": "Akeal Jerome Hosein is a Trinidadian cricketer who represents the West Indies cricket team. He plays for Chennai Super Kings in the Indian Premier League and Trinbago Knight Riders in the Caribbean Premier League.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akeal_Hosein",
+  "dateOfBirth": "1993-04-25",
+  "birthDateParsed": "1993-04-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.666666666",
+  "birthCoordinatesLng": "-61.516666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q22005214",
+  "birthPlace": "Port of Spain",
+  "fetchedAt": "2026-08-09T03:15:10.546Z"
+}

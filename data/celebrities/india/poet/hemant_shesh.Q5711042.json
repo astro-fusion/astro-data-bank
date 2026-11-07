@@ -1,0 +1,33 @@
+{
+  "publicId": "0fb89f33",
+  "wikipediaSlug": "Hemant_Shesh",
+  "wikipediaId": "Q5711042",
+  "name": "Hemant Shesh",
+  "fullName": "Hemant Shesh",
+  "profileSummary": "Hemant Shesh is an Indian Hindi writer, poet and civil servant.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Hemant_Shesh_5.jpg/330px-Hemant_Shesh_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hemant_Shesh",
+  "dateOfBirth": "1952-12-28",
+  "birthDateParsed": "1952-12-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.915",
+  "birthCoordinatesLng": "75.82",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "civil servant",
+    "writer"
+  ],
+  "qid": "Q5711042",
+  "birthPlace": "Jaipur",
+  "fetchedAt": "2026-08-07T01:44:34.068Z"
+}

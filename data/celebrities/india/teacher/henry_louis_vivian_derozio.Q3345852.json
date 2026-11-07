@@ -1,0 +1,32 @@
+{
+  "publicId": "8b538a37",
+  "wikipediaSlug": "Henry_Louis_Vivian_Derozio",
+  "wikipediaId": "Q3345852",
+  "name": "Henry Louis Vivian Derozio",
+  "fullName": "Henry Louis Vivian Derozio",
+  "profileSummary": "Henry Louis Vivian Derozio was an Indian poet and assistant headmaster of Hindu College, Kolkata(Presidency University, Kolkata). He was a radical thinker of his time and one of the first Indian educators to disseminate Western learning and science among the young men of Bengal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kolkata_Derozio_statue.jpg/330px-Kolkata_Derozio_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Louis_Vivian_Derozio",
+  "dateOfBirth": "1809-04-18",
+  "birthDateParsed": "1809-04-18",
+  "dateOfDeath": "1831-12-26",
+  "deathDateParsed": "1831-12-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "teacher",
+    "poet"
+  ],
+  "qid": "Q3345852",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-07T01:44:12.257Z"
+}

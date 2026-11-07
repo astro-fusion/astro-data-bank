@@ -1,0 +1,31 @@
+{
+  "publicId": "e216b2f6",
+  "wikipediaSlug": "Lalchand_Rajput",
+  "wikipediaId": "Q3520482",
+  "name": "Lalchand Rajput",
+  "fullName": "Lalchand Rajput",
+  "profileSummary": "Lalchand Sitaram Rajput; is an Indian cricket coach and former cricketer. He was appointed head coach of the United Arab Emirates national cricket team in 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Indian_staff2.jpg/330px-Indian_staff2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lalchand_Rajput",
+  "dateOfBirth": "1961-12-18",
+  "birthDateParsed": "1961-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3520482",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-08T13:53:45.144Z"
+}

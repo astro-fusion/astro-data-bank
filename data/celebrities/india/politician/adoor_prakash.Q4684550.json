@@ -1,5 +1,5 @@
 {
-  "publicId": "045e258c",
+  "publicId": "5ab0b334",
   "wikipediaSlug": "Adoor_Prakash",
   "wikipediaId": "Q4684550",
   "name": "Adoor Prakash",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Adoor_Prakash.jpg/330px-Adoor_Prakash.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Adoor_Prakash",
   "dateOfBirth": "1955-05-24",
+  "birthDateParsed": "1955-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
-  "birthCoordinatesLat": "9.16667",
-  "birthCoordinatesLng": "76.73333",
-  "moonSign": "3",
-  "sunSign": "2",
-  "lagnaSignText": "5",
-  "planetaryCombinationIndex": null,
+  "birthCoordinatesLat": "9.153",
+  "birthCoordinatesLng": "76.7356",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -23,5 +28,5 @@
   ],
   "qid": "Q4684550",
   "birthPlace": "Adoor",
-  "fetchedAt": "2026-04-07T16:19:49.305Z"
+  "fetchedAt": "2026-08-07T00:24:53.917Z"
 }

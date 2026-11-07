@@ -1,0 +1,33 @@
+{
+  "publicId": "eb4c1694",
+  "wikipediaSlug": "S._R._Srinivasa_Varadhan",
+  "wikipediaId": "Q370247",
+  "name": "S. R. Srinivasa Varadhan",
+  "fullName": "S. R. Srinivasa Varadhan",
+  "profileSummary": "Sathamangalam Ranga Iyengar Srinivasa Varadhan, is an Indian American mathematician and statistician. He is known for his fundamental contributions to probability theory and in particular for creating a unified theory of large deviations. He is regarded as one of the fundamental contributors to the theory of diffusion processes with an orientation towards the refinement and further development of Itô’s stochastic calculus. In the year 2007, he won the Abel Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Srinivasa_Varadhan_Heidelberg.JPG/330px-Srinivasa_Varadhan_Heidelberg.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/S._R._Srinivasa_Varadhan",
+  "dateOfBirth": "1940-01-02",
+  "birthDateParsed": "1940-01-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0825",
+  "birthCoordinatesLng": "80.275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher",
+    "statistician"
+  ],
+  "qid": "Q370247",
+  "birthPlace": "Chennai",
+  "fetchedAt": "2026-08-06T07:28:33.121Z"
+}

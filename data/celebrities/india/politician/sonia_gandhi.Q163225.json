@@ -1,0 +1,31 @@
+{
+  "publicId": "5f1cd576",
+  "wikipediaSlug": "Sonia_Gandhi",
+  "wikipediaId": "Q163225",
+  "name": "Sonia Gandhi",
+  "fullName": "Sonia Gandhi",
+  "profileSummary": "Sonia Gandhi is an Italian-born Indian politician. She is the longest-serving president of the Indian National Congress, a big-tent liberal political party, which has governed India for most of its post-independence history. She took over as the party leader in 1998, seven years after the assassination of Rajiv Gandhi, her husband and a former Prime Minister of India, and remained in office until 2017 after serving for twenty-two years. She returned to the post as interim president in 2019 and remained the President for another three years until 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sonia_Gandhi_in_2013.jpg/330px-Sonia_Gandhi_in_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+  "dateOfBirth": "1946-12-09",
+  "birthDateParsed": "1946-12-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.783333333",
+  "birthCoordinatesLng": "11.566666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q163225",
+  "birthPlace": "Lusiana",
+  "fetchedAt": "2026-08-07T10:33:46.468Z"
+}

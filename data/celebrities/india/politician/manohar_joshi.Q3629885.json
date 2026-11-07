@@ -1,0 +1,33 @@
+{
+  "publicId": "5b0705c0",
+  "wikipediaSlug": "Manohar_Joshi",
+  "wikipediaId": "Q3629885",
+  "name": "Manohar Joshi",
+  "fullName": "Manohar Joshi",
+  "profileSummary": "Manohar Gajanan Joshi was an Indian politician from the state of Maharashtra, who served as the Chief Minister of Maharashtra from 1995 to 1999, and Speaker of the Lok Sabha from 2002 to 2004. He was one of the prominent leaders of the Shiv Sena, and also one of the Indians to be elected to all of the four legislatures. He was posthumously awarded the Padma Bhushan, India's third-highest civilian honour, by the Government of India in 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Manohar_Joshi_cropped.jpg/330px-Manohar_Joshi_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manohar_Joshi",
+  "dateOfBirth": "1937-12-02",
+  "birthDateParsed": "1937-12-02",
+  "dateOfDeath": "2024-02-23",
+  "deathDateParsed": "2024-02-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.65",
+  "birthCoordinatesLng": "72.88",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "mayor",
+    "minister"
+  ],
+  "qid": "Q3629885",
+  "birthPlace": "Raigad district",
+  "fetchedAt": "2026-08-09T12:06:51.545Z"
+}

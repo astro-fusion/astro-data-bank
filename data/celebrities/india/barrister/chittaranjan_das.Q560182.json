@@ -1,0 +1,36 @@
+{
+  "publicId": "d522b2e4",
+  "wikipediaSlug": "Chittaranjan_Das",
+  "wikipediaId": "Q560182",
+  "name": "Chittaranjan Das",
+  "fullName": "Chittaranjan Das",
+  "profileSummary": "Chittaranjan Das, popularly called Deshbandhu, was a Bengali freedom fighter, political activist and lawyer during the Indian Independence Movement and mentor of Subhas Chandra Bose. He was the founder-leader of the Swaraj Party in undivided Bengal during the period of British Colonial rule in India. His name is abbreviated as C. R. Das.\nHe was closely associated with a number of literary societies and wrote poems, apart from numerous articles and essays.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chittaranjan_Das_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chittaranjan_Das",
+  "dateOfBirth": "1870-11-05",
+  "birthDateParsed": "1870-11-05",
+  "dateOfDeath": "1925-06-16",
+  "deathDateParsed": "1925-06-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.55",
+  "birthCoordinatesLng": "90.55",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "barrister",
+    "writer",
+    "politician",
+    "freedom fighter",
+    "essayist",
+    "poet"
+  ],
+  "qid": "Q560182",
+  "birthPlace": "Bikrampur",
+  "fetchedAt": "2026-08-07T10:32:48.868Z"
+}

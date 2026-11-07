@@ -1,13 +1,16 @@
 {
-  "publicId": "5bfebb7a",
+  "publicId": "109d3869",
   "wikipediaSlug": "Ishan_Kishan",
   "wikipediaId": "Q21621705",
   "name": "Ishan Kishan",
   "fullName": "Ishan Kishan",
-  "profileSummary": "Ishan Kishan is an Indian International cricketer who plays for the Indian national cricket team as a wicket-keeper batsman in all formats of this game. He made his international debut in March 2021 against England. He captains Jharkhand in domestic cricket and Sunrisers Hyderabad in Indian Premier League.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ishan_Kishan.jpg/330px-Ishan_Kishan.jpg",
+  "profileSummary": "Ishan Pranav Kumar Pandey Kishan is an Indian International cricketer who plays for the Indian national cricket team. He plays as for the Sunrisers Hyderabad In the Indian Premier League. He made his international debut in March 2021 against England. He captains Jharkhand in domestic cricket and was stand-in captain for Sunrisers Hyderabad in Indian Premier League in the absence of full-time captain Pat Cummins for the first half of the 2026 season.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ishan_Kishan.jpg/330px-Ishan_Kishan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ishan_Kishan",
   "dateOfBirth": "1998-07-18",
+  "birthDateParsed": "1998-07-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "25.61",
   "birthCoordinatesLng": "85.141388888",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q21621705",
   "birthPlace": "Patna",
-  "fetchedAt": "2026-04-07T10:57:47.662Z"
+  "fetchedAt": "2026-08-08T13:53:27.456Z"
 }

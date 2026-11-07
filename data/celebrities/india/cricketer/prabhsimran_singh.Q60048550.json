@@ -1,0 +1,31 @@
+{
+  "publicId": "3b97c668",
+  "wikipediaSlug": "Prabhsimran_Singh",
+  "wikipediaId": "Q60048550",
+  "name": "Prabhsimran Singh",
+  "fullName": "Prabhsimran Singh",
+  "profileSummary": "Prabhsimran Singh is an Indian cricketer. He represents Punjab in domestic cricket and Punjab Kings in the Indian Premier League.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prabhsimran_Singh",
+  "dateOfBirth": "2000-08-10",
+  "birthDateParsed": "2000-08-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.566666666",
+  "birthCoordinatesLng": "76.633333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q60048550",
+  "birthPlace": "Patiala",
+  "fetchedAt": "2026-08-06T16:12:15.934Z"
+}

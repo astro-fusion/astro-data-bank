@@ -1,0 +1,31 @@
+{
+  "publicId": "f6fd90b8",
+  "wikipediaSlug": "Cooper_Connolly",
+  "wikipediaId": "Q106560608",
+  "name": "Cooper Connolly",
+  "fullName": "Cooper Connolly",
+  "profileSummary": "Cooper Patrick Leonard Connolly is an Australian International cricketer who represents the Australian national cricket team in all forms of this game. He is a left-handed batter and a slow left-arm orthodox bowler, who plays for Western Australia in domestic cricket, Perth Scorchers in the Big Bash League and Punjab Kings in the Indian Premier League.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cooper_Connolly",
+  "dateOfBirth": "2003-08-22",
+  "birthDateParsed": "2003-08-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q106560608",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T16:12:02.620Z"
+}

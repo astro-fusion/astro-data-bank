@@ -1,0 +1,33 @@
+{
+  "publicId": "84f996b2",
+  "wikipediaSlug": "Annette_Beveridge",
+  "wikipediaId": "Q13057349",
+  "name": "Annette Beveridge",
+  "fullName": "Annette Beveridge",
+  "profileSummary": "Annette Susannah Beveridge  was a British Orientalist known for her translation of the Humayun-nama and the Babur-nama.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Annette_Akroyd_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annette_Beveridge",
+  "dateOfBirth": "1842-12-13",
+  "birthDateParsed": "1842-12-13",
+  "dateOfDeath": "1929-03-29",
+  "deathDateParsed": "1929-03-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.458",
+  "birthCoordinatesLng": "-2.148",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "translator",
+    "orientalist",
+    "teacher"
+  ],
+  "qid": "Q13057349",
+  "birthPlace": "Stourbridge",
+  "fetchedAt": "2026-08-07T11:48:38.833Z"
+}

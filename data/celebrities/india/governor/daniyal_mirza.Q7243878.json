@@ -1,0 +1,31 @@
+{
+  "publicId": "eedae9f7",
+  "wikipediaSlug": "Daniyal_Mirza",
+  "wikipediaId": "Q7243878",
+  "name": "Daniyal Mirza",
+  "fullName": "Daniyal Mirza",
+  "profileSummary": "Daniyal Mirza was a prince of the Mughal Empire who served as the Viceroy of the Deccan. He was the third son of the emperor Akbar and a half-brother of the emperor Jahangir.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Daniyal3.png/330px-Daniyal3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniyal_Mirza",
+  "dateOfBirth": "1572-09-11",
+  "birthDateParsed": "1572-09-11",
+  "dateOfDeath": "1605-03-19",
+  "deathDateParsed": "1605-03-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.468",
+  "birthCoordinatesLng": "74.639",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "governor"
+  ],
+  "qid": "Q7243878",
+  "birthPlace": "Ajmer",
+  "fetchedAt": "2026-08-07T11:48:40.498Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "9b1c3efe",
+  "wikipediaSlug": "Purushottam_Das_Tandon",
+  "wikipediaId": "Q983057",
+  "name": "Purushottam Das Tandon",
+  "fullName": "Purushottam Das Tandon",
+  "profileSummary": "Purushottam Das Tandon was a freedom fighter from Allahabad, Uttar Pradesh, India. He is widely remembered for his opposition to the partition of India, as well as efforts in achieving the Official Language of India status for Hindi. He was customarily given the title Rajarshi. He was popularly known as UP's Gandhi. He was awarded the Bharat Ratna, India's highest civilian award, in 1961.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Purushottam_Das_Tandon_1982_stamp_of_India.jpg/330px-Purushottam_Das_Tandon_1982_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Purushottam_Das_Tandon",
+  "dateOfBirth": "1882-08-01",
+  "birthDateParsed": "1882-08-01",
+  "dateOfDeath": "1962-07-01",
+  "deathDateParsed": "1962-07-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.45",
+  "birthCoordinatesLng": "81.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "freedom fighter"
+  ],
+  "qid": "Q983057",
+  "birthPlace": "Prayagraj",
+  "fetchedAt": "2026-08-07T10:33:19.932Z"
+}

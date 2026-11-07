@@ -1,0 +1,31 @@
+{
+  "publicId": "cef50393",
+  "wikipediaSlug": "Tilak_Varma",
+  "wikipediaId": "Q60286914",
+  "name": "Tilak Varma",
+  "fullName": "Tilak Varma",
+  "profileSummary": "Namboori Thakur Tilak Varma is an Indian international cricketer who plays as a left-handed batsman and part-time off spin bowler. He represents Hyderabad in domestic cricket and Mumbai Indians in the Indian Premier League. He is the current vice-captain of the India men's Twenty20 International (T20I) team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tilak_Varma_in_March_2026.png/330px-Tilak_Varma_in_March_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tilak_Varma",
+  "dateOfBirth": "2002-11-08",
+  "birthDateParsed": "2002-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.361666666",
+  "birthCoordinatesLng": "78.474722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q60286914",
+  "birthPlace": "Hyderabad",
+  "fetchedAt": "2026-08-06T16:12:41.086Z"
+}

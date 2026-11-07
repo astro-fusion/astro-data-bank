@@ -1,0 +1,31 @@
+{
+  "publicId": "dc93685d",
+  "wikipediaSlug": "Dattatreyudu_Nori",
+  "wikipediaId": "Q15705984",
+  "name": "Dattatreyudu Nori",
+  "fullName": "Dattatreyudu Nori",
+  "profileSummary": "Dr. Dattatreyudu Nori is an Indian-American radiation oncologist. He was once named one of the top doctors in America for the treatment of cancers in women by the women's magazine Ladies' Home Journal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_President%2C_Shri_Pranab_Mukherjee_presenting_the_Padma_Shri_Award_to_Dr._Dattatreyudu_Nori%2C_at_a_Civil_Investiture_Ceremony%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_April_08%2C_2015.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dattatreyudu_Nori",
+  "dateOfBirth": "1947-10-21",
+  "birthDateParsed": "1947-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "16.35637",
+  "birthCoordinatesLng": "80.87632",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "oncologist"
+  ],
+  "qid": "Q15705984",
+  "birthPlace": "Mantada",
+  "fetchedAt": "2026-08-06T04:19:20.532Z"
+}

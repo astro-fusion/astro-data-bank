@@ -1,0 +1,32 @@
+{
+  "publicId": "ebadc33b",
+  "wikipediaSlug": "Darshan_Ranganathan",
+  "wikipediaId": "Q7255",
+  "name": "Darshan Ranganathan",
+  "fullName": "Darshan Ranganathan",
+  "profileSummary": "Darshan Ranganathan was an organic chemist from India who was known for her work in bio-organic chemistry, including \"pioneering work in protein folding.\" She was also recognized for her work in \"supramolecular assemblies, molecular design, chemical simulation of key biological processes, synthesis of functional hybrid peptides and synthesis of nanotubes.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bd/Darshan_Ranganathan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Darshan_Ranganathan",
+  "dateOfBirth": "1941-06-04",
+  "birthDateParsed": "1941-06-04",
+  "dateOfDeath": "2001-06-04",
+  "deathDateParsed": "2001-06-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "biochemist"
+  ],
+  "qid": "Q7255",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-06T04:19:06.541Z"
+}

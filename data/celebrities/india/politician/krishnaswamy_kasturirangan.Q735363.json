@@ -1,0 +1,33 @@
+{
+  "publicId": "ec24663e",
+  "wikipediaSlug": "Krishnaswamy_Kasturirangan",
+  "wikipediaId": "Q735363",
+  "name": "Krishnaswamy Kasturirangan",
+  "fullName": "Krishnaswamy Kasturirangan",
+  "profileSummary": "Krishnaswamy Kasturirangan was an Indian space scientist who headed ISRO from 1994 to 2003. Until his death, he was Chancellor of Central University of Rajasthan and NIIT University. He was also chancellor of Jawaharlal Nehru University and the chairman of Karnataka Knowledge Commission. He was a member of the Rajya Sabha (2003–09) and a former member of the Planning Commission of India which was renamed as NITI Aayog in 2015. He was also the director of the National Institute of Advanced Studies, Bangalore, from April 2004 to 2009. He was a recipient of the three major civilian awards from the Government of India: the Padma Shri, the Padma Bhushan and the Padma Vibhushan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/K._Kasturirangan_%28cropped%29.jpg/330px-K._Kasturirangan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Krishnaswamy_Kasturirangan",
+  "dateOfBirth": "1940-10-24",
+  "birthDateParsed": "1940-10-24",
+  "dateOfDeath": "2025-04-25",
+  "deathDateParsed": "2025-04-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.981611111",
+  "birthCoordinatesLng": "76.299888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physicist",
+    "astronomer"
+  ],
+  "qid": "Q735363",
+  "birthPlace": "Ernakulam",
+  "fetchedAt": "2026-08-06T04:19:47.020Z"
+}

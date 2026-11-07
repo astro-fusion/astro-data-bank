@@ -1,0 +1,31 @@
+{
+  "publicId": "6e4e15a2",
+  "wikipediaSlug": "Subbaramiah_Minakshisundaram",
+  "wikipediaId": "Q7630863",
+  "name": "Subbaramiah Minakshisundaram",
+  "fullName": "Subbaramiah Minakshisundaram",
+  "profileSummary": "Subbaramiah Minakshisundaram, also known as Minakshi or SMS, was an Indian mathematician who worked on partial differential equations and heat kernels. In 1946, he worked at the Institute for Advanced Study in Princeton, America, where he met Åke Pleijel. In 1949, the two wrote a paper together called, Some properties of the eigenfunctions of the Laplace-operator on Riemannian manifolds, in which they introduced the Minakshisundaram-Pleijel zeta function.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Subbaramiah_Minakshisundaram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subbaramiah_Minakshisundaram",
+  "dateOfBirth": "1913-10-12",
+  "birthDateParsed": "1913-10-12",
+  "dateOfDeath": "1968-08-13",
+  "deathDateParsed": "1968-08-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.52",
+  "birthCoordinatesLng": "76.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q7630863",
+  "birthPlace": "Thrissur",
+  "fetchedAt": "2026-08-06T07:29:25.046Z"
+}

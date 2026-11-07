@@ -1,0 +1,35 @@
+{
+  "publicId": "717b3f0d",
+  "wikipediaSlug": "A._K._Ramanujan",
+  "wikipediaId": "Q3519662",
+  "name": "A. K. Ramanujan",
+  "fullName": "A. K. Ramanujan",
+  "profileSummary": "Attipate Krishnaswami Ramanujan was an Indian poet and scholar of Indian literature and linguistics. Ramanujan was also a professor of linguistics at University of Chicago.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/A.K.RamanujanPic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._K._Ramanujan",
+  "dateOfBirth": "1929-03-16",
+  "birthDateParsed": "1929-03-16",
+  "dateOfDeath": "1993-07-13",
+  "deathDateParsed": "1993-07-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.308611111",
+  "birthCoordinatesLng": "76.653055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "linguist",
+    "writer",
+    "translator",
+    "poet",
+    "academic staff"
+  ],
+  "qid": "Q3519662",
+  "birthPlace": "Mysore",
+  "fetchedAt": "2026-08-07T01:41:49.737Z"
+}

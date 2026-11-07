@@ -1,0 +1,31 @@
+{
+  "publicId": "6cf2be51",
+  "wikipediaSlug": "James_Pattinson",
+  "wikipediaId": "Q6141051",
+  "name": "James Pattinson",
+  "fullName": "James Pattinson",
+  "profileSummary": "James Lee Pattinson is an Australian cricketer. Pattinson is considered an aggressive fast bowler. After making his Test cricket debut in late 2011, he played Test and limited overs cricket for the Australia national cricket team, although his appearances were limited due to back injuries.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/James_Pattinson_2010.jpg/330px-James_Pattinson_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Pattinson",
+  "dateOfBirth": "1990-05-03",
+  "birthDateParsed": "1990-05-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6141051",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-08T13:53:45.846Z"
+}

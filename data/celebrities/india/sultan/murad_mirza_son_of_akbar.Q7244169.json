@@ -1,0 +1,31 @@
+{
+  "publicId": "3ff55a1c",
+  "wikipediaSlug": "Murad_Mirza_(son_of_Akbar)",
+  "wikipediaId": "Q7244169",
+  "name": "Murad Mirza (son of Akbar)",
+  "fullName": "Murad Mirza (son of Akbar)",
+  "profileSummary": "Murad Mirza was a Mughal prince and the second surviving son of Mughal Emperor Akbar. He was raised by Salima Sultan Begum until the age of 5. He was the maternal grandfather of Nadira Banu Begum, wife of Prince Dara Shikoh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Portrait_of_Mughal_prince_Sultan_Murad_%28cropped%29.jpg/330px-Portrait_of_Mughal_prince_Sultan_Murad_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Murad_Mirza_(son_of_Akbar)",
+  "dateOfBirth": "1570-06-17",
+  "birthDateParsed": "1570-06-17",
+  "dateOfDeath": "1599-05-12",
+  "deathDateParsed": "1599-05-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.091111111",
+  "birthCoordinatesLng": "77.661111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sultan"
+  ],
+  "qid": "Q7244169",
+  "birthPlace": "Fatehpur Sikri",
+  "fetchedAt": "2026-08-07T11:49:23.673Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "9a249232",
+  "wikipediaSlug": "A._P._J._Abdul_Kalam",
+  "wikipediaId": "Q9513",
+  "name": "A. P. J. Abdul Kalam",
+  "fullName": "A. P. J. Abdul Kalam",
+  "profileSummary": "Avul Pakir Jainulabdeen Abdul Kalam was an Indian aerospace engineer and science administrator. He served as president of India from 2002 to 2007.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul_Kalam.jpg/330px-A._P._J._Abdul_Kalam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam",
+  "dateOfBirth": "1931-10-15",
+  "birthDateParsed": "1931-10-15",
+  "dateOfDeath": "2015-07-27",
+  "deathDateParsed": "2015-07-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military flight engineer",
+    "poet",
+    "engineer",
+    "scientist",
+    "teacher",
+    "aerospace engineer"
+  ],
+  "qid": "Q9513",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T04:18:26.398Z"
+}

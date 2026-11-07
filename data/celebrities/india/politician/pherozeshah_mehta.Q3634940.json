@@ -1,0 +1,31 @@
+{
+  "publicId": "158d1361",
+  "wikipediaSlug": "Pherozeshah_Mehta",
+  "wikipediaId": "Q3634940",
+  "name": "Pherozeshah Mehta",
+  "fullName": "Pherozeshah Mehta",
+  "profileSummary": "Sir Pherozeshah Merwanjee Mehta was an Indian politician and lawyer from Bombay. He was knighted by the British Government in India for his service to law. He became the Municipal commissioner of Bombay Municipality in 1873 and its president four times – 1884, 1885, 1905 and 1911. Mehta was one of the founding members and President of the Indian National Congress in 1890 held at Calcutta.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Pherozeshah_Mehta_%28portrait%29.jpg/330px-Pherozeshah_Mehta_%28portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pherozeshah_Mehta",
+  "dateOfBirth": "1845-08-04",
+  "birthDateParsed": "1845-08-04",
+  "dateOfDeath": "1915-11-05",
+  "deathDateParsed": "1915-11-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3634940",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-07T10:33:10.946Z"
+}

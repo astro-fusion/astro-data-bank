@@ -1,0 +1,31 @@
+{
+  "publicId": "6ec59e7e",
+  "wikipediaSlug": "Eoin_Morgan",
+  "wikipediaId": "Q3522251",
+  "name": "Eoin Morgan",
+  "fullName": "Eoin Morgan",
+  "profileSummary": "Eoin Joseph Gerard Morgan is a cricket commentator and former cricketer who played for Ireland and England. He captained the England in limited overs cricket from 2015 until his international retirement in June 2022. He is regarded as one of England's greatest limited-overs captains. Under his captaincy, England won the 2019 ICC Cricket World Cup, their first title in the tournament, and reached the final of the 2016 ICC World Twenty20. Morgan was also a member of the England team that won the 2010 ICC World Twenty20.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Eoin_Morgan_2.jpg/330px-Eoin_Morgan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eoin_Morgan",
+  "dateOfBirth": "1986-09-10",
+  "birthDateParsed": "1986-09-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3522251",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-08-09T16:53:33.888Z"
+}

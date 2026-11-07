@@ -1,0 +1,31 @@
+{
+  "publicId": "84ef3d44",
+  "wikipediaSlug": "Aurangzeb",
+  "wikipediaId": "Q485547",
+  "name": "Aurangzeb",
+  "fullName": "Aurangzeb",
+  "profileSummary": "Alamgir I, commonly known by the title Aurangzeb, was the sixth Mughal emperor, reigning from 1658 until his death in 1707. Under his reign, the Mughal Empire reached its greatest extent, with territory spanning nearly the entirety of the Indian subcontinent.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Aurangzeb-portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aurangzeb",
+  "dateOfBirth": "1618-11-03",
+  "birthDateParsed": "1618-11-03",
+  "dateOfDeath": "1707-03-03",
+  "deathDateParsed": "1707-03-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.52",
+  "birthCoordinatesLng": "74.15",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch"
+  ],
+  "qid": "Q485547",
+  "birthPlace": "Dahod",
+  "fetchedAt": "2026-08-07T11:48:30.576Z"
+}

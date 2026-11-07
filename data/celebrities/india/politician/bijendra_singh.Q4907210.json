@@ -1,5 +1,5 @@
 {
-  "publicId": "9cf09ff9",
+  "publicId": "4a157f94",
   "wikipediaSlug": "Bijendra_Singh",
   "wikipediaId": "Q4907210",
   "name": "Bijendra Singh",
@@ -8,13 +8,18 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bijendra_Singh",
   "dateOfBirth": "1956-12-25",
+  "birthDateParsed": "1956-12-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "27.88",
   "birthCoordinatesLng": "78.08",
-  "moonSign": "6",
-  "sunSign": "9",
-  "lagnaSignText": "12",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4907210",
   "birthPlace": "Aligarh",
-  "fetchedAt": "2026-04-07T16:20:59.605Z"
+  "fetchedAt": "2026-08-07T00:26:13.608Z"
 }

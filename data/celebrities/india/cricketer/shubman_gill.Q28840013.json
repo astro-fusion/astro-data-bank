@@ -1,0 +1,31 @@
+{
+  "publicId": "03ccb7d0",
+  "wikipediaSlug": "Shubman_Gill",
+  "wikipediaId": "Q28840013",
+  "name": "Shubman Gill",
+  "fullName": "Shubman Gill",
+  "profileSummary": "Shubman Gill is an Indian international cricketer who plays for the India national team. Gill captains India in Tests and ODIs, the Gujarat Titans in the Indian Premier League and Punjab when he plays first-class cricket. He has also captained India in T20I. A right-handed batsman, Gill represents Punjab in domestic cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Shubman_Gill_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shubman_Gill",
+  "dateOfBirth": "1999-09-08",
+  "birthDateParsed": "1999-09-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.403",
+  "birthCoordinatesLng": "74.025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q28840013",
+  "birthPlace": "Fazilka",
+  "fetchedAt": "2026-08-06T16:12:44.707Z"
+}

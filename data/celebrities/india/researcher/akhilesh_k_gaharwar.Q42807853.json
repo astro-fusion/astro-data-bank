@@ -1,0 +1,31 @@
+{
+  "publicId": "269eaa13",
+  "wikipediaSlug": "Akhilesh_K._Gaharwar",
+  "wikipediaId": "Q42807853",
+  "name": "Akhilesh K. Gaharwar",
+  "fullName": "Akhilesh K. Gaharwar",
+  "profileSummary": "Akhilesh K. Gaharwar is an Indian academic and a professor in the Department of Biomedical Engineering at Texas A&M University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/AKGaharwar.png/330px-AKGaharwar.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akhilesh_K._Gaharwar",
+  "dateOfBirth": "1982-01-03",
+  "birthDateParsed": "1982-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.149722222",
+  "birthCoordinatesLng": "79.080555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "researcher"
+  ],
+  "qid": "Q42807853",
+  "birthPlace": "Nagpur",
+  "fetchedAt": "2026-08-06T04:18:37.541Z"
+}

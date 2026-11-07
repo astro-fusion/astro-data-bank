@@ -1,0 +1,31 @@
+{
+  "publicId": "986632f0",
+  "wikipediaSlug": "Rahul_Tripathi",
+  "wikipediaId": "Q21623163",
+  "name": "Rahul Tripathi",
+  "fullName": "Rahul Tripathi",
+  "profileSummary": "Rahul Ajay Tripathi is an Indian international cricketer. He represents Maharashtra in domestic cricket and Kolkata Knight Riders in the Indian Premier League.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rahul_Tripathi",
+  "dateOfBirth": "1991-03-02",
+  "birthDateParsed": "1991-03-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.355555555",
+  "birthCoordinatesLng": "85.334722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q21623163",
+  "birthPlace": "Ranchi",
+  "fetchedAt": "2026-08-09T03:16:26.479Z"
+}

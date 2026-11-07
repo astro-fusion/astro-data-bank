@@ -1,20 +1,25 @@
 {
-  "publicId": "7b6da528",
+  "publicId": "7d906141",
   "wikipediaSlug": "Amrinder_Singh_Raja_Warring",
   "wikipediaId": "Q16149643",
   "name": "Amrinder Singh Raja Warring",
   "fullName": "Amrinder Singh Raja Warring",
-  "profileSummary": "Amarinder Singh Brar, also known as Amarinder Singh Raja Warring, or Raja Warring is an Indian politician. He is a Member of Parliament, Lok Sabha and president of Punjab Pradesh Congress Committee.",
+  "profileSummary": "Amarinder Singh Brar also known as Amarinder Singh Raja Warring, or Raja Warring, is an Indian politician and a member of the Indian National Congress. He serves as a Member of Parliament, Lok Sabha representing Ludhiana and as president of the Punjab Pradesh Congress Committee. Having won three consecutive terms as Member of the Legislative Assembly from Gidderbaha between 2012 and 2024, he is widely regarded as one of Congress's most prominent leaders in Punjab. Born in Malwa, he lost both his parents in childhood and was raised by his maternal uncles, before entering politics through the Indian Youth Congress, of which he served as national president from 2014 to 2018.",
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Amrinder_Singh_Raja_Warring.jpg/330px-Amrinder_Singh_Raja_Warring.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Amrinder_Singh_Raja_Warring",
   "dateOfBirth": "1977-11-29",
+  "birthDateParsed": "1977-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
-  "moonSign": "3",
-  "sunSign": "8",
-  "lagnaSignText": "10",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q16149643",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T16:20:11.376Z"
+  "fetchedAt": "2026-08-07T00:25:28.688Z"
 }

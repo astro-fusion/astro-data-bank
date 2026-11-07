@@ -1,0 +1,32 @@
+{
+  "publicId": "3c043519",
+  "wikipediaSlug": "Jana_Krishnamurthi",
+  "wikipediaId": "Q5923131",
+  "name": "Jana Krishnamurthi",
+  "fullName": "Jana Krishnamurthi",
+  "profileSummary": "K. Jana Krishnamurthi was an Indian political leader who rose to be the President of the Bharatiya Janata Party (BJP) in 2001. A former Union Law Minister and a member of the Parliament of India, Krishnamurthi was the second person from Tamil Nadu to head a national party in India after Kamaraj.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jana_Krishnamurthi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jana_Krishnamurthi",
+  "dateOfBirth": "1928-05-24",
+  "birthDateParsed": "1928-05-24",
+  "dateOfDeath": "2007-09-25",
+  "deathDateParsed": "2007-09-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.919661111",
+  "birthCoordinatesLng": "78.119394444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q5923131",
+  "birthPlace": "Madurai",
+  "fetchedAt": "2026-08-08T00:23:30.900Z"
+}

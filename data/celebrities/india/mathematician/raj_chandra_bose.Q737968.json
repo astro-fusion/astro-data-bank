@@ -1,0 +1,33 @@
+{
+  "publicId": "9393ea7a",
+  "wikipediaSlug": "Raj_Chandra_Bose",
+  "wikipediaId": "Q737968",
+  "name": "Raj Chandra Bose",
+  "fullName": "Raj Chandra Bose",
+  "profileSummary": "Raj Chandra Bose (or Basu) (19 June 1901 – 31 October 1987) was an Indian American mathematician and statistician best known for his work in design theory, finite geometry and the theory of error-correcting codes in which the class of BCH codes is partly named after him. He also invented the notions of partial geometry, association scheme, and strongly regular graph and started a systematic study of difference sets to construct symmetric block designs. \nHe was notable for his work along with S. S. Shrikhande and E. T. Parker in their disproof of the famous conjecture made by Leonhard Euler dated 1782 that for no n do there exist two mutually orthogonal Latin squares of order 4n + 2.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Raj_Chandra_Bose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Raj_Chandra_Bose",
+  "dateOfBirth": "1901-06-19",
+  "birthDateParsed": "1901-06-19",
+  "dateOfDeath": "1987-10-31",
+  "deathDateParsed": "1987-10-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.75",
+  "birthCoordinatesLng": "77.72",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "statistician",
+    "university teacher"
+  ],
+  "qid": "Q737968",
+  "birthPlace": "Narmadapuram",
+  "fetchedAt": "2026-08-06T07:28:34.395Z"
+}

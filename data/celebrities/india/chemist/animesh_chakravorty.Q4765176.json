@@ -1,0 +1,31 @@
+{
+  "publicId": "546443c4",
+  "wikipediaSlug": "Animesh_Chakravorty",
+  "wikipediaId": "Q4765176",
+  "name": "Animesh Chakravorty",
+  "fullName": "Animesh Chakravorty",
+  "profileSummary": "Animesh Chakravorty is an Indian inorganic chemist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Chakravorty_Animesh.jpg/330px-Chakravorty_Animesh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Animesh_Chakravorty",
+  "dateOfBirth": "1935-06-30",
+  "birthDateParsed": "1935-06-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist"
+  ],
+  "qid": "Q4765176",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T04:18:12.489Z"
+}

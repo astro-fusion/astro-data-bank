@@ -1,20 +1,25 @@
 {
-  "publicId": "9473e56f",
+  "publicId": "bf91b61a",
   "wikipediaSlug": "Mariam-uz-Zamani",
   "wikipediaId": "Q2724440",
   "name": "Mariam-uz-Zamani",
   "fullName": "Mariam-uz-Zamani",
-  "profileSummary": "Mariam-uz-Zamani, commonly known by the misnomer Jodha Bai, was the chief consort, principal wife and the favourite wife of the third Mughal emperor, Akbar. She was also the longest-serving Hindu empress of the Mughal Empire with a tenure of forty-three years (1562–1605).",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jodhbai.jpg/330px-Jodhbai.jpg",
+  "profileSummary": "Mariam-uz-Zamani was the chief consort and favourite wife of the third Mughal emperor, Akbar, and the mother of his successor, Jahangir. She was the empress consort for forty-three years, making her the longest-serving Hindu empress of the Mughal Empire.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jodhbai.jpg/330px-Jodhbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariam-uz-Zamani",
   "dateOfBirth": "1542-10-11",
+  "birthDateParsed": "1542-10-11",
+  "dateOfDeath": "1623-05-19",
+  "deathDateParsed": "1623-05-19",
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "26.983333333",
   "birthCoordinatesLng": "75.866666666",
-  "moonSign": "3",
-  "sunSign": "6",
-  "lagnaSignText": "9",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q2724440",
   "birthPlace": "Amber",
-  "fetchedAt": "2026-04-07T16:34:24.037Z"
+  "fetchedAt": "2026-08-07T11:49:06.415Z"
 }

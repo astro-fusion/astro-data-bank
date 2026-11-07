@@ -1,0 +1,33 @@
+{
+  "publicId": "bb70484e",
+  "wikipediaSlug": "Guru_Amar_Das",
+  "wikipediaId": "Q454703",
+  "name": "Guru Amar Das",
+  "fullName": "Guru Amar Das",
+  "profileSummary": "Guru Amar Das, sometimes spelled as Guru Amardas, was the third guru of Sikhism and became Sikh Guru on 26 March 1552 at age 73.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/18th_century_painting_of_Guru_Amar_Das.jpg/330px-18th_century_painting_of_Guru_Amar_Das.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+  "dateOfBirth": "1479-05-05",
+  "birthDateParsed": "1479-05-05",
+  "dateOfDeath": "1574-09-01",
+  "deathDateParsed": "1574-09-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.626917",
+  "birthCoordinatesLng": "74.87704",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guru",
+    "religious leader",
+    "writer"
+  ],
+  "qid": "Q454703",
+  "birthPlace": "Amritsar",
+  "fetchedAt": "2026-08-07T01:44:19.121Z"
+}

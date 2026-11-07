@@ -1,0 +1,34 @@
+{
+  "publicId": "2345a3f0",
+  "wikipediaSlug": "Sugata_Bose",
+  "wikipediaId": "Q7635065",
+  "name": "Sugata Bose",
+  "fullName": "Sugata Bose",
+  "profileSummary": "Sugata Bose is an Indian historian and politician who has taught and worked in the United States since the mid-1980s. His fields of study are South Asian and Indian Ocean history. Bose is the Gardiner Chair of Oceanic History and Affairs at Harvard University. He has served as Director of Graduate Studies in History at Harvard and as the Founding Director of Harvard’s South Asia Institute. Before taking up the Gardiner Chair at Harvard in 2001, he was a Fellow of St. Catharine’s College, University of Cambridge, and Professor of History and Diplomacy at Tufts University. Bose is also the director of the Netaji Research Bureau in Kolkata, India, a research center and archives devoted to the life and work of Bose's great uncle, the Indian nationalist, Netaji Subhas Chandra Bose. Bose is the author most recently of His Majesty's Opponent: Subhas Chandra Bose and India's Struggle against Empire (2011) and A Hundred Horizons: The Indian Ocean in the Age of Global Empire (2006).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sugata_Bose_-_Kolkata_2015-05-09_6211.JPG/330px-Sugata_Bose_-_Kolkata_2015-05-09_6211.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sugata_Bose",
+  "dateOfBirth": "1956-09-07",
+  "birthDateParsed": "1956-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "author",
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q7635065",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-07T11:49:34.890Z"
+}

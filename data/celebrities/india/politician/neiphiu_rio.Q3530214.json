@@ -1,20 +1,25 @@
 {
-  "publicId": "509c6c2a",
+  "publicId": "ede1e325",
   "wikipediaSlug": "Neiphiu_Rio",
   "wikipediaId": "Q3530214",
   "name": "Neiphiu Rio",
   "fullName": "Neiphiu Rio",
-  "profileSummary": "Neiphiu Rio is an Indian politician serving as the Chief Minister of Nagaland and leader of the house in state assembly since 2018, previously 2003 to 2014 and from 2018 till date. He is the longest serving Chief Minister of Nagaland. He was also a Member of Parliament from Nagaland in Lok Sabha from 2014 to 2018. He is also currently serving as the president of the Naga People's Front.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/NeiphiuRio.jpg/330px-NeiphiuRio.jpg",
+  "profileSummary": "Neiphiu Rio is an Indian politician serving as the Chief Minister of Nagaland and leader of the house in the Nagaland Legislative Assembly since 2018. Previously serving from 2003 to 2014, he is the longest serving Chief Minister of Nagaland. He was also a Member of Parliament from Nagaland in Lok Sabha from 2014 to 2018. He is also currently serving as the president of the Naga People's Front.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neiphiu_Rio.jpg/330px-Neiphiu_Rio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Neiphiu_Rio",
   "dateOfBirth": "1950-11-11",
+  "birthDateParsed": "1950-11-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "25.666666666",
   "birthCoordinatesLng": "94.119444444",
-  "moonSign": "8",
-  "sunSign": "7",
-  "lagnaSignText": "10",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q3530214",
   "birthPlace": "Kohima",
-  "fetchedAt": "2026-04-07T16:36:51.230Z"
+  "fetchedAt": "2026-08-09T12:07:00.396Z"
 }

@@ -1,5 +1,5 @@
 {
-  "publicId": "9122462c",
+  "publicId": "5c2e5961",
   "wikipediaSlug": "Bidyut_Baran_Mahato",
   "wikipediaId": "Q16897834",
   "name": "Bidyut Baran Mahato",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bidyut_Baran_Mahato.jpg/330px-Bidyut_Baran_Mahato.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bidyut_Baran_Mahato",
   "dateOfBirth": "1963-02-15",
+  "birthDateParsed": "1963-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "22.7",
   "birthCoordinatesLng": "85.92",
-  "moonSign": "7",
-  "sunSign": "11",
-  "lagnaSignText": "2",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q16897834",
   "birthPlace": "Seraikela Kharsawan district",
-  "fetchedAt": "2026-04-07T16:21:14.134Z"
+  "fetchedAt": "2026-08-07T00:26:47.940Z"
 }

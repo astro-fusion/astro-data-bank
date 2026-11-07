@@ -1,0 +1,32 @@
+{
+  "publicId": "5940ba44",
+  "wikipediaSlug": "Alok_Bhargava",
+  "wikipediaId": "Q4734293",
+  "name": "Alok Bhargava",
+  "fullName": "Alok Bhargava",
+  "profileSummary": "Alok Bhargava is an Indian econometrician. He studied mathematics at Delhi University and economics and econometrics at the London School of Economics. He is currently a full professor at the University of Maryland School of Public Policy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bhargava.jpg/330px-Bhargava.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alok_Bhargava",
+  "dateOfBirth": "1954-07-13",
+  "birthDateParsed": "1954-07-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.566666666",
+  "birthCoordinatesLng": "76.616666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professor",
+    "University of Maryland School of Public Policy"
+  ],
+  "qid": "Q4734293",
+  "birthPlace": "Alwar",
+  "fetchedAt": "2026-08-06T07:27:49.601Z"
+}

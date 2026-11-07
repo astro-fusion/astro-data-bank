@@ -1,0 +1,31 @@
+{
+  "publicId": "4d372f3f",
+  "wikipediaSlug": "Marcus_Stoinis",
+  "wikipediaId": "Q6758472",
+  "name": "Marcus Stoinis",
+  "fullName": "Marcus Stoinis",
+  "profileSummary": "Marcus Peter Stoinis is an Australian international cricketer who represents the Australia national cricket team in Twenty20 International cricket. He is a right-handed batting all-rounder who bowls right-arm medium. Domestically, Stoinis captained Melbourne Stars in the 2024–25 Big Bash League and has played Sheffield Shield cricket for Western Australia and Victoria.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2018.01.21.15.22.25-Stoinis_%2839081521620%29.jpg/330px-2018.01.21.15.22.25-Stoinis_%2839081521620%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcus_Stoinis",
+  "dateOfBirth": "1989-08-16",
+  "birthDateParsed": "1989-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.955833333",
+  "birthCoordinatesLng": "115.859722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6758472",
+  "birthPlace": "Perth",
+  "fetchedAt": "2026-08-06T16:12:13.298Z"
+}

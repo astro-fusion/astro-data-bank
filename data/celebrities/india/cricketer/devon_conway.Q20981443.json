@@ -1,0 +1,31 @@
+{
+  "publicId": "f765d974",
+  "wikipediaSlug": "Devon_Conway",
+  "wikipediaId": "Q20981443",
+  "name": "Devon Conway",
+  "fullName": "Devon Conway",
+  "profileSummary": "Devon Philip Conway is a New Zealand cricketer who plays for the New Zealand cricket team in all formats. In March 2020, the International Cricket Council (ICC) confirmed that Conway, who was born in South Africa, would be eligible to play for New Zealand from 28 August 2020. In May 2020, New Zealand Cricket awarded him a central contract, ahead of the 2020–21 season.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Devon_Conway",
+  "dateOfBirth": "1991-07-08",
+  "birthDateParsed": "1991-07-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q20981443",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-08-09T03:15:43.771Z"
+}

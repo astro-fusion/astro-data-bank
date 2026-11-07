@@ -1,0 +1,31 @@
+{
+  "publicId": "77444715",
+  "wikipediaSlug": "Amulya_Barua",
+  "wikipediaId": "Q4748955",
+  "name": "Amulya Barua",
+  "fullName": "Amulya Barua",
+  "profileSummary": "Amulya Barua was a pioneer of modern Assamese poetry. He was born at Jorhat on 30 June 1922.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%E0%A6%85%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF_%E0%A6%AC%E0%A7%B0%E0%A7%81%E0%A7%B1%E0%A6%BE.jpg/330px-%E0%A6%85%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF_%E0%A6%AC%E0%A7%B0%E0%A7%81%E0%A7%B1%E0%A6%BE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amulya_Barua",
+  "dateOfBirth": "1922-06-30",
+  "birthDateParsed": "1922-06-30",
+  "dateOfDeath": "1946-08-18",
+  "deathDateParsed": "1946-08-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.75751",
+  "birthCoordinatesLng": "94.20306",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet"
+  ],
+  "qid": "Q4748955",
+  "birthPlace": "Jorhat",
+  "fetchedAt": "2026-08-07T01:42:05.076Z"
+}

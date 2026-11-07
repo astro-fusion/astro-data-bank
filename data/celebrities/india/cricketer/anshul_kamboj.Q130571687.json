@@ -1,5 +1,5 @@
 {
-  "publicId": "ce6fd28a",
+  "publicId": "625c9019",
   "wikipediaSlug": "Anshul_Kamboj",
   "wikipediaId": "Q130571687",
   "name": "Anshul Kamboj",
@@ -8,6 +8,9 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Anshul_Kamboj",
   "dateOfBirth": "1994-12-06",
+  "birthDateParsed": "1994-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.6139",
   "birthCoordinatesLng": "77.209",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q130571687",
   "birthPlace": null,
-  "fetchedAt": "2026-04-07T10:50:56.595Z"
+  "fetchedAt": "2026-08-09T03:15:22.285Z"
 }

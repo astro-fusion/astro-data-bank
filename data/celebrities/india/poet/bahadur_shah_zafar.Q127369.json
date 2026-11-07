@@ -1,0 +1,33 @@
+{
+  "publicId": "fb4d7610",
+  "wikipediaSlug": "Bahadur_Shah_Zafar",
+  "wikipediaId": "Q127369",
+  "name": "Bahadur Shah Zafar",
+  "fullName": "Bahadur Shah Zafar",
+  "profileSummary": "Bahadur Shah II, also known by his poetic title Bahadur Shah Zafar, was the twentieth and last Mughal emperor and an Urdu poet. He was a titular emperor with his authority limited to the Walled City of Delhi, but was declared the Emperor of India by the forces opposing East India Company forces in parts of the Indian subcontinent during the Indian Rebellion of 1857. Zafar was exiled to Rangoon in British-controlled Burma in December 1857 by the East India Company after rebel defeat in the war, putting an end to the nearly 500-year long Timurid dynasty started by Timur.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bahadur_Shah_II_of_India.jpg/330px-Bahadur_Shah_II_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar",
+  "dateOfBirth": "1775-10-24",
+  "birthDateParsed": "1775-10-24",
+  "dateOfDeath": "1862-11-07",
+  "deathDateParsed": "1862-11-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.666666666",
+  "birthCoordinatesLng": "77.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "monarch",
+    "writer"
+  ],
+  "qid": "Q127369",
+  "birthPlace": "Delhi",
+  "fetchedAt": "2026-08-07T11:48:26.418Z"
+}

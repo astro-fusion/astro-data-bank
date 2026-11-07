@@ -1,0 +1,33 @@
+{
+  "publicId": "6c78ecdc",
+  "wikipediaSlug": "John_Colville,_1st_Baron_Clydesmuir",
+  "wikipediaId": "Q6226788",
+  "name": "John Colville, 1st Baron Clydesmuir",
+  "fullName": "John Colville, 1st Baron Clydesmuir",
+  "profileSummary": "David John Colville, 1st Baron Clydesmuir,, was a Scottish Unionist politician, colonial administrator, and industrialist. He was director of his family's steel and iron business, David Colville & Sons as well as the final Governor of Bombay.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/John_Colville_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Colville%2C_1st_Baron_Clydesmuir",
+  "dateOfBirth": "1894-02-13",
+  "birthDateParsed": "1894-02-13",
+  "dateOfDeath": "1954-10-31",
+  "deathDateParsed": "1954-10-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.8023",
+  "birthCoordinatesLng": "-3.91427",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "politician",
+    "entrepreneur"
+  ],
+  "qid": "Q6226788",
+  "birthPlace": "Cleland",
+  "fetchedAt": "2026-08-09T12:06:47.379Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "295ee143",
+  "wikipediaSlug": "Alamgir_II",
+  "wikipediaId": "Q732026",
+  "name": "Alamgir II",
+  "fullName": "Alamgir II",
+  "profileSummary": "Mirza Aziz-ud-Din Muhammad, better known by his regnal name Alamgir II, was the fifteenth Mughal emperor from 1754 to 1759. He was the son of Jahandar Shah.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Alamgir_II_of_India.jpg/330px-Alamgir_II_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alamgir_II",
+  "dateOfBirth": "1699-06-16",
+  "birthDateParsed": "1699-06-16",
+  "dateOfDeath": "1759-11-29",
+  "deathDateParsed": "1759-11-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.197777777",
+  "birthCoordinatesLng": "71.471111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch"
+  ],
+  "qid": "Q732026",
+  "birthPlace": "Multan",
+  "fetchedAt": "2026-08-07T11:48:29.741Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "78789f2b",
+  "wikipediaSlug": "Heinrich_Klaasen",
+  "wikipediaId": "Q20981646",
+  "name": "Heinrich Klaasen",
+  "fullName": "Heinrich Klaasen",
+  "profileSummary": "Heinrich Klaasen is a South African cricketer who played for the South Africa national cricket team between 2018 and 2025. He also briefly captained South Africa in T20I matches. He is considered one of the most destructive players in limited overs cricket in the modern era and is renowned for his adept power-hitting capabilities.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinrich_Klaasen",
+  "dateOfBirth": "1991-07-30",
+  "birthDateParsed": "1991-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-25.746388888",
+  "birthCoordinatesLng": "28.188055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q20981646",
+  "birthPlace": "Pretoria",
+  "fetchedAt": "2026-08-06T16:11:50.399Z"
+}

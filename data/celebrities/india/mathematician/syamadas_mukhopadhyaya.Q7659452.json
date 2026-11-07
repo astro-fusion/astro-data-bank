@@ -1,0 +1,31 @@
+{
+  "publicId": "89b77312",
+  "wikipediaSlug": "Syamadas_Mukhopadhyaya",
+  "wikipediaId": "Q7659452",
+  "name": "Syamadas Mukhopadhyaya",
+  "fullName": "Syamadas Mukhopadhyaya",
+  "profileSummary": "Syamadas Mukhopadhyaya was an Indian mathematician who introduced the four-vertex theorem and Mukhopadhyaya's theorem in plane geometry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Syamadas_Mukhopadhyaya.jpg/330px-Syamadas_Mukhopadhyaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Syamadas_Mukhopadhyaya",
+  "dateOfBirth": "1866-06-22",
+  "birthDateParsed": "1866-06-22",
+  "dateOfDeath": "1937-05-08",
+  "deathDateParsed": "1937-05-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q7659452",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T07:29:38.921Z"
+}

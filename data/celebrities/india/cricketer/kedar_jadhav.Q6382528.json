@@ -1,5 +1,5 @@
 {
-  "publicId": "7be92cda",
+  "publicId": "282e74f3",
   "wikipediaSlug": "Kedar_Jadhav",
   "wikipediaId": "Q6382528",
   "name": "Kedar Jadhav",
@@ -8,6 +8,9 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Kedar_Jadhav",
   "dateOfBirth": "1985-03-26",
+  "birthDateParsed": "1985-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "18.521111111",
   "birthCoordinatesLng": "73.855277777",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q6382528",
   "birthPlace": "Pune",
-  "fetchedAt": "2026-04-07T10:58:07.960Z"
+  "fetchedAt": "2026-08-09T03:15:24.278Z"
 }

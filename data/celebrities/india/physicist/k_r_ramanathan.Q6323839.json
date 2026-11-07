@@ -1,0 +1,32 @@
+{
+  "publicId": "617a880c",
+  "wikipediaSlug": "K._R._Ramanathan",
+  "wikipediaId": "Q6323839",
+  "name": "K. R. Ramanathan",
+  "fullName": "K. R. Ramanathan",
+  "profileSummary": "Kalpathi Ramakrishna Ramanathan was an Indian physicist and meteorologist. He was the first director of the Physical Research Laboratory, Ahmedabad. From 1954 to 1957, Ramanathan was President of the International Union of Geodesy and Geophysics (IUGG). Ramanathan was awarded the Padma Bhushan in 1965 and the Padma Vibhushan in 1976.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/K_R_Ramanathan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K._R._Ramanathan",
+  "dateOfBirth": "1893-02-28",
+  "birthDateParsed": "1893-02-28",
+  "dateOfDeath": "1984-12-31",
+  "deathDateParsed": "1984-12-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "meteorologist"
+  ],
+  "qid": "Q6323839",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T04:19:51.503Z"
+}

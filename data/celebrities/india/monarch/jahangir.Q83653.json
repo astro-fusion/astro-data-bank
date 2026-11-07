@@ -1,13 +1,16 @@
 {
-  "publicId": "73a690f6",
+  "publicId": "df6fe5bf",
   "wikipediaSlug": "Jahangir",
   "wikipediaId": "Q83653",
   "name": "Jahangir",
   "fullName": "Jahangir",
-  "profileSummary": "Nur ud-din Muhammad Salim, known by his royal name Jahangir, was the fourth emperor of the Mughal Empire, reigning from 1605 until his death in 1627.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jahangircrop.jpeg/330px-Jahangircrop.jpeg",
+  "profileSummary": "Nur ud-din Muhammad Salim, known by his royal name Jahangir, was the fourth Mughal emperor of the Mughal Empire, reigning from 1605 until his death in 1627.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jahangircrop.jpeg/330px-Jahangircrop.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Jahangir",
-  "dateOfBirth": "1569-09-09",
+  "dateOfBirth": "1569-09-10",
+  "birthDateParsed": "1569-09-10",
+  "dateOfDeath": "1627-10-28",
+  "deathDateParsed": "1627-10-28",
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "27.091111111",
   "birthCoordinatesLng": "77.661111111",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q83653",
   "birthPlace": "Fatehpur Sikri",
-  "fetchedAt": "2026-04-07T11:29:34.759Z"
+  "fetchedAt": "2026-08-07T11:48:55.541Z"
 }

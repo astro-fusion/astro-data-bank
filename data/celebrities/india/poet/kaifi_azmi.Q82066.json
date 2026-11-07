@@ -1,0 +1,33 @@
+{
+  "publicId": "5f108423",
+  "wikipediaSlug": "Kaifi_Azmi",
+  "wikipediaId": "Q82066",
+  "name": "Kaifi Azmi",
+  "fullName": "Kaifi Azmi",
+  "profileSummary": "Kaifi Azmi was an Indian Urdu poet. He is remembered as the one who brought Urdu literature to Indian motion pictures. Together with Pirzada Qasim, Jaun Elia and others he participated in many memorable Mushaira gatherings of the twentieth century. He was also a communist who wanted to see India one day become a socialist state. His wife was theatre and film actress Shaukat Kaifi.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kaifi_Azmi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaifi_Azmi",
+  "dateOfBirth": "1919-01-14",
+  "birthDateParsed": "1919-01-14",
+  "dateOfDeath": "2002-05-10",
+  "deathDateParsed": "2002-05-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.06",
+  "birthCoordinatesLng": "83.19",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "songwriter",
+    "lyricist"
+  ],
+  "qid": "Q82066",
+  "birthPlace": "Azamgarh",
+  "fetchedAt": "2026-08-07T01:44:34.990Z"
+}

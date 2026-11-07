@@ -1,0 +1,31 @@
+{
+  "publicId": "ef642216",
+  "wikipediaSlug": "Mohammad_Ashraful",
+  "wikipediaId": "Q3345586",
+  "name": "Mohammad Ashraful",
+  "fullName": "Mohammad Ashraful",
+  "profileSummary": "Mohammad Ashraful is a Bangladeshi cricketer, who has represented the Bangladesh men's national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%86%E0%A6%B6%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A7%81%E0%A6%B2.jpg/330px-%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%86%E0%A6%B6%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A7%81%E0%A6%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Ashraful",
+  "dateOfBirth": "1984-07-07",
+  "birthDateParsed": "1984-07-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.728888888",
+  "birthCoordinatesLng": "90.394444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3345586",
+  "birthPlace": "Dhaka",
+  "fetchedAt": "2026-08-08T13:54:10.841Z"
+}

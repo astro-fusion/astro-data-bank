@@ -1,0 +1,31 @@
+{
+  "publicId": "d74e7835",
+  "wikipediaSlug": "Ryan_Rickelton",
+  "wikipediaId": "Q26837948",
+  "name": "Ryan Rickelton",
+  "fullName": "Ryan Rickelton",
+  "profileSummary": "Ryan David Rickelton is a South African international cricketer. He made his international debut for the South Africa cricket team on 31 March 2022. A left handed wicket-keeper batter, Rickelton represents Gauteng, and MI Cape Town at the domestic level. Rickelton was a member of the South African team which won the 2025 ICC World Test Championship final, the second ICC title the country has won to date.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2_40_Ryan_Rickleton.jpg/330px-2_40_Ryan_Rickleton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Rickelton",
+  "dateOfBirth": "1996-07-11",
+  "birthDateParsed": "1996-07-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.955833333",
+  "birthCoordinatesLng": "115.859722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q26837948",
+  "birthPlace": "Perth",
+  "fetchedAt": "2026-08-06T16:12:43.006Z"
+}

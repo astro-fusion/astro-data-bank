@@ -1,0 +1,31 @@
+{
+  "publicId": "36727e56",
+  "wikipediaSlug": "C._M._Stephen",
+  "wikipediaId": "Q5006698",
+  "name": "C. M. Stephen",
+  "fullName": "C. M. Stephen",
+  "profileSummary": "Chembakassery Mathai Stephen was an Indian politician who served as the Union Minister of Communications of India from 1980 to 1982 in the Republic of India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Stephen-Shri-C.M-14125.webp/330px-Stephen-Shri-C.M-14125.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C._M._Stephen",
+  "dateOfBirth": "1918-12-23",
+  "birthDateParsed": "1918-12-23",
+  "dateOfDeath": "1984-01-16",
+  "deathDateParsed": "1984-01-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.267",
+  "birthCoordinatesLng": "76.55",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5006698",
+  "birthPlace": "Mavelikkara",
+  "fetchedAt": "2026-08-07T10:32:38.284Z"
+}

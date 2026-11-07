@@ -1,0 +1,33 @@
+{
+  "publicId": "36140dbe",
+  "wikipediaSlug": "K._R._Parthasarathy_(probabilist)",
+  "wikipediaId": "Q6323832",
+  "name": "K. R. Parthasarathy (probabilist)",
+  "fullName": "K. R. Parthasarathy (probabilist)",
+  "profileSummary": "Kalyanapuram Rangachari Parthasarathy was an Indian statistician who was professor emeritus at the Indian Statistical Institute and a pioneer of quantum stochastic calculus. Parthasarathy was the recipient of the Shanti Swarup Bhatnagar Prize for Science and Technology in Mathematical Science in 1977 and the TWAS Prize in 1996.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/K._R._Parthasarathy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K._R._Parthasarathy_(probabilist)",
+  "dateOfBirth": "1936-06-25",
+  "birthDateParsed": "1936-06-25",
+  "dateOfDeath": "2023-06-14",
+  "deathDateParsed": "2023-06-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.0825",
+  "birthCoordinatesLng": "80.275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "statistician",
+    "university teacher"
+  ],
+  "qid": "Q6323832",
+  "birthPlace": "Chennai",
+  "fetchedAt": "2026-08-06T07:27:51.608Z"
+}

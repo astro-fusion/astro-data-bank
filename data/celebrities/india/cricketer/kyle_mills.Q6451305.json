@@ -1,0 +1,31 @@
+{
+  "publicId": "9e848f11",
+  "wikipediaSlug": "Kyle_Mills",
+  "wikipediaId": "Q6451305",
+  "name": "Kyle Mills",
+  "fullName": "Kyle Mills",
+  "profileSummary": "Kyle David Mills is a New Zealand cricket coach and former international cricketer who is the former bowling coach of the Kolkata Knight Riders. He was also a former captain of the New Zealand cricket team in limited-overs matches. Mills played top-class cricket between 1998 and 2015 as a bowler. He featured in three World Cup tournaments for New Zealand in 2003, 2011 and 2015. He was a member of New Zealand's first ever T20I team. He also topped the ICC ODI bowling rankings in 2009 and also occupied in the top ten bowling rankings among bowlers in ODI cricket for a considerable period of time. He was also a part of the New Zealand squad to finish as runners-up at the 2015 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kyle_Mills.JPG/330px-Kyle_Mills.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyle_Mills",
+  "dateOfBirth": "1979-03-15",
+  "birthDateParsed": "1979-03-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6451305",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-08-08T13:53:57.459Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "7d8226c6",
+  "wikipediaSlug": "K._Sivan",
+  "wikipediaId": "Q20820990",
+  "name": "K. Sivan",
+  "fullName": "K. Sivan",
+  "profileSummary": "Kailasavadivu Sivan is an Indian aerospace engineer who served as the secretary of the Department of Space and chairman of ISRO and Space Commission. He has previously served as the director of the Vikram Sarabhai Space Center and the Liquid Propulsion Systems Centre.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/K._Sivan.jpg/330px-K._Sivan.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K._Sivan",
+  "dateOfBirth": "1957-04-14",
+  "birthDateParsed": "1957-04-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "8.1875",
+  "birthCoordinatesLng": "77.429444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "scientist",
+    "aerospace engineer"
+  ],
+  "qid": "Q20820990",
+  "birthPlace": "Nagercoil",
+  "fetchedAt": "2026-08-06T04:20:02.216Z"
+}

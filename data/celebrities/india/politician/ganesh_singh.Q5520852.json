@@ -1,0 +1,31 @@
+{
+  "publicId": "9260403f",
+  "wikipediaSlug": "Ganesh_Singh",
+  "wikipediaId": "Q5520852",
+  "name": "Ganesh Singh",
+  "fullName": "Ganesh Singh",
+  "profileSummary": "Ganesh Singh is an Indian politician belonging to BJP and a member of parliament from Satna, Madhya Pradesh. He is elected 5 times in a row from this constituency.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganesh_Singh",
+  "dateOfBirth": "1962-07-02",
+  "birthDateParsed": "1962-07-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.598351185",
+  "birthCoordinatesLng": "80.828125281",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5520852",
+  "birthPlace": "Satna",
+  "fetchedAt": "2026-08-07T00:28:00.505Z"
+}

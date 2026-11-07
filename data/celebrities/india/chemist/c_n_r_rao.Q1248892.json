@@ -1,0 +1,34 @@
+{
+  "publicId": "0acbf973",
+  "wikipediaSlug": "C._N._R._Rao",
+  "wikipediaId": "Q1248892",
+  "name": "C. N. R. Rao",
+  "fullName": "C. N. R. Rao",
+  "profileSummary": "Chintamani Nagesa Ramachandra Rao is an Indian chemist who has worked mainly in solid-state and structural chemistry. He has honorary doctorates from 86 universities from around the world and has authored around 1,800 research publications and 58 books. He is described as a scientist who had won all possible awards in his field except the Nobel Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Chintamani_Nagesa_Ramachandra_Rao_03650.JPG/330px-Chintamani_Nagesa_Ramachandra_Rao_03650.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C._N._R._Rao",
+  "dateOfBirth": "1934-06-30",
+  "birthDateParsed": "1934-06-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.9791198",
+  "birthCoordinatesLng": "77.5912997",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "physicist",
+    "researcher",
+    "university teacher"
+  ],
+  "qid": "Q1248892",
+  "birthPlace": "Bengaluru",
+  "fetchedAt": "2026-08-06T04:18:52.485Z"
+}

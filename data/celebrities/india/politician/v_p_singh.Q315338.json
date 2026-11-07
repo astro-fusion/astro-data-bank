@@ -1,0 +1,31 @@
+{
+  "publicId": "fec9e3dc",
+  "wikipediaSlug": "V._P._Singh",
+  "wikipediaId": "Q315338",
+  "name": "V. P. Singh",
+  "fullName": "V. P. Singh",
+  "profileSummary": "Vishwanath Pratap Singh was an Indian politician who served as the Prime Minister of India from 1989 to 1990 and the Raja Bahadur of Manda.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Visit_of_Vishwanath_Pratap_Singh%2C_Indian_Minister_for_Trade%2C_to_the_CEC_%28cropped%29.jpg/330px-Visit_of_Vishwanath_Pratap_Singh%2C_Indian_Minister_for_Trade%2C_to_the_CEC_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/V._P._Singh",
+  "dateOfBirth": "1931-06-25",
+  "birthDateParsed": "1931-06-25",
+  "dateOfDeath": "2008-11-27",
+  "deathDateParsed": "2008-11-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.45",
+  "birthCoordinatesLng": "81.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q315338",
+  "birthPlace": "Prayagraj",
+  "fetchedAt": "2026-08-08T15:25:42.635Z"
+}

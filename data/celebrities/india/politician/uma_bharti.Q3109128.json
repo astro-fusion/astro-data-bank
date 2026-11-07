@@ -1,0 +1,31 @@
+{
+  "publicId": "38b50aa6",
+  "wikipediaSlug": "Uma_Bharti",
+  "wikipediaId": "Q3109128",
+  "name": "Uma Bharti",
+  "fullName": "Uma Bharti",
+  "profileSummary": "Uma Bharti is an Indian politician and former Chief Minister of Madhya Pradesh. She became involved with the Bharatiya Janata Party at a young age, unsuccessfully contesting her first parliamentary elections in 1984. In 1989, she successfully contested the Khajuraho seat, and retained it in elections conducted in 1991, 1996 and 1998. In 1999, she switched constituencies and won the Bhopal seat.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Uma_Bharati_in_2014.jpg/330px-Uma_Bharati_in_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Uma_Bharti",
+  "dateOfBirth": "1959-05-03",
+  "birthDateParsed": "1959-05-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.973423055",
+  "birthCoordinatesLng": "78.656893888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3109128",
+  "birthPlace": "Madhya Pradesh",
+  "fetchedAt": "2026-08-08T00:24:38.445Z"
+}

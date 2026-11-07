@@ -1,0 +1,31 @@
+{
+  "publicId": "3d1de658",
+  "wikipediaSlug": "U._S._R._Murty",
+  "wikipediaId": "Q7863537",
+  "name": "U. S. R. Murty",
+  "fullName": "U. S. R. Murty",
+  "profileSummary": "Uppaluri Siva Ramachandra Murty, was a professor of the Department of Combinatorics and Optimization at the University of Waterloo in Ontario, Canada.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/USRMurty-UNICAMP-1996.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/U._S._R._Murty",
+  "dateOfBirth": "1940-12-23",
+  "birthDateParsed": "1940-12-23",
+  "dateOfDeath": "2025-05-13",
+  "deathDateParsed": "2025-05-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q7863537",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T07:29:27.071Z"
+}

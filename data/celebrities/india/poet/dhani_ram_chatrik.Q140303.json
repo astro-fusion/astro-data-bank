@@ -1,0 +1,33 @@
+{
+  "publicId": "09966340",
+  "wikipediaSlug": "Dhani_Ram_Chatrik",
+  "wikipediaId": "Q140303",
+  "name": "Dhani Ram Chatrik",
+  "fullName": "Dhani Ram Chatrik",
+  "profileSummary": "Dhani Ram Chatrik was an Indian poet and typographer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dhani_Ram_Chatrik.jpg/330px-Dhani_Ram_Chatrik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dhani_Ram_Chatrik",
+  "dateOfBirth": "1876-10-04",
+  "birthDateParsed": "1876-10-04",
+  "dateOfDeath": "1954-12-18",
+  "deathDateParsed": "1954-12-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.708333333",
+  "birthCoordinatesLng": "74",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "typographer"
+  ],
+  "qid": "Q140303",
+  "birthPlace": "Sheikhupura",
+  "fetchedAt": "2026-08-07T01:43:20.708Z"
+}

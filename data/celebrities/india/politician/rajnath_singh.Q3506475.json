@@ -1,0 +1,32 @@
+{
+  "publicId": "5cf04a4b",
+  "wikipediaSlug": "Rajnath_Singh",
+  "wikipediaId": "Q3506475",
+  "name": "Rajnath Singh",
+  "fullName": "Rajnath Singh",
+  "profileSummary": "Rajnath Singh is an Indian politician and lecturer who is serving as the 29th Minister of Defence since 2019 and as the Deputy Leader of the House, Lok Sabha since 2014. He is a Member of Parliament from Lucknow since 2014. He previously served as the 25th Union Minister of Home Affairs in the first Modi ministry from 2014 to 2019, making him the first person born after Indian independence to hold the office. He was President of the Bharatiya Janata Party from 2005 to 2009 and again from 2013 to 2014. Singh is a veteran leader of the BJP who started his career as a swayamsevak of the Rashtriya Swayamsevak Sangh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Shri_Rajnath_Singh%2C_in_New_Delhi_on_May_09%2C_2023_%28cropped%29.jpg/330px-Shri_Rajnath_Singh%2C_in_New_Delhi_on_May_09%2C_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajnath_Singh",
+  "dateOfBirth": "1951-07-10",
+  "birthDateParsed": "1951-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.261344444",
+  "birthCoordinatesLng": "83.264080555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physicist"
+  ],
+  "qid": "Q3506475",
+  "birthPlace": "Chandauli district",
+  "fetchedAt": "2026-08-08T15:25:45.397Z"
+}

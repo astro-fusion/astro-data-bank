@@ -1,0 +1,32 @@
+{
+  "publicId": "05de1537",
+  "wikipediaSlug": "Dirk_Nannes",
+  "wikipediaId": "Q5280852",
+  "name": "Dirk Nannes",
+  "fullName": "Dirk Nannes",
+  "profileSummary": "Dirk Peter Nannes is an Australian-Dutch cricket commentator and former cricketer who has played internationally for both Australia and the Netherlands, one of the few players to represent multiple international teams.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dirk_nannes.jpg/330px-Dirk_nannes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dirk_Nannes",
+  "dateOfBirth": "1986-05-16",
+  "birthDateParsed": "1986-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.877",
+  "birthCoordinatesLng": "145.131",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "freestyle skier"
+  ],
+  "qid": "Q5280852",
+  "birthPlace": "Mount Waverley",
+  "fetchedAt": "2026-08-09T03:15:35.458Z"
+}

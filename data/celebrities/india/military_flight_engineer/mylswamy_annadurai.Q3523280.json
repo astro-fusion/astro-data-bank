@@ -1,0 +1,32 @@
+{
+  "publicId": "05e65336",
+  "wikipediaSlug": "Mylswamy_Annadurai",
+  "wikipediaId": "Q3523280",
+  "name": "Mylswamy Annadurai",
+  "fullName": "Mylswamy Annadurai",
+  "profileSummary": "Mylswamy Annadurai is a prominent Indian scientist serving as vice president for as Tamil Nadu State Council for Science and Technology, Chairman, Board of Governors, National Design and Research Forum. He is often dubbed the \"Moon Man of India\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mylswamy_Annadurai.jpg/330px-Mylswamy_Annadurai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mylswamy_Annadurai",
+  "dateOfBirth": "1958-07-02",
+  "birthDateParsed": "1958-07-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.8065866",
+  "birthCoordinatesLng": "77.050327",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "engineer"
+  ],
+  "qid": "Q3523280",
+  "birthPlace": "Kothavadi",
+  "fetchedAt": "2026-08-06T04:20:36.429Z"
+}

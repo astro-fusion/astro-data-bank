@@ -1,0 +1,31 @@
+{
+  "publicId": "98d115c4",
+  "wikipediaSlug": "Scott_Styris",
+  "wikipediaId": "Q7437332",
+  "name": "Scott Styris",
+  "fullName": "Scott Styris",
+  "profileSummary": "Scott Bernardo Styris is a New Zealand cricket commentator and former cricketer, who played all formats of the game. An allrounder, Styris played as an aggressive right-handed middle order batsman and a right-arm medium pace bowler. Styris was a member of the New Zealand team that won the 2000 ICC KnockOut Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Scott_Styris_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_Styris",
+  "dateOfBirth": "1975-07-10",
+  "birthDateParsed": "1975-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.467777777",
+  "birthCoordinatesLng": "153.027777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q7437332",
+  "birthPlace": "Brisbane",
+  "fetchedAt": "2026-08-09T03:16:37.233Z"
+}

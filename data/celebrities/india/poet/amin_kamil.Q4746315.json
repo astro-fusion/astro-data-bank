@@ -1,0 +1,32 @@
+{
+  "publicId": "92d93ace",
+  "wikipediaSlug": "Amin_Kamil",
+  "wikipediaId": "Q4746315",
+  "name": "Amin Kamil",
+  "fullName": "Amin Kamil",
+  "profileSummary": "Amin Kamil was a Kashmiri poet, literary critic, researcher and editor. He is also known for his short stories, a genre of which he was one of the pioneers in Kashmiri. He remains one of the most popular and influential masters of the Kashmiri language, leaving behind a legacy of literary brilliance.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mohammad_amin_kamil.jpg/330px-Mohammad_amin_kamil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amin_Kamil",
+  "dateOfBirth": "1924-08-03",
+  "birthDateParsed": "1924-08-03",
+  "dateOfDeath": "2014-10-30",
+  "deathDateParsed": "2014-10-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.663888888",
+  "birthCoordinatesLng": "74.896111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q4746315",
+  "birthPlace": "Kaprin",
+  "fetchedAt": "2026-08-07T01:41:52.254Z"
+}

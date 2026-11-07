@@ -1,5 +1,5 @@
 {
-  "publicId": "79594f21",
+  "publicId": "90fb79e6",
   "wikipediaSlug": "Ananta_Nayak",
   "wikipediaId": "Q4751440",
   "name": "Ananta Nayak",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ananta_Nayak_MP_2024.jpg",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ananta_Nayak",
   "dateOfBirth": "1969-05-01",
+  "birthDateParsed": "1969-05-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "21.633333333",
   "birthCoordinatesLng": "85.583333333",
-  "moonSign": "7",
-  "sunSign": "1",
-  "lagnaSignText": "4",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4751440",
   "birthPlace": "Kendujhar",
-  "fetchedAt": "2026-04-07T16:19:42.963Z"
+  "fetchedAt": "2026-08-07T00:25:06.522Z"
 }

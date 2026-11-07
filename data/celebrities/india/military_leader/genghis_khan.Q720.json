@@ -1,0 +1,33 @@
+{
+  "publicId": "72bc6975",
+  "wikipediaSlug": "Genghis_Khan",
+  "wikipediaId": "Q720",
+  "name": "Genghis Khan",
+  "fullName": "Genghis Khan",
+  "profileSummary": "Genghis Khan, also known as Chinggis Khan, was the founder and first khan of the Mongol Empire. After spending most of his life uniting the Mongol tribes, he launched a series of military campaigns, conquering large parts of China and Central Asia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/330px-YuanEmperorAlbumGenghisPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Genghis_Khan",
+  "dateOfBirth": "1162-06-07",
+  "birthDateParsed": "1162-06-07",
+  "dateOfDeath": "1227-09-01",
+  "deathDateParsed": "1227-09-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.021806",
+  "birthCoordinatesLng": "111.624667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military leader",
+    "traditional leader or chief",
+    "monarch"
+  ],
+  "qid": "Q720",
+  "birthPlace": "Delüün Boldog",
+  "fetchedAt": "2026-08-07T11:48:57.266Z"
+}

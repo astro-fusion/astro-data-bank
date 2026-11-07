@@ -1,0 +1,34 @@
+{
+  "publicId": "382f8cec",
+  "wikipediaSlug": "Bairam_Khan",
+  "wikipediaId": "Q455424",
+  "name": "Bairam Khan",
+  "fullName": "Bairam Khan",
+  "profileSummary": "Muhammad Bairam Khan, commonly known as Bairam Khan or Bayram Khan was an important military commander, and later commander-in-chief of the Mughal army, a powerful statesman and regent at the court of the Mughal Emperors Humayun and Akbar. He was also the guardian, chief mentor, adviser, teacher and the most trusted ally of Akbar. Akbar honoured him as Khan-i-Khanan, which means \"King of Kings\". Bairam was originally called Bairam \"Beg\", but later became honoured as Khan. Bairam Khan was an aggressive general who was determined to restore Mughal authority in India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bairam_Khan_at_the_1557_Siege_of_Mankot.jpg/330px-Bairam_Khan_at_the_1557_Siege_of_Mankot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bairam_Khan",
+  "dateOfBirth": "1501-01-28",
+  "birthDateParsed": "1501-01-28",
+  "dateOfDeath": "1561-02-10",
+  "deathDateParsed": "1561-02-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.968043",
+  "birthCoordinatesLng": "71.830125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "statesperson",
+    "military personnel",
+    "poet",
+    "soldier"
+  ],
+  "qid": "Q455424",
+  "birthPlace": "Badakhshan",
+  "fetchedAt": "2026-08-07T11:48:27.604Z"
+}

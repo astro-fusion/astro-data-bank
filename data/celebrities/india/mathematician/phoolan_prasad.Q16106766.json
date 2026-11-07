@@ -1,0 +1,31 @@
+{
+  "publicId": "68b547c7",
+  "wikipediaSlug": "Phoolan_Prasad",
+  "wikipediaId": "Q16106766",
+  "name": "Phoolan Prasad",
+  "fullName": "Phoolan Prasad",
+  "profileSummary": "Phoolan Prasad is an Indian mathematician who specialised in Partial differential equations, fluid mechanics. He was awarded in 1983 the Shanti Swarup Bhatnagar Prize for Science and Technology, the highest science award in India, in the mathematical sciences category. He is Fellow of all Indian Science Academies: The National Academy of Sciences, India (NASI), Indian Academy of Sciences (IAS) and Indian National Science Academy (INSA).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PhoolanPrasadImage.jpg/330px-PhoolanPrasadImage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Phoolan_Prasad",
+  "dateOfBirth": "1944-01-01",
+  "birthDateParsed": "1944-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician"
+  ],
+  "qid": "Q16106766",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T07:29:13.042Z"
+}

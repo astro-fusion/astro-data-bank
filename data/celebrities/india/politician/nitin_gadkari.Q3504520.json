@@ -1,0 +1,31 @@
+{
+  "publicId": "eac4f71a",
+  "wikipediaSlug": "Nitin_Gadkari",
+  "wikipediaId": "Q3504520",
+  "name": "Nitin Gadkari",
+  "fullName": "Nitin Gadkari",
+  "profileSummary": "Nitin Jairam Gadkari is an Indian politician who is serving as the 40th Minister of Road Transport & Highways since 2014. He is also the longest serving Minister for Road Transport & Highways, currently in his tenure for over twelve years, and is the only person to serve under a single portfolio for three consecutive terms. A senior leader of the Bharatiya Janata Party (BJP), he served as the President of BJP party from 2009 to 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nitin_Jairam_Gadkari.jpg/330px-Nitin_Jairam_Gadkari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nitin_Gadkari",
+  "dateOfBirth": "1957-05-27",
+  "birthDateParsed": "1957-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.149722222",
+  "birthCoordinatesLng": "79.080555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3504520",
+  "birthPlace": "Nagpur",
+  "fetchedAt": "2026-08-08T00:24:21.574Z"
+}

@@ -1,5 +1,5 @@
 {
-  "publicId": "24222824",
+  "publicId": "ecc6e43e",
   "wikipediaSlug": "Chhatrapal_Singh_Gangwar",
   "wikipediaId": "Q113336473",
   "name": "Chhatrapal Singh Gangwar",
@@ -8,22 +8,27 @@
   "profileImageUrl": null,
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Chhatrapal_Singh_Gangwar",
   "dateOfBirth": "1956-01-20",
+  "birthDateParsed": "1956-01-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "28.364",
   "birthCoordinatesLng": "79.415",
-  "moonSign": "12",
-  "sunSign": "10",
-  "lagnaSignText": "1",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
     "politician",
-    "agriculture",
+    "farmer",
     "social worker",
     "teacher"
   ],
   "qid": "Q113336473",
   "birthPlace": "Bareilly",
-  "fetchedAt": "2026-04-07T16:21:31.438Z"
+  "fetchedAt": "2026-08-07T00:26:53.755Z"
 }

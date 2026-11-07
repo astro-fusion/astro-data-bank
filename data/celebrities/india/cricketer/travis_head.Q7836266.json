@@ -1,0 +1,31 @@
+{
+  "publicId": "81d16550",
+  "wikipediaSlug": "Travis_Head",
+  "wikipediaId": "Q7836266",
+  "name": "Travis Head",
+  "fullName": "Travis Head",
+  "profileSummary": "Travis Michael Head is an Australian international cricketer who represents the Australia national cricket team in all formats and is the current Test vice-captain. Known for his high strike rate, Head is a left-handed batter and part-time right arm off-spin bowler. He is contracted to South Australia at the state level and the Adelaide Strikers for the Big Bash League. Head has served as both a co vice-captain and vice-captain in Tests in multiple stints. Head captained Australia in T20Is and served as vice-captain in ODIs in 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Travis_Head_bowling_at_Perth_Stadium%2C_First_Test_Australia_versus_West_Indies%2C_2_December_2022_03_%28cropped%29.jpg/330px-Travis_Head_bowling_at_Perth_Stadium%2C_First_Test_Australia_versus_West_Indies%2C_2_December_2022_03_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Travis_Head",
+  "dateOfBirth": "1993-12-29",
+  "birthDateParsed": "1993-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.9275",
+  "birthCoordinatesLng": "138.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q7836266",
+  "birthPlace": "Adelaide",
+  "fetchedAt": "2026-08-06T16:12:42.377Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "531f8adb",
+  "wikipediaSlug": "Prasanta_Chandra_Mahalanobis",
+  "wikipediaId": "Q561478",
+  "name": "Prasanta Chandra Mahalanobis",
+  "fullName": "Prasanta Chandra Mahalanobis",
+  "profileSummary": "Prasanta Chandra Mahalanobis OBE, FNA, FASc, FRS was an Indian scientist and statistician. He is best remembered for the Mahalanobis distance, a statistical measure, and for being one of the members of the first economic Planning Commission of independent India. He made pioneering studies in anthropometry in India. He founded the Indian Statistical Institute, and contributed to the design of large-scale sample surveys. For his contributions, Mahalanobis has been considered the father of statistics in India. Since 2007, 29 June is celebrated as National Statistics Day in India to commemorate the birth anniversary of P.C. Mahalanobis and his contributions to statistical science and planning.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Portrait_of_Prasanta_Chandra_Mahalanobis.webp/330px-Portrait_of_Prasanta_Chandra_Mahalanobis.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prasanta_Chandra_Mahalanobis",
+  "dateOfBirth": "1893-06-29",
+  "birthDateParsed": "1893-06-29",
+  "dateOfDeath": "1972-06-28",
+  "deathDateParsed": "1972-06-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "mathematician",
+    "physicist",
+    "statistician",
+    "university teacher",
+    "pedagogue"
+  ],
+  "qid": "Q561478",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-06T07:28:11.560Z"
+}

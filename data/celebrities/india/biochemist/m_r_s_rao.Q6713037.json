@@ -1,0 +1,33 @@
+{
+  "publicId": "773403d7",
+  "wikipediaSlug": "M._R._S._Rao",
+  "wikipediaId": "Q6713037",
+  "name": "M. R. S. Rao",
+  "fullName": "M. R. S. Rao",
+  "profileSummary": "Manchanahalli Rangaswamy Satyanarayana Rao was an Indian scientist. He was awarded the fourth-highest civilian award, the Padma Shri, for Science and Engineering in 2010. From 2003 to 2013 he was president of Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) in Bangalore, India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Prof_MRS_Rao_-Lab_Office.JPG/330px-Prof_MRS_Rao_-Lab_Office.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/M._R._S._Rao",
+  "dateOfBirth": "1948-01-21",
+  "birthDateParsed": "1948-01-21",
+  "dateOfDeath": "2023-08-13",
+  "deathDateParsed": "2023-08-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.308611111",
+  "birthCoordinatesLng": "76.653055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "scientist",
+    "university teacher"
+  ],
+  "qid": "Q6713037",
+  "birthPlace": "Mysore",
+  "fetchedAt": "2026-08-06T04:20:32.704Z"
+}

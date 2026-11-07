@@ -1,0 +1,33 @@
+{
+  "publicId": "fec319e2",
+  "wikipediaSlug": "Benjamin_Peary_Pal",
+  "wikipediaId": "Q4889104",
+  "name": "Benjamin Peary Pal",
+  "fullName": "Benjamin Peary Pal",
+  "profileSummary": "Benjamin Peary Pal or B. P. Pal FRS was an Indian plant breeder and agronomist who served as a director of the Indian Agricultural Research Institute in Delhi and as the first Director General of the Indian Council of Agricultural Research. He worked on wheat genetics and breeding but was also known for his interest in rose varieties.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Peary_Pal_2008_stamp_of_India.jpg/330px-Benjamin_Peary_Pal_2008_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Peary_Pal",
+  "dateOfBirth": "1906-05-26",
+  "birthDateParsed": "1906-05-26",
+  "dateOfDeath": "1989-09-14",
+  "deathDateParsed": "1989-09-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.1258",
+  "birthCoordinatesLng": "75.9448",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "agronomist",
+    "plant breeder",
+    "botanist"
+  ],
+  "qid": "Q4889104",
+  "birthPlace": "Mukandpur",
+  "fetchedAt": "2026-08-06T04:18:41.455Z"
+}

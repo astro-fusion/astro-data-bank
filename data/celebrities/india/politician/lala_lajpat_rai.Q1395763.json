@@ -1,0 +1,34 @@
+{
+  "publicId": "3172bd05",
+  "wikipediaSlug": "Lala_Lajpat_Rai",
+  "wikipediaId": "Q1395763",
+  "name": "Lala Lajpat Rai",
+  "fullName": "Lala Lajpat Rai",
+  "profileSummary": "Lala Lajpat Rai was an Indian nationalist revolutionary and author, popularly known as Punjab Kesari. He was one of the three members of the Lal Bal Pal trio. He died of severe trauma injuries sustained in October 1928 during a British-ordered baton charge by police in Lahore, when he led a peaceful protest march against the all-British Simon Commission.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mahatma_Lala_Lajpat_Rai.jpg/330px-Mahatma_Lala_Lajpat_Rai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai",
+  "dateOfBirth": "1865-01-28",
+  "birthDateParsed": "1865-01-28",
+  "dateOfDeath": "1928-11-17",
+  "deathDateParsed": "1928-11-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.75",
+  "birthCoordinatesLng": "75.33",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "revolutionary",
+    "writer",
+    "freedom fighter"
+  ],
+  "qid": "Q1395763",
+  "birthPlace": "Dhudike",
+  "fetchedAt": "2026-08-07T10:32:57.514Z"
+}

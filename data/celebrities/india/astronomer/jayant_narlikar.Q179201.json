@@ -1,0 +1,35 @@
+{
+  "publicId": "f1ee75d8",
+  "wikipediaSlug": "Jayant_Narlikar",
+  "wikipediaId": "Q179201",
+  "name": "Jayant Narlikar",
+  "fullName": "Jayant Narlikar",
+  "profileSummary": "Jayant Vishnu Narlikar was an Indian astrophysicist who performed research on alternative cosmology. He was also an author who wrote textbooks on cosmology, popular science books, and science fiction novels and short stories.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jayant_Vishnu_Narlikar_-_Kolkata_2007-03-20_07341.jpg/330px-Jayant_Vishnu_Narlikar_-_Kolkata_2007-03-20_07341.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jayant_Narlikar",
+  "dateOfBirth": "1938-07-19",
+  "birthDateParsed": "1938-07-19",
+  "dateOfDeath": "2025-05-20",
+  "deathDateParsed": "2025-05-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "16.7",
+  "birthCoordinatesLng": "74.233333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "astrophysicist",
+    "university teacher",
+    "science fiction writer",
+    "writer"
+  ],
+  "qid": "Q179201",
+  "birthPlace": "Kolhapur",
+  "fetchedAt": "2026-08-06T04:19:50.112Z"
+}

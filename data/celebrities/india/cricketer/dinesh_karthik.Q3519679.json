@@ -1,13 +1,16 @@
 {
-  "publicId": "070c1d0a",
+  "publicId": "e2ed14de",
   "wikipediaSlug": "Dinesh_Karthik",
   "wikipediaId": "Q3519679",
   "name": "Dinesh Karthik",
   "fullName": "Dinesh Karthik",
   "profileSummary": "Krishnakumar Dinesh Karthik is an Indian cricket commentator, coach and former international cricketer. Karthik played for the India national cricket team and also captained Tamil Nadu in domestic cricket. He is currently the mentor and batting coach for Royal Challengers Bengaluru in the Indian Premier League and London Spirit in The Hundred.",
-  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dinesh.Karthik.jpg/330px-Dinesh.Karthik.jpg",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dinesh.Karthik.jpg/330px-Dinesh.Karthik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Dinesh_Karthik",
   "dateOfBirth": "1985-06-01",
+  "birthDateParsed": "1985-06-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "13.0825",
   "birthCoordinatesLng": "80.275",
@@ -24,5 +27,5 @@
   ],
   "qid": "Q3519679",
   "birthPlace": "Chennai",
-  "fetchedAt": "2026-04-07T10:57:37.053Z"
+  "fetchedAt": "2026-08-09T16:53:39.821Z"
 }

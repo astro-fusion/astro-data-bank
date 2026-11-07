@@ -1,0 +1,32 @@
+{
+  "publicId": "e9b603f2",
+  "wikipediaSlug": "Keshubhai_Patel",
+  "wikipediaId": "Q2723680",
+  "name": "Keshubhai Patel",
+  "fullName": "Keshubhai Patel",
+  "profileSummary": "Keshubhai Patel was an Indian politician who was the Chief Minister of Gujarat in 1995 and again from 1998 to 2001. He was a six-time member of Gujarat Legislative Assembly. He was a member of RSS since 1940s, of Bharatiya Jana Sangh in 1960s, Janata Party in 1970s, and the Bharatiya Janata Party (BJP) from 1980. He left the BJP in 2012 and formed the Gujarat Parivartan Party. He was elected from Visavadar in the 2012 state assembly election but resigned in 2014 due to ill health and merged his party with BJP.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Keshubhai_Patel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Keshubhai_Patel",
+  "dateOfBirth": "1928-07-24",
+  "birthDateParsed": "1928-07-24",
+  "dateOfDeath": "2020-10-29",
+  "deathDateParsed": "2020-10-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.38",
+  "birthCoordinatesLng": "70.68",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "civil servant"
+  ],
+  "qid": "Q2723680",
+  "birthPlace": "Visavadar",
+  "fetchedAt": "2026-08-08T00:23:41.175Z"
+}

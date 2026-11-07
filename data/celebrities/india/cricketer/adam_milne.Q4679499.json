@@ -1,0 +1,31 @@
+{
+  "publicId": "bdd79d9c",
+  "wikipediaSlug": "Adam_Milne",
+  "wikipediaId": "Q4679499",
+  "name": "Adam Milne",
+  "fullName": "Adam Milne",
+  "profileSummary": "Adam Fraser Milne is a New Zealand professional cricketer who plays limited overs cricket for the New Zealand national cricket team. He is a right-arm fast bowler. He was also a part of the New Zealand squad to finish as runners-up at the 2015 Cricket World Cup, after they lost to Australia.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Milne",
+  "dateOfBirth": "1992-04-13",
+  "birthDateParsed": "1992-04-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-40.354911",
+  "birthCoordinatesLng": "175.609511",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4679499",
+  "birthPlace": "Palmerston North",
+  "fetchedAt": "2026-08-09T03:15:12.424Z"
+}

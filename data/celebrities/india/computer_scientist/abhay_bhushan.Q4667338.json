@@ -1,0 +1,31 @@
+{
+  "publicId": "e8b083f9",
+  "wikipediaSlug": "Abhay_Bhushan",
+  "wikipediaId": "Q4667338",
+  "name": "Abhay Bhushan",
+  "fullName": "Abhay Bhushan",
+  "profileSummary": "Abhay Bhushan is an Indian computer scientist. Bhushan has been a major contributor to the development of the Internet TCP/IP architecture, and is the author of the File Transfer Protocol and the early versions of email standards. He is currently chairman of Asquare Inc., Secretary of Indians for Collective Action and the former President of the IIT-Kanpur Foundation. In 2023, he was inducted into the Internet Hall of Fame.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abhay_Bhushan",
+  "dateOfBirth": "1944-11-23",
+  "birthDateParsed": "1944-11-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.45",
+  "birthCoordinatesLng": "81.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist"
+  ],
+  "qid": "Q4667338",
+  "birthPlace": "Prayagraj",
+  "fetchedAt": "2026-08-06T04:18:40.809Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "63b61b78",
+  "wikipediaSlug": "Manmohan_Singh",
+  "wikipediaId": "Q41914",
+  "name": "Manmohan Singh",
+  "fullName": "Manmohan Singh",
+  "profileSummary": "Manmohan Singh was an Indian politician who served as the prime minister of India from 2004 to 2014. He was the fourth longest-serving prime minister after Jawaharlal Nehru, Indira Gandhi, and Narendra Modi. A member of the Indian National Congress, Singh was the first and remains the only Sikh prime minister of India. He was also the first prime minister since Nehru to be re-appointed after completing a full five-year term.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Official_Portrait_of_the_Prime_Minister_Dr._Manmohan_Singh_%283x4_cropped%29.jpg/330px-Official_Portrait_of_the_Prime_Minister_Dr._Manmohan_Singh_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+  "dateOfBirth": "1932-09-26",
+  "birthDateParsed": "1932-09-26",
+  "dateOfDeath": "2024-12-26",
+  "deathDateParsed": "2024-12-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.03",
+  "birthCoordinatesLng": "72.39",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician",
+    "banker",
+    "civil servant",
+    "university teacher"
+  ],
+  "qid": "Q41914",
+  "birthPlace": "Gah",
+  "fetchedAt": "2026-08-07T10:32:58.556Z"
+}

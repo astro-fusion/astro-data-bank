@@ -1,0 +1,31 @@
+{
+  "publicId": "35b4addc",
+  "wikipediaSlug": "Steve_Smith_(cricketer)",
+  "wikipediaId": "Q7613970",
+  "name": "Steve Smith (cricketer)",
+  "fullName": "Steve Smith (cricketer)",
+  "profileSummary": "Steven Peter Devereux Smith is an Australian international cricketer, former captain of the Australian national team in all three formats of the game and since 2021, the vice-captain of the Australian Test team. He is regarded as the best Test batsman of his generation, scoring over 10,000 Test runs, having reached an ICC Test batting rating of 947, the second-highest figure of all time, only behind Don Bradman's 961 and was named ICC Men's Test Player of the Decade for 2011–2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/STEVE_SMITH_%2811705303043%29.jpg/330px-STEVE_SMITH_%2811705303043%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Smith_(cricketer)",
+  "dateOfBirth": "1989-06-02",
+  "birthDateParsed": "1989-06-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q7613970",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-06T16:12:25.082Z"
+}

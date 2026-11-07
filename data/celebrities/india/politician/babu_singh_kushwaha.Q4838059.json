@@ -1,5 +1,5 @@
 {
-  "publicId": "0de9e7b6",
+  "publicId": "03df71d6",
   "wikipediaSlug": "Babu_Singh_Kushwaha",
   "wikipediaId": "Q4838059",
   "name": "Babu Singh Kushwaha",
@@ -8,13 +8,18 @@
   "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kushwaha.JPG/330px-Kushwaha.JPG",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Babu_Singh_Kushwaha",
   "dateOfBirth": "1966-05-07",
+  "birthDateParsed": "1966-05-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
   "birthTime": "12:00:00",
   "birthCoordinatesLat": "26.85",
   "birthCoordinatesLng": "80.91",
-  "moonSign": "8",
-  "sunSign": "1",
-  "lagnaSignText": "4",
-  "planetaryCombinationIndex": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
   "dataSource": "wikipedia_crawler",
   "isVerified": false,
   "categories": [
@@ -22,5 +27,5 @@
   ],
   "qid": "Q4838059",
   "birthPlace": "Uttar Pradesh",
-  "fetchedAt": "2026-04-07T16:20:25.564Z"
+  "fetchedAt": "2026-08-07T00:25:52.621Z"
 }

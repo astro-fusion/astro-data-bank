@@ -1,0 +1,31 @@
+{
+  "publicId": "b4d48934",
+  "wikipediaSlug": "Prem_Kumar_Dhumal",
+  "wikipediaId": "Q3520354",
+  "name": "Prem Kumar Dhumal",
+  "fullName": "Prem Kumar Dhumal",
+  "profileSummary": "Prem Kumar Dhumal is an Indian politician who has twice served as the Chief Minister of Himachal Pradesh, from March 1998 to March 2003 and again from 1 January 2008 to 25 December 2012. He was the Bharatiya Janata Party's Chief Ministerial candidate for the 2017 Himachal Assembly Election, in which he lost his seat.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Prem_Kumar_Dhumal.jpg/330px-Prem_Kumar_Dhumal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prem_Kumar_Dhumal",
+  "dateOfBirth": "1944-04-10",
+  "birthDateParsed": "1944-04-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.69",
+  "birthCoordinatesLng": "76.52",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3520354",
+  "birthPlace": "Hamirpur district",
+  "fetchedAt": "2026-08-08T00:24:25.102Z"
+}

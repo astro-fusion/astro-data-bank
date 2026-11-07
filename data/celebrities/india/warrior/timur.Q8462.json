@@ -1,0 +1,32 @@
+{
+  "publicId": "959daddd",
+  "wikipediaSlug": "Timur",
+  "wikipediaId": "Q8462",
+  "name": "Timur",
+  "fullName": "Timur",
+  "profileSummary": "Timur, also known as Tamerlane, was a Turco-Mongol conqueror, first ruler of the Timurid dynasty, and the founder of the Timurid Empire, which ruled over modern-day Afghanistan, Iran, and Central Asia. He was undefeated in battle and is widely regarded as one of the greatest military leaders and tacticians in history, as well as one of the most brutal and deadly. Timur is also considered a great patron of the arts, for he interacted with scholars and poets such as ibn Khaldun, Hafez, and Hafiz-i Abru. His reign led to the Timurid Renaissance.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Timur_reconstruction03.jpg/330px-Timur_reconstruction03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Timur",
+  "dateOfBirth": "1336-04-16",
+  "birthDateParsed": "1336-04-16",
+  "dateOfDeath": "1405-02-27",
+  "deathDateParsed": "1405-02-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.05",
+  "birthCoordinatesLng": "66.833333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "warrior",
+    "Conqueror"
+  ],
+  "qid": "Q8462",
+  "birthPlace": "Shahrisabz",
+  "fetchedAt": "2026-08-07T11:49:42.106Z"
+}

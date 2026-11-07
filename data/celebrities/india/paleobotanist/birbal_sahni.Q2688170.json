@@ -1,0 +1,34 @@
+{
+  "publicId": "a3262c45",
+  "wikipediaSlug": "Birbal_Sahni",
+  "wikipediaId": "Q2688170",
+  "name": "Birbal Sahni",
+  "fullName": "Birbal Sahni",
+  "profileSummary": "Birbal Sahni FRS was an Indian paleobotanist who studied the fossils of the Indian subcontinent. He also took an interest in geology and archaeology. He founded what is now the Birbal Sahni Institute of Palaeobotany at Lucknow in 1946. His major contributions were in the study of the fossil plants of India and in plant evolution. He was also involved in the establishment of Indian science education and served as the president of the National Academy of Sciences, India and as an honorary president of the International Botanical Congress, Stockholm.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bust_of_Birbal_Sahni_%28Birla_Industrial_%26_Technological_Museum%29.jpg/330px-Bust_of_Birbal_Sahni_%28Birla_Industrial_%26_Technological_Museum%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Birbal_Sahni",
+  "dateOfBirth": "1891-11-14",
+  "birthDateParsed": "1891-11-14",
+  "dateOfDeath": "1949-04-10",
+  "deathDateParsed": "1949-04-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.481666666",
+  "birthCoordinatesLng": "72.909444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "paleobotanist",
+    "geologist",
+    "university teacher",
+    "botanist"
+  ],
+  "qid": "Q2688170",
+  "birthPlace": "Bhera",
+  "fetchedAt": "2026-08-06T04:18:19.097Z"
+}
