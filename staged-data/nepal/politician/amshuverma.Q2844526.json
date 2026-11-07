@@ -1,0 +1,2020 @@
+{
+  "publicId": "5775fee5",
+  "wikipediaSlug": "Amshuverma",
+  "wikipediaId": "Q2844526",
+  "name": "Amshuverma",
+  "fullName": "Amshuverma",
+  "profileSummary": "Amshuverma or Amshu Verma was a king of Nepal from around 605–621 CE. Initially a feudal lord, he rose to the position of Mahasamanta in about 598 CE when Shivadeva I of the Licchavi dynasty was the ruling monarch and by 604, Shivadeva was reduced to a mere figurehead. He is considered to have died in 621 AD and was succeeded by Udaydeva, the son of Shivadeva I.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Amshuverma.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amshuverma",
+  "dateOfBirth": "0600-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": "-10",
+  "sunSign": "-1",
+  "lagnaSignText": "9",
+  "planetaryCombinationIndex": null,
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q2844526",
+  "birthPlace": null,
+  "fetchedAt": "2026-04-07T16:54:59.704Z",
+  "mulanka": 1,
+  "bhagyank": 8,
+  "lifePathNumber": 8,
+  "planetaryData": [
+    {
+      "id": "sun",
+      "name": "Sun",
+      "rasi": -1,
+      "rasiDegree": 10.364508138271049,
+      "longitude": 280.36450813827105,
+      "houseNumber": 2,
+      "speed": 0.985647,
+      "totalDegree": 280.36450813827105,
+      "isRetrograde": false
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "rasi": -10,
+      "rasiDegree": 9.590546554885805,
+      "longitude": 9.590546554885805,
+      "houseNumber": 5,
+      "speed": 13.176397,
+      "totalDegree": 9.590546554885805,
+      "isRetrograde": false
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "rasi": -3,
+      "rasiDegree": 26.94516502105398,
+      "longitude": 236.94516502105398,
+      "houseNumber": 12,
+      "speed": 0.5240207,
+      "totalDegree": 236.94516502105398,
+      "isRetrograde": false
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "rasi": 1,
+      "rasiDegree": 28.882949391845614,
+      "longitude": 358.8829493918456,
+      "houseNumber": 4,
+      "speed": 1.383125,
+      "totalDegree": 358.8829493918456,
+      "isRetrograde": false
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "rasi": -10,
+      "rasiDegree": 26.54985568902339,
+      "longitude": 26.54985568902339,
+      "houseNumber": 5,
+      "speed": 0.0831294,
+      "totalDegree": 26.54985568902339,
+      "isRetrograde": false
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "rasi": 0,
+      "rasiDegree": 9.819475026917644,
+      "longitude": 309.81947502691764,
+      "houseNumber": 3,
+      "speed": 1.60213,
+      "totalDegree": 309.81947502691764,
+      "isRetrograde": false
+    },
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "rasi": -3,
+      "rasiDegree": 10.845211298950744,
+      "longitude": 220.84521129895074,
+      "houseNumber": 12,
+      "speed": 0.0334506,
+      "totalDegree": 220.84521129895074,
+      "isRetrograde": false
+    },
+    {
+      "id": "rahu",
+      "name": "Rahu",
+      "rasi": 7,
+      "rasiDegree": 22.40640736875139,
+      "longitude": 202.4064073687514,
+      "houseNumber": 11,
+      "speed": -0.0529539,
+      "totalDegree": 202.4064073687514,
+      "isRetrograde": true
+    },
+    {
+      "id": "ketu",
+      "name": "Ketu",
+      "rasi": 1,
+      "rasiDegree": 22.40640736875139,
+      "longitude": 22.40640736875139,
+      "houseNumber": 5,
+      "speed": -0.0529539,
+      "totalDegree": 22.40640736875139,
+      "isRetrograde": true
+    },
+    {
+      "id": "asc",
+      "name": "Ascendant",
+      "rasi": 9,
+      "rasiDegree": 4.961672512615706,
+      "longitude": 244.9616725126157,
+      "houseNumber": 1,
+      "speed": 0,
+      "totalDegree": 244.96167251261568,
+      "isRetrograde": false
+    }
+  ],
+  "planetaryTableData": [
+    {
+      "id": 1,
+      "name": "Sun",
+      "degree": "10.36",
+      "rasiDegree": 10.364508138271049,
+      "houseNumber": 2,
+      "longitude": "280.36",
+      "lord": "",
+      "element": "",
+      "quality": "",
+      "dignity": "Neutral",
+      "nakshatra": "Shravan",
+      "nakshatraPada": 1,
+      "nakshatraLord": "Moon",
+      "retrograde": false,
+      "isCombust": false
+    },
+    {
+      "id": 2,
+      "name": "Moon",
+      "degree": "9.59",
+      "rasiDegree": 9.590546554885805,
+      "houseNumber": 5,
+      "longitude": "9.59",
+      "lord": "",
+      "element": "",
+      "quality": "",
+      "dignity": "Neutral",
+      "nakshatra": "Ashvini",
+      "nakshatraPada": 3,
+      "nakshatraLord": "Ketu",
+      "retrograde": false,
+      "isCombust": false
+    },
+    {
+      "id": 3,
+      "name": "Mars",
+      "degree": "26.95",
+      "rasiDegree": 26.94516502105398,
+      "houseNumber": 12,
+      "longitude": "236.95",
+      "lord": "",
+      "element": "",
+      "quality": "",
+      "dignity": "Neutral",
+      "nakshatra": "Jyeshtha",
+      "nakshatraPada": 4,
+      "nakshatraLord": "Mercury",
+      "retrograde": false,
+      "isCombust": false
+    },
+    {
+      "id": 4,
+      "name": "Mercury",
+      "rasi": "Aries",
+      "degree": "28.88",
+      "rasiDegree": 28.882949391845614,
+      "houseNumber": 4,
+      "longitude": "358.88",
+      "lord": "Mars",
+      "element": "Fire",
+      "quality": "Cardinal",
+      "dignity": "Neutral",
+      "nakshatra": "Revati",
+      "nakshatraPada": 4,
+      "nakshatraLord": "Mercury",
+      "retrograde": false,
+      "isCombust": false
+    },
+    {
+      "id": 5,
+      "name": "Jupiter",
+      "degree": "26.55",
+      "rasiDegree": 26.54985568902339,
+      "houseNumber": 5,
+      "longitude": "26.55",
+      "lord": "",
+      "element": "",
+      "quality": "",
+      "dignity": "Neutral",
+      "nakshatra": "Bharani",
+      "nakshatraPada": 4,
+      "nakshatraLord": "Venus",
+      "retrograde": false,
+      "isCombust": false
+    },
+    {
+      "id": 6,
+      "name": "Venus",
+      "rasi": "Aries",
+      "degree": "9.82",
+      "rasiDegree": 9.819475026917644,
+      "houseNumber": 3,
+      "longitude": "309.82",
+      "lord": "Mars",
+      "element": "Fire",
+      "quality": "Cardinal",
+      "dignity": "Enemy",
+      "nakshatra": "Shatabhishaj",
+      "nakshatraPada": 1,
+      "nakshatraLord": "Rahu",
+      "retrograde": false,
+      "isCombust": false
+    },
+    {
+      "id": 7,
+      "name": "Saturn",
+      "degree": "10.85",
+      "rasiDegree": 10.845211298950744,
+      "houseNumber": 12,
+      "longitude": "220.85",
+      "lord": "",
+      "element": "",
+      "quality": "",
+      "dignity": "Neutral",
+      "nakshatra": "Anuradha",
+      "nakshatraPada": 3,
+      "nakshatraLord": "Saturn",
+      "retrograde": false,
+      "isCombust": false
+    },
+    {
+      "id": 8,
+      "name": "Rahu",
+      "rasi": "Libra",
+      "degree": "22.41",
+      "rasiDegree": 22.40640736875139,
+      "houseNumber": 11,
+      "longitude": "202.41",
+      "lord": "Venus",
+      "element": "Air",
+      "quality": "Cardinal",
+      "dignity": "Neutral",
+      "nakshatra": "Vishakha",
+      "nakshatraPada": 1,
+      "nakshatraLord": "Jupiter",
+      "retrograde": true,
+      "isCombust": false
+    },
+    {
+      "id": 9,
+      "name": "Ketu",
+      "rasi": "Aries",
+      "degree": "22.41",
+      "rasiDegree": 22.40640736875139,
+      "houseNumber": 5,
+      "longitude": "22.41",
+      "lord": "Mars",
+      "element": "Fire",
+      "quality": "Cardinal",
+      "dignity": "Neutral",
+      "nakshatra": "Bharani",
+      "nakshatraPada": 3,
+      "nakshatraLord": "Venus",
+      "retrograde": true,
+      "isCombust": false
+    },
+    {
+      "id": 10,
+      "name": "Ascendant",
+      "rasi": "Sagittarius",
+      "degree": "4.96",
+      "rasiDegree": 4.961672512615678,
+      "houseNumber": 1,
+      "longitude": "244.96",
+      "lord": "Jupiter",
+      "element": "Fire",
+      "quality": "Mutable",
+      "dignity": "Neutral",
+      "nakshatra": "Mula",
+      "nakshatraPada": 2,
+      "nakshatraLord": "Ketu",
+      "retrograde": false,
+      "isCombust": false
+    }
+  ],
+  "divisionalCharts": {
+    "D7": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 6,
+          "rasiDegree": 12.55155696789734,
+          "houseNumber": 9,
+          "totalDegree": 162.55155696789734,
+          "longitude": 162.55155696789734,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 3,
+          "rasiDegree": 7.133825884200633,
+          "houseNumber": 6,
+          "totalDegree": 67.13382588420063,
+          "longitude": 67.13382588420063,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 8,
+          "rasiDegree": 8.616155147377867,
+          "houseNumber": 11,
+          "totalDegree": 218.61615514737787,
+          "longitude": 218.61615514737787,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 12,
+          "rasiDegree": 22.180645742919296,
+          "houseNumber": 3,
+          "totalDegree": 352.1806457429193,
+          "longitude": 352.1806457429193,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 7,
+          "rasiDegree": 5.84898982316372,
+          "houseNumber": 10,
+          "totalDegree": 185.84898982316372,
+          "longitude": 185.84898982316372,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 1,
+          "rasiDegree": 8.736325188423509,
+          "houseNumber": 4,
+          "totalDegree": 8.736325188423509,
+          "longitude": 8.736325188423509,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 4,
+          "rasiDegree": 15.916479092655209,
+          "houseNumber": 7,
+          "totalDegree": 105.91647909265521,
+          "longitude": 105.91647909265521,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 12,
+          "rasiDegree": 6.844851581259718,
+          "houseNumber": 3,
+          "totalDegree": 336.8448515812597,
+          "longitude": 336.8448515812597,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 6,
+          "rasiDegree": 6.844851581259718,
+          "houseNumber": 9,
+          "totalDegree": 156.84485158125972,
+          "longitude": 156.84485158125972,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 10
+    },
+    "D9": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 1,
+          "rasiDegree": 3.280573244439438,
+          "houseNumber": 12,
+          "totalDegree": 3.280573244439438,
+          "longitude": 3.280573244439438,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 3,
+          "rasiDegree": 26.314918993972242,
+          "houseNumber": 2,
+          "totalDegree": 86.31491899397224,
+          "longitude": 86.31491899397224,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 12,
+          "rasiDegree": 2.5064851894858293,
+          "houseNumber": 11,
+          "totalDegree": 332.50648518948583,
+          "longitude": 332.50648518948583,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 12,
+          "rasiDegree": 19.946544526610523,
+          "houseNumber": 11,
+          "totalDegree": 349.9465445266105,
+          "longitude": 349.9465445266105,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 8,
+          "rasiDegree": 28.948701201210497,
+          "houseNumber": 7,
+          "totalDegree": 238.9487012012105,
+          "longitude": 238.9487012012105,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 9,
+          "rasiDegree": 28.375275242258795,
+          "houseNumber": 8,
+          "totalDegree": 268.3752752422588,
+          "longitude": 268.3752752422588,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 7,
+          "rasiDegree": 7.606901690556697,
+          "houseNumber": 6,
+          "totalDegree": 187.6069016905567,
+          "longitude": 187.6069016905567,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 1,
+          "rasiDegree": 21.657666318762494,
+          "houseNumber": 12,
+          "totalDegree": 21.657666318762494,
+          "longitude": 21.657666318762494,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 7,
+          "rasiDegree": 21.657666318762494,
+          "houseNumber": 6,
+          "totalDegree": 201.6576663187625,
+          "longitude": 201.6576663187625,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 2
+    },
+    "D10": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 9,
+          "rasiDegree": 13.645081382710487,
+          "houseNumber": 12,
+          "totalDegree": 253.6450813827105,
+          "longitude": 253.6450813827105,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 4,
+          "rasiDegree": 5.9054655488580465,
+          "houseNumber": 7,
+          "totalDegree": 95.90546554885805,
+          "longitude": 95.90546554885805,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 12,
+          "rasiDegree": 29.45165021053981,
+          "houseNumber": 3,
+          "totalDegree": 359.4516502105398,
+          "longitude": 359.4516502105398,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 5,
+          "rasiDegree": 18.829493918456137,
+          "houseNumber": 8,
+          "totalDegree": 138.82949391845614,
+          "longitude": 138.82949391845614,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 9,
+          "rasiDegree": 25.498556890233885,
+          "houseNumber": 12,
+          "totalDegree": 265.4985568902339,
+          "longitude": 265.4985568902339,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 2,
+          "rasiDegree": 8.194750269176438,
+          "houseNumber": 5,
+          "totalDegree": 38.19475026917644,
+          "longitude": 38.19475026917644,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 7,
+          "rasiDegree": 18.45211298950744,
+          "houseNumber": 10,
+          "totalDegree": 198.45211298950744,
+          "longitude": 198.45211298950744,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 2,
+          "rasiDegree": 14.064073687513883,
+          "houseNumber": 5,
+          "totalDegree": 44.06407368751388,
+          "longitude": 44.06407368751388,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 8,
+          "rasiDegree": 14.064073687513883,
+          "houseNumber": 11,
+          "totalDegree": 224.06407368751388,
+          "longitude": 224.06407368751388,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 10
+    },
+    "D12": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 2,
+          "rasiDegree": 4.374097659252584,
+          "houseNumber": 5,
+          "totalDegree": 34.374097659252584,
+          "longitude": 34.374097659252584,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 4,
+          "rasiDegree": 25.086558658629656,
+          "houseNumber": 7,
+          "totalDegree": 115.08655865862966,
+          "longitude": 115.08655865862966,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 6,
+          "rasiDegree": 23.341980252647772,
+          "houseNumber": 9,
+          "totalDegree": 173.34198025264777,
+          "longitude": 173.34198025264777,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 11,
+          "rasiDegree": 16.595392702147365,
+          "houseNumber": 2,
+          "totalDegree": 316.59539270214736,
+          "longitude": 316.59539270214736,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 11,
+          "rasiDegree": 18.598268268280663,
+          "houseNumber": 2,
+          "totalDegree": 318.59826826828066,
+          "longitude": 318.59826826828066,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 2,
+          "rasiDegree": 27.833700323011726,
+          "houseNumber": 5,
+          "totalDegree": 57.833700323011726,
+          "longitude": 57.833700323011726,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 12,
+          "rasiDegree": 10.14253558740893,
+          "houseNumber": 3,
+          "totalDegree": 340.14253558740893,
+          "longitude": 340.14253558740893,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 3,
+          "rasiDegree": 28.87688842501666,
+          "houseNumber": 6,
+          "totalDegree": 88.87688842501666,
+          "longitude": 88.87688842501666,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 9,
+          "rasiDegree": 28.87688842501666,
+          "houseNumber": 12,
+          "totalDegree": 268.87688842501666,
+          "longitude": 268.87688842501666,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 10
+    },
+    "D16": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 6,
+          "rasiDegree": 15.832130212336779,
+          "houseNumber": 8,
+          "totalDegree": 165.83213021233678,
+          "longitude": 165.83213021233678,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 6,
+          "rasiDegree": 3.4487448781728745,
+          "houseNumber": 8,
+          "totalDegree": 153.44874487817287,
+          "longitude": 153.44874487817287,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 7,
+          "rasiDegree": 11.122640336863697,
+          "houseNumber": 9,
+          "totalDegree": 191.1226403368637,
+          "longitude": 191.1226403368637,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 12,
+          "rasiDegree": 12.12719026952982,
+          "houseNumber": 2,
+          "totalDegree": 342.1271902695298,
+          "longitude": 342.1271902695298,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 3,
+          "rasiDegree": 4.797691024374217,
+          "houseNumber": 5,
+          "totalDegree": 64.79769102437422,
+          "longitude": 64.79769102437422,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 10,
+          "rasiDegree": 7.1116004306823015,
+          "houseNumber": 12,
+          "totalDegree": 277.1116004306823,
+          "longitude": 277.1116004306823,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 10,
+          "rasiDegree": 23.523380783211906,
+          "houseNumber": 12,
+          "totalDegree": 293.5233807832119,
+          "longitude": 293.5233807832119,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 12,
+          "rasiDegree": 28.502517900022212,
+          "houseNumber": 2,
+          "totalDegree": 358.5025179000222,
+          "longitude": 358.5025179000222,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 12,
+          "rasiDegree": 28.502517900022212,
+          "houseNumber": 2,
+          "totalDegree": 358.5025179000222,
+          "longitude": 358.5025179000222,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 11
+    },
+    "D20": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 7,
+          "rasiDegree": 27.290162765420973,
+          "houseNumber": 12,
+          "totalDegree": 207.29016276542097,
+          "longitude": 207.29016276542097,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 7,
+          "rasiDegree": 11.810931097716093,
+          "houseNumber": 12,
+          "totalDegree": 191.8109310977161,
+          "longitude": 191.8109310977161,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 2,
+          "rasiDegree": 28.90330042107962,
+          "houseNumber": 7,
+          "totalDegree": 58.90330042107962,
+          "longitude": 58.90330042107962,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 12,
+          "rasiDegree": 7.658987836912274,
+          "houseNumber": 5,
+          "totalDegree": 337.6589878369123,
+          "longitude": 337.6589878369123,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 6,
+          "rasiDegree": 20.99711378046777,
+          "houseNumber": 11,
+          "totalDegree": 170.99711378046777,
+          "longitude": 170.99711378046777,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 3,
+          "rasiDegree": 16.389500538352877,
+          "houseNumber": 8,
+          "totalDegree": 76.38950053835288,
+          "longitude": 76.38950053835288,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 4,
+          "rasiDegree": 6.904225979014882,
+          "houseNumber": 9,
+          "totalDegree": 96.90422597901488,
+          "longitude": 96.90422597901488,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 3,
+          "rasiDegree": 28.128147375027766,
+          "houseNumber": 8,
+          "totalDegree": 88.12814737502777,
+          "longitude": 88.12814737502777,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 3,
+          "rasiDegree": 28.128147375027766,
+          "houseNumber": 8,
+          "totalDegree": 88.12814737502777,
+          "longitude": 88.12814737502777,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 8
+    },
+    "D24": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 12,
+          "rasiDegree": 8.748195318505168,
+          "houseNumber": 5,
+          "totalDegree": 338.74819531850517,
+          "longitude": 338.74819531850517,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 12,
+          "rasiDegree": 20.17311731725931,
+          "houseNumber": 5,
+          "totalDegree": 350.1731173172593,
+          "longitude": 350.1731173172593,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 1,
+          "rasiDegree": 16.683960505295545,
+          "houseNumber": 6,
+          "totalDegree": 16.683960505295545,
+          "longitude": 16.683960505295545,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 3,
+          "rasiDegree": 3.1907854042947292,
+          "houseNumber": 8,
+          "totalDegree": 63.19078540429473,
+          "longitude": 63.19078540429473,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 2,
+          "rasiDegree": 7.196536536561325,
+          "houseNumber": 7,
+          "totalDegree": 37.196536536561325,
+          "longitude": 37.196536536561325,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 12,
+          "rasiDegree": 25.667400646023452,
+          "houseNumber": 5,
+          "totalDegree": 355.66740064602345,
+          "longitude": 355.66740064602345,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 12,
+          "rasiDegree": 20.28507117481786,
+          "houseNumber": 5,
+          "totalDegree": 350.28507117481786,
+          "longitude": 350.28507117481786,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 10,
+          "rasiDegree": 27.75377685003332,
+          "houseNumber": 3,
+          "totalDegree": 297.7537768500333,
+          "longitude": 297.7537768500333,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 10,
+          "rasiDegree": 27.75377685003332,
+          "houseNumber": 3,
+          "totalDegree": 297.7537768500333,
+          "longitude": 297.7537768500333,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 8
+    },
+    "D27": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 1,
+          "rasiDegree": 9.841719733318314,
+          "houseNumber": 9,
+          "totalDegree": 9.841719733318314,
+          "longitude": 9.841719733318314,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 9,
+          "rasiDegree": 18.944756981916726,
+          "houseNumber": 5,
+          "totalDegree": 258.9447569819167,
+          "longitude": 258.9447569819167,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 10,
+          "rasiDegree": 7.519455568457488,
+          "houseNumber": 6,
+          "totalDegree": 277.5194555684575,
+          "longitude": 277.5194555684575,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 11,
+          "rasiDegree": 29.83963357983157,
+          "houseNumber": 7,
+          "totalDegree": 329.83963357983157,
+          "longitude": 329.83963357983157,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 12,
+          "rasiDegree": 26.84610360363149,
+          "houseNumber": 8,
+          "totalDegree": 356.8461036036315,
+          "longitude": 356.8461036036315,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 3,
+          "rasiDegree": 25.125825726776384,
+          "houseNumber": 11,
+          "totalDegree": 85.12582572677638,
+          "longitude": 85.12582572677638,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 7,
+          "rasiDegree": 22.82070507167009,
+          "houseNumber": 3,
+          "totalDegree": 202.8207050716701,
+          "longitude": 202.8207050716701,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 3,
+          "rasiDegree": 4.9729989562874835,
+          "houseNumber": 11,
+          "totalDegree": 64.97299895628748,
+          "longitude": 64.97299895628748,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 9,
+          "rasiDegree": 4.9729989562874835,
+          "houseNumber": 5,
+          "totalDegree": 244.97299895628748,
+          "longitude": 244.97299895628748,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 5
+    },
+    "D30": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 6,
+          "rasiDegree": 22.99074916401878,
+          "houseNumber": 6,
+          "totalDegree": 172.99074916401878,
+          "longitude": 172.99074916401878,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 11,
+          "rasiDegree": 27.543279329314828,
+          "houseNumber": 11,
+          "totalDegree": 327.5432793293148,
+          "longitude": 327.5432793293148,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 8,
+          "rasiDegree": 11.670990126323886,
+          "houseNumber": 8,
+          "totalDegree": 221.6709901263239,
+          "longitude": 221.6709901263239,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 8,
+          "rasiDegree": 23.297696351073682,
+          "houseNumber": 8,
+          "totalDegree": 233.29769635107368,
+          "longitude": 233.29769635107368,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 7,
+          "rasiDegree": 9.299134134140331,
+          "houseNumber": 7,
+          "totalDegree": 189.29913413414033,
+          "longitude": 189.29913413414033,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 11,
+          "rasiDegree": 28.916850161505863,
+          "houseNumber": 11,
+          "totalDegree": 328.91685016150586,
+          "longitude": 328.91685016150586,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 6,
+          "rasiDegree": 25.05090556693176,
+          "houseNumber": 6,
+          "totalDegree": 175.05090556693176,
+          "longitude": 175.05090556693176,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 3,
+          "rasiDegree": 18.88460300893452,
+          "houseNumber": 3,
+          "totalDegree": 78.88460300893452,
+          "longitude": 78.88460300893452,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 3,
+          "rasiDegree": 18.88460300893452,
+          "houseNumber": 3,
+          "totalDegree": 78.88460300893452,
+          "longitude": 78.88460300893452,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 1
+    },
+    "D60": {
+      "planets": [
+        {
+          "name": "Sun",
+          "rasi": 6,
+          "rasiDegree": 21.87048829626292,
+          "houseNumber": 1,
+          "totalDegree": 171.87048829626292,
+          "longitude": 171.87048829626292,
+          "id": "sun",
+          "speed": 0.985647,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "rasi": 8,
+          "rasiDegree": 5.432793293148279,
+          "houseNumber": 3,
+          "totalDegree": 215.43279329314828,
+          "longitude": 215.43279329314828,
+          "id": "moon",
+          "speed": 13.176397,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "rasi": 1,
+          "rasiDegree": 26.709901263238862,
+          "houseNumber": 8,
+          "totalDegree": 26.709901263238862,
+          "longitude": 26.709901263238862,
+          "id": "mars",
+          "speed": 0.5240207,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "rasi": 9,
+          "rasiDegree": 22.976963510736823,
+          "houseNumber": 4,
+          "totalDegree": 262.9769635107368,
+          "longitude": 262.9769635107368,
+          "id": "mercury",
+          "speed": 1.383125,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "rasi": 6,
+          "rasiDegree": 2.991341341403313,
+          "houseNumber": 1,
+          "totalDegree": 152.9913413414033,
+          "longitude": 152.9913413414033,
+          "id": "jupiter",
+          "speed": 0.0831294,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "rasi": 6,
+          "rasiDegree": 19.16850161505863,
+          "houseNumber": 1,
+          "totalDegree": 169.16850161505863,
+          "longitude": 169.16850161505863,
+          "id": "venus",
+          "speed": 1.60213,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "rasi": 5,
+          "rasiDegree": 20.712677937044646,
+          "houseNumber": 12,
+          "totalDegree": 140.71267793704465,
+          "longitude": 140.71267793704465,
+          "id": "saturn",
+          "speed": 0.0334506,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu",
+          "rasi": 3,
+          "rasiDegree": 24.384442125083297,
+          "houseNumber": 10,
+          "totalDegree": 84.3844421250833,
+          "longitude": 84.3844421250833,
+          "id": "rahu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu",
+          "rasi": 9,
+          "rasiDegree": 24.384442125083297,
+          "houseNumber": 4,
+          "totalDegree": 264.3844421250833,
+          "longitude": 264.3844421250833,
+          "id": "ketu",
+          "speed": -0.0529539,
+          "isRetrograde": true
+        }
+      ],
+      "lagnaSign": 6
+    }
+  },
+  "dashaData": {
+    "Ketu": {
+      "start": "01/01/600",
+      "end": "19/12/601",
+      "periodType": "malefic",
+      "subPeriods": {
+        "Saturn": {
+          "start": "01/01/600",
+          "end": "22/12/600",
+          "subPeriods": {
+            "Saturn": {
+              "start": "01/01/600",
+              "end": "16/01/600"
+            },
+            "Mercury": {
+              "start": "16/01/600",
+              "end": "14/03/600"
+            },
+            "Ketu": {
+              "start": "14/03/600",
+              "end": "07/04/600"
+            },
+            "Venus": {
+              "start": "07/04/600",
+              "end": "13/06/600"
+            },
+            "Sun": {
+              "start": "13/06/600",
+              "end": "03/07/600"
+            },
+            "Moon": {
+              "start": "03/07/600",
+              "end": "06/08/600"
+            },
+            "Mars": {
+              "start": "06/08/600",
+              "end": "30/08/600"
+            },
+            "Rahu": {
+              "start": "30/08/600",
+              "end": "30/10/600"
+            },
+            "Jupiter": {
+              "start": "30/10/600",
+              "end": "22/12/600"
+            }
+          }
+        },
+        "Mercury": {
+          "start": "22/12/600",
+          "end": "19/12/601",
+          "subPeriods": {
+            "Mercury": {
+              "start": "22/12/600",
+              "end": "11/02/601",
+              "periodType": "beneficial",
+              "subPeriods": {
+                "Mercury": {
+                  "start": "22/12/600",
+                  "end": "29/12/600",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Ketu": {
+                  "start": "29/12/600",
+                  "end": "01/01/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Venus": {
+                  "start": "01/01/601",
+                  "end": "09/01/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Sun": {
+                  "start": "09/01/601",
+                  "end": "12/01/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Moon": {
+                  "start": "12/01/601",
+                  "end": "16/01/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Mars": {
+                  "start": "16/01/601",
+                  "end": "19/01/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Rahu": {
+                  "start": "19/01/601",
+                  "end": "27/01/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Jupiter": {
+                  "start": "27/01/601",
+                  "end": "03/02/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Saturn": {
+                  "start": "03/02/601",
+                  "end": "11/02/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                }
+              }
+            },
+            "Ketu": {
+              "start": "11/02/601",
+              "end": "04/03/601",
+              "periodType": "malefic",
+              "subPeriods": {
+                "Ketu": {
+                  "start": "11/02/601",
+                  "end": "12/02/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Venus": {
+                  "start": "12/02/601",
+                  "end": "15/02/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Sun": {
+                  "start": "15/02/601",
+                  "end": "16/02/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Moon": {
+                  "start": "16/02/601",
+                  "end": "18/02/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Mars": {
+                  "start": "18/02/601",
+                  "end": "19/02/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Rahu": {
+                  "start": "19/02/601",
+                  "end": "22/02/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Jupiter": {
+                  "start": "22/02/601",
+                  "end": "25/02/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Saturn": {
+                  "start": "25/02/601",
+                  "end": "28/02/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Mercury": {
+                  "start": "28/02/601",
+                  "end": "03/03/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                }
+              }
+            },
+            "Venus": {
+              "start": "04/03/601",
+              "end": "03/05/601",
+              "periodType": "beneficial",
+              "subPeriods": {
+                "Venus": {
+                  "start": "04/03/601",
+                  "end": "14/03/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Sun": {
+                  "start": "14/03/601",
+                  "end": "17/03/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Moon": {
+                  "start": "17/03/601",
+                  "end": "22/03/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Mars": {
+                  "start": "22/03/601",
+                  "end": "25/03/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Rahu": {
+                  "start": "25/03/601",
+                  "end": "03/04/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Jupiter": {
+                  "start": "03/04/601",
+                  "end": "11/04/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Saturn": {
+                  "start": "11/04/601",
+                  "end": "21/04/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Mercury": {
+                  "start": "21/04/601",
+                  "end": "29/04/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Ketu": {
+                  "start": "29/04/601",
+                  "end": "02/05/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                }
+              }
+            },
+            "Sun": {
+              "start": "03/05/601",
+              "end": "21/05/601",
+              "periodType": "malefic",
+              "subPeriods": {
+                "Sun": {
+                  "start": "03/05/601",
+                  "end": "04/05/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Moon": {
+                  "start": "04/05/601",
+                  "end": "06/05/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Mars": {
+                  "start": "06/05/601",
+                  "end": "07/05/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Rahu": {
+                  "start": "07/05/601",
+                  "end": "10/05/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Jupiter": {
+                  "start": "10/05/601",
+                  "end": "12/05/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Saturn": {
+                  "start": "12/05/601",
+                  "end": "15/05/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Mercury": {
+                  "start": "15/05/601",
+                  "end": "18/05/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Ketu": {
+                  "start": "18/05/601",
+                  "end": "19/05/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Venus": {
+                  "start": "19/05/601",
+                  "end": "21/05/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                }
+              }
+            },
+            "Moon": {
+              "start": "21/05/601",
+              "end": "20/06/601",
+              "periodType": "beneficial",
+              "subPeriods": {
+                "Moon": {
+                  "start": "21/05/601",
+                  "end": "24/05/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Mars": {
+                  "start": "24/05/601",
+                  "end": "26/05/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Rahu": {
+                  "start": "26/05/601",
+                  "end": "30/05/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Jupiter": {
+                  "start": "30/05/601",
+                  "end": "03/06/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Saturn": {
+                  "start": "03/06/601",
+                  "end": "08/06/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Mercury": {
+                  "start": "08/06/601",
+                  "end": "12/06/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Ketu": {
+                  "start": "12/06/601",
+                  "end": "14/06/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Venus": {
+                  "start": "14/06/601",
+                  "end": "19/06/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Sun": {
+                  "start": "19/06/601",
+                  "end": "20/06/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                }
+              }
+            },
+            "Mars": {
+              "start": "20/06/601",
+              "end": "11/07/601",
+              "periodType": "malefic",
+              "subPeriods": {
+                "Mars": {
+                  "start": "20/06/601",
+                  "end": "21/06/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Rahu": {
+                  "start": "21/06/601",
+                  "end": "24/06/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Jupiter": {
+                  "start": "24/06/601",
+                  "end": "27/06/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Saturn": {
+                  "start": "27/06/601",
+                  "end": "30/06/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Mercury": {
+                  "start": "30/06/601",
+                  "end": "03/07/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Ketu": {
+                  "start": "03/07/601",
+                  "end": "04/07/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Venus": {
+                  "start": "04/07/601",
+                  "end": "07/07/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Sun": {
+                  "start": "07/07/601",
+                  "end": "08/07/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Moon": {
+                  "start": "08/07/601",
+                  "end": "10/07/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                }
+              }
+            },
+            "Rahu": {
+              "start": "11/07/601",
+              "end": "03/09/601",
+              "periodType": "malefic",
+              "subPeriods": {
+                "Rahu": {
+                  "start": "11/07/601",
+                  "end": "19/07/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Jupiter": {
+                  "start": "19/07/601",
+                  "end": "26/07/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Saturn": {
+                  "start": "26/07/601",
+                  "end": "04/08/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Mercury": {
+                  "start": "04/08/601",
+                  "end": "12/08/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Ketu": {
+                  "start": "12/08/601",
+                  "end": "15/08/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Venus": {
+                  "start": "15/08/601",
+                  "end": "24/08/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Sun": {
+                  "start": "24/08/601",
+                  "end": "27/08/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Moon": {
+                  "start": "27/08/601",
+                  "end": "31/08/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Mars": {
+                  "start": "31/08/601",
+                  "end": "03/09/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                }
+              }
+            },
+            "Jupiter": {
+              "start": "03/09/601",
+              "end": "21/10/601",
+              "periodType": "beneficial",
+              "subPeriods": {
+                "Jupiter": {
+                  "start": "03/09/601",
+                  "end": "09/09/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Saturn": {
+                  "start": "09/09/601",
+                  "end": "17/09/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Mercury": {
+                  "start": "17/09/601",
+                  "end": "24/09/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Ketu": {
+                  "start": "24/09/601",
+                  "end": "27/09/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Venus": {
+                  "start": "27/09/601",
+                  "end": "05/10/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Sun": {
+                  "start": "05/10/601",
+                  "end": "07/10/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Moon": {
+                  "start": "07/10/601",
+                  "end": "11/10/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Mars": {
+                  "start": "11/10/601",
+                  "end": "14/10/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Rahu": {
+                  "start": "14/10/601",
+                  "end": "21/10/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                }
+              }
+            },
+            "Saturn": {
+              "start": "21/10/601",
+              "end": "17/12/601",
+              "periodType": "malefic",
+              "subPeriods": {
+                "Saturn": {
+                  "start": "21/10/601",
+                  "end": "30/10/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Mercury": {
+                  "start": "30/10/601",
+                  "end": "07/11/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Ketu": {
+                  "start": "07/11/601",
+                  "end": "10/11/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Venus": {
+                  "start": "10/11/601",
+                  "end": "20/11/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Sun": {
+                  "start": "20/11/601",
+                  "end": "23/11/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Moon": {
+                  "start": "23/11/601",
+                  "end": "28/11/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                },
+                "Mars": {
+                  "start": "28/11/601",
+                  "end": "01/12/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Rahu": {
+                  "start": "01/12/601",
+                  "end": "10/12/601",
+                  "periodType": "malefic",
+                  "subPeriods": {}
+                },
+                "Jupiter": {
+                  "start": "10/12/601",
+                  "end": "17/12/601",
+                  "periodType": "beneficial",
+                  "subPeriods": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Venus": {
+      "start": "19/12/601",
+      "end": "19/12/621",
+      "periodType": "beneficial",
+      "subPeriods": {}
+    },
+    "Sun": {
+      "start": "19/12/621",
+      "end": "19/12/627",
+      "periodType": "malefic",
+      "subPeriods": {}
+    },
+    "Moon": {
+      "start": "19/12/627",
+      "end": "19/12/637",
+      "periodType": "beneficial",
+      "subPeriods": {}
+    },
+    "Mars": {
+      "start": "19/12/637",
+      "end": "19/12/644",
+      "periodType": "malefic",
+      "subPeriods": {}
+    },
+    "Rahu": {
+      "start": "19/12/644",
+      "end": "19/12/662",
+      "periodType": "malefic",
+      "subPeriods": {}
+    },
+    "Jupiter": {
+      "start": "19/12/662",
+      "end": "19/12/678",
+      "periodType": "beneficial",
+      "subPeriods": {}
+    },
+    "Saturn": {
+      "start": "19/12/678",
+      "end": "19/12/697",
+      "periodType": "malefic",
+      "subPeriods": {}
+    },
+    "Mercury": {
+      "start": "19/12/697",
+      "end": "19/12/714",
+      "periodType": "beneficial",
+      "subPeriods": {}
+    }
+  },
+  "lagnaSign": 9,
+  "ashtakavargaData": null,
+  "jaiminiKarakas": null,
+  "shadbalaResults": null,
+  "shadbalaSummary": null,
+  "calculatedAt": "2026-04-21T06:26:03.523Z"
+}

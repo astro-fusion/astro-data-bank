@@ -1,0 +1,261 @@
+id,list,status,batch,batch_num,country,notes
+1,List of Hindi film actors,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,70 fetched
+2,List of highest-grossing Indian films cast,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,limit=100; auto 2026-08-07
+3,List of Filmfare Award winners for Best Actor,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,20 fetched
+4,List of Filmfare Award winners for Best Actress,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,20 fetched
+5,List of National Film Award for Best Actor,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,20 fetched
+6,List of National Film Award for Best Actress,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,20 fetched
+7,List of Bigg Boss (Hindi TV series) contestants,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,limit=100; auto 2026-08-08
+8,List of Khatron Ke Khiladi contestants,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,limit=100; auto 2026-08-09
+9,List of Indian television series actors,completed,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,limit=100; auto 2026-08-09
+10,List of highest-paid Indian television actors,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+11,List of highest-grossing Telugu films cast,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+12,List of highest-grossing Tamil films cast,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+13,List of Filmfare Award for Best Actor – Telugu,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+14,List of Filmfare Award for Best Actor – Tamil,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+15,List of Femina Miss India winners,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+16,List of Miss Diva winners,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+17,List of Indian Stand-up comedians,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+18,List of MTV Roadies contestants,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+19,List of Indian playback singers,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+20,List of most-viewed Indian music videos on YouTube,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+21,List of Indian web series actors,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+22,List of Indian film villains,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+23,Forbes India Celebrity 100,skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+24,List of most-followed Instagram accounts (Indian),skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+25,List of most-followed Twitter accounts (Indian),skipped,🎬 Batch 1: High-Impact Entertainment & Pop Culture (India),1,india,
+26,List of India national cricket captains,completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,20 fetched
+27,Major Dhyan Chand Khel Ratna recipients,completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,Title adjustment needed; limit=100; auto 2026-08-06
+28,List of Indian Premier League centuries,completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,limit=100; auto 2026-08-06
+29,List of IPL records (Top scorers/takers),completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,limit=100; auto 2026-08-07
+30,List of Royal Challengers Bangalore cricketers,completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,limit=100; auto 2026-08-07
+31,List of Mumbai Indians cricketers,completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,limit=100; auto 2026-08-08
+32,List of Chennai Super Kings cricketers,completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,limit=100; auto 2026-08-09
+33,List of Kolkata Knight Riders cricketers,completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,limit=100; auto 2026-08-10
+34,"List of cricketers with 10,000+ runs in ODI",pending,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+35,List of Indian women's national cricket captains,skipped,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+36,Women's Premier League (cricket) squads,skipped,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+37,List of Indian Olympic medalists,pending,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+38,List of Commonwealth Games medalists (India),skipped,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+39,List of Asian Games medalists (India),skipped,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+40,List of Pro Kabaddi League players,skipped,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+41,List of Indian Super League marquee players,skipped,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+42,List of Arjuna Award recipients,completed,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+43,List of Indian chess grandmasters,pending,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+44,List of contemporaries of Sachin Tendulkar,skipped,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+45,List of current Indian state cricket captains,skipped,🏏 Batch 2: Elite Sports & Cricket (India),2,india,
+46,Forbes list of India's 100 richest people,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,20 fetched
+47,List of Indian women billionaires,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,limit=100; auto 2026-08-06
+48,Shark Tank India,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,20 fetched
+49,List of Indian startup founders,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,limit=100; auto 2026-08-06
+50,List of CEOs of Indian origin,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,limit=100; auto 2026-08-07
+51,List of spiritual leaders of India,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,limit=100; auto 2026-08-08
+52,List of Indian gurus,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,limit=100; auto 2026-08-08
+53,List of prominent Indian television journalists,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,limit=100; auto 2026-08-09
+54,List of Indian English news anchors,completed,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,limit=100; auto 2026-08-10
+55,List of Hindi news anchors,skipped,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,
+56,List of famous Indian chefs,pending,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,
+57,List of people involved in Indian scandals,skipped,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,
+58,List of Indian Booker Prize winners,pending,"💰 Batch 3: Power, Wealth, and Influence (India)",3,india,
+59,List of current Indian chief ministers,completed,🗳️ Batch 4: High-Search Politics (India),4,india,33 profiles
+60,List of cabinet ministers of India,completed,🗳️ Batch 4: High-Search Politics (India),4,india,limit=100; auto 2026-08-06
+61,List of members of the 18th Lok Sabha,completed,🗳️ Batch 4: High-Search Politics (India),4,india,150/543 fetched; limit=100; auto 2026-08-07
+62,List of presidents of the Indian National Congress,completed,🗳️ Batch 4: High-Search Politics (India),4,india,limit=100; auto 2026-08-07
+63,List of presidents of the Bharatiya Janata Party,completed,🗳️ Batch 4: High-Search Politics (India),4,india,limit=100; auto 2026-08-08
+64,List of chief ministers of Uttar Pradesh,completed,🗳️ Batch 4: High-Search Politics (India),4,india,limit=100; auto 2026-08-08
+65,List of chief ministers of Maharashtra,completed,🗳️ Batch 4: High-Search Politics (India),4,india,limit=100; auto 2026-08-09
+66,List of chief ministers of Bihar,skipped,🗳️ Batch 4: High-Search Politics (India),4,india,
+67,List of chief ministers of West Bengal,completed,🗳️ Batch 4: High-Search Politics (India),4,india,limit=100; auto 2026-08-21
+68,List of chief ministers of Tamil Nadu,skipped,🗳️ Batch 4: High-Search Politics (India),4,india,
+69,List of Indian politicians who died in office,skipped,🗳️ Batch 4: High-Search Politics (India),4,india,
+70,List of assassinated Indian politicians,skipped,🗳️ Batch 4: High-Search Politics (India),4,india,
+71,List of highest-grossing Nepali films cast,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,limit=100; auto 2026-08-09
+72,Miss Nepal,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,12 fetched
+73,Nepal Idol contestants,skipped,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,
+74,The Voice of Nepal contestants,skipped,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,
+75,List of billionaires of Nepal,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,limit=100; auto 2026-08-10
+76,List of Nepalese politicians,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,50 fetched
+77,List of members of 2nd Federal Parliament (Nepal),skipped,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,
+78,List of mayors of Kathmandu,skipped,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,
+79,List of provincial chief ministers of Nepal,skipped,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,
+80,List of Nepalese cricket captains,skipped,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,
+80,List of Nepalese cricket captains,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,20 fetched
+81,Nepal national cricket team,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,20 fetched
+82,List of prime ministers of Nepal,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,20 fetched
+83,List of Nepalese actors,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,50 fetched
+84,List of Nepalese singers,completed,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,50 fetched
+85,List of Nepalese YouTube creators,skipped,🇳🇵 Batch 5: Nepal Trending & Local High SEO,5,nepal,
+86,List of Indian scientists,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-06
+87,List of Indian mathematicians,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-06
+88,List of Indian writers in English,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-06
+89,List of Indian poets,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-07
+90,List of Mughal emperors,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-07
+91,List of Maratha rulers,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-08
+92,List of Nepalese Kings,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-09
+93,List of Rana prime ministers,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-09
+94,List of Indian military heroes,skipped,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,
+95,List of Nepalese mountaineers,completed,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,limit=100; auto 2026-08-10
+96,List of Indian women in STEM,pending,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,
+97,List of recipients of the Bharat Ratna,pending,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,
+98,List of Padma Vibhushan award recipients,pending,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,
+99,List of chief justices of India,pending,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,
+100,List of Indian diplomats,skipped,"🎓 Batch 6: Specialized SEO ""Hook"" Lists",6,india,
+64,Indian Americans,completed,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,Category: Indian emigrants to the United States
+65,British Indians,completed,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,Category: British people of Indian descent
+66,Indo-Canadians,completed,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,Category: Indo-Canadians (handled via others)
+67,Indian Australians,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+68,Nepalese Americans,completed,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,Category: American people of Nepalese descent
+106,List of Non-Resident Nepalis,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+70,List of chief executive officers of Indian origin,completed,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,Category: Indian chief executives
+71,Tech CEOs of Indian Origin,completed,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,Category: Indian chief executives in technology
+72,Wealthiest Indian Americans,completed,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,Category: Businesspeople of Indian descent
+73,Indian-American business executives,completed,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,Category: Businesspeople of Indian descent
+110,List of British Indian politicians,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+111,List of Indian-American politicians,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+112,List of Indo-Canadian politicians,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+113,List of Australian politicians of Indian descent,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+114,List of Indian-American actors,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+115,List of British Indian actors,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+116,List of Indo-Canadian actors,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+117,List of Indian-American writers,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+118,List of British Asian people in media and entertainment,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+119,Congressional Asian Pacific American Caucus,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+120,List of people of Indian descent,pending,🌎 Batch 7: The South Asian Diaspora: Power & Influence (Global),7,global,
+121,List of wealthiest Americans by net worth,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-04
+122,Forbes list of billionaires,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-04
+123,List of tech billionaires,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-04
+124,List of chief executives of major tech companies,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,"Elon Musk, Zuckerberg, etc.; limit=100; auto 2026-08-04"
+125,List of youngest billionaires,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-04
+126,List of richest women in the world,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-04
+127,List of Stanford University people,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-04
+128,List of Harvard University people,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-05
+129,List of Massachusetts Institute of Technology alumni,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-05
+130,List of alumni of the Indian Institutes of Technology,completed,💻 Batch 8: Global Tech Titans & Billionaires,8,global,limit=100; auto 2026-08-05
+131,List of presidents of the United States,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-02
+132,List of current United States senators,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-02
+133,List of current United States governors,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-02
+134,List of prime ministers of the United Kingdom,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-02
+135,List of prime ministers of Canada,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-03
+136,List of prime ministers of Australia,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-03
+137,List of mayors of major US cities,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-03
+138,List of mayors of London,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-03
+139,List of Time Person of the Year,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-03
+140,Forbes list of the World's Most Powerful People,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-03
+141,List of current heads of state and government,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-03
+142,List of female heads of state and government,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-04
+143,List of Nobel Peace Prize laureates,completed,🏛️ Batch 9: Global Politics & Leadership,9,global,limit=100; auto 2026-08-04
+144,List of highest-grossing actors,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-29
+145,List of Academy Award for Best Actor winners,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-29
+146,List of Academy Award for Best Actress winners,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-29
+147,List of Academy Award for Best Director winners,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+148,List of Marvel Cinematic Universe film actors,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+149,List of Game of Thrones characters,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+150,List of Harry Potter cast members,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+151,List of highest-paid film actors,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+152,List of Emmy Award winners,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+153,List of English-language pop singers,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+154,List of bestselling music artists,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+155,List of Grammy Award winners for Album of the Year,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+156,List of highest-grossing concert tours,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+157,List of most-followed YouTube channels,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+158,List of most-followed Instagram accounts,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+159,List of most-followed TikTok accounts,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-30
+160,List of reality television stars,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,"Kardashians, etc.; limit=100; auto 2026-07-31"
+161,List of former WWE personnel,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-31
+162,List of current WWE roster,completed,🎬 Batch 10: Hollywood & Global Entertainment,10,united_states,limit=100; auto 2026-07-31
+163,List of Australia Test cricketers,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-07-31
+164,List of England Test cricketers,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-07-31
+165,List of South Africa Test cricketers,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-07-31
+166,List of New Zealand Test cricketers,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-07-31
+167,List of United States national cricket team players,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+168,List of Canada national cricket team players,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+169,List of players in Major League Cricket,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+170,List of Global T20 Canada players,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+171,List of Premier League managers,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+172,List of current Premier League players,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+173,List of FIFA World Cup-winning captains,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+174,List of Grand Slam men's singles champions,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+175,List of Grand Slam women's singles champions,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+176,List of NBA champions,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+177,List of Formula One World Drivers' Champions,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+178,List of highest-paid athletes,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+179,List of Ultimate Fighting Championship champions,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+180,List of world chess champions,completed,"⚽ Batch 11: Global Sports (Cricket, Football, Tennis)",11,global,limit=100; auto 2026-08-01
+181,List of Nobel laureates in Physics,completed,"📚 Batch 12: Intellectuals, Authors, and Spiritual Figures",12,global,limit=100; auto 2026-08-06
+182,List of Nobel laureates in Literature,completed,"📚 Batch 12: Intellectuals, Authors, and Spiritual Figures",12,global,limit=100; auto 2026-08-06
+183,List of winners of the Pulitzer Prize for Fiction,completed,"📚 Batch 12: Intellectuals, Authors, and Spiritual Figures",12,global,limit=100; auto 2026-08-06
+184,List of modern writers,completed,"📚 Batch 12: Intellectuals, Authors, and Spiritual Figures",12,global,limit=100; auto 2026-08-07
+185,List of philosophers,completed,"📚 Batch 12: Intellectuals, Authors, and Spiritual Figures",12,global,limit=100; auto 2026-08-07
+186,List of Time 100,completed,"📚 Batch 12: Intellectuals, Authors, and Spiritual Figures",12,global,limit=100; auto 2026-08-08
+187,List of spiritual teachers,completed,"📚 Batch 12: Intellectuals, Authors, and Spiritual Figures",12,global,limit=100; auto 2026-08-09
+188,List of Indian South Africans,completed,🌏 Batch 13: Expanding the Global South Asian Net,13,global,limit=100; auto 2026-08-06
+189,List of Indian Singaporeans,completed,🌏 Batch 13: Expanding the Global South Asian Net,13,global,limit=100; auto 2026-08-06
+190,List of Indian Malaysians,completed,🌏 Batch 13: Expanding the Global South Asian Net,13,global,limit=100; auto 2026-08-06
+191,List of Indo-Fijians,completed,🌏 Batch 13: Expanding the Global South Asian Net,13,global,limit=100; auto 2026-08-07
+192,List of Mauritians of Indian descent,completed,🌏 Batch 13: Expanding the Global South Asian Net,13,global,limit=100; auto 2026-08-07
+193,List of people of Indian descent in the Caribbean,completed,🌏 Batch 13: Expanding the Global South Asian Net,13,global,limit=100; auto 2026-08-08
+194,List of prominent people of Nepalese descent (Global),completed,🌏 Batch 13: Expanding the Global South Asian Net,13,global,limit=100; auto 2026-08-09
+195,List of British Asians in association football,completed,🌏 Batch 13: Expanding the Global South Asian Net,13,global,limit=100; auto 2026-08-09
+196,List of Asian-American business executives,pending,🌏 Batch 13: Expanding the Global South Asian Net,13,global,
+197,List of Asian-American writers,pending,🌏 Batch 13: Expanding the Global South Asian Net,13,global,
+198,List of Asian Americans in mathematics and science,pending,🌏 Batch 13: Expanding the Global South Asian Net,13,global,
+199,List of BBC 100 Women,pending,🌏 Batch 13: Expanding the Global South Asian Net,13,global,
+200,List of most-retweeted tweets,pending,🌏 Batch 13: Expanding the Global South Asian Net,13,global,
+201,List of Nobel laureates in Chemistry,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+202,List of Nobel laureates in Physiology or Medicine,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+203,List of Turing Award laureates,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+204,List of Fields Medalists,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+205,List of astronauts by name,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+206,List of Nobel Memorial Prize laureates in Economic Sciences,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+207,List of Pritzker Architecture Prize laureates,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+208,Ballon d'Or,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+209,List of multiple Olympic gold medalists,completed,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,limit=100; auto 2026-08-10
+210,List of world heavyweight boxing champions,pending,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,
+211,List of Booker Prize winners,pending,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,
+212,List of fashion designers,pending,"🔬 Batch 14: Global Giants (Science, Economics, Architecture, Art, Sports)",14,global,
+213,List of Mexican actors,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-16
+214,List of Mexican singers,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-16
+215,List of presidents of Mexico,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-16
+216,List of Argentine actors,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-16
+217,List of Argentine singers,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-16
+218,List of presidents of Argentina,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-16
+219,List of Colombian actors,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-17
+220,List of Chilean actors,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-17
+221,List of Spanish actors,completed,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,limit=100; auto 2026-08-17
+222,List of Spanish singers,pending,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,
+223,List of Latin Grammy Award winners,pending,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,
+224,List of prime ministers of Spain,pending,🌎 Batch 15: Latin America & Spain (Spanish search intent),15,latin_america,
+225,List of Brazilian actors,completed,🇧🇷 Batch 16: Brazil (cabalística / mapa numerológico),16,brazil,limit=100; auto 2026-08-16
+226,List of Brazilian singers,completed,🇧🇷 Batch 16: Brazil (cabalística / mapa numerológico),16,brazil,limit=100; auto 2026-08-16
+227,List of Brazilian musicians,completed,🇧🇷 Batch 16: Brazil (cabalística / mapa numerológico),16,brazil,limit=100; auto 2026-08-16
+228,List of Brazil international footballers,completed,🇧🇷 Batch 16: Brazil (cabalística / mapa numerológico),16,brazil,limit=100; auto 2026-08-16
+229,List of presidents of Brazil,completed,🇧🇷 Batch 16: Brazil (cabalística / mapa numerológico),16,brazil,limit=100; auto 2026-08-16
+230,List of Brazilian television actors,completed,🇧🇷 Batch 16: Brazil (cabalística / mapa numerológico),16,brazil,limit=100; auto 2026-08-17
+231,List of Brazilian Formula One drivers,completed,🇧🇷 Batch 16: Brazil (cabalística / mapa numerológico),16,brazil,limit=100; auto 2026-08-17
+232,List of Brazilian YouTubers,completed,🇧🇷 Batch 16: Brazil (cabalística / mapa numerológico),16,brazil,limit=100; auto 2026-08-17
+233,List of Russian actors,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-16
+234,List of Russian singers,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-16
+235,List of Russia international footballers,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-16
+236,List of presidents of Russia,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-16
+237,List of Ukrainian actors,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-16
+238,List of Ukrainian singers,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-17
+239,List of Russian tennis players,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-17
+240,List of Soviet and Russian film directors,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-17
+241,List of Kazakhstani singers,completed,🇷🇺 Batch 17: Russia & CIS (матрица судьбы market),17,russia,limit=100; auto 2026-08-17
+242,List of German actors,completed,"🇩🇪 Batch 18: DACH (Germany, Austria, Switzerland)",18,germany,limit=100; auto 2026-08-16
+243,List of German singers,completed,"🇩🇪 Batch 18: DACH (Germany, Austria, Switzerland)",18,germany,limit=100; auto 2026-08-16
+244,List of Germany international footballers,completed,"🇩🇪 Batch 18: DACH (Germany, Austria, Switzerland)",18,germany,limit=100; auto 2026-08-16
+245,List of chancellors of Germany,completed,"🇩🇪 Batch 18: DACH (Germany, Austria, Switzerland)",18,germany,limit=100; auto 2026-08-16
+246,List of Austrian actors,completed,"🇩🇪 Batch 18: DACH (Germany, Austria, Switzerland)",18,germany,limit=100; auto 2026-08-16
+247,List of Austrian singers,completed,"🇩🇪 Batch 18: DACH (Germany, Austria, Switzerland)",18,germany,limit=100; auto 2026-08-17
+248,List of Swiss actors,completed,"🇩🇪 Batch 18: DACH (Germany, Austria, Switzerland)",18,germany,limit=100; auto 2026-08-17
+249,List of German television actors,completed,"🇩🇪 Batch 18: DACH (Germany, Austria, Switzerland)",18,germany,limit=100; auto 2026-08-17
+250,List of Taiwanese actors,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-16
+251,List of Taiwanese singers,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-16
+252,List of Hong Kong actors,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-16
+253,List of Hong Kong singers,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-16
+254,List of Singaporean actors,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-16
+255,List of Malaysian actors,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-17
+256,Golden Horse Award for Best Leading Actor,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-17
+257,Golden Horse Award for Best Leading Actress,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-17
+258,List of Golden Melody Award winners,completed,"🇹🇼 Batch 19: Chinese diaspora (Taiwan, Hong Kong, Singapore, Malaysia)",19,taiwan,limit=100; auto 2026-08-17
