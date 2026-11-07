@@ -1,0 +1,33 @@
+{
+  "publicId": "c4cc586c",
+  "wikipediaSlug": "Donald_Tusk",
+  "wikipediaId": "Q946",
+  "name": "Donald Tusk",
+  "fullName": "Donald Tusk",
+  "profileSummary": "Donald Franciszek Tusk is a Polish politician and historian who has served as the prime minister of Poland since 2023, previously holding the office from 2007 to 2014. Tusk was President of the European Council from 2014 to 2019 and led the European People's Party from 2019 to 2022. He co-founded the Civic Platform (PO), one of the dominant Polish political parties, and was its longtime leader – from 2003 to 2014 and again from 2021 to 2025 – before it merged into the Civic Coalition (KO) party. He is the longest-serving prime minister of the Third Polish Republic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Donald_Tusk_2025_%282%29.jpg/330px-Donald_Tusk_2025_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Tusk",
+  "dateOfBirth": "1957-04-22",
+  "birthDateParsed": "1957-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.3482907",
+  "birthCoordinatesLng": "18.6540233",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "historian",
+    "head of government"
+  ],
+  "qid": "Q946",
+  "birthPlace": "Gdańsk",
+  "fetchedAt": "2026-08-03T16:50:34.889Z"
+}

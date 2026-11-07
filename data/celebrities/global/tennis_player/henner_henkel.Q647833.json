@@ -1,0 +1,31 @@
+{
+  "publicId": "d7bc0193",
+  "wikipediaSlug": "Henner_Henkel",
+  "wikipediaId": "Q647833",
+  "name": "Henner Henkel",
+  "fullName": "Henner Henkel",
+  "profileSummary": "Heinrich Ernst Otto \"Henner\" Henkel was a German tennis player during the 1930s. His biggest success was his singles title at the 1937 French Championships.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Henner_Henkel_1937.jpg/330px-Henner_Henkel_1937.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henner_Henkel",
+  "dateOfBirth": "1915-10-09",
+  "birthDateParsed": "1915-10-09",
+  "dateOfDeath": "1943-01-13",
+  "deathDateParsed": "1943-01-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.408333333",
+  "birthCoordinatesLng": "16.933611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q647833",
+  "birthPlace": "Poznań",
+  "fetchedAt": "2026-08-01T13:11:04.179Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "a03ef3fa",
+  "wikipediaSlug": "Dennis_Ritchie",
+  "wikipediaId": "Q45575",
+  "name": "Dennis Ritchie",
+  "fullName": "Dennis Ritchie",
+  "profileSummary": "Dennis MacAlistair Ritchie was an American computer scientist. He created, together with long-time colleague Ken Thompson, the Unix operating system, C programming language, and B programming language.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/330px-Dennis_Ritchie_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Ritchie",
+  "dateOfBirth": "1941-09-09",
+  "birthDateParsed": "1941-09-09",
+  "dateOfDeath": "2011-10-12",
+  "deathDateParsed": "2011-10-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.94",
+  "birthCoordinatesLng": "-73.826111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "programmer",
+    "writer",
+    "mathematician"
+  ],
+  "qid": "Q45575",
+  "birthPlace": "Bronxville",
+  "fetchedAt": "2026-08-10T04:28:28.761Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "df4262bf",
+  "wikipediaSlug": "Charlie_Frank",
+  "wikipediaId": "Q5084873",
+  "name": "Charlie Frank",
+  "fullName": "Charlie Frank",
+  "profileSummary": "Charles Newton Frank was a South African Test cricketer of the 1920s.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Frank",
+  "dateOfBirth": "1891-01-27",
+  "birthDateParsed": "1891-01-27",
+  "dateOfDeath": "1961-12-25",
+  "deathDateParsed": "1961-12-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.761944444",
+  "birthCoordinatesLng": "25.426666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5084873",
+  "birthPlace": "Jagersfontein",
+  "fetchedAt": "2026-07-31T20:21:54.844Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "1be2bf8e",
+  "wikipediaSlug": "Menachem_Begin",
+  "wikipediaId": "Q130873",
+  "name": "Menachem Begin",
+  "fullName": "Menachem Begin",
+  "profileSummary": "Menachem Begin was an Israeli politician who founded the political parties Herut and Likud and served as prime minister of Israel from 1977 to 1983.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Menachem_Begin_and_Cyrus_R._Vance_%28cropped%29_%282%29.JPEG/330px-Menachem_Begin_and_Cyrus_R._Vance_%28cropped%29_%282%29.JPEG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Menachem_Begin",
+  "dateOfBirth": "1913-08-16",
+  "birthDateParsed": "1913-08-16",
+  "dateOfDeath": "1992-03-09",
+  "deathDateParsed": "1992-03-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.084722222",
+  "birthCoordinatesLng": "23.656944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q130873",
+  "birthPlace": "Brest",
+  "fetchedAt": "2026-08-04T02:13:55.602Z"
+}

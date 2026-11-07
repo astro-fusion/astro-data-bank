@@ -1,0 +1,32 @@
+{
+  "publicId": "8ee5ef1f",
+  "wikipediaSlug": "Katie_Hobbs",
+  "wikipediaId": "Q16226012",
+  "name": "Katie Hobbs",
+  "fullName": "Katie Hobbs",
+  "profileSummary": "Kathleen Marie Hobbs is an American politician serving since 2023 as the 24th governor of Arizona. A member of the Democratic Party, she served from 2019 to 2023 as Arizona's Secretary of State and from 2011 to 2019 as a member of the Arizona Legislature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Katie_Hobbs_2026.jpg/330px-Katie_Hobbs_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Katie_Hobbs",
+  "dateOfBirth": "1969-12-28",
+  "birthDateParsed": "1969-12-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.448333333",
+  "birthCoordinatesLng": "-112.073888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "social worker"
+  ],
+  "qid": "Q16226012",
+  "birthPlace": "Phoenix",
+  "fetchedAt": "2026-08-02T03:28:11.976Z"
+}

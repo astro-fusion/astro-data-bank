@@ -1,0 +1,33 @@
+{
+  "publicId": "25f9296a",
+  "wikipediaSlug": "Anna_Crone",
+  "wikipediaId": "Q59629272",
+  "name": "Anna Crone",
+  "fullName": "Anna Crone",
+  "profileSummary": "Anna Lisa Crone was an American linguist and literary theorist.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Crone",
+  "dateOfBirth": "1946-06-09",
+  "birthDateParsed": "1946-06-09",
+  "dateOfDeath": "2009-06-19",
+  "deathDateParsed": "2009-06-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philologist",
+    "slavist",
+    "linguist"
+  ],
+  "qid": "Q59629272",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-05T02:43:24.506Z"
+}

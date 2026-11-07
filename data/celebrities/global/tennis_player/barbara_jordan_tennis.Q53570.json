@@ -1,0 +1,31 @@
+{
+  "publicId": "9411ece5",
+  "wikipediaSlug": "Barbara_Jordan_(tennis)",
+  "wikipediaId": "Q53570",
+  "name": "Barbara Jordan (tennis)",
+  "fullName": "Barbara Jordan (tennis)",
+  "profileSummary": "Barbara Jordan is an American former professional tennis player who won the 1979 Australian Open singles title.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barbara_Jordan_(tennis)",
+  "dateOfBirth": "1957-04-02",
+  "birthDateParsed": "1957-04-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.05",
+  "birthCoordinatesLng": "-87.95",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q53570",
+  "birthPlace": "Milwaukee",
+  "fetchedAt": "2026-08-01T14:58:55.102Z"
+}

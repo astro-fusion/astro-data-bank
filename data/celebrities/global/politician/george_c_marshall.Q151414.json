@@ -1,0 +1,35 @@
+{
+  "publicId": "8d440bfd",
+  "wikipediaSlug": "George_C._Marshall",
+  "wikipediaId": "Q151414",
+  "name": "George C. Marshall",
+  "fullName": "George C. Marshall",
+  "profileSummary": "General of the Army George Catlett Marshall Jr. was an American military officer and diplomat. He rose through the United States Army to become Chief of Staff of the U.S. Army under presidents Franklin D. Roosevelt and Harry S. Truman, then served as Secretary of State and Secretary of Defense under Truman. Winston Churchill lauded Marshall as the \"organizer of victory\" for his leadership of the Allied victory in World War II. During the subsequent year, he unsuccessfully tried to prevent the continuation of the Chinese Civil War. As Secretary of State, Marshall advocated for a U.S. economic and political commitment to post-war European recovery, including the Marshall Plan that bore his name. In recognition of this work, he was awarded the Nobel Peace Prize in 1953, the only Army general ever to receive the honor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/General_George_C._Marshall%2C_official_military_photo%2C_1946_%28cropped%29%28c%29.JPEG/330px-General_George_C._Marshall%2C_official_military_photo%2C_1946_%28cropped%29%28c%29.JPEG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_C._Marshall",
+  "dateOfBirth": "1880-12-31",
+  "birthDateParsed": "1880-12-31",
+  "dateOfDeath": "1959-10-16",
+  "deathDateParsed": "1959-10-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.9",
+  "birthCoordinatesLng": "-79.724444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "army officer",
+    "American football player",
+    "foreign minister"
+  ],
+  "qid": "Q151414",
+  "birthPlace": "Uniontown",
+  "fetchedAt": "2026-08-04T02:13:24.798Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "5f5fe6c2",
+  "wikipediaSlug": "Archie_Knox",
+  "wikipediaId": "Q357631",
+  "name": "Archie Knox",
+  "fullName": "Archie Knox",
+  "profileSummary": "Archibald Gall Knox is a Scottish football player and coach. He was most recently the assistant manager of Aberdeen until leaving the club in March 2013.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Archie_Knox",
+  "dateOfBirth": "1947-05-01",
+  "birthDateParsed": "1947-05-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.533",
+  "birthCoordinatesLng": "-2.96409",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q357631",
+  "birthPlace": "Tealing",
+  "fetchedAt": "2026-08-01T05:20:07.496Z"
+}

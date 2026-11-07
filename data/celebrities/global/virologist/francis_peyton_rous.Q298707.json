@@ -1,0 +1,35 @@
+{
+  "publicId": "016dea00",
+  "wikipediaSlug": "Francis_Peyton_Rous",
+  "wikipediaId": "Q298707",
+  "name": "Francis Peyton Rous",
+  "fullName": "Francis Peyton Rous",
+  "profileSummary": "Francis Peyton Rous was an American pathologist at the Rockefeller University known for his works in oncoviruses, blood transfusion and physiology of digestion. A medical graduate from the Johns Hopkins University, he was discouraged from becoming a practicing physician due to severe tuberculosis. After three years of working as an instructor of pathology at the University of Michigan, he became dedicated researcher at the Rockefeller Institute for Medical Research for the rest of his career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Peyton_Rous_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Peyton_Rous",
+  "dateOfBirth": "1879-10-05",
+  "birthDateParsed": "1879-10-05",
+  "dateOfDeath": "1970-02-16",
+  "deathDateParsed": "1970-02-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.286388888",
+  "birthCoordinatesLng": "-76.615",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "virologist",
+    "chemist",
+    "university teacher",
+    "physician",
+    "pathologist"
+  ],
+  "qid": "Q298707",
+  "birthPlace": "Baltimore",
+  "fetchedAt": "2026-08-10T03:15:25.178Z"
+}

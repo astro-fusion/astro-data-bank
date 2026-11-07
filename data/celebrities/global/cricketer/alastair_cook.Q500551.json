@@ -1,0 +1,31 @@
+{
+  "publicId": "8fab6c64",
+  "wikipediaSlug": "Alastair_Cook",
+  "wikipediaId": "Q500551",
+  "name": "Alastair Cook",
+  "fullName": "Alastair Cook",
+  "profileSummary": "Sir Alastair Nathan Cook is an English commentator and a former cricketer and captain of the England Test and One-Day International (ODI) cricket teams. Known for his compact technique and ability to bat for long periods, Cook is widely regarded as one of the greatest batters of his era and one of the greatest opening batsman of all time. He is the sixth-highest Test run scorer of all time and second-highest run scorer for England. He is England's second most-capped Test batsman and captained the England team in 59 Tests, as well as in 69 ODIs. He was also the youngest player to score 12,000 test runs. Cook retired from Test cricket in September 2018 and played for Essex in English domestic cricket until 2023, while also working for the BBC radio programme Test Match Special.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alastair_Cook_vs_Upminster_CC.jpg/330px-Alastair_Cook_vs_Upminster_CC.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alastair_Cook",
+  "dateOfBirth": "1984-12-25",
+  "birthDateParsed": "1984-12-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.865277777",
+  "birthCoordinatesLng": "-2.245833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q500551",
+  "birthPlace": "Gloucester",
+  "fetchedAt": "2026-07-31T20:08:02.943Z"
+}

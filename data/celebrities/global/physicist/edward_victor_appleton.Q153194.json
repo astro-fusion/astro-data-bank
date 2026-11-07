@@ -1,0 +1,34 @@
+{
+  "publicId": "101d18aa",
+  "wikipediaSlug": "Edward_Victor_Appleton",
+  "wikipediaId": "Q153194",
+  "name": "Edward Victor Appleton",
+  "fullName": "Edward Victor Appleton",
+  "profileSummary": "Sir Edward Victor Appleton was a British physicist who received the Nobel Prize in Physics in 1947 for his contributions to the knowledge of the ionosphere, which led to the development of radar and shortwave radio.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Appleton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Victor_Appleton",
+  "dateOfBirth": "1892-09-06",
+  "birthDateParsed": "1892-09-06",
+  "dateOfDeath": "1965-04-21",
+  "deathDateParsed": "1965-04-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "astronomer",
+    "researcher",
+    "university teacher"
+  ],
+  "qid": "Q153194",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T05:01:40.413Z"
+}

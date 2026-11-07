@@ -1,0 +1,33 @@
+{
+  "publicId": "5b812161",
+  "wikipediaSlug": "Peter_Diamond",
+  "wikipediaId": "Q109570",
+  "name": "Peter Diamond",
+  "fullName": "Peter Diamond",
+  "profileSummary": "Peter Arthur Diamond is an American economist known for his analysis of U.S. Social Security policy and his work as an advisor to the Advisory Council on Social Security in the late 1980s and 1990s. He was awarded the Nobel Memorial Prize in Economic Sciences in 2010, along with Dale T. Mortensen and Christopher A. Pissarides. He is an Institute Professor at the Massachusetts Institute of Technology. On June 6, 2011, he withdrew his nomination to serve on the Federal Reserve's board of governors, citing intractable Republican opposition for 14 months.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Peter_Diamond_%28economist%29.jpg/330px-Peter_Diamond_%28economist%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Diamond",
+  "dateOfBirth": "1940-04-29",
+  "birthDateParsed": "1940-04-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "professor"
+  ],
+  "qid": "Q109570",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T09:44:05.218Z"
+}

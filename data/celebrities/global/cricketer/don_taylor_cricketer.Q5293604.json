@@ -1,0 +1,31 @@
+{
+  "publicId": "5b1301a3",
+  "wikipediaSlug": "Don_Taylor_(cricketer)",
+  "wikipediaId": "Q5293604",
+  "name": "Don Taylor (cricketer)",
+  "fullName": "Don Taylor (cricketer)",
+  "profileSummary": "Donald Dougald Taylor was a New Zealand cricketer who played in three Test matches from 1947 to 1956. His nickname was \"Bloke\", because of his frequent use of the word.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/D_D_Taylor_1949.jpg/330px-D_D_Taylor_1949.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_Taylor_(cricketer)",
+  "dateOfBirth": "1923-03-02",
+  "birthDateParsed": "1923-03-02",
+  "dateOfDeath": "1980-12-05",
+  "deathDateParsed": "1980-12-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5293604",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:02:32.879Z"
+}

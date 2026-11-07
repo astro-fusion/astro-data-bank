@@ -1,0 +1,33 @@
+{
+  "publicId": "04cdea0e",
+  "wikipediaSlug": "Annie_Zaenen",
+  "wikipediaId": "Q4769463",
+  "name": "Annie Zaenen",
+  "fullName": "Annie Zaenen",
+  "profileSummary": "Annie Else Zaenen is an adjunct professor of linguistics at Stanford University, California, United States.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annie_Zaenen",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "linguist",
+    "academic",
+    "university teacher"
+  ],
+  "qid": "Q4769463",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-04T15:05:05.973Z"
+}

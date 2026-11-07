@@ -1,0 +1,32 @@
+{
+  "publicId": "53f97e54",
+  "wikipediaSlug": "Francis_William_Aston",
+  "wikipediaId": "Q102291",
+  "name": "Francis William Aston",
+  "fullName": "Francis William Aston",
+  "profileSummary": "Francis William Aston FRS was a British chemist and physicist who won the 1922 Nobel Prize in Chemistry for his discovery, by means of his mass spectrograph, of isotopes in many non-radioactive elements and for his enunciation of the whole number rule. He was a fellow of the Royal Society and Fellow of Trinity College, Cambridge.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Francis_William_Aston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_William_Aston",
+  "dateOfBirth": "1877-09-01",
+  "birthDateParsed": "1877-09-01",
+  "dateOfDeath": "1945-11-20",
+  "deathDateParsed": "1945-11-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.45",
+  "birthCoordinatesLng": "-1.97",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "chemist"
+  ],
+  "qid": "Q102291",
+  "birthPlace": "Harborne",
+  "fetchedAt": "2026-08-10T02:04:01.113Z"
+}

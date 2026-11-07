@@ -1,0 +1,35 @@
+{
+  "publicId": "fb016559",
+  "wikipediaSlug": "Annette_Gordon-Reed",
+  "wikipediaId": "Q1247765",
+  "name": "Annette Gordon-Reed",
+  "fullName": "Annette Gordon-Reed",
+  "profileSummary": "Annette Gordon-Reed is an American historian and law professor. She is currently the Carl M. Loeb University Professor at Harvard University and a professor of history in the university's Faculty of Arts & Sciences. She is formerly the Charles Warren Professor of American Legal History at Harvard University and the Carol K. Pforzheimer Professor at the Radcliffe Institute for Advanced Study. Gordon-Reed is noted for changing scholarship on Thomas Jefferson regarding his relationship with Sally Hemings and her children.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Annette_Gordon_Reed_NBCC_2011_Shankbone.jpg/330px-Annette_Gordon_Reed_NBCC_2011_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annette_Gordon-Reed",
+  "dateOfBirth": "1958-11-19",
+  "birthDateParsed": "1958-11-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.7094",
+  "birthCoordinatesLng": "-94.9344",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "university teacher",
+    "writer",
+    "legal historian",
+    "jurist"
+  ],
+  "qid": "Q1247765",
+  "birthPlace": "Livingston",
+  "fetchedAt": "2026-08-05T02:43:28.856Z"
+}

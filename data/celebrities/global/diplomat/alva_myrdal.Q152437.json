@@ -1,0 +1,38 @@
+{
+  "publicId": "8ffd785d",
+  "wikipediaSlug": "Alva_Myrdal",
+  "wikipediaId": "Q152437",
+  "name": "Alva Myrdal",
+  "fullName": "Alva Myrdal",
+  "profileSummary": "Alva Myrdal was a Swedish sociologist, diplomat and politician. She was a prominent leader of the disarmament movement. She, along with Alfonso García Robles, received the Nobel Peace Prize in 1982. She married Gunnar Myrdal in 1924; he received the Nobel Memorial Prize in Economic Sciences in 1974, making them the fourth ever married couple to have won Nobel Prizes, and the first to win independent of each other.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ARB-Alva-Myrdal.jpg/330px-ARB-Alva-Myrdal.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alva_Myrdal",
+  "dateOfBirth": "1902-01-31",
+  "birthDateParsed": "1902-01-31",
+  "dateOfDeath": "1986-02-01",
+  "deathDateParsed": "1986-02-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.858130555",
+  "birthCoordinatesLng": "17.633577777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "politician",
+    "sociologist",
+    "writer",
+    "ambassador",
+    "university teacher",
+    "social reformer",
+    "journalist"
+  ],
+  "qid": "Q152437",
+  "birthPlace": "Uppsala Cathedral Assembly",
+  "fetchedAt": "2026-08-04T02:12:52.292Z"
+}

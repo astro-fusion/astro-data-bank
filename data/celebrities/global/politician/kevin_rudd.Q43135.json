@@ -1,0 +1,36 @@
+{
+  "publicId": "0ef6a753",
+  "wikipediaSlug": "Kevin_Rudd",
+  "wikipediaId": "Q43135",
+  "name": "Kevin Rudd",
+  "fullName": "Kevin Rudd",
+  "profileSummary": "Kevin Michael Rudd is an Australian diplomat and former politician who served as the 26th prime minister of Australia from 2007 to 2010 and from June to September 2013, holding office as the leader of the Labor Party. From 2023 to 2026, Rudd was the ambassador of Australia to the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kevin_Michael_Rudd_HOM_2023_Portrait_%283x4_cropped%29.jpg/330px-Kevin_Michael_Rudd_HOM_2023_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Rudd",
+  "dateOfBirth": "1957-09-21",
+  "birthDateParsed": "1957-09-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-26.626944444",
+  "birthCoordinatesLng": "152.959166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "political scientist",
+    "head of government"
+  ],
+  "qid": "Q43135",
+  "placeOfBirth": "Nambour",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-21T07:59:31.606Z"
+}

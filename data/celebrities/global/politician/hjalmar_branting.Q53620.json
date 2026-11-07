@@ -1,0 +1,35 @@
+{
+  "publicId": "8b37a241",
+  "wikipediaSlug": "Hjalmar_Branting",
+  "wikipediaId": "Q53620",
+  "name": "Hjalmar Branting",
+  "fullName": "Hjalmar Branting",
+  "profileSummary": "Karl Hjalmar Branting was a Swedish statesman and diplomat who served as Prime Minister of Sweden on three occasions from 1920 to 1925. From 1907 until his death in 1925, Branting led the Social Democratic Party (SAP), playing a major role in advocating universal suffrage, an eight-hour workday, and other labor rights. He was also instrumental in foreign policy, including his support for the League of Nations. In 1921, Branting shared the Nobel Peace Prize with the Norwegian secretary-general of the Inter-Parliamentary Union, Christian Lous Lange.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hjalmar_Branting_by_Goodwin.jpg/330px-Hjalmar_Branting_by_Goodwin.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hjalmar_Branting",
+  "dateOfBirth": "1860-11-23",
+  "birthDateParsed": "1860-11-23",
+  "dateOfDeath": "1925-02-24",
+  "deathDateParsed": "1925-02-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.331111111",
+  "birthCoordinatesLng": "18.061666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "journalist",
+    "editing staff",
+    "social democrat"
+  ],
+  "qid": "Q53620",
+  "birthPlace": "Klara Church Parish",
+  "fetchedAt": "2026-08-04T02:13:27.419Z"
+}

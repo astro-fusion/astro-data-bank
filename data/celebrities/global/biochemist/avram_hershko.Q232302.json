@@ -1,0 +1,34 @@
+{
+  "publicId": "7e9f0302",
+  "wikipediaSlug": "Avram_Hershko",
+  "wikipediaId": "Q232302",
+  "name": "Avram Hershko",
+  "fullName": "Avram Hershko",
+  "profileSummary": "Avram Hershko is a Hungarian-born Israeli biochemist who received the Nobel Prize in Chemistry in 2004.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Avram_Hershko.jpg/330px-Avram_Hershko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Avram_Hershko",
+  "dateOfBirth": "1937-12-31",
+  "birthDateParsed": "1937-12-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.316666666",
+  "birthCoordinatesLng": "20.933333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "educator",
+    "university teacher",
+    "physician"
+  ],
+  "qid": "Q232302",
+  "birthPlace": "Karcag",
+  "fetchedAt": "2026-08-10T02:03:20.277Z"
+}

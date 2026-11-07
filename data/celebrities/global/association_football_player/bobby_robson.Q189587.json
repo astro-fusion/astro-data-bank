@@ -1,0 +1,33 @@
+{
+  "publicId": "5cf73f57",
+  "wikipediaSlug": "Bobby_Robson",
+  "wikipediaId": "Q189587",
+  "name": "Bobby Robson",
+  "fullName": "Bobby Robson",
+  "profileSummary": "Sir Robert William Robson was an English football player and coach. His career included periods playing for and later managing the England national team and being a UEFA Cup-winning manager at Ipswich Town.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Anefo_934-2658%2C_Bobby_Robson%2C_Netherlands%2C_14-06-1988.jpg/330px-Anefo_934-2658%2C_Bobby_Robson%2C_Netherlands%2C_14-06-1988.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Robson",
+  "dateOfBirth": "1933-02-18",
+  "birthDateParsed": "1933-02-18",
+  "dateOfDeath": "2009-07-31",
+  "deathDateParsed": "2009-07-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.817",
+  "birthCoordinatesLng": "-1.626",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "autobiographer",
+    "association football coach"
+  ],
+  "qid": "Q189587",
+  "birthPlace": "Sacriston",
+  "fetchedAt": "2026-08-01T05:19:24.524Z"
+}

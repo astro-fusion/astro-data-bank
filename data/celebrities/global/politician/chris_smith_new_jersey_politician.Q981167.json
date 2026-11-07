@@ -1,0 +1,33 @@
+{
+  "publicId": "01499a28",
+  "wikipediaSlug": "Chris_Smith_(New_Jersey_politician)",
+  "wikipediaId": "Q981167",
+  "name": "Chris Smith (New Jersey politician)",
+  "fullName": "Chris Smith (New Jersey politician)",
+  "profileSummary": "Christopher Henry Smith is an American politician serving as the U.S. representative for New Jersey's 4th congressional district since 1981. Though it has taken various forms, his district has always been situated in central New Jersey. Currently, the district contains parts of Ocean and Monmouth counties. Smith is a member of the Republican Party, having switched from the Democratic Party in 1978.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chris_Smith_official_photo.jpg/330px-Chris_Smith_official_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)",
+  "dateOfBirth": "1953-03-04",
+  "birthDateParsed": "1953-03-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.607222222",
+  "birthCoordinatesLng": "-74.281111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "business executive",
+    "businessperson"
+  ],
+  "qid": "Q981167",
+  "birthPlace": "Rahway",
+  "fetchedAt": "2026-08-02T02:16:11.894Z"
+}

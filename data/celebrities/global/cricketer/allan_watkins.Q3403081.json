@@ -1,0 +1,32 @@
+{
+  "publicId": "38cca722",
+  "wikipediaSlug": "Allan_Watkins",
+  "wikipediaId": "Q3403081",
+  "name": "Allan Watkins",
+  "fullName": "Allan Watkins",
+  "profileSummary": "Albert John \"Allan\" Watkins was a Welsh cricketer, who played for England in fifteen Tests from 1948 to 1952.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_Watkins",
+  "dateOfBirth": "1922-04-21",
+  "birthDateParsed": "1922-04-21",
+  "dateOfDeath": "2011-08-03",
+  "deathDateParsed": "2011-08-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.703611111",
+  "birthCoordinatesLng": "-2.901944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "association football player"
+  ],
+  "qid": "Q3403081",
+  "birthPlace": "Usk",
+  "fetchedAt": "2026-07-31T20:07:51.952Z"
+}

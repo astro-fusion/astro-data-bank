@@ -1,0 +1,33 @@
+{
+  "publicId": "a7a1f859",
+  "wikipediaSlug": "John_Harsanyi",
+  "wikipediaId": "Q272510",
+  "name": "John Harsanyi",
+  "fullName": "John Harsanyi",
+  "profileSummary": "John Charles Harsanyi was a Hungarian-American economist who spent most of his career at the University of California, Berkeley. He was the recipient of the Nobel Memorial Prize in Economic Sciences in 1994.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/John_Harsanyi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Harsanyi",
+  "dateOfBirth": "1920-05-29",
+  "birthDateParsed": "1920-05-29",
+  "dateOfDeath": "2000-08-09",
+  "deathDateParsed": "2000-08-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "professor",
+    "researcher"
+  ],
+  "qid": "Q272510",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-10T09:43:33.763Z"
+}

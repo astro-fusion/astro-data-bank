@@ -1,0 +1,31 @@
+{
+  "publicId": "ab66b1dd",
+  "wikipediaSlug": "Bill_Whitty",
+  "wikipediaId": "Q4911369",
+  "name": "Bill Whitty",
+  "fullName": "Bill Whitty",
+  "profileSummary": "William James Whitty was an Australian cricketer who played 14 Test matches between 1909 and 1912.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BillWhitty.jpg/330px-BillWhitty.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Whitty",
+  "dateOfBirth": "1886-08-15",
+  "birthDateParsed": "1886-08-15",
+  "dateOfDeath": "1974-01-30",
+  "deathDateParsed": "1974-01-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4911369",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-07-31T19:44:16.706Z"
+}

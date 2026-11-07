@@ -1,0 +1,33 @@
+{
+  "publicId": "13297314",
+  "wikipediaSlug": "Leonid_Kantorovich",
+  "wikipediaId": "Q107441",
+  "name": "Leonid Kantorovich",
+  "fullName": "Leonid Kantorovich",
+  "profileSummary": "Leonid Vitalyevich Kantorovich was a Soviet mathematician and economist, known for his theory and development of techniques for the optimal allocation of resources. He is regarded as the founder of linear programming. He was the winner of the Stalin Prize in 1949 and the Nobel Memorial Prize in Economic Sciences in 1975.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leonid_Kantorovich_1975.jpg/330px-Leonid_Kantorovich_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonid_Kantorovich",
+  "dateOfBirth": "1912-01-19",
+  "birthDateParsed": "1912-01-19",
+  "dateOfDeath": "1986-04-07",
+  "deathDateParsed": "1986-04-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q107441",
+  "birthPlace": "Saint Petersburg",
+  "fetchedAt": "2026-08-10T09:43:33.319Z"
+}

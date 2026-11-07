@@ -1,0 +1,36 @@
+{
+  "publicId": "d2d3d4a9",
+  "wikipediaSlug": "Robin_Li",
+  "wikipediaId": "Q92985",
+  "name": "Robin Li",
+  "fullName": "Robin Li",
+  "profileSummary": "Robin Li Yanhong is a Chinese software engineer and billionaire internet entrepreneur who is the co-founder and chief executive officer of Chinese multinational technology company Baidu. As of May 2025, his net worth was estimated at US$5.5 billion by Forbes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Robin_Li_%282020%29.png/330px-Robin_Li_%282020%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robin_Li",
+  "dateOfBirth": "1968-11-17",
+  "birthDateParsed": "1968-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.8576",
+  "birthCoordinatesLng": "113.57623",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "inventor",
+    "businessperson",
+    "computer scientist",
+    "software engineer",
+    "software developer"
+  ],
+  "qid": "Q92985",
+  "birthPlace": "Yangquan",
+  "fetchedAt": "2026-08-03T15:53:22.178Z"
+}

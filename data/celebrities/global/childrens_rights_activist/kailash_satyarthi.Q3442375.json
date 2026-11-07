@@ -1,0 +1,34 @@
+{
+  "publicId": "3e0b51ee",
+  "wikipediaSlug": "Kailash_Satyarthi",
+  "wikipediaId": "Q3442375",
+  "name": "Kailash Satyarthi",
+  "fullName": "Kailash Satyarthi",
+  "profileSummary": "Kailash Satyarthi is an Indian social reformer who campaigned against child labor in India and advocated for the universal right to education and right to life for children.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kailash_Satyarthi%2C_August_2023.jpg/330px-Kailash_Satyarthi%2C_August_2023.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kailash_Satyarthi",
+  "dateOfBirth": "1954-01-11",
+  "birthDateParsed": "1954-01-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.5239",
+  "birthCoordinatesLng": "77.8061",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "children's rights activist",
+    "engineer",
+    "academic",
+    "electrical engineer"
+  ],
+  "qid": "Q3442375",
+  "birthPlace": "Vidisha",
+  "fetchedAt": "2026-08-04T02:13:45.082Z"
+}

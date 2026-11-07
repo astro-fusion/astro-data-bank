@@ -1,0 +1,32 @@
+{
+  "publicId": "6ed29b07",
+  "wikipediaSlug": "Attilio_Lombardo",
+  "wikipediaId": "Q758145",
+  "name": "Attilio Lombardo",
+  "fullName": "Attilio Lombardo",
+  "profileSummary": "Attilio Lombardo is an Italian professional football manager and former player, currently working with Sampdoria as a caretaker and technical collaborator.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Attilio_Lombardo.JPG/330px-Attilio_Lombardo.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Attilio_Lombardo",
+  "dateOfBirth": "1966-01-06",
+  "birthDateParsed": "1966-01-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.0748531",
+  "birthCoordinatesLng": "14.14216165",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q758145",
+  "birthPlace": "Santa Maria la Fossa",
+  "fetchedAt": "2026-08-01T05:19:41.675Z"
+}

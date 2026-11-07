@@ -1,0 +1,36 @@
+{
+  "publicId": "0af510ec",
+  "wikipediaSlug": "Grazia_Deledda",
+  "wikipediaId": "Q7728",
+  "name": "Grazia Deledda",
+  "fullName": "Grazia Deledda",
+  "profileSummary": "Grazia Maria Cosima Damiana Deledda was an Italian writer who received the Nobel Prize for Literature in 1926 \"for her idealistically inspired writings which with plastic clarity picture the life on her native island [i.e. Sardinia] and with depth and sympathy deal with human problems in general\". She was the first Italian woman to receive the prize, and only the second woman in general after Selma Lagerlöf was awarded hers in 1909.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grazia_Deledda_1926.jpg/330px-Grazia_Deledda_1926.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Grazia_Deledda",
+  "dateOfBirth": "1871-11-11",
+  "birthDateParsed": "1871-11-11",
+  "dateOfDeath": "1936-08-15",
+  "deathDateParsed": "1936-08-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.3200621",
+  "birthCoordinatesLng": "9.3280792",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "novelist",
+    "playwright",
+    "prose writer",
+    "short story writer"
+  ],
+  "qid": "Q7728",
+  "birthPlace": "Nuoro",
+  "fetchedAt": "2026-08-06T07:41:35.395Z"
+}

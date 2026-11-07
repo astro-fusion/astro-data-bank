@@ -1,0 +1,41 @@
+{
+  "publicId": "995140c5",
+  "wikipediaSlug": "Martin_Luther_King_Jr.",
+  "wikipediaId": "Q8027",
+  "name": "Martin Luther King Jr.",
+  "fullName": "Martin Luther King Jr.",
+  "profileSummary": "Martin Luther King Jr. was an American civil rights activist and Baptist minister who was a prominent leader of the civil rights movement from 1955 until his assassination in 1968. He advanced civil rights for people of color in the United States through the use of nonviolent resistance and civil disobedience against Jim Crow laws and other forms of legalized discrimination, which most commonly affected African Americans.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/330px-Martin_Luther_King%2C_Jr..jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+  "dateOfBirth": "1929-01-15",
+  "birthDateParsed": "1929-01-15",
+  "dateOfDeath": "1968-04-04",
+  "deathDateParsed": "1968-04-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.754444444",
+  "birthCoordinatesLng": "-84.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "pastor",
+    "preacher",
+    "civil rights advocate",
+    "peace activist",
+    "pacifist",
+    "writer",
+    "politician",
+    "opinion journalist",
+    "religious leader",
+    "cleric",
+    "parson"
+  ],
+  "qid": "Q8027",
+  "birthPlace": "Atlanta",
+  "fetchedAt": "2026-08-04T02:13:53.494Z"
+}

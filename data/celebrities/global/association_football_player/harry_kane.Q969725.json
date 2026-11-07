@@ -1,0 +1,31 @@
+{
+  "publicId": "ea0987e9",
+  "wikipediaSlug": "Harry_Kane",
+  "wikipediaId": "Q969725",
+  "name": "Harry Kane",
+  "fullName": "Harry Kane",
+  "profileSummary": "Harry Edward Kane is an English professional footballer who plays as a striker for Bundesliga club Bayern Munich and captains the England national team. He is regarded as one of the best players in the world, one of the best strikers of his generation, and one of England's greatest ever players. Kane has scored over 500 career goals for club and country, being Tottenham Hotspur's all-time top goalscorer (280), England's all-time top goalscorer (85), and the highest-scoring English player in the UEFA Champions League (54). He is also the Premier League's second-highest all-time goalscorer (213) and the seventh-highest goalscorer for Bayern Munich (146).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/330px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Kane",
+  "dateOfBirth": "1993-07-28",
+  "birthDateParsed": "1993-07-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.584",
+  "birthCoordinatesLng": "-0.0211",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q969725",
+  "birthPlace": "Walthamstow",
+  "fetchedAt": "2026-08-10T11:28:41.934Z"
+}

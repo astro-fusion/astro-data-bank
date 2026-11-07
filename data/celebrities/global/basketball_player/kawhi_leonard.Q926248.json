@@ -1,0 +1,31 @@
+{
+  "publicId": "9e745d96",
+  "wikipediaSlug": "Kawhi_Leonard",
+  "wikipediaId": "Q926248",
+  "name": "Kawhi Leonard",
+  "fullName": "Kawhi Leonard",
+  "profileSummary": "Kawhi Anthony Leonard is an American professional basketball player for the Los Angeles Clippers of the National Basketball Association (NBA). A two-time NBA champion and two-time Finals MVP, he is a seven-time All-Star and seven-time member of the All-NBA Team. Nicknamed the \"Claw\" or \"Klaw\" for his ball-hawking skills and exceptionally large hands, Leonard is often regarded as one of the greatest two-way players in NBA history, earning seven All-Defensive Team selections and winning Defensive Player of the Year honors in 2015 and 2016. In 2021, he was named to the NBA 75th Anniversary Team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kawhi_Leonard_%287440607%29_%28cropped%29.jpg/330px-Kawhi_Leonard_%287440607%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kawhi_Leonard",
+  "dateOfBirth": "1991-06-29",
+  "birthDateParsed": "1991-06-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.982222222",
+  "birthCoordinatesLng": "-117.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q926248",
+  "birthPlace": "Riverside",
+  "fetchedAt": "2026-08-01T15:37:17.943Z"
+}

@@ -1,0 +1,39 @@
+{
+  "publicId": "444fceee",
+  "wikipediaSlug": "Joseph_Brodsky",
+  "wikipediaId": "Q862",
+  "name": "Joseph Brodsky",
+  "fullName": "Joseph Brodsky",
+  "profileSummary": "Iosif Aleksandrovich Brodsky, anglicized as Joseph, was a Russian and American poet and essayist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Joseph_Brodsky_1988.jpg/330px-Joseph_Brodsky_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Brodsky",
+  "dateOfBirth": "1940-05-24",
+  "birthDateParsed": "1940-05-24",
+  "dateOfDeath": "1996-01-25",
+  "deathDateParsed": "1996-01-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "translator",
+    "essayist",
+    "playwright",
+    "dramaturge",
+    "lecturer",
+    "writer",
+    "university teacher",
+    "librettist"
+  ],
+  "qid": "Q862",
+  "birthPlace": "Saint Petersburg",
+  "fetchedAt": "2026-08-06T07:42:06.840Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "40df86dc",
+  "wikipediaSlug": "Hans_Bethe",
+  "wikipediaId": "Q155794",
+  "name": "Hans Bethe",
+  "fullName": "Hans Bethe",
+  "profileSummary": "Hans Albrecht Eduard Bethe was a German-American physicist who made major contributions to nuclear physics, astrophysics, quantum electrodynamics and solid-state physics, and received the Nobel Prize in Physics in 1967 for his work on the theory of stellar nucleosynthesis. For most of his career, Bethe was a professor at Cornell University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hans_Bethe.jpg/330px-Hans_Bethe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Bethe",
+  "dateOfBirth": "1906-07-02",
+  "birthDateParsed": "1906-07-02",
+  "dateOfDeath": "2005-03-06",
+  "deathDateParsed": "2005-03-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.573333333",
+  "birthCoordinatesLng": "7.752222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "nuclear physicist",
+    "scientist"
+  ],
+  "qid": "Q155794",
+  "birthPlace": "Strasbourg",
+  "fetchedAt": "2026-08-06T05:02:26.424Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "1badd599",
+  "wikipediaSlug": "Alan_Smith_(cricketer)",
+  "wikipediaId": "Q4707785",
+  "name": "Alan Smith (cricketer)",
+  "fullName": "Alan Smith (cricketer)",
+  "profileSummary": "Alan Christopher Smith, often known as A. C. Smith, is an English former Test cricketer, who appeared in six Tests matches for England. Primarily a wicket-keeper, Smith was also a capable right-handed middle-order batsman and right-arm seam bowler. Very unusually for a regular wicket-keeper, he was sometimes selected by Warwickshire as a frontline bowler.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Smith_(cricketer)",
+  "dateOfBirth": "1936-10-25",
+  "birthDateParsed": "1936-10-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4707785",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-07-31T20:07:25.524Z"
+}

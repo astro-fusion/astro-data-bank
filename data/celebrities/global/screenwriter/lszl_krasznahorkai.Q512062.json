@@ -1,0 +1,34 @@
+{
+  "publicId": "95adf527",
+  "wikipediaSlug": "László_Krasznahorkai",
+  "wikipediaId": "Q512062",
+  "name": "László Krasznahorkai",
+  "fullName": "László Krasznahorkai",
+  "profileSummary": "László Krasznahorkai is a Hungarian writer, novelist and screenwriter. Krasznahorkai is known for his difficult and demanding novels, often labeled postmodern, which explore dystopian and melancholic themes. Several of his works, including his novels Satantango (1985) and The Melancholy of Resistance (1989), have been adapted into feature films by the director Béla Tarr.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Krasznahorkai_L%C3%A1szl%C3%B3_%28D%C3%A9ri_Mikl%C3%B3s%29_%283x4_cropped%29.jpg/330px-Krasznahorkai_L%C3%A1szl%C3%B3_%28D%C3%A9ri_Mikl%C3%B3s%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Krasznahorkai",
+  "dateOfBirth": "1954-01-05",
+  "birthDateParsed": "1954-01-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.65",
+  "birthCoordinatesLng": "21.282777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "novelist",
+    "writer",
+    "visiting docent"
+  ],
+  "qid": "Q512062",
+  "birthPlace": "Gyula",
+  "fetchedAt": "2026-08-06T07:42:18.609Z"
+}

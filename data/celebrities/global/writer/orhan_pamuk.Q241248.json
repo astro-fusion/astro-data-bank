@@ -1,0 +1,36 @@
+{
+  "publicId": "c997fcbe",
+  "wikipediaSlug": "Orhan_Pamuk",
+  "wikipediaId": "Q241248",
+  "name": "Orhan Pamuk",
+  "fullName": "Orhan Pamuk",
+  "profileSummary": "Ferit Orhan Pamuk is a Turkish novelist, screenwriter, academic, and recipient of the 2006 Nobel Prize in Literature. One of Turkey's most prominent novelists, he has sold over 13 million books in 63 languages, making him the country's best-selling writer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Orhan_Pamuk_2009_Shankbone.jpg/330px-Orhan_Pamuk_2009_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Orhan_Pamuk",
+  "dateOfBirth": "1952-06-07",
+  "birthDateParsed": "1952-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.01",
+  "birthCoordinatesLng": "28.960277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "screenwriter",
+    "essayist",
+    "journalist",
+    "academic"
+  ],
+  "qid": "Q241248",
+  "birthPlace": "Istanbul",
+  "fetchedAt": "2026-08-06T07:42:22.003Z"
+}

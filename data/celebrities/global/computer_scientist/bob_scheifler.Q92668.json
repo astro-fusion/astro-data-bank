@@ -1,0 +1,33 @@
+{
+  "publicId": "d24d71e6",
+  "wikipediaSlug": "Bob_Scheifler",
+  "wikipediaId": "Q92668",
+  "name": "Bob Scheifler",
+  "fullName": "Bob Scheifler",
+  "profileSummary": "Robert William Scheifler is an American computer scientist. He was born in Kirkwood, Missouri. He is most notable for leading the development of the X Window System from the project's inception in 1984 until the closure of the MIT X Consortium in 1996. He later\nbecame one of the architects of the Jini architecture at Sun Microsystems.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Scheifler",
+  "dateOfBirth": "1954-06-24",
+  "birthDateParsed": "1954-06-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.580555555",
+  "birthCoordinatesLng": "-90.414166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "mathematician"
+  ],
+  "qid": "Q92668",
+  "birthPlace": "Kirkwood",
+  "fetchedAt": "2026-08-05T03:16:10.952Z"
+}

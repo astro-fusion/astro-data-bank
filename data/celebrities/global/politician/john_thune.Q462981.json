@@ -1,0 +1,33 @@
+{
+  "publicId": "7187d72e",
+  "wikipediaSlug": "John_Thune",
+  "wikipediaId": "Q462981",
+  "name": "John Thune",
+  "fullName": "John Thune",
+  "profileSummary": "John Randolph Thune is an American politician serving as the senior United States senator from South Dakota, a seat he has held since 2005. A member of the Republican Party, Thune has served since 2025 as Senate majority leader and Senate Republican leader. From 1997 to 2003, Thune served as the U.S. representative for South Dakota's at-large congressional district.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/John_Thune_117th_Congress_portrait.jpg/330px-John_Thune_117th_Congress_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Thune",
+  "dateOfBirth": "1961-01-07",
+  "birthDateParsed": "1961-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.368361111",
+  "birthCoordinatesLng": "-100.351138888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson",
+    "railway executive"
+  ],
+  "qid": "Q462981",
+  "birthPlace": "Pierre",
+  "fetchedAt": "2026-08-02T02:17:14.516Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "9ce73686",
+  "wikipediaSlug": "A._G._Steel",
+  "wikipediaId": "Q3526160",
+  "name": "A. G. Steel",
+  "fullName": "A. G. Steel",
+  "profileSummary": "Allan Gibson Steel was an English amateur cricketer who played for Lancashire County Cricket Club from 1877 to 1893, and in Test cricket for England from 1880 to 1888. He was born in West Derby, Liverpool, and died in Paddington, Middlesex.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AG_Steel_c1895.jpg/330px-AG_Steel_c1895.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._G._Steel",
+  "dateOfBirth": "1858-09-24",
+  "birthDateParsed": "1858-09-24",
+  "dateOfDeath": "1914-06-15",
+  "deathDateParsed": "1914-06-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.4338",
+  "birthCoordinatesLng": "-2.907",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "barrister"
+  ],
+  "qid": "Q3526160",
+  "birthPlace": "West Derby",
+  "fetchedAt": "2026-07-31T20:08:18.496Z"
+}

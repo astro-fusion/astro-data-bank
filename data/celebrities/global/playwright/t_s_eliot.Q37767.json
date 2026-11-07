@@ -1,0 +1,43 @@
+{
+  "publicId": "8757a89d",
+  "wikipediaSlug": "T._S._Eliot",
+  "wikipediaId": "Q37767",
+  "name": "T. S. Eliot",
+  "fullName": "T. S. Eliot",
+  "profileSummary": "Thomas Stearns Eliot was a poet, essayist and playwright. He was a leading figure of modernist poetry in the English language where he altered the art through his use of pessimistic language, writing style, and verse structure. Awarded the Nobel Prize in Literature in 1948, he is considered one of the greatest poets of the English language. He is also noted for his critical essays, which often re-evaluated long-held cultural beliefs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_%281934%29.jpg/330px-Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_%281934%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/T._S._Eliot",
+  "dateOfBirth": "1888-09-26",
+  "birthDateParsed": "1888-09-26",
+  "dateOfDeath": "1965-01-04",
+  "deathDateParsed": "1965-01-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.626388888",
+  "birthCoordinatesLng": "-90.199444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "poet",
+    "essayist",
+    "literary critic",
+    "social critic",
+    "short story writer",
+    "university teacher",
+    "screenwriter",
+    "lyricist",
+    "children's writer",
+    "writer",
+    "Nobel Prize winner",
+    "bank teller"
+  ],
+  "qid": "Q37767",
+  "birthPlace": "St. Louis",
+  "fetchedAt": "2026-08-06T07:42:40.534Z"
+}

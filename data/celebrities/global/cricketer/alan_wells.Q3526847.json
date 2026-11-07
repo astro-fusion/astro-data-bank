@@ -1,0 +1,31 @@
+{
+  "publicId": "d59f421f",
+  "wikipediaSlug": "Alan_Wells",
+  "wikipediaId": "Q3526847",
+  "name": "Alan Wells",
+  "fullName": "Alan Wells",
+  "profileSummary": "Alan Peter Wells is an English cricketer. He played for Sussex from 1981 to 1996, where he was captain from 1992 to 1996. He then played for Kent from 1997 to 2000. In total he played 376 first-class matches in a career spanning twenty seasons, with a batting average of 38.57 and a top score of 253 not out.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Wells",
+  "dateOfBirth": "1961-10-02",
+  "birthDateParsed": "1961-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.8",
+  "birthCoordinatesLng": "0.06",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526847",
+  "birthPlace": "Newhaven",
+  "fetchedAt": "2026-07-31T20:07:53.190Z"
+}

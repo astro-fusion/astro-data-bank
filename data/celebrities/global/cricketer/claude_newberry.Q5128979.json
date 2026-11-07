@@ -1,0 +1,31 @@
+{
+  "publicId": "1bb035d9",
+  "wikipediaSlug": "Claude_Newberry",
+  "wikipediaId": "Q5128979",
+  "name": "Claude Newberry",
+  "fullName": "Claude Newberry",
+  "profileSummary": "Claude Newberry was a South African cricketer who played in four Test matches in the 1913–14 season.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Newberry",
+  "dateOfBirth": "1889-01-01",
+  "birthDateParsed": "1889-01-01",
+  "dateOfDeath": "1916-08-01",
+  "deathDateParsed": "1916-08-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.958055555",
+  "birthCoordinatesLng": "25.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5128979",
+  "birthPlace": "Gqeberha",
+  "fetchedAt": "2026-07-31T20:21:35.447Z"
+}

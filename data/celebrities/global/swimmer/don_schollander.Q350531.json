@@ -1,0 +1,31 @@
+{
+  "publicId": "3b155056",
+  "wikipediaSlug": "Don_Schollander",
+  "wikipediaId": "Q350531",
+  "name": "Don Schollander",
+  "fullName": "Don Schollander",
+  "profileSummary": "Donald Arthur Schollander is an American former competition swimmer, five-time Olympic champion, and former world record-holder in four events. He won a total of five gold medals and one silver medal at the 1964 and 1968 Summer Olympics. With four gold medals, he was the most successful athlete at the 1964 Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Don_Schollander_1964.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_Schollander",
+  "dateOfBirth": "1946-04-30",
+  "birthDateParsed": "1946-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.226944444",
+  "birthCoordinatesLng": "-80.843333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q350531",
+  "birthPlace": "Charlotte",
+  "fetchedAt": "2026-08-10T12:59:16.026Z"
+}

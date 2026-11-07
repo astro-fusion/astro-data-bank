@@ -1,0 +1,32 @@
+{
+  "publicId": "92bdac90",
+  "wikipediaSlug": "Evika_Siliņa",
+  "wikipediaId": "Q61121565",
+  "name": "Evika Siliņa",
+  "fullName": "Evika Siliņa",
+  "profileSummary": "Evika Siliņa is a Latvian politician who served as prime minister of Latvia from 2023 to 2026. From 2022 to 2023, she served as Minister of Welfare in the second cabinet of prime minister Krišjānis Kariņš. She is a member of the Unity political party, a member of the New Unity alliance, and the second female head of government of Latvia. She serves as the Member of Saeima since 11 June 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Evika_Sili%C5%86a_%282024%29_%28cropped%29.jpg/330px-Evika_Sili%C5%86a_%282024%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evika_Sili%C5%86a",
+  "dateOfBirth": "1975-08-03",
+  "birthDateParsed": "1975-08-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.9475",
+  "birthCoordinatesLng": "24.106944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q61121565",
+  "birthPlace": "Riga",
+  "fetchedAt": "2026-08-04T00:56:05.829Z"
+}

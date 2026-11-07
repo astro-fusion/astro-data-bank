@@ -1,0 +1,32 @@
+{
+  "publicId": "fb3cefec",
+  "wikipediaSlug": "Bjørn_Dæhlie",
+  "wikipediaId": "Q217505",
+  "name": "Bjørn Dæhlie",
+  "fullName": "Bjørn Dæhlie",
+  "profileSummary": "Bjørn Erlend Dæhlie is a Norwegian businessman and retired cross-country skier. From 1992 to 1999, Dæhlie won the Nordic World Cup six times, finishing second in 1994 and 1998. Dæhlie won a total of 29 medals in the Olympics and World Championships between 1991 and 1999, making him the most successful male cross-country skier in history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bj%C3%B8rn_D%C3%A6hlie_2011-01-26_001_%28cropped%29.jpg/330px-Bj%C3%B8rn_D%C3%A6hlie_2011-01-26_001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bj%C3%B8rn_D%C3%A6hlie",
+  "dateOfBirth": "1967-06-19",
+  "birthDateParsed": "1967-06-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.883333",
+  "birthCoordinatesLng": "11.566667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cross-country skier",
+    "businessperson"
+  ],
+  "qid": "Q217505",
+  "birthPlace": "Elverum Municipality",
+  "fetchedAt": "2026-08-10T12:58:52.087Z"
+}

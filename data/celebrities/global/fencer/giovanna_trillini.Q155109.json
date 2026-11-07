@@ -1,0 +1,31 @@
+{
+  "publicId": "de532f79",
+  "wikipediaSlug": "Giovanna_Trillini",
+  "wikipediaId": "Q155109",
+  "name": "Giovanna Trillini",
+  "fullName": "Giovanna Trillini",
+  "profileSummary": "Giovanna Trillini is an Italian foil fencer. She is a 4-time Olympic champion and won an additional silver and two bronze medals in individual Olympic competitions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Giovanna_Trillini_St_Maur_2015_ind_t112620.jpg/330px-Giovanna_Trillini_St_Maur_2015_ind_t112620.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giovanna_Trillini",
+  "dateOfBirth": "1970-05-17",
+  "birthDateParsed": "1970-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.523775",
+  "birthCoordinatesLng": "13.246197",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "fencer"
+  ],
+  "qid": "Q155109",
+  "birthPlace": "Jesi",
+  "fetchedAt": "2026-08-10T13:00:02.899Z"
+}

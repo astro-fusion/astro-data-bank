@@ -1,0 +1,32 @@
+{
+  "publicId": "fc921729",
+  "wikipediaSlug": "Michael_Kremer",
+  "wikipediaId": "Q1635006",
+  "name": "Michael Kremer",
+  "fullName": "Michael Kremer",
+  "profileSummary": "Michael Robert Kremer is an American development economist currently serving as university professor in economics at the University of Chicago and director of the Development Innovation Lab at the Becker Friedman Institute for Research in Economics. Kremer formerly served as the Gates Professor of Developing Societies at Harvard University, a role he held from 2003 to 2020. In 2019, Kremer was jointly awarded the Nobel Memorial Prize in Economic Sciences, together with Esther Duflo and Abhijit Banerjee, \"for their experimental approach to alleviating global poverty.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kremer_bio.jpg/330px-Kremer_bio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Kremer",
+  "dateOfBirth": "1964-11-12",
+  "birthDateParsed": "1964-11-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q1635006",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T09:43:44.905Z"
+}

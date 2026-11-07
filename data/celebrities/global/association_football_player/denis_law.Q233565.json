@@ -1,0 +1,31 @@
+{
+  "publicId": "82545e8d",
+  "wikipediaSlug": "Denis_Law",
+  "wikipediaId": "Q233565",
+  "name": "Denis Law",
+  "fullName": "Denis Law",
+  "profileSummary": "Denis Law was a Scottish footballer who played as a forward. His career as a football player began at Second Division Huddersfield Town in 1956. After four years at Huddersfield, he was signed by Manchester City for an estimated transfer fee of £55,000, which set a new British record. Law spent one year there before Torino bought him for £110,000, this time setting a new record fee for a transfer involving a British player. Although he played well in Italy, he found it difficult to settle there and signed for Manchester United in 1962, setting another British record transfer fee of £115,000.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Denis_Law_%284x5_cropped%29.jpg/330px-Denis_Law_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Law",
+  "dateOfBirth": "1940-02-24",
+  "birthDateParsed": "1940-02-24",
+  "dateOfDeath": "2025-01-17",
+  "deathDateParsed": "2025-01-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "57.15",
+  "birthCoordinatesLng": "-2.1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q233565",
+  "birthPlace": "Aberdeen",
+  "fetchedAt": "2026-08-10T11:27:45.715Z"
+}

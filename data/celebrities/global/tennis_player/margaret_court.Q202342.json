@@ -1,0 +1,31 @@
+{
+  "publicId": "2e07075e",
+  "wikipediaSlug": "Margaret_Court",
+  "wikipediaId": "Q202342",
+  "name": "Margaret Court",
+  "fullName": "Margaret Court",
+  "profileSummary": "Margaret Court, also known as Margaret Smith Court, is an Australian former world number 1 tennis player. Her 24 women's singles major titles and total of 64 major titles are the most in women's tennis history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Margaret_Court.png/330px-Margaret_Court.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Court",
+  "dateOfBirth": "1942-07-16",
+  "birthDateParsed": "1942-07-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.073333333",
+  "birthCoordinatesLng": "146.9144444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q202342",
+  "birthPlace": "Albury",
+  "fetchedAt": "2026-08-01T15:00:34.465Z"
+}

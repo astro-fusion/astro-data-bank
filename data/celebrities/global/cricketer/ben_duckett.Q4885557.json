@@ -1,0 +1,31 @@
+{
+  "publicId": "03b31711",
+  "wikipediaSlug": "Ben_Duckett",
+  "wikipediaId": "Q4885557",
+  "name": "Ben Duckett",
+  "fullName": "Ben Duckett",
+  "profileSummary": "Ben Matthew Duckett is an English international cricketer who plays for the England cricket team as a top-order batsman in all formats of the game. Duckett represents Nottinghamshire in domestic cricket and Trent Rockets in The Hundred.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/3_31_Another_four_%28Ben_Duckett_cropped%29.jpg/330px-3_31_Another_four_%28Ben_Duckett_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Duckett",
+  "dateOfBirth": "1994-10-17",
+  "birthDateParsed": "1994-10-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.3591",
+  "birthCoordinatesLng": "0.0741",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4885557",
+  "birthPlace": "Farnborough",
+  "fetchedAt": "2026-07-31T20:08:33.259Z"
+}

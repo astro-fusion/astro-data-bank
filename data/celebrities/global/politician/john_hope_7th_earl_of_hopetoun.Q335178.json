@@ -1,0 +1,31 @@
+{
+  "publicId": "312b560d",
+  "wikipediaSlug": "John_Hope,_7th_Earl_of_Hopetoun",
+  "wikipediaId": "Q335178",
+  "name": "John Hope, 7th Earl of Hopetoun",
+  "fullName": "John Hope, 7th Earl of Hopetoun",
+  "profileSummary": "John Adrian Louis Hope, 1st Marquess of Linlithgow, 7th Earl of Hopetoun was a British aristocrat and statesman who served as the first governor-general of Australia, in office from 1900 to 1902. He was previously the seventh governor of Victoria from 1889 to 1895.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lord_Hopetoun_1902.jpg/330px-Lord_Hopetoun_1902.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hope%2C_7th_Earl_of_Hopetoun",
+  "dateOfBirth": "1860-09-25",
+  "birthDateParsed": "1860-09-25",
+  "dateOfDeath": "1908-02-29",
+  "deathDateParsed": "1908-02-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.9875",
+  "birthCoordinatesLng": "-3.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q335178",
+  "birthPlace": "South Queensferry",
+  "fetchedAt": "2026-08-03T12:58:25.251Z"
+}

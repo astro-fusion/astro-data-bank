@@ -1,0 +1,33 @@
+{
+  "publicId": "95b7cf16",
+  "wikipediaSlug": "David_Thouless",
+  "wikipediaId": "Q726394",
+  "name": "David Thouless",
+  "fullName": "David Thouless",
+  "profileSummary": "David James Thouless was a British condensed-matter physicist. He was awarded the 1990 Wolf Prize and a laureate of the 2016 Nobel Prize for physics along with F. Duncan M. Haldane and J. Michael Kosterlitz for theoretical discoveries of topological phase transitions and topological phases of matter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/DavidThouless_1995_UW.jpg/330px-DavidThouless_1995_UW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Thouless",
+  "dateOfBirth": "1934-09-21",
+  "birthDateParsed": "1934-09-21",
+  "dateOfDeath": "2019-04-06",
+  "deathDateParsed": "2019-04-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.919238",
+  "birthCoordinatesLng": "-4.333202",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "nuclear physicist"
+  ],
+  "qid": "Q726394",
+  "birthPlace": "Bearsden",
+  "fetchedAt": "2026-08-06T05:01:34.415Z"
+}

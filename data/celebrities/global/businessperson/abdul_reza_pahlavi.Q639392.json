@@ -1,0 +1,32 @@
+{
+  "publicId": "00f8365d",
+  "wikipediaSlug": "Abdul_Reza_Pahlavi",
+  "wikipediaId": "Q639392",
+  "name": "Abdul Reza Pahlavi",
+  "fullName": "Abdul Reza Pahlavi",
+  "profileSummary": "Abdul Reza Pahlavi was a member of Iran's Pahlavi dynasty. He was a son of Reza Shah and a half-brother of Mohammad Reza Pahlavi.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Abdul_Reza_Pahlavi.jpg/330px-Abdul_Reza_Pahlavi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Reza_Pahlavi",
+  "dateOfBirth": "1924-08-19",
+  "birthDateParsed": "1924-08-19",
+  "dateOfDeath": "2004-05-11",
+  "deathDateParsed": "2004-05-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.688888888",
+  "birthCoordinatesLng": "51.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "entrepreneur"
+  ],
+  "qid": "Q639392",
+  "birthPlace": "Tehran",
+  "fetchedAt": "2026-08-05T02:42:09.120Z"
+}

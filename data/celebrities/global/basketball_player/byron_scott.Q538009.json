@@ -1,0 +1,33 @@
+{
+  "publicId": "97e466aa",
+  "wikipediaSlug": "Byron_Scott",
+  "wikipediaId": "Q538009",
+  "name": "Byron Scott",
+  "fullName": "Byron Scott",
+  "profileSummary": "Byron Antom Scott is an American former professional basketball player and coach in the National Basketball Association (NBA). As a role player, Scott won three NBA championships with the Los Angeles Lakers during their Showtime era in the 1980s. He was named the NBA Coach of the Year with the New Orleans Hornets in 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Byron_Scott_%28cropped%29.jpg/330px-Byron_Scott_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Byron_Scott",
+  "dateOfBirth": "1961-03-28",
+  "birthDateParsed": "1961-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.227777777",
+  "birthCoordinatesLng": "-111.961111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "coach"
+  ],
+  "qid": "Q538009",
+  "birthPlace": "Ogden",
+  "fetchedAt": "2026-08-01T15:36:54.799Z"
+}

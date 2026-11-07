@@ -1,0 +1,31 @@
+{
+  "publicId": "e0056f3a",
+  "wikipediaSlug": "Ada_Hegerberg",
+  "wikipediaId": "Q129118",
+  "name": "Ada Hegerberg",
+  "fullName": "Ada Hegerberg",
+  "profileSummary": "Ada Martine Stolsmo Hegerberg is a Norwegian professional footballer who plays as a striker for the Première Ligue club Lyon and captains the Norway national team. She is widely regarded as one of the best footballers in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/AHegerberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ada_Hegerberg",
+  "dateOfBirth": "1995-07-10",
+  "birthDateParsed": "1995-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "62.733333",
+  "birthCoordinatesLng": "7.183333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q129118",
+  "birthPlace": "Molde Municipality",
+  "fetchedAt": "2026-08-10T11:27:30.360Z"
+}

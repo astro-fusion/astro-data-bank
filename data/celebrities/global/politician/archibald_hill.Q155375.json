@@ -1,0 +1,35 @@
+{
+  "publicId": "3dfefde2",
+  "wikipediaSlug": "Archibald_Hill",
+  "wikipediaId": "Q155375",
+  "name": "Archibald Hill",
+  "fullName": "Archibald Hill",
+  "profileSummary": "Archibald Vivian Hill, better known to friends and colleagues as A. V. Hill, was a British physiologist, one of the founders of the diverse disciplines of biophysics and operations research. He shared the 1922 Nobel Prize in Physiology or Medicine for his elucidation of the production of heat and mechanical work in muscles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Archibald_Vivian_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Archibald_Hill",
+  "dateOfBirth": "1886-09-26",
+  "birthDateParsed": "1886-09-26",
+  "dateOfDeath": "1977-06-03",
+  "deathDateParsed": "1977-06-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.453611111",
+  "birthCoordinatesLng": "-2.5975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "mathematician",
+    "physician",
+    "physiologist",
+    "biophysicist"
+  ],
+  "qid": "Q155375",
+  "birthPlace": "Bristol",
+  "fetchedAt": "2026-08-10T03:13:40.266Z"
+}

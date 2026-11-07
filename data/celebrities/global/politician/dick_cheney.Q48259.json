@@ -1,0 +1,36 @@
+{
+  "publicId": "911e4f14",
+  "wikipediaSlug": "Dick_Cheney",
+  "wikipediaId": "Q48259",
+  "name": "Dick Cheney",
+  "fullName": "Dick Cheney",
+  "profileSummary": "Richard Bruce Cheney was an American politician and businessman who served as the 46th vice president of the United States under President George W. Bush from 2001 to 2009. Cheney was considered the architect of the Iraq War, and has been called the most powerful vice president in the history of the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/46_Dick_Cheney_3x4.jpg/330px-46_Dick_Cheney_3x4.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick_Cheney",
+  "dateOfBirth": "1941-01-30",
+  "birthDateParsed": "1941-01-30",
+  "dateOfDeath": "2025-11-03",
+  "deathDateParsed": "2025-11-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.809166666",
+  "birthCoordinatesLng": "-96.678055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "autobiographer",
+    "businessperson",
+    "merchant",
+    "vice president",
+    "entrepreneur"
+  ],
+  "qid": "Q48259",
+  "birthPlace": "Lincoln",
+  "fetchedAt": "2026-08-01T18:07:23.996Z"
+}

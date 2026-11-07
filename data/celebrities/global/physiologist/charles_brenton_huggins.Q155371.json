@@ -1,0 +1,35 @@
+{
+  "publicId": "7d634b20",
+  "wikipediaSlug": "Charles_Brenton_Huggins",
+  "wikipediaId": "Q155371",
+  "name": "Charles Brenton Huggins",
+  "fullName": "Charles Brenton Huggins",
+  "profileSummary": "Charles Brenton Huggins was a Canadian-American surgeon and physiologist known for his work on prostate function, prostate cancer, and breast cancer. Born in Halifax in 1901, Huggins moved to the United States for medical school. He was one of the founding staff members of the University of Chicago Medical School, where he remained for the duration of his professional research career. Huggins's work on how sex hormones influence prostate function ultimately led to his discovery of hormone therapies to treat prostate cancer. For this finding, he was awarded the 1966 Nobel Prize for Physiology or Medicine. In addition to his work on prostate cancer, Huggins explored the relationship between hormones and breast cancer, developed an animal model for breast cancer, and developed chromogenic substrates that are widely used for biochemical analyses. Huggins continued to perform research into his 90s; he died in Chicago in 1997.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Charles_Brenton_Huggins_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Brenton_Huggins",
+  "dateOfBirth": "1901-09-22",
+  "birthDateParsed": "1901-09-22",
+  "dateOfDeath": "1997-01-12",
+  "deathDateParsed": "1997-01-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.647777777",
+  "birthCoordinatesLng": "-63.571388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physiologist",
+    "oncologist",
+    "university teacher",
+    "surgeon",
+    "physician"
+  ],
+  "qid": "Q155371",
+  "birthPlace": "Halifax",
+  "fetchedAt": "2026-08-10T03:14:25.370Z"
+}

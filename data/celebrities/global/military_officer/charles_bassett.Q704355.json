@@ -1,0 +1,34 @@
+{
+  "publicId": "5404cb40",
+  "wikipediaSlug": "Charles_Bassett",
+  "wikipediaId": "Q704355",
+  "name": "Charles Bassett",
+  "fullName": "Charles Bassett",
+  "profileSummary": "Charles Arthur Bassett II was an American electrical engineer and United States Air Force test pilot and astronaut. He went to Ohio State University for two years and later graduated from Texas Tech University with a Bachelor of Science degree in Electrical Engineering. He joined the Air Force as a pilot and graduated from both the Air Force's Experimental Flight Test Pilot School and the Aerospace Research Pilot School. Bassett was married and had two children.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Charles_Bassett_S64-31443.jpg/330px-Charles_Bassett_S64-31443.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Bassett",
+  "dateOfBirth": "1931-12-30",
+  "birthDateParsed": "1931-12-30",
+  "dateOfDeath": "1966-02-28",
+  "deathDateParsed": "1966-02-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.766666666",
+  "birthCoordinatesLng": "-84.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "test pilot",
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q704355",
+  "birthPlace": "Dayton",
+  "fetchedAt": "2026-08-10T06:04:10.982Z"
+}

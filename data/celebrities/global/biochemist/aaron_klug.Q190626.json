@@ -1,0 +1,35 @@
+{
+  "publicId": "64325e6f",
+  "wikipediaSlug": "Aaron_Klug",
+  "wikipediaId": "Q190626",
+  "name": "Aaron Klug",
+  "fullName": "Aaron Klug",
+  "profileSummary": "Sir Aaron Klug was a British biophysicist and chemist. He was a winner of the 1982 Nobel Prize in Chemistry for his development of crystallographic electron microscopy and his structural elucidation of biologically important nucleic acid-protein complexes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aaron_Klug_1979.jpg/330px-Aaron_Klug_1979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Klug",
+  "dateOfBirth": "1926-08-11",
+  "birthDateParsed": "1926-08-11",
+  "dateOfDeath": "2018-11-20",
+  "deathDateParsed": "2018-11-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.2189",
+  "birthCoordinatesLng": "25.0969",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "molecular biologist",
+    "university teacher",
+    "chemist",
+    "biophysicist"
+  ],
+  "qid": "Q190626",
+  "birthPlace": "Želva",
+  "fetchedAt": "2026-08-10T02:03:19.318Z"
+}

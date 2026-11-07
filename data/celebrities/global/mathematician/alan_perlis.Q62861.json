@@ -1,0 +1,33 @@
+{
+  "publicId": "23961f43",
+  "wikipediaSlug": "Alan_Perlis",
+  "wikipediaId": "Q62861",
+  "name": "Alan Perlis",
+  "fullName": "Alan Perlis",
+  "profileSummary": "Alan Jay Perlis was an American computer scientist and professor at Purdue University, Carnegie Mellon University and Yale University. He is best known for his pioneering work in programming languages and in 1966 he became the first recipient of the ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Alan_Perlis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Perlis",
+  "dateOfBirth": "1922-04-01",
+  "birthDateParsed": "1922-04-01",
+  "dateOfDeath": "1990-02-07",
+  "deathDateParsed": "1990-02-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.441666666",
+  "birthCoordinatesLng": "-80",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q62861",
+  "birthPlace": "Pittsburgh",
+  "fetchedAt": "2026-08-10T04:28:14.147Z"
+}

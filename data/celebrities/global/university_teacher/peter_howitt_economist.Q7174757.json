@@ -1,0 +1,32 @@
+{
+  "publicId": "e5f7b3a4",
+  "wikipediaSlug": "Peter_Howitt_(economist)",
+  "wikipediaId": "Q7174757",
+  "name": "Peter Howitt (economist)",
+  "fullName": "Peter Howitt (economist)",
+  "profileSummary": "Peter Wilkinson Howitt is a Canadian economist and the Lyn Crost Professor of Social Sciences Emeritus at Brown University. He is best known for his collaborative work with Philippe Aghion on endogenous growth theory, the concept of creative destruction in modern macroeconomics and the Aghion–Howitt model. In 2025, Howitt and Aghion were jointly awarded the Nobel Memorial Prize in Economic Sciences \"for the theory of sustained growth through creative destruction.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Howitt_2025_Nobel_laurates_in_economic_sciences_%28cropped%29.jpg/330px-Peter_Howitt_2025_Nobel_laurates_in_economic_sciences_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Howitt_(economist)",
+  "dateOfBirth": "1946-05-31",
+  "birthDateParsed": "1946-05-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.55",
+  "birthCoordinatesLng": "-80.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "economist"
+  ],
+  "qid": "Q7174757",
+  "birthPlace": "Guelph",
+  "fetchedAt": "2026-08-10T09:44:22.679Z"
+}

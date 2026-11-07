@@ -1,0 +1,33 @@
+{
+  "publicId": "54663298",
+  "wikipediaSlug": "Hazel_Hotchkiss_Wightman",
+  "wikipediaId": "Q273519",
+  "name": "Hazel Hotchkiss Wightman",
+  "fullName": "Hazel Hotchkiss Wightman",
+  "profileSummary": "Hazel Virginia Hotchkiss Wightman, CBE was an American tennis player and founder of the Wightman Cup, an annual team competition for British and American women. She dominated American women's tennis before World War I and won 45 U.S. titles during her life.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hazel_hotchkiss_1910.jpg/330px-Hazel_hotchkiss_1910.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hazel_Hotchkiss_Wightman",
+  "dateOfBirth": "1886-12-20",
+  "birthDateParsed": "1886-12-20",
+  "dateOfDeath": "1974-12-05",
+  "deathDateParsed": "1974-12-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.6175",
+  "birthCoordinatesLng": "-122.866388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "badminton player",
+    "squash player"
+  ],
+  "qid": "Q273519",
+  "birthPlace": "Healdsburg",
+  "fetchedAt": "2026-08-01T14:59:57.672Z"
+}

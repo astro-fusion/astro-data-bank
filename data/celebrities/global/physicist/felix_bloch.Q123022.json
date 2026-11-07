@@ -1,0 +1,33 @@
+{
+  "publicId": "eb684788",
+  "wikipediaSlug": "Felix_Bloch",
+  "wikipediaId": "Q123022",
+  "name": "Felix Bloch",
+  "fullName": "Felix Bloch",
+  "profileSummary": "Felix Bloch was a Swiss–American theoretical physicist who shared the 1952 Nobel Prize in Physics with Edward Mills Purcell \"for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bloch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Felix_Bloch",
+  "dateOfBirth": "1905-10-23",
+  "birthDateParsed": "1905-10-23",
+  "dateOfDeath": "1983-09-10",
+  "deathDateParsed": "1983-09-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.374444444",
+  "birthCoordinatesLng": "8.541111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "nuclear physicist"
+  ],
+  "qid": "Q123022",
+  "birthPlace": "Zurich",
+  "fetchedAt": "2026-08-06T05:01:41.098Z"
+}

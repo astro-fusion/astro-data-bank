@@ -1,0 +1,33 @@
+{
+  "publicId": "6ddb1458",
+  "wikipediaSlug": "Amos_Horev",
+  "wikipediaId": "Q4747889",
+  "name": "Amos Horev",
+  "fullName": "Amos Horev",
+  "profileSummary": "Amos Horev is an Israeli military official and expert. He served as a commander in the Palmach the elite force of the Haganah before the founding of the state, and was later an Israel Defense Forces (IDF) Major-General, Chief of Ordnance and subsequently Quartermaster General and Chief Scientist of the IDF, nuclear scientist, President of Technion University, and Chairman of Rafael. In June 2010, he was appointed to the Israeli special independent Turkel Commission of Inquiry into the 2010 Gaza flotilla raid.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Amos_horev.jpeg/330px-Amos_horev.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amos_Horev",
+  "dateOfBirth": "1924-06-30",
+  "birthDateParsed": "1924-06-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.776679",
+  "birthCoordinatesLng": "35.234156",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "scientist",
+    "military officer"
+  ],
+  "qid": "Q4747889",
+  "birthPlace": "Jerusalem",
+  "fetchedAt": "2026-08-05T03:15:30.395Z"
+}

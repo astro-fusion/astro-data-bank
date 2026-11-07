@@ -1,0 +1,32 @@
+{
+  "publicId": "f2ef1661",
+  "wikipediaSlug": "Monty_Williams",
+  "wikipediaId": "Q1891397",
+  "name": "Monty Williams",
+  "fullName": "Monty Williams",
+  "profileSummary": "Tavares Montgomery Williams is an American professional basketball coach, executive, and former player of the National Basketball Association (NBA). He most recently served as the head coach of the Detroit Pistons. Williams played for five NBA teams during a playing career that spanned from 1994 to 2003. His NBA coaching career has included stints as an assistant coach, associate head coach, and head coach.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Monty_Williams_%28cropped%29.jpg/330px-Monty_Williams_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monty_Williams",
+  "dateOfBirth": "1971-10-08",
+  "birthDateParsed": "1971-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.301829",
+  "birthCoordinatesLng": "-77.470778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q1891397",
+  "birthPlace": "Fredericksburg",
+  "fetchedAt": "2026-08-01T15:38:06.009Z"
+}

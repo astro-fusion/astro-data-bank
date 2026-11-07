@@ -1,0 +1,33 @@
+{
+  "publicId": "36c7acf0",
+  "wikipediaSlug": "Ragnar_Frisch",
+  "wikipediaId": "Q187988",
+  "name": "Ragnar Frisch",
+  "fullName": "Ragnar Frisch",
+  "profileSummary": "Ragnar Anton Kittil Frisch was an influential Norwegian economist and econometrician known for being one of the major contributors to establishing economics as a quantitative and statistically informed science in the early 20th century. He coined the term econometrics in 1926 for utilising statistical methods to describe economic systems, as well as the terms microeconomics and macroeconomics in 1933, for describing individual and aggregate economic systems, respectively. He was the first to develop a statistically informed model of business cycles in 1933. Later work on the model, together with Jan Tinbergen, won the first Nobel Memorial Prize in Economic Sciences in 1969.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Uio_frisch_2006_0025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ragnar_Frisch",
+  "dateOfBirth": "1895-03-03",
+  "birthDateParsed": "1895-03-03",
+  "dateOfDeath": "1973-01-31",
+  "deathDateParsed": "1973-01-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.91183",
+  "birthCoordinatesLng": "10.73367",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "econometrician",
+    "university teacher"
+  ],
+  "qid": "Q187988",
+  "birthPlace": "Oslo Municipality",
+  "fetchedAt": "2026-08-10T09:43:58.324Z"
+}

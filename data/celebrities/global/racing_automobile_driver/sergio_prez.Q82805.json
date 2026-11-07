@@ -1,0 +1,32 @@
+{
+  "publicId": "fe1a2dca",
+  "wikipediaSlug": "Sergio_Pérez",
+  "wikipediaId": "Q82805",
+  "name": "Sergio Pérez",
+  "fullName": "Sergio Pérez",
+  "profileSummary": "Sergio Michel \"Checo\" Pérez Mendoza is a Mexican racing driver who competes in Formula One for Cadillac. Pérez was runner-up in the Formula One World Drivers' Championship in 2023 with Red Bull, and has won six Grands Prix across 15 seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2021_US_GP_driver_parade_%28cropped2%29.jpg/330px-2021_US_GP_driver_parade_%28cropped2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
+  "dateOfBirth": "1990-01-26",
+  "birthDateParsed": "1990-01-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.676388888",
+  "birthCoordinatesLng": "-103.342222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing automobile driver",
+    "Formula One driver"
+  ],
+  "qid": "Q82805",
+  "birthPlace": "Guadalajara",
+  "fetchedAt": "2026-08-01T16:01:53.170Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "46024b6b",
+  "wikipediaSlug": "Jack_Reed_(Rhode_Island_politician)",
+  "wikipediaId": "Q528979",
+  "name": "Jack Reed (Rhode Island politician)",
+  "fullName": "Jack Reed (Rhode Island politician)",
+  "profileSummary": "John Francis Reed is an American politician, lawyer, and former Army officer serving as the senior United States senator from Rhode Island, a seat he was first elected to in 1996. A member of the Democratic Party, he was the U.S. representative for Rhode Island's 2nd congressional district from 1991 to 1997. Reed graduated from the United States Military Academy and Harvard University. He served in the U.S. Army on active duty as an infantry officer in the 82nd Airborne Division from 1971 to 1979 and as a reservist from 1979 to 1991, retiring with the rank of Major. He has been the dean of Rhode Island's congressional delegation since John Chafee died in 1999.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sen._Jack_Reed_%28D-RI%29%2C_Official_Portrait%2C_119th_Congress_%281%29.jpg/330px-Sen._Jack_Reed_%28D-RI%29%2C_Official_Portrait%2C_119th_Congress_%281%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)",
+  "dateOfBirth": "1949-11-12",
+  "birthDateParsed": "1949-11-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.82399",
+  "birthCoordinatesLng": "-71.41283",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q528979",
+  "birthPlace": "Providence",
+  "fetchedAt": "2026-08-02T02:16:54.930Z"
+}

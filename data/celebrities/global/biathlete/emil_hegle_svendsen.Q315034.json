@@ -1,0 +1,33 @@
+{
+  "publicId": "4eea2c8c",
+  "wikipediaSlug": "Emil_Hegle_Svendsen",
+  "wikipediaId": "Q315034",
+  "name": "Emil Hegle Svendsen",
+  "fullName": "Emil Hegle Svendsen",
+  "profileSummary": "Emil Hegle Svendsen is a retired Norwegian biathlete. He has won nine medals at Winter Olympics and five individual gold medals and seven relay gold medals at World Championships.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emil_Hegle_Svendsen.JPG/330px-Emil_Hegle_Svendsen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Hegle_Svendsen",
+  "dateOfBirth": "1985-07-12",
+  "birthDateParsed": "1985-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "63.44",
+  "birthCoordinatesLng": "10.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biathlete",
+    "cross-country skier",
+    "biathlon coach"
+  ],
+  "qid": "Q315034",
+  "birthPlace": "Trondheim",
+  "fetchedAt": "2026-08-10T13:00:03.546Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "76a275a4",
+  "wikipediaSlug": "James_Tobin",
+  "wikipediaId": "Q211776",
+  "name": "James Tobin",
+  "fullName": "James Tobin",
+  "profileSummary": "James Tobin was an American economist who served on the Council of Economic Advisers and consulted with the Board of Governors of the Federal Reserve System, and taught at Yale University. He contributed to the development of key ideas in the Keynesian economics of his generation and advocated government intervention in particular to stabilize output and avoid recessions. His academic work included pioneering contributions to the study of investment, monetary and fiscal policy and financial markets. He also proposed an econometric model for censored dependent variables, the well-known tobit model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/James_Tobin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Tobin",
+  "dateOfBirth": "1918-03-05",
+  "birthDateParsed": "1918-03-05",
+  "dateOfDeath": "2002-03-11",
+  "deathDateParsed": "2002-03-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.116388888",
+  "birthCoordinatesLng": "-88.243611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician",
+    "professor",
+    "military personnel",
+    "university teacher"
+  ],
+  "qid": "Q211776",
+  "birthPlace": "Champaign",
+  "fetchedAt": "2026-08-10T09:43:22.084Z"
+}

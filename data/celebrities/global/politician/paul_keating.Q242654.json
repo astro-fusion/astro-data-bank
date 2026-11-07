@@ -1,0 +1,33 @@
+{
+  "publicId": "5fe817f1",
+  "wikipediaSlug": "Paul_Keating",
+  "wikipediaId": "Q242654",
+  "name": "Paul Keating",
+  "fullName": "Paul Keating",
+  "profileSummary": "Paul John Keating is an Australian former politician and trade unionist who served as the 24th prime minister of Australia and leader of the Labor Party from 1991 to 1996. He previously served as treasurer from 1983 to 1991 and as deputy prime minister from 1990 to 1991 under the prime ministership of Bob Hawke.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Keating_Paul_Portrait.jpg/330px-Keating_Paul_Portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Keating",
+  "dateOfBirth": "1944-01-18",
+  "birthDateParsed": "1944-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.923333333",
+  "birthCoordinatesLng": "151.0344444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "trade unionist",
+    "head of government"
+  ],
+  "qid": "Q242654",
+  "birthPlace": "Bankstown",
+  "fetchedAt": "2026-08-03T12:58:39.206Z"
+}

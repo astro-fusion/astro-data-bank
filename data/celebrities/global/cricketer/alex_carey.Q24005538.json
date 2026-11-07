@@ -1,0 +1,32 @@
+{
+  "publicId": "55969b66",
+  "wikipediaSlug": "Alex_Carey",
+  "wikipediaId": "Q24005538",
+  "name": "Alex Carey",
+  "fullName": "Alex Carey",
+  "profileSummary": "Alex Tyson Carey is an Australian international cricketer who plays for the Australian national team as a wicket-keeper-batter. Formerly an Australian rules footballer, Carey has captained Australia in ODI cricket and has served as a vice-captain in Tests, ODIs and T20Is. In domestic cricket, he plays for South Australia and Adelaide Strikers. He was the captain of the Greater Western Sydney Giants in 2010, but when they joined the Australian Football League in 2012, he was left out of the squad and returned to his home state of South Australia, where he began to play domestic cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Alex_Carey_wicket-keeping_Ashes_2021_%28cropped_2%29.jpg/330px-Alex_Carey_wicket-keeping_Ashes_2021_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Carey",
+  "dateOfBirth": "1991-08-27",
+  "birthDateParsed": "1991-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.45",
+  "birthCoordinatesLng": "140.566666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "Australian rules football player"
+  ],
+  "qid": "Q24005538",
+  "birthPlace": "Loxton",
+  "fetchedAt": "2026-07-31T19:43:45.492Z"
+}

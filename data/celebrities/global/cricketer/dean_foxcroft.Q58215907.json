@@ -1,0 +1,31 @@
+{
+  "publicId": "4cd6317e",
+  "wikipediaSlug": "Dean_Foxcroft",
+  "wikipediaId": "Q58215907",
+  "name": "Dean Foxcroft",
+  "fullName": "Dean Foxcroft",
+  "profileSummary": "Dean Foxcroft is a South African born-New Zealand cricketer who plays domestic cricket in New Zealand.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dean_Foxcroft",
+  "dateOfBirth": "1998-04-20",
+  "birthDateParsed": "1998-04-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q58215907",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T21:03:12.348Z"
+}

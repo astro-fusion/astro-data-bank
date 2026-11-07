@@ -1,0 +1,32 @@
+{
+  "publicId": "95d2d330",
+  "wikipediaSlug": "A._J._Webbe",
+  "wikipediaId": "Q3526077",
+  "name": "A. J. Webbe",
+  "fullName": "A. J. Webbe",
+  "profileSummary": "Alexander Josiah Webbe was a cricketer who played for Oxford University and Middlesex. He also played one test match for England.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/AJ_Webbe_001.jpg/330px-AJ_Webbe_001.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._J._Webbe",
+  "dateOfBirth": "1855-01-16",
+  "birthDateParsed": "1855-01-16",
+  "dateOfDeath": "1941-02-19",
+  "deathDateParsed": "1941-02-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5275",
+  "birthCoordinatesLng": "-0.066",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "association football player"
+  ],
+  "qid": "Q3526077",
+  "birthPlace": "Bethnal Green",
+  "fetchedAt": "2026-07-31T20:07:47.698Z"
+}

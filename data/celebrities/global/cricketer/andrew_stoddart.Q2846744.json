@@ -1,0 +1,32 @@
+{
+  "publicId": "c9948568",
+  "wikipediaSlug": "Andrew_Stoddart",
+  "wikipediaId": "Q2846744",
+  "name": "Andrew Stoddart",
+  "fullName": "Andrew Stoddart",
+  "profileSummary": "Andrew Ernest Stoddart was an English sportsman who played international cricket for England, and rugby union for England and the British Isles. He was a Wisden Cricketer of the Year in 1893.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/AndrewStoddart.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Stoddart",
+  "dateOfBirth": "1863-03-11",
+  "birthDateParsed": "1863-03-11",
+  "dateOfDeath": "1915-04-04",
+  "deathDateParsed": "1915-04-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.666666666",
+  "birthCoordinatesLng": "-1.833333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "rugby union player"
+  ],
+  "qid": "Q2846744",
+  "birthPlace": "County Durham",
+  "fetchedAt": "2026-07-31T20:07:20.865Z"
+}

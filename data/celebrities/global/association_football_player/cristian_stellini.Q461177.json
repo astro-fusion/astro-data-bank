@@ -1,0 +1,32 @@
+{
+  "publicId": "3adc4fb2",
+  "wikipediaSlug": "Cristian_Stellini",
+  "wikipediaId": "Q461177",
+  "name": "Cristian Stellini",
+  "fullName": "Cristian Stellini",
+  "profileSummary": "Cristian Stellini is an Italian professional football coach and former player. Most recently the assistant head coach of Serie A club Napoli.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Stellini",
+  "dateOfBirth": "1974-04-27",
+  "birthDateParsed": "1974-04-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.5",
+  "birthCoordinatesLng": "8.816666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q461177",
+  "birthPlace": "Cuggiono",
+  "fetchedAt": "2026-08-01T05:20:33.772Z"
+}

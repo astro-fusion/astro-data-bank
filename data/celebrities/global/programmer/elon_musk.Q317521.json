@@ -1,0 +1,41 @@
+{
+  "publicId": "a7014eec",
+  "wikipediaSlug": "Elon_Musk",
+  "wikipediaId": "Q317521",
+  "name": "Elon Musk",
+  "fullName": "Elon Musk",
+  "profileSummary": "Elon Reeve Musk is a businessman and former public official who is the CEO and largest shareholder of Tesla and SpaceX. Musk has been the wealthiest person in the world since 2025, and became the only trillionaire in terms of US dollars in June 2026; as of July 23, 2026, Forbes estimates his net worth to be US$744 billion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/330px-Elon_Musk_-_54820081119_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elon_Musk",
+  "dateOfBirth": "1971-06-28",
+  "birthDateParsed": "1971-06-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-25.746388888",
+  "birthCoordinatesLng": "28.188055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "programmer",
+    "engineer",
+    "entrepreneur",
+    "investor",
+    "politician",
+    "civil servant",
+    "technology entrepreneur",
+    "inventor",
+    "dub actor",
+    "financier",
+    "philanthropist"
+  ],
+  "qid": "Q317521",
+  "birthPlace": "Pretoria",
+  "fetchedAt": "2026-08-04T03:34:11.894Z"
+}

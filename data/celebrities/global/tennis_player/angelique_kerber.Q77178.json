@@ -1,0 +1,32 @@
+{
+  "publicId": "f22cc879",
+  "wikipediaSlug": "Angelique_Kerber",
+  "wikipediaId": "Q77178",
+  "name": "Angelique Kerber",
+  "fullName": "Angelique Kerber",
+  "profileSummary": "Angelique Kerber is a German former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 34 weeks, including as the year-end No. 1 in 2016. Kerber won 14 WTA Tour-level singles titles, including three majors at the 2016 Australian Open, 2016 US Open, and 2018 Wimbledon Championships. She also won a silver medal in women's singles at the 2016 Rio Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Australian_Open_2020_%2849836755508%29_%28cropped%29.jpg/330px-Australian_Open_2020_%2849836755508%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelique_Kerber",
+  "dateOfBirth": "1988-01-18",
+  "birthDateParsed": "1988-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.075833333",
+  "birthCoordinatesLng": "8.807222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "athlete"
+  ],
+  "qid": "Q77178",
+  "birthPlace": "Bremen",
+  "fetchedAt": "2026-08-01T14:58:54.400Z"
+}

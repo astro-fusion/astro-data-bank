@@ -1,0 +1,34 @@
+{
+  "publicId": "bd7620cb",
+  "wikipediaSlug": "George_Clinton_(vice_president)",
+  "wikipediaId": "Q201646",
+  "name": "George Clinton (vice president)",
+  "fullName": "George Clinton (vice president)",
+  "profileSummary": "George Clinton was an American soldier, statesman, and a prominent Democratic-Republican in the formative years of the United States. Clinton served as the fourth vice president during the second term of Thomas Jefferson's presidency and the first term of James Madison's presidency from 1805 until his death in 1812. He also served as the first governor of New York from 1777 to 1795 and again from 1801 to 1804; his tenure makes him the second-longest-serving governor in U.S. history. Clinton was the first vice-president to die in office, and the first of two to hold office under two consecutive presidents.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/George_Clinton_by_Ezra_Ames_%28full_portrait%29.jpg/330px-George_Clinton_by_Ezra_Ames_%28full_portrait%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Clinton_(vice_president)",
+  "dateOfBirth": "1739-07-26",
+  "birthDateParsed": "1739-07-26",
+  "dateOfDeath": "1812-04-20",
+  "deathDateParsed": "1812-04-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.477777777",
+  "birthCoordinatesLng": "-74.129722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "politician",
+    "governor",
+    "vice president"
+  ],
+  "qid": "Q201646",
+  "birthPlace": "Little Britain",
+  "fetchedAt": "2026-08-01T18:08:01.801Z"
+}

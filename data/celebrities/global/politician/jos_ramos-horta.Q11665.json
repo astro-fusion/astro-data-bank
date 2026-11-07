@@ -1,0 +1,36 @@
+{
+  "publicId": "7706791b",
+  "wikipediaSlug": "José_Ramos-Horta",
+  "wikipediaId": "Q11665",
+  "name": "José Ramos-Horta",
+  "fullName": "José Ramos-Horta",
+  "profileSummary": "José Manuel Ramos-Horta is an East Timorese politician who has been the seventh president of Timor-Leste since 2022, having previously been the fourth president from 2007 to 2012. He was a co-recipient of the 1996 Nobel Peace Prize, along with Carlos Filipe Ximenes Belo, for working \"towards a just and peaceful solution to the conflict in East Timor\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Portrait_of_Jose_Ramos-Horta.jpg/330px-Portrait_of_Jose_Ramos-Horta.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta",
+  "dateOfBirth": "1949-12-26",
+  "birthDateParsed": "1949-12-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-8.553611111",
+  "birthCoordinatesLng": "125.578333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "legal counselor",
+    "non-fiction writer",
+    "head of government",
+    "foreign minister"
+  ],
+  "qid": "Q11665",
+  "birthPlace": "Dili",
+  "fetchedAt": "2026-08-04T02:13:36.338Z"
+}

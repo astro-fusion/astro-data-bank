@@ -1,0 +1,37 @@
+{
+  "publicId": "2852a7e0",
+  "wikipediaSlug": "George_Wald",
+  "wikipediaId": "Q295724",
+  "name": "George Wald",
+  "fullName": "George Wald",
+  "profileSummary": "George Wald was an American scientist and activist who studied pigments in the retina. He won a share of the 1967 Nobel Prize in Physiology or Medicine with Haldan Keffer Hartline and Ragnar Granit.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/George_Wald_1987.jpg/330px-George_Wald_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Wald",
+  "dateOfBirth": "1906-11-18",
+  "birthDateParsed": "1906-11-18",
+  "dateOfDeath": "1997-04-12",
+  "deathDateParsed": "1997-04-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "neuroscientist",
+    "physician",
+    "biochemist",
+    "chemist",
+    "physiologist",
+    "researcher",
+    "university teacher"
+  ],
+  "qid": "Q295724",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T03:15:16.166Z"
+}

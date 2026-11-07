@@ -1,0 +1,37 @@
+{
+  "publicId": "7c01f030",
+  "wikipediaSlug": "George_Emil_Palade",
+  "wikipediaId": "Q219718",
+  "name": "George Emil Palade",
+  "fullName": "George Emil Palade",
+  "profileSummary": "George Emil Palade was a Romanian-American cell biologist. In 1974 he was awarded the Nobel Prize in Physiology or Medicine along with Albert Claude and Christian de Duve. The prize was granted for his innovations in electron microscopy and cell fractionation which together laid the foundations of modern molecular cell biology, the most notable discovery being the ribosomes of the endoplasmic reticulum – which he first described in 1955.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/George_Emil_Palade_2021_stamp_of_Romania.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Emil_Palade",
+  "dateOfBirth": "1912-11-19",
+  "birthDateParsed": "1912-11-19",
+  "dateOfDeath": "2008-10-07",
+  "deathDateParsed": "2008-10-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.162222222",
+  "birthCoordinatesLng": "27.588888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "cell biologist",
+    "chemist",
+    "inventor",
+    "university teacher",
+    "physicist",
+    "biochemist"
+  ],
+  "qid": "Q219718",
+  "birthPlace": "Iași",
+  "fetchedAt": "2026-08-10T03:15:05.113Z"
+}

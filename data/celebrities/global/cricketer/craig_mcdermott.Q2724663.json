@@ -1,0 +1,31 @@
+{
+  "publicId": "5951e2fb",
+  "wikipediaSlug": "Craig_McDermott",
+  "wikipediaId": "Q2724663",
+  "name": "Craig McDermott",
+  "fullName": "Craig McDermott",
+  "profileSummary": "Craig John McDermott is a former Australian cricketer. Between 1984 and 1996 he played 71 Tests for Australia, taking 291 wickets. Following the end of his playing career, he was the bowling coach for the Australian team for two spells between 2011 and 2016. McDermott was a part of the Australian team that won their first world title during the 1987 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Craig_McDermott_1986.jpg/330px-Craig_McDermott_1986.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Craig_McDermott",
+  "dateOfBirth": "1965-04-14",
+  "birthDateParsed": "1965-04-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.616666666",
+  "birthCoordinatesLng": "152.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2724663",
+  "birthPlace": "Ipswich",
+  "fetchedAt": "2026-07-31T19:44:52.971Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "92059f1a",
+  "wikipediaSlug": "Stanley_Gill",
+  "wikipediaId": "Q7599629",
+  "name": "Stanley Gill",
+  "fullName": "Stanley Gill",
+  "profileSummary": "\nStanley Gill was a British computer scientist credited, along with Maurice Wilkes and David Wheeler, with the invention of the first computer subroutine.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stanley_Gill",
+  "dateOfBirth": "1926-03-26",
+  "birthDateParsed": "1926-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist"
+  ],
+  "qid": "Q7599629",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-10T04:29:53.954Z"
+}

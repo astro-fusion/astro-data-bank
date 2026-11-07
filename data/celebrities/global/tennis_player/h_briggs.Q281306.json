@@ -1,0 +1,31 @@
+{
+  "publicId": "81af536c",
+  "wikipediaSlug": "H._Briggs",
+  "wikipediaId": "Q281306",
+  "name": "H. Briggs",
+  "fullName": "H. Briggs",
+  "profileSummary": "\nH. Briggs was a British tennis player residing in Paris, France.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/H._Briggs",
+  "dateOfBirth": "1900-01-01",
+  "birthDateParsed": "1900-01-01",
+  "dateOfDeath": "2000-01-01",
+  "deathDateParsed": "2000-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q281306",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-01T13:11:51.252Z"
+}

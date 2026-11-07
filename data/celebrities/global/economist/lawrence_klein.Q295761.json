@@ -1,0 +1,32 @@
+{
+  "publicId": "9ee0c547",
+  "wikipediaSlug": "Lawrence_Klein",
+  "wikipediaId": "Q295761",
+  "name": "Lawrence Klein",
+  "fullName": "Lawrence Klein",
+  "profileSummary": "Lawrence Robert Klein was an American economist. For his work in creating computer models to forecast economic trends in the field of econometrics in the Department of Economics at the University of Pennsylvania, he was awarded the Nobel Memorial Prize in Economic Sciences in 1980 specifically \"for the creation of econometric models and their application to the analysis of economic fluctuations and economic policies.\" Due to his efforts, such models have become widespread among economists. Harvard University professor Martin Feldstein told the Wall Street Journal that Klein \"was the first to create the statistical models that embodied Keynesian economics,\" tools still used by the Federal Reserve Bank and other central banks.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lawrence_Robert_Klein.jpg/330px-Lawrence_Robert_Klein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lawrence_Klein",
+  "dateOfBirth": "1920-09-14",
+  "birthDateParsed": "1920-09-14",
+  "dateOfDeath": "2013-10-20",
+  "deathDateParsed": "2013-10-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.258611111",
+  "birthCoordinatesLng": "-95.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q295761",
+  "birthPlace": "Omaha",
+  "fetchedAt": "2026-08-10T09:43:34.874Z"
+}

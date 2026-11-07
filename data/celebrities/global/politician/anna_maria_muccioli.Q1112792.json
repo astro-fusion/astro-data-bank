@@ -1,0 +1,32 @@
+{
+  "publicId": "27f45af7",
+  "wikipediaSlug": "Anna_Maria_Muccioli",
+  "wikipediaId": "Q1112792",
+  "name": "Anna Maria Muccioli",
+  "fullName": "Anna Maria Muccioli",
+  "profileSummary": "Anna Maria Muccioli is a Sammarinese politician who served as a Captain Regent for a six-month term in 2013 and 2014, with Gian Carlo Capicchioni.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Maria_Muccioli",
+  "dateOfBirth": "1964-08-15",
+  "birthDateParsed": "1964-08-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.896355555",
+  "birthCoordinatesLng": "12.343330555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q1112792",
+  "birthPlace": "San Leo",
+  "fetchedAt": "2026-08-04T00:55:05.915Z"
+}

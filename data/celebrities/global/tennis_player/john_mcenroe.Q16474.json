@@ -1,0 +1,33 @@
+{
+  "publicId": "48539ed6",
+  "wikipediaSlug": "John_McEnroe",
+  "wikipediaId": "Q16474",
+  "name": "John McEnroe",
+  "fullName": "John McEnroe",
+  "profileSummary": "John Patrick McEnroe Jr. is an American former professional tennis player. Often ranked amongst the greatest tennis players of all time, McEnroe was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 170 weeks. He has held this ranking a record 14 times. He also held the world No. 1 title in men's doubles for 269 weeks. He is one of two male players to have held both No. 1 rankings, and the only one to hold both simultaneously. McEnroe was best known during his playing career for his shot-making and volleying skills, his rivalries with Björn Borg and Jimmy Connors, and his confrontational on-court behavior, which frequently landed him in trouble with umpires and tennis authorities.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/John_McEnroe_005.png/330px-John_McEnroe_005.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_McEnroe",
+  "dateOfBirth": "1959-02-16",
+  "birthDateParsed": "1959-02-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0825",
+  "birthCoordinatesLng": "8.24",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach",
+    "journalist"
+  ],
+  "qid": "Q16474",
+  "birthPlace": "Wiesbaden",
+  "fetchedAt": "2026-08-01T13:11:12.892Z"
+}

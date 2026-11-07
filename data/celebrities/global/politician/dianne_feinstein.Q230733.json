@@ -1,0 +1,32 @@
+{
+  "publicId": "9093898c",
+  "wikipediaSlug": "Dianne_Feinstein",
+  "wikipediaId": "Q230733",
+  "name": "Dianne Feinstein",
+  "fullName": "Dianne Feinstein",
+  "profileSummary": "Dianne Emiel Feinstein was an American politician who served as a United States senator from California from 1992 until her death in 2023. A member of the Democratic Party, she previously served as the 38th mayor of San Francisco from 1978 to 1988.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dianne_Feinstein%2C_official_Senate_photo_2.jpg/330px-Dianne_Feinstein%2C_official_Senate_photo_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dianne_Feinstein",
+  "dateOfBirth": "1933-06-22",
+  "birthDateParsed": "1933-06-22",
+  "dateOfDeath": "2023-09-29",
+  "deathDateParsed": "2023-09-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "mayor"
+  ],
+  "qid": "Q230733",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-02T02:16:24.827Z"
+}

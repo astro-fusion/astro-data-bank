@@ -1,0 +1,36 @@
+{
+  "publicId": "9519e63f",
+  "wikipediaSlug": "Hans_Krebs_(biochemist)",
+  "wikipediaId": "Q57191",
+  "name": "Hans Krebs (biochemist)",
+  "fullName": "Hans Krebs (biochemist)",
+  "profileSummary": "Sir Hans Adolf Krebs, FRS was a German-British biologist, physician and biochemist. He was a pioneer scientist in the study of cellular respiration, a biochemical process in living cells that extracts energy from food and oxygen and makes it available to drive the processes of life. He is best known for his discoveries of two important sequences of chemical reactions that take place in the cells of nearly all organisms, including humans, other than anaerobic microorganisms, namely the citric acid cycle and the urea cycle. The former, often eponymously known as the \"Krebs cycle\", is the sequence of metabolic reactions that allows cells of oxygen-respiring organisms to obtain far more ATP from the food they consume than anaerobic processes such as glycolysis can supply; and its discovery earned Krebs a Nobel Prize in Physiology or Medicine in 1953. With Hans Kornberg, he also discovered the glyoxylate cycle, a slight variation of the citric acid cycle found in plants, bacteria, protists, and fungi.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hans_Adolf_Krebs.jpg/330px-Hans_Adolf_Krebs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Krebs_(biochemist)",
+  "dateOfBirth": "1900-08-25",
+  "birthDateParsed": "1900-08-25",
+  "dateOfDeath": "1981-11-22",
+  "deathDateParsed": "1981-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.15",
+  "birthCoordinatesLng": "9.95",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "physician",
+    "university teacher",
+    "Whitley Professor of Biochemistry",
+    "physiologist",
+    "biologist"
+  ],
+  "qid": "Q57191",
+  "birthPlace": "Hildesheim",
+  "fetchedAt": "2026-08-10T03:15:02.951Z"
+}

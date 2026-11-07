@@ -1,0 +1,33 @@
+{
+  "publicId": "356d03af",
+  "wikipediaSlug": "Chrissy_Houlahan",
+  "wikipediaId": "Q56274180",
+  "name": "Chrissy Houlahan",
+  "fullName": "Chrissy Houlahan",
+  "profileSummary": "Christina Marie Houlahan is an American politician, engineer, and former United States Air Force officer. A member of the Democratic Party, she has served as the U.S. representative from Pennsylvania's 6th congressional district since 2019. The district includes almost all of Chester County, a suburban county west of Philadelphia, as well as the southern portion of Berks County including the city of Reading. She was first elected in 2018, defeating Republican Greg McCauley in the midterms.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Houlahan_Chrissy_119th_Congress.jpg/330px-Houlahan_Chrissy_119th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrissy_Houlahan",
+  "dateOfBirth": "1967-06-05",
+  "birthDateParsed": "1967-06-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.2837401",
+  "birthCoordinatesLng": "-76.4185285",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "engineer"
+  ],
+  "qid": "Q56274180",
+  "birthPlace": "Naval Air Station Patuxent River",
+  "fetchedAt": "2026-08-05T03:16:57.559Z"
+}

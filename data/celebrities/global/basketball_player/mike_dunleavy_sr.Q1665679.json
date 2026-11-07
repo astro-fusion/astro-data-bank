@@ -1,0 +1,32 @@
+{
+  "publicId": "fc6f8b7f",
+  "wikipediaSlug": "Mike_Dunleavy_Sr.",
+  "wikipediaId": "Q1665679",
+  "name": "Mike Dunleavy Sr.",
+  "fullName": "Mike Dunleavy Sr.",
+  "profileSummary": "Michael Joseph Dunleavy Sr. is an American former professional basketball player, coach, and former general manager of the National Basketball Association's Los Angeles Clippers. He was most recently the head coach of the Tulane University men's basketball team. Dunleavy is the father of former professional basketball player Mike Dunleavy Jr.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Dunleavy_Sr.",
+  "dateOfBirth": "1954-03-21",
+  "birthDateParsed": "1954-03-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q1665679",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-01T15:38:04.864Z"
+}

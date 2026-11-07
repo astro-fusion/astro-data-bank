@@ -1,0 +1,32 @@
+{
+  "publicId": "497b9121",
+  "wikipediaSlug": "Charles_J._Pedersen",
+  "wikipediaId": "Q244998",
+  "name": "Charles J. Pedersen",
+  "fullName": "Charles J. Pedersen",
+  "profileSummary": "Charles John Pedersen was an American organic chemist best known for discovering crown ethers and describing methods of synthesizing them during his entire 42-year career as a chemist for DuPont at DuPont Experimental Station in Wilmington, Delaware, and at DuPont's Jackson Laboratory in Deepwater, New Jersey. Often associated with Reed McNeil Izatt, Pedersen also shared the Nobel Prize in Chemistry in 1987 with Donald J. Cram and Jean-Marie Lehn. He is one of three Nobel Prize laureates born in Korea, along with Peace Prize laureate Kim Dae-jung and Literature laureate Han Kang.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bd/Charles_J._Pedersen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_J._Pedersen",
+  "dateOfBirth": "1904-10-03",
+  "birthDateParsed": "1904-10-03",
+  "dateOfDeath": "1989-10-26",
+  "deathDateParsed": "1989-10-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.18",
+  "birthCoordinatesLng": "129.075",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "researcher"
+  ],
+  "qid": "Q244998",
+  "birthPlace": "Busan",
+  "fetchedAt": "2026-08-10T02:03:31.968Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "6e089e98",
+  "wikipediaSlug": "Holcombe_Ward",
+  "wikipediaId": "Q493765",
+  "name": "Holcombe Ward",
+  "fullName": "Holcombe Ward",
+  "profileSummary": "Holcombe Ward was an American tennis player who was active during the last years of the 19th century and the first decade of the 20th. He won the U.S. National Championships singles title in 1904 and additionally won six doubles titles at the Grand Slam event.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Holcombe_Ward._Champion_%28with_Davis%29_in_doubles_in_1899-1900_Book_of_Sport_cropped.jpg/330px-Holcombe_Ward._Champion_%28with_Davis%29_in_doubles_in_1899-1900_Book_of_Sport_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Holcombe_Ward",
+  "dateOfBirth": "1878-11-23",
+  "birthDateParsed": "1878-11-23",
+  "dateOfDeath": "1967-01-23",
+  "deathDateParsed": "1967-01-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q493765",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-01T13:11:02.002Z"
+}

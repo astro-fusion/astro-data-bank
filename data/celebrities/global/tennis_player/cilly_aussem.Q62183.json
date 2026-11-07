@@ -1,0 +1,31 @@
+{
+  "publicId": "14b65da1",
+  "wikipediaSlug": "Cilly_Aussem",
+  "wikipediaId": "Q62183",
+  "name": "Cilly Aussem",
+  "fullName": "Cilly Aussem",
+  "profileSummary": "Cilly Aussem was a German tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cilly_Aussem_1927.jpg/330px-Cilly_Aussem_1927.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cilly_Aussem",
+  "dateOfBirth": "1909-01-04",
+  "birthDateParsed": "1909-01-04",
+  "dateOfDeath": "1963-03-22",
+  "deathDateParsed": "1963-03-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.942222222",
+  "birthCoordinatesLng": "6.957777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q62183",
+  "birthPlace": "Cologne",
+  "fetchedAt": "2026-08-01T14:59:09.944Z"
+}

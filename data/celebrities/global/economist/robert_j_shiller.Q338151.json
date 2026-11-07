@@ -1,0 +1,34 @@
+{
+  "publicId": "6f314c85",
+  "wikipediaSlug": "Robert_J._Shiller",
+  "wikipediaId": "Q338151",
+  "name": "Robert J. Shiller",
+  "fullName": "Robert J. Shiller",
+  "profileSummary": "Robert James Shiller is an American economist, academic, and author. As of 2022, he served as a Sterling Professor of Economics at Yale University and is a fellow at the Yale School of Management's International Center for Finance. Shiller has been a research associate of the National Bureau of Economic Research (NBER) since 1980, was vice president of the American Economic Association in 2005, its president for 2016, and president of the Eastern Economic Association for 2006–2007. He is also the co‑founder and chief economist of the investment management firm MacroMarkets LLC.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Robert_J._Shiller_2017.jpg/330px-Robert_J._Shiller_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_J._Shiller",
+  "dateOfBirth": "1946-03-29",
+  "birthDateParsed": "1946-03-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.331666666",
+  "birthCoordinatesLng": "-83.0475",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "writer",
+    "pedagogue",
+    "university teacher"
+  ],
+  "qid": "Q338151",
+  "birthPlace": "Detroit",
+  "fetchedAt": "2026-08-10T09:44:09.098Z"
+}

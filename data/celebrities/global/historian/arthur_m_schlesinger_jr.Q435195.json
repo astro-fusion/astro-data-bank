@@ -1,0 +1,33 @@
+{
+  "publicId": "e3a85774",
+  "wikipediaSlug": "Arthur_M._Schlesinger_Jr.",
+  "wikipediaId": "Q435195",
+  "name": "Arthur M. Schlesinger Jr.",
+  "fullName": "Arthur M. Schlesinger Jr.",
+  "profileSummary": "Arthur Meier Schlesinger Jr. was an American historian, social critic, and public intellectual. The son of the influential historian Arthur M. Schlesinger Sr. and a specialist in American history, much of Schlesinger's work explored the history of 20th-century American liberalism. In particular, his work focused on leaders such as Harry S. Truman, Franklin D. Roosevelt, John F. Kennedy, and Robert F. Kennedy. In the 1952 and 1956 presidential campaigns, he was a primary speechwriter and adviser to the Democratic presidential nominee, Adlai Stevenson II. Schlesinger served as special assistant and \"court historian\" to President Kennedy from 1961 to 1963. He wrote a detailed account of the Kennedy administration, from the 1960 presidential campaign to the president's state funeral, titled A Thousand Days: John F. Kennedy in the White House, which won the 1966 Pulitzer Prize for Biography or Autobiography.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Arthur_M._Schlesinger%2C_Jr._1961.jpg/330px-Arthur_M._Schlesinger%2C_Jr._1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_M._Schlesinger_Jr.",
+  "dateOfBirth": "1917-10-15",
+  "birthDateParsed": "1917-10-15",
+  "dateOfDeath": "2007-02-28",
+  "deathDateParsed": "2007-02-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.962222222",
+  "birthCoordinatesLng": "-83.000555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "university teacher",
+    "writer"
+  ],
+  "qid": "Q435195",
+  "birthPlace": "Columbus",
+  "fetchedAt": "2026-08-05T02:43:44.390Z"
+}

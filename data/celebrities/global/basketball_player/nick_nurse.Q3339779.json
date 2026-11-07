@@ -1,0 +1,32 @@
+{
+  "publicId": "246c8023",
+  "wikipediaSlug": "Nick_Nurse",
+  "wikipediaId": "Q3339779",
+  "name": "Nick Nurse",
+  "fullName": "Nick Nurse",
+  "profileSummary": "Nicholas David Nurse is an American professional basketball coach and former player who is the head coach for the Philadelphia 76ers of the National Basketball Association (NBA). He previously served as head coach for the Toronto Raptors, whom he led to an NBA championship in 2019 and with whom he was named the NBA Coach of the Year in 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/1_nick_nurse_2026.jpg/330px-1_nick_nurse_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nick_Nurse",
+  "dateOfBirth": "1967-07-24",
+  "birthDateParsed": "1967-07-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.069444444",
+  "birthCoordinatesLng": "-94.866388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q3339779",
+  "birthPlace": "Carroll",
+  "fetchedAt": "2026-08-01T15:38:29.244Z"
+}

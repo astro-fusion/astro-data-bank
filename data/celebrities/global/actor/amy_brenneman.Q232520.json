@@ -1,0 +1,35 @@
+{
+  "publicId": "c7259950",
+  "wikipediaSlug": "Amy_Brenneman",
+  "wikipediaId": "Q232520",
+  "name": "Amy Brenneman",
+  "fullName": "Amy Brenneman",
+  "profileSummary": "Amy Frederica Brenneman is an American actress and producer. She first gained prominence as Detective Janice Licalsi in the ABC police drama series NYPD Blue (1993–1994). Brenneman later co-created and starred as Judge Amy Gray in the CBS drama series Judging Amy (1999–2005), earning multiple Primetime Emmy Award nominations for these roles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Amy_Brenneman_2009.jpg/330px-Amy_Brenneman_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amy_Brenneman",
+  "dateOfBirth": "1964-06-22",
+  "birthDateParsed": "1964-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.354069",
+  "birthCoordinatesLng": "-72.10104",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "manufacturer",
+    "screenwriter"
+  ],
+  "qid": "Q232520",
+  "birthPlace": "New London",
+  "fetchedAt": "2026-08-05T02:43:13.881Z"
+}

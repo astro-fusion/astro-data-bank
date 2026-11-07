@@ -1,0 +1,36 @@
+{
+  "publicId": "c22c971e",
+  "wikipediaSlug": "Christian_de_Duve",
+  "wikipediaId": "Q234590",
+  "name": "Christian de Duve",
+  "fullName": "Christian de Duve",
+  "profileSummary": "Christian René Marie Joseph, Viscount de Duve was a Nobel Prize-winning Belgian cytologist and biochemist. He made serendipitous discoveries of two cell organelles, peroxisomes and lysosomes, for which he shared the Nobel Prize in Physiology or Medicine in 1974 with Albert Claude and George E. Palade. In addition to peroxisome and lysosome, he invented scientific names such as autophagy, endocytosis, and exocytosis on a single occasion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Christian_de_Duve.tif/lossy-page1-330px-Christian_de_Duve.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_de_Duve",
+  "dateOfBirth": "1917-10-02",
+  "birthDateParsed": "1917-10-02",
+  "dateOfDeath": "2013-05-04",
+  "deathDateParsed": "2013-05-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.3948",
+  "birthCoordinatesLng": "-0.34125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "biochemist",
+    "chemist",
+    "physician",
+    "physiologist",
+    "cell biologist"
+  ],
+  "qid": "Q234590",
+  "birthPlace": "Thames Ditton",
+  "fetchedAt": "2026-08-10T03:14:16.495Z"
+}

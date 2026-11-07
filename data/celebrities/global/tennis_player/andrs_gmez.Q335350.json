@@ -1,0 +1,31 @@
+{
+  "publicId": "0ca48d96",
+  "wikipediaSlug": "Andrés_Gómez",
+  "wikipediaId": "Q335350",
+  "name": "Andrés Gómez",
+  "fullName": "Andrés Gómez",
+  "profileSummary": "Andrés Gómez Santos is an Ecuadorian former professional tennis player. He was ranked as high as world No. 4 in singles and world No. 1 in doubles. Gómez won 21 singles titles and 33 doubles titles during his career, including a singles major at the 1990 French Open, and two doubles majors at the 1986 US Open and the 1988 French Open.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Andr%C3%A9s_G%C3%B3mez_Roland_Garros_2012.JPG/330px-Andr%C3%A9s_G%C3%B3mez_Roland_Garros_2012.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_G%C3%B3mez",
+  "dateOfBirth": "1960-02-27",
+  "birthDateParsed": "1960-02-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-2.19",
+  "birthCoordinatesLng": "-79.8875",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q335350",
+  "birthPlace": "Guayaquil",
+  "fetchedAt": "2026-08-01T13:10:48.003Z"
+}

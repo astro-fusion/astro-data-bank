@@ -1,0 +1,31 @@
+{
+  "publicId": "f5de0306",
+  "wikipediaSlug": "Andrew_Hall",
+  "wikipediaId": "Q3525867",
+  "name": "Andrew Hall",
+  "fullName": "Andrew Hall",
+  "profileSummary": "Andrew James Hall is a former South African first-class cricketer who played from 1999 until 2011. He played as an all-rounder who bowled fast-medium pace and has been used as both an opening batsman and in the lower order. He was born in Johannesburg in South Africa in 1975 and educated at Hoërskool Alberton in Alberton, Gauteng.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Andrew_Hall_Northants.JPG/330px-Andrew_Hall_Northants.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Hall",
+  "dateOfBirth": "1975-07-31",
+  "birthDateParsed": "1975-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525867",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:19:50.250Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "78909573",
+  "wikipediaSlug": "Bill_Tilden",
+  "wikipediaId": "Q54684",
+  "name": "Bill Tilden",
+  "fullName": "Bill Tilden",
+  "profileSummary": "William Tatem Tilden II, nicknamed \"Big Bill\", was an American tennis player. He was the world No. 1 amateur for six consecutive years, from 1920 to 1925, and was ranked as the world No. 1 professional by Ray Bowers in 1931 and 1932 and Ellsworth Vines in 1933. Tilden won 14 Major singles titles, including 10 Grand Slam events, one World Hard Court Championships and three professional majors. He was the first American man to win Wimbledon, first claiming the title in 1920. He also won a joint-record seven U.S. Championships titles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bill_Tilden_in_color.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Tilden",
+  "dateOfBirth": "1893-02-10",
+  "birthDateParsed": "1893-02-10",
+  "dateOfDeath": "1953-06-05",
+  "deathDateParsed": "1953-06-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.043611111",
+  "birthCoordinatesLng": "-75.181944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach"
+  ],
+  "qid": "Q54684",
+  "birthPlace": "Germantown",
+  "fetchedAt": "2026-08-01T13:10:53.241Z"
+}

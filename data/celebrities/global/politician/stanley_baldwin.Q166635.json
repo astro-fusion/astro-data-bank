@@ -1,0 +1,31 @@
+{
+  "publicId": "f523ed07",
+  "wikipediaSlug": "Stanley_Baldwin",
+  "wikipediaId": "Q166635",
+  "name": "Stanley Baldwin",
+  "fullName": "Stanley Baldwin",
+  "profileSummary": "Stanley Baldwin, 1st Earl Baldwin of Bewdley, was a British statesman and Conservative politician who was prominent in the political leadership of the United Kingdom between the world wars. He was prime minister on three occasions, from May 1923 to January 1924, from November 1924 to June 1929 and from June 1935 to May 1937.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stanley_Baldwin_1932.jpg/330px-Stanley_Baldwin_1932.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stanley_Baldwin",
+  "dateOfBirth": "1867-08-03",
+  "birthDateParsed": "1867-08-03",
+  "dateOfDeath": "1947-12-14",
+  "deathDateParsed": "1947-12-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.375238888",
+  "birthCoordinatesLng": "-2.316238888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q166635",
+  "birthPlace": "Bewdley",
+  "fetchedAt": "2026-08-02T05:23:01.223Z"
+}

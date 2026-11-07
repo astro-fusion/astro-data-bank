@@ -1,0 +1,36 @@
+{
+  "publicId": "46d24423",
+  "wikipediaSlug": "Tim_Walz",
+  "wikipediaId": "Q2434360",
+  "name": "Tim Walz",
+  "fullName": "Tim Walz",
+  "profileSummary": "Timothy James Walz is an American politician, former educator, and Army National Guard veteran serving since 2019 as the 41st governor of Minnesota. From 2007 to 2019, he was a member of the U.S. House of Representatives, representing Minnesota's 1st congressional district. Walz is a member of the Minnesota Democratic–Farmer–Labor Party (DFL), which affiliates with the national Democratic Party, and was the party's vice presidential nominee in the 2024 presidential election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Governor_Tim_Walz_2026.jpg/330px-Governor_Tim_Walz_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Walz",
+  "dateOfBirth": "1964-04-06",
+  "birthDateParsed": "1964-04-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.839722222",
+  "birthCoordinatesLng": "-96.711388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "non-commissioned officer",
+    "educator",
+    "American football coach",
+    "governor",
+    "teacher"
+  ],
+  "qid": "Q2434360",
+  "birthPlace": "West Point",
+  "fetchedAt": "2026-08-02T03:29:12.531Z"
+}

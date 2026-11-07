@@ -1,0 +1,32 @@
+{
+  "publicId": "0c66f53f",
+  "wikipediaSlug": "K.C._Jones",
+  "wikipediaId": "Q719836",
+  "name": "K.C. Jones",
+  "fullName": "K.C. Jones",
+  "profileSummary": "K.C. Jones Jr. was an American professional basketball player and coach. He is best known for his association with the Boston Celtics of the National Basketball Association (NBA), with whom he won 11 of his 12 NBA championships. As a player, he is tied for third for most NBA championships in a career, and is one of three NBA players with an unsurpassed 8–0 record in NBA Finals series. He is the only African-American coach other than Bill Russell to have won multiple NBA championships, and one of eight players to ever achieve the basketball Triple Crown. Jones was inducted into the Naismith Memorial Basketball Hall of Fame in 1989.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/K.C._Jones_-_Boston_celtics_1960_%28cropped%29.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/K.C._Jones",
+  "dateOfBirth": "1932-05-25",
+  "birthDateParsed": "1932-05-25",
+  "dateOfDeath": "2020-12-25",
+  "deathDateParsed": "2020-12-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.572371",
+  "birthCoordinatesLng": "-97.416546",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q719836",
+  "birthPlace": "Taylor",
+  "fetchedAt": "2026-08-01T15:37:28.532Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "11350fc7",
+  "wikipediaSlug": "Franklin_Pierce",
+  "wikipediaId": "Q12312",
+  "name": "Franklin Pierce",
+  "fullName": "Franklin Pierce",
+  "profileSummary": "Franklin Pierce was the 14th president of the United States, serving from 1853 to 1857. A northern Democrat who believed that the abolitionist movement was a fundamental threat to national unity, he alienated anti-slavery groups by signing the Kansas–Nebraska Act and enforcing the Fugitive Slave Act. Conflict between North and South continued after Pierce's presidency, and, following Abraham Lincoln's victory in the 1860 presidential election, the Southern states seceded, resulting in the American Civil War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%282%29.jpg/330px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franklin_Pierce",
+  "dateOfBirth": "1804-11-23",
+  "birthDateParsed": "1804-11-23",
+  "dateOfDeath": "1869-10-08",
+  "deathDateParsed": "1869-10-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.114722222",
+  "birthCoordinatesLng": "-71.895",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "statesperson",
+    "jurist",
+    "military officer"
+  ],
+  "qid": "Q12312",
+  "birthPlace": "Hillsborough",
+  "fetchedAt": "2026-08-01T18:08:00.548Z"
+}

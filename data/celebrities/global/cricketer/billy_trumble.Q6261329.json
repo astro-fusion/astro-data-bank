@@ -1,0 +1,31 @@
+{
+  "publicId": "1094a740",
+  "wikipediaSlug": "Billy_Trumble",
+  "wikipediaId": "Q6261329",
+  "name": "Billy Trumble",
+  "fullName": "Billy Trumble",
+  "profileSummary": "John William Trumble was an Australian cricketer who played in seven Tests between 1885 and 1886. He was the older brother of the Test cricketer Hugh Trumble and the senior Australian public servant Thomas Trumble.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/JW_Trumble_of_Australia.png/330px-JW_Trumble_of_Australia.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Trumble",
+  "dateOfBirth": "1863-09-16",
+  "birthDateParsed": "1863-09-16",
+  "dateOfDeath": "1944-08-17",
+  "deathDateParsed": "1944-08-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.8019",
+  "birthCoordinatesLng": "144.988",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q6261329",
+  "birthPlace": "Collingwood",
+  "fetchedAt": "2026-07-31T19:44:59.552Z"
+}

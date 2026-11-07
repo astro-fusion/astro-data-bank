@@ -1,0 +1,31 @@
+{
+  "publicId": "9a74dbce",
+  "wikipediaSlug": "Jim_Gray_(computer_scientist)",
+  "wikipediaId": "Q92606",
+  "name": "Jim Gray (computer scientist)",
+  "fullName": "Jim Gray (computer scientist)",
+  "profileSummary": "James Nicholas Gray was an American computer scientist who received the Turing Award in 1998 \"for seminal contributions to database and transaction processing research and technical leadership in system implementation\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jim_Gray_Computing_in_the_21st_Century_2006.jpg/330px-Jim_Gray_Computing_in_the_21st_Century_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)",
+  "dateOfBirth": "1944-01-12",
+  "birthDateParsed": "1944-01-12",
+  "dateOfDeath": "2012-01-28",
+  "deathDateParsed": "2012-01-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist"
+  ],
+  "qid": "Q92606",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-10T04:28:56.552Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "4cda6d00",
+  "wikipediaSlug": "María_Corina_Machado",
+  "wikipediaId": "Q439564",
+  "name": "María Corina Machado",
+  "fullName": "María Corina Machado",
+  "profileSummary": "María Corina Machado Parisca is a Venezuelan politician, activist, and prominent leader of the opposition to the administrations of Hugo Chávez, Nicolás Maduro, and Delcy Rodríguez. She served as a member of the National Assembly of Venezuela from 2011 to 2014, and has run as a candidate in presidential elections. She was awarded the 2025 Nobel Peace Prize; she presented the medal to U.S. president Donald Trump after the 2026 U.S. strikes in Venezuela and capture of Maduro.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nobel_Peace_Prize_2025_-_Mar%C3%ADa_Corina_Machado_press_conference_%283x4_cropped%29.jpg/330px-Nobel_Peace_Prize_2025_-_Mar%C3%ADa_Corina_Machado_press_conference_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Corina_Machado",
+  "dateOfBirth": "1967-10-07",
+  "birthDateParsed": "1967-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.506111111",
+  "birthCoordinatesLng": "-66.914444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "human rights defender",
+    "industrial engineer"
+  ],
+  "qid": "Q439564",
+  "birthPlace": "Caracas",
+  "fetchedAt": "2026-08-04T02:14:05.169Z"
+}

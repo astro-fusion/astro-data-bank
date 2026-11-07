@@ -1,0 +1,31 @@
+{
+  "publicId": "1e218143",
+  "wikipediaSlug": "Dean_Brownlie",
+  "wikipediaId": "Q5246031",
+  "name": "Dean Brownlie",
+  "fullName": "Dean Brownlie",
+  "profileSummary": "Dean Graham Brownlie is a former New Zealand international cricketer who last played for the Northern Districts cricket team in New Zealand domestic cricket. Born in Australia, he represented the New Zealand national cricket team in all three formats, qualifying to represent the team by way of his father's birthplace.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dean_Brownlie",
+  "dateOfBirth": "1984-07-30",
+  "birthDateParsed": "1984-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.955833333",
+  "birthCoordinatesLng": "115.859722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5246031",
+  "birthPlace": "Perth",
+  "fetchedAt": "2026-07-31T21:02:20.111Z"
+}

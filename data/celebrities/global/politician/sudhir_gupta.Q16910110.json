@@ -1,0 +1,31 @@
+{
+  "publicId": "45777bce",
+  "wikipediaSlug": "Sudhir_Gupta",
+  "wikipediaId": "Q16910110",
+  "name": "Sudhir Gupta",
+  "fullName": "Sudhir Gupta",
+  "profileSummary": "Sudhir Gupta is an Indian politician and member of the Bharatiya Janata Party. He is currently a member of parliament, having been elected thrice, in 2014, 2019, and 2024 to the Lok Sabha election from Mandsaur constituency in Madhya Pradesh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/SudhirGupta.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sudhir_Gupta",
+  "dateOfBirth": "1959-05-19",
+  "birthDateParsed": "1959-05-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.03",
+  "birthCoordinatesLng": "75.08",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q16910110",
+  "birthPlace": "Mandsaur",
+  "fetchedAt": "2026-08-06T09:09:22.155Z"
+}

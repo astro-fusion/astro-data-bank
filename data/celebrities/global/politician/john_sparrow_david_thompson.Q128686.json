@@ -1,0 +1,33 @@
+{
+  "publicId": "7e5308ce",
+  "wikipediaSlug": "John_Sparrow_David_Thompson",
+  "wikipediaId": "Q128686",
+  "name": "John Sparrow David Thompson",
+  "fullName": "John Sparrow David Thompson",
+  "profileSummary": "Sir John Sparrow David Thompson was the fourth prime minister of Canada, serving from 1892 until his death in 1894. He had previously been fifth premier of Nova Scotia for a brief period in 1882. He is the only post-Confederation provincial premier to become prime minister, as of 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sir_John_SD_Thompson.jpg/330px-Sir_John_SD_Thompson.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Sparrow_David_Thompson",
+  "dateOfBirth": "1845-11-10",
+  "birthDateParsed": "1845-11-10",
+  "dateOfDeath": "1894-12-12",
+  "deathDateParsed": "1894-12-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.647777777",
+  "birthCoordinatesLng": "-63.571388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "lecturer"
+  ],
+  "qid": "Q128686",
+  "birthPlace": "Halifax",
+  "fetchedAt": "2026-08-03T10:59:14.094Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "de345de9",
+  "wikipediaSlug": "Kazuo_Ishiguro",
+  "wikipediaId": "Q272855",
+  "name": "Kazuo Ishiguro",
+  "fullName": "Kazuo Ishiguro",
+  "profileSummary": "Sir Kazuo Ishiguro  is a Japanese-British novelist, screenwriter, musician, and short-story writer. He is one of the most critically acclaimed contemporary fiction authors writing in English, having been awarded several major literary prizes, including the 2017 Nobel Prize in Literature. In its citation, the Swedish Academy described Ishiguro as a writer \"who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MKr377543_Kazuo_Ishiguro_%28A_Pale_View_of_Hills%2C_Cannes_2025%29.jpg/330px-MKr377543_Kazuo_Ishiguro_%28A_Pale_View_of_Hills%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro",
+  "dateOfBirth": "1954-11-08",
+  "birthDateParsed": "1954-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.749527777",
+  "birthCoordinatesLng": "129.879638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "novelist",
+    "writer",
+    "screenwriter",
+    "author",
+    "science fiction writer",
+    "lyricist",
+    "songwriter"
+  ],
+  "qid": "Q272855",
+  "birthPlace": "Nagasaki",
+  "fetchedAt": "2026-08-06T07:42:08.212Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "d7d85117",
+  "wikipediaSlug": "Allan_Cullimore",
+  "wikipediaId": "Q4730547",
+  "name": "Allan Cullimore",
+  "fullName": "Allan Cullimore",
+  "profileSummary": "Allan R. Cullimore was an American academic administrator. He was the 3rd President of New Jersey Institute of Technology (NJIT) from 1920 until 1947.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_Cullimore",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "scientist",
+    "academic administrator"
+  ],
+  "qid": "Q4730547",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:23.147Z"
+}

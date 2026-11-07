@@ -1,0 +1,35 @@
+{
+  "publicId": "64fa093c",
+  "wikipediaSlug": "Dave_Beneteau",
+  "wikipediaId": "Q5228321",
+  "name": "Dave Beneteau",
+  "fullName": "Dave Beneteau",
+  "profileSummary": "David Beneteau is a Canadian former mixed martial artist who is best known for his appearances in Ultimate Fighting Championship at UFC 5, 6, 15 and, Ultimate Ultimate 1995.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Beneteau",
+  "dateOfBirth": "1967-06-22",
+  "birthDateParsed": "1967-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.31729",
+  "birthCoordinatesLng": "-83.03526",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judoka",
+    "lawyer",
+    "mixed martial arts fighter",
+    "amateur wrestler",
+    "professional wrestler"
+  ],
+  "qid": "Q5228321",
+  "birthPlace": "Windsor",
+  "fetchedAt": "2026-08-01T17:05:22.685Z"
+}

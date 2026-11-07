@@ -1,0 +1,39 @@
+{
+  "publicId": "a0755188",
+  "wikipediaSlug": "David_Koch",
+  "wikipediaId": "Q1174641",
+  "name": "David Koch",
+  "fullName": "David Koch",
+  "profileSummary": "David Hamilton Koch was an American businessman, philanthropist, limited government advocate and chemical engineer. In 1970, he joined the family business: Koch Industries, the second-largest privately held company in the United States. He became president of the subsidiary Koch Engineering in 1979 and became a co-owner of Koch Industries in 1983. Koch served as an executive vice president of Koch Industries until he retired due to health issues in 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/David_Koch_by_Gage_Skidmore.jpg/330px-David_Koch_by_Gage_Skidmore.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Koch",
+  "dateOfBirth": "1940-05-03",
+  "birthDateParsed": "1940-05-03",
+  "dateOfDeath": "2019-08-23",
+  "deathDateParsed": "2019-08-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.688888888",
+  "birthCoordinatesLng": "-97.336111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "engineer",
+    "entrepreneur",
+    "politician",
+    "merchant",
+    "chemist",
+    "political activist",
+    "philanthropist",
+    "chemical engineer"
+  ],
+  "qid": "Q1174641",
+  "birthPlace": "Wichita",
+  "fetchedAt": "2026-08-04T03:34:13.364Z"
+}

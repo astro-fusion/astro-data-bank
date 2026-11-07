@@ -1,0 +1,39 @@
+{
+  "publicId": "af1bafd0",
+  "wikipediaSlug": "Alexander_Hamilton",
+  "wikipediaId": "Q178903",
+  "name": "Alexander Hamilton",
+  "fullName": "Alexander Hamilton",
+  "profileSummary": "Alexander Hamilton was an American military officer, statesman, and Founding Father who served as the first U.S. secretary of the treasury from 1789 to 1795 under the presidency of George Washington. He also founded America's first political party, the Federalist Party, in 1791.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/330px-Alexander_Hamilton_%28NPG%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
+  "dateOfBirth": "1757-01-11",
+  "birthDateParsed": "1757-01-11",
+  "dateOfDeath": "1804-07-12",
+  "deathDateParsed": "1804-07-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.143055555",
+  "birthCoordinatesLng": "-62.626944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "philosopher",
+    "military personnel",
+    "politician",
+    "aide-de-camp",
+    "military officer",
+    "writer",
+    "businessperson",
+    "lawyer"
+  ],
+  "qid": "Q178903",
+  "birthPlace": "Charlestown",
+  "fetchedAt": "2026-08-01T18:07:34.405Z"
+}

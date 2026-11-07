@@ -1,0 +1,38 @@
+{
+  "publicId": "3c053ce7",
+  "wikipediaSlug": "Anwar_Sadat",
+  "wikipediaId": "Q42013",
+  "name": "Anwar Sadat",
+  "fullName": "Anwar Sadat",
+  "profileSummary": "Muhammad Anwar el-Sadat was an Egyptian politician and military officer who served as the third president of Egypt, from 15 October 1970 until his assassination in 1981. Sadat was a senior member of the Free Officers who overthrew King Farouk I in the Egyptian Revolution of 1952, and a close confidant of President Gamal Abdel Nasser, under whom he served as the vice president twice and whom he succeeded as president in 1970. He led Egypt in the October war of 1973. In 1978, Sadat and Menachem Begin, Prime Minister of Israel, signed a peace treaty in cooperation with United States President Jimmy Carter, for which they were recognized with the Nobel Peace Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/330px-Anwar_Sadat_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+  "dateOfBirth": "1918-12-25",
+  "birthDateParsed": "1918-12-25",
+  "dateOfDeath": "1981-10-06",
+  "deathDateParsed": "1981-10-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.636666666",
+  "birthCoordinatesLng": "30.913888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "statesperson",
+    "diplomat",
+    "military leader",
+    "vice president",
+    "president",
+    "opinion journalist"
+  ],
+  "qid": "Q42013",
+  "birthPlace": "Mit Abu al-Kum",
+  "fetchedAt": "2026-08-04T02:12:51.769Z"
+}

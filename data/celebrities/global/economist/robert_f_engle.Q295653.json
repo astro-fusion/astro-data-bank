@@ -1,0 +1,33 @@
+{
+  "publicId": "bb86041c",
+  "wikipediaSlug": "Robert_F._Engle",
+  "wikipediaId": "Q295653",
+  "name": "Robert F. Engle",
+  "fullName": "Robert F. Engle",
+  "profileSummary": "Robert Fry Engle III is an American economist and statistician. He was awarded the 2003 Nobel Memorial Prize in Economic Sciences, sharing the award with Clive Granger, \"for methods of analyzing economic time series with time-varying volatility (ARCH)\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/0603-Kraneshares_KRBN-RobertEngle-JonDemske-16_%28cropped%29.jpg/330px-0603-Kraneshares_KRBN-RobertEngle-JonDemske-16_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_F._Engle",
+  "dateOfBirth": "1942-11-10",
+  "birthDateParsed": "1942-11-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.046899",
+  "birthCoordinatesLng": "-76.144423",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician",
+    "university teacher"
+  ],
+  "qid": "Q295653",
+  "birthPlace": "Syracuse",
+  "fetchedAt": "2026-08-10T09:44:16.264Z"
+}

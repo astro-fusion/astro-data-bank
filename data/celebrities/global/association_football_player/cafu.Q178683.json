@@ -1,0 +1,31 @@
+{
+  "publicId": "bd05133e",
+  "wikipediaSlug": "Cafu",
+  "wikipediaId": "Q178683",
+  "name": "Cafu",
+  "fullName": "Cafu",
+  "profileSummary": "Marcos Evangelista de Morais, known as Cafu, is a Brazilian former professional footballer who played as a right-back. Widely regarded as one of the greatest full-backs of all time, he was known for his pace and energetic attacking runs along the right flank. He is the most-capped player for the Brazil national team with 142 appearances.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cafu_-_26.02.2026_-_Cerim%C3%B4nia_de_apresenta%C3%A7%C3%A3o_das_ta%C3%A7as_da_Copa_do_Mundo_de_2026.jpg/330px-Cafu_-_26.02.2026_-_Cerim%C3%B4nia_de_apresenta%C3%A7%C3%A3o_das_ta%C3%A7as_da_Copa_do_Mundo_de_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cafu",
+  "dateOfBirth": "1970-06-07",
+  "birthDateParsed": "1970-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.486388888",
+  "birthCoordinatesLng": "-46.348611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q178683",
+  "birthPlace": "Itaquaquecetuba",
+  "fetchedAt": "2026-08-10T11:27:42.801Z"
+}

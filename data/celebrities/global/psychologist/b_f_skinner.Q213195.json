@@ -1,0 +1,37 @@
+{
+  "publicId": "0cb9f2a0",
+  "wikipediaSlug": "B._F._Skinner",
+  "wikipediaId": "Q213195",
+  "name": "B. F. Skinner",
+  "fullName": "B. F. Skinner",
+  "profileSummary": "Burrhus Frederic Skinner was an American psychologist, behaviorist, inventor, and social philosopher. He was the Edgar Pierce Professor of Psychology at Harvard University from 1948 until his retirement in 1974.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg/330px-B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/B._F._Skinner",
+  "dateOfBirth": "1904-03-20",
+  "birthDateParsed": "1904-03-20",
+  "dateOfDeath": "1990-08-18",
+  "deathDateParsed": "1990-08-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.9447",
+  "birthCoordinatesLng": "-75.6039",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "psychologist",
+    "philosopher",
+    "inventor",
+    "ethologist",
+    "autobiographer",
+    "university teacher",
+    "writer"
+  ],
+  "qid": "Q213195",
+  "birthPlace": "Susquehanna Depot",
+  "fetchedAt": "2026-08-05T02:43:31.862Z"
+}

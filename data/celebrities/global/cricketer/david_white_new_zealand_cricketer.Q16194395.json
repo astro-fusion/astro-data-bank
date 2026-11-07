@@ -1,0 +1,31 @@
+{
+  "publicId": "b2e230da",
+  "wikipediaSlug": "David_White_(New_Zealand_cricketer)",
+  "wikipediaId": "Q16194395",
+  "name": "David White (New Zealand cricketer)",
+  "fullName": "David White (New Zealand cricketer)",
+  "profileSummary": "David John White is a former New Zealand cricketer who played in two Test matches and three One Day Internationals in 1990.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_White_(New_Zealand_cricketer)",
+  "dateOfBirth": "1961-06-26",
+  "birthDateParsed": "1961-06-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-38.6625",
+  "birthCoordinatesLng": "178.017777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q16194395",
+  "birthPlace": "Gisborne",
+  "fetchedAt": "2026-07-31T21:02:51.321Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "cc1f2d47",
+  "wikipediaSlug": "Jon_Fosse",
+  "wikipediaId": "Q443868",
+  "name": "Jon Fosse",
+  "fullName": "Jon Fosse",
+  "profileSummary": "Jon Olav Fosse is a Norwegian author, translator, and playwright. In 2023, he was awarded the Nobel Prize in Literature \"for his innovative plays and prose which give voice to the unsayable.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Writer_Jon_Fosse_%28cropped%29.jpg/330px-Writer_Jon_Fosse_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jon_Fosse",
+  "dateOfBirth": "1959-09-29",
+  "birthDateParsed": "1959-09-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.41015",
+  "birthCoordinatesLng": "5.27551",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "poet",
+    "children's writer",
+    "translator",
+    "novelist",
+    "literary scholar",
+    "writer",
+    "essayist"
+  ],
+  "qid": "Q443868",
+  "birthPlace": "Haugesund Municipality",
+  "fetchedAt": "2026-08-06T07:41:55.985Z"
+}

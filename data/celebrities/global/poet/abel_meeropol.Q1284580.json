@@ -1,0 +1,37 @@
+{
+  "publicId": "def0b26c",
+  "wikipediaSlug": "Abel_Meeropol",
+  "wikipediaId": "Q1284580",
+  "name": "Abel Meeropol",
+  "fullName": "Abel Meeropol",
+  "profileSummary": "Abel Meeropol was an American songwriter and poet whose works were published under his pseudonym Lewis Allan. He wrote the poem and musical setting of \"Strange Fruit\" (1937), which was recorded by Billie Holiday.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Abel_Meeropol_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abel_Meeropol",
+  "dateOfBirth": "1903-02-10",
+  "birthDateParsed": "1903-02-10",
+  "dateOfDeath": "1986-10-30",
+  "deathDateParsed": "1986-10-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.846666666",
+  "birthCoordinatesLng": "-73.873333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "songwriter",
+    "writer",
+    "composer",
+    "lyricist",
+    "librettist",
+    "teacher"
+  ],
+  "qid": "Q1284580",
+  "birthPlace": "The Bronx",
+  "fetchedAt": "2026-08-05T02:41:58.781Z"
+}

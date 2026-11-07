@@ -1,0 +1,36 @@
+{
+  "publicId": "379ca0dc",
+  "wikipediaSlug": "Rodrigo_Duterte",
+  "wikipediaId": "Q457786",
+  "name": "Rodrigo Duterte",
+  "fullName": "Rodrigo Duterte",
+  "profileSummary": "Rodrigo Roa Duterte is a Filipino politician who served as the 16th president of the Philippines from 2016 to 2022. He served as mayor of Davao City for three non-consecutive terms between 1988 and 2016. Duterte is the first Philippine president from Mindanao, and the oldest person to assume office, beginning his term at age 71. Duterte is the chairman of PDP–Laban, the ruling party during his presidency.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/President_Rodrigo_Duterte_portrait_%28cropped%29.jpg/330px-President_Rodrigo_Duterte_portrait_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodrigo_Duterte",
+  "dateOfBirth": "1945-03-28",
+  "birthDateParsed": "1945-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.133333333",
+  "birthCoordinatesLng": "124.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "statesperson",
+    "jurist",
+    "mayor",
+    "head of state",
+    "prosecutor",
+    "politician"
+  ],
+  "qid": "Q457786",
+  "birthPlace": "Maasin",
+  "fetchedAt": "2026-08-03T15:53:24.863Z"
+}

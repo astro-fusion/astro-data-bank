@@ -1,0 +1,39 @@
+{
+  "publicId": "f0e0645a",
+  "wikipediaSlug": "Alexandra_Kollontai",
+  "wikipediaId": "Q179558",
+  "name": "Alexandra Kollontai",
+  "fullName": "Alexandra Kollontai",
+  "profileSummary": "Alexandra Mikhailovna Kollontai was a Russian revolutionary, politician, diplomat and Marxist theoretician. Serving as People's Commissar for Welfare in Vladimir Lenin's government in 1917–1918, she was a highly prominent woman within the Bolshevik party. She was the first woman in history to be a cabinet minister, and one of the first women to be appointed as a diplomatic representative of a modern state, and the first to be promoted to the rank of ambassador.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aleksandra_Kollontai.jpg/330px-Aleksandra_Kollontai.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Kollontai",
+  "dateOfBirth": "1872-03-31",
+  "birthDateParsed": "1872-03-31",
+  "dateOfDeath": "1952-03-09",
+  "deathDateParsed": "1952-03-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "revolutionary",
+    "diplomat",
+    "women's rights activist",
+    "writer",
+    "political theorist",
+    "People's Commissar",
+    "sociologist",
+    "politician",
+    "feminist"
+  ],
+  "qid": "Q179558",
+  "birthPlace": "Saint Petersburg",
+  "fetchedAt": "2026-08-04T00:54:41.981Z"
+}

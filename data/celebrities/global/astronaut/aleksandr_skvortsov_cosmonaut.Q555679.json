@@ -1,0 +1,33 @@
+{
+  "publicId": "fd10c821",
+  "wikipediaSlug": "Aleksandr_Skvortsov_(cosmonaut)",
+  "wikipediaId": "Q555679",
+  "name": "Aleksandr Skvortsov (cosmonaut)",
+  "fullName": "Aleksandr Skvortsov (cosmonaut)",
+  "profileSummary": "Aleksandr Aleksandrovich Skvortsov is a Russian cosmonaut. He is a veteran of three spaceflights, which were long-duration missions aboard the International Space Station. His first spaceflight took place from April to September 2010, and was launched with the spacecraft Soyuz TMA-18. He arrived at the station part way through Expedition 23, of which Oleg Kotov was the commander. When Expedition 24 began in June, Skvortsov became commander.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alexander_Skvortsov_cropped.jpg/330px-Alexander_Skvortsov_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Skvortsov_(cosmonaut)",
+  "dateOfBirth": "1966-05-06",
+  "birthDateParsed": "1966-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.916666666",
+  "birthCoordinatesLng": "38",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "aircraft pilot",
+    "test cosmonaut"
+  ],
+  "qid": "Q555679",
+  "birthPlace": "Shchyolkovo",
+  "fetchedAt": "2026-08-10T06:03:33.982Z"
+}

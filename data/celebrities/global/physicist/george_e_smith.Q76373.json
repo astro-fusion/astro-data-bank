@@ -1,0 +1,34 @@
+{
+  "publicId": "57514954",
+  "wikipediaSlug": "George_E._Smith",
+  "wikipediaId": "Q76373",
+  "name": "George E. Smith",
+  "fullName": "George E. Smith",
+  "profileSummary": "George Elwood Smith was an American applied physicist and a co-inventor of the charge-coupled device (CCD). Smith shared one half of the 2009 Nobel Prize in Physics with Willard Boyle \"for the invention of an imaging semiconductor circuit - the CCD sensor.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nobel_Prize_2009-Press_Conference_KVA-27.jpg/330px-Nobel_Prize_2009-Press_Conference_KVA-27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_E._Smith",
+  "dateOfBirth": "1930-05-10",
+  "birthDateParsed": "1930-05-10",
+  "dateOfDeath": "2025-05-28",
+  "deathDateParsed": "2025-05-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.0325",
+  "birthCoordinatesLng": "-73.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "photographer",
+    "scientist",
+    "inventor"
+  ],
+  "qid": "Q76373",
+  "birthPlace": "White Plains",
+  "fetchedAt": "2026-08-06T05:02:03.702Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "b9d1d030",
+  "wikipediaSlug": "Andriyan_Nikolayev",
+  "wikipediaId": "Q312474",
+  "name": "Andriyan Nikolayev",
+  "fullName": "Andriyan Nikolayev",
+  "profileSummary": "Andriyan Grigoryevich Nikolayev was a Soviet cosmonaut. In 1962, aboard Vostok 3, he became the third Soviet cosmonaut to fly into space. Nikolayev was an ethnic Chuvash and because of it is considered the first Turkic cosmonaut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Convert_ru_kosmos174.jpg/330px-Convert_ru_kosmos174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andriyan_Nikolayev",
+  "dateOfBirth": "1929-09-05",
+  "birthDateParsed": "1929-09-05",
+  "dateOfDeath": "2004-07-03",
+  "deathDateParsed": "2004-07-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.006944444",
+  "birthCoordinatesLng": "47.591111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aircraft pilot",
+    "astronaut",
+    "writer"
+  ],
+  "qid": "Q312474",
+  "birthPlace": "Shorshely",
+  "fetchedAt": "2026-08-10T06:03:12.204Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "288e2260",
+  "wikipediaSlug": "Bobby_Moore",
+  "wikipediaId": "Q191492",
+  "name": "Bobby Moore",
+  "fullName": "Bobby Moore",
+  "profileSummary": "Robert Frederick Chelsea Moore was an English professional footballer. He captained West Ham United for more than ten years, and was the captain of the England national team that won the 1966 FIFA World Cup. He is widely regarded as one of the greatest defenders in the history of football, and was cited by Pelé as the greatest defender he had ever played against. Moore is considered one of the greatest players of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bobby_moore_elgrafico_1970.jpg/330px-Bobby_moore_elgrafico_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Moore",
+  "dateOfBirth": "1941-04-12",
+  "birthDateParsed": "1941-04-12",
+  "dateOfDeath": "1993-02-24",
+  "deathDateParsed": "1993-02-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.54",
+  "birthCoordinatesLng": "0.08",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "sports commentator"
+  ],
+  "qid": "Q191492",
+  "birthPlace": "Barking",
+  "fetchedAt": "2026-08-10T11:27:53.305Z"
+}

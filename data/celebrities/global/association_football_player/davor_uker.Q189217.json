@@ -1,0 +1,31 @@
+{
+  "publicId": "175765ab",
+  "wikipediaSlug": "Davor_Šuker",
+  "wikipediaId": "Q189217",
+  "name": "Davor Šuker",
+  "fullName": "Davor Šuker",
+  "profileSummary": "Davor Šuker is a Croatian football administrator and former professional player who played as a striker. He served as the president of the Croatian Football Federation (HNS) from 2012 to 2021. Šuker is generally regarded as the greatest Croatian striker of all time with a record 45 goals in 68 matches. He has been Croatia's all-time top scorer since 1998. Under his leadership of the Croatian Football Federation, Croatia reached runner-up at the 2018 FIFA World Cup, the nation's highest international achievement.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Football_against_poverty_2014_-_Davor_%C5%A0uker_%28cropped%29.jpg/330px-Football_against_poverty_2014_-_Davor_%C5%A0uker_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Davor_%C5%A0uker",
+  "dateOfBirth": "1968-01-01",
+  "birthDateParsed": "1968-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.560277777",
+  "birthCoordinatesLng": "18.670277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q189217",
+  "birthPlace": "Osijek",
+  "fetchedAt": "2026-08-10T11:27:33.074Z"
+}

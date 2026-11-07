@@ -1,0 +1,33 @@
+{
+  "publicId": "a254045c",
+  "wikipediaSlug": "Richard_Stone",
+  "wikipediaId": "Q219733",
+  "name": "Richard Stone",
+  "fullName": "Richard Stone",
+  "profileSummary": "Sir John Richard Nicholas Stone was an eminent British economist. He was educated at Gonville and Caius College and King's College at the University of Cambridge. In 1984, he was awarded the Nobel Memorial Prize in Economic Sciences for developing an accounting model that could be used to track economic activities on a national and, later, an international scale.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Economist_Richard_Stone_in_1984.jpg/330px-Economist_Richard_Stone_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Stone",
+  "dateOfBirth": "1913-08-30",
+  "birthDateParsed": "1913-08-30",
+  "dateOfDeath": "1991-12-06",
+  "deathDateParsed": "1991-12-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician",
+    "researcher"
+  ],
+  "qid": "Q219733",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T09:44:06.662Z"
+}

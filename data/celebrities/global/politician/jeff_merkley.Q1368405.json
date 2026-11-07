@@ -1,0 +1,34 @@
+{
+  "publicId": "88bcca8a",
+  "wikipediaSlug": "Jeff_Merkley",
+  "wikipediaId": "Q1368405",
+  "name": "Jeff Merkley",
+  "fullName": "Jeff Merkley",
+  "profileSummary": "Jeffrey Alan Merkley is an American politician who is the junior United States senator from Oregon. He was first elected to the Senate in 2008. A member of the Democratic Party, he served from 1999 to 2009 as the representative for the 47th district in the Oregon House of Representatives, which covers central Multnomah County, including portions of eastern Portland; he was the speaker of the Oregon House of Representatives during the last two years of his tenure.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jeff_Merkley%2C_115th_official_photo.jpg/330px-Jeff_Merkley%2C_115th_official_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeff_Merkley",
+  "dateOfBirth": "1956-10-24",
+  "birthDateParsed": "1956-10-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.026944444",
+  "birthCoordinatesLng": "-123.282222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "policy analyst",
+    "chief executive officer",
+    "Presidential Management Fellows Program"
+  ],
+  "qid": "Q1368405",
+  "birthPlace": "Myrtle Creek",
+  "fetchedAt": "2026-08-02T02:17:18.209Z"
+}

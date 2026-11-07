@@ -1,0 +1,31 @@
+{
+  "publicId": "f02d0281",
+  "wikipediaSlug": "Thomas_Peterffy",
+  "wikipediaId": "Q7793127",
+  "name": "Thomas Peterffy",
+  "fullName": "Thomas Peterffy",
+  "profileSummary": "Thomas Peterffy is a Hungarian-born American billionaire businessman. He is the founder, chairman and the largest shareholder of Interactive Brokers. As of November 2025, his estimated net worth is US$109 billion, making him the 18th richest person in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/0/06/Image_of_Thomas_Peterffy_in_2018.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Peterffy",
+  "dateOfBirth": "1944-09-30",
+  "birthDateParsed": "1944-09-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q7793127",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-04T03:00:47.960Z"
+}

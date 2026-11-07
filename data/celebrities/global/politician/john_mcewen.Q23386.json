@@ -1,0 +1,33 @@
+{
+  "publicId": "c3b6dcf2",
+  "wikipediaSlug": "John_McEwen",
+  "wikipediaId": "Q23386",
+  "name": "John McEwen",
+  "fullName": "John McEwen",
+  "profileSummary": "Sir John McEwen was an Australian politician and farmer who served as the 18th prime minister of Australia from 1967 to 1968, in a caretaker capacity following the disappearance of prime minister Harold Holt. He was the leader of the Country Party from 1958 to 1971, serving as the inaugural deputy prime minister of Australia from 1968 to 1971.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/John_McEwen_1957_v2.jpg/330px-John_McEwen_1957_v2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_McEwen",
+  "dateOfBirth": "1900-03-29",
+  "birthDateParsed": "1900-03-29",
+  "dateOfDeath": "1980-11-20",
+  "deathDateParsed": "1980-11-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.15",
+  "birthCoordinatesLng": "146.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "head of government"
+  ],
+  "qid": "Q23386",
+  "birthPlace": "Chiltern",
+  "fetchedAt": "2026-08-03T12:58:33.816Z"
+}

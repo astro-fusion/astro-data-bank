@@ -1,0 +1,31 @@
+{
+  "publicId": "f225f808",
+  "wikipediaSlug": "Arthur_Seccull",
+  "wikipediaId": "Q4800256",
+  "name": "Arthur Seccull",
+  "fullName": "Arthur Seccull",
+  "profileSummary": "Arthur William Seccull was a cricketer who played one Test match for South Africa in 1896.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Seccull",
+  "dateOfBirth": "1868-09-14",
+  "birthDateParsed": "1868-09-14",
+  "dateOfDeath": "1945-07-20",
+  "deathDateParsed": "1945-07-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.883333333",
+  "birthCoordinatesLng": "27.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4800256",
+  "birthPlace": "Qonce",
+  "fetchedAt": "2026-07-31T20:20:30.090Z"
+}

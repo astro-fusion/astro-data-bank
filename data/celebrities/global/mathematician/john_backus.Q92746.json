@@ -1,0 +1,32 @@
+{
+  "publicId": "8dc16eb0",
+  "wikipediaSlug": "John_Backus",
+  "wikipediaId": "Q92746",
+  "name": "John Backus",
+  "fullName": "John Backus",
+  "profileSummary": "John Warner Backus  was an American computer scientist. He led the team that invented and implemented FORTRAN, the first widely used high-level programming language, and was the inventor of the Backus–Naur form (BNF), a widely used notation to define syntaxes of formal languages. He also contributed to the design of ALGOL, and later researched the function-level programming paradigm, presenting his findings in his influential 1977 Turing Award lecture \"Can Programming Be Liberated from the von Neumann Style?\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Backus_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Backus",
+  "dateOfBirth": "1924-12-03",
+  "birthDateParsed": "1924-12-03",
+  "dateOfDeath": "2007-03-17",
+  "deathDateParsed": "2007-03-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist"
+  ],
+  "qid": "Q92746",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-10T04:29:00.403Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "262a96cd",
+  "wikipediaSlug": "David_D._Clark",
+  "wikipediaId": "Q92657",
+  "name": "David D. Clark",
+  "fullName": "David D. Clark",
+  "profileSummary": "David Dana \"Dave\" Clark is an American computer scientist and Internet pioneer who has been involved with Internet developments since the mid-1970s. He currently works as a senior research scientist at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/David_D_Clark_in_office_%28cropped%29.jpg/330px-David_D_Clark_in_office_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_D._Clark",
+  "dateOfBirth": "1944-04-07",
+  "birthDateParsed": "1944-04-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher",
+    "information scientist"
+  ],
+  "qid": "Q92657",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:16:58.161Z"
+}

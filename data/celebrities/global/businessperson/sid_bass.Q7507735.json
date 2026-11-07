@@ -1,0 +1,31 @@
+{
+  "publicId": "8c0b1e73",
+  "wikipediaSlug": "Sid_Bass",
+  "wikipediaId": "Q7507735",
+  "name": "Sid Bass",
+  "fullName": "Sid Bass",
+  "profileSummary": "Sid Richardson Bass is an American billionaire investor and philanthropist.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sid_Bass",
+  "dateOfBirth": "1942-04-09",
+  "birthDateParsed": "1942-04-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.756388888",
+  "birthCoordinatesLng": "-97.3325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q7507735",
+  "birthPlace": "Fort Worth",
+  "fetchedAt": "2026-08-04T03:35:29.602Z"
+}

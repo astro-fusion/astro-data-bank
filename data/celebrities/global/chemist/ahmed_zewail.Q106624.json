@@ -1,0 +1,34 @@
+{
+  "publicId": "7653de08",
+  "wikipediaSlug": "Ahmed_Zewail",
+  "wikipediaId": "Q106624",
+  "name": "Ahmed Zewail",
+  "fullName": "Ahmed Zewail",
+  "profileSummary": "Ahmed Hassan Zewail was an Egyptian-American chemist, known as the \"father of femtochemistry\". He was awarded the 1999 Nobel Prize in Chemistry for his work on femtochemistry and became the first Egyptian and Arab to win a Nobel Prize in a scientific field, and the first African to win a Nobel Prize in Chemistry. He was a professor of chemistry and physics at the California Institute of Technology (Caltech), where he was the first Caltech faculty member to be named the Linus Pauling Chair of Chemical Physics and was the director of the Physical Biology Center for Ultrafast Science and Technology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ahmed_Zewail_HD2009_Othmer_Gold_Medal_portrait.JPG/330px-Ahmed_Zewail_HD2009_Othmer_Gold_Medal_portrait.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Zewail",
+  "dateOfBirth": "1946-02-26",
+  "birthDateParsed": "1946-02-26",
+  "dateOfDeath": "2016-08-02",
+  "deathDateParsed": "2016-08-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.05",
+  "birthCoordinatesLng": "30.466666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher",
+    "inventor",
+    "physicist"
+  ],
+  "qid": "Q106624",
+  "birthPlace": "Damanhur",
+  "fetchedAt": "2026-08-10T02:03:12.051Z"
+}

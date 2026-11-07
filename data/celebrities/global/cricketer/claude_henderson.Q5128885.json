@@ -1,0 +1,31 @@
+{
+  "publicId": "c807aa29",
+  "wikipediaSlug": "Claude_Henderson",
+  "wikipediaId": "Q5128885",
+  "name": "Claude Henderson",
+  "fullName": "Claude Henderson",
+  "profileSummary": "Claude William Henderson is a South African former cricketer who bowled left-arm spin and played in seven Test matches and four One Day Internationals in 2001 to 2002.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Henderson",
+  "dateOfBirth": "1972-06-14",
+  "birthDateParsed": "1972-06-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.645",
+  "birthCoordinatesLng": "19.443611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5128885",
+  "birthPlace": "Worcester",
+  "fetchedAt": "2026-07-31T20:21:51.676Z"
+}

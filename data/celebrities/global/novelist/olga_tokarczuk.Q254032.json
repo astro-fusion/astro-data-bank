@@ -1,0 +1,39 @@
+{
+  "publicId": "3a2b18ac",
+  "wikipediaSlug": "Olga_Tokarczuk",
+  "wikipediaId": "Q254032",
+  "name": "Olga Tokarczuk",
+  "fullName": "Olga Tokarczuk",
+  "profileSummary": "Olga Nawoja Tokarczuk is a Polish writer, activist, and public intellectual.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Olga_Tokarczuk-9739.jpg/330px-Olga_Tokarczuk-9739.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olga_Tokarczuk",
+  "dateOfBirth": "1962-01-29",
+  "birthDateParsed": "1962-01-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.083333333",
+  "birthCoordinatesLng": "15.616666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "novelist",
+    "writer",
+    "psychologist",
+    "poet",
+    "librettist",
+    "publisher",
+    "donor",
+    "screenwriter",
+    "essayist"
+  ],
+  "qid": "Q254032",
+  "birthPlace": "Sulechów",
+  "fetchedAt": "2026-08-06T07:42:29.731Z"
+}

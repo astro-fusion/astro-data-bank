@@ -1,0 +1,32 @@
+{
+  "publicId": "5e80aaa4",
+  "wikipediaSlug": "Karl_Barry_Sharpless",
+  "wikipediaId": "Q110925",
+  "name": "Karl Barry Sharpless",
+  "fullName": "Karl Barry Sharpless",
+  "profileSummary": "Karl Barry Sharpless is an American stereochemist. He is a two-time Nobel laureate in chemistry, known for his work on stereoselective reactions and click chemistry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Barry_Sharpless_in_2026.jpg/330px-Barry_Sharpless_in_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Barry_Sharpless",
+  "dateOfBirth": "1941-04-28",
+  "birthDateParsed": "1941-04-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q110925",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-10T02:04:42.215Z"
+}

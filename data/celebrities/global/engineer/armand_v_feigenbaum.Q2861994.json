@@ -1,0 +1,36 @@
+{
+  "publicId": "1dd76b58",
+  "wikipediaSlug": "Armand_V._Feigenbaum",
+  "wikipediaId": "Q2861994",
+  "name": "Armand V. Feigenbaum",
+  "fullName": "Armand V. Feigenbaum",
+  "profileSummary": "Armand Vallin Feigenbaum was an American quality control expert and businessman. He devised the concept of Total Quality Control (TQM), now known as \"total quality management\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/66/Armand_Vallin_Feigenbaum.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Armand_V._Feigenbaum",
+  "dateOfBirth": "1922-04-06",
+  "birthDateParsed": "1922-04-06",
+  "dateOfDeath": "2014-11-13",
+  "deathDateParsed": "2014-11-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "quality control",
+    "economist",
+    "businessperson",
+    "statistician",
+    "merchant"
+  ],
+  "qid": "Q2861994",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-05T03:15:28.775Z"
+}

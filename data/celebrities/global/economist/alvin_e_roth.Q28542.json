@@ -1,0 +1,33 @@
+{
+  "publicId": "431048d0",
+  "wikipediaSlug": "Alvin_E._Roth",
+  "wikipediaId": "Q28542",
+  "name": "Alvin E. Roth",
+  "fullName": "Alvin E. Roth",
+  "profileSummary": "Alvin Eliot Roth is an American academic. He is the Craig and Susan McCaw professor of economics at Stanford University and the Gund professor of economics and business administration emeritus at Harvard University. He was president of the American Economic Association in 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Alvin_E._Roth_3_2012.jpg/330px-Alvin_E._Roth_3_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alvin_E._Roth",
+  "dateOfBirth": "1951-12-18",
+  "birthDateParsed": "1951-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "academic"
+  ],
+  "qid": "Q28542",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T09:42:48.523Z"
+}

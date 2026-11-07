@@ -1,0 +1,34 @@
+{
+  "publicId": "5b9e9d71",
+  "wikipediaSlug": "Hanna_Suchocka",
+  "wikipediaId": "Q55930",
+  "name": "Hanna Suchocka",
+  "fullName": "Hanna Suchocka",
+  "profileSummary": "Hanna Stanisława Suchocka is a Polish politician and lawyer who served as Prime Minister of Poland from 8 July 1992 to 26 October 1993 during the presidency of Lech Wałęsa. She is the first woman to hold this post in Poland and was the 14th woman to be appointed and serve as prime minister in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hanna_Suchocka_2024.jpg/330px-Hanna_Suchocka_2024.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanna_Suchocka",
+  "dateOfBirth": "1946-04-03",
+  "birthDateParsed": "1946-04-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.897361111",
+  "birthCoordinatesLng": "17.785613888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "jurist",
+    "university teacher"
+  ],
+  "qid": "Q55930",
+  "birthPlace": "Pleszew",
+  "fetchedAt": "2026-08-04T00:56:27.968Z"
+}

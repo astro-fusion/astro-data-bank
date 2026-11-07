@@ -1,0 +1,31 @@
+{
+  "publicId": "f744edd1",
+  "wikipediaSlug": "Andy_Murray",
+  "wikipediaId": "Q10125",
+  "name": "Andy Murray",
+  "fullName": "Andy Murray",
+  "profileSummary": "Sir Andrew Barron Murray is a British former professional tennis player and coach. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 41 weeks, including as the year-end No. 1 in 2016. Murray won 46 ATP Tour singles titles, including three majors at the 2012 US Open, 2013 Wimbledon Championships, and 2016 Wimbledon Championships. He also won two gold medals at the Summer Olympics, the 2016 ATP World Tour Finals, 14 Masters events, and finished runner-up at eight other majors for a total of eleven major finals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg/330px-2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Murray",
+  "dateOfBirth": "1987-05-15",
+  "birthDateParsed": "1987-05-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q10125",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-01T13:10:36.981Z"
+}

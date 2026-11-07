@@ -1,0 +1,32 @@
+{
+  "publicId": "e5b47f22",
+  "wikipediaSlug": "Duncan_Haldane",
+  "wikipediaId": "Q1002250",
+  "name": "Duncan Haldane",
+  "fullName": "Duncan Haldane",
+  "profileSummary": "Frederick Duncan Michael Haldane is a British physicist who is currently the Sherman Fairchild University Professor of Physics at Princeton University. He is a co-recipient of the 2016 Nobel Prize in Physics, along with David J. Thouless and J. Michael Kosterlitz.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Duncan_Haldane.jpg/330px-Duncan_Haldane.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Duncan_Haldane",
+  "dateOfBirth": "1951-11-14",
+  "birthDateParsed": "1951-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q1002250",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-06T05:01:42.429Z"
+}

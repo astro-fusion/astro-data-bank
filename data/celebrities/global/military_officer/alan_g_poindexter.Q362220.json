@@ -1,0 +1,33 @@
+{
+  "publicId": "1ffa9295",
+  "wikipediaSlug": "Alan_G._Poindexter",
+  "wikipediaId": "Q362220",
+  "name": "Alan G. Poindexter",
+  "fullName": "Alan G. Poindexter",
+  "profileSummary": "Alan Goodwin Poindexter was an American naval officer and a NASA astronaut. Poindexter was selected in the 1998 NASA Group (G17) and went into orbit aboard Space Shuttle missions STS-122 and STS-131.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alan_G._Poindexter.jpg/330px-Alan_G._Poindexter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_G._Poindexter",
+  "dateOfBirth": "1961-11-05",
+  "birthDateParsed": "1961-11-05",
+  "dateOfDeath": "2012-07-01",
+  "deathDateParsed": "2012-07-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.1475",
+  "birthCoordinatesLng": "-118.143888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q362220",
+  "birthPlace": "Pasadena",
+  "fetchedAt": "2026-08-10T06:03:12.819Z"
+}

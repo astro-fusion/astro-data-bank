@@ -1,0 +1,32 @@
+{
+  "publicId": "880818bc",
+  "wikipediaSlug": "Simon_Johnson_(economist)",
+  "wikipediaId": "Q1461050",
+  "name": "Simon Johnson (economist)",
+  "fullName": "Simon Johnson (economist)",
+  "profileSummary": "Simon H. Johnson is a British-American economist who has served as the Ronald A. Kurtz Professor of Entrepreneurship at the MIT Sloan School of Management since 2004. He also served as a senior fellow at the Peterson Institute for International Economics from 2008 to 2019. Before moving to MIT, he taught at Duke University's Fuqua School of Business from 1991 to 1997. From March 2007 through the end of August 2008, he served as Chief Economist of the International Monetary Fund.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Simon_Johnson%2C_2024_Nobel_Prize_Laureate_in_Economics_4_%28cropped%29.jpg/330px-Simon_Johnson%2C_2024_Nobel_Prize_Laureate_in_Economics_4_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Johnson_(economist)",
+  "dateOfBirth": "1963-01-16",
+  "birthDateParsed": "1963-01-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.380833333",
+  "birthCoordinatesLng": "-1.470277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q1461050",
+  "birthPlace": "Sheffield",
+  "fetchedAt": "2026-08-10T09:44:23.342Z"
+}

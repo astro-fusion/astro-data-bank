@@ -1,0 +1,38 @@
+{
+  "publicId": "52c03def",
+  "wikipediaSlug": "Giosuè_Carducci",
+  "wikipediaId": "Q43440",
+  "name": "Giosuè Carducci",
+  "fullName": "Giosuè Carducci",
+  "profileSummary": "Giosuè Alessandro Giuseppe Carducci was an Italian poet, writer, literary critic and teacher. He was noticeably influential, and was regarded as the official national poet of modern Italy. In 1906, he became the first Italian to receive the Nobel Prize in Literature. The Swedish Academy awarded him the prize \"not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Giosu%C3%A8_Carducci2.jpg/330px-Giosu%C3%A8_Carducci2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giosu%C3%A8_Carducci",
+  "dateOfBirth": "1835-07-28",
+  "birthDateParsed": "1835-07-28",
+  "dateOfDeath": "1907-02-08",
+  "deathDateParsed": "1907-02-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.953724203",
+  "birthCoordinatesLng": "10.26401457",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "journalist",
+    "politician",
+    "university teacher",
+    "literary critic",
+    "philologist",
+    "literary historian"
+  ],
+  "qid": "Q43440",
+  "birthPlace": "Valdicastello Carducci",
+  "fetchedAt": "2026-08-06T07:41:44.909Z"
+}

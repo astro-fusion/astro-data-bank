@@ -1,0 +1,35 @@
+{
+  "publicId": "4e3dd5bd",
+  "wikipediaSlug": "William_Henry_Harrison",
+  "wikipediaId": "Q11869",
+  "name": "William Henry Harrison",
+  "fullName": "William Henry Harrison",
+  "profileSummary": "William Henry Harrison was the ninth president of the United States from March to April 1841. He died 31 days into his term, making him the shortest serving president and the first president to die in office. Immediately after his death, Vice President John Tyler took over, ending the constitutional crisis that had been triggered by the question of presidential succession in the U.S. Constitution.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/William_Henry_Harrison_crop.jpg/330px-William_Henry_Harrison_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+  "dateOfBirth": "1773-02-09",
+  "birthDateParsed": "1773-02-09",
+  "dateOfDeath": "1841-04-04",
+  "deathDateParsed": "1841-04-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.35",
+  "birthCoordinatesLng": "-77.06",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military officer",
+    "statesperson",
+    "governor"
+  ],
+  "qid": "Q11869",
+  "birthPlace": "Charles City County",
+  "fetchedAt": "2026-08-01T18:09:06.125Z"
+}

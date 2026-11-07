@@ -1,0 +1,36 @@
+{
+  "publicId": "da7b77df",
+  "wikipediaSlug": "Paul_Martin_Sr.",
+  "wikipediaId": "Q524772",
+  "name": "Paul Martin Sr.",
+  "fullName": "Paul Martin Sr.",
+  "profileSummary": "Joseph James Guillaume Paul Martin, often referred to as Paul Martin Sr., was a Canadian lawyer, politician and diplomat. He was the father of Paul Martin, who served as 21st prime minister of Canada from 2003 to 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paul_Martin_Sr_Portrait_1943.jpg/330px-Paul_Martin_Sr_Portrait_1943.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Martin_Sr.",
+  "dateOfBirth": "1903-06-23",
+  "birthDateParsed": "1903-06-23",
+  "dateOfDeath": "1992-09-14",
+  "deathDateParsed": "1992-09-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.424722222",
+  "birthCoordinatesLng": "-75.695",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "diplomat",
+    "politician",
+    "lecturer",
+    "ambassador",
+    "jurist"
+  ],
+  "qid": "Q524772",
+  "birthPlace": "Ottawa",
+  "fetchedAt": "2026-08-03T10:59:35.448Z"
+}

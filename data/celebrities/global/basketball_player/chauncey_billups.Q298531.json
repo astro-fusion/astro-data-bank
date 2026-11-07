@@ -1,0 +1,32 @@
+{
+  "publicId": "f48af8e2",
+  "wikipediaSlug": "Chauncey_Billups",
+  "wikipediaId": "Q298531",
+  "name": "Chauncey Billups",
+  "fullName": "Chauncey Billups",
+  "profileSummary": "Chauncey Ray Billups is an American professional basketball coach and former player who last served as the head coach of the Portland Trail Blazers of the National Basketball Association (NBA).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Billups_coach_%28cropped%29.jpg/330px-Billups_coach_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chauncey_Billups",
+  "dateOfBirth": "1976-09-25",
+  "birthDateParsed": "1976-09-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.739166666",
+  "birthCoordinatesLng": "-104.984722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q298531",
+  "birthPlace": "Denver",
+  "fetchedAt": "2026-08-01T15:36:44.586Z"
+}

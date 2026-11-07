@@ -1,0 +1,35 @@
+{
+  "publicId": "5778036a",
+  "wikipediaSlug": "Aaron_Ciechanover",
+  "wikipediaId": "Q233205",
+  "name": "Aaron Ciechanover",
+  "fullName": "Aaron Ciechanover",
+  "profileSummary": "Aaron Ciechanover is an Israeli biologist who won the Nobel Prize in Chemistry for characterizing the method that cells use to degrade and recycle proteins using ubiquitin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aaron_Ciechanover_1.jpg/330px-Aaron_Ciechanover_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Ciechanover",
+  "dateOfBirth": "1947-10-01",
+  "birthDateParsed": "1947-10-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.819166666",
+  "birthCoordinatesLng": "34.999166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "physician",
+    "pedagogue",
+    "university teacher"
+  ],
+  "qid": "Q233205",
+  "birthPlace": "Haifa",
+  "fetchedAt": "2026-08-10T02:03:11.624Z"
+}

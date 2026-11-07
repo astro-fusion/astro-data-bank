@@ -1,0 +1,36 @@
+{
+  "publicId": "03be7e7d",
+  "wikipediaSlug": "Hendrik_Lorentz",
+  "wikipediaId": "Q41688",
+  "name": "Hendrik Lorentz",
+  "fullName": "Hendrik Lorentz",
+  "profileSummary": "Hendrik Antoon Lorentz was a Dutch theoretical physicist who shared the 1902 Nobel Prize in Physics with Pieter Zeeman for their discovery and theoretical explanation of the Zeeman effect. He derived the Lorentz transformation of the special theory of relativity, as well as the Lorentz force, which describes the force acting on a charged particle in an electromagnetic field. He was also responsible for the Lorentz oscillator model, a classical model used to describe the anomalous dispersion observed in dielectric materials when the driving frequency of the electric field was near the resonant frequency of the material, resulting in abnormal refractive indices.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg/330px-Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hendrik_Lorentz",
+  "dateOfBirth": "1853-07-18",
+  "birthDateParsed": "1853-07-18",
+  "dateOfDeath": "1928-02-04",
+  "deathDateParsed": "1928-02-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.983333333",
+  "birthCoordinatesLng": "5.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "theoretical physicist",
+    "physicist",
+    "mathematician",
+    "botanist",
+    "university teacher",
+    "curator"
+  ],
+  "qid": "Q41688",
+  "birthPlace": "Arnhem",
+  "fetchedAt": "2026-08-06T05:02:15.777Z"
+}

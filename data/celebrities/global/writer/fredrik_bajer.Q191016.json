@@ -1,0 +1,35 @@
+{
+  "publicId": "a3da581d",
+  "wikipediaSlug": "Fredrik_Bajer",
+  "wikipediaId": "Q191016",
+  "name": "Fredrik Bajer",
+  "fullName": "Fredrik Bajer",
+  "profileSummary": "Fredrik Bajer was a Danish writer, teacher, and pacifist politician who received the Nobel Peace Prize in 1908 together with Klas Pontus Arnoldson.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Frederik_Bajer_by_E._M%C3%B8ller.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fredrik_Bajer",
+  "dateOfBirth": "1837-04-21",
+  "birthDateParsed": "1837-04-21",
+  "dateOfDeath": "1922-01-22",
+  "deathDateParsed": "1922-01-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.2653",
+  "birthCoordinatesLng": "11.9649",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "politician",
+    "teacher",
+    "peace activist",
+    "women's rights activist"
+  ],
+  "qid": "Q191016",
+  "birthPlace": "Vester Egede",
+  "fetchedAt": "2026-08-04T02:13:07.500Z"
+}

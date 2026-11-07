@@ -1,0 +1,32 @@
+{
+  "publicId": "6dff7cf2",
+  "wikipediaSlug": "Taikichiro_Mori",
+  "wikipediaId": "Q7676027",
+  "name": "Taikichiro Mori",
+  "fullName": "Taikichiro Mori",
+  "profileSummary": "Taikichiro Mori was a Japanese businessman who founded Mori Building Company.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Taikichiro_Mori_1985_%28cropped%29.png/330px-Taikichiro_Mori_1985_%28cropped%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Taikichiro_Mori",
+  "dateOfBirth": "1904-03-01",
+  "birthDateParsed": "1904-03-01",
+  "dateOfDeath": "1993-01-30",
+  "deathDateParsed": "1993-01-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.683889",
+  "birthCoordinatesLng": "139.774444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "economist"
+  ],
+  "qid": "Q7676027",
+  "birthPlace": "Tokyo",
+  "fetchedAt": "2026-08-04T03:35:37.996Z"
+}

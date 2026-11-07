@@ -1,0 +1,35 @@
+{
+  "publicId": "51c309cd",
+  "wikipediaSlug": "Dorothy_Hodgkin",
+  "wikipediaId": "Q7487",
+  "name": "Dorothy Hodgkin",
+  "fullName": "Dorothy Hodgkin",
+  "profileSummary": "Dorothy Mary Crowfoot Hodgkin was an English chemist who advanced the technique of X-ray crystallography to determine the structure of biomolecules, which became essential for structural biology. She received the 1964 Nobel Prize in Chemistry, and is the only British woman scientist to have been awarded a Nobel Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Dorothy_Hodgkin_Nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin",
+  "dateOfBirth": "1910-05-12",
+  "birthDateParsed": "1910-05-12",
+  "dateOfDeath": "1994-07-29",
+  "deathDateParsed": "1994-07-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.044444444",
+  "birthCoordinatesLng": "31.235833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "biochemist",
+    "crystallographer",
+    "biophysicist",
+    "physicist"
+  ],
+  "qid": "Q7487",
+  "birthPlace": "Cairo",
+  "fetchedAt": "2026-08-10T02:03:31.024Z"
+}

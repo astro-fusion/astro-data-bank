@@ -1,0 +1,31 @@
+{
+  "publicId": "e9851a71",
+  "wikipediaSlug": "May_Sutton",
+  "wikipediaId": "Q54675",
+  "name": "May Sutton",
+  "fullName": "May Sutton",
+  "profileSummary": "May Sutton Bundy was an American tennis player who was active during the first decades of the 20th century. At age 17, she won the singles title at the U.S. National Championships and in 1905 she became the first American to win the singles title at Wimbledon and thereby the first woman to win two different grand slams.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_Sutton1.jpg/330px-May_Sutton1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/May_Sutton",
+  "dateOfBirth": "1886-09-25",
+  "birthDateParsed": "1886-09-25",
+  "dateOfDeath": "1975-10-04",
+  "deathDateParsed": "1975-10-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.371388888",
+  "birthCoordinatesLng": "-4.142222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q54675",
+  "birthPlace": "Plymouth",
+  "fetchedAt": "2026-08-01T15:00:23.094Z"
+}

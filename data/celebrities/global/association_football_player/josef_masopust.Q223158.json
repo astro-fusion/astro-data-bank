@@ -1,0 +1,32 @@
+{
+  "publicId": "a1e144e8",
+  "wikipediaSlug": "Josef_Masopust",
+  "wikipediaId": "Q223158",
+  "name": "Josef Masopust",
+  "fullName": "Josef Masopust",
+  "profileSummary": "Josef Masopust was a Czech football player and coach. He played as midfielder and was a key player for Czechoslovakia, helping them reach the 1962 FIFA World Cup Final. He was capped 63 times, scoring ten goals for his national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Josef_Masopust_official_photo.jpg/330px-Josef_Masopust_official_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josef_Masopust",
+  "dateOfBirth": "1931-02-09",
+  "birthDateParsed": "1931-02-09",
+  "dateOfDeath": "2015-06-29",
+  "deathDateParsed": "2015-06-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.503055555",
+  "birthCoordinatesLng": "13.636666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q223158",
+  "birthPlace": "Most",
+  "fetchedAt": "2026-08-10T11:29:03.265Z"
+}

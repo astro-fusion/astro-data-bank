@@ -1,0 +1,35 @@
+{
+  "publicId": "348682a4",
+  "wikipediaSlug": "Joel_Mokyr",
+  "wikipediaId": "Q2899100",
+  "name": "Joel Mokyr",
+  "fullName": "Joel Mokyr",
+  "profileSummary": "Joel Mokyr is an American and Israeli economic historian and the Robert H. Strotz Professor of Arts and Sciences at Northwestern University. He is also a senior adjunct professor at the Eitan Berglas School of Economics at Tel Aviv University. He was awarded half a share of the Nobel Memorial Prize in Economic Sciences in 2025 \"for having identified the prerequisites for sustained growth through technological progress.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Professor_Joel_Mokyr.jpg/330px-Professor_Joel_Mokyr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Mokyr",
+  "dateOfBirth": "1946-07-26",
+  "birthDateParsed": "1946-07-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.16",
+  "birthCoordinatesLng": "4.49",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economic historian",
+    "university teacher",
+    "economist",
+    "Nobel Prize winner",
+    "historian"
+  ],
+  "qid": "Q2899100",
+  "birthPlace": "Leiden",
+  "fetchedAt": "2026-08-10T09:43:23.427Z"
+}

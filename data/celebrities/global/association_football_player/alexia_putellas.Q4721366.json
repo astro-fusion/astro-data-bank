@@ -1,0 +1,31 @@
+{
+  "publicId": "92e594ff",
+  "wikipediaSlug": "Alexia_Putellas",
+  "wikipediaId": "Q4721366",
+  "name": "Alexia Putellas",
+  "fullName": "Alexia Putellas",
+  "profileSummary": "Alèxia Putellas i Segura, often known mononymously as Alexia, is a Spanish professional footballer from Catalonia who plays as a midfielder or forward for Women's Super League club London City Lionesses and the Spain women's national team. She previously played for Espanyol, Levante, and Barcelona, and has represented Catalonia. Having won all major club and most of the individual awards available to a European player by 2022, she is widely regarded as one of the greatest female footballers of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/UWCL_2025-26_Final_C16.jpg/330px-UWCL_2025-26_Final_C16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexia_Putellas",
+  "dateOfBirth": "1994-02-04",
+  "birthDateParsed": "1994-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.535572",
+  "birthCoordinatesLng": "2.210705",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q4721366",
+  "birthPlace": "Mollet del Vallès",
+  "fetchedAt": "2026-08-10T11:27:29.034Z"
+}

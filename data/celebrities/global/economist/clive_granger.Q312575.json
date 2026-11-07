@@ -1,0 +1,35 @@
+{
+  "publicId": "5c86b033",
+  "wikipediaSlug": "Clive_Granger",
+  "wikipediaId": "Q312575",
+  "name": "Clive Granger",
+  "fullName": "Clive Granger",
+  "profileSummary": "Sir Clive William John Granger was a British econometrician known for his contributions to nonlinear time series analysis. He taught in Britain, at the University of Nottingham and in the United States, at the University of California, San Diego. Granger was awarded the Nobel Memorial Prize in Economic Sciences in 2003 in recognition of the contributions that he and his co-winner, Robert F. Engle, had made to the analysis of time series data. This work fundamentally changed the way in which economists analyse financial and macroeconomic data.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Clive_Granger_by_Olaf_Storbeck_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clive_Granger",
+  "dateOfBirth": "1934-09-04",
+  "birthDateParsed": "1934-09-04",
+  "dateOfDeath": "2009-05-27",
+  "deathDateParsed": "2009-05-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.616666666",
+  "birthCoordinatesLng": "-3.95",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician",
+    "university teacher",
+    "econometrician",
+    "mathematician"
+  ],
+  "qid": "Q312575",
+  "birthPlace": "Swansea",
+  "fetchedAt": "2026-08-10T09:42:57.241Z"
+}

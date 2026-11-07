@@ -1,0 +1,33 @@
+{
+  "publicId": "482f14ce",
+  "wikipediaSlug": "André_Villas-Boas",
+  "wikipediaId": "Q212914",
+  "name": "André Villas-Boas",
+  "fullName": "André Villas-Boas",
+  "profileSummary": "Luís André de Pina Cabral e Villas-Boas is a Portuguese sports executive and former football manager, who is the president of Portuguese sports club Porto. He was among the growing number of top-level managers who never played football professionally, and one of the few managers to have never played beyond youth football.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2023_-_Stage_3_ENZ_2128_%2853331827395%29_%28cropped%29.jpg/330px-2023_-_Stage_3_ENZ_2128_%2853331827395%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Villas-Boas",
+  "dateOfBirth": "1977-10-17",
+  "birthDateParsed": "1977-10-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.15",
+  "birthCoordinatesLng": "-8.610833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football coach",
+    "rally driver",
+    "association football player"
+  ],
+  "qid": "Q212914",
+  "birthPlace": "Porto",
+  "fetchedAt": "2026-08-01T05:19:43.137Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "5c2aa78a",
+  "wikipediaSlug": "Charles_Barkla",
+  "wikipediaId": "Q160522",
+  "name": "Charles Barkla",
+  "fullName": "Charles Barkla",
+  "profileSummary": "Charles Glover Barkla was a British physicist who received the Nobel Prize in Physics in 1917 for his discovery of characteristic X-rays.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Charles_Glover_Barkla_01.jpg/330px-Charles_Glover_Barkla_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Barkla",
+  "dateOfBirth": "1877-06-07",
+  "birthDateParsed": "1877-06-07",
+  "dateOfDeath": "1944-10-23",
+  "deathDateParsed": "1944-10-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.363",
+  "birthCoordinatesLng": "-2.728",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q160522",
+  "birthPlace": "Widnes",
+  "fetchedAt": "2026-08-06T05:01:08.614Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "2f8566fb",
+  "wikipediaSlug": "Alice_G._Bryant",
+  "wikipediaId": "Q28606257",
+  "name": "Alice G. Bryant",
+  "fullName": "Alice G. Bryant",
+  "profileSummary": "Alice G. Bryant was an American otorhinolaryngologist. She studied at Massachusetts Institute of Technology (M.I.T.) from 1882–3, as well as Vassar in 1885 where she received an undergraduate degree, ultimately finishing her education in 1890 at Women's Medical College in New York with her Medical Degree. She was one of the first women to be accepted by the American College of Surgeons in 1914. She worked as a medical practitioner at both the New England Hospital for Women and Children and the New England Deaconess. She is known to have kept flexible hours and established an evening clinic for the convenience of her patients at Boston Trinity Dispensary. She maintained her practice up until she fell ill and died on July 25, 1942, aged 79 or 80.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_G._Bryant",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": "1942-06-25",
+  "deathDateParsed": "1942-06-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "otolaryngologist",
+    "surgeon"
+  ],
+  "qid": "Q28606257",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:25.198Z"
+}

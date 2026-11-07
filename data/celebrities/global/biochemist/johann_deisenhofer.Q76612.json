@@ -1,0 +1,35 @@
+{
+  "publicId": "6e2087a2",
+  "wikipediaSlug": "Johann_Deisenhofer",
+  "wikipediaId": "Q76612",
+  "name": "Johann Deisenhofer",
+  "fullName": "Johann Deisenhofer",
+  "profileSummary": "Johann Deisenhofer is a German biochemist who, along with Hartmut Michel and Robert Huber, received the Nobel Prize for Chemistry in 1988 for their determination of the first crystal structure of an integral membrane protein, a membrane-bound complex of proteins and co-factors that is essential to photosynthesis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/39._Tagung_1989_Chemiker%3B_Pressekonferenz_Johann_Deisenhofer_-_W134Nr.126215c_-_Willy_Pragher_%28cropped%29.jpg/330px-39._Tagung_1989_Chemiker%3B_Pressekonferenz_Johann_Deisenhofer_-_W134Nr.126215c_-_Willy_Pragher_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johann_Deisenhofer",
+  "dateOfBirth": "1943-09-30",
+  "birthDateParsed": "1943-09-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.533333333",
+  "birthCoordinatesLng": "10.633333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "physicist",
+    "university teacher",
+    "biophysicist"
+  ],
+  "qid": "Q76612",
+  "birthPlace": "Zusamaltheim",
+  "fetchedAt": "2026-08-10T02:04:18.967Z"
+}

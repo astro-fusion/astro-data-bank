@@ -1,0 +1,31 @@
+{
+  "publicId": "786ff891",
+  "wikipediaSlug": "Robert_Cecil,_1st_Earl_of_Salisbury",
+  "wikipediaId": "Q704171",
+  "name": "Robert Cecil, 1st Earl of Salisbury",
+  "fullName": "Robert Cecil, 1st Earl of Salisbury",
+  "profileSummary": "Robert Cecil, 1st Earl of Salisbury was an English statesman and alleged spymaster noted for his direction of the government during the Union of the Crowns, as Tudor England gave way to Stuart rule (1603). Lord Salisbury served as the Secretary of State of England (1596–1612) and Lord High Treasurer (1608–1612), succeeding his father as Queen Elizabeth I's Lord Privy Seal and remaining in power during the first nine years of King James I's reign until his own death.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Robert_Cecil%2C_1st_Earl_of_Salisbury_by_John_De_Critz_the_Elder_%282%29.jpg/330px-Robert_Cecil%2C_1st_Earl_of_Salisbury_by_John_De_Critz_the_Elder_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Cecil%2C_1st_Earl_of_Salisbury",
+  "dateOfBirth": "1563-06-11",
+  "birthDateParsed": "1563-06-11",
+  "dateOfDeath": "1612-05-24",
+  "deathDateParsed": "1612-05-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4995",
+  "birthCoordinatesLng": "-0.1333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q704171",
+  "birthPlace": "Westminster",
+  "fetchedAt": "2026-08-02T05:23:00.039Z"
+}

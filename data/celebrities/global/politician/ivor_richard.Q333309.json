@@ -1,0 +1,33 @@
+{
+  "publicId": "29a57871",
+  "wikipediaSlug": "Ivor_Richard",
+  "wikipediaId": "Q333309",
+  "name": "Ivor Richard",
+  "fullName": "Ivor Richard",
+  "profileSummary": "Ivor Seward Richard, Baron Richard, was a British Labour politician who served as a member of Parliament (MP) from 1964 until 1974. He was also a member of the European Commission and latterly sat as a life peer in the House of Lords.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9b/IS_%28Ivor%29_Richard.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivor_Richard",
+  "dateOfBirth": "1932-05-30",
+  "birthDateParsed": "1932-05-30",
+  "dateOfDeath": "2018-03-18",
+  "deathDateParsed": "2018-03-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.481666666",
+  "birthCoordinatesLng": "-3.179166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer"
+  ],
+  "qid": "Q333309",
+  "birthPlace": "Cardiff",
+  "fetchedAt": "2026-08-03T14:11:03.653Z"
+}

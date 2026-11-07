@@ -1,0 +1,32 @@
+{
+  "publicId": "4d80ee97",
+  "wikipediaSlug": "Bryan_Steil",
+  "wikipediaId": "Q58494431",
+  "name": "Bryan Steil",
+  "fullName": "Bryan Steil",
+  "profileSummary": "Bryan George Steil is an American attorney, businessman, and Republican politician from Janesville, Wisconsin. He is a member of the United States House of Representatives, representing Wisconsin's 1st congressional district since 2019. Since 2023, he has served as chair of the House Administration Committee. Prior to his election to Congress, he served on the University of Wisconsin Board of Regents.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Steil_Headshot.jpg/330px-Steil_Headshot.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bryan_Steil",
+  "dateOfBirth": "1981-03-03",
+  "birthDateParsed": "1981-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.6854687",
+  "birthCoordinatesLng": "-89.0136316",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q58494431",
+  "birthPlace": "Janesville",
+  "fetchedAt": "2026-08-02T02:16:15.044Z"
+}

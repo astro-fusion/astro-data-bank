@@ -1,0 +1,36 @@
+{
+  "publicId": "917367d6",
+  "wikipediaSlug": "August_Krogh",
+  "wikipediaId": "Q152187",
+  "name": "August Krogh",
+  "fullName": "August Krogh",
+  "profileSummary": "Schack August Steenberg Krogh was a Danish professor at the department of zoophysiology at the University of Copenhagen from 1916 to 1945. He contributed a number of fundamental discoveries within several fields of physiology, and is famous for developing Krogh's principle.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/August_Krogh_Bain_32006.jpg/330px-August_Krogh_Bain_32006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Krogh",
+  "dateOfBirth": "1874-11-15",
+  "birthDateParsed": "1874-11-15",
+  "dateOfDeath": "1949-09-13",
+  "deathDateParsed": "1949-09-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.413333333",
+  "birthCoordinatesLng": "10.875833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "zoologist",
+    "pedagogue",
+    "university teacher",
+    "physiologist",
+    "naturalist"
+  ],
+  "qid": "Q152187",
+  "birthPlace": "Grenaa",
+  "fetchedAt": "2026-08-10T03:13:42.976Z"
+}

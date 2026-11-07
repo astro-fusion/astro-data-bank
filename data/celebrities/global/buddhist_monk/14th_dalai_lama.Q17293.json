@@ -1,0 +1,34 @@
+{
+  "publicId": "cb425ae2",
+  "wikipediaSlug": "14th_Dalai_Lama",
+  "wikipediaId": "Q17293",
+  "name": "14th Dalai Lama",
+  "fullName": "14th Dalai Lama",
+  "profileSummary": "The 14th Dalai Lama is the incumbent Dalai Lama, the highest spiritual leader and head of Tibetan Buddhism. He served as the resident spiritual and temporal leader of Tibet before 1959, and subsequently led the Tibetan government in exile represented by the Central Tibetan Administration in Dharamshala, India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dalai_Lama_in_2012.jpg/330px-The_Dalai_Lama_in_2012.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+  "dateOfBirth": "1935-07-06",
+  "birthDateParsed": "1935-07-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.378083333",
+  "birthCoordinatesLng": "101.865888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Buddhist monk",
+    "Lama",
+    "politician",
+    "cleric"
+  ],
+  "qid": "Q17293",
+  "birthPlace": "Taktser",
+  "fetchedAt": "2026-08-04T02:12:32.392Z"
+}

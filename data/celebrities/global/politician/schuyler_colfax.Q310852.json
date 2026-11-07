@@ -1,0 +1,32 @@
+{
+  "publicId": "8d511675",
+  "wikipediaSlug": "Schuyler_Colfax",
+  "wikipediaId": "Q310852",
+  "name": "Schuyler Colfax",
+  "fullName": "Schuyler Colfax",
+  "profileSummary": "Schuyler Colfax Jr. was an American journalist, businessman, and politician who served as the 17th vice president of the United States from 1869 to 1873, and prior to that as the 25th Speaker of the United States House of Representatives from 1863 to 1869. Originally a Whig, then part of the short-lived People's Party of Indiana, and later a Republican, he was the U.S. representative for Indiana's 9th congressional district from 1855 to 1869.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Schuyler_Colfax_portrait_%28cropped%29.jpg/330px-Schuyler_Colfax_portrait_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Schuyler_Colfax",
+  "dateOfBirth": "1823-03-23",
+  "birthDateParsed": "1823-03-23",
+  "dateOfDeath": "1885-01-13",
+  "deathDateParsed": "1885-01-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer"
+  ],
+  "qid": "Q310852",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-01T18:08:46.090Z"
+}

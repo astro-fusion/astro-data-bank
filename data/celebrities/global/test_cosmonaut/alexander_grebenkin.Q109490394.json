@@ -1,0 +1,34 @@
+{
+  "publicId": "46e17b61",
+  "wikipediaSlug": "Alexander_Grebenkin",
+  "wikipediaId": "Q109490394",
+  "name": "Alexander Grebenkin",
+  "fullName": "Alexander Grebenkin",
+  "profileSummary": "Alexander Sergeyevich Grebenkin is a Russian cosmonaut who flew on the SpaceX Crew-8 mission.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alexander_Grebenkin_2023_%28cropped%29.jpg/330px-Alexander_Grebenkin_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Grebenkin",
+  "dateOfBirth": "1982-07-15",
+  "birthDateParsed": "1982-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.7",
+  "birthCoordinatesLng": "87.816666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "test cosmonaut",
+    "military flight engineer",
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q109490394",
+  "birthPlace": "Myski",
+  "fetchedAt": "2026-08-10T06:03:24.051Z"
+}

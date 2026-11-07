@@ -1,0 +1,36 @@
+{
+  "publicId": "817fd0ea",
+  "wikipediaSlug": "Dwight_D._Eisenhower",
+  "wikipediaId": "Q9916",
+  "name": "Dwight D. Eisenhower",
+  "fullName": "Dwight D. Eisenhower",
+  "profileSummary": "Dwight David Eisenhower, also known as Ike, was the 34th president of the United States from 1953 to 1961. In his previous military career, he led the Allied Expeditionary Force during the Second World War, launched decisive campaigns in North Africa and Normandy and became a General of the Army.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+  "dateOfBirth": "1890-10-14",
+  "birthDateParsed": "1890-10-14",
+  "dateOfDeath": "1969-03-28",
+  "deathDateParsed": "1969-03-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.7497",
+  "birthCoordinatesLng": "-96.5575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "military officer",
+    "statesperson",
+    "military personnel",
+    "army officer"
+  ],
+  "qid": "Q9916",
+  "birthPlace": "Denison",
+  "fetchedAt": "2026-08-01T18:07:27.505Z"
+}

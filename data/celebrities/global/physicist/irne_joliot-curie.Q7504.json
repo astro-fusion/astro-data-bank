@@ -1,0 +1,36 @@
+{
+  "publicId": "ece84377",
+  "wikipediaSlug": "Irène_Joliot-Curie",
+  "wikipediaId": "Q7504",
+  "name": "Irène Joliot-Curie",
+  "fullName": "Irène Joliot-Curie",
+  "profileSummary": "Irène Joliot-Curie was a French chemist and physicist who received the 1935 Nobel Prize in Chemistry with her husband, Frédéric Joliot-Curie, for their discovery of induced radioactivity. The couple also discovered positron emission in their process. They were the second married couple, after her parents, to win the Nobel Prize, adding to the Curie family legacy of five Nobel Prizes. This made the Curies the family with the most Nobel laureates to date.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Joliot-curie.jpg/330px-Joliot-curie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie",
+  "dateOfBirth": "1897-09-12",
+  "birthDateParsed": "1897-09-12",
+  "dateOfDeath": "1956-03-17",
+  "deathDateParsed": "1956-03-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.832222222",
+  "birthCoordinatesLng": "2.355555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "chemist",
+    "professor",
+    "politician",
+    "nuclear physicist",
+    "researcher"
+  ],
+  "qid": "Q7504",
+  "birthPlace": "13th arrondissement of Paris",
+  "fetchedAt": "2026-08-10T02:04:19.813Z"
+}

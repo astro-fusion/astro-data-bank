@@ -1,0 +1,31 @@
+{
+  "publicId": "b299e763",
+  "wikipediaSlug": "Ben_Ainslie",
+  "wikipediaId": "Q449073",
+  "name": "Ben Ainslie",
+  "fullName": "Ben Ainslie",
+  "profileSummary": "Sir Charles Benedict Ainslie is a British competitive sailor. Ainslie is the most successful sailor in Olympic history. He won medals at five consecutive Olympics from 1996 onwards, including gold at four consecutive Games from 2000 to 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/C.Gregory-Emirates_GBR_SailGP_Team_20241124_LG_01376_%281%29.jpg/330px-C.Gregory-Emirates_GBR_SailGP_Team_20241124_LG_01376_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Ainslie",
+  "dateOfBirth": "1977-02-05",
+  "birthDateParsed": "1977-02-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.2581",
+  "birthCoordinatesLng": "-2.1274",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sailor"
+  ],
+  "qid": "Q449073",
+  "birthPlace": "Macclesfield",
+  "fetchedAt": "2026-08-10T12:58:53.169Z"
+}

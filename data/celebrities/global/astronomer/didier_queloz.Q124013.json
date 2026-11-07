@@ -1,0 +1,33 @@
+{
+  "publicId": "27653a9d",
+  "wikipediaSlug": "Didier_Queloz",
+  "wikipediaId": "Q124013",
+  "name": "Didier Queloz",
+  "fullName": "Didier Queloz",
+  "profileSummary": "Didier Patrick Queloz is a Swiss astronomer. He is the Jacksonian Professor of Natural Philosophy at the University of Cambridge, where he is also a fellow of Trinity College, Cambridge, as well as a professor of physics at ETH Zurich. Together with Michel Mayor in 1995, he discovered 51 Pegasi b, the first extrasolar planet orbiting a Sun-like star, 51 Pegasi. For this discovery, he shared the 2019 Nobel Prize in Physics with Mayor and Jim Peebles. In 2022, he is the founding director of the Center for the Origin and Prevalence of Life at ETH Zurich.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Queloz_profile.jpg/330px-Queloz_profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Didier_Queloz",
+  "dateOfBirth": "1966-02-23",
+  "birthDateParsed": "1966-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.2",
+  "birthCoordinatesLng": "6.15",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "astrophysicist",
+    "university teacher"
+  ],
+  "qid": "Q124013",
+  "birthPlace": "Geneva",
+  "fetchedAt": "2026-08-06T05:01:21.219Z"
+}

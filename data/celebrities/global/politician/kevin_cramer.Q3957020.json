@@ -1,0 +1,31 @@
+{
+  "publicId": "8cce4315",
+  "wikipediaSlug": "Kevin_Cramer",
+  "wikipediaId": "Q3957020",
+  "name": "Kevin Cramer",
+  "fullName": "Kevin Cramer",
+  "profileSummary": "Kevin John Cramer is an American politician who has served as the junior United States senator for North Dakota since 2019. A member of the Republican Party, he represented North Dakota's at-large congressional district in the United States House of Representatives from 2013 to 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kevin_Cramer%2C_official_portrait%2C_116th_congress_2.jpg/330px-Kevin_Cramer%2C_official_portrait%2C_116th_congress_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Cramer",
+  "dateOfBirth": "1961-01-21",
+  "birthDateParsed": "1961-01-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.663333333",
+  "birthCoordinatesLng": "-99.844166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q3957020",
+  "birthPlace": "Rolette",
+  "fetchedAt": "2026-08-02T02:17:46.273Z"
+}

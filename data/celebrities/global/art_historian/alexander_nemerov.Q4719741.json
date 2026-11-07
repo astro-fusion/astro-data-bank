@@ -1,0 +1,32 @@
+{
+  "publicId": "9e285a08",
+  "wikipediaSlug": "Alexander_Nemerov",
+  "wikipediaId": "Q4719741",
+  "name": "Alexander Nemerov",
+  "fullName": "Alexander Nemerov",
+  "profileSummary": "Alexander Nemerov is an American art historian. He is the Carl and Marilynn Thoma Provostial Professor in the Arts and Humanities at Stanford University. He specializes in American art dating from the nineteenth and twentieth centuries.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Nemerov",
+  "dateOfBirth": "1963-08-11",
+  "birthDateParsed": "1963-08-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.8852043",
+  "birthCoordinatesLng": "-73.2131916",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "art historian",
+    "university teacher"
+  ],
+  "qid": "Q4719741",
+  "birthPlace": "Bennington",
+  "fetchedAt": "2026-08-04T15:05:01.614Z"
+}

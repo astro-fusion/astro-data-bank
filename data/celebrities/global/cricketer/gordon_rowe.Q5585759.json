@@ -1,0 +1,31 @@
+{
+  "publicId": "e706737f",
+  "wikipediaSlug": "Gordon_Rowe",
+  "wikipediaId": "Q5585759",
+  "name": "Gordon Rowe",
+  "fullName": "Gordon Rowe",
+  "profileSummary": "Charles Gordon Rowe was a New Zealand cricketer who played in one Test match in 1946 against Australia. He also represented New Zealand at hockey.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/4/47/Gordon_Rowe_1952-53.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Rowe",
+  "dateOfBirth": "1915-06-30",
+  "birthDateParsed": "1915-06-30",
+  "dateOfDeath": "1995-06-09",
+  "deathDateParsed": "1995-06-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5585759",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-07-31T21:03:25.437Z"
+}

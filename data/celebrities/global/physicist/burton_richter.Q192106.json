@@ -1,0 +1,32 @@
+{
+  "publicId": "55610530",
+  "wikipediaSlug": "Burton_Richter",
+  "wikipediaId": "Q192106",
+  "name": "Burton Richter",
+  "fullName": "Burton Richter",
+  "profileSummary": "Burton Richter was an American physicist. He led the Stanford Linear Accelerator Center (SLAC) team which co-discovered the J/ψ meson in 1974, alongside the Brookhaven National Laboratory (BNL) team led by Samuel Ting for which they won Nobel Prize for Physics in 1976. This discovery was part of the November Revolution of particle physics. He was the SLAC director from 1984 to 1999.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Burton_Richter_NSF_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Burton_Richter",
+  "dateOfBirth": "1931-03-22",
+  "birthDateParsed": "1931-03-22",
+  "dateOfDeath": "2018-07-18",
+  "deathDateParsed": "2018-07-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q192106",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-06T05:01:15.546Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "435542ce",
+  "wikipediaSlug": "David_O'Leary",
+  "wikipediaId": "Q132026",
+  "name": "David O'Leary",
+  "fullName": "David O'Leary",
+  "profileSummary": "David Anthony O'Leary is a football manager and former player. The majority of his 20-year playing career was spent as a central defender at Arsenal, where his tally of 722 appearances stands as a club record. He played 68 times for the Republic of Ireland from 1976 to 1993, and was part of the squad that reached the quarter-finals of the 1990 FIFA World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/David_O%27Leary_%281981%29.jpg/330px-David_O%27Leary_%281981%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_O'Leary",
+  "dateOfBirth": "1958-05-02",
+  "birthDateParsed": "1958-05-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.544722222",
+  "birthCoordinatesLng": "-0.0575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q132026",
+  "birthPlace": "London Borough of Hackney",
+  "fetchedAt": "2026-08-01T05:21:31.391Z"
+}

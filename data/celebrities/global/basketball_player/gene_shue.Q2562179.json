@@ -1,0 +1,33 @@
+{
+  "publicId": "3f396ece",
+  "wikipediaSlug": "Gene_Shue",
+  "wikipediaId": "Q2562179",
+  "name": "Gene Shue",
+  "fullName": "Gene Shue",
+  "profileSummary": "Eugene William Shue was an American professional basketball player and coach in the National Basketball Association (NBA). Shue was one of the top guards of the early days of the NBA and an influential figure in the development of basketball. He is credited with having invented the \"spin move\" while being an early harbinger of other plays and strategies. Shue was an NBA All-Star in five consecutive times from 1958 to 1962.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gene_Shue.jpg/330px-Gene_Shue.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gene_Shue",
+  "dateOfBirth": "1931-12-18",
+  "birthDateParsed": "1931-12-18",
+  "dateOfDeath": "2022-04-04",
+  "deathDateParsed": "2022-04-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.286388888",
+  "birthCoordinatesLng": "-76.615",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "coach"
+  ],
+  "qid": "Q2562179",
+  "birthPlace": "Baltimore",
+  "fetchedAt": "2026-08-01T15:37:18.392Z"
+}

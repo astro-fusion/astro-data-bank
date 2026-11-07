@@ -1,0 +1,33 @@
+{
+  "publicId": "a2500d49",
+  "wikipediaSlug": "Charles_W._Fairbanks",
+  "wikipediaId": "Q270539",
+  "name": "Charles W. Fairbanks",
+  "fullName": "Charles W. Fairbanks",
+  "profileSummary": "Charles Warren Fairbanks was the 26th vice president of the United States under President Theodore Roosevelt serving from 1905 to 1909. A member of the Republican Party, Fairbanks was previously a senator from Indiana from 1897 to 1905.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FAIRBANKS%2C_CHARLES_W._HONORABLE_LOC_%283x4_cropped%29_%282%29.jpg/330px-FAIRBANKS%2C_CHARLES_W._HONORABLE_LOC_%283x4_cropped%29_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_W._Fairbanks",
+  "dateOfBirth": "1852-05-11",
+  "birthDateParsed": "1852-05-11",
+  "dateOfDeath": "1918-06-04",
+  "deathDateParsed": "1918-06-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.1364",
+  "birthCoordinatesLng": "-83.3414",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "writer"
+  ],
+  "qid": "Q270539",
+  "birthPlace": "Unionville Center",
+  "fetchedAt": "2026-08-01T18:07:37.280Z"
+}

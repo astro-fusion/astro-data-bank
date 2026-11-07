@@ -1,0 +1,33 @@
+{
+  "publicId": "4e7871ad",
+  "wikipediaSlug": "Amy_Van_Dyken",
+  "wikipediaId": "Q233569",
+  "name": "Amy Van Dyken",
+  "fullName": "Amy Van Dyken",
+  "profileSummary": "Amy Deloris Van Dyken-Rouen is an American former competitive swimmer, Olympic champion, former world record-holder, and national radio sports talk show co-host. She won six Olympic gold medals in her career, four of which she won at the 1996 Summer Olympics, making her the first American woman to accomplish such a feat and the most successful athlete at the 1996 Summer Olympics. She won gold in the 50-meter freestyle, 100-meter butterfly, 4×100-meter freestyle relay, and 4×100-meter medley relay.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Amy_Van_Dyken_by_Gage_Skidmore.jpg/330px-Amy_Van_Dyken_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amy_Van_Dyken",
+  "dateOfBirth": "1973-02-15",
+  "birthDateParsed": "1973-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.6469",
+  "birthCoordinatesLng": "-104.992",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer",
+    "radio personality",
+    "color commentator"
+  ],
+  "qid": "Q233569",
+  "birthPlace": "Englewood",
+  "fetchedAt": "2026-08-10T12:58:17.620Z"
+}

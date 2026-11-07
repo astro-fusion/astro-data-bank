@@ -1,0 +1,36 @@
+{
+  "publicId": "f94747e0",
+  "wikipediaSlug": "Gary_Peters",
+  "wikipediaId": "Q1494930",
+  "name": "Gary Peters",
+  "fullName": "Gary Peters",
+  "profileSummary": "Gary Charles Peters is an American politician, lawyer, and former naval officer serving as the senior United States senator from Michigan, a seat he has held since 2015. A member of the Democratic Party, he was the U.S. representative for Michigan's 14th congressional district, which included the eastern half of Detroit, the Grosse Pointes, Hamtramck, Southfield, and Pontiac, from 2009 to 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gary_Peters_official_photo_115th_congress.jpg/330px-Gary_Peters_official_photo_115th_congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Peters",
+  "dateOfBirth": "1958-12-01",
+  "birthDateParsed": "1958-12-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.646111111",
+  "birthCoordinatesLng": "-83.2925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "university teacher",
+    "mediator",
+    "instructor",
+    "professor"
+  ],
+  "qid": "Q1494930",
+  "birthPlace": "Pontiac",
+  "fetchedAt": "2026-08-02T02:16:40.372Z"
+}

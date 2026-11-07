@@ -1,0 +1,33 @@
+{
+  "publicId": "2830efca",
+  "wikipediaSlug": "Alan_Curbishley",
+  "wikipediaId": "Q470741",
+  "name": "Alan Curbishley",
+  "fullName": "Alan Curbishley",
+  "profileSummary": "Llewellyn Charles \"Alan\" Curbishley is an English former football player and manager. He played as a midfielder for West Ham United, Birmingham City, Aston Villa, Charlton Athletic and Brighton & Hove Albion. He became manager of Charlton Athletic in 1991 and held the role until 2006, becoming the second-longest-serving manager of the club. He also managed West Ham United from 2006 to 2008, and had spells as both a technical director and coach at Fulham.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/AlanCurbishley.JPG/330px-AlanCurbishley.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Curbishley",
+  "dateOfBirth": "1957-11-08",
+  "birthDateParsed": "1957-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5508",
+  "birthCoordinatesLng": "0.02739",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "sports commentator"
+  ],
+  "qid": "Q470741",
+  "birthPlace": "Forest Gate",
+  "fetchedAt": "2026-08-01T05:19:58.145Z"
+}

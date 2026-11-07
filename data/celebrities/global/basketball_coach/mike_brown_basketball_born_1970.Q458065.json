@@ -1,0 +1,32 @@
+{
+  "publicId": "d687dc4c",
+  "wikipediaSlug": "Mike_Brown_(basketball,_born_1970)",
+  "wikipediaId": "Q458065",
+  "name": "Mike Brown (basketball, born 1970)",
+  "fullName": "Mike Brown (basketball, born 1970)",
+  "profileSummary": "Michael Burton Brown is an American basketball coach who is the head coach of the New York Knicks of the National Basketball Association (NBA). He was previously the head coach of the Sacramento Kings, Cleveland Cavaliers, and Los Angeles Lakers, as well as an assistant coach for the Golden State Warriors and San Antonio Spurs. Brown also served as the head coach of the Nigeria men's national team from 2020 until 2022, coaching the team at the 2020 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mike_Brown_NBA_cropped.jpg/330px-Mike_Brown_NBA_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Brown_(basketball%2C_born_1970)",
+  "dateOfBirth": "1970-03-05",
+  "birthDateParsed": "1970-03-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.962222222",
+  "birthCoordinatesLng": "-83.000555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q458065",
+  "birthPlace": "Columbus",
+  "fetchedAt": "2026-08-01T15:38:04.180Z"
+}

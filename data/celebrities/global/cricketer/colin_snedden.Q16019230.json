@@ -1,0 +1,31 @@
+{
+  "publicId": "41b2c97b",
+  "wikipediaSlug": "Colin_Snedden",
+  "wikipediaId": "Q16019230",
+  "name": "Colin Snedden",
+  "fullName": "Colin Snedden",
+  "profileSummary": "Colin Alexander Snedden was a New Zealand Test cricketer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/1947_NZ_Test_team.jpg/330px-1947_NZ_Test_team.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colin_Snedden",
+  "dateOfBirth": "1918-01-07",
+  "birthDateParsed": "1918-01-07",
+  "dateOfDeath": "2011-04-24",
+  "deathDateParsed": "2011-04-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q16019230",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:02:33.740Z"
+}

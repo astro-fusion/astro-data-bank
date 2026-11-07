@@ -1,0 +1,31 @@
+{
+  "publicId": "50eeba78",
+  "wikipediaSlug": "Brian_Taber",
+  "wikipediaId": "Q4965441",
+  "name": "Brian Taber",
+  "fullName": "Brian Taber",
+  "profileSummary": "Hedley Brian Taber was an Australian cricketer who played in 16 Test matches as a wicket-keeper from 1966 to 1970. He represented New South Wales in domestic cricket.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Taber",
+  "dateOfBirth": "1940-04-29",
+  "birthDateParsed": "1940-04-29",
+  "dateOfDeath": "2023-07-21",
+  "deathDateParsed": "2023-07-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-35.119444444",
+  "birthCoordinatesLng": "147.366666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4965441",
+  "birthPlace": "Wagga Wagga",
+  "fetchedAt": "2026-07-31T19:45:21.948Z"
+}

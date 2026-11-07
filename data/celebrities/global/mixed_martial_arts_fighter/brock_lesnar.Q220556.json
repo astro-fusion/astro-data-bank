@@ -1,0 +1,33 @@
+{
+  "publicId": "b0cd3357",
+  "wikipediaSlug": "Brock_Lesnar",
+  "wikipediaId": "Q220556",
+  "name": "Brock Lesnar",
+  "fullName": "Brock Lesnar",
+  "profileSummary": "Brock Edward Lesnar is an American professional wrestler, former mixed martial artist, amateur wrestler and professional American football player. He is signed to WWE, where he performs on a part-time basis. Lesnar had two previous tenures with the company from 2000 to 2004 and 2012 to 2020. Lesnar is the only person to have won the primary heavyweight championships of World Wrestling Entertainment (WWE), Ultimate Fighting Championship (UFC), New Japan Pro-Wrestling (NJPW), the Inoki Genome Federation (IGF), and the National Collegiate Athletic Association (NCAA).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Brock_Lesnar_At_SummerSlam_2023_%28cropped%29.jpg/330px-Brock_Lesnar_At_SummerSlam_2023_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brock_Lesnar",
+  "dateOfBirth": "1977-07-12",
+  "birthDateParsed": "1977-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.333611111",
+  "birthCoordinatesLng": "-97.519444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "professional wrestler",
+    "American football player"
+  ],
+  "qid": "Q220556",
+  "birthPlace": "Webster",
+  "fetchedAt": "2026-08-01T17:04:49.893Z"
+}

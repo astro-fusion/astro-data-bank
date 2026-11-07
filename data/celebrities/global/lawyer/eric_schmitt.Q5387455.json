@@ -1,0 +1,32 @@
+{
+  "publicId": "703b6ab6",
+  "wikipediaSlug": "Eric_Schmitt",
+  "wikipediaId": "Q5387455",
+  "name": "Eric Schmitt",
+  "fullName": "Eric Schmitt",
+  "profileSummary": "Eric Stephen Schmitt is an American attorney and politician serving since 2023 as the junior United States senator from Missouri. A member of the Republican Party, Schmitt served as the 46th state treasurer of Missouri from 2017 to 2019 and as the 43rd Missouri attorney general from 2019 to 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sen._Eric_Schmitt%2C_official_portrait%2C_118th_Congress.jpg/330px-Sen._Eric_Schmitt%2C_official_portrait%2C_118th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Schmitt",
+  "dateOfBirth": "1975-06-20",
+  "birthDateParsed": "1975-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.757222222",
+  "birthCoordinatesLng": "-90.417777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q5387455",
+  "birthPlace": "Bridgeton",
+  "fetchedAt": "2026-08-02T02:16:41.125Z"
+}

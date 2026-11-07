@@ -1,0 +1,34 @@
+{
+  "publicId": "63f4b66c",
+  "wikipediaSlug": "Kathy_Hochul",
+  "wikipediaId": "Q45956",
+  "name": "Kathy Hochul",
+  "fullName": "Kathy Hochul",
+  "profileSummary": "Kathleen Mary Hochul is an American politician and lawyer who has served since 2021 as the 57th governor of New York. A member of the Democratic Party, she is New York's first female governor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kathy_Hochul_March_2024.jpg/330px-Kathy_Hochul_March_2024.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kathy_Hochul",
+  "dateOfBirth": "1958-08-27",
+  "birthDateParsed": "1958-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.886388888",
+  "birthCoordinatesLng": "-78.878055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist",
+    "jurisprudence"
+  ],
+  "qid": "Q45956",
+  "birthPlace": "Buffalo",
+  "fetchedAt": "2026-08-02T03:28:19.009Z"
+}

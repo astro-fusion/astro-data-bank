@@ -1,0 +1,35 @@
+{
+  "publicId": "7e783c1c",
+  "wikipediaSlug": "Fred_Perry",
+  "wikipediaId": "Q312639",
+  "name": "Fred Perry",
+  "fullName": "Fred Perry",
+  "profileSummary": "Frederick Towersey Perry was a British tennis and table tennis player and former world No. 1. He won 10 Majors, including eight Grand Slam tournaments and two Pro Slams single titles, as well as six Major doubles titles. Perry was the first player to win a \"Career Grand Slam\", lifting all four singles titles, which he completed at the age of 26 at the 1935 French Championships. He remains the only British player to achieve this feat.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fred_Perry_01.jpg/330px-Fred_Perry_01.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Perry",
+  "dateOfBirth": "1909-05-18",
+  "birthDateParsed": "1909-05-18",
+  "dateOfDeath": "1995-02-02",
+  "deathDateParsed": "1995-02-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.408333333",
+  "birthCoordinatesLng": "-2.149444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "sports journalist",
+    "table tennis player",
+    "athlete",
+    "fashion designer"
+  ],
+  "qid": "Q312639",
+  "birthPlace": "Stockport",
+  "fetchedAt": "2026-08-01T13:11:17.001Z"
+}

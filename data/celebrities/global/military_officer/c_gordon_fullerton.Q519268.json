@@ -1,0 +1,33 @@
+{
+  "publicId": "489d59cf",
+  "wikipediaSlug": "C._Gordon_Fullerton",
+  "wikipediaId": "Q519268",
+  "name": "C. Gordon Fullerton",
+  "fullName": "C. Gordon Fullerton",
+  "profileSummary": "Charles Gordon Fullerton was a United States Air Force colonel, a USAF and NASA astronaut, and a research pilot at NASA's Dryden Flight Research Facility, Edwards, California. His assignments included a variety of flight research and support activities piloting NASA's B-52 launch aircraft, the Boeing 747 Shuttle Carrier Aircraft (SCA), and other multi-engine and high performance aircraft.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fullerton.jpg/330px-Fullerton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C._Gordon_Fullerton",
+  "dateOfBirth": "1936-10-11",
+  "birthDateParsed": "1936-10-11",
+  "dateOfDeath": "2013-08-21",
+  "deathDateParsed": "2013-08-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.165555555",
+  "birthCoordinatesLng": "-77.611388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q519268",
+  "birthPlace": "Rochester",
+  "fetchedAt": "2026-08-10T06:04:01.562Z"
+}

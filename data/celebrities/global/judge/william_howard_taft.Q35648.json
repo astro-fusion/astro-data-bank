@@ -1,0 +1,39 @@
+{
+  "publicId": "322dc028",
+  "wikipediaSlug": "William_Howard_Taft",
+  "wikipediaId": "Q35648",
+  "name": "William Howard Taft",
+  "fullName": "William Howard Taft",
+  "profileSummary": "William Howard Taft was the 27th president of the United States from 1909 to 1913 and the tenth chief justice of the United States from 1921 to 1930. He is the only person to have held both offices.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29_%28cropped%29.jpg/330px-William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+  "dateOfBirth": "1857-09-15",
+  "birthDateParsed": "1857-09-15",
+  "dateOfDeath": "1930-03-08",
+  "deathDateParsed": "1930-03-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.1",
+  "birthCoordinatesLng": "-84.5125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "lawyer",
+    "prosecutor",
+    "pedagogue",
+    "university teacher",
+    "politician",
+    "statesperson",
+    "writer",
+    "jurist"
+  ],
+  "qid": "Q35648",
+  "birthPlace": "Cincinnati",
+  "fetchedAt": "2026-08-01T18:09:21.955Z"
+}

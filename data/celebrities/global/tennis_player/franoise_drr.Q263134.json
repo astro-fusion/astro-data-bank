@@ -1,0 +1,32 @@
+{
+  "publicId": "4bed26a6",
+  "wikipediaSlug": "Françoise_Dürr",
+  "wikipediaId": "Q263134",
+  "name": "Françoise Dürr",
+  "fullName": "Françoise Dürr",
+  "profileSummary": "Françoise Dürr is a retired French tennis player. She won 50 singles titles and over 60 doubles titles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tennis_at_Hilversum%2C_ladies_singles_miss_F._Durr_%28France%29_with_trophy.jpg/330px-Tennis_at_Hilversum%2C_ladies_singles_miss_F._Durr_%28France%29_with_trophy.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_D%C3%BCrr",
+  "dateOfBirth": "1942-12-25",
+  "birthDateParsed": "1942-12-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.776388888",
+  "birthCoordinatesLng": "3.058611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach"
+  ],
+  "qid": "Q263134",
+  "birthPlace": "Algiers",
+  "fetchedAt": "2026-08-01T14:59:48.744Z"
+}

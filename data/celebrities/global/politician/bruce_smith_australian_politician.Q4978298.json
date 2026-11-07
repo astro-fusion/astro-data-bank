@@ -1,0 +1,35 @@
+{
+  "publicId": "f5cfead6",
+  "wikipediaSlug": "Bruce_Smith_(Australian_politician)",
+  "wikipediaId": "Q4978298",
+  "name": "Bruce Smith (Australian politician)",
+  "fullName": "Bruce Smith (Australian politician)",
+  "profileSummary": "Arthur Bruce Smith, commonly referred to as A. Bruce Smith, was a long serving Australian politician and leading political opponent of the White Australia policy. He has been described as the most prominent Australian advocate for classical liberalism in the late nineteenth and early twentieth century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bruce_Smith_-_Swiss_Studios_%28cropped%29.jpg/330px-Bruce_Smith_-_Swiss_Studios_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Smith_(Australian_politician)",
+  "dateOfBirth": "1851-06-28",
+  "birthDateParsed": "1851-06-28",
+  "dateOfDeath": "1937-08-14",
+  "deathDateParsed": "1937-08-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.4989",
+  "birthCoordinatesLng": "-0.0426",
+  "birthTimezone": "Europe/London",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "barrister",
+    "managing director"
+  ],
+  "qid": "Q4978298",
+  "placeOfBirth": "Rotherhithe",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-21T07:59:30.100Z"
+}

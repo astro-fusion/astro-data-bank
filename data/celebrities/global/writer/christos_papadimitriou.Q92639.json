@@ -1,0 +1,36 @@
+{
+  "publicId": "412039f2",
+  "wikipediaSlug": "Christos_Papadimitriou",
+  "wikipediaId": "Q92639",
+  "name": "Christos Papadimitriou",
+  "fullName": "Christos Papadimitriou",
+  "profileSummary": "Christos Charilaos Papadimitriou is a Greek-American theoretical computer scientist and the Donovan Family Professor of Computer Science at Columbia University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Christos_Papadimitriou_mg_7721-b.cr2.jpg/330px-Christos_Papadimitriou_mg_7721-b.cr2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christos_Papadimitriou",
+  "dateOfBirth": "1949-08-16",
+  "birthDateParsed": "1949-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.984166666",
+  "birthCoordinatesLng": "23.728055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "mathematician",
+    "computer scientist",
+    "university teacher",
+    "musician",
+    "prose writer"
+  ],
+  "qid": "Q92639",
+  "birthPlace": "Athens",
+  "fetchedAt": "2026-08-10T04:28:30.102Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "99ad562e",
+  "wikipediaSlug": "David_Baltimore",
+  "wikipediaId": "Q234949",
+  "name": "David Baltimore",
+  "fullName": "David Baltimore",
+  "profileSummary": "David Baltimore was an American biologist, university administrator, and 1975 Nobel laureate in Physiology or Medicine. He was a professor of biology at the California Institute of Technology (Caltech), where he served as president from 1997 to 2006. He founded the Whitehead Institute and directed it from 1982 to 1990. In 2008, he served as president of the American Association for the Advancement of Science.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/David_Baltimore_Caltech_by_c_michel_in_2021.jpg/330px-David_Baltimore_Caltech_by_c_michel_in_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Baltimore",
+  "dateOfBirth": "1938-03-07",
+  "birthDateParsed": "1938-03-07",
+  "dateOfDeath": "2025-09-06",
+  "deathDateParsed": "2025-09-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.728333333",
+  "birthCoordinatesLng": "-73.994166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "virologist",
+    "university teacher",
+    "microbiologist",
+    "biochemist",
+    "geneticist",
+    "Nobel Prize winner"
+  ],
+  "qid": "Q234949",
+  "birthPlace": "Manhattan",
+  "fetchedAt": "2026-08-10T03:14:37.775Z"
+}

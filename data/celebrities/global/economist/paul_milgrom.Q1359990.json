@@ -1,0 +1,33 @@
+{
+  "publicId": "9922fbfe",
+  "wikipediaSlug": "Paul_Milgrom",
+  "wikipediaId": "Q1359990",
+  "name": "Paul Milgrom",
+  "fullName": "Paul Milgrom",
+  "profileSummary": "Paul Robert Milgrom is an American economist. He is the Shirley and Leonard Ely Professor of Humanities and Sciences at the Stanford University School of Humanities and Sciences, a position he has held since 1987. He is a professor in the Stanford School of Engineering as well and a Senior Fellow at the Stanford Institute for Economic Research. Milgrom is an expert in game theory, specifically auction theory and pricing strategies. He is the winner of the 2020 Nobel Memorial Prize in Economic Sciences, together with Robert B. Wilson, \"for improvements to auction theory and inventions of new auction formats\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Paul_Milgrom_Headshot.jpg/330px-Paul_Milgrom_Headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Milgrom",
+  "dateOfBirth": "1948-04-20",
+  "birthDateParsed": "1948-04-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.331666666",
+  "birthCoordinatesLng": "-83.0475",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "academic"
+  ],
+  "qid": "Q1359990",
+  "birthPlace": "Detroit",
+  "fetchedAt": "2026-08-10T09:44:09.756Z"
+}

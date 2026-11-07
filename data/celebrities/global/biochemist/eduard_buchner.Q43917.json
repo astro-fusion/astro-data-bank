@@ -1,0 +1,35 @@
+{
+  "publicId": "53fb8c95",
+  "wikipediaSlug": "Eduard_Buchner",
+  "wikipediaId": "Q43917",
+  "name": "Eduard Buchner",
+  "fullName": "Eduard Buchner",
+  "profileSummary": "Eduard Buchner was a German\nchemist\nand expert on fermentation, awarded the 1907\nNobel Prize in Chemistry for his work on\nfermentation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Eduard_Buchner_%28Nobel_1907%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduard_Buchner",
+  "dateOfBirth": "1860-05-20",
+  "birthDateParsed": "1860-05-20",
+  "dateOfDeath": "1917-08-13",
+  "deathDateParsed": "1917-08-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "university teacher",
+    "mineralogist",
+    "agronomist"
+  ],
+  "qid": "Q43917",
+  "birthPlace": "Munich",
+  "fetchedAt": "2026-08-10T02:03:40.985Z"
+}

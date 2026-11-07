@@ -1,0 +1,32 @@
+{
+  "publicId": "31df8fe6",
+  "wikipediaSlug": "Anton_Shkaplerov",
+  "wikipediaId": "Q592219",
+  "name": "Anton Shkaplerov",
+  "fullName": "Anton Shkaplerov",
+  "profileSummary": "Anton Nikolaevich Shkaplerov is a former Russian cosmonaut. He is a veteran of four spaceflights.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anton_Shkaplerov_Expedition_42_and_43_Crew_News_Conference_%28cropped%29.jpg/330px-Anton_Shkaplerov_Expedition_42_and_43_Crew_News_Conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Shkaplerov",
+  "dateOfBirth": "1972-02-20",
+  "birthDateParsed": "1972-02-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.605",
+  "birthCoordinatesLng": "33.5225",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "astronaut"
+  ],
+  "qid": "Q592219",
+  "birthPlace": "Sevastopol",
+  "fetchedAt": "2026-08-10T06:03:36.114Z"
+}

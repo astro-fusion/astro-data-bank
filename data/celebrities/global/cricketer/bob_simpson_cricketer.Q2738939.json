@@ -1,0 +1,31 @@
+{
+  "publicId": "104c7762",
+  "wikipediaSlug": "Bob_Simpson_(cricketer)",
+  "wikipediaId": "Q2738939",
+  "name": "Bob Simpson (cricketer)",
+  "fullName": "Bob Simpson (cricketer)",
+  "profileSummary": "Robert Baddeley Simpson, known as Simmo, was an Australian cricketer who played for New South Wales, Western Australia and the Australian national team. He captained the Australian team from 1963/64 until 1967/68 and again in 1977/78. He later had a highly successful term as the coach of the national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bob_Simpson_1957.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Simpson_(cricketer)",
+  "dateOfBirth": "1936-02-03",
+  "birthDateParsed": "1936-02-03",
+  "dateOfDeath": "2025-08-16",
+  "deathDateParsed": "2025-08-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.912222222",
+  "birthCoordinatesLng": "151.1594444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2738939",
+  "birthPlace": "Marrickville",
+  "fetchedAt": "2026-07-31T19:44:42.337Z"
+}

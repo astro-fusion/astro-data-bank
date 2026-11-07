@@ -1,0 +1,34 @@
+{
+  "publicId": "514f750a",
+  "wikipediaSlug": "Arthur_Compton",
+  "wikipediaId": "Q127944",
+  "name": "Arthur Compton",
+  "fullName": "Arthur Compton",
+  "profileSummary": "Arthur Holly Compton was an American physicist who shared the 1927 Nobel Prize in Physics with C. T. R. Wilson for his discovery of the Compton effect, which demonstrated the particle nature of electromagnetic radiation. It was a significant discovery at the time; the wave nature of light had been well-demonstrated, but the idea that light had both wave and particle properties was not easily accepted.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Arthur_Compton_1927.jpg/330px-Arthur_Compton_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Compton",
+  "dateOfBirth": "1892-09-10",
+  "birthDateParsed": "1892-09-10",
+  "dateOfDeath": "1962-03-15",
+  "deathDateParsed": "1962-03-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.8092",
+  "birthCoordinatesLng": "-81.9372",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "theoretical physicist",
+    "nuclear physicist"
+  ],
+  "qid": "Q127944",
+  "birthPlace": "Wooster",
+  "fetchedAt": "2026-08-06T05:00:52.806Z"
+}

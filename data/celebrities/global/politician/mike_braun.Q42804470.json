@@ -1,0 +1,32 @@
+{
+  "publicId": "a50a955a",
+  "wikipediaSlug": "Mike_Braun",
+  "wikipediaId": "Q42804470",
+  "name": "Mike Braun",
+  "fullName": "Mike Braun",
+  "profileSummary": "Michael Kent Braun is an American businessman and politician serving as the 52nd governor of Indiana since 2025. A member of the Republican Party, he served from 2019 to 2025 as a United States senator from Indiana and from 2014 to 2017 as the representative for the 63rd district in the Indiana House of Representatives.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mike_Braun%2C_Official_Portrait%2C_116th_Congress.jpg/330px-Mike_Braun%2C_Official_Portrait%2C_116th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Braun",
+  "dateOfBirth": "1954-03-24",
+  "birthDateParsed": "1954-03-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.3953",
+  "birthCoordinatesLng": "-86.9328",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q42804470",
+  "birthPlace": "Jasper",
+  "fetchedAt": "2026-08-02T03:28:59.506Z"
+}

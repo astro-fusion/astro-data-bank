@@ -1,0 +1,31 @@
+{
+  "publicId": "1173d7d4",
+  "wikipediaSlug": "Amanda_Lemos",
+  "wikipediaId": "Q98684485",
+  "name": "Amanda Lemos",
+  "fullName": "Amanda Lemos",
+  "profileSummary": "Amanda Oliveira de Lemos is a Brazilian mixed martial artist who competes in the women's Strawweight division of the Ultimate Fighting Championship. As of June 20, 2026, she is #11 in the Meta UFC women's strawweight rankings.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanda_Lemos",
+  "dateOfBirth": "1987-05-22",
+  "birthDateParsed": "1987-05-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-1.455833333",
+  "birthCoordinatesLng": "-48.503888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q98684485",
+  "birthPlace": "Belém",
+  "fetchedAt": "2026-08-01T17:04:35.271Z"
+}

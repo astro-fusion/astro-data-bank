@@ -1,0 +1,33 @@
+{
+  "publicId": "8f4a6b70",
+  "wikipediaSlug": "Gerhard_Ertl",
+  "wikipediaId": "Q60066",
+  "name": "Gerhard Ertl",
+  "fullName": "Gerhard Ertl",
+  "profileSummary": "Gerhard Ertl is a German physicist and a Professor emeritus at the Department of Physical Chemistry, Fritz-Haber-Institut der Max-Planck-Gesellschaft in Berlin, Germany. Ertl's research laid the foundation of modern surface chemistry, which has helped explain how fuel cells produce energy without pollution, how catalytic converters clean up car exhausts and even why iron rusts, the Royal Swedish Academy of Sciences said.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Prof_Ertl-Portrait.jpg/330px-Prof_Ertl-Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhard_Ertl",
+  "dateOfBirth": "1936-10-10",
+  "birthDateParsed": "1936-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.7775",
+  "birthCoordinatesLng": "9.18",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q60066",
+  "birthPlace": "Stuttgart",
+  "fetchedAt": "2026-08-10T02:03:57.997Z"
+}

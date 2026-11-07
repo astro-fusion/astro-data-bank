@@ -1,0 +1,34 @@
+{
+  "publicId": "cc8aa553",
+  "wikipediaSlug": "George_V",
+  "wikipediaId": "Q269412",
+  "name": "George V",
+  "fullName": "George V",
+  "profileSummary": "George V was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/King_George_1923_LCCN2014715558_%28cropped%29.jpg/330px-King_George_1923_LCCN2014715558_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_V",
+  "dateOfBirth": "1865-06-03",
+  "birthDateParsed": "1865-06-03",
+  "dateOfDeath": "1936-01-20",
+  "deathDateParsed": "1936-01-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.505",
+  "birthCoordinatesLng": "-0.135833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philatelist",
+    "politician",
+    "monarch",
+    "aristocrat"
+  ],
+  "qid": "Q269412",
+  "birthPlace": "Marlborough House",
+  "fetchedAt": "2026-08-03T12:58:34.526Z"
+}

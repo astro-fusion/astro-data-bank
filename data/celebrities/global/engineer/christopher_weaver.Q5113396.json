@@ -1,0 +1,31 @@
+{
+  "publicId": "ac89ccd1",
+  "wikipediaSlug": "Christopher_Weaver",
+  "wikipediaId": "Q5113396",
+  "name": "Christopher Weaver",
+  "fullName": "Christopher Weaver",
+  "profileSummary": "Christopher Scot Weaver is an American entrepreneur, software developer, scientist, author, and educator. He is known for founding Bethesda Softworks, where he was one of the creators of The Elder Scrolls role-playing series.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Weaver",
+  "dateOfBirth": "1951-02-06",
+  "birthDateParsed": "1951-02-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer"
+  ],
+  "qid": "Q5113396",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-05T03:16:35.000Z"
+}

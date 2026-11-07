@@ -1,0 +1,34 @@
+{
+  "publicId": "21329680",
+  "wikipediaSlug": "Edvard_Moser",
+  "wikipediaId": "Q5341373",
+  "name": "Edvard Moser",
+  "fullName": "Edvard Moser",
+  "profileSummary": "Edvard Ingjald Moser is a Norwegian psychologist and neuroscientist, who as of May 2024 is a professor at the Norwegian University of Science and Technology (NTNU) in Trondheim.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Edvard_Moser_2015.jpg/330px-Edvard_Moser_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edvard_Moser",
+  "dateOfBirth": "1962-04-27",
+  "birthDateParsed": "1962-04-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "62.477777777",
+  "birthCoordinatesLng": "6.190277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "neuroscientist",
+    "psychologist",
+    "researcher",
+    "university teacher"
+  ],
+  "qid": "Q5341373",
+  "birthPlace": "Ålesund Municipality",
+  "fetchedAt": "2026-08-10T03:15:05.818Z"
+}

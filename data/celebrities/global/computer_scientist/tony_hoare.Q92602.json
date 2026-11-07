@@ -1,0 +1,35 @@
+{
+  "publicId": "892bbf1c",
+  "wikipediaSlug": "Tony_Hoare",
+  "wikipediaId": "Q92602",
+  "name": "Tony Hoare",
+  "fullName": "Tony Hoare",
+  "profileSummary": "Sir Charles Antony Richard Hoare, known as Sir Tony Hoare or C. A. R. Hoare, was a British computer scientist who made foundational contributions to programming languages, algorithms, operating systems, formal verification, and concurrent computing. His work earned him the 1980 ACM Turing Award, usually regarded as the highest distinction in computer science.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sir_Tony_Hoare_IMG_5125.jpg/330px-Sir_Tony_Hoare_IMG_5125.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Hoare",
+  "dateOfBirth": "1934-01-11",
+  "birthDateParsed": "1934-01-11",
+  "dateOfDeath": "2026-03-05",
+  "deathDateParsed": "2026-03-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.926666666",
+  "birthCoordinatesLng": "79.860555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "programmer",
+    "writer",
+    "university teacher"
+  ],
+  "qid": "Q92602",
+  "birthPlace": "Colombo",
+  "fetchedAt": "2026-08-10T04:29:44.444Z"
+}

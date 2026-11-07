@@ -1,0 +1,33 @@
+{
+  "publicId": "21b6525f",
+  "wikipediaSlug": "Harry_Kroto",
+  "wikipediaId": "Q157250",
+  "name": "Harry Kroto",
+  "fullName": "Harry Kroto",
+  "profileSummary": "Sir Harold Walter Kroto was an English chemist. He shared the 1996 Nobel Prize in Chemistry with Robert Curl and Richard Smalley for their discovery of fullerenes. He was the recipient of many other honors and awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Harry_Kroto_1c389_8471.jpg/330px-Harry_Kroto_1c389_8471.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Kroto",
+  "dateOfBirth": "1939-10-07",
+  "birthDateParsed": "1939-10-07",
+  "dateOfDeath": "2016-04-30",
+  "deathDateParsed": "2016-04-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.664161111",
+  "birthCoordinatesLng": "0.160311111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher",
+    "scientist"
+  ],
+  "qid": "Q157250",
+  "birthPlace": "Wisbech",
+  "fetchedAt": "2026-08-10T02:04:22.236Z"
+}

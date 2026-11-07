@@ -1,0 +1,31 @@
+{
+  "publicId": "d28113c4",
+  "wikipediaSlug": "Alexander_Rose_(author)",
+  "wikipediaId": "Q4719975",
+  "name": "Alexander Rose (author)",
+  "fullName": "Alexander Rose (author)",
+  "profileSummary": "Alexander Rose is an author and a historian.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Rose_(author)",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian"
+  ],
+  "qid": "Q4719975",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T02:42:33.998Z"
+}

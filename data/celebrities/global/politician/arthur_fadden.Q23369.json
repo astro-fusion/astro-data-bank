@@ -1,0 +1,32 @@
+{
+  "publicId": "ab6be80a",
+  "wikipediaSlug": "Arthur_Fadden",
+  "wikipediaId": "Q23369",
+  "name": "Arthur Fadden",
+  "fullName": "Arthur Fadden",
+  "profileSummary": "Sir Arthur William Fadden was an Australian politician and accountant who served as the 13th prime minister of Australia from 29 August to 7 October 1941. He held office as the leader of the Country Party from 1940 to 1958 and served as treasurer of Australia from 1940 to 1941 and 1949 to 1958.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FaddenPEO.jpg/330px-FaddenPEO.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Fadden",
+  "dateOfBirth": "1894-04-13",
+  "birthDateParsed": "1894-04-13",
+  "dateOfDeath": "1973-04-21",
+  "deathDateParsed": "1973-04-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-18.65",
+  "birthCoordinatesLng": "146.166666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "accountant"
+  ],
+  "qid": "Q23369",
+  "birthPlace": "Ingham",
+  "fetchedAt": "2026-08-03T12:58:03.767Z"
+}

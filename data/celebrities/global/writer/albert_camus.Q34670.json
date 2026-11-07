@@ -1,0 +1,41 @@
+{
+  "publicId": "8dffd6ab",
+  "wikipediaSlug": "Albert_Camus",
+  "wikipediaId": "Q34670",
+  "name": "Albert Camus",
+  "fullName": "Albert Camus",
+  "profileSummary": "Albert Camus was a French philosopher, novelist, author, dramatist, journalist, world federalist, and political activist. He was the recipient of the 1957 Nobel Prize in Literature at the age of 44, the second-youngest recipient in history, and the first laureate in literature born in Africa. His works include The Stranger, The Plague, The Myth of Sisyphus, The Fall and The Rebel.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg/330px-Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Camus",
+  "dateOfBirth": "1913-11-07",
+  "birthDateParsed": "1913-11-07",
+  "dateOfDeath": "1960-01-04",
+  "deathDateParsed": "1960-01-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.68333",
+  "birthCoordinatesLng": "7.75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "philosopher",
+    "novelist",
+    "journalist",
+    "essayist",
+    "playwright",
+    "French resistance fighter",
+    "poet",
+    "association football player",
+    "opinion journalist",
+    "actor"
+  ],
+  "qid": "Q34670",
+  "birthPlace": "Dréan",
+  "fetchedAt": "2026-08-06T07:41:10.057Z"
+}

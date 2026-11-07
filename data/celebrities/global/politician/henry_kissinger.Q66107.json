@@ -1,0 +1,40 @@
+{
+  "publicId": "17ddb3d6",
+  "wikipediaSlug": "Henry_Kissinger",
+  "wikipediaId": "Q66107",
+  "name": "Henry Kissinger",
+  "fullName": "Henry Kissinger",
+  "profileSummary": "Henry Alfred Kissinger was an American diplomat, political scientist, and politician. A member of the Republican Party, he served as the 7th national security advisor from 1969 to 1975 and as the 56th United States secretary of state from 1973 to 1977, serving under presidents Richard Nixon and Gerald Ford.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/330px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Kissinger",
+  "dateOfBirth": "1923-05-27",
+  "birthDateParsed": "1923-05-27",
+  "dateOfDeath": "2023-11-29",
+  "deathDateParsed": "2023-11-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.478333333",
+  "birthCoordinatesLng": "10.990277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "political scientist",
+    "diplomat",
+    "writer",
+    "entrepreneur",
+    "pedagogue",
+    "autobiographer",
+    "foreign minister",
+    "war criminal",
+    "university teacher"
+  ],
+  "qid": "Q66107",
+  "birthPlace": "Fürth",
+  "fetchedAt": "2026-08-04T02:13:15.362Z"
+}

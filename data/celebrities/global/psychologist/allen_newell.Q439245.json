@@ -1,0 +1,35 @@
+{
+  "publicId": "8537cf52",
+  "wikipediaSlug": "Allen_Newell",
+  "wikipediaId": "Q439245",
+  "name": "Allen Newell",
+  "fullName": "Allen Newell",
+  "profileSummary": "Allen Newell was an American researcher in computer science and cognitive psychology at the RAND Corporation and at Carnegie Mellon University's School of Computer Science, Tepper School of Business, and Department of Psychology. He, Herbert A. Simon, and Cliff Shaw contributed to the Information Processing Language (1956) and two of the earliest AI programs, the Logic Theorist (1956) and the General Problem Solver (1957). He and Simon were awarded the ACM Turing Award in 1975 for their contributions to artificial intelligence and the psychology of human cognition.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f4/Allen_Newell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allen_Newell",
+  "dateOfBirth": "1927-03-19",
+  "birthDateParsed": "1927-03-19",
+  "dateOfDeath": "1992-07-19",
+  "deathDateParsed": "1992-07-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "psychologist",
+    "computer scientist",
+    "mathematician",
+    "university teacher",
+    "physicist"
+  ],
+  "qid": "Q439245",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-10T04:28:14.830Z"
+}

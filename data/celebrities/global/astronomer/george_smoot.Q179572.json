@@ -1,0 +1,35 @@
+{
+  "publicId": "6687f8c5",
+  "wikipediaSlug": "George_Smoot",
+  "wikipediaId": "Q179572",
+  "name": "George Smoot",
+  "fullName": "George Smoot",
+  "profileSummary": "George Fitzgerald Smoot III was an American astrophysicist and cosmologist. He shared the 2006 Nobel Prize in Physics with John C. Mather \"for their discovery of the black body form and anisotropy of the cosmic microwave background radiation\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/George_smoot_06N7133a.jpg/330px-George_smoot_06N7133a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Smoot",
+  "dateOfBirth": "1945-02-20",
+  "birthDateParsed": "1945-02-20",
+  "dateOfDeath": "2025-09-18",
+  "deathDateParsed": "2025-09-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.2333",
+  "birthCoordinatesLng": "-81.7",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "cosmologist",
+    "astrophysicist",
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q179572",
+  "birthPlace": "Yukon",
+  "fetchedAt": "2026-08-06T05:02:06.610Z"
+}

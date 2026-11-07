@@ -1,0 +1,31 @@
+{
+  "publicId": "2b29f8c6",
+  "wikipediaSlug": "Bruce_Francis",
+  "wikipediaId": "Q4977502",
+  "name": "Bruce Francis",
+  "fullName": "Bruce Francis",
+  "profileSummary": "Bruce Colin Francis is a former Australian cricketer who played three Test matches on the Australian tour of England in 1972.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Francis",
+  "dateOfBirth": "1948-02-18",
+  "birthDateParsed": "1948-02-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.8275",
+  "birthCoordinatesLng": "151.2430556",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4977502",
+  "birthPlace": "Mosman",
+  "fetchedAt": "2026-07-31T19:45:12.007Z"
+}

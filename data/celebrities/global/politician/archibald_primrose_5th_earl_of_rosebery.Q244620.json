@@ -1,0 +1,34 @@
+{
+  "publicId": "020931be",
+  "wikipediaSlug": "Archibald_Primrose,_5th_Earl_of_Rosebery",
+  "wikipediaId": "Q244620",
+  "name": "Archibald Primrose, 5th Earl of Rosebery",
+  "fullName": "Archibald Primrose, 5th Earl of Rosebery",
+  "profileSummary": "Archibald Philip Primrose, 5th Earl of Rosebery, 1st Earl of Midlothian, was a British Liberal Party politician who served as Prime Minister of the United Kingdom from March 1894 to June 1895. Between the death of his father in 1851, and the death of his grandfather, the 4th Earl of Rosebery, in 1868, he was known by the courtesy title of Lord Dalmeny.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The_Earl_of_Rosebery.jpg/330px-The_Earl_of_Rosebery.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Archibald_Primrose%2C_5th_Earl_of_Rosebery",
+  "dateOfBirth": "1847-05-07",
+  "birthDateParsed": "1847-05-07",
+  "dateOfDeath": "1929-05-21",
+  "deathDateParsed": "1929-05-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "biographer",
+    "writer"
+  ],
+  "qid": "Q244620",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:21:19.886Z"
+}

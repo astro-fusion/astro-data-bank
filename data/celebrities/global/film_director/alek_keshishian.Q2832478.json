@@ -1,0 +1,35 @@
+{
+  "publicId": "df93f417",
+  "wikipediaSlug": "Alek_Keshishian",
+  "wikipediaId": "Q2832478",
+  "name": "Alek Keshishian",
+  "fullName": "Alek Keshishian",
+  "profileSummary": "Alek Keshishian is an Armenian-American film and commercial director, writer, producer and music video director. His 1991 documentary, Madonna: Truth or Dare was the highest-grossing documentary of all time until 2002; it \"changed the way filmmakers explored the world of celebrity\" and had a \"profound impact on LGBTQ representation in film\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alek_Keshishian_2022.jpg/330px-Alek_Keshishian_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alek_Keshishian",
+  "dateOfBirth": "1964-07-30",
+  "birthDateParsed": "1964-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.886944444",
+  "birthCoordinatesLng": "35.513055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "screenwriter",
+    "director",
+    "film producer",
+    "music video director"
+  ],
+  "qid": "Q2832478",
+  "birthPlace": "Beirut",
+  "fetchedAt": "2026-08-05T02:42:36.468Z"
+}

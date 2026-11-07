@@ -1,0 +1,32 @@
+{
+  "publicId": "1d24569f",
+  "wikipediaSlug": "Simon_Kuznets",
+  "wikipediaId": "Q192577",
+  "name": "Simon Kuznets",
+  "fullName": "Simon Kuznets",
+  "profileSummary": "Simon Smith Kuznets was a Russian-born American economist and statistician. He received the 1971 Nobel Memorial Prize in Economic Sciences \"for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Simon_Kuznets_1971b.jpg/330px-Simon_Kuznets_1971b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Kuznets",
+  "dateOfBirth": "1901-04-30",
+  "birthDateParsed": "1901-04-30",
+  "dateOfDeath": "1985-07-08",
+  "deathDateParsed": "1985-07-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.115277777",
+  "birthCoordinatesLng": "26.103055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician"
+  ],
+  "qid": "Q192577",
+  "birthPlace": "Pinsk",
+  "fetchedAt": "2026-08-10T09:44:19.174Z"
+}

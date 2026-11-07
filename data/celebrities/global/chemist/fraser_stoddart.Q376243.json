@@ -1,0 +1,32 @@
+{
+  "publicId": "a846b8d0",
+  "wikipediaSlug": "Fraser_Stoddart",
+  "wikipediaId": "Q376243",
+  "name": "Fraser Stoddart",
+  "fullName": "Fraser Stoddart",
+  "profileSummary": "Sir James Fraser Stoddart, was a British-American chemist who was Chair Professor in Chemistry at the University of Hong Kong. He was the Board of Trustees Professor of Chemistry and head of the Stoddart Mechanostereochemistry Group in the Department of Chemistry at Northwestern University in the United States. He worked in the area of supramolecular chemistry and nanotechnology. Stoddart developed highly efficient syntheses of mechanically-interlocked molecular architectures such as molecular Borromean rings, catenanes and rotaxanes utilising molecular recognition and molecular self-assembly processes. He demonstrated that these topologies can be employed as molecular switches. His group has even applied these structures in the fabrication of nanoelectronic devices and nanoelectromechanical systems (NEMS). His efforts were recognized by numerous awards, including the 2007 King Faisal International Prize in Science. He shared the Nobel Prize in Chemistry together with Ben Feringa and Jean-Pierre Sauvage in 2016 for the design and synthesis of molecular machines.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nobel_Laureates_7327_%2830647283454%29.jpg/330px-Nobel_Laureates_7327_%2830647283454%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fraser_Stoddart",
+  "dateOfBirth": "1942-05-24",
+  "birthDateParsed": "1942-05-24",
+  "dateOfDeath": "2024-12-30",
+  "deathDateParsed": "2024-12-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q376243",
+  "birthPlace": "Edinburgh",
+  "fetchedAt": "2026-08-10T02:04:00.284Z"
+}

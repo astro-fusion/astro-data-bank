@@ -1,0 +1,37 @@
+{
+  "publicId": "583ecfae",
+  "wikipediaSlug": "James_Madison",
+  "wikipediaId": "Q11813",
+  "name": "James Madison",
+  "fullName": "James Madison",
+  "profileSummary": "James Madison was a Founding Father and the fourth president of the United States from 1809 to 1817. Before his presidency, Madison was a statesman and diplomat. Madison was popularly acclaimed as the \"Father of the Constitution\" for his pivotal role in drafting and promoting the Constitution of the United States and the Bill of Rights.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/330px-James_Madison.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Madison",
+  "dateOfBirth": "1751-03-16",
+  "birthDateParsed": "1751-03-16",
+  "dateOfDeath": "1836-06-28",
+  "deathDateParsed": "1836-06-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.1772",
+  "birthCoordinatesLng": "-77.1861",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "diplomat",
+    "philosopher",
+    "lawyer",
+    "statesperson",
+    "plantation owner"
+  ],
+  "qid": "Q11813",
+  "birthPlace": "Port Conway",
+  "fetchedAt": "2026-08-01T18:08:17.379Z"
+}

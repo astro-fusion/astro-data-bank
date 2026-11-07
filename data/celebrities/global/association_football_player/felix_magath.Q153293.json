@@ -1,0 +1,33 @@
+{
+  "publicId": "e2d9fbec",
+  "wikipediaSlug": "Felix_Magath",
+  "wikipediaId": "Q153293",
+  "name": "Felix Magath",
+  "fullName": "Felix Magath",
+  "profileSummary": "Wolfgang Felix Magath is a German football manager and former player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Felix_Magath_-_Kicken_mit_Herz_2024_01.jpg/330px-Felix_Magath_-_Kicken_mit_Herz_2024_01.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Felix_Magath",
+  "dateOfBirth": "1953-07-26",
+  "birthDateParsed": "1953-07-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.9740542",
+  "birthCoordinatesLng": "9.1493636",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q153293",
+  "birthPlace": "Aschaffenburg",
+  "fetchedAt": "2026-08-01T05:20:25.259Z"
+}

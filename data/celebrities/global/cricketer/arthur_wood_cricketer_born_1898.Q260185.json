@@ -1,0 +1,31 @@
+{
+  "publicId": "56015c8a",
+  "wikipediaSlug": "Arthur_Wood_(cricketer,_born_1898)",
+  "wikipediaId": "Q260185",
+  "name": "Arthur Wood (cricketer, born 1898)",
+  "fullName": "Arthur Wood (cricketer, born 1898)",
+  "profileSummary": "Arthur Wood was a Yorkshire and England cricketer, who played as the wicket-keeper in four Tests from 1938 to 1939.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Wood_(cricketer%2C_born_1898)",
+  "dateOfBirth": "1898-08-25",
+  "birthDateParsed": "1898-08-25",
+  "dateOfDeath": "1973-04-01",
+  "deathDateParsed": "1973-04-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q260185",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:09:17.397Z"
+}

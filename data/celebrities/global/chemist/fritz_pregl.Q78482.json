@@ -1,0 +1,35 @@
+{
+  "publicId": "17ebbc60",
+  "wikipediaSlug": "Fritz_Pregl",
+  "wikipediaId": "Q78482",
+  "name": "Fritz Pregl",
+  "fullName": "Fritz Pregl",
+  "profileSummary": "Fritz Pregl, was a Slovenian-Austrian chemist and physician from a mixed Slovene-German-speaking background. He won the Nobel Prize in Chemistry in 1923 for making important contributions to quantitative organic microanalysis, one of which was the improvement of the combustion train technique for elemental analysis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fritz_Pregl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Pregl",
+  "dateOfBirth": "1869-09-03",
+  "birthDateParsed": "1869-09-03",
+  "dateOfDeath": "1930-12-13",
+  "deathDateParsed": "1930-12-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.051388888",
+  "birthCoordinatesLng": "14.506111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "physician",
+    "professor",
+    "pharmacist",
+    "physicist"
+  ],
+  "qid": "Q78482",
+  "birthPlace": "Ljubljana",
+  "fetchedAt": "2026-08-10T02:03:52.523Z"
+}

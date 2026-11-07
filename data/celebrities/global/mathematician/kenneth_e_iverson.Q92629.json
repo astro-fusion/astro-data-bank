@@ -1,0 +1,32 @@
+{
+  "publicId": "e645aa34",
+  "wikipediaSlug": "Kenneth_E._Iverson",
+  "wikipediaId": "Q92629",
+  "name": "Kenneth E. Iverson",
+  "fullName": "Kenneth E. Iverson",
+  "profileSummary": "Kenneth Eugene Iverson was a Canadian computer scientist noted for the development of the programming language APL. He was honored with the Turing Award in 1979 \"for his pioneering effort in programming languages and mathematical notation resulting in what the computing field now knows as APL; for his contributions to the implementation of interactive systems, to educational uses of APL, and to programming language theory and practice\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KEI_with_ATW_NY_Aug_1989_%28cropped%29_-_Ken_Iverson.png/330px-KEI_with_ATW_NY_Aug_1989_%28cropped%29_-_Ken_Iverson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenneth_E._Iverson",
+  "dateOfBirth": "1920-12-17",
+  "birthDateParsed": "1920-12-17",
+  "dateOfDeath": "2004-10-19",
+  "deathDateParsed": "2004-10-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.024722222",
+  "birthCoordinatesLng": "-112.824166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist"
+  ],
+  "qid": "Q92629",
+  "birthPlace": "Camrose",
+  "fetchedAt": "2026-08-10T04:29:09.465Z"
+}

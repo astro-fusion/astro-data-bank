@@ -1,0 +1,38 @@
+{
+  "publicId": "a4fd8c9c",
+  "wikipediaSlug": "Miguel_Ángel_Asturias",
+  "wikipediaId": "Q75603",
+  "name": "Miguel Ángel Asturias",
+  "fullName": "Miguel Ángel Asturias",
+  "profileSummary": "Miguel Ángel Asturias Rosales was a Guatemalan poet-diplomat, novelist, playwright and journalist. Winning the Nobel Prize in Literature in 1967, his work helped bring attention to the importance of indigenous cultures, especially those of his native Guatemala.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Miguel_Angel_Asturias.jpg/330px-Miguel_Angel_Asturias.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_%C3%81ngel_Asturias",
+  "dateOfBirth": "1899-10-19",
+  "birthDateParsed": "1899-10-19",
+  "dateOfDeath": "1974-06-09",
+  "deathDateParsed": "1974-06-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "14.641666666",
+  "birthCoordinatesLng": "-90.513333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "diplomat",
+    "journalist",
+    "politician",
+    "poet lawyer",
+    "translator",
+    "lawyer"
+  ],
+  "qid": "Q75603",
+  "birthPlace": "Guatemala City",
+  "fetchedAt": "2026-08-06T07:42:38.233Z"
+}

@@ -1,0 +1,42 @@
+{
+  "publicId": "041539b7",
+  "wikipediaSlug": "William_Lyon_Mackenzie_King",
+  "wikipediaId": "Q128633",
+  "name": "William Lyon Mackenzie King",
+  "fullName": "William Lyon Mackenzie King",
+  "profileSummary": "William Lyon Mackenzie King was the tenth prime minister of Canada for three non-consecutive terms from 1921 to 1926, 1926 to 1930, and 1935 to 1948. A Liberal, he was the dominant politician in Canada from the early 1920s to the late 1940s. With a total of 21 years and 154 days in office, he remains the longest-serving prime minister in Canadian history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/William_Lyon_Mackenzie_King_1942_%28cropped%29.jpg/330px-William_Lyon_Mackenzie_King_1942_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King",
+  "dateOfBirth": "1874-12-17",
+  "birthDateParsed": "1874-12-17",
+  "dateOfDeath": "1950-07-22",
+  "deathDateParsed": "1950-07-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.45",
+  "birthCoordinatesLng": "-80.483333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist",
+    "lawyer",
+    "diplomat",
+    "diarist",
+    "journalist",
+    "minister",
+    "gentleman",
+    "senior civil servant",
+    "editor",
+    "writer",
+    "scientific collector"
+  ],
+  "qid": "Q128633",
+  "birthPlace": "Kitchener",
+  "fetchedAt": "2026-08-03T10:59:39.424Z"
+}

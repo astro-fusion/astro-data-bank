@@ -1,0 +1,33 @@
+{
+  "publicId": "6f1a956b",
+  "wikipediaSlug": "Robert_Stewart,_Viscount_Castlereagh",
+  "wikipediaId": "Q333050",
+  "name": "Robert Stewart, Viscount Castlereagh",
+  "fullName": "Robert Stewart, Viscount Castlereagh",
+  "profileSummary": "Robert Stewart, 2nd Marquess of Londonderry, usually known as Lord Castlereagh, derived from the courtesy title Viscount Castlereagh by which he was styled from 1796 to 1821, was a British statesman. As secretary to the Viceroy in Ireland, he worked to suppress the Rebellion of 1798 and to secure passage in 1800 of the Irish Act of Union. As the Foreign Secretary of the United Kingdom from 1812, he was central to the management of the coalition that defeated Napoleon, and was British plenipotentiary at the Congress of Vienna. In the post-war government of Lord Liverpool, Castlereagh was seen to support harsh measures against agitation for reform, and he ended his life an isolated and unpopular figure.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lord_Castlereagh_Marquess_of_Londonderry.jpg/330px-Lord_Castlereagh_Marquess_of_Londonderry.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Stewart%2C_Viscount_Castlereagh",
+  "dateOfBirth": "1769-06-18",
+  "birthDateParsed": "1769-06-18",
+  "dateOfDeath": "1822-08-12",
+  "deathDateParsed": "1822-08-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "bretteur"
+  ],
+  "qid": "Q333050",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-08-02T05:23:03.056Z"
+}

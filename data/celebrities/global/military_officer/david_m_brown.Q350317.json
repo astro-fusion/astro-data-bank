@@ -1,0 +1,34 @@
+{
+  "publicId": "8de51ee1",
+  "wikipediaSlug": "David_M._Brown",
+  "wikipediaId": "Q350317",
+  "name": "David M. Brown",
+  "fullName": "David M. Brown",
+  "profileSummary": "David McDowell Brown was a United States Navy captain and NASA astronaut. He died on his first spaceflight, when the Space Shuttle Columbia (STS-107) disintegrated during orbital reentry into the Earth's atmosphere. Brown became an astronaut in 1996 but had not served on a space mission prior to the  Columbia disaster. He was posthumously awarded the Congressional Space Medal of Honor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/David_M._Brown%2C_NASA_photo_portrait_in_orange_suit.jpg/330px-David_M._Brown%2C_NASA_photo_portrait_in_orange_suit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_M._Brown",
+  "dateOfBirth": "1956-04-16",
+  "birthDateParsed": "1956-04-16",
+  "dateOfDeath": "2003-02-01",
+  "deathDateParsed": "2003-02-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.880277777",
+  "birthCoordinatesLng": "-77.108333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "physician",
+    "circus performer"
+  ],
+  "qid": "Q350317",
+  "birthPlace": "Arlington County",
+  "fetchedAt": "2026-08-10T06:04:11.801Z"
+}

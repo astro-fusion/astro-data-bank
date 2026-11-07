@@ -1,0 +1,39 @@
+{
+  "publicId": "4339ac9e",
+  "wikipediaSlug": "Lester_B._Pearson",
+  "wikipediaId": "Q128604",
+  "name": "Lester B. Pearson",
+  "fullName": "Lester B. Pearson",
+  "profileSummary": "Lester Bowles Pearson was a Canadian politician, diplomat, and scholar who served as the 14th prime minister of Canada from 1963 to 1968. He also served as leader of the Liberal Party from 1958 to 1968 and as leader of the Official Opposition from 1958 to 1963.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lester_B._Pearson_%281963_ABC_press_photo%29.jpg/330px-Lester_B._Pearson_%281963_ABC_press_photo%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lester_B._Pearson",
+  "dateOfBirth": "1897-04-23",
+  "birthDateParsed": "1897-04-23",
+  "dateOfDeath": "1972-12-27",
+  "deathDateParsed": "1972-12-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.670277777",
+  "birthCoordinatesLng": "-79.386666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "ice hockey player",
+    "diplomat",
+    "historian",
+    "military personnel",
+    "university teacher",
+    "senior civil servant",
+    "writer",
+    "ambassador"
+  ],
+  "qid": "Q128604",
+  "birthPlace": "Toronto",
+  "fetchedAt": "2026-08-04T02:13:43.563Z"
+}

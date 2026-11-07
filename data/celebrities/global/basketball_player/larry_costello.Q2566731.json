@@ -1,0 +1,32 @@
+{
+  "publicId": "752bde15",
+  "wikipediaSlug": "Larry_Costello",
+  "wikipediaId": "Q2566731",
+  "name": "Larry Costello",
+  "fullName": "Larry Costello",
+  "profileSummary": "Lawrence Ronald Costello was an American professional basketball player and coach. He played for the Philadelphia Warriors and the Syracuse Nationals / Philadelphia 76ers of the NBA, and the Wilkes-Barre Barons of the EPBL. He served as head coach of the Milwaukee Bucks and the Chicago Bulls.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1961%E2%80%9362_Fleer_-_Larry_Costello_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Larry_Costello",
+  "dateOfBirth": "1931-07-02",
+  "birthDateParsed": "1931-07-02",
+  "dateOfDeath": "2001-12-13",
+  "deathDateParsed": "2001-12-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.0769",
+  "birthCoordinatesLng": "-76.0069",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q2566731",
+  "birthPlace": "Minoa",
+  "fetchedAt": "2026-08-01T15:37:45.358Z"
+}

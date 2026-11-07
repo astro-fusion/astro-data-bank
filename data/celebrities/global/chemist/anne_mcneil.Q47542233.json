@@ -1,0 +1,31 @@
+{
+  "publicId": "51e6649c",
+  "wikipediaSlug": "Anne_McNeil",
+  "wikipediaId": "Q47542233",
+  "name": "Anne McNeil",
+  "fullName": "Anne McNeil",
+  "profileSummary": "Anne J. McNeil is an American chemist who currently works at the University of Michigan, where she holds the position of Arthur F. Thurnau Professor of Chemistry and Macromolecular Science and Engineering. In 2017, McNeil was named a fellow of the American Association for the Advancement of Science (AAAS).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne_McNeil",
+  "dateOfBirth": "1977-06-16",
+  "birthDateParsed": "1977-06-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.886388888",
+  "birthCoordinatesLng": "-78.878055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist"
+  ],
+  "qid": "Q47542233",
+  "birthPlace": "Buffalo",
+  "fetchedAt": "2026-08-05T03:15:51.379Z"
+}

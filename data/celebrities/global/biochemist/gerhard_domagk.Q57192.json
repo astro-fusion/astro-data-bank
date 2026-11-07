@@ -1,0 +1,37 @@
+{
+  "publicId": "f815d0ce",
+  "wikipediaSlug": "Gerhard_Domagk",
+  "wikipediaId": "Q57192",
+  "name": "Gerhard Domagk",
+  "fullName": "Gerhard Domagk",
+  "profileSummary": "Gerhard Johannes Paul Domagk was a German pathologist and bacteriologist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gerhard_Domagk_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhard_Domagk",
+  "dateOfBirth": "1895-10-30",
+  "birthDateParsed": "1895-10-30",
+  "dateOfDeath": "1964-04-24",
+  "deathDateParsed": "1964-04-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.334305555",
+  "birthCoordinatesLng": "15.292694444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "physician",
+    "university teacher",
+    "pathologist",
+    "chemist",
+    "bacteriologist",
+    "scientist"
+  ],
+  "qid": "Q57192",
+  "birthPlace": "Łagów",
+  "fetchedAt": "2026-08-10T03:15:28.142Z"
+}

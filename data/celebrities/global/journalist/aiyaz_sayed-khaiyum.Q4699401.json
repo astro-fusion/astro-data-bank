@@ -1,0 +1,33 @@
+{
+  "publicId": "e37e97be",
+  "wikipediaSlug": "Aiyaz_Sayed-Khaiyum",
+  "wikipediaId": "Q4699401",
+  "name": "Aiyaz Sayed-Khaiyum",
+  "fullName": "Aiyaz Sayed-Khaiyum",
+  "profileSummary": "Aiyaz Sayed-Khaiyum is a Fijian politician and a former cabinet minister. He was the Fijian Attorney-General and the Minister for Economy, Civil Service and Communications, and also served as the Minister responsible for Climate Change under the FijiFirst government. He is the third-highest polling candidate from the Fijian general elections of 2014, 2018 and 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aiyaz_Sayed-Khaiyum_May_2020.jpg/330px-Aiyaz_Sayed-Khaiyum_May_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aiyaz_Sayed-Khaiyum",
+  "dateOfBirth": "1965-09-24",
+  "birthDateParsed": "1965-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-18.133333333",
+  "birthCoordinatesLng": "178.433333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q4699401",
+  "birthPlace": "Suva",
+  "fetchedAt": "2026-08-07T04:26:42.108Z"
+}

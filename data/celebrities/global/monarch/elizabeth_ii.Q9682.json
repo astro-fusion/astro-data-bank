@@ -1,0 +1,34 @@
+{
+  "publicId": "d54d6b04",
+  "wikipediaSlug": "Elizabeth_II",
+  "wikipediaId": "Q9682",
+  "name": "Elizabeth II",
+  "fullName": "Elizabeth II",
+  "profileSummary": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+  "dateOfBirth": "1926-04-21",
+  "birthDateParsed": "1926-04-21",
+  "dateOfDeath": "2022-09-08",
+  "deathDateParsed": "2022-09-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5103",
+  "birthCoordinatesLng": "-0.1456",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "auto mechanic",
+    "truck driver",
+    "art collector"
+  ],
+  "qid": "Q9682",
+  "birthPlace": "17 Bruton Street, Mayfair",
+  "fetchedAt": "2026-08-03T12:58:23.404Z"
+}

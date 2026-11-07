@@ -1,0 +1,33 @@
+{
+  "publicId": "d6e88fe9",
+  "wikipediaSlug": "Dale_T._Mortensen",
+  "wikipediaId": "Q109721",
+  "name": "Dale T. Mortensen",
+  "fullName": "Dale T. Mortensen",
+  "profileSummary": "Dale Thomas Mortensen was an American economist, a professor at Northwestern University, and a winner of the Nobel Memorial Prize in Economic Sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dale_Mortensen_2.jpg/330px-Dale_Mortensen_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dale_T._Mortensen",
+  "dateOfBirth": "1939-02-02",
+  "birthDateParsed": "1939-02-02",
+  "dateOfDeath": "2014-01-09",
+  "deathDateParsed": "2014-01-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.424166666",
+  "birthCoordinatesLng": "-117.276944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "professor"
+  ],
+  "qid": "Q109721",
+  "birthPlace": "Enterprise",
+  "fetchedAt": "2026-08-10T09:43:00.220Z"
+}

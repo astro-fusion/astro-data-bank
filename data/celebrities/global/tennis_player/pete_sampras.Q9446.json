@@ -1,0 +1,31 @@
+{
+  "publicId": "af3c48d4",
+  "wikipediaSlug": "Pete_Sampras",
+  "wikipediaId": "Q9446",
+  "name": "Pete Sampras",
+  "fullName": "Pete Sampras",
+  "profileSummary": "Pete Sampras is an American former professional tennis player. One of the most successful tennis players of all time, he was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 286 weeks, and finished as the year-end No. 1 six consecutive times. Sampras won 64 ATP Tour-level singles titles, including 14 men's singles majors, which was an all-time record at the time of his retirement: seven Wimbledon Championships, two Australian Opens and an Open Era joint-record five US Opens. He also won five Tour Finals, two Grand Slam Cups, eleven Masters events, and was part of the winning United States Davis Cup teams in 1992 and 1995.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pete_Sampras_Champions_Shootout_2.jpg/330px-Pete_Sampras_Champions_Shootout_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pete_Sampras",
+  "dateOfBirth": "1971-08-12",
+  "birthDateParsed": "1971-08-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q9446",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-01T13:12:30.124Z"
+}

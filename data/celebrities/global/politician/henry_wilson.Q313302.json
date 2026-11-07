@@ -1,0 +1,36 @@
+{
+  "publicId": "87a4b40c",
+  "wikipediaSlug": "Henry_Wilson",
+  "wikipediaId": "Q313302",
+  "name": "Henry Wilson",
+  "fullName": "Henry Wilson",
+  "profileSummary": "Henry Wilson was the 18th vice president of the United States, serving from 1873 until his death in 1875, and a senator from Massachusetts from 1855 to 1873. Before and during the American Civil War, he was a leading Republican, and a strong opponent of slavery. Wilson devoted his energies to the destruction of \"Slave Power\", the faction of slave owners and their political allies which anti-slavery Americans saw as dominating the country.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Henry_Wilson%2C_VP_of_the_United_States.jpg/330px-Henry_Wilson%2C_VP_of_the_United_States.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Wilson",
+  "dateOfBirth": "1812-02-16",
+  "birthDateParsed": "1812-02-16",
+  "dateOfDeath": "1875-11-22",
+  "deathDateParsed": "1875-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.389722222",
+  "birthCoordinatesLng": "-71.065555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "historian",
+    "military officer",
+    "editor",
+    "journalist",
+    "writer"
+  ],
+  "qid": "Q313302",
+  "birthPlace": "Farmington",
+  "fetchedAt": "2026-08-01T18:08:27.484Z"
+}

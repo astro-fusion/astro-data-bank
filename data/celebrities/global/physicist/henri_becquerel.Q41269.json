@@ -1,0 +1,35 @@
+{
+  "publicId": "c637c79b",
+  "wikipediaSlug": "Henri_Becquerel",
+  "wikipediaId": "Q41269",
+  "name": "Henri Becquerel",
+  "fullName": "Henri Becquerel",
+  "profileSummary": "Antoine Henri Becquerel was a French experimental physicist who shared the 1903 Nobel Prize in Physics with Marie and Pierre Curie for his discovery of radioactivity.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Paul_Nadar_-_Henri_Becquerel.jpg/330px-Paul_Nadar_-_Henri_Becquerel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Becquerel",
+  "dateOfBirth": "1852-12-15",
+  "birthDateParsed": "1852-12-15",
+  "dateOfDeath": "1908-08-25",
+  "deathDateParsed": "1908-08-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "engineer",
+    "university teacher",
+    "nuclear physicist",
+    "chemist"
+  ],
+  "qid": "Q41269",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-06T05:02:15.085Z"
+}

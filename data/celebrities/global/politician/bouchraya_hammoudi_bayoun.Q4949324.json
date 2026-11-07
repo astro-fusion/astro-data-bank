@@ -1,0 +1,32 @@
+{
+  "publicId": "37dc84af",
+  "wikipediaSlug": "Bouchraya_Hammoudi_Bayoun",
+  "wikipediaId": "Q4949324",
+  "name": "Bouchraya Hammoudi Bayoun",
+  "fullName": "Bouchraya Hammoudi Bayoun",
+  "profileSummary": "Bouchraya Hammoudi Bayoun is a Sahrawi politician and diplomat serving as Prime Minister of the Sahrawi Arab Democratic Republic since 13 January 2020, marking his third term in office. He previously served as ambassador to Algeria.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Buchraya_Hamudi_Bayun.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bouchraya_Hammoudi_Bayoun",
+  "dateOfBirth": "1954-07-09",
+  "birthDateParsed": "1954-07-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.716666666",
+  "birthCoordinatesLng": "-15.95",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat"
+  ],
+  "qid": "Q4949324",
+  "birthPlace": "Dakhla",
+  "fetchedAt": "2026-08-03T16:50:10.007Z"
+}

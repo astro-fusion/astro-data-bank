@@ -1,0 +1,38 @@
+{
+  "publicId": "20bf7f71",
+  "wikipediaSlug": "Brian_Kobilka",
+  "wikipediaId": "Q80907",
+  "name": "Brian Kobilka",
+  "fullName": "Brian Kobilka",
+  "profileSummary": "Brian Kent Kobilka is an American physiologist and a recipient of the 2012 Nobel Prize in Chemistry with Robert Lefkowitz for discoveries that reveal the workings of G protein-coupled receptors. He is currently a professor in the department of Molecular and Cellular Physiology at Stanford University School of Medicine. He is also a co-founder of ConfometRx, a biotechnology company focusing on G protein-coupled receptors. He was named a member of the National Academy of Sciences in 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brian_Kobilka_361726_by_Christopher_Michel_6-20-24.jpg/330px-Brian_Kobilka_361726_by_Christopher_Michel_6-20-24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Kobilka",
+  "dateOfBirth": "1955-05-30",
+  "birthDateParsed": "1955-05-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.976388888",
+  "birthCoordinatesLng": "-94.3625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "physicist",
+    "university teacher",
+    "chemist",
+    "physiologist",
+    "crystallographer",
+    "biophysicist",
+    "physician"
+  ],
+  "qid": "Q80907",
+  "birthPlace": "Little Falls",
+  "fetchedAt": "2026-08-10T02:03:29.115Z"
+}

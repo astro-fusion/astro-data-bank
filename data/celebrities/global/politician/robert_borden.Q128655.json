@@ -1,0 +1,33 @@
+{
+  "publicId": "76f6a629",
+  "wikipediaSlug": "Robert_Borden",
+  "wikipediaId": "Q128655",
+  "name": "Robert Borden",
+  "fullName": "Robert Borden",
+  "profileSummary": "Sir Robert Laird Borden was a Canadian lawyer and politician who served as the eighth prime minister of Canada from 1911 to 1920. He is best known for his leadership of Canada during World War I.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sir_Robert_Borden%2C_in_the_1910%E2%80%99s_Sir_Robert_Borden%2C_dans_les_ann%C3%A9es_1910_%287196134714%29.jpg/330px-Sir_Robert_Borden%2C_in_the_1910%E2%80%99s_Sir_Robert_Borden%2C_dans_les_ann%C3%A9es_1910_%287196134714%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Borden",
+  "dateOfBirth": "1854-06-26",
+  "birthDateParsed": "1854-06-26",
+  "dateOfDeath": "1937-06-10",
+  "deathDateParsed": "1937-06-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.108889",
+  "birthCoordinatesLng": "-64.309167",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat"
+  ],
+  "qid": "Q128655",
+  "birthPlace": "Grand-Pré",
+  "fetchedAt": "2026-08-03T10:59:37.278Z"
+}

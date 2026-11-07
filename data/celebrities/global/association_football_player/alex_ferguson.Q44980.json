@@ -1,0 +1,36 @@
+{
+  "publicId": "fe64f32d",
+  "wikipediaSlug": "Alex_Ferguson",
+  "wikipediaId": "Q44980",
+  "name": "Alex Ferguson",
+  "fullName": "Alex Ferguson",
+  "profileSummary": "Sir Alexander Chapman Ferguson, also known by the nickname Fergie, is a Scottish former professional football manager and player, best known for managing Manchester United from 1986 to 2013. He is widely regarded as one of the greatest managers of all time, having won more trophies than any other manager in the history of football. Ferguson is often credited for valuing youth during his time at Manchester United, particularly in the 1990s with the \"Class of '92\", who contributed to making the club one of the most successful in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alex_Ferguson_2012.jpg/330px-Alex_Ferguson_2012.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Ferguson",
+  "dateOfBirth": "1941-12-31",
+  "birthDateParsed": "1941-12-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.8615",
+  "birthCoordinatesLng": "-4.3083",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "autobiographer",
+    "writer",
+    "manager",
+    "athlete"
+  ],
+  "qid": "Q44980",
+  "birthPlace": "Govan",
+  "fetchedAt": "2026-08-01T05:19:26.664Z"
+}

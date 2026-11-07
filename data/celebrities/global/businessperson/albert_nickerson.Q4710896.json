@@ -1,0 +1,31 @@
+{
+  "publicId": "953630ad",
+  "wikipediaSlug": "Albert_Nickerson",
+  "wikipediaId": "Q4710896",
+  "name": "Albert Nickerson",
+  "fullName": "Albert Nickerson",
+  "profileSummary": "Albert Lindsay Nickerson Jr. was an American business executive. He served as the chairman and CEO of Mobil Oil, and chair of the Federal Reserve Bank of New York from 1969 to 1971.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/Albert_L._Nickerson.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Nickerson",
+  "dateOfBirth": "1911-01-17",
+  "birthDateParsed": "1911-01-17",
+  "dateOfDeath": "1994-08-07",
+  "deathDateParsed": "1994-08-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.2417",
+  "birthCoordinatesLng": "-71.1667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q4710896",
+  "birthPlace": "Dedham",
+  "fetchedAt": "2026-08-05T02:42:52.027Z"
+}

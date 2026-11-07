@@ -1,0 +1,32 @@
+{
+  "publicId": "a588e5ee",
+  "wikipediaSlug": "Caroline_Herzenberg",
+  "wikipediaId": "Q16727842",
+  "name": "Caroline Herzenberg",
+  "fullName": "Caroline Herzenberg",
+  "profileSummary": "Caroline Stuart Littlejohn Herzenberg was an American physicist.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caroline_Herzenberg",
+  "dateOfBirth": "1932-03-25",
+  "birthDateParsed": "1932-03-25",
+  "dateOfDeath": "2025-03-30",
+  "deathDateParsed": "2025-03-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.766111111",
+  "birthCoordinatesLng": "-74.211666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "birdwatching"
+  ],
+  "qid": "Q16727842",
+  "birthPlace": "East Orange",
+  "fetchedAt": "2026-08-05T03:16:33.239Z"
+}

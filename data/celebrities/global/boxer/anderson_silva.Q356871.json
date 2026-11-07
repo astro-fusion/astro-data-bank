@@ -1,0 +1,35 @@
+{
+  "publicId": "035be7a9",
+  "wikipediaSlug": "Anderson_Silva",
+  "wikipediaId": "Q356871",
+  "name": "Anderson Silva",
+  "fullName": "Anderson Silva",
+  "profileSummary": "Anderson da Silva is a Brazilian mixed martial artist and professional boxer. He is a former UFC Middleweight Champion who unified the UFC Middleweight and Pride World Welterweight Championship, and holds the record for the longest title reign in UFC history at 2,457 days. This started in 2006 and ended in 2013 and included a UFC record 16 consecutive victories in that span. Silva left the UFC in November 2020 and returned to boxing. He is widely regarded as one of the greatest mixed martial artists of all time. Silva was inducted into the UFC Hall of Fame in July 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Anderson_Silva.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anderson_Silva",
+  "dateOfBirth": "1975-04-14",
+  "birthDateParsed": "1975-04-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer",
+    "judoka",
+    "mixed martial arts fighter",
+    "taekwondo athlete",
+    "Thai boxer"
+  ],
+  "qid": "Q356871",
+  "birthPlace": "São Paulo",
+  "fetchedAt": "2026-08-01T17:04:13.234Z"
+}

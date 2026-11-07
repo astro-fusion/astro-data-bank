@@ -1,0 +1,43 @@
+{
+  "publicId": "d46fdd6f",
+  "wikipediaSlug": "Demis_Hassabis",
+  "wikipediaId": "Q3022141",
+  "name": "Demis Hassabis",
+  "fullName": "Demis Hassabis",
+  "profileSummary": "Sir Demis Hassabis is a British artificial intelligence (AI) researcher and entrepreneur. He is the chairman and co-founder of Google DeepMind and the chief scientist of Alphabet, as well as the chief executive officer and co-founder of Isomorphic Labs. Hassabis is also a UK Government AI Adviser. In 2024, Hassabis and John M. Jumper were jointly awarded the Nobel Prize in Chemistry for their AI research contributions to protein structure prediction.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Demis_Hassabis%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg/330px-Demis_Hassabis%2C_2024_Nobel_Prize_Laureate_in_Chemistry_7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Demis_Hassabis",
+  "dateOfBirth": "1976-07-27",
+  "birthDateParsed": "1976-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "chess player",
+    "artificial intelligence researcher",
+    "computer scientist",
+    "game programmer",
+    "poker player",
+    "data scientist",
+    "businessperson",
+    "video game developer",
+    "technology entrepreneur",
+    "software developer",
+    "neuroscientist",
+    "entrepreneur"
+  ],
+  "qid": "Q3022141",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T02:03:30.055Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "2f851c20",
+  "wikipediaSlug": "Kelly_Armstrong",
+  "wikipediaId": "Q50362353",
+  "name": "Kelly Armstrong",
+  "fullName": "Kelly Armstrong",
+  "profileSummary": "Kelly Michael Armstrong is an American lawyer and politician serving since 2024 as the 34th governor of North Dakota. A member of the Republican Party, he served from 2019 to 2024 as the U.S. representative for North Dakota's at-large congressional district.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kelly_Armstrong_%283x4_cropped%29_%282%29.jpg/330px-Kelly_Armstrong_%283x4_cropped%29_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kelly_Armstrong",
+  "dateOfBirth": "1976-10-08",
+  "birthDateParsed": "1976-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.883611111",
+  "birthCoordinatesLng": "-102.788888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q50362353",
+  "birthPlace": "Dickinson",
+  "fetchedAt": "2026-08-02T03:28:21.760Z"
+}

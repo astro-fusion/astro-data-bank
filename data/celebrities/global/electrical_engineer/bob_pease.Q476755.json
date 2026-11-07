@@ -1,0 +1,31 @@
+{
+  "publicId": "9a049d45",
+  "wikipediaSlug": "Bob_Pease",
+  "wikipediaId": "Q476755",
+  "name": "Bob Pease",
+  "fullName": "Bob Pease",
+  "profileSummary": "Robert Allen Pease was an electronics engineer known for analog integrated circuit (IC) design, and as the author of technical books and articles about electronic design. He designed several very successful \"best-seller\" ICs, many of them in continuous production for multiple decades. These include LM331 voltage-to-frequency converter, and the LM337 adjustable negative voltage regulator.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/20110622-National-Semiconductor-Bob-Pease-250x350.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Pease",
+  "dateOfBirth": "1940-08-22",
+  "birthDateParsed": "1940-08-22",
+  "dateOfDeath": "2011-06-18",
+  "deathDateParsed": "2011-06-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.866666666",
+  "birthCoordinatesLng": "-72.449444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "electrical engineer"
+  ],
+  "qid": "Q476755",
+  "birthPlace": "Rockville",
+  "fetchedAt": "2026-08-05T03:16:11.534Z"
+}

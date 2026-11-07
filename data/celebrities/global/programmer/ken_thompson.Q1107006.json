@@ -1,0 +1,32 @@
+{
+  "publicId": "ee85a58f",
+  "wikipediaSlug": "Ken_Thompson",
+  "wikipediaId": "Q1107006",
+  "name": "Ken Thompson",
+  "fullName": "Ken Thompson",
+  "profileSummary": "Kenneth Lane Thompson is an American pioneer of computer science. Thompson worked at Bell Labs for most of his career where he designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C language, and was one of the creators and early developers of the Plan 9 operating system. Other notable contributions included his work on regular expressions and early computer text editors QED and ed, the definition of the UTF-8 encoding, and his work on computer chess that included the creation of endgame tablebases and the chess machine Belle.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ken_Thompson%2C_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ken_Thompson",
+  "dateOfBirth": "1943-02-04",
+  "birthDateParsed": "1943-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.976111111",
+  "birthCoordinatesLng": "-90.078333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "programmer",
+    "computer scientist"
+  ],
+  "qid": "Q1107006",
+  "birthPlace": "New Orleans",
+  "fetchedAt": "2026-08-10T04:29:18.509Z"
+}

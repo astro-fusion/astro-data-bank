@@ -1,0 +1,34 @@
+{
+  "publicId": "5436f92a",
+  "wikipediaSlug": "Juris_Hartmanis",
+  "wikipediaId": "Q92628",
+  "name": "Juris Hartmanis",
+  "fullName": "Juris Hartmanis",
+  "profileSummary": "Juris Hartmanis was a Latvian-born American computer scientist and computational theorist who, with Richard E. Stearns, received the 1993 ACM Turing Award \"in recognition of their seminal paper which established the foundations for the field of computational complexity theory\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Juris_Hartmanis%282002%29.jpg/330px-Juris_Hartmanis%282002%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juris_Hartmanis",
+  "dateOfBirth": "1928-07-05",
+  "birthDateParsed": "1928-07-05",
+  "dateOfDeath": "2022-07-29",
+  "deathDateParsed": "2022-07-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.9475",
+  "birthCoordinatesLng": "24.106944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "university teacher",
+    "editor"
+  ],
+  "qid": "Q92628",
+  "birthPlace": "Riga",
+  "fetchedAt": "2026-08-10T04:29:06.848Z"
+}

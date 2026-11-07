@@ -1,0 +1,39 @@
+{
+  "publicId": "83f78956",
+  "wikipediaSlug": "Franklin_D._Roosevelt",
+  "wikipediaId": "Q8007",
+  "name": "Franklin D. Roosevelt",
+  "fullName": "Franklin D. Roosevelt",
+  "profileSummary": "Franklin Delano Roosevelt, also known as FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. He is the longest-serving US president and the only one to have served more than two terms. His first two terms were centered on combating the Great Depression, while his third and fourth focused on US involvement in World War II. A member of the Democratic Party, Roosevelt served in the New York State Senate from 1911 to 1913 and as the 44th governor of New York from 1929 to 1932.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/330px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+  "dateOfBirth": "1882-01-30",
+  "birthDateParsed": "1882-01-30",
+  "dateOfDeath": "1945-04-12",
+  "deathDateParsed": "1945-04-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.784722222",
+  "birthCoordinatesLng": "-73.933333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "statesperson",
+    "golfer",
+    "screenwriter",
+    "philatelist",
+    "governor",
+    "jurist",
+    "secretary of state",
+    "politician"
+  ],
+  "qid": "Q8007",
+  "birthPlace": "Hyde Park",
+  "fetchedAt": "2026-08-01T18:07:54.168Z"
+}

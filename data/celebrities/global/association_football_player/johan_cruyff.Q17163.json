@@ -1,0 +1,33 @@
+{
+  "publicId": "159c275c",
+  "wikipediaSlug": "Johan_Cruyff",
+  "wikipediaId": "Q17163",
+  "name": "Johan Cruyff",
+  "fullName": "Johan Cruyff",
+  "profileSummary": "Hendrik Johannes Cruijff, internationally known as Johan Cruyff, was a Dutch professional football player and manager. Regarded as one of the greatest players in history and as the greatest Dutch footballer ever, he won the Ballon d'Or three times, in 1971, 1973, and 1974. Cruyff was a proponent of the football philosophy known as Total Football, developed by Rinus Michels, both as a player and a manager. Because of the far-reaching impact of his playing style and his coaching ideas, he is widely regarded as one of the most influential figures in modern football, and he is also regarded as one of the greatest managers of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/330px-Johan_Cruijff_%281974%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johan_Cruyff",
+  "dateOfBirth": "1947-04-25",
+  "birthDateParsed": "1947-04-25",
+  "dateOfDeath": "2016-03-24",
+  "deathDateParsed": "2016-03-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.340277777",
+  "birthCoordinatesLng": "4.943333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "coach"
+  ],
+  "qid": "Q17163",
+  "birthPlace": "Betondorp",
+  "fetchedAt": "2026-08-10T11:28:30.517Z"
+}

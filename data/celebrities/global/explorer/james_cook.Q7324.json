@@ -1,0 +1,38 @@
+{
+  "publicId": "517cbca7",
+  "wikipediaSlug": "James_Cook",
+  "wikipediaId": "Q7324",
+  "name": "James Cook",
+  "fullName": "James Cook",
+  "profileSummary": "Captain James Cook was a British Royal Navy officer, explorer, and cartographer who led three voyages of exploration to the Pacific and Southern Oceans between 1768 and 1779. He completed the first recorded circumnavigation of the main islands of New Zealand, and led the first recorded visit by Europeans to the east coast of Australia and the Hawaiian Islands.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/330px-Captainjamescookportrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Cook",
+  "dateOfBirth": "1728-10-27",
+  "birthDateParsed": "1728-10-27",
+  "dateOfDeath": "1779-02-14",
+  "deathDateParsed": "1779-02-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "54.5406",
+  "birthCoordinatesLng": "-1.2124",
+  "birthTimezone": "Europe/London",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "cartographer",
+    "naval officer",
+    "seafarer",
+    "botanist",
+    "discoverer"
+  ],
+  "qid": "Q7324",
+  "placeOfBirth": "Marton",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-21T07:59:31.083Z"
+}

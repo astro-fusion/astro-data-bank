@@ -1,0 +1,33 @@
+{
+  "publicId": "bebc16c0",
+  "wikipediaSlug": "Moon_Jae-in",
+  "wikipediaId": "Q21001",
+  "name": "Moon Jae-in",
+  "fullName": "Moon Jae-in",
+  "profileSummary": "Moon Jae-in is a South Korean politician and lawyer who served as the 12th president of South Korea from 2017 to 2022. A member of the Democratic Party of Korea (DPK), he was the party's leader from 2015 to 2016, and represented Sasang in the National Assembly from 2012 to 2016. Moon previously served as the senior secretary for civil affairs and the chief of staff to President Roh Moo-hyun.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Moon_Jae_In.jpg/330px-President_Moon_Jae_In.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Moon_Jae-in",
+  "dateOfBirth": "1953-01-24",
+  "birthDateParsed": "1953-01-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.850277777",
+  "birthCoordinatesLng": "128.588611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "bookseller"
+  ],
+  "qid": "Q21001",
+  "birthPlace": "Geoje",
+  "fetchedAt": "2026-08-03T15:53:11.510Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "2a98fd79",
+  "wikipediaSlug": "Chris_Hoy",
+  "wikipediaId": "Q310383",
+  "name": "Chris Hoy",
+  "fullName": "Chris Hoy",
+  "profileSummary": "Sir Christopher Andrew Hoy is a former track cyclist and racing driver from Scotland who represented Great Britain at the Olympic and World Championships and Scotland at the Commonwealth Games.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Prostate_Cancer_Roundtable_with_Sir_Chris_Hoy_%28cropped%29.jpg/330px-Prostate_Cancer_Roundtable_with_Sir_Chris_Hoy_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Hoy",
+  "dateOfBirth": "1976-03-23",
+  "birthDateParsed": "1976-03-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sport cyclist",
+    "racing automobile driver",
+    "autobiographer"
+  ],
+  "qid": "Q310383",
+  "birthPlace": "Edinburgh",
+  "fetchedAt": "2026-08-10T12:59:16.460Z"
+}

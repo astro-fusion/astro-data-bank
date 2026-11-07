@@ -1,0 +1,31 @@
+{
+  "publicId": "a70485d5",
+  "wikipediaSlug": "Brad_Little",
+  "wikipediaId": "Q4954097",
+  "name": "Brad Little",
+  "fullName": "Brad Little",
+  "profileSummary": "Bradley Jay Little is an American politician serving since 2019 as the 33rd governor of Idaho. A member of the Republican Party, he served as the 42nd lieutenant governor of Idaho from 2009 to 2019 and as an Idaho state senator from 2001 to 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brad_Little_official_photo.jpg/330px-Brad_Little_official_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brad_Little",
+  "dateOfBirth": "1954-02-15",
+  "birthDateParsed": "1954-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.8728",
+  "birthCoordinatesLng": "-116.495",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q4954097",
+  "birthPlace": "Emmett",
+  "fetchedAt": "2026-08-02T03:27:56.680Z"
+}

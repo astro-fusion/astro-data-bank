@@ -1,0 +1,31 @@
+{
+  "publicId": "6d9cb328",
+  "wikipediaSlug": "Edward_Seymour,_1st_Duke_of_Somerset",
+  "wikipediaId": "Q163936",
+  "name": "Edward Seymour, 1st Duke of Somerset",
+  "fullName": "Edward Seymour, 1st Duke of Somerset",
+  "profileSummary": "Edward Seymour, 1st Duke of Somerset, 1st Earl of Hertford, 1st Viscount Beauchamp was an English nobleman and politician who served as Lord Protector of England from 1547 to 1549 during the minority of his nephew King Edward VI. He was the eldest surviving brother of Queen Jane Seymour, the third wife of King Henry VIII and mother of King Edward VI.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Edward_Seymour.jpg/330px-Edward_Seymour.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Seymour%2C_1st_Duke_of_Somerset",
+  "dateOfBirth": "1500-01-01",
+  "birthDateParsed": "1500-01-01",
+  "dateOfDeath": "1552-02-01",
+  "deathDateParsed": "1552-02-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53",
+  "birthCoordinatesLng": "-1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "noble family"
+  ],
+  "qid": "Q163936",
+  "birthPlace": "England",
+  "fetchedAt": "2026-08-02T05:21:35.096Z"
+}

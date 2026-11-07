@@ -1,0 +1,31 @@
+{
+  "publicId": "6b375b2c",
+  "wikipediaSlug": "John_Gorton",
+  "wikipediaId": "Q356411",
+  "name": "John Gorton",
+  "fullName": "John Gorton",
+  "profileSummary": "Sir John Grey Gorton was an Australian politician, farmer and airman who served as the 19th prime minister of Australia from 1968 to 1971. He held office as the leader of the Liberal Party of Australia, having previously served as a senator for Victoria. He was the first and only member of the upper house of the Parliament to assume the office of prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/JohnGorton1968.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Gorton",
+  "dateOfBirth": "1911-09-09",
+  "birthDateParsed": "1911-09-09",
+  "dateOfDeath": "2002-05-19",
+  "deathDateParsed": "2002-05-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q356411",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-03T12:58:14.447Z"
+}

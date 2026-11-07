@@ -1,0 +1,36 @@
+{
+  "publicId": "a865eb89",
+  "wikipediaSlug": "Alan_Dershowitz",
+  "wikipediaId": "Q183058",
+  "name": "Alan Dershowitz",
+  "fullName": "Alan Dershowitz",
+  "profileSummary": "Alan Morton Dershowitz is an American lawyer and law professor known for his work in U.S. constitutional and criminal law. From 1964 to 2013, he taught at Harvard Law School, where he was appointed as the Felix Frankfurter Professor of Law in 1993. Dershowitz is a regular media contributor, political commentator, and legal analyst.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alan_Dershowitz_in_2024_%28cropped%29.jpg/330px-Alan_Dershowitz_in_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Dershowitz",
+  "dateOfBirth": "1938-09-01",
+  "birthDateParsed": "1938-09-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "university teacher",
+    "lawyer",
+    "art collector",
+    "jurist",
+    "opinion journalist"
+  ],
+  "qid": "Q183058",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-05T02:42:25.421Z"
+}

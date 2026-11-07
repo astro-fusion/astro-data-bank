@@ -1,0 +1,32 @@
+{
+  "publicId": "95dbd44d",
+  "wikipediaSlug": "James_Mirrlees",
+  "wikipediaId": "Q176643",
+  "name": "James Mirrlees",
+  "fullName": "James Mirrlees",
+  "profileSummary": "Sir James Alexander Mirrlees was a British economist and winner of the 1996 Nobel Memorial Prize in Economic Sciences. He was knighted in the 1997 Birthday Honours.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/James_Mirrlees.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Mirrlees",
+  "dateOfBirth": "1936-07-05",
+  "birthDateParsed": "1936-07-05",
+  "dateOfDeath": "2018-08-29",
+  "deathDateParsed": "2018-08-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.967",
+  "birthCoordinatesLng": "-4.48317",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q176643",
+  "birthPlace": "Minnigaff",
+  "fetchedAt": "2026-08-10T09:43:31.489Z"
+}

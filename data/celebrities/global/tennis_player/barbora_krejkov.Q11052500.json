@@ -1,0 +1,31 @@
+{
+  "publicId": "cd5691e7",
+  "wikipediaSlug": "Barbora_Krejčíková",
+  "wikipediaId": "Q11052500",
+  "name": "Barbora Krejčíková",
+  "fullName": "Barbora Krejčíková",
+  "profileSummary": "Barbora Krejčíková is a Czech professional tennis player. She has been ranked as high as world No. 2 in singles and world No. 1 in doubles by the WTA. Krejčíková has won nine singles, 20 doubles, and three mixed doubles titles at the WTA Tour level. She is known for her aggressive playing style and her smooth, powerful groundstrokes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Barbora_Krej%C4%8D%C3%ADkov%C3%A1_%282023_US_Open%29_03_%28cropped%29.jpg/330px-Barbora_Krej%C4%8D%C3%ADkov%C3%A1_%282023_US_Open%29_03_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barbora_Krej%C4%8D%C3%ADkov%C3%A1",
+  "dateOfBirth": "1995-12-18",
+  "birthDateParsed": "1995-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.195277777",
+  "birthCoordinatesLng": "16.608333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q11052500",
+  "birthPlace": "Brno",
+  "fetchedAt": "2026-08-01T14:58:53.737Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "365104e8",
+  "wikipediaSlug": "Arthur_Ashkin",
+  "wikipediaId": "Q708472",
+  "name": "Arthur Ashkin",
+  "fullName": "Arthur Ashkin",
+  "profileSummary": "Arthur Ashkin was an American scientist and Nobel laureate who worked at Bell Labs. Ashkin has been considered by many as the father of optical tweezers,\nfor which he was awarded the Nobel Prize in Physics 2018 at age 96, becoming the oldest Nobel laureate until 2019 when John B. Goodenough was awarded at 97. He resided in Rumson, New Jersey.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Arthur_Ashkin_EM1B5678_%2844417135450%29.jpg/330px-Arthur_Ashkin_EM1B5678_%2844417135450%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Ashkin",
+  "dateOfBirth": "1922-09-02",
+  "birthDateParsed": "1922-09-02",
+  "dateOfDeath": "2020-09-21",
+  "deathDateParsed": "2020-09-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "researcher"
+  ],
+  "qid": "Q708472",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-06T05:01:04.503Z"
+}

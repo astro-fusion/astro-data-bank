@@ -1,0 +1,32 @@
+{
+  "publicId": "ad461a38",
+  "wikipediaSlug": "Carlos_Moyá",
+  "wikipediaId": "Q193361",
+  "name": "Carlos Moyá",
+  "fullName": "Carlos Moyá",
+  "profileSummary": "Carlos Moyá Llompart is a Spanish former professional tennis player and coach. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP), achieved in 1999. Moyá won 20 ATP Tour-level singles titles, including a major at the 1998 French Open, and was part of the victorious Spanish Davis Cup team in 2004. He was also the runner-up at the 1997 Australian Open. After his playing career, Moyá served as Rafael Nadal's primary coach from 2016 to 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Carlos_moya_cincyATP07_QF_1.jpg/330px-Carlos_moya_cincyATP07_QF_1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Moy%C3%A1",
+  "dateOfBirth": "1976-08-27",
+  "birthDateParsed": "1976-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.566666666",
+  "birthCoordinatesLng": "2.649722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach"
+  ],
+  "qid": "Q193361",
+  "birthPlace": "Palma",
+  "fetchedAt": "2026-08-01T13:10:37.628Z"
+}

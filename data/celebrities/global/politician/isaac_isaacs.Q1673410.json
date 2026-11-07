@@ -1,0 +1,35 @@
+{
+  "publicId": "9bd228d6",
+  "wikipediaSlug": "Isaac_Isaacs",
+  "wikipediaId": "Q1673410",
+  "name": "Isaac Isaacs",
+  "fullName": "Isaac Isaacs",
+  "profileSummary": "Sir Isaac Alfred Isaacs was an Australian lawyer, politician, and judge who served as the ninth governor-general of Australia, in office from 1931 to 1936. He was both the first Australian-born and the first Jewish Governor-General of Australia. He had previously served on the High Court of Australia from 1906 to 1931, including as Chief Justice from 1930.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Isaac_Isaacs_1936_%28cropped%29.jpg/330px-Isaac_Isaacs_1936_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isaac_Isaacs",
+  "dateOfBirth": "1855-08-06",
+  "birthDateParsed": "1855-08-06",
+  "dateOfDeath": "1948-02-11",
+  "deathDateParsed": "1948-02-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "barrister",
+    "judge",
+    "author",
+    "governor-general"
+  ],
+  "qid": "Q1673410",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-03T12:58:15.126Z"
+}

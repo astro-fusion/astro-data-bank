@@ -1,0 +1,33 @@
+{
+  "publicId": "fc5a00af",
+  "wikipediaSlug": "Lothar_Matthäus",
+  "wikipediaId": "Q36386",
+  "name": "Lothar Matthäus",
+  "fullName": "Lothar Matthäus",
+  "profileSummary": "Lothar Herbert Matthäus is a German football pundit and former professional player and manager. He captained West Germany to victory in the 1990 FIFA World Cup and was awarded the Ballon d'Or. In 1991, he was named the first FIFA World Player of the Year, and remains the only German to have received the award. He was also included in the Ballon d'Or Dream Team in 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019_Lothar_Matth%C3%A4us.jpg/330px-2019_Lothar_Matth%C3%A4us.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us",
+  "dateOfBirth": "1961-03-21",
+  "birthDateParsed": "1961-03-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.5925",
+  "birthCoordinatesLng": "11.005",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "musician"
+  ],
+  "qid": "Q36386",
+  "birthPlace": "Erlangen",
+  "fetchedAt": "2026-08-10T11:28:51.188Z"
+}

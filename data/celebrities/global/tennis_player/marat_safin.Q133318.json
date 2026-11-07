@@ -1,0 +1,33 @@
+{
+  "publicId": "7da29a3d",
+  "wikipediaSlug": "Marat_Safin",
+  "wikipediaId": "Q133318",
+  "name": "Marat Safin",
+  "fullName": "Marat Safin",
+  "profileSummary": "Marat Mubinovich Safin is a Russian former professional tennis player and current coach. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for nine weeks. Safin won 15 ATP Tour-level singles titles, including two majors at the 2000 US Open and 2005 Australian Open, and helped lead Russia to Davis Cup titles in 2002 and 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Marat_Safin%2C_2006_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marat_Safin",
+  "dateOfBirth": "1980-01-27",
+  "birthDateParsed": "1980-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "politician",
+    "athlete"
+  ],
+  "qid": "Q133318",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-01T13:12:31.477Z"
+}

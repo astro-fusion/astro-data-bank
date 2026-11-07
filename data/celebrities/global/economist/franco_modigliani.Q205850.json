@@ -1,0 +1,32 @@
+{
+  "publicId": "5b624727",
+  "wikipediaSlug": "Franco_Modigliani",
+  "wikipediaId": "Q205850",
+  "name": "Franco Modigliani",
+  "fullName": "Franco Modigliani",
+  "profileSummary": "Franco Modigliani was an Italian-American economist and the recipient of the 1985 Nobel Memorial Prize in Economics. He was a professor at University of Illinois at Urbana–Champaign, Carnegie Mellon University, and MIT Sloan School of Management.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Franco_Modigliani.jpg/330px-Franco_Modigliani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franco_Modigliani",
+  "dateOfBirth": "1918-06-18",
+  "birthDateParsed": "1918-06-18",
+  "dateOfDeath": "2003-09-25",
+  "deathDateParsed": "2003-09-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.893055555",
+  "birthCoordinatesLng": "12.482777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q205850",
+  "birthPlace": "Rome",
+  "fetchedAt": "2026-08-10T09:43:08.871Z"
+}

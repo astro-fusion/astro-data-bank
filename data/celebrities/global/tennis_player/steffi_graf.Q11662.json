@@ -1,0 +1,33 @@
+{
+  "publicId": "3385ddb2",
+  "wikipediaSlug": "Steffi_Graf",
+  "wikipediaId": "Q11662",
+  "name": "Steffi Graf",
+  "fullName": "Steffi Graf",
+  "profileSummary": "Stefanie Maria Graf, known professionally as Steffi Graf and preferring to be called Stefanie since 2001, is a German former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for a record 377 weeks, and finished as the year-end No. 1 a record eight times. Graf won 107 singles titles on the WTA Tour, including 22 major women's singles titles, the second-most since the start of the Open Era in 1968 and the third-most of all time. She is the only tennis player, male or female, to have won each major singles tournament at least four times—a quadruple career Grand Slam.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg/330px-Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Steffi_Graf",
+  "dateOfBirth": "1969-06-14",
+  "birthDateParsed": "1969-06-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.487777777",
+  "birthCoordinatesLng": "8.466111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "athlete",
+    "actor"
+  ],
+  "qid": "Q11662",
+  "birthPlace": "Mannheim",
+  "fetchedAt": "2026-08-01T15:00:36.017Z"
+}

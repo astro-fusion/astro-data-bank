@@ -1,0 +1,33 @@
+{
+  "publicId": "618fe802",
+  "wikipediaSlug": "Ahmed_Chalabi",
+  "wikipediaId": "Q400837",
+  "name": "Ahmed Chalabi",
+  "fullName": "Ahmed Chalabi",
+  "profileSummary": "Ahmed Abdel Hadi Chalabi was an Iraqi politician and founder of the Iraqi National Congress (INC) who served as the President of the Governing Council of Iraq and a Deputy Prime Minister of Iraq under Ibrahim al-Jaafari. He is believed to have been an Iranian agent.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chalabi.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Chalabi",
+  "dateOfBirth": "1944-10-30",
+  "birthDateParsed": "1944-10-30",
+  "dateOfDeath": "2015-11-03",
+  "deathDateParsed": "2015-11-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.383055555",
+  "birthCoordinatesLng": "44.34",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson",
+    "mathematician"
+  ],
+  "qid": "Q400837",
+  "birthPlace": "Kadhimiya",
+  "fetchedAt": "2026-08-05T03:15:01.493Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "75a62c29",
+  "wikipediaSlug": "Hans_Krankl",
+  "wikipediaId": "Q131529",
+  "name": "Hans Krankl",
+  "fullName": "Hans Krankl",
+  "profileSummary": "Johann \"Hans\" Krankl is an Austrian former professional footballer. A prolific striker, he is regarded by many as one of Austria's greatest players.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FC_Red_Bull_Salzburg_vs._SK_Rapid_Wien_%282022-09-18%29_17a.jpg/330px-FC_Red_Bull_Salzburg_vs._SK_Rapid_Wien_%282022-09-18%29_17a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Krankl",
+  "dateOfBirth": "1953-02-14",
+  "birthDateParsed": "1953-02-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "singer",
+    "association football coach",
+    "musician"
+  ],
+  "qid": "Q131529",
+  "birthPlace": "Vienna",
+  "fetchedAt": "2026-08-10T11:28:16.716Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "7ae43a08",
+  "wikipediaSlug": "Alfred_Werner",
+  "wikipediaId": "Q123014",
+  "name": "Alfred Werner",
+  "fullName": "Alfred Werner",
+  "profileSummary": "Alfred Werner was a Swiss chemist who was a student at ETH Zurich and a professor at the University of Zurich. He won the Nobel Prize in Chemistry in 1913 for proposing the octahedral configuration of transition metal complexes. Werner developed the basis for modern coordination chemistry. He was the first inorganic chemist to win the Nobel Prize, and the only one prior to 1973.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Alfred_Werner_ETH-Bib_Portr_09965.jpg/330px-Alfred_Werner_ETH-Bib_Portr_09965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Werner",
+  "dateOfBirth": "1866-12-12",
+  "birthDateParsed": "1866-12-12",
+  "dateOfDeath": "1919-11-15",
+  "deathDateParsed": "1919-11-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.748611111",
+  "birthCoordinatesLng": "7.339166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q123014",
+  "birthPlace": "Mulhouse",
+  "fetchedAt": "2026-08-10T02:03:18.346Z"
+}

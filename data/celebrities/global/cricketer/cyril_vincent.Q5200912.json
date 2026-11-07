@@ -1,0 +1,31 @@
+{
+  "publicId": "c08143b8",
+  "wikipediaSlug": "Cyril_Vincent",
+  "wikipediaId": "Q5200912",
+  "name": "Cyril Vincent",
+  "fullName": "Cyril Vincent",
+  "profileSummary": "Cyril Leverton Vincent was a South African cricketer who played in 25 Test matches from 1927 to 1935. He was later chairman of the South African selectors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cyril_Vincent_c1930.jpg/330px-Cyril_Vincent_c1930.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyril_Vincent",
+  "dateOfBirth": "1902-02-16",
+  "birthDateParsed": "1902-02-16",
+  "dateOfDeath": "1968-08-24",
+  "deathDateParsed": "1968-08-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5200912",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:21:21.336Z"
+}

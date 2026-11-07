@@ -1,0 +1,36 @@
+{
+  "publicId": "5faa1812",
+  "wikipediaSlug": "Stephen_A._Schwarzman",
+  "wikipediaId": "Q552465",
+  "name": "Stephen A. Schwarzman",
+  "fullName": "Stephen A. Schwarzman",
+  "profileSummary": "Stephen Allen Schwarzman is an American businessman. He is the chairman and CEO of the private equity firm Blackstone Inc., which he established in 1985 with Peter G. Peterson. Schwarzman was chairman of President Donald Trump's Strategic and Policy Forum.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/DBT_Magdalen_College%2C_Oxford_%26_Stephen_Schwarzman_19_March_2024-5_-_53600715712_%28cropped%29.jpg/330px-DBT_Magdalen_College%2C_Oxford_%26_Stephen_Schwarzman_19_March_2024-5_-_53600715712_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_A._Schwarzman",
+  "dateOfBirth": "1947-02-14",
+  "birthDateParsed": "1947-02-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "financier",
+    "banker",
+    "investment banker",
+    "chief executive officer",
+    "entrepreneur",
+    "patron of the arts"
+  ],
+  "qid": "Q552465",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-04T03:00:46.658Z"
+}

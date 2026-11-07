@@ -1,0 +1,34 @@
+{
+  "publicId": "396e0c2b",
+  "wikipediaSlug": "Daniel_Nathans",
+  "wikipediaId": "Q295706",
+  "name": "Daniel Nathans",
+  "fullName": "Daniel Nathans",
+  "profileSummary": "Daniel Nathans was an American microbiologist. Along with American researcher Hamilton Smith and Swiss researcher Werner Arber, he shared the 1978 Nobel Prize in Physiology or Medicine for the discovery of restriction enzymes and their application in restriction mapping.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/37._Tagung_1987_Mediziner_Daniel_Nathans_l%C3%A4chelnd_-_W134Nr.125411c_-_Willy_Pragher_%28cropped%29.jpg/330px-37._Tagung_1987_Mediziner_Daniel_Nathans_l%C3%A4chelnd_-_W134Nr.125411c_-_Willy_Pragher_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Nathans",
+  "dateOfBirth": "1928-10-30",
+  "birthDateParsed": "1928-10-30",
+  "dateOfDeath": "1999-11-16",
+  "deathDateParsed": "1999-11-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.748333333",
+  "birthCoordinatesLng": "-75.551388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "microbiologist",
+    "molecular biologist",
+    "physiologist"
+  ],
+  "qid": "Q295706",
+  "birthPlace": "Wilmington",
+  "fetchedAt": "2026-08-10T03:14:40.358Z"
+}

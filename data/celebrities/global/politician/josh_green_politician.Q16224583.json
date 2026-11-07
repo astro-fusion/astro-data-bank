@@ -1,0 +1,32 @@
+{
+  "publicId": "ddac2870",
+  "wikipediaSlug": "Josh_Green_(politician)",
+  "wikipediaId": "Q16224583",
+  "name": "Josh Green (politician)",
+  "fullName": "Josh Green (politician)",
+  "profileSummary": "Joshua Booth Green is an American politician and physician serving since 2022 as the ninth governor of Hawaii. A member of the Democratic Party, he served from 2018 to 2022 as the 15th lieutenant governor of Hawaii. From 2004 to 2018, he was a member of the Hawaii State Legislature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Josh_Green_Official_Photo_2022_%28cropped%29_1cropped%29.jpg/330px-Josh_Green_Official_Photo_2022_%28cropped%29_1cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josh_Green_(politician)",
+  "dateOfBirth": "1970-02-11",
+  "birthDateParsed": "1970-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.925",
+  "birthCoordinatesLng": "-74",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physician"
+  ],
+  "qid": "Q16224583",
+  "birthPlace": "Kingston",
+  "fetchedAt": "2026-08-02T03:28:24.329Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "f381e089",
+  "wikipediaSlug": "Alice_Mina",
+  "wikipediaId": "Q138650200",
+  "name": "Alice Mina",
+  "fullName": "Alice Mina",
+  "profileSummary": "Alice Mina is a Sammarinese politician and member of the Grand and General Council, the parliament of San Marino. She is affiliated with the Sammarinese Christian Democratic Party (PDCS) and has served in several parliamentary and party roles, including vice president of the PDCS parliamentary group and a member of San Marino's delegation to the Parliamentary Assembly of the Council of Europe.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Mina",
+  "dateOfBirth": "1987-04-22",
+  "birthDateParsed": "1987-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q138650200",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-04T00:55:09.368Z"
+}

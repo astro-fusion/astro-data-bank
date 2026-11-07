@@ -1,0 +1,33 @@
+{
+  "publicId": "2322a196",
+  "wikipediaSlug": "William_Kahan",
+  "wikipediaId": "Q92782",
+  "name": "William Kahan",
+  "fullName": "William Kahan",
+  "profileSummary": "William \"Velvel\" Morton Kahan is a Canadian mathematician and computer scientist, who is a professor emeritus at University of California, Berkeley. He received the Turing Award in 1989 for \"his fundamental contributions to numerical analysis.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/William_Kahan_2008.jpg/330px-William_Kahan_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Kahan",
+  "dateOfBirth": "1933-06-05",
+  "birthDateParsed": "1933-06-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.670277777",
+  "birthCoordinatesLng": "-79.386666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q92782",
+  "birthPlace": "Toronto",
+  "fetchedAt": "2026-08-10T04:29:46.926Z"
+}

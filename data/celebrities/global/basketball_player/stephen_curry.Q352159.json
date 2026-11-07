@@ -1,0 +1,32 @@
+{
+  "publicId": "b517ecaf",
+  "wikipediaSlug": "Stephen_Curry",
+  "wikipediaId": "Q352159",
+  "name": "Stephen Curry",
+  "fullName": "Stephen Curry",
+  "profileSummary": "Wardell Stephen Curry II, also known as Steph Curry, is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA), where he plays as a point guard. Nicknamed \"Chef Curry\", he is widely regarded as the greatest shooter in basketball history and one of the greatest players of all time. He is credited with revolutionizing the game by popularizing the three-point shot across all levels of basketball.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stephen_Curry%2C_Olympic_Games_2024_%28cropped%29.jpg/330px-Stephen_Curry%2C_Olympic_Games_2024_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Curry",
+  "dateOfBirth": "1988-03-14",
+  "birthDateParsed": "1988-03-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.073055555",
+  "birthCoordinatesLng": "-81.517777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "writer"
+  ],
+  "qid": "Q352159",
+  "birthPlace": "Akron",
+  "fetchedAt": "2026-08-01T15:38:27.570Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "d4620b88",
+  "wikipediaSlug": "Tjalling_Koopmans",
+  "wikipediaId": "Q110968",
+  "name": "Tjalling Koopmans",
+  "fullName": "Tjalling Koopmans",
+  "profileSummary": "Tjalling Charles Koopmans was a Dutch-American mathematician and economist. He was the joint winner with Leonid Kantorovich of the 1975 Nobel Memorial Prize in Economic Sciences for his work on the theory of the optimum allocation of resources. Koopmans showed that on the basis of certain efficiency criteria, it is possible to make important deductions concerning optimum price systems.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TjallingKoopmans1967.jpg/330px-TjallingKoopmans1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tjalling_Koopmans",
+  "dateOfBirth": "1910-08-28",
+  "birthDateParsed": "1910-08-28",
+  "dateOfDeath": "1985-02-26",
+  "deathDateParsed": "1985-02-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.2442",
+  "birthCoordinatesLng": "5.1211",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "mathematician",
+    "physicist"
+  ],
+  "qid": "Q110968",
+  "birthPlace": "'s-Graveland",
+  "fetchedAt": "2026-08-10T09:44:30.166Z"
+}

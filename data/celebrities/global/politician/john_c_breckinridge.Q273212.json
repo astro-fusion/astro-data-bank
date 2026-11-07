@@ -1,0 +1,35 @@
+{
+  "publicId": "9d58addf",
+  "wikipediaSlug": "John_C._Breckinridge",
+  "wikipediaId": "Q273212",
+  "name": "John C. Breckinridge",
+  "fullName": "John C. Breckinridge",
+  "profileSummary": "John Cabell Breckinridge was an American politician who served as the 14th vice president of the United States, with President James Buchanan, from 1857 to 1861, and as a general in the Confederate Army during the American Civil War. Assuming office at the age of 36, Breckinridge is the youngest vice president in U.S. history. He was also the Southern Democratic candidate in the 1860 presidential election, losing to Republican candidate Abraham Lincoln.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/John_C._Breckinridge_1860_portrait_%283x4_cropped%29.jpg/330px-John_C._Breckinridge_1860_portrait_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_C._Breckinridge",
+  "dateOfBirth": "1821-01-16",
+  "birthDateParsed": "1821-01-16",
+  "dateOfDeath": "1875-05-17",
+  "deathDateParsed": "1875-05-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.049722222",
+  "birthCoordinatesLng": "-84.458611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "university teacher",
+    "military personnel",
+    "military officer"
+  ],
+  "qid": "Q273212",
+  "birthPlace": "Lexington",
+  "fetchedAt": "2026-08-01T18:08:04.786Z"
+}

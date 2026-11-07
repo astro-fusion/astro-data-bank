@@ -1,0 +1,36 @@
+{
+  "publicId": "471b7188",
+  "wikipediaSlug": "Ron_Rivest",
+  "wikipediaId": "Q578036",
+  "name": "Ron Rivest",
+  "fullName": "Ron Rivest",
+  "profileSummary": "Ronald Linn Rivest is an American cryptographer and computer scientist whose work has spanned the fields of algorithms and combinatorics, cryptography, machine learning, and election integrity.\nHe is an Institute Professor at the Massachusetts Institute of Technology (MIT),\nand a member of MIT's Department of Electrical Engineering and Computer Science and its Computer Science and Artificial Intelligence Laboratory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ronald_L_Rivest_photo.jpg/330px-Ronald_L_Rivest_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ron_Rivest",
+  "dateOfBirth": "1947-05-06",
+  "birthDateParsed": "1947-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.804166666",
+  "birthCoordinatesLng": "-73.929166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "cryptologist",
+    "computer scientist",
+    "university teacher",
+    "information professional",
+    "scientist"
+  ],
+  "qid": "Q578036",
+  "birthPlace": "Schenectady",
+  "fetchedAt": "2026-08-10T04:29:41.718Z"
+}

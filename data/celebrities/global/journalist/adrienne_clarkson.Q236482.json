@@ -1,0 +1,37 @@
+{
+  "publicId": "ffa5a8db",
+  "wikipediaSlug": "Adrienne_Clarkson",
+  "wikipediaId": "Q236482",
+  "name": "Adrienne Clarkson",
+  "fullName": "Adrienne Clarkson",
+  "profileSummary": "Adrienne Louise Clarkson is a Canadian journalist and stateswoman who served as the 26th governor general of Canada from 1999 to 2005.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/GG-Adrienne_Clarkson2.jpg/330px-GG-Adrienne_Clarkson2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrienne_Clarkson",
+  "dateOfBirth": "1939-02-10",
+  "birthDateParsed": "1939-02-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "novelist",
+    "autobiographer",
+    "musicologist",
+    "writer",
+    "politician",
+    "film director"
+  ],
+  "qid": "Q236482",
+  "birthPlace": "British Hong Kong",
+  "fetchedAt": "2026-08-04T00:54:44.724Z"
+}

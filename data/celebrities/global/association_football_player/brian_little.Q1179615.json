@@ -1,0 +1,32 @@
+{
+  "publicId": "941d119f",
+  "wikipediaSlug": "Brian_Little",
+  "wikipediaId": "Q1179615",
+  "name": "Brian Little",
+  "fullName": "Brian Little",
+  "profileSummary": "Brian Little is an English football manager and former player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Little%2C_Brian.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Little",
+  "dateOfBirth": "1953-11-25",
+  "birthDateParsed": "1953-11-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.977777777",
+  "birthCoordinatesLng": "-1.613333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1179615",
+  "birthPlace": "Newcastle upon Tyne",
+  "fetchedAt": "2026-08-01T05:20:50.582Z"
+}

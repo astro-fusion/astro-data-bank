@@ -1,0 +1,32 @@
+{
+  "publicId": "074f3c7d",
+  "wikipediaSlug": "Albert_Costa",
+  "wikipediaId": "Q317828",
+  "name": "Albert Costa",
+  "fullName": "Albert Costa",
+  "profileSummary": "Albert Costa Casals is a Spanish former professional tennis player. He is best remembered for winning the men's singles title at the French Open in 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Albert_Costa_2_%28cropped%29.jpg/330px-Albert_Costa_2_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Costa",
+  "dateOfBirth": "1975-06-25",
+  "birthDateParsed": "1975-06-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.616666666",
+  "birthCoordinatesLng": "0.633333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach"
+  ],
+  "qid": "Q317828",
+  "birthPlace": "Lleida",
+  "fetchedAt": "2026-08-01T13:10:38.268Z"
+}

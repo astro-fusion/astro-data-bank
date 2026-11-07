@@ -1,0 +1,32 @@
+{
+  "publicId": "ef409523",
+  "wikipediaSlug": "Dara_Torres",
+  "wikipediaId": "Q229926",
+  "name": "Dara Torres",
+  "fullName": "Dara Torres",
+  "profileSummary": "Dara Grace Torres is an American former competitive swimmer, coach, and author who is a 12-time Olympic medalist and former world record-holder in three events. Torres is the first swimmer to represent the United States in five Olympic Games, and at age 41, the oldest swimmer to earn a place on the U.S. Olympic team. At the 2008 Summer Olympics, she competed in the 50-meter freestyle, 4×100-meter medley relay, and 4×100-meter freestyle relay, and won silver medals in all three events.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dara_Torres_2crop.jpg/330px-Dara_Torres_2crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dara_Torres",
+  "dateOfBirth": "1967-04-15",
+  "birthDateParsed": "1967-04-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.073055555",
+  "birthCoordinatesLng": "-118.399444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer",
+    "model"
+  ],
+  "qid": "Q229926",
+  "birthPlace": "Beverly Hills",
+  "fetchedAt": "2026-08-10T12:59:18.849Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "57365a53",
+  "wikipediaSlug": "Cao_Yuan",
+  "wikipediaId": "Q703812",
+  "name": "Cao Yuan",
+  "fullName": "Cao Yuan",
+  "profileSummary": "Cao Yuan is a Chinese diver and an Olympic gold medalist, having won four golds, one silver and one bronze in the Olympics. He has also won golds in diving at the World Championships and World Cups. Cao is considered the best male diver of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cao_Yuan_at_the_Rio_Olympics.jpg/330px-Cao_Yuan_at_the_Rio_Olympics.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cao_Yuan",
+  "dateOfBirth": "1995-02-07",
+  "birthDateParsed": "1995-02-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "competitive diver",
+    "swimmer"
+  ],
+  "qid": "Q703812",
+  "birthPlace": "Beijing",
+  "fetchedAt": "2026-08-10T12:58:55.455Z"
+}

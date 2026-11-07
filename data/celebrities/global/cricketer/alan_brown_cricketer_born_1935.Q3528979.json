@@ -1,0 +1,32 @@
+{
+  "publicId": "7aef4cc4",
+  "wikipediaSlug": "Alan_Brown_(cricketer,_born_1935)",
+  "wikipediaId": "Q3528979",
+  "name": "Alan Brown (cricketer, born 1935)",
+  "fullName": "Alan Brown (cricketer, born 1935)",
+  "profileSummary": "Alan Brown is an English former professional cricketer who played in two Test matches against Pakistan and India in 1961. He also played County cricket for Kent County Cricket Club between 1957 and 1970. He was born in Rainworth in Nottinghamshire.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Brown_(cricketer%2C_born_1935)",
+  "dateOfBirth": "1935-10-17",
+  "birthDateParsed": "1935-10-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.1197",
+  "birthCoordinatesLng": "-1.1235",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "association football player"
+  ],
+  "qid": "Q3528979",
+  "birthPlace": "Rainworth",
+  "fetchedAt": "2026-07-31T20:08:15.214Z"
+}

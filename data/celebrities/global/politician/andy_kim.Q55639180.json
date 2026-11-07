@@ -1,0 +1,32 @@
+{
+  "publicId": "4cadf77b",
+  "wikipediaSlug": "Andy_Kim",
+  "wikipediaId": "Q55639180",
+  "name": "Andy Kim",
+  "fullName": "Andy Kim",
+  "profileSummary": "Andrew Kim is an American politician and former diplomat serving as the junior United States senator from New Jersey since 2024. A progressive Democrat, Kim served from 2019 to 2024 as the U.S. representative from New Jersey's 3rd congressional district.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sen_Andy_Kim_118th_Congress.jpg/330px-Sen_Andy_Kim_118th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Kim",
+  "dateOfBirth": "1982-07-12",
+  "birthDateParsed": "1982-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat"
+  ],
+  "qid": "Q55639180",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-02T02:15:49.388Z"
+}

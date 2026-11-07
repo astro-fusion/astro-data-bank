@@ -1,0 +1,33 @@
+{
+  "publicId": "a0502c6d",
+  "wikipediaSlug": "Brigitte_Haas",
+  "wikipediaId": "Q129676165",
+  "name": "Brigitte Haas",
+  "fullName": "Brigitte Haas",
+  "profileSummary": "Brigitte Haas is a Liechtensteiner lawyer and politician who has served as the prime minister of Liechtenstein since 2025. She is the first woman to hold the office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Brigitte_Haas_2025_%28cropped%29.jpg/330px-Brigitte_Haas_2025_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigitte_Haas",
+  "dateOfBirth": "1964-12-27",
+  "birthDateParsed": "1964-12-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.140555555",
+  "birthCoordinatesLng": "9.522222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q129676165",
+  "birthPlace": "Vaduz",
+  "fetchedAt": "2026-08-04T00:55:31.503Z"
+}

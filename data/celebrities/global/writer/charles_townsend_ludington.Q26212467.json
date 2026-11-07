@@ -1,0 +1,31 @@
+{
+  "publicId": "5f5a8d61",
+  "wikipediaSlug": "Charles_Townsend_Ludington",
+  "wikipediaId": "Q26212467",
+  "name": "Charles Townsend Ludington",
+  "fullName": "Charles Townsend Ludington",
+  "profileSummary": "Charles Townsend Ludington, was a businessman of Philadelphia. He was an aviation pioneer who helped establish an every-hour-on-the-hour air service between New York and Washington.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Charles_Townsend_Ludington.jpg/330px-Charles_Townsend_Ludington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Townsend_Ludington",
+  "dateOfBirth": "1896-01-16",
+  "birthDateParsed": "1896-01-16",
+  "dateOfDeath": "1968-01-19",
+  "deathDateParsed": "1968-01-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer"
+  ],
+  "qid": "Q26212467",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-05T03:16:53.307Z"
+}

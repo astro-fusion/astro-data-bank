@@ -1,0 +1,32 @@
+{
+  "publicId": "d9dd59e1",
+  "wikipediaSlug": "Andy_Roddick",
+  "wikipediaId": "Q54584",
+  "name": "Andy Roddick",
+  "fullName": "Andy Roddick",
+  "profileSummary": "Andrew Stephen Roddick is an American former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 13 weeks, including as the year-end No. 1 in 2003. Roddick won 32 ATP Tour-level singles titles, including a major at the 2003 US Open and five Masters events, and led the United States to the 2007 Davis Cup title. He was the runner-up at four other majors, losing to rival Roger Federer each time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Roddick_2012_%28cropped%29.jpg/330px-Roddick_2012_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Roddick",
+  "dateOfBirth": "1982-08-30",
+  "birthDateParsed": "1982-08-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.258611111",
+  "birthCoordinatesLng": "-95.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "actor"
+  ],
+  "qid": "Q54584",
+  "birthPlace": "Omaha",
+  "fetchedAt": "2026-08-01T13:10:41.344Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "563b5d39",
+  "wikipediaSlug": "Queen_Victoria",
+  "wikipediaId": "Q9439",
+  "name": "Queen Victoria",
+  "fullName": "Queen Victoria",
+  "profileSummary": "Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, constituted the Victorian era, a period of industrial, political, scientific, and military change within the United Kingdom marked by a great expansion of the British Empire. In 1876, the British parliament voted to grant her the additional title of Empress of India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/330px-Queen_Victoria_by_Bassano.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Queen_Victoria",
+  "dateOfBirth": "1819-05-24",
+  "birthDateParsed": "1819-05-24",
+  "dateOfDeath": "1901-01-22",
+  "deathDateParsed": "1901-01-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.505277777",
+  "birthCoordinatesLng": "-0.188333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "painter",
+    "writer",
+    "diarist"
+  ],
+  "qid": "Q9439",
+  "birthPlace": "Kensington Palace",
+  "fetchedAt": "2026-08-03T12:58:50.743Z"
+}

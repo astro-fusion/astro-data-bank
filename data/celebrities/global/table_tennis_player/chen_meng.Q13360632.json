@@ -1,0 +1,31 @@
+{
+  "publicId": "95cb0e9a",
+  "wikipediaSlug": "Chen_Meng",
+  "wikipediaId": "Q13360632",
+  "name": "Chen Meng",
+  "fullName": "Chen Meng",
+  "profileSummary": "Chen Meng is a Chinese professional table tennis player and Olympic champion. She joined the provincial team when she was 9 and joined the national team when she was only 13 in 2007. She is the women's singles champion of the ITTF Women's World Cup in 2020, the ITTF World Tour Grand Finals in 2017, 2018, 2019 and 2020 and also at the inaugural WTT Singapore Smash. She is also the silver medalist of women's singles in the 2019 World Table Tennis Championships and a double gold medalist in the 2020 Summer Olympics. She obtained her second gold medal in the 2024 Summer Olympics in Paris.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chen_Meng.png/330px-Chen_Meng.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Meng",
+  "dateOfBirth": "1994-01-15",
+  "birthDateParsed": "1994-01-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.116666666",
+  "birthCoordinatesLng": "120.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "table tennis player"
+  ],
+  "qid": "Q13360632",
+  "birthPlace": "Qingdao",
+  "fetchedAt": "2026-08-10T12:59:46.930Z"
+}

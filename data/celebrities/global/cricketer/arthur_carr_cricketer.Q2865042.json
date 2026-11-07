@@ -1,0 +1,31 @@
+{
+  "publicId": "ab2317a6",
+  "wikipediaSlug": "Arthur_Carr_(cricketer)",
+  "wikipediaId": "Q2865042",
+  "name": "Arthur Carr (cricketer)",
+  "fullName": "Arthur Carr (cricketer)",
+  "profileSummary": "Arthur William Carr was an English cricketer. He played for the Nottinghamshire County Cricket Club and the English cricket team, captaining both sides.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arthur_Carr_c1925.jpg/330px-Arthur_Carr_c1925.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Carr_(cricketer)",
+  "dateOfBirth": "1893-05-21",
+  "birthDateParsed": "1893-05-21",
+  "dateOfDeath": "1962-02-07",
+  "deathDateParsed": "1962-02-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.268",
+  "birthCoordinatesLng": "-0.321",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2865042",
+  "birthPlace": "Mickleham",
+  "fetchedAt": "2026-07-31T20:08:56.286Z"
+}

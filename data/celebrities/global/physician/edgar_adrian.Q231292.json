@@ -1,0 +1,36 @@
+{
+  "publicId": "fb04c326",
+  "wikipediaSlug": "Edgar_Adrian",
+  "wikipediaId": "Q231292",
+  "name": "Edgar Adrian",
+  "fullName": "Edgar Adrian",
+  "profileSummary": "Edgar Douglas Adrian, 1st Baron Adrian was an English electrophysiologist and recipient of the 1932 Nobel Prize for Physiology, won jointly with Sir Charles Sherrington for work on the function of neurons. He provided experimental evidence for the all-or-none law of nerves.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Edgar_Douglas_Adrian_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgar_Adrian",
+  "dateOfBirth": "1889-11-30",
+  "birthDateParsed": "1889-11-30",
+  "dateOfDeath": "1977-08-04",
+  "deathDateParsed": "1977-08-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5541",
+  "birthCoordinatesLng": "-0.1744",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "politician",
+    "neuroscientist",
+    "university teacher",
+    "physiologist",
+    "anatomist"
+  ],
+  "qid": "Q231292",
+  "birthPlace": "Hampstead",
+  "fetchedAt": "2026-08-10T03:14:38.478Z"
+}

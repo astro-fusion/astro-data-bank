@@ -1,0 +1,33 @@
+{
+  "publicId": "baeee44c",
+  "wikipediaSlug": "Amos_Eiran",
+  "wikipediaId": "Q6788323",
+  "name": "Amos Eiran",
+  "fullName": "Amos Eiran",
+  "profileSummary": "Amos Eiran is a former president of the University of Haifa in Israel.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%D7%A2%D7%9E%D7%95%D7%A1_%D7%A2%D7%A8%D7%9F.jpg/330px-%D7%A2%D7%9E%D7%95%D7%A1_%D7%A2%D7%A8%D7%9F.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amos_Eiran",
+  "dateOfBirth": "1936-09-15",
+  "birthDateParsed": "1936-09-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.95",
+  "birthCoordinatesLng": "34.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "manager",
+    "chief executive officer",
+    "diplomat"
+  ],
+  "qid": "Q6788323",
+  "birthPlace": "Rishon LeZion",
+  "fetchedAt": "2026-08-05T02:43:28.245Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "271ea61c",
+  "wikipediaSlug": "Andrey_Fedyaev",
+  "wikipediaId": "Q85867505",
+  "name": "Andrey Fedyaev",
+  "fullName": "Andrey Fedyaev",
+  "profileSummary": "Andrey Valerievich Fedyaev is a Russian cosmonaut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Andrey_Fedyayev_2024.jpg/330px-Andrey_Fedyayev_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrey_Fedyaev",
+  "dateOfBirth": "1981-02-26",
+  "birthDateParsed": "1981-02-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.6",
+  "birthCoordinatesLng": "60.566666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q85867505",
+  "birthPlace": "Serov",
+  "fetchedAt": "2026-08-10T06:03:25.433Z"
+}

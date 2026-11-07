@@ -1,0 +1,33 @@
+{
+  "publicId": "e9fbd1ab",
+  "wikipediaSlug": "Demian_Maia",
+  "wikipediaId": "Q2408759",
+  "name": "Demian Maia",
+  "fullName": "Demian Maia",
+  "profileSummary": "Demian Augusto Maia Baptista is a Brazilian professional mixed martial artist, submission grappler and 5th degree Brazilian jiu-jitsu (BJJ) black belt.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Demian_Maia.jpg/330px-Demian_Maia.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Demian_Maia",
+  "dateOfBirth": "1977-11-06",
+  "birthDateParsed": "1977-11-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judoka",
+    "karateka",
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q2408759",
+  "birthPlace": "São Paulo",
+  "fetchedAt": "2026-08-01T17:04:59.059Z"
+}

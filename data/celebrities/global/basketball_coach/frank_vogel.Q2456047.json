@@ -1,0 +1,32 @@
+{
+  "publicId": "6b1dc001",
+  "wikipediaSlug": "Frank_Vogel",
+  "wikipediaId": "Q2456047",
+  "name": "Frank Vogel",
+  "fullName": "Frank Vogel",
+  "profileSummary": "Frank Paul Vogel is an American professional basketball coach who is currently the associate head coach for the Golden State Warriors of the National Basketball Association (NBA). He previously served as the head coach for the Orlando Magic, Indiana Pacers, Los Angeles Lakers, and Phoenix Suns. He led the Lakers to an NBA championship in 2020. Vogel began his career as an assistant coach for the Pacers, Philadelphia 76ers, and Boston Celtics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Frank_Vogel_NBA_TV_%28cropped%29.jpeg/330px-Frank_Vogel_NBA_TV_%28cropped%29.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Vogel",
+  "dateOfBirth": "1973-06-21",
+  "birthDateParsed": "1973-06-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.988888888",
+  "birthCoordinatesLng": "-74.82",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q2456047",
+  "birthPlace": "Wildwood",
+  "fetchedAt": "2026-08-01T15:37:31.839Z"
+}

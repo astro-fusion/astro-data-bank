@@ -1,0 +1,32 @@
+{
+  "publicId": "b55369af",
+  "wikipediaSlug": "Dick_Motz",
+  "wikipediaId": "Q5273218",
+  "name": "Dick Motz",
+  "fullName": "Dick Motz",
+  "profileSummary": "Richard Charles Motz was a New Zealand cricketer. A right-arm fast bowler and hard-hitting lower order batsman, Motz played 32 Test matches for the New Zealand national cricket team between 1961 and 1969. He was the first bowler for New Zealand to take 100 wickets in Test cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dick_Motz%2C_1961.jpg/330px-Dick_Motz%2C_1961.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick_Motz",
+  "dateOfBirth": "1940-01-12",
+  "birthDateParsed": "1940-01-12",
+  "dateOfDeath": "2007-04-29",
+  "deathDateParsed": "2007-04-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "rugby union player"
+  ],
+  "qid": "Q5273218",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-07-31T21:02:49.957Z"
+}

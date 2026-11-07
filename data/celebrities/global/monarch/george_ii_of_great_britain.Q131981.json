@@ -1,0 +1,32 @@
+{
+  "publicId": "f483591f",
+  "wikipediaSlug": "George_II_of_Great_Britain",
+  "wikipediaId": "Q131981",
+  "name": "George II of Great Britain",
+  "fullName": "George II of Great Britain",
+  "profileSummary": "George II was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/George_II_by_Thomas_Hudson.jpg/330px-George_II_by_Thomas_Hudson.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_II_of_Great_Britain",
+  "dateOfBirth": "1683-11-10",
+  "birthDateParsed": "1683-11-10",
+  "dateOfDeath": "1760-10-25",
+  "deathDateParsed": "1760-10-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.374444444",
+  "birthCoordinatesLng": "9.738611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "aristocrat"
+  ],
+  "qid": "Q131981",
+  "birthPlace": "Hanover",
+  "fetchedAt": "2026-08-02T05:21:55.894Z"
+}

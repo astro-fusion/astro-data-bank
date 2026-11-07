@@ -1,0 +1,35 @@
+{
+  "publicId": "c3a4daeb",
+  "wikipediaSlug": "H._H._Asquith",
+  "wikipediaId": "Q166714",
+  "name": "H. H. Asquith",
+  "fullName": "H. H. Asquith",
+  "profileSummary": "Herbert Henry Asquith, 1st Earl of Oxford and Asquith, was a British statesman who was Prime Minister of the United Kingdom from 1908 to 1916. He was the last prime minister from the Liberal Party to command a majority government, and the most recent Liberal to have served as Leader of the Opposition.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Herbert_Henry_Asquith.jpg/330px-Herbert_Henry_Asquith.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/H._H._Asquith",
+  "dateOfBirth": "1852-09-12",
+  "birthDateParsed": "1852-09-12",
+  "dateOfDeath": "1928-02-15",
+  "deathDateParsed": "1928-02-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.749166666",
+  "birthCoordinatesLng": "-1.602263888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "barrister",
+    "head of government",
+    "lawyer"
+  ],
+  "qid": "Q166714",
+  "birthPlace": "Morley",
+  "fetchedAt": "2026-08-02T05:22:08.873Z"
+}

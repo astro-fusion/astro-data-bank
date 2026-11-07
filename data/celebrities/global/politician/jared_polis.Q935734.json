@@ -1,0 +1,33 @@
+{
+  "publicId": "06cf5f84",
+  "wikipediaSlug": "Jared_Polis",
+  "wikipediaId": "Q935734",
+  "name": "Jared Polis",
+  "fullName": "Jared Polis",
+  "profileSummary": "Jared Schutz Polis is an American politician, entrepreneur, businessman, and philanthropist serving since 2019 as the 43rd governor of Colorado. From 2009 to 2019, he served in the U.S. House of Representatives, representing Colorado's 2nd congressional district. From 2001 to 2007 he served on the Colorado State Board of Education. He is a member of the Democratic Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jared_Polis_in_2026.jpg/330px-Jared_Polis_in_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jared_Polis",
+  "dateOfBirth": "1975-05-12",
+  "birthDateParsed": "1975-05-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.0262",
+  "birthCoordinatesLng": "-105.2837",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson",
+    "entrepreneur"
+  ],
+  "qid": "Q935734",
+  "birthPlace": "Boulder Community Hospital",
+  "fetchedAt": "2026-08-02T03:28:25.283Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "7114119e",
+  "wikipediaSlug": "Andrés_Iniesta",
+  "wikipediaId": "Q43729",
+  "name": "Andrés Iniesta",
+  "fullName": "Andrés Iniesta",
+  "profileSummary": "Andrés Iniesta Luján is a Spanish football coach and former professional footballer who is the manager of UAE First Division League club Gulf United. He played as a midfielder and spent most of his career at La Liga club Barcelona. Widely regarded as one of the greatest midfielders of all time, he was lauded for his balance, ball control and agility in close spaces, combined with his skill, composure, and flair on the ball.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg/330px-Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta",
+  "dateOfBirth": "1984-05-11",
+  "birthDateParsed": "1984-05-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.26773579",
+  "birthCoordinatesLng": "-1.54879364",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q43729",
+  "birthPlace": "Fuentealbilla",
+  "fetchedAt": "2026-08-10T11:27:18.814Z"
+}

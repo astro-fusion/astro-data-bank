@@ -1,0 +1,34 @@
+{
+  "publicId": "ab12806a",
+  "wikipediaSlug": "Douglass_North",
+  "wikipediaId": "Q243193",
+  "name": "Douglass North",
+  "fullName": "Douglass North",
+  "profileSummary": "Douglass Cecil North was an American economist known for his work in economic history. Along with Robert Fogel, he received the Nobel Memorial Prize in Economic Sciences in 1993. In the words of the Nobel Committee, North and Fogel \"renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Douglass_North.jpg/330px-Douglass_North.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Douglass_North",
+  "dateOfBirth": "1920-11-05",
+  "birthDateParsed": "1920-11-05",
+  "dateOfDeath": "2015-11-23",
+  "deathDateParsed": "2015-11-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.375",
+  "birthCoordinatesLng": "-71.106111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "economic historian",
+    "historian",
+    "university teacher"
+  ],
+  "qid": "Q243193",
+  "birthPlace": "Cambridge",
+  "fetchedAt": "2026-08-10T09:42:59.774Z"
+}

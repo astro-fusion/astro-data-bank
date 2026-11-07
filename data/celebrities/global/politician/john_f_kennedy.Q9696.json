@@ -1,0 +1,36 @@
+{
+  "publicId": "a2bb68ba",
+  "wikipediaSlug": "John_F._Kennedy",
+  "wikipediaId": "Q9696",
+  "name": "John F. Kennedy",
+  "fullName": "John F. Kennedy",
+  "profileSummary": "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president, at 43 years, and the first Catholic president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A member of the Democratic Party, Kennedy represented Massachusetts in both houses of the United States Congress before his presidency.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+  "dateOfBirth": "1917-05-29",
+  "birthDateParsed": "1917-05-29",
+  "dateOfDeath": "1963-11-22",
+  "deathDateParsed": "1963-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.331666666",
+  "birthCoordinatesLng": "-71.121666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "journalist",
+    "statesperson",
+    "writer",
+    "naval officer",
+    "anti-communist"
+  ],
+  "qid": "Q9696",
+  "birthPlace": "Brookline",
+  "fetchedAt": "2026-08-01T18:08:04.222Z"
+}

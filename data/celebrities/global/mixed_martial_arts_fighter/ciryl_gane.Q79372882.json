@@ -1,0 +1,31 @@
+{
+  "publicId": "60e42124",
+  "wikipediaSlug": "Ciryl_Gane",
+  "wikipediaId": "Q79372882",
+  "name": "Ciryl Gane",
+  "fullName": "Ciryl Gane",
+  "profileSummary": "Ciryl Romain Jacky Gane is a French professional mixed martial artist, actor, and former Muay Thai fighter. He currently competes in the Heavyweight division of the Ultimate Fighting Championship (UFC), where he is the current and two-time Interim UFC Heavyweight Champion. A professional since 2014, Gane has also formerly competed for TKO Major League MMA where he was the Heavyweight Champion. As of June 23, 2026, he is #10 in the UFC men's pound-for-pound rankings.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/UFC_Freedom_250%2C_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship%2C_Sunday%2C_June_14%2C_2026%2C_in_the_Grand_Foyer_of_the_White_House_-_64%28cropped%29.jpg/330px-thumbnail.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ciryl_Gane",
+  "dateOfBirth": "1990-04-12",
+  "birthDateParsed": "1990-04-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.669722222",
+  "birthCoordinatesLng": "-1.427777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q79372882",
+  "birthPlace": "La Roche-sur-Yon",
+  "fetchedAt": "2026-08-01T17:05:23.110Z"
+}

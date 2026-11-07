@@ -1,0 +1,31 @@
+{
+  "publicId": "9e2a396b",
+  "wikipediaSlug": "William_Morrison,_1st_Viscount_Dunrossil",
+  "wikipediaId": "Q335323",
+  "name": "William Morrison, 1st Viscount Dunrossil",
+  "fullName": "William Morrison, 1st Viscount Dunrossil",
+  "profileSummary": "William Shepherd Morrison, 1st Viscount Dunrossil, was a British politician. He was a long-serving cabinet minister before serving as Speaker of the House of Commons from 1951 to 1959. He was then appointed as the 14th governor-general of Australia, in office from 1960 until his death in 1961.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lord_Dunrossil.jpg/330px-Lord_Dunrossil.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Morrison%2C_1st_Viscount_Dunrossil",
+  "dateOfBirth": "1893-08-10",
+  "birthDateParsed": "1893-08-10",
+  "dateOfDeath": "1961-02-03",
+  "deathDateParsed": "1961-02-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.409722222",
+  "birthCoordinatesLng": "-5.4725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q335323",
+  "birthPlace": "Oban",
+  "fetchedAt": "2026-08-03T12:59:01.204Z"
+}

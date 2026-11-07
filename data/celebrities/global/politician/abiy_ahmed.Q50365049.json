@@ -1,0 +1,33 @@
+{
+  "publicId": "0bffdb32",
+  "wikipediaSlug": "Abiy_Ahmed",
+  "wikipediaId": "Q50365049",
+  "name": "Abiy Ahmed",
+  "fullName": "Abiy Ahmed",
+  "profileSummary": "Abiy Ahmed Ali is an Ethiopian politician who is the current Prime Minister of Ethiopia since 2018 and the leader of the Prosperity Party since 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_%28cropped%29.jpg/330px-Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abiy_Ahmed",
+  "dateOfBirth": "1976-08-15",
+  "birthDateParsed": "1976-08-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "7.7954849",
+  "birthCoordinatesLng": "36.4774418",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "minister"
+  ],
+  "qid": "Q50365049",
+  "birthPlace": "Beshasha",
+  "fetchedAt": "2026-08-04T02:12:34.286Z"
+}

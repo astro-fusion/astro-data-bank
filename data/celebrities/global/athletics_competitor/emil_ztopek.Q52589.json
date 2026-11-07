@@ -1,0 +1,36 @@
+{
+  "publicId": "9496b261",
+  "wikipediaSlug": "Emil_Zátopek",
+  "wikipediaId": "Q52589",
+  "name": "Emil Zátopek",
+  "fullName": "Emil Zátopek",
+  "profileSummary": "Emil Zátopek was a Czech long-distance runner who won three gold medals at the 1952 Summer Olympics in Helsinki. He came first in the 5,000 metres and 10,000 metres runs before he decided at the last minute to compete in the first marathon of his life, which he also won. Zátopek was nicknamed the \"Czech Locomotive\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Fotothek_df_roe-neg_0006305_003_Emil_Z%C3%A1topek-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Z%C3%A1topek",
+  "dateOfBirth": "1922-09-19",
+  "birthDateParsed": "1922-09-19",
+  "dateOfDeath": "2000-11-22",
+  "deathDateParsed": "2000-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.599461028",
+  "birthCoordinatesLng": "18.144833283",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "athletics competitor",
+    "career soldier",
+    "runner",
+    "Olympic competitor",
+    "military officer",
+    "athlete"
+  ],
+  "qid": "Q52589",
+  "birthPlace": "Kopřivnice",
+  "fetchedAt": "2026-08-10T12:59:55.541Z"
+}

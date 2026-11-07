@@ -1,0 +1,33 @@
+{
+  "publicId": "193213a8",
+  "wikipediaSlug": "Satya_Nandan",
+  "wikipediaId": "Q539456",
+  "name": "Satya Nandan",
+  "fullName": "Satya Nandan",
+  "profileSummary": "\nSatya N. Nandan, CF, CBE, was a diplomat and lawyer from Fiji specializing in ocean affairs, was Chairman of the Western and Central Pacific Fisheries Commission, where he served a two-year term commencing 1 January 2009.\nPreviously, he was the first Secretary-General of the International Seabed Authority, a position he held for three consecutive four-year terms from March 1996 until December 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Satya_Nandan_1977_%28cropped%29.jpg/330px-Satya_Nandan_1977_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Satya_Nandan",
+  "dateOfBirth": "1936-07-10",
+  "birthDateParsed": "1936-07-10",
+  "dateOfDeath": "2020-02-25",
+  "deathDateParsed": "2020-02-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-18.133333333",
+  "birthCoordinatesLng": "178.433333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q539456",
+  "birthPlace": "Suva",
+  "fetchedAt": "2026-08-07T04:27:24.159Z"
+}

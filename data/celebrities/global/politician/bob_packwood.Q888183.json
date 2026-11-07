@@ -1,0 +1,33 @@
+{
+  "publicId": "246bf21f",
+  "wikipediaSlug": "Bob_Packwood",
+  "wikipediaId": "Q888183",
+  "name": "Bob Packwood",
+  "fullName": "Bob Packwood",
+  "profileSummary": "Robert William Packwood was an American lawyer and politician from Oregon who served as a member of the Oregon House of Representatives representing the 6th district from 1963 to 1969 and as a member of the United States Senate from 1969 to 1995. He resigned from the U.S. Senate under threat of expulsion in 1995 after allegations of sexual harassment, sexual abuse, and assault of women emerged. He was a member of the Republican Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/RWPackwood.jpg/330px-RWPackwood.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Packwood",
+  "dateOfBirth": "1932-09-11",
+  "birthDateParsed": "1932-09-11",
+  "dateOfDeath": "2026-06-06",
+  "deathDateParsed": "2026-06-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.515",
+  "birthCoordinatesLng": "-122.679166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "member"
+  ],
+  "qid": "Q888183",
+  "birthPlace": "Portland",
+  "fetchedAt": "2026-08-02T02:15:50.923Z"
+}

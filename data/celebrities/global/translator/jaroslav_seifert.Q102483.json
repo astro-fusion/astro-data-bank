@@ -1,0 +1,38 @@
+{
+  "publicId": "16741a40",
+  "wikipediaSlug": "Jaroslav_Seifert",
+  "wikipediaId": "Q102483",
+  "name": "Jaroslav Seifert",
+  "fullName": "Jaroslav Seifert",
+  "profileSummary": "Jaroslav Seifert was a Czech writer, poet and journalist. Seifert was awarded the 1984 Nobel Prize in Literature \"for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jaroslav_Seifert_1981_foto_Hana_Hamplov%C3%A1.jpg/330px-Jaroslav_Seifert_1981_foto_Hana_Hamplov%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaroslav_Seifert",
+  "dateOfBirth": "1901-09-23",
+  "birthDateParsed": "1901-09-23",
+  "dateOfDeath": "1986-01-10",
+  "deathDateParsed": "1986-01-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0872",
+  "birthCoordinatesLng": "14.4628",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "translator",
+    "poet",
+    "essayist",
+    "writer",
+    "opinion journalist",
+    "editing staff",
+    "newspaper editor",
+    "journalist"
+  ],
+  "qid": "Q102483",
+  "birthPlace": "Žižkov",
+  "fetchedAt": "2026-08-06T07:41:36.525Z"
+}

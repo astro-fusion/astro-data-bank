@@ -1,0 +1,33 @@
+{
+  "publicId": "4d4e98f8",
+  "wikipediaSlug": "Gunde_Svan",
+  "wikipediaId": "Q357142",
+  "name": "Gunde Svan",
+  "fullName": "Gunde Svan",
+  "profileSummary": "Gunde Anders Svan is a Swedish former cross-country skier and auto racing driver. During his cross-country skiing career he won a total of four gold, one silver and one bronze medals at the Winter Olympics. Svan won a total of seven golds, three silvers, and one bronze at the FIS Nordic World Ski Championships. Svan also won the 15 km once (1983) and the 50 km twice at the Holmenkollen ski festival. In 1984, he earned the Svenska Dagbladet Gold Medal, and in 1985, he earned the Holmenkollen medal. Svan won the Jerring Award in both 1984 and 1985. He is a board member of the International Ski Federation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20190225_Seefeld_3347_Gunde_Svan.jpg/330px-20190225_Seefeld_3347_Gunde_Svan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gunde_Svan",
+  "dateOfBirth": "1962-01-12",
+  "birthDateParsed": "1962-01-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.510029201",
+  "birthCoordinatesLng": "14.227270202",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rallycross driver",
+    "cross-country skier",
+    "television presenter"
+  ],
+  "qid": "Q357142",
+  "birthPlace": "Vansbro",
+  "fetchedAt": "2026-08-10T13:00:19.345Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "9ceb659e",
+  "wikipediaSlug": "Dawn_Fraser",
+  "wikipediaId": "Q229040",
+  "name": "Dawn Fraser",
+  "fullName": "Dawn Fraser",
+  "profileSummary": "Dawn Fraser is an Australian freestyle champion swimmer, eight-time olympic medallist, a 15-year world record holder in the 100-metre freestyle, and former politician. Controversial, yet the winner of countless honours, she has enjoyed national prominence and sparked national pride in Australia. She is one of only four swimmers to have won the same Olympic individual event three times – in her case the women's 100-metre freestyle.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dawn_Fraser.jpg/330px-Dawn_Fraser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dawn_Fraser",
+  "dateOfBirth": "1937-09-04",
+  "birthDateParsed": "1937-09-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.848333333",
+  "birthCoordinatesLng": "151.1677778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer",
+    "autobiographer",
+    "politician",
+    "athlete"
+  ],
+  "qid": "Q229040",
+  "birthPlace": "Balmain",
+  "fetchedAt": "2026-08-10T12:59:06.696Z"
+}

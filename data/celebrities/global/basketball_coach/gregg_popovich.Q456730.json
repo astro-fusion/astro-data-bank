@@ -1,0 +1,32 @@
+{
+  "publicId": "583cd803",
+  "wikipediaSlug": "Gregg_Popovich",
+  "wikipediaId": "Q456730",
+  "name": "Gregg Popovich",
+  "fullName": "Gregg Popovich",
+  "profileSummary": "Gregg Charles Popovich is an American professional basketball executive and former coach who is the president for the San Antonio Spurs of the National Basketball Association (NBA). He was the head coach of the Spurs for 29 seasons from 1996 to 2025, during which he won five NBA championships, and was the longest-tenured active coach in the NBA as well as all other major sports leagues in the United States. He has been a member of the Spurs organization since 1994, originally as president of basketball operations and general manager, before taking over as coach in 1996. Nicknamed \"Coach Pop\", Popovich has the most wins of any coach in NBA history, and is widely regarded as one of the greatest coaches of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gregg_Popovich_speaks_at_the_White_House_2015-01-12_%28cropped%29.jpg/330px-Gregg_Popovich_speaks_at_the_White_House_2015-01-12_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gregg_Popovich",
+  "dateOfBirth": "1949-01-28",
+  "birthDateParsed": "1949-01-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.6389",
+  "birthCoordinatesLng": "-87.4622",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q456730",
+  "birthPlace": "East Chicago",
+  "fetchedAt": "2026-08-01T15:37:41.228Z"
+}

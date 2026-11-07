@@ -1,0 +1,34 @@
+{
+  "publicId": "61c16dbd",
+  "wikipediaSlug": "Henri_Moissan",
+  "wikipediaId": "Q102804",
+  "name": "Henri Moissan",
+  "fullName": "Henri Moissan",
+  "profileSummary": "Ferdinand Frédéric Henri Moissan was a French chemist and pharmacist who won the 1906 Nobel Prize in Chemistry for his work in isolating fluorine from its compounds. Among his other contributions, Moissan discovered moissanite and contributed to the development of the electric arc furnace. Moissan was one of the original members of the International Atomic Weights Committee.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Henri_Moissan.jpg/330px-Henri_Moissan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Moissan",
+  "dateOfBirth": "1852-09-28",
+  "birthDateParsed": "1852-09-28",
+  "dateOfDeath": "1907-02-20",
+  "deathDateParsed": "1907-02-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher",
+    "pharmacologist",
+    "pharmacist"
+  ],
+  "qid": "Q102804",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-10T02:04:29.221Z"
+}

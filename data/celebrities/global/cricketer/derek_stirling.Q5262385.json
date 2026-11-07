@@ -1,0 +1,31 @@
+{
+  "publicId": "37e43e52",
+  "wikipediaSlug": "Derek_Stirling",
+  "wikipediaId": "Q5262385",
+  "name": "Derek Stirling",
+  "fullName": "Derek Stirling",
+  "profileSummary": "Derek Alexander Stirling was a New Zealand cricketer who played in six Test matches and six One Day Internationals from 1984 to 1986.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Derek_Stirling",
+  "dateOfBirth": "1961-10-05",
+  "birthDateParsed": "1961-10-05",
+  "dateOfDeath": "2023-12-13",
+  "deathDateParsed": "2023-12-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.133333333",
+  "birthCoordinatesLng": "175.05",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5262385",
+  "birthPlace": "Upper Hutt",
+  "fetchedAt": "2026-07-31T21:02:57.781Z"
+}

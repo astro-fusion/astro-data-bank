@@ -1,0 +1,33 @@
+{
+  "publicId": "a1aa29be",
+  "wikipediaSlug": "Harold_Holt",
+  "wikipediaId": "Q312722",
+  "name": "Harold Holt",
+  "fullName": "Harold Holt",
+  "profileSummary": "Harold Edward Holt was an Australian politician who served as the 17th prime minister of Australia from 1966 until his disappearance and presumed death in 1967. He held office as leader of the Liberal Party of Australia and held various ministerial positions from 1949 to 1966 in the governments of Robert Menzies and Arthur Fadden.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Harold_Holt_SEATO.jpg/330px-Harold_Holt_SEATO.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harold_Holt",
+  "dateOfBirth": "1908-08-05",
+  "birthDateParsed": "1908-08-05",
+  "dateOfDeath": "1967-12-19",
+  "deathDateParsed": "1967-12-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.893611111",
+  "birthCoordinatesLng": "151.1652778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "head of government"
+  ],
+  "qid": "Q312722",
+  "birthPlace": "Stanmore",
+  "fetchedAt": "2026-08-03T12:58:22.324Z"
+}

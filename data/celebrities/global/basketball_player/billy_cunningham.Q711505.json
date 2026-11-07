@@ -1,0 +1,32 @@
+{
+  "publicId": "c0c5047c",
+  "wikipediaSlug": "Billy_Cunningham",
+  "wikipediaId": "Q711505",
+  "name": "Billy Cunningham",
+  "fullName": "Billy Cunningham",
+  "profileSummary": "William John Cunningham is an American former professional basketball player and coach, who was nicknamed the Kangaroo Kid for his leaping and record-setting rebounding abilities. He spent a total of 17 seasons with the NBA's Philadelphia 76ers, and two seasons as a player with the Carolina Cougars of the ABA.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Billy_Cunningham_65-72.JPG/330px-Billy_Cunningham_65-72.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Cunningham",
+  "dateOfBirth": "1943-06-03",
+  "birthDateParsed": "1943-06-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q711505",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-01T15:36:45.256Z"
+}

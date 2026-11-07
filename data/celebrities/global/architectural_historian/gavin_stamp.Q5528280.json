@@ -1,0 +1,33 @@
+{
+  "publicId": "c17c854f",
+  "wikipediaSlug": "Gavin_Stamp",
+  "wikipediaId": "Q5528280",
+  "name": "Gavin Stamp",
+  "fullName": "Gavin Stamp",
+  "profileSummary": "Gavin Mark Stamp was a British writer, television presenter and architectural historian.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gavin_Stamp",
+  "dateOfBirth": "1948-03-15",
+  "birthDateParsed": "1948-03-15",
+  "dateOfDeath": "2017-12-30",
+  "deathDateParsed": "2017-12-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.406444444",
+  "birthCoordinatesLng": "0.018305555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architectural historian",
+    "university teacher",
+    "television presenter"
+  ],
+  "qid": "Q5528280",
+  "birthPlace": "Bromley",
+  "fetchedAt": "2026-08-02T05:22:27.316Z"
+}

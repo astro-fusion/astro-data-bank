@@ -1,0 +1,38 @@
+{
+  "publicId": "ed5d6870",
+  "wikipediaSlug": "Czesław_Miłosz",
+  "wikipediaId": "Q45970",
+  "name": "Czesław Miłosz",
+  "fullName": "Czesław Miłosz",
+  "profileSummary": "Czesław Miłosz was a Polish-American poet, prose writer, translator, and diplomat. Regarded as one of the great poets of the 20th century, he won the 1980 Nobel Prize in Literature. In its citation, the Swedish Academy called Miłosz a writer who \"voices man's exposed condition in a world of severe conflicts\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Czeslaw_Milosz_3_ap.tif/lossy-page1-330px-Czeslaw_Milosz_3_ap.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Czes%C5%82aw_Mi%C5%82osz",
+  "dateOfBirth": "1911-11-30",
+  "birthDateParsed": "1911-11-30",
+  "dateOfDeath": "2004-08-14",
+  "deathDateParsed": "2004-08-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.394722222",
+  "birthCoordinatesLng": "24.032777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "diplomat",
+    "writer",
+    "essayist",
+    "translator",
+    "pedagogue",
+    "university teacher",
+    "literary historian"
+  ],
+  "qid": "Q45970",
+  "birthPlace": "Šeteniai",
+  "fetchedAt": "2026-08-06T07:41:13.081Z"
+}

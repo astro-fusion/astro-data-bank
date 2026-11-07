@@ -1,0 +1,33 @@
+{
+  "publicId": "a7d67cea",
+  "wikipediaSlug": "Juan_Ramón_Jiménez",
+  "wikipediaId": "Q131318",
+  "name": "Juan Ramón Jiménez",
+  "fullName": "Juan Ramón Jiménez",
+  "profileSummary": "Juan Ramón Jiménez Mantecón was a Spanish poet, a prolific writer who received the 1956 Nobel Prize in Literature \"for his lyrical poetry, which in the Spanish language constitutes an example of high spirit and artistic purity\". One of Jiménez's most important contributions to modern poetry was his advocacy of the concept of \"pure poetry\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JRJimenez.JPG/330px-JRJimenez.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez",
+  "dateOfBirth": "1881-12-24",
+  "birthDateParsed": "1881-12-24",
+  "dateOfDeath": "1958-05-29",
+  "deathDateParsed": "1958-05-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.274722222",
+  "birthCoordinatesLng": "-6.838611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "librettist"
+  ],
+  "qid": "Q131318",
+  "birthPlace": "Moguer",
+  "fetchedAt": "2026-08-06T07:42:10.504Z"
+}

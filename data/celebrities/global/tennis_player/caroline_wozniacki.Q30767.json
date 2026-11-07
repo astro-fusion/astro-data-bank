@@ -1,0 +1,31 @@
+{
+  "publicId": "0b5795fd",
+  "wikipediaSlug": "Caroline_Wozniacki",
+  "wikipediaId": "Q30767",
+  "name": "Caroline Wozniacki",
+  "fullName": "Caroline Wozniacki",
+  "profileSummary": "Caroline Wozniacki is a Danish former professional tennis player. She has been ranked as the world No. 1 in women's singles by the WTA, holding the position for a total of 71 weeks. Wozniacki has won 30 WTA Tour-level singles titles, including a major at the 2018 Australian Open as well as the 2017 WTA Finals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Caroline_Wozniacki_%2835449695422%29.jpg/330px-Caroline_Wozniacki_%2835449695422%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caroline_Wozniacki",
+  "dateOfBirth": "1990-07-11",
+  "birthDateParsed": "1990-07-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.4",
+  "birthCoordinatesLng": "10.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q30767",
+  "birthPlace": "Odense",
+  "fetchedAt": "2026-08-01T14:59:23.439Z"
+}

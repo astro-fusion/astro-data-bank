@@ -1,0 +1,31 @@
+{
+  "publicId": "768e4d54",
+  "wikipediaSlug": "Ali_Asadov",
+  "wikipediaId": "Q12850075",
+  "name": "Ali Asadov",
+  "fullName": "Ali Asadov",
+  "profileSummary": "Ali Hidayat oghlu Asadov is an Azerbaijani politician serving as the Prime Minister of Azerbaijan following his appointment to the post on 8 October 2019 by president Ilham Aliyev.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%D0%90%D0%BB%D0%B8_%D0%90%D1%81%D0%B0%D0%B4%D0%BE%D0%B2_%2825-08-2022%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Asadov",
+  "dateOfBirth": "1956-11-30",
+  "birthDateParsed": "1956-11-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.366655555",
+  "birthCoordinatesLng": "49.835183333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q12850075",
+  "birthPlace": "Baku",
+  "fetchedAt": "2026-08-03T16:49:33.953Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "18d3f45c",
+  "wikipediaSlug": "Abbas_Milani",
+  "wikipediaId": "Q4118422",
+  "name": "Abbas Milani",
+  "fullName": "Abbas Milani",
+  "profileSummary": "Abbas Malekzadeh Milani is an Iranian-American historian, educator, and author. Milani is a visiting professor of political science, and the Hamid and Christina Moghadam Director of the Iranian Studies program at Stanford University. He is also a research fellow and co-director of the Iran Democracy Project at Stanford University's Hoover Institution. In Milani's book, Lost Wisdom: Rethinking Modernity in Iran, he has found evidence that Persian modernism dates back to more than 1,000 years ago.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Professor_Abbas_Milani%2C_Hamid_and_Christina_Moghadam_Director_of_Iranian_Studies%2C_Stanford_University_%2815951265501%29_%28cropped%29.jpg/330px-Professor_Abbas_Milani%2C_Hamid_and_Christina_Moghadam_Director_of_Iranian_Studies%2C_Stanford_University_%2815951265501%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abbas_Milani",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.688888888",
+  "birthCoordinatesLng": "51.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "translator",
+    "writer",
+    "university teacher",
+    "political scientist",
+    "iranologist"
+  ],
+  "qid": "Q4118422",
+  "birthPlace": "Tehran",
+  "fetchedAt": "2026-08-04T15:04:30.740Z"
+}

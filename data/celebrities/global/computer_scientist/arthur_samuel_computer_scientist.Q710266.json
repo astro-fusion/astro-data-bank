@@ -1,0 +1,33 @@
+{
+  "publicId": "b316415e",
+  "wikipediaSlug": "Arthur_Samuel_(computer_scientist)",
+  "wikipediaId": "Q710266",
+  "name": "Arthur Samuel (computer scientist)",
+  "fullName": "Arthur Samuel (computer scientist)",
+  "profileSummary": "Arthur Lee Samuel was an American computer scientist and pioneer in the field of computer gaming and artificial intelligence. He coined the term machine learning in 1959. The Samuel Checkers-playing Program was among the world's first successful self-learning programs, and as such a very early demonstration of the fundamental concept of artificial intelligence. He was also a senior member in the TeX community who devoted much time giving personal attention to the needs of users and wrote an early TeX manual in 1983.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Samuel_(computer_scientist)",
+  "dateOfBirth": "1901-12-05",
+  "birthDateParsed": "1901-12-05",
+  "dateOfDeath": "1990-07-29",
+  "deathDateParsed": "1990-07-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.4081",
+  "birthCoordinatesLng": "-96.1869",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher",
+    "artificial intelligence researcher"
+  ],
+  "qid": "Q710266",
+  "birthPlace": "Emporia",
+  "fetchedAt": "2026-08-04T15:04:45.457Z"
+}

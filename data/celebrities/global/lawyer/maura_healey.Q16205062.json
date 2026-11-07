@@ -1,0 +1,35 @@
+{
+  "publicId": "1f9dc591",
+  "wikipediaSlug": "Maura_Healey",
+  "wikipediaId": "Q16205062",
+  "name": "Maura Healey",
+  "fullName": "Maura Healey",
+  "profileSummary": "Maura Tracy Healey is an American lawyer and politician serving as the 73rd governor of Massachusetts since 2023. A member of the Democratic Party, she served as Massachusetts Attorney General from 2015 to 2023 and was elected governor in 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Maura_Healey%2C_official_portrait%2C_governor.jpg/330px-Maura_Healey%2C_official_portrait%2C_governor.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maura_Healey",
+  "dateOfBirth": "1971-02-08",
+  "birthDateParsed": "1971-02-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.001944444",
+  "birthCoordinatesLng": "-77.093611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "basketball player",
+    "politician",
+    "jurist",
+    "prosecutor"
+  ],
+  "qid": "Q16205062",
+  "birthPlace": "Walter Reed National Military Medical Center",
+  "fetchedAt": "2026-08-02T03:28:58.834Z"
+}

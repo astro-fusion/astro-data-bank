@@ -1,0 +1,32 @@
+{
+  "publicId": "795b7964",
+  "wikipediaSlug": "Alexandra_Illmer_Forsythe",
+  "wikipediaId": "Q12950879",
+  "name": "Alexandra Illmer Forsythe",
+  "fullName": "Alexandra Illmer Forsythe",
+  "profileSummary": "Alexandra Winifred Illmer Forsythe was an American computer scientist best known for co-authoring a series of computer science textbooks during the 1960s and 1970s, including the first ever computer science textbook, Computer Science: A First Course, in 1969.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Illmer_Forsythe",
+  "dateOfBirth": "1918-05-20",
+  "birthDateParsed": "1918-05-20",
+  "dateOfDeath": "1980-01-02",
+  "deathDateParsed": "1980-01-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.336944444",
+  "birthCoordinatesLng": "-71.209722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "mathematician"
+  ],
+  "qid": "Q12950879",
+  "birthPlace": "Newton",
+  "fetchedAt": "2026-08-04T15:05:00.107Z"
+}

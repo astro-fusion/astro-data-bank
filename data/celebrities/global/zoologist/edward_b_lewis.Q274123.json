@@ -1,0 +1,34 @@
+{
+  "publicId": "4745014d",
+  "wikipediaSlug": "Edward_B._Lewis",
+  "wikipediaId": "Q274123",
+  "name": "Edward B. Lewis",
+  "fullName": "Edward B. Lewis",
+  "profileSummary": "Edward Butts Lewis was an American geneticist, a corecipient of the 1995 Nobel Prize in Physiology or Medicine. He helped to found the field of evolutionary developmental biology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/EdwardBLewis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_B._Lewis",
+  "dateOfBirth": "1918-05-20",
+  "birthDateParsed": "1918-05-20",
+  "dateOfDeath": "2004-07-21",
+  "deathDateParsed": "2004-07-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.244444444",
+  "birthCoordinatesLng": "-75.878055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "zoologist",
+    "geneticist",
+    "university teacher",
+    "biologist"
+  ],
+  "qid": "Q274123",
+  "birthPlace": "Wilkes-Barre",
+  "fetchedAt": "2026-08-10T03:14:49.844Z"
+}

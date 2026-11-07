@@ -1,0 +1,31 @@
+{
+  "publicId": "3faf1d28",
+  "wikipediaSlug": "Ann_Senghas",
+  "wikipediaId": "Q103366461",
+  "name": "Ann Senghas",
+  "fullName": "Ann Senghas",
+  "profileSummary": "Ann Senghas is an American developmental psychologist known for her research on the emergence and development of Nicaraguan Sign Language. Senghas is Professor of Psychology at Barnard College, Columbia University, where she directs the Language Acquisition and Development Research Laboratory.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ann_Senghas",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "psychologist"
+  ],
+  "qid": "Q103366461",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:57.901Z"
+}

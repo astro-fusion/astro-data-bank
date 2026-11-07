@@ -1,0 +1,32 @@
+{
+  "publicId": "8d9924c8",
+  "wikipediaSlug": "Arthur_Mailey",
+  "wikipediaId": "Q2865222",
+  "name": "Arthur Mailey",
+  "fullName": "Arthur Mailey",
+  "profileSummary": "Alfred Arthur Mailey was an Australian cricketer who played in 21 Test matches between 1920 and 1926.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Studio_Portrait_of_Arthur_Mailey%2C_ca._1925.jpg/330px-Studio_Portrait_of_Arthur_Mailey%2C_ca._1925.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Mailey",
+  "dateOfBirth": "1886-01-03",
+  "birthDateParsed": "1886-01-03",
+  "dateOfDeath": "1967-12-31",
+  "deathDateParsed": "1967-12-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.356666666",
+  "birthCoordinatesLng": "-1.260555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cartoonist"
+  ],
+  "qid": "Q2865222",
+  "birthPlace": "Shetland Islands",
+  "fetchedAt": "2026-07-31T19:43:37.203Z"
+}

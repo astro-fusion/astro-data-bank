@@ -1,0 +1,33 @@
+{
+  "publicId": "d30eb8a2",
+  "wikipediaSlug": "Cedric_Maxwell",
+  "wikipediaId": "Q555100",
+  "name": "Cedric Maxwell",
+  "fullName": "Cedric Maxwell",
+  "profileSummary": "Cedric Bryan Maxwell is an American former professional basketball player now in radio broadcasting. Nicknamed \"Cornbread\", he played 11 seasons in the National Basketball Association (NBA), and played a key role in two championships with the Boston Celtics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cedric_Maxwell_2022.png/330px-Cedric_Maxwell_2022.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cedric_Maxwell",
+  "dateOfBirth": "1955-11-21",
+  "birthDateParsed": "1955-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.270555555",
+  "birthCoordinatesLng": "-77.585",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "sports commentator",
+    "basketball coach"
+  ],
+  "qid": "Q555100",
+  "birthPlace": "Kinston",
+  "fetchedAt": "2026-08-01T15:37:08.574Z"
+}

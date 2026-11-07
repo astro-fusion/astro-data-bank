@@ -1,0 +1,34 @@
+{
+  "publicId": "3163227e",
+  "wikipediaSlug": "Michel_Platini",
+  "wikipediaId": "Q4261",
+  "name": "Michel Platini",
+  "fullName": "Michel Platini",
+  "profileSummary": "Michel François Platini is a French football administrator and former player and manager. Regarded as one of the greatest footballers of all time, Platini won the Ballon d'Or three times in a row, in 1983, 1984 and 1985, and came seventh in the FIFA Player of the Century vote. In recognition of his achievements, he was named a Knight of the Legion of Honour in 1985 and became an Officer in 1998. As the president of UEFA in 2015 he was banned from involvement in football under FIFA's organisation, over ethics violations. The ban lasted until 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Michel_Platini_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Platini",
+  "dateOfBirth": "1955-06-21",
+  "birthDateParsed": "1955-06-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.229722222",
+  "birthCoordinatesLng": "6.008888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "sports official",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q4261",
+  "birthPlace": "Jœuf",
+  "fetchedAt": "2026-08-10T11:28:51.894Z"
+}

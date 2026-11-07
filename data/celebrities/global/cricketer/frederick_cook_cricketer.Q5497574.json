@@ -1,0 +1,31 @@
+{
+  "publicId": "75e7bb78",
+  "wikipediaSlug": "Frederick_Cook_(cricketer)",
+  "wikipediaId": "Q5497574",
+  "name": "Frederick Cook (cricketer)",
+  "fullName": "Frederick Cook (cricketer)",
+  "profileSummary": "Frederick James Cook was a South African cricketer who played in one Test match in 1896.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Frederick_Cook_of_South_Africa.png/330px-Frederick_Cook_of_South_Africa.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Cook_(cricketer)",
+  "dateOfBirth": "1870-01-31",
+  "birthDateParsed": "1870-01-31",
+  "dateOfDeath": "1915-11-30",
+  "deathDateParsed": "1915-11-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-7.491666666",
+  "birthCoordinatesLng": "110.004444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5497574",
+  "birthPlace": "Java",
+  "fetchedAt": "2026-07-31T20:22:07.965Z"
+}

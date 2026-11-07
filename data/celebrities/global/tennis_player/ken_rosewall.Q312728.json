@@ -1,0 +1,31 @@
+{
+  "publicId": "8083e7c8",
+  "wikipediaSlug": "Ken_Rosewall",
+  "wikipediaId": "Q312728",
+  "name": "Ken Rosewall",
+  "fullName": "Ken Rosewall",
+  "profileSummary": "Kenneth Robert Rosewall is an Australian former world No. 1 professional tennis player. Rosewall won 147 singles titles, including 23 majors: a record 15 Pro Majors and eight Grand Slam tournaments. He also won 15 Pro Majors in doubles and nine Grand Slam doubles titles. Rosewall achieved a Pro Slam in singles in 1963 by winning the three Pro Majors in one year, and completed the career Grand Slam in doubles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ken_Rosewall_portrait.jpg/330px-Ken_Rosewall_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ken_Rosewall",
+  "dateOfBirth": "1934-11-02",
+  "birthDateParsed": "1934-11-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q312728",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-01T13:11:55.407Z"
+}

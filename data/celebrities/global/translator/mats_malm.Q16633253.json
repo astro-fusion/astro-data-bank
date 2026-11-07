@@ -1,0 +1,36 @@
+{
+  "publicId": "e8fb23da",
+  "wikipediaSlug": "Mats_Malm",
+  "wikipediaId": "Q16633253",
+  "name": "Mats Malm",
+  "fullName": "Mats Malm",
+  "profileSummary": "Mats Ulrik Malm is a Swedish literary writer and translator. On 18 October 2018, Malm was elected a member of the Swedish Academy, on 26 April 2019 he was elected the new Permanent Secretary and Speaker of the Swedish Academy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mats_Malm.jpg/330px-Mats_Malm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mats_Malm",
+  "dateOfBirth": "1964-05-10",
+  "birthDateParsed": "1964-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.70397",
+  "birthCoordinatesLng": "13.19405",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "translator",
+    "university teacher",
+    "literary historian",
+    "editor",
+    "literary scholar",
+    "Scandinavian studies scholar"
+  ],
+  "qid": "Q16633253",
+  "birthPlace": "Lund Cathedral parish",
+  "fetchedAt": "2026-08-06T07:42:19.281Z"
+}

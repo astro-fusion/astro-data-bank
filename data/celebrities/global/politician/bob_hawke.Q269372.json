@@ -1,0 +1,34 @@
+{
+  "publicId": "7c572a01",
+  "wikipediaSlug": "Bob_Hawke",
+  "wikipediaId": "Q269372",
+  "name": "Bob Hawke",
+  "fullName": "Bob Hawke",
+  "profileSummary": "Robert James Lee Hawke was an Australian politician and trade unionist who served as the 23rd prime minister of Australia from 1983 to 1991. He held office as leader of the Labor Party (ALP), having previously served as president of the Australian Council of Trade Unions from 1969 to 1980 and as president of the Labor Party national executive from 1973 to 1978.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bob_Hawke-1983.jpg/330px-Bob_Hawke-1983.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Hawke",
+  "dateOfBirth": "1929-12-09",
+  "birthDateParsed": "1929-12-09",
+  "dateOfDeath": "2019-05-16",
+  "deathDateParsed": "2019-05-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.3",
+  "birthCoordinatesLng": "140.767",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "union organizer",
+    "trade unionist",
+    "head of government"
+  ],
+  "qid": "Q269372",
+  "birthPlace": "Bordertown",
+  "fetchedAt": "2026-08-03T12:58:05.590Z"
+}

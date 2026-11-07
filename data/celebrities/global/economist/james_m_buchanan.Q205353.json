@@ -1,0 +1,32 @@
+{
+  "publicId": "ce4c4bbc",
+  "wikipediaSlug": "James_M._Buchanan",
+  "wikipediaId": "Q205353",
+  "name": "James M. Buchanan",
+  "fullName": "James M. Buchanan",
+  "profileSummary": "James McGill Buchanan Jr. was an American economist known for his work on public choice theory originally outlined in his most famous work, The Calculus of Consent, co-authored with Gordon Tullock in 1962. He continued to develop the theory, eventually receiving the Nobel Memorial Prize in Economic Sciences in 1986.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/James_Buchanan_by_Atlas_network.jpg/330px-James_Buchanan_by_Atlas_network.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_M._Buchanan",
+  "dateOfBirth": "1919-10-03",
+  "birthDateParsed": "1919-10-03",
+  "dateOfDeath": "2013-01-09",
+  "deathDateParsed": "2013-01-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.846111111",
+  "birthCoordinatesLng": "-86.391944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q205353",
+  "birthPlace": "Murfreesboro",
+  "fetchedAt": "2026-08-10T09:43:21.408Z"
+}

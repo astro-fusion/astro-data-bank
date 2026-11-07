@@ -1,0 +1,36 @@
+{
+  "publicId": "15732976",
+  "wikipediaSlug": "Niklaus_Wirth",
+  "wikipediaId": "Q92604",
+  "name": "Niklaus Wirth",
+  "fullName": "Niklaus Wirth",
+  "profileSummary": "Niklaus Emil Wirth was a Swiss computer scientist. He designed several programming languages, including Pascal, and pioneered several classic topics in software engineering. In 1984, he won the Turing Award, generally recognized as the highest distinction in computer science, \"for developing a sequence of innovative computer languages\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Niklaus_Wirth%2C_UrGU.jpg/330px-Niklaus_Wirth%2C_UrGU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Niklaus_Wirth",
+  "dateOfBirth": "1934-02-15",
+  "birthDateParsed": "1934-02-15",
+  "dateOfDeath": "2024-01-01",
+  "deathDateParsed": "2024-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.4992",
+  "birthCoordinatesLng": "8.72671",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "programmer",
+    "university teacher",
+    "inventor",
+    "electrical engineer"
+  ],
+  "qid": "Q92604",
+  "birthPlace": "Winterthur",
+  "fetchedAt": "2026-08-10T04:29:21.659Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "076b7246",
+  "wikipediaSlug": "Chris_O'Neil_(tennis)",
+  "wikipediaId": "Q289404",
+  "name": "Chris O'Neil (tennis)",
+  "fullName": "Chris O'Neil (tennis)",
+  "profileSummary": "Christine O'Neil is an Australian former professional tennis player.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_O'Neil_(tennis)",
+  "dateOfBirth": "1956-03-19",
+  "birthDateParsed": "1956-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.916666666",
+  "birthCoordinatesLng": "151.75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q289404",
+  "birthPlace": "Newcastle",
+  "fetchedAt": "2026-08-01T14:59:34.426Z"
+}

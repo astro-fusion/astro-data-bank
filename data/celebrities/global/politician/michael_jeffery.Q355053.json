@@ -1,0 +1,32 @@
+{
+  "publicId": "12890532",
+  "wikipediaSlug": "Michael_Jeffery",
+  "wikipediaId": "Q355053",
+  "name": "Michael Jeffery",
+  "fullName": "Michael Jeffery",
+  "profileSummary": "Major General Philip Michael Jeffery was a senior Australian Army officer and vice-regal representative. He was the 28th governor of Western Australia from 1993 to 2000, and the 24th governor-general of Australia, serving from 2003 to 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jeffery_Michael_030238DI-002.jpg/330px-Jeffery_Michael_030238DI-002.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Jeffery",
+  "dateOfBirth": "1937-12-12",
+  "birthDateParsed": "1937-12-12",
+  "dateOfDeath": "2020-12-18",
+  "deathDateParsed": "2020-12-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.595",
+  "birthCoordinatesLng": "120.225",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer"
+  ],
+  "qid": "Q355053",
+  "birthPlace": "Wiluna",
+  "fetchedAt": "2026-08-03T12:58:56.551Z"
+}

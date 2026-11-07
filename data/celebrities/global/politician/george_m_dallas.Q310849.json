@@ -1,0 +1,33 @@
+{
+  "publicId": "0ca038de",
+  "wikipediaSlug": "George_M._Dallas",
+  "wikipediaId": "Q310849",
+  "name": "George M. Dallas",
+  "fullName": "George M. Dallas",
+  "profileSummary": "George Mifflin Dallas was an American politician and diplomat who served as the 11th vice president of the United States from 1845 to 1849. He also served as the mayor of Philadelphia from 1828 to 1829, and as the U.S. Minister to the United Kingdom from 1856 to 1861. Dallas is possibly the namesake of Dallas, Texas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/George_Mifflin_Dallas_1848_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_M._Dallas",
+  "dateOfBirth": "1792-07-10",
+  "birthDateParsed": "1792-07-10",
+  "dateOfDeath": "1864-12-31",
+  "deathDateParsed": "1864-12-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat"
+  ],
+  "qid": "Q310849",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-01T18:07:49.692Z"
+}

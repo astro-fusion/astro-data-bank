@@ -1,0 +1,36 @@
+{
+  "publicId": "23c192e0",
+  "wikipediaSlug": "Liu_Xiaobo",
+  "wikipediaId": "Q41617",
+  "name": "Liu Xiaobo",
+  "fullName": "Liu Xiaobo",
+  "profileSummary": "Liu Xiaobo was a Chinese literary critic, human rights activist, philosopher and Nobel Peace Prize laureate who called for political reforms and was involved in campaigns to end Chinese Communist Party one-party rule in China. He was arrested numerous times, and was described as China's most prominent dissident and the country's most famous political prisoner. On 26 June 2017, he was granted medical parole after being diagnosed with liver cancer; he died a few weeks later on 13 July 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Liu_Xiaobo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Liu_Xiaobo",
+  "dateOfBirth": "1955-12-28",
+  "birthDateParsed": "1955-12-28",
+  "dateOfDeath": "2017-07-13",
+  "deathDateParsed": "2017-07-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.88",
+  "birthCoordinatesLng": "125.322777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "human rights defender",
+    "literary critic",
+    "literary scholar",
+    "freedom fighter"
+  ],
+  "qid": "Q41617",
+  "birthPlace": "Changchun",
+  "fetchedAt": "2026-08-04T02:14:06.217Z"
+}

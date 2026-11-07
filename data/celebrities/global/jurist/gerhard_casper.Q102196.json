@@ -1,0 +1,32 @@
+{
+  "publicId": "3da86c9c",
+  "wikipediaSlug": "Gerhard_Casper",
+  "wikipediaId": "Q102196",
+  "name": "Gerhard Casper",
+  "fullName": "Gerhard Casper",
+  "profileSummary": "Gerhard Casper is a political scientist. He served as 9th president of Stanford University from 1992 to 2000, as the 8th dean of the University of Chicago Law School from 1979 to 1987, and as provost of the University of Chicago from 1989 to 1992. He served as president of the American Academy in Berlin from July 2015 to July 2016 and as the institution's trustee-in-residence from August 2019 to January 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gerhard.Casper424.jpg/330px-Gerhard.Casper424.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhard_Casper",
+  "dateOfBirth": "1937-12-25",
+  "birthDateParsed": "1937-12-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jurist",
+    "university teacher"
+  ],
+  "qid": "Q102196",
+  "birthPlace": "Hamburg",
+  "fetchedAt": "2026-08-04T15:06:46.075Z"
+}

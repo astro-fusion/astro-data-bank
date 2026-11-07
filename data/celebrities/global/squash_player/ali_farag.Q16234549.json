@@ -1,0 +1,31 @@
+{
+  "publicId": "b39d6e99",
+  "wikipediaSlug": "Ali_Farag",
+  "wikipediaId": "Q16234549",
+  "name": "Ali Farag",
+  "fullName": "Ali Farag",
+  "profileSummary": "Ali Amr Farag is a former Egyptian professional squash player. He is a four-time world individual champion, having won the title in 2018–19, 2020–21, 2021–22 and 2022–23 and a four-times world team champion. He has a highest career world ranking of world No. 1 by the Professional Squash Association (PSA).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ali_Farag_at_the_2023-24_PSA_World_Tour_Finals-06.jpg/330px-Ali_Farag_at_the_2023-24_PSA_World_Tour_Finals-06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Farag",
+  "dateOfBirth": "1992-04-22",
+  "birthDateParsed": "1992-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.044444444",
+  "birthCoordinatesLng": "31.235833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "squash player"
+  ],
+  "qid": "Q16234549",
+  "birthPlace": "Cairo",
+  "fetchedAt": "2026-08-05T02:42:38.703Z"
+}

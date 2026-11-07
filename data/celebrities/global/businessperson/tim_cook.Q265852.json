@@ -1,0 +1,36 @@
+{
+  "publicId": "9c5062a0",
+  "wikipediaSlug": "Tim_Cook",
+  "wikipediaId": "Q265852",
+  "name": "Tim Cook",
+  "fullName": "Tim Cook",
+  "profileSummary": "Timothy Donald Cook is an American business executive who has served as the chief executive officer (CEO) of Apple since 2011. He had previously been the company's chief operating officer under its co-founder Steve Jobs. Cook joined Apple in March 1998 as a senior vice president for worldwide operations, and then as vice president for worldwide sales and operations. He was appointed chief executive of Apple on August 24, 2011, after Jobs resigned.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tim_Cook_March_2026_%28cropped_2%29.jpg/330px-Tim_Cook_March_2026_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Cook",
+  "dateOfBirth": "1960-11-01",
+  "birthDateParsed": "1960-11-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.727669444",
+  "birthCoordinatesLng": "-88.052672222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "computer scientist",
+    "engineer",
+    "chief executive officer",
+    "presenter",
+    "manager"
+  ],
+  "qid": "Q265852",
+  "birthPlace": "Mobile",
+  "fetchedAt": "2026-08-03T15:53:33.444Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "e9265870",
+  "wikipediaSlug": "Luis_Enrique",
+  "wikipediaId": "Q222789",
+  "name": "Luis Enrique",
+  "fullName": "Luis Enrique",
+  "profileSummary": "Luis Enrique Martínez García is a Spanish football manager and former player who is currently the head coach of Ligue 1 club Paris Saint-Germain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Luis_Enrique_2014.jpg/330px-Luis_Enrique_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Enrique",
+  "dateOfBirth": "1970-05-08",
+  "birthDateParsed": "1970-05-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.52931",
+  "birthCoordinatesLng": "-5.67732",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q222789",
+  "birthPlace": "Gijón",
+  "fetchedAt": "2026-08-10T11:29:01.428Z"
+}

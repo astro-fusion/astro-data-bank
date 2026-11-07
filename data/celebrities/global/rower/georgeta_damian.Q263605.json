@@ -1,0 +1,31 @@
+{
+  "publicId": "075949f3",
+  "wikipediaSlug": "Georgeta_Damian",
+  "wikipediaId": "Q263605",
+  "name": "Georgeta Damian",
+  "fullName": "Georgeta Damian",
+  "profileSummary": "Georgeta Damian is a female rower from Romania and winner of five Olympic gold medals. She married the rower Valeriu Andrunache in 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Georgeta_Damian-Andrunache_Varese_2012_%28cropped%29.jpg/330px-Georgeta_Damian-Andrunache_Varese_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgeta_Damian",
+  "dateOfBirth": "1976-04-14",
+  "birthDateParsed": "1976-04-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.629448",
+  "birthCoordinatesLng": "26.930282",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rower"
+  ],
+  "qid": "Q263605",
+  "birthPlace": "Dracșani",
+  "fetchedAt": "2026-08-10T13:00:12.585Z"
+}

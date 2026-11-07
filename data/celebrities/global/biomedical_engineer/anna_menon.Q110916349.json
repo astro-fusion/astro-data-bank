@@ -1,0 +1,33 @@
+{
+  "publicId": "69654013",
+  "wikipediaSlug": "Anna_Menon",
+  "wikipediaId": "Q110916349",
+  "name": "Anna Menon",
+  "fullName": "Anna Menon",
+  "profileSummary": "Anna Menon is an American engineer and NASA astronaut candidate, formerly employed by SpaceX as lead space operations and a mission director. She flew on Polaris Dawn, a private human spaceflight mission operated by SpaceX on behalf of Jared Isaacman. During the September 2024 mission, she served as the onboard medical officer and, along with Sarah Gillis, set a record for women traveling farthest from Earth. She was selected in September 2025 as a member of NASA Astronaut Group 24.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NASA_astronaut_candidate_Anna_Menon_%28jsc2025e074865%29.jpg/330px-NASA_astronaut_candidate_Anna_Menon_%28jsc2025e074865%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Menon",
+  "dateOfBirth": "1985-12-24",
+  "birthDateParsed": "1985-12-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.762777777",
+  "birthCoordinatesLng": "-95.383055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biomedical engineer",
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q110916349",
+  "birthPlace": "Houston",
+  "fetchedAt": "2026-08-10T06:03:51.431Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "320e7d3e",
+  "wikipediaSlug": "Anatoly_Filipchenko",
+  "wikipediaId": "Q488043",
+  "name": "Anatoly Filipchenko",
+  "fullName": "Anatoly Filipchenko",
+  "profileSummary": "Major General Anatoly Vasilyevich Filipchenko was a Soviet cosmonaut of Ukrainian descent. He flew on the Soyuz 7 and Soyuz 16 missions.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anatoly_Filipchenko",
+  "dateOfBirth": "1928-02-26",
+  "birthDateParsed": "1928-02-26",
+  "dateOfDeath": "2022-08-07",
+  "deathDateParsed": "2022-08-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.157777777",
+  "birthCoordinatesLng": "39.429166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aircraft pilot",
+    "astronaut",
+    "writer"
+  ],
+  "qid": "Q488043",
+  "birthPlace": "Davydovka",
+  "fetchedAt": "2026-08-10T06:03:21.932Z"
+}

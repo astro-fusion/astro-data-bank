@@ -1,0 +1,34 @@
+{
+  "publicId": "d2548ab7",
+  "wikipediaSlug": "John_Marriott_(British_politician)",
+  "wikipediaId": "Q6246815",
+  "name": "John Marriott (British politician)",
+  "fullName": "John Marriott (British politician)",
+  "profileSummary": "Sir John Arthur Ransome Marriott was a British educationist, historian, and Conservative member of parliament (MP).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Sir_John_Arthur_Ransome_Marriott.jpg/330px-Sir_John_Arthur_Ransome_Marriott.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Marriott_(British_politician)",
+  "dateOfBirth": "1859-08-17",
+  "birthDateParsed": "1859-08-17",
+  "dateOfDeath": "1945-06-06",
+  "deathDateParsed": "1945-06-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.3765",
+  "birthCoordinatesLng": "-2.3662",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "politician",
+    "university teacher",
+    "researcher"
+  ],
+  "qid": "Q6246815",
+  "birthPlace": "Bowdon",
+  "fetchedAt": "2026-08-02T05:22:38.546Z"
+}

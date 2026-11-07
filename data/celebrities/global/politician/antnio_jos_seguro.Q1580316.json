@@ -1,0 +1,31 @@
+{
+  "publicId": "9c71f1a5",
+  "wikipediaSlug": "António_José_Seguro",
+  "wikipediaId": "Q1580316",
+  "name": "António José Seguro",
+  "fullName": "António José Seguro",
+  "profileSummary": "António José Martins Seguro is a Portuguese politician who has been the president of Portugal since 2026, having won the 2026 Portuguese presidential election. A member of the Socialist Party (PS), Seguro previously served as secretary-general of the PS from 2011 to 2014, during which time he was also the leader of the opposition.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/21.04.2026_-_Reuni%C3%A3o_privada_com_o_Presidente_da_Rep%C3%BAblica_Portuguesa%2C_Ant%C3%B3nio_Jos%C3%A9_Seguro_-_55222243703_%28cropped_3x4%29.png/330px-21.04.2026_-_Reuni%C3%A3o_privada_com_o_Presidente_da_Rep%C3%BAblica_Portuguesa%2C_Ant%C3%B3nio_Jos%C3%A9_Seguro_-_55222243703_%28cropped_3x4%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Jos%C3%A9_Seguro",
+  "dateOfBirth": "1962-03-11",
+  "birthDateParsed": "1962-03-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.166666666",
+  "birthCoordinatesLng": "-7.166666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q1580316",
+  "birthPlace": "Penamacor",
+  "fetchedAt": "2026-08-03T16:49:37.890Z"
+}

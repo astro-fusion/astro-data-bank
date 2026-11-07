@@ -1,0 +1,32 @@
+{
+  "publicId": "7854ffa1",
+  "wikipediaSlug": "Hans_Georg_Dehmelt",
+  "wikipediaId": "Q70532",
+  "name": "Hans Georg Dehmelt",
+  "fullName": "Hans Georg Dehmelt",
+  "profileSummary": "Hans Georg Dehmelt was a German and American physicist, who was awarded a Nobel Prize in Physics in 1989, for co-developing the ion trap technique with Wolfgang Paul, for which they shared one-half of the prize. Their technique was used for high precision measurement of the electron magnetic moment.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hans_Dehmelt.jpg/330px-Hans_Dehmelt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Georg_Dehmelt",
+  "dateOfBirth": "1922-09-09",
+  "birthDateParsed": "1922-09-09",
+  "dateOfDeath": "2017-03-07",
+  "deathDateParsed": "2017-03-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.152777777",
+  "birthCoordinatesLng": "14.987222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q70532",
+  "birthPlace": "Görlitz",
+  "fetchedAt": "2026-08-06T05:02:25.973Z"
+}

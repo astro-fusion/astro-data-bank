@@ -1,0 +1,33 @@
+{
+  "publicId": "5a8c55a0",
+  "wikipediaSlug": "George_Reid",
+  "wikipediaId": "Q23352",
+  "name": "George Reid",
+  "fullName": "George Reid",
+  "profileSummary": "Sir George Houston Reid was a Scottish-born Australian politician, diplomat, and barrister who served as the fourth prime minister of Australia from 1904 to 1905. He held office as the leader of the Free Trade Party, previously serving as the 12th premier of New South Wales from 1894 to 1899, and later as the high commissioner of Australia to the United Kingdom from 1910 to 1916.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/George_Reid_crop.jpg/330px-George_Reid_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Reid",
+  "dateOfBirth": "1845-02-25",
+  "birthDateParsed": "1845-02-25",
+  "dateOfDeath": "1918-09-12",
+  "deathDateParsed": "1918-09-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.833333333",
+  "birthCoordinatesLng": "-4.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "barrister"
+  ],
+  "qid": "Q23352",
+  "birthPlace": "Johnstone",
+  "fetchedAt": "2026-08-03T12:58:33.070Z"
+}

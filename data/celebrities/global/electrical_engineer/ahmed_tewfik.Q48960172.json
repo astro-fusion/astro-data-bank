@@ -1,0 +1,31 @@
+{
+  "publicId": "7b64e122",
+  "wikipediaSlug": "Ahmed_Tewfik",
+  "wikipediaId": "Q48960172",
+  "name": "Ahmed Tewfik",
+  "fullName": "Ahmed Tewfik",
+  "profileSummary": "Ahmed H. Tewfik is an Egyptian-American electrical engineer, professor and college administrator who currently serves as the IEEE Signal Processing Society President. He also holds the Cockrell Family Chair in Engineering #1 at UT Austin. He served as the former chair of the Department of Electrical and Computer Engineering at the Cockrell School of Engineering at the University of Texas at Austin from 2010 to 2019. For his research and contributions to the field of Signal Processing he was elected as an IEEE Fellow in 1996, received the IEEE Third Millennium Award in 2000, and awarded the 2017 IEEE Signal Processing Society Technical Achievement Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/AhmedTewfik.png/330px-AhmedTewfik.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Tewfik",
+  "dateOfBirth": "1960-10-21",
+  "birthDateParsed": "1960-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.044444444",
+  "birthCoordinatesLng": "31.235833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "electrical engineer"
+  ],
+  "qid": "Q48960172",
+  "birthPlace": "Cairo",
+  "fetchedAt": "2026-08-05T03:15:11.570Z"
+}

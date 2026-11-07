@@ -1,0 +1,35 @@
+{
+  "publicId": "15784dbb",
+  "wikipediaSlug": "Benjamin_Disraeli",
+  "wikipediaId": "Q82006",
+  "name": "Benjamin Disraeli",
+  "fullName": "Benjamin Disraeli",
+  "profileSummary": "Benjamin Disraeli, 1st Earl of Beaconsfield, was a British statesman, Conservative politician and writer who twice served as Prime Minister of the United Kingdom. He played a central role in the creation of the modern Conservative Party, defining its policies and its broad outreach. Disraeli is remembered for his influential voice in world affairs, his political battles with the Liberal Party leader William Ewart Gladstone, and his one-nation conservatism or \"Tory democracy\". He made the Conservatives the party most identified with the British Empire and military action to expand it, both of which were popular among British voters. He is the only British prime minister to have been born Jewish.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Benjamin_Disraeli%2C_Earl_of_Beaconsfield_%283x4_cropped%29.jpg/330px-Benjamin_Disraeli%2C_Earl_of_Beaconsfield_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
+  "dateOfBirth": "1804-12-21",
+  "birthDateParsed": "1804-12-21",
+  "dateOfDeath": "1881-04-19",
+  "deathDateParsed": "1881-04-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "novelist",
+    "writer",
+    "biographer",
+    "finance minister"
+  ],
+  "qid": "Q82006",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:21:18.426Z"
+}

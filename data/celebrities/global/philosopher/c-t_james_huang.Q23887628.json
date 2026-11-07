@@ -1,0 +1,34 @@
+{
+  "publicId": "1316b8e0",
+  "wikipediaSlug": "C.-T._James_Huang",
+  "wikipediaId": "Q23887628",
+  "name": "C.-T. James Huang",
+  "fullName": "C.-T. James Huang",
+  "profileSummary": "C.T. James Huang is a Taiwanese-American linguist. He is a professor emeritus of linguistics at Harvard University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/C.-T._James_Huang.jpg/330px-C.-T._James_Huang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C.-T._James_Huang",
+  "dateOfBirth": "1948-06-04",
+  "birthDateParsed": "1948-06-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.366666666",
+  "birthCoordinatesLng": "120.9",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "linguist",
+    "sinologist",
+    "university teacher"
+  ],
+  "qid": "Q23887628",
+  "birthPlace": "Dawu Township",
+  "fetchedAt": "2026-08-05T03:16:32.233Z"
+}

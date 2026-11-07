@@ -1,0 +1,32 @@
+{
+  "publicId": "774aed76",
+  "wikipediaSlug": "Ahmed_Aboul_Gheit",
+  "wikipediaId": "Q58108",
+  "name": "Ahmed Aboul Gheit",
+  "fullName": "Ahmed Aboul Gheit",
+  "profileSummary": "Ahmed Aboul Gheit is an Egyptian politician and diplomat. He served as Secretary-General of the Arab League from July 2016 until July 2026, having been reappointed for a second term on 3 March 2021. Aboul-Gheit served as the Minister of Foreign Affairs of Egypt from 11 July 2004 to 6 March 2011. Previously, between 1999 and 2004, he was Egypt's Permanent Representative to the United Nations. He was succeeded as Minister of Foreign Affairs by ICJ judge Nabil Elaraby in March 2011, following the overthrow of President Hosni Mubarak. He was elected Secretary-General of the Arab League in March 2016, and his term commenced on 3 July 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Arab_League_Secretary-General_Ahmed_Aboul_Gheit_in_July_2023_-_53057455593_%28cropped%29.jpg/330px-Arab_League_Secretary-General_Ahmed_Aboul_Gheit_in_July_2023_-_53057455593_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Aboul_Gheit",
+  "dateOfBirth": "1942-06-12",
+  "birthDateParsed": "1942-06-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.2625",
+  "birthCoordinatesLng": "32.306111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "politician"
+  ],
+  "qid": "Q58108",
+  "birthPlace": "Port Said",
+  "fetchedAt": "2026-08-03T16:48:47.974Z"
+}

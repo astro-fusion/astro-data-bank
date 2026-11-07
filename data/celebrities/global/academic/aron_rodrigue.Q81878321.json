@@ -1,0 +1,33 @@
+{
+  "publicId": "3e109503",
+  "wikipediaSlug": "Aron_Rodrigue",
+  "wikipediaId": "Q81878321",
+  "name": "Aron Rodrigue",
+  "fullName": "Aron Rodrigue",
+  "profileSummary": "Aron Rodrigue is the Daniel E. Koshland Professor in Jewish Culture and History at Stanford University.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aron_Rodrigue",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "academic",
+    "university teacher",
+    "historian"
+  ],
+  "qid": "Q81878321",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-04T15:05:13.271Z"
+}

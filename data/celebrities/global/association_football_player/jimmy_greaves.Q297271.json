@@ -1,0 +1,33 @@
+{
+  "publicId": "6c2bc4f9",
+  "wikipediaSlug": "Jimmy_Greaves",
+  "wikipediaId": "Q297271",
+  "name": "Jimmy Greaves",
+  "fullName": "Jimmy Greaves",
+  "profileSummary": "James Peter Greaves was an English professional footballer who played as a forward and is regarded as one of the greatest strikers of all time and one of England's best ever players. He is England's fifth-highest international goalscorer with 44 goals, which includes an English record of six hat-tricks, and is Tottenham Hotspur's second-highest all-time top goalscorer. Greaves is the highest goalscorer in the history of English top-flight football with 357 goals. He finished as the First Division's top scorer in six seasons, more times than any other player and came third in the 1963 Ballon d'Or rankings. He is also a member of the English Football Hall of Fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jimmy_Greaves_%28cropped%29.jpg/330px-Jimmy_Greaves_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Greaves",
+  "dateOfBirth": "1940-02-20",
+  "birthDateParsed": "1940-02-20",
+  "dateOfDeath": "2021-09-19",
+  "deathDateParsed": "2021-09-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.550330555",
+  "birthCoordinatesLng": "0.056219444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "autobiographer",
+    "television presenter"
+  ],
+  "qid": "Q297271",
+  "birthPlace": "Manor Park",
+  "fetchedAt": "2026-08-10T11:28:28.551Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "19db8601",
+  "wikipediaSlug": "Alfred_Flatow",
+  "wikipediaId": "Q57215",
+  "name": "Alfred Flatow",
+  "fullName": "Alfred Flatow",
+  "profileSummary": "Alfred Flatow was a Jewish German gymnast. He competed at the 1896 Summer Olympics in Athens. He was murdered in the Holocaust.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Alfredflatow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Flatow",
+  "dateOfBirth": "1869-10-03",
+  "birthDateParsed": "1869-10-03",
+  "dateOfDeath": "1942-12-28",
+  "deathDateParsed": "1942-12-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.3482907",
+  "birthCoordinatesLng": "18.6540233",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artistic gymnast",
+    "athlete",
+    "Olympic champion"
+  ],
+  "qid": "Q57215",
+  "birthPlace": "Gdańsk",
+  "fetchedAt": "2026-08-10T12:57:57.314Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "5e535e58",
+  "wikipediaSlug": "Halldór_Laxness",
+  "wikipediaId": "Q80321",
+  "name": "Halldór Laxness",
+  "fullName": "Halldór Laxness",
+  "profileSummary": "Halldór Kiljan Laxness was an Icelandic writer and winner of the 1955 Nobel Prize in Literature. He wrote novels, poetry, newspaper articles, essays, plays, travelogues and short stories. Writers who influenced Laxness include August Strindberg, Sigmund Freud, Knut Hamsun, Sinclair Lewis, Upton Sinclair, Bertolt Brecht, and Ernest Hemingway.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Halld%C3%B3r_Kiljan_Laxness_1955.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Halld%C3%B3r_Laxness",
+  "dateOfBirth": "1902-04-23",
+  "birthDateParsed": "1902-04-23",
+  "dateOfDeath": "1998-02-08",
+  "deathDateParsed": "1998-02-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "64.1475",
+  "birthCoordinatesLng": "-21.935",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "linguist",
+    "novelist",
+    "translator",
+    "playwright",
+    "poet",
+    "philosopher",
+    "writer"
+  ],
+  "qid": "Q80321",
+  "birthPlace": "Reykjavík",
+  "fetchedAt": "2026-08-06T07:41:34.948Z"
+}

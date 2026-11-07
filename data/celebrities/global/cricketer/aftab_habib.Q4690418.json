@@ -1,0 +1,31 @@
+{
+  "publicId": "9e4cf659",
+  "wikipediaSlug": "Aftab_Habib",
+  "wikipediaId": "Q4690418",
+  "name": "Aftab Habib",
+  "fullName": "Aftab Habib",
+  "profileSummary": "Aftab Habib is an English former international cricketer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Aftab_Habib.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aftab_Habib",
+  "dateOfBirth": "1972-02-07",
+  "birthDateParsed": "1972-02-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.454166666",
+  "birthCoordinatesLng": "-0.973055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4690418",
+  "birthPlace": "Reading",
+  "fetchedAt": "2026-07-31T20:07:49.859Z"
+}

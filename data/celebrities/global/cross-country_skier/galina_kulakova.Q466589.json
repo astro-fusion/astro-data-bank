@@ -1,0 +1,32 @@
+{
+  "publicId": "865894c1",
+  "wikipediaSlug": "Galina_Kulakova",
+  "wikipediaId": "Q466589",
+  "name": "Galina Kulakova",
+  "fullName": "Galina Kulakova",
+  "profileSummary": "Galina Alexeyevna Kulakova is a Soviet-Russian former cross-country skier, arguably the best skier on distances shorter than 10 km in the early 1970s. She won four Olympic golds, two individual in 1972 and two relay golds in 1972 and 1976. She was the most successful athlete at the 1972 Winter Olympics, along with Ard Schenk of the Netherlands. Competing in the World Championships, she won three individual golds, two in 1974 and one in 1970, and also two relay golds in those years. Kulakova also won the 10 km event at the Holmenkollen ski festival in 1970 and 1979. Galina Kulakova was also 39 times Champion of the USSR between 1969 and 1981.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Galina_Kulakova_Grenoble_1968_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Galina_Kulakova",
+  "dateOfBirth": "1942-04-29",
+  "birthDateParsed": "1942-04-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cross-country skier",
+    "coach"
+  ],
+  "qid": "Q466589",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-10T13:00:20.060Z"
+}

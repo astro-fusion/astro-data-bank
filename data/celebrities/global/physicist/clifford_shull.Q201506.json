@@ -1,0 +1,33 @@
+{
+  "publicId": "a40f627b",
+  "wikipediaSlug": "Clifford_Shull",
+  "wikipediaId": "Q201506",
+  "name": "Clifford Shull",
+  "fullName": "Clifford Shull",
+  "profileSummary": "Clifford Glenwood Shull was an American physicist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Clifford_Shull_%28cropped%29.jpg/330px-Clifford_Shull_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clifford_Shull",
+  "dateOfBirth": "1915-09-23",
+  "birthDateParsed": "1915-09-23",
+  "dateOfDeath": "2001-03-31",
+  "deathDateParsed": "2001-03-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.441666666",
+  "birthCoordinatesLng": "-80",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "nuclear physicist",
+    "university teacher"
+  ],
+  "qid": "Q201506",
+  "birthPlace": "Pittsburgh",
+  "fetchedAt": "2026-08-06T05:01:29.411Z"
+}

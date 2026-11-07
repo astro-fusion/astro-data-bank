@@ -1,0 +1,31 @@
+{
+  "publicId": "dcc1372d",
+  "wikipediaSlug": "Billy_Midwinter",
+  "wikipediaId": "Q3526754",
+  "name": "Billy Midwinter",
+  "fullName": "Billy Midwinter",
+  "profileSummary": "William Evans Midwinter was a cricketer who played four Test matches for England, sandwiched between eight for Australia. He was the only cricketer to have played for Australia and England in Test matches against each other.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/W_midwinter_SLNSW.jpg/330px-W_midwinter_SLNSW.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Midwinter",
+  "dateOfBirth": "1851-06-19",
+  "birthDateParsed": "1851-06-19",
+  "dateOfDeath": "1890-12-03",
+  "deathDateParsed": "1890-12-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.736572222",
+  "birthCoordinatesLng": "-2.637977777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526754",
+  "birthPlace": "St Briavels",
+  "fetchedAt": "2026-07-31T19:44:40.860Z"
+}

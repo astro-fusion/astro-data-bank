@@ -1,0 +1,31 @@
+{
+  "publicId": "55a54e6a",
+  "wikipediaSlug": "Andre_Iguodala",
+  "wikipediaId": "Q136816",
+  "name": "Andre Iguodala",
+  "fullName": "Andre Iguodala",
+  "profileSummary": "Andre Tyler Iguodala is an American former professional basketball player who played for 19 seasons in the National Basketball Association (NBA). A swingman, he was an NBA All-Star in 2012 and was named to the NBA All-Defensive Team twice. Iguodala won four NBA championships with the Golden State Warriors and was named the NBA Finals Most Valuable Player (FMVP) in 2015. He was also a member of the U.S. national team at the 2010 FIBA World Championship and 2012 Summer Olympics, winning the gold medal both times.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Heat_Andre_Iguodala_%28cropped%29.jpg/330px-Heat_Andre_Iguodala_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andre_Iguodala",
+  "dateOfBirth": "1984-01-28",
+  "birthDateParsed": "1984-01-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.7975",
+  "birthCoordinatesLng": "-89.645",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q136816",
+  "birthPlace": "Springfield",
+  "fetchedAt": "2026-08-01T15:36:47.269Z"
+}

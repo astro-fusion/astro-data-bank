@@ -1,0 +1,34 @@
+{
+  "publicId": "eb3ed857",
+  "wikipediaSlug": "Maurice_Allais",
+  "wikipediaId": "Q105962",
+  "name": "Maurice Allais",
+  "fullName": "Maurice Allais",
+  "profileSummary": "Maurice Félix Charles Allais was a French physicist and economist, the 1988 winner of the Nobel Memorial Prize in Economic Sciences \"for his pioneering contributions to the theory of markets and efficient utilization of resources\", along with John Hicks and Paul Samuelson, to neoclassical synthesis. They formalize the self-regulation of markets, which Keynes refuted but reiterated some of Allais's ideas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/ALLAIS_PN_Maurice-24x30-2001b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Allais",
+  "dateOfBirth": "1911-05-31",
+  "birthDateParsed": "1911-05-31",
+  "dateOfDeath": "2010-10-09",
+  "deathDateParsed": "2010-10-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.833022222",
+  "birthCoordinatesLng": "2.326888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "physicist",
+    "engineer",
+    "researcher"
+  ],
+  "qid": "Q105962",
+  "birthPlace": "14th arrondissement of Paris",
+  "fetchedAt": "2026-08-10T09:43:46.897Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "d3c6ee9f",
+  "wikipediaSlug": "Cyril_Allcott",
+  "wikipediaId": "Q5200616",
+  "name": "Cyril Allcott",
+  "fullName": "Cyril Allcott",
+  "profileSummary": "Cyril Francis Walter Allcott was a New Zealand Test cricketer who played in six Test matches for the New Zealand national cricket team between 1930 and 1932.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Cyril_Allcott_1931.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyril_Allcott",
+  "dateOfBirth": "1896-10-07",
+  "birthDateParsed": "1896-10-07",
+  "dateOfDeath": "1973-11-19",
+  "deathDateParsed": "1973-11-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.1445",
+  "birthCoordinatesLng": "172.9937",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5200616",
+  "birthPlace": "Lower Moutere",
+  "fetchedAt": "2026-07-31T21:03:11.637Z"
+}

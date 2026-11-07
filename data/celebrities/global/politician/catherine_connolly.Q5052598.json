@@ -1,0 +1,33 @@
+{
+  "publicId": "53cd136a",
+  "wikipediaSlug": "Catherine_Connolly",
+  "wikipediaId": "Q5052598",
+  "name": "Catherine Connolly",
+  "fullName": "Catherine Connolly",
+  "profileSummary": "Catherine Martina Ann Connolly is an Irish politician serving as the president of Ireland since 11 November 2025. She had been a Teachta Dála (TD) for the Galway West constituency from 2016 until her election as president in 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/President_Connolly_hosts_a_Reception_celebrating_Seachtain_na_Gaeilge_%E2%80%9CCiorcal_Comhr%C3%A1_an_%C3%81rais%E2%80%9D_2_%28cropped%29.jpg/330px-President_Connolly_hosts_a_Reception_celebrating_Seachtain_na_Gaeilge_%E2%80%9CCiorcal_Comhr%C3%A1_an_%C3%81rais%E2%80%9D_2_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catherine_Connolly",
+  "dateOfBirth": "1955-11-05",
+  "birthDateParsed": "1955-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.2719",
+  "birthCoordinatesLng": "-9.0488",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "clinical psychologist",
+    "barrister"
+  ],
+  "qid": "Q5052598",
+  "birthPlace": "Galway",
+  "fetchedAt": "2026-08-04T00:55:34.198Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "73927db3",
+  "wikipediaSlug": "Just_Fontaine",
+  "wikipediaId": "Q192749",
+  "name": "Just Fontaine",
+  "fullName": "Just Fontaine",
+  "profileSummary": "Just Louis Fontaine was a French professional footballer who played as a striker. He scored the most goals ever in a single FIFA World Cup, with thirteen in six matches in the 1958 tournament.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Just_Fontaine_en_1958.jpg/330px-Just_Fontaine_en_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Just_Fontaine",
+  "dateOfBirth": "1933-08-18",
+  "birthDateParsed": "1933-08-18",
+  "dateOfDeath": "2023-02-28",
+  "deathDateParsed": "2023-02-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.62947",
+  "birthCoordinatesLng": "-7.98108",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q192749",
+  "birthPlace": "Marrakech",
+  "fetchedAt": "2026-08-10T11:29:02.830Z"
+}

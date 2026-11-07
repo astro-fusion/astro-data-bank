@@ -1,0 +1,32 @@
+{
+  "publicId": "e5c8c255",
+  "wikipediaSlug": "Emma_Hayes",
+  "wikipediaId": "Q5372833",
+  "name": "Emma Hayes",
+  "fullName": "Emma Hayes",
+  "profileSummary": "Emma Carol Hayes is an English professional football manager who is the head coach of the United States women's national team. She was previously manager of Chelsea Women from 2012 to 2024, winning seven Women's Super League titles, including five consecutively from 2020 to 2024. In 2024, she led the United States to a gold medal at the Paris Olympics. She was awarded the inaugural Women's Johan Cruyff Trophy that year as the best coach in the women's game.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg/330px-Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emma_Hayes",
+  "dateOfBirth": "1976-10-18",
+  "birthDateParsed": "1976-10-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.542777777",
+  "birthCoordinatesLng": "-0.159444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q5372833",
+  "birthPlace": "London Borough of Camden",
+  "fetchedAt": "2026-08-10T11:28:15.562Z"
+}

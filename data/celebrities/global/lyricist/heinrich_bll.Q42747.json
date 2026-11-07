@@ -1,0 +1,38 @@
+{
+  "publicId": "5b1faa5f",
+  "wikipediaSlug": "Heinrich_Böll",
+  "wikipediaId": "Q42747",
+  "name": "Heinrich Böll",
+  "fullName": "Heinrich Böll",
+  "profileSummary": "Heinrich Theodor Böll was a German writer. Considered one of Germany's foremost post–World War II writers, Böll received the Georg Büchner Prize (1967) and the Nobel Prize for Literature (1972).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg/330px-Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinrich_B%C3%B6ll",
+  "dateOfBirth": "1917-12-21",
+  "birthDateParsed": "1917-12-21",
+  "dateOfDeath": "1985-07-16",
+  "deathDateParsed": "1985-07-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.942222222",
+  "birthCoordinatesLng": "6.957777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lyricist",
+    "screenwriter",
+    "translator",
+    "poet",
+    "novelist",
+    "writer",
+    "Nobel Prize winner",
+    "public figure"
+  ],
+  "qid": "Q42747",
+  "birthPlace": "Cologne",
+  "fetchedAt": "2026-08-06T07:41:46.288Z"
+}

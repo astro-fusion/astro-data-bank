@@ -1,0 +1,31 @@
+{
+  "publicId": "937fc559",
+  "wikipediaSlug": "Brett_Lee",
+  "wikipediaId": "Q422980",
+  "name": "Brett Lee",
+  "fullName": "Brett Lee",
+  "profileSummary": "Brett Lee is an Australian former international cricketer, who played all three formats of the game. During his international career, Lee was recognised as one of the fastest bowlers in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brett_lee_closeup2.jpg/330px-Brett_lee_closeup2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brett_Lee",
+  "dateOfBirth": "1976-11-08",
+  "birthDateParsed": "1976-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.433055555",
+  "birthCoordinatesLng": "150.883055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q422980",
+  "birthPlace": "Wollongong",
+  "fetchedAt": "2026-07-31T19:44:27.498Z"
+}

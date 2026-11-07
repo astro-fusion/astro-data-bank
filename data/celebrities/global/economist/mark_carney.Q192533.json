@@ -1,0 +1,35 @@
+{
+  "publicId": "edf3e3d9",
+  "wikipediaSlug": "Mark_Carney",
+  "wikipediaId": "Q192533",
+  "name": "Mark Carney",
+  "fullName": "Mark Carney",
+  "profileSummary": "Mark Joseph Carney is a Canadian politician and economist who became the 24th prime minister of Canada in 2025. Carney was also elected as leader of the Liberal Party and the member of Parliament (MP) for Nepean in 2025. He was previously Governor of the Bank of Canada from 2008 to 2013 and Governor of the Bank of England from 2013 to 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2025-11-14_InaugurationREM_Deux-Montagnes_Mark_Carney.jpg/330px-2025-11-14_InaugurationREM_Deux-Montagnes_Mark_Carney.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Carney",
+  "dateOfBirth": "1965-03-16",
+  "birthDateParsed": "1965-03-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.0053",
+  "birthCoordinatesLng": "-111.891",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "banker",
+    "politician",
+    "central bank governor",
+    "party leader"
+  ],
+  "qid": "Q192533",
+  "birthPlace": "Fort Smith",
+  "fetchedAt": "2026-08-03T10:59:34.095Z"
+}

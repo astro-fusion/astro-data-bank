@@ -1,0 +1,40 @@
+{
+  "publicId": "d3d0c704",
+  "wikipediaSlug": "George_W._Bush",
+  "wikipediaId": "Q207",
+  "name": "George W. Bush",
+  "fullName": "George W. Bush",
+  "profileSummary": "George Walker Bush is an American former politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009. A member of the Republican Party, he served as the governor of Texas from 1995 to 2000. He is the eldest son of George H. W. Bush, the 41st president of the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/330px-George-W-Bush.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_W._Bush",
+  "dateOfBirth": "1946-07-06",
+  "birthDateParsed": "1946-07-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.308333333",
+  "birthCoordinatesLng": "-72.925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "motivational speaker",
+    "autobiographer",
+    "painter",
+    "rugby union player",
+    "military officer",
+    "statesperson",
+    "businessperson",
+    "financier",
+    "governor"
+  ],
+  "qid": "Q207",
+  "birthPlace": "New Haven",
+  "fetchedAt": "2026-08-02T02:16:48.816Z"
+}

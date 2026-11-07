@@ -1,0 +1,39 @@
+{
+  "publicId": "fc616647",
+  "wikipediaSlug": "Francis_Crick",
+  "wikipediaId": "Q123280",
+  "name": "Francis Crick",
+  "fullName": "Francis Crick",
+  "profileSummary": "Francis Harry Compton Crick was an English molecular biologist, biophysicist, and neuroscientist. He, James Watson, Rosalind Franklin, and Maurice Wilkins played crucial roles in deciphering the helical structure of the DNA molecule.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Francis_Crick_crop.jpg/330px-Francis_Crick_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Crick",
+  "dateOfBirth": "1916-06-08",
+  "birthDateParsed": "1916-06-08",
+  "dateOfDeath": "2004-07-28",
+  "deathDateParsed": "2004-07-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.233333333",
+  "birthCoordinatesLng": "-0.9",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "geneticist",
+    "physicist",
+    "neuroscientist",
+    "biochemist",
+    "molecular biologist",
+    "university teacher",
+    "biophysicist",
+    "writer"
+  ],
+  "qid": "Q123280",
+  "birthPlace": "Northampton",
+  "fetchedAt": "2026-08-10T03:15:06.330Z"
+}

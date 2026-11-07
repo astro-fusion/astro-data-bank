@@ -1,0 +1,31 @@
+{
+  "publicId": "e1b88238",
+  "wikipediaSlug": "Fred_Susskind",
+  "wikipediaId": "Q5496365",
+  "name": "Fred Susskind",
+  "fullName": "Fred Susskind",
+  "profileSummary": "Manfred Julius Susskind was a South African cricketer who played in five Test matches in 1924. The first Jewish Test cricketer, he was born and died in Johannesburg, South Africa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fred_Susskind_1924.jpg/330px-Fred_Susskind_1924.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Susskind",
+  "dateOfBirth": "1891-06-08",
+  "birthDateParsed": "1891-06-08",
+  "dateOfDeath": "1957-07-09",
+  "deathDateParsed": "1957-07-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5496365",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:22:19.323Z"
+}

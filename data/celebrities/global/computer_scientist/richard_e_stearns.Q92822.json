@@ -1,0 +1,35 @@
+{
+  "publicId": "b86147b5",
+  "wikipediaSlug": "Richard_E._Stearns",
+  "wikipediaId": "Q92822",
+  "name": "Richard E. Stearns",
+  "fullName": "Richard E. Stearns",
+  "profileSummary": "Richard Edwin Stearns is an American computer scientist who, with Juris Hartmanis, received the 1993 ACM Turing Award \"in recognition of their seminal paper which established the foundations for the field of computational complexity theory\". In 1994 he was inducted as a Fellow of the Association for Computing Machinery.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dick_Stearns.jpg/330px-Dick_Stearns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_E._Stearns",
+  "dateOfBirth": "1936-07-05",
+  "birthDateParsed": "1936-07-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.8392",
+  "birthCoordinatesLng": "-74.277",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "university teacher",
+    "editor",
+    "mathematician"
+  ],
+  "qid": "Q92822",
+  "birthPlace": "Caldwell",
+  "fetchedAt": "2026-08-10T04:29:36.150Z"
+}

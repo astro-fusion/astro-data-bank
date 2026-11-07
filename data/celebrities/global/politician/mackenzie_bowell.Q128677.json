@@ -1,0 +1,35 @@
+{
+  "publicId": "9fcba980",
+  "wikipediaSlug": "Mackenzie_Bowell",
+  "wikipediaId": "Q128677",
+  "name": "Mackenzie Bowell",
+  "fullName": "Mackenzie Bowell",
+  "profileSummary": "Sir Mackenzie Bowell was the fifth prime minister of Canada, serving from 1894 to 1896.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/SirMackenzieBowell.jpg/330px-SirMackenzieBowell.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mackenzie_Bowell",
+  "dateOfBirth": "1823-12-27",
+  "birthDateParsed": "1823-12-27",
+  "dateOfDeath": "1917-12-10",
+  "deathDateParsed": "1917-12-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.333",
+  "birthCoordinatesLng": "1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "entrepreneur",
+    "journalist",
+    "printer",
+    "editor"
+  ],
+  "qid": "Q128677",
+  "birthPlace": "Rickinghall",
+  "fetchedAt": "2026-08-03T10:59:33.481Z"
+}

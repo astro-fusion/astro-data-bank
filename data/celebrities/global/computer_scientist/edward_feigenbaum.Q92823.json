@@ -1,0 +1,35 @@
+{
+  "publicId": "e0313178",
+  "wikipediaSlug": "Edward_Feigenbaum",
+  "wikipediaId": "Q92823",
+  "name": "Edward Feigenbaum",
+  "fullName": "Edward Feigenbaum",
+  "profileSummary": "Edward Albert Feigenbaum is an American computer scientist working in the field of artificial intelligence, and with Raj Reddy he won the 1994 ACM Turing Award. He is often called the \"father of expert systems\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/27._Dr._Edward_A._Feigenbaum_1994-1997.jpg/330px-27._Dr._Edward_A._Feigenbaum_1994-1997.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Feigenbaum",
+  "dateOfBirth": "1936-01-20",
+  "birthDateParsed": "1936-01-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.771388888",
+  "birthCoordinatesLng": "-74.019444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher",
+    "artificial intelligence researcher",
+    "inventor",
+    "academic"
+  ],
+  "qid": "Q92823",
+  "birthPlace": "Weehawken",
+  "fetchedAt": "2026-08-10T04:28:47.785Z"
+}

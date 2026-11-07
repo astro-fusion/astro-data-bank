@@ -1,0 +1,33 @@
+{
+  "publicId": "e40fe1ad",
+  "wikipediaSlug": "Alex_Abisheganaden",
+  "wikipediaId": "Q97818135",
+  "name": "Alex Abisheganaden",
+  "fullName": "Alex Abisheganaden",
+  "profileSummary": "Alexander S. Abisheganaden was a Singaporean classical guitarist and double bassist. Regarded as \"the most important guitarist in Singapore history\", Abisheganaden was also an educator and was the Inspector of Schools from 1964 to 1981 for the Ministry of Education (MOE). In 1988, he received the Cultural Medallion award for Music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/Alex_Abisheganaden.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Abisheganaden",
+  "dateOfBirth": "1926-01-13",
+  "birthDateParsed": "1926-01-13",
+  "dateOfDeath": "2023-03-17",
+  "deathDateParsed": "2023-03-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guitarist",
+    "musician",
+    "classical guitarist"
+  ],
+  "qid": "Q97818135",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T09:08:59.066Z"
+}

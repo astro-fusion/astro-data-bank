@@ -1,0 +1,31 @@
+{
+  "publicId": "e63d77ed",
+  "wikipediaSlug": "Léon_Jouhaux",
+  "wikipediaId": "Q155415",
+  "name": "Léon Jouhaux",
+  "fullName": "Léon Jouhaux",
+  "profileSummary": "Léon Jouhaux was a French trade union leader who received the Nobel Peace Prize in 1951.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/L%C3%A9on_Jouhaux_nobel.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A9on_Jouhaux",
+  "dateOfBirth": "1879-07-01",
+  "birthDateParsed": "1879-07-01",
+  "dateOfDeath": "1954-04-28",
+  "deathDateParsed": "1954-04-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.841327777",
+  "birthCoordinatesLng": "2.300291666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "trade unionist"
+  ],
+  "qid": "Q155415",
+  "birthPlace": "15th arrondissement of Paris",
+  "fetchedAt": "2026-08-04T02:13:56.059Z"
+}

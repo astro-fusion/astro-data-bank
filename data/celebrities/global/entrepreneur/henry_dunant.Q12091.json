@@ -1,0 +1,34 @@
+{
+  "publicId": "115e99cf",
+  "wikipediaSlug": "Henry_Dunant",
+  "wikipediaId": "Q12091",
+  "name": "Henry Dunant",
+  "fullName": "Henry Dunant",
+  "profileSummary": "Henry Dunant, also known as Henri Dunant, was a Swiss humanitarian, businessman, social activist, and co-founder of the Red Cross. His humanitarian efforts won him the first Nobel Peace Prize in 1901.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Henry_Dunant-young.jpg/330px-Henry_Dunant-young.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Dunant",
+  "dateOfBirth": "1828-05-08",
+  "birthDateParsed": "1828-05-08",
+  "dateOfDeath": "1910-10-30",
+  "deathDateParsed": "1910-10-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.2",
+  "birthCoordinatesLng": "6.15",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "writer",
+    "founder",
+    "merchant"
+  ],
+  "qid": "Q12091",
+  "birthPlace": "Geneva",
+  "fetchedAt": "2026-08-04T02:13:17.880Z"
+}

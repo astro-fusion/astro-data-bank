@@ -1,0 +1,32 @@
+{
+  "publicId": "a806b10d",
+  "wikipediaSlug": "Frank_de_Boer",
+  "wikipediaId": "Q219657",
+  "name": "Frank de Boer",
+  "fullName": "Frank de Boer",
+  "profileSummary": "Franciscus de Boer is a Dutch former professional footballer and current manager. A former defender, De Boer spent most of his playing career with Ajax, winning five Eredivisie titles, two KNVB Cups, three Super Cups, one UEFA Super Cup, one UEFA Cup, one UEFA Champions League, and one Intercontinental Cup. He later spent five years at Barcelona, where he won the 1998–99 La Liga title, followed by short spells at Galatasaray, Rangers, Al-Rayyan and Al-Shamal before retiring.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FrankBoer.JPG/330px-FrankBoer.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_de_Boer",
+  "dateOfBirth": "1970-05-15",
+  "birthDateParsed": "1970-05-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.653333333",
+  "birthCoordinatesLng": "5.073333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q219657",
+  "birthPlace": "Hoorn",
+  "fetchedAt": "2026-08-01T05:20:19.093Z"
+}

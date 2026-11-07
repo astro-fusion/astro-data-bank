@@ -1,0 +1,32 @@
+{
+  "publicId": "60d991e3",
+  "wikipediaSlug": "Phil_Hill",
+  "wikipediaId": "Q3112",
+  "name": "Phil Hill",
+  "fullName": "Phil Hill",
+  "profileSummary": "Philip Toll Hill Jr. was an American racing driver, who competed in Formula One from 1958 to 1966. Hill won the Formula One World Drivers' Championship in 1961 with Ferrari, and won three Grands Prix across eight seasons. In endurance racing, Hill was a three-time winner of both the 24 Hours of Le Mans and the 12 Hours of Sebring, all with Ferrari. Upon winning the 24 Hours of Daytona in 1964 with NART, Hill became the first driver to complete the Triple Crown of endurance racing.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Phil_Hill_1991_USA_%28cropped%29.jpg/330px-Phil_Hill_1991_USA_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Phil_Hill",
+  "dateOfBirth": "1927-04-20",
+  "birthDateParsed": "1927-04-20",
+  "dateOfDeath": "2008-08-28",
+  "deathDateParsed": "2008-08-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.783333333",
+  "birthCoordinatesLng": "-80.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q3112",
+  "birthPlace": "Miami",
+  "fetchedAt": "2026-08-01T16:01:46.707Z"
+}

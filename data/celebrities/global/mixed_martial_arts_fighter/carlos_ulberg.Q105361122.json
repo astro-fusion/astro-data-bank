@@ -1,0 +1,31 @@
+{
+  "publicId": "950fa33b",
+  "wikipediaSlug": "Carlos_Ulberg",
+  "wikipediaId": "Q105361122",
+  "name": "Carlos Ulberg",
+  "fullName": "Carlos Ulberg",
+  "profileSummary": "Carlos Sao Murry Ulberg is a New Zealand professional mixed martial artist and former kickboxer. He currently competes in the Light Heavyweight division of the Ultimate Fighting Championship (UFC), where he is the current UFC Light Heavyweight Champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250%2C_Saturday%2C_June_13%2C_2026_-_11%28cropped%29.jpg/330px-Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250%2C_Saturday%2C_June_13%2C_2026_-_11%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Ulberg",
+  "dateOfBirth": "1990-11-17",
+  "birthDateParsed": "1990-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.2",
+  "birthCoordinatesLng": "174",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q105361122",
+  "birthPlace": "New Zealand",
+  "fetchedAt": "2026-08-01T17:04:13.881Z"
+}

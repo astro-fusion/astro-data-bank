@@ -1,0 +1,36 @@
+{
+  "publicId": "dc281c6b",
+  "wikipediaSlug": "Gerty_Cori",
+  "wikipediaId": "Q204733",
+  "name": "Gerty Cori",
+  "fullName": "Gerty Cori",
+  "profileSummary": "Gerty Theresa Cori was a Czech and American biochemist who in 1947 was the third woman to win a Nobel Prize in science, and the first woman to be awarded the Nobel Prize in Physiology or Medicine, for her role in the \"discovery of the course of the catalytic conversion of glycogen\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gerty_Theresa_Cori.jpg/330px-Gerty_Theresa_Cori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerty_Cori",
+  "dateOfBirth": "1896-08-15",
+  "birthDateParsed": "1896-08-15",
+  "dateOfDeath": "1956-10-26",
+  "deathDateParsed": "1956-10-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0875",
+  "birthCoordinatesLng": "14.421388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "psychologist",
+    "physician",
+    "chemist",
+    "physiologist",
+    "researcher"
+  ],
+  "qid": "Q204733",
+  "birthPlace": "Prague",
+  "fetchedAt": "2026-08-10T03:15:02.234Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "acb743c5",
+  "wikipediaSlug": "Philip_Anschutz",
+  "wikipediaId": "Q1133456",
+  "name": "Philip Anschutz",
+  "fullName": "Philip Anschutz",
+  "profileSummary": "Philip Frederick Anschutz is an American billionaire businessman who owns or controls companies in a variety of industries, including energy, railroads, real estate, sports, newspapers, travel, movies, theaters, arenas and music. In 2004, he purchased the parent company of the Journal Newspapers, which under Anschutz's direction became the American conservative editorial newspaper Washington Examiner. Anschutz is the son of Fred and Marian Pfister Anschutz.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philip_Anschutz",
+  "dateOfBirth": "1939-12-28",
+  "birthDateParsed": "1939-12-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.8897",
+  "birthCoordinatesLng": "-98.8572",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "publisher"
+  ],
+  "qid": "Q1133456",
+  "birthPlace": "Russell",
+  "fetchedAt": "2026-08-04T03:35:17.834Z"
+}

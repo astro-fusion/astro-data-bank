@@ -1,0 +1,33 @@
+{
+  "publicId": "a4529bc6",
+  "wikipediaSlug": "Stanley_Bruce",
+  "wikipediaId": "Q23358",
+  "name": "Stanley Bruce",
+  "fullName": "Stanley Bruce",
+  "profileSummary": "Stanley Melbourne Bruce, 1st Viscount Bruce of Melbourne was an Australian politician, statesman and businessman who served as the eighth prime minister of Australia from 1923 to 1929. He held office as the leader of the Nationalist Party, having previously served as the treasurer of Australia from 1921 to 1923.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Stanley_Bruce_1930.jpg/330px-Stanley_Bruce_1930.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stanley_Bruce",
+  "dateOfBirth": "1883-04-15",
+  "birthDateParsed": "1883-04-15",
+  "dateOfDeath": "1967-08-25",
+  "deathDateParsed": "1967-08-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer"
+  ],
+  "qid": "Q23358",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-03T12:59:00.773Z"
+}

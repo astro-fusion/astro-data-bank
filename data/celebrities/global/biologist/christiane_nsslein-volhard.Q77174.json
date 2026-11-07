@@ -1,0 +1,37 @@
+{
+  "publicId": "03f166c4",
+  "wikipediaSlug": "Christiane_Nüsslein-Volhard",
+  "wikipediaId": "Q77174",
+  "name": "Christiane Nüsslein-Volhard",
+  "fullName": "Christiane Nüsslein-Volhard",
+  "profileSummary": "Christiane (Janni) Nüsslein-Volhard is a German developmental biologist and a 1995 Nobel Prize in Physiology or Medicine laureate. She is the only woman from Germany to have received a Nobel Prize in the sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Christiane_N%C3%BCsslein-Volhard_mg_4372.jpg/330px-Christiane_N%C3%BCsslein-Volhard_mg_4372.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christiane_N%C3%BCsslein-Volhard",
+  "dateOfBirth": "1942-10-20",
+  "birthDateParsed": "1942-10-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.1315889",
+  "birthCoordinatesLng": "11.6399609",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "biochemist",
+    "geneticist",
+    "psychologist",
+    "university teacher",
+    "physiologist",
+    "chemist"
+  ],
+  "qid": "Q77174",
+  "birthPlace": "Magdeburg",
+  "fetchedAt": "2026-08-10T03:14:12.528Z"
+}

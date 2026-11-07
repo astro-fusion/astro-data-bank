@@ -1,0 +1,32 @@
+{
+  "publicId": "abf558d0",
+  "wikipediaSlug": "Chuck_McKinley",
+  "wikipediaId": "Q54540",
+  "name": "Chuck McKinley",
+  "fullName": "Chuck McKinley",
+  "profileSummary": "Charles Robert McKinley Jr. was an American former men's amateur tennis champion of the 1960s, who was at one time rated the best in the world by many experts. He is remembered as an undersized, hard-working dynamo, whose relentless effort and competitive spirit led American tennis to the top of the sport during a period heavily dominated by Australians.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/1/13/ChuckMcKinleyImage.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chuck_McKinley",
+  "dateOfBirth": "1941-01-05",
+  "birthDateParsed": "1941-01-05",
+  "dateOfDeath": "1986-08-10",
+  "deathDateParsed": "1986-08-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.626388888",
+  "birthCoordinatesLng": "-90.199444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "stockbroker"
+  ],
+  "qid": "Q54540",
+  "birthPlace": "St. Louis",
+  "fetchedAt": "2026-08-01T13:10:40.661Z"
+}

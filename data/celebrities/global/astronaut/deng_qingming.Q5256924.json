@@ -1,0 +1,33 @@
+{
+  "publicId": "39d963b1",
+  "wikipediaSlug": "Deng_Qingming",
+  "wikipediaId": "Q5256924",
+  "name": "Deng Qingming",
+  "fullName": "Deng Qingming",
+  "profileSummary": "Deng Qingming is a Chinese People's Liberation Army Astronaut Corps (PLAAC) taikonaut selected as part of the Shenzhou program.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Deng_Qingming_%28cropped%29.jpg/330px-Deng_Qingming_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deng_Qingming",
+  "dateOfBirth": "1966-03-16",
+  "birthDateParsed": "1966-03-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.4",
+  "birthCoordinatesLng": "116.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "aircraft pilot",
+    "fighter pilot"
+  ],
+  "qid": "Q5256924",
+  "birthPlace": "Yihuang County",
+  "fetchedAt": "2026-08-10T06:04:33.204Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "04e16c7c",
+  "wikipediaSlug": "Henry_Way_Kendall",
+  "wikipediaId": "Q190495",
+  "name": "Henry Way Kendall",
+  "fullName": "Henry Way Kendall",
+  "profileSummary": "Henry Way Kendall was an American particle physicist who won the Nobel Prize in Physics in 1990 jointly with Jerome Isaac Friedman and Richard E. Taylor \"for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Henry_Kendall_by_Tom_Frost_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Way_Kendall",
+  "dateOfBirth": "1926-12-09",
+  "birthDateParsed": "1926-12-09",
+  "dateOfDeath": "1999-02-15",
+  "deathDateParsed": "1999-02-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "mountaineer",
+    "university teacher"
+  ],
+  "qid": "Q190495",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-06T05:02:08.359Z"
+}

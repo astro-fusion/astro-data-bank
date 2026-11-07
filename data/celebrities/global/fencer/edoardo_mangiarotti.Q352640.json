@@ -1,0 +1,31 @@
+{
+  "publicId": "6142f9e9",
+  "wikipediaSlug": "Edoardo_Mangiarotti",
+  "wikipediaId": "Q352640",
+  "name": "Edoardo Mangiarotti",
+  "fullName": "Edoardo Mangiarotti",
+  "profileSummary": "Edoardo Mangiarotti was an Italian fencer. He won a total of 39 Olympic and World championship medals, more than any other fencer in the history of the sport. His Olympic medals include one individual gold, five team golds, five silver, and two bronze medals from 1936 to 1960, making him the second-most decorated Italian Olympian of all time and the twelfth-most decorated Olympian of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Edoardo_Mangiarotti2.jpg/330px-Edoardo_Mangiarotti2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edoardo_Mangiarotti",
+  "dateOfBirth": "1919-04-07",
+  "birthDateParsed": "1919-04-07",
+  "dateOfDeath": "2012-05-25",
+  "deathDateParsed": "2012-05-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.7224952",
+  "birthCoordinatesLng": "9.2783476",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "fencer"
+  ],
+  "qid": "Q352640",
+  "birthPlace": "Renate",
+  "fetchedAt": "2026-08-10T12:59:17.535Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "92420d25",
+  "wikipediaSlug": "Eusébio",
+  "wikipediaId": "Q162043",
+  "name": "Eusébio",
+  "fullName": "Eusébio",
+  "profileSummary": "Eusébio da Silva Ferreira, nicknamed the \"Black Panther\", the \"Black Pearl\" or \"o Rei\", was a Portuguese footballer who played as a striker. He is considered one of the greatest players of all time as well as Benfica's best player ever. He was known for his speed, technique, athleticism and right-footed shot, making him a prolific goalscorer, accumulating 733 goals in 745 matches. Eusébio was the first ever player to win European Golden Boot, World Cup Golden Boot and UCL Golden Boot. In the UEFA Champions League, he ranks second for the all-time Portuguese top goalscorers, scoring 47 goals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Eusebio_en_1973.jpg/330px-Eusebio_en_1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eus%C3%A9bio",
+  "dateOfBirth": "1942-01-25",
+  "birthDateParsed": "1942-01-25",
+  "dateOfDeath": "2014-01-05",
+  "deathDateParsed": "2014-01-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-25.968888888",
+  "birthCoordinatesLng": "32.573333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "athlete"
+  ],
+  "qid": "Q162043",
+  "birthPlace": "Maputo",
+  "fetchedAt": "2026-08-10T11:28:04.779Z"
+}

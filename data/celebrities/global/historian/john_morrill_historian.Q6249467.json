@@ -1,0 +1,32 @@
+{
+  "publicId": "de9d73aa",
+  "wikipediaSlug": "John_Morrill_(historian)",
+  "wikipediaId": "Q6249467",
+  "name": "John Morrill (historian)",
+  "fullName": "John Morrill (historian)",
+  "profileSummary": "John Stephen Morrill is a British Roman Catholic Priest, historian and academic who specialises in the political, religious, social, and cultural history of early-modern Britain from 1500 to 1750, especially the English Civil War. He is best known for his scholarship on early modern politics and his unique county studies approach which he developed at Cambridge. Morrill was educated at Trinity College, Oxford, and became a fellow of Selwyn College, Cambridge, in 1975.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Morrill_(historian)",
+  "dateOfBirth": "1946-01-01",
+  "birthDateParsed": "1946-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "university teacher"
+  ],
+  "qid": "Q6249467",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-02T05:22:36.536Z"
+}

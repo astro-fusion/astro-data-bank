@@ -1,0 +1,31 @@
+{
+  "publicId": "6faceb01",
+  "wikipediaSlug": "Vernon_Bogdanor",
+  "wikipediaId": "Q7922071",
+  "name": "Vernon Bogdanor",
+  "fullName": "Vernon Bogdanor",
+  "profileSummary": "Sir Vernon Bernard Bogdanor is a British political scientist, historian and research professor at the Institute for Contemporary British History at King's College London. He is also emeritus professor of politics and government at the University of Oxford and an emeritus fellow of Brasenose College, Oxford. He is one of Britain's foremost constitutional experts and has written extensively on political and constitutional issues.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Vernon_Bogdanor_%28Sep_2015%29.jpg/330px-Vernon_Bogdanor_%28Sep_2015%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vernon_Bogdanor",
+  "dateOfBirth": "1943-07-16",
+  "birthDateParsed": "1943-07-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.434",
+  "birthCoordinatesLng": "-0.511",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "political scientist"
+  ],
+  "qid": "Q7922071",
+  "birthPlace": "Staines-upon-Thames",
+  "fetchedAt": "2026-08-02T05:23:20.356Z"
+}

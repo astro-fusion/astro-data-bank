@@ -1,0 +1,31 @@
+{
+  "publicId": "33a06dcd",
+  "wikipediaSlug": "Jay_Pritzker",
+  "wikipediaId": "Q1378735",
+  "name": "Jay Pritzker",
+  "fullName": "Jay Pritzker",
+  "profileSummary": "Jay Arthur Pritzker was an American businessman and member of the Pritzker family. He was a founder of the Hyatt Corporation, having purchased the first Hyatt Hotel in 1957, and was responsible for the corporation's evolution into a multinational hospitality conglomerate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Jay_Pritzker.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jay_Pritzker",
+  "dateOfBirth": "1922-08-26",
+  "birthDateParsed": "1922-08-26",
+  "dateOfDeath": "1999-01-23",
+  "deathDateParsed": "1999-01-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur"
+  ],
+  "qid": "Q1378735",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-04T03:34:56.655Z"
+}

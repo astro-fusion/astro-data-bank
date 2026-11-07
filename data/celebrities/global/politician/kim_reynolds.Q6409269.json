@@ -1,0 +1,32 @@
+{
+  "publicId": "d3cad475",
+  "wikipediaSlug": "Kim_Reynolds",
+  "wikipediaId": "Q6409269",
+  "name": "Kim Reynolds",
+  "fullName": "Kim Reynolds",
+  "profileSummary": "Kimberly Kay Reynolds is an American politician serving since 2017 as the 43rd governor of Iowa. A member of the Republican Party, she is the first female governor in Iowa history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kim_Reynolds_by_Gage_Skidmore_2.jpg/330px-Kim_Reynolds_by_Gage_Skidmore_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Reynolds",
+  "dateOfBirth": "1959-08-04",
+  "birthDateParsed": "1959-08-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.288333333",
+  "birthCoordinatesLng": "-93.809444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "pharmacy technician"
+  ],
+  "qid": "Q6409269",
+  "birthPlace": "St. Charles",
+  "fetchedAt": "2026-08-02T03:28:21.107Z"
+}

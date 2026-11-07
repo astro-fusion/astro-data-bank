@@ -1,0 +1,34 @@
+{
+  "publicId": "b8adc3e9",
+  "wikipediaSlug": "Brian_Kemp",
+  "wikipediaId": "Q4964973",
+  "name": "Brian Kemp",
+  "fullName": "Brian Kemp",
+  "profileSummary": "Brian Porter Kemp is an American politician serving as the 83rd governor of Georgia since 2019. A member of the Republican Party, Kemp served as the state's 27th secretary of state from 2010 to 2018, and as a member of the Georgia State Senate from 2003 to 2007. He is the first Republican since Reconstruction to be elected governor of Georgia who was not a former Democrat.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Brian_Kemp_portrait%2C_2024_%28cropped%29.jpg/330px-Brian_Kemp_portrait%2C_2024_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Kemp",
+  "dateOfBirth": "1963-11-02",
+  "birthDateParsed": "1963-11-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.955277777",
+  "birthCoordinatesLng": "-83.383055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "governor",
+    "jurist",
+    "lawyer"
+  ],
+  "qid": "Q4964973",
+  "birthPlace": "Athens",
+  "fetchedAt": "2026-08-02T03:27:59.447Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "2117f5e6",
+  "wikipediaSlug": "Alix_Didier_Fils-Aimé",
+  "wikipediaId": "Q131140314",
+  "name": "Alix Didier Fils-Aimé",
+  "fullName": "Alix Didier Fils-Aimé",
+  "profileSummary": "Alix Didier Fils-Aimé is a Haitian businessman and politician who has served as the acting prime minister of Haiti since 2024, and became the country’s sole leader following the dissolution of the Transitional Presidential Council, starting on 7 February 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2026_Alix_Didier_Fils-Aim%C3%A9_%28cropped%29.jpg/330px-2026_Alix_Didier_Fils-Aim%C3%A9_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alix_Didier_Fils-Aim%C3%A9",
+  "dateOfBirth": "1971-11-14",
+  "birthDateParsed": "1971-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.546944444",
+  "birthCoordinatesLng": "-72.340277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q131140314",
+  "birthPlace": "Port-au-Prince",
+  "fetchedAt": "2026-08-03T16:49:35.404Z"
+}

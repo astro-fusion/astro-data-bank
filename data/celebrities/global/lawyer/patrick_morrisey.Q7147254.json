@@ -1,0 +1,31 @@
+{
+  "publicId": "ca1085ea",
+  "wikipediaSlug": "Patrick_Morrisey",
+  "wikipediaId": "Q7147254",
+  "name": "Patrick Morrisey",
+  "fullName": "Patrick Morrisey",
+  "profileSummary": "Patrick James Morrisey is an American politician and attorney serving since 2025 as the 37th governor of West Virginia. A member of the Republican Party, he served from 2013 to 2025 as the 34th attorney general of West Virginia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Patrick_Morrisey_2026_%28cropped%29.jpg/330px-Patrick_Morrisey_2026_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Morrisey",
+  "dateOfBirth": "1967-12-21",
+  "birthDateParsed": "1967-12-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer"
+  ],
+  "qid": "Q7147254",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-02T03:29:00.220Z"
+}

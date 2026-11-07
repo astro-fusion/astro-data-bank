@@ -1,0 +1,42 @@
+{
+  "publicId": "4f65aa8c",
+  "wikipediaSlug": "David_Rockefeller",
+  "wikipediaId": "Q11239",
+  "name": "David Rockefeller",
+  "fullName": "David Rockefeller",
+  "profileSummary": "David Rockefeller was an American economist and investment banker who served as chairman and chief executive of Chase Manhattan Corporation. He was the oldest living member of the Rockefeller family from 2004 until his death in 2017. Rockefeller was the fifth son and youngest child of John D. Rockefeller Jr. and Abby Aldrich Rockefeller, and a grandson of John D. Rockefeller and Laura Spelman Rockefeller.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/David_Rockefeller%2C_1984_%28cropped%29_%282%29.jpg/330px-David_Rockefeller%2C_1984_%28cropped%29_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Rockefeller",
+  "dateOfBirth": "1915-06-12",
+  "birthDateParsed": "1915-06-12",
+  "dateOfDeath": "2017-03-20",
+  "deathDateParsed": "2017-03-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.728333333",
+  "birthCoordinatesLng": "-73.994166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "art collector",
+    "banker",
+    "autobiographer",
+    "statesperson",
+    "businessperson",
+    "entomologist",
+    "writer",
+    "entrepreneur",
+    "philanthropist",
+    "financier",
+    "soldier",
+    "commissioned armed forces officers"
+  ],
+  "qid": "Q11239",
+  "birthPlace": "Manhattan",
+  "fetchedAt": "2026-08-04T03:34:12.583Z"
+}

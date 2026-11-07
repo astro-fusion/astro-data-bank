@@ -1,0 +1,34 @@
+{
+  "publicId": "133bafdc",
+  "wikipediaSlug": "Andreas_Acrivos",
+  "wikipediaId": "Q4755355",
+  "name": "Andreas Acrivos",
+  "fullName": "Andreas Acrivos",
+  "profileSummary": "Andreas Acrivos was a Greek-American physicist who was the Albert Einstein Professor of Science and Engineering at the City College of New York. He was also the director of the Benjamin Levich Institute for Physicochemical Hydrodynamics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Andreas_Acrivos.jpg/330px-Andreas_Acrivos.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Acrivos",
+  "dateOfBirth": "1928-06-13",
+  "birthDateParsed": "1928-06-13",
+  "dateOfDeath": "2025-02-17",
+  "deathDateParsed": "2025-02-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.984166666",
+  "birthCoordinatesLng": "23.728055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "chemical engineer",
+    "university teacher",
+    "fluid dynamicist"
+  ],
+  "qid": "Q4755355",
+  "birthPlace": "Athens",
+  "fetchedAt": "2026-08-04T15:04:59.408Z"
+}

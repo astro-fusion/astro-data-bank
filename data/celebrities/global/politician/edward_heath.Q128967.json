@@ -1,0 +1,34 @@
+{
+  "publicId": "c40b74a1",
+  "wikipediaSlug": "Edward_Heath",
+  "wikipediaId": "Q128967",
+  "name": "Edward Heath",
+  "fullName": "Edward Heath",
+  "profileSummary": "Sir Edward Richard George Heath was a British statesman and politician who served as Prime Minister of the United Kingdom from 1970 to 1974 and Leader of the Conservative Party from 1965 to 1975. Heath also served for 51 years as a Member of Parliament from 1950 to 2001. Outside politics, Heath was a yachtsman, a musician, and an author.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Edward_Heath_4_Allan_Warren.jpg/330px-Edward_Heath_4_Allan_Warren.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Heath",
+  "dateOfBirth": "1916-07-09",
+  "birthDateParsed": "1916-07-09",
+  "dateOfDeath": "2005-07-17",
+  "deathDateParsed": "2005-07-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.358880555",
+  "birthCoordinatesLng": "1.439438888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "journalist",
+    "conductor"
+  ],
+  "qid": "Q128967",
+  "birthPlace": "Broadstairs",
+  "fetchedAt": "2026-08-02T05:21:42.467Z"
+}

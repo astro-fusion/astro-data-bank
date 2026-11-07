@@ -1,0 +1,32 @@
+{
+  "publicId": "7a708cc6",
+  "wikipediaSlug": "Cécile_La_Grenade",
+  "wikipediaId": "Q11964294",
+  "name": "Cécile La Grenade",
+  "fullName": "Cécile La Grenade",
+  "profileSummary": "Dame Cécile Ellen Fleurette La Grenade, is a Grenadian food scientist who has served as governor-general of Grenada since 2013. She is the first woman to hold this position.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cecile_La_Grenade_2022-07-01.jpg/330px-Cecile_La_Grenade_2022-07-01.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9cile_La_Grenade",
+  "dateOfBirth": "1952-12-30",
+  "birthDateParsed": "1952-12-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.042036111",
+  "birthCoordinatesLng": "-61.728419444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "scientist",
+    "politician"
+  ],
+  "qid": "Q11964294",
+  "birthPlace": "La Borie",
+  "fetchedAt": "2026-08-04T00:55:39.939Z"
+}

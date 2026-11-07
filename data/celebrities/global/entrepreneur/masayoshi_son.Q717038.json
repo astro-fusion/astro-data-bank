@@ -1,0 +1,32 @@
+{
+  "publicId": "101ed149",
+  "wikipediaSlug": "Masayoshi_Son",
+  "wikipediaId": "Q717038",
+  "name": "Masayoshi Son",
+  "fullName": "Masayoshi Son",
+  "profileSummary": "Masayoshi Son is a Japanese entrepreneur, investor, and philanthropist. A Zainichi Korean, he is the founder, chairman and chief executive of SoftBank Group (SBG), a technology-focused investment holding company, as well as chairman of UK-based Arm Holdings and US-based Stargate LLC.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Masayoshi_Son_%28P066533-522034%2C_cropped%29.jpg/330px-Masayoshi_Son_%28P066533-522034%2C_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Masayoshi_Son",
+  "dateOfBirth": "1957-08-11",
+  "birthDateParsed": "1957-08-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.377833333",
+  "birthCoordinatesLng": "130.506138888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "engineer"
+  ],
+  "qid": "Q717038",
+  "birthPlace": "Tosu",
+  "fetchedAt": "2026-08-04T03:35:05.892Z"
+}

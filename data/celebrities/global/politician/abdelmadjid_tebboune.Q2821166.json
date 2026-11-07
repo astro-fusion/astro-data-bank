@@ -1,0 +1,33 @@
+{
+  "publicId": "9217cb3d",
+  "wikipediaSlug": "Abdelmadjid_Tebboune",
+  "wikipediaId": "Q2821166",
+  "name": "Abdelmadjid Tebboune",
+  "fullName": "Abdelmadjid Tebboune",
+  "profileSummary": "Abdelmadjid Tebboune is an Algerian politician currently serving as President and Minister of National Defense of Algeria since 2019. Since the death of Liamine Zéroual in 2026, Tebboune is the only living Algerian president.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Abdelmadjid_Tebboune_in_2024_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdelmadjid_Tebboune",
+  "dateOfBirth": "1945-11-17",
+  "birthDateParsed": "1945-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.55",
+  "birthCoordinatesLng": "-0.283333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "head of government",
+    "minister"
+  ],
+  "qid": "Q2821166",
+  "birthPlace": "Mécheria",
+  "fetchedAt": "2026-08-03T16:48:49.922Z"
+}

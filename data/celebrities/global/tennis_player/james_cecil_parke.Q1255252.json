@@ -1,0 +1,35 @@
+{
+  "publicId": "2d139b2a",
+  "wikipediaSlug": "James_Cecil_Parke",
+  "wikipediaId": "Q1255252",
+  "name": "James Cecil Parke",
+  "fullName": "James Cecil Parke",
+  "profileSummary": "James Cecil Parke was an Irish rugby union player, tennis player, golfer, solicitor and World War I veteran. He became an Olympic silver medallist, Davis Cup champion, Wimbledon Mixed Doubles winner and Australasian Championships winner in both Singles and Doubles. He has often been referred to as Ireland's greatest ever sportsman.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/James_C._Parke.jpg/330px-James_C._Parke.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Cecil_Parke",
+  "dateOfBirth": "1881-07-26",
+  "birthDateParsed": "1881-07-26",
+  "dateOfDeath": "1946-02-27",
+  "deathDateParsed": "1946-02-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.180555555",
+  "birthCoordinatesLng": "-7.2325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "military officer",
+    "cricketer",
+    "rugby union player",
+    "golfer"
+  ],
+  "qid": "Q1255252",
+  "birthPlace": "Clones",
+  "fetchedAt": "2026-08-01T13:12:17.136Z"
+}

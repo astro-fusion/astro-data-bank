@@ -1,0 +1,33 @@
+{
+  "publicId": "79dc32e6",
+  "wikipediaSlug": "Carolyn_Bertozzi",
+  "wikipediaId": "Q7442",
+  "name": "Carolyn Bertozzi",
+  "fullName": "Carolyn Bertozzi",
+  "profileSummary": "Carolyn Ruth Bertozzi is an American chemist and Nobel laureate, known for her wide-ranging work spanning both chemistry and biology. She coined the term \"bioorthogonal chemistry\" for chemical reactions compatible with living systems. Her recent efforts include synthesis of chemical tools to study cell surface sugars called glycans and how they affect diseases such as cancer, inflammation, and viral infections like COVID-19. At Stanford University, she holds the Anne T. and Robert M. Bass Professorship in the School of Humanities and Sciences. Bertozzi is also an Investigator at the Howard Hughes Medical Institute (HHMI) and is the former director of the Molecular Foundry, a nanoscience research center at Lawrence Berkeley National Laboratory. Since 2024, she has served as a scientific advisory board member of Arc Institute.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Carolyn_Bertozzi_by_Christopher_Michel_in_2022_4.jpg/330px-Carolyn_Bertozzi_by_Christopher_Michel_in_2022_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carolyn_Bertozzi",
+  "dateOfBirth": "1966-10-10",
+  "birthDateParsed": "1966-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "biochemist",
+    "university teacher"
+  ],
+  "qid": "Q7442",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T02:03:39.937Z"
+}

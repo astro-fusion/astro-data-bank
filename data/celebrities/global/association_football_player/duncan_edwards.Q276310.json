@@ -1,0 +1,31 @@
+{
+  "publicId": "8b86b680",
+  "wikipediaSlug": "Duncan_Edwards",
+  "wikipediaId": "Q276310",
+  "name": "Duncan Edwards",
+  "fullName": "Duncan Edwards",
+  "profileSummary": "Duncan Edwards was an English footballer who played as a left-half for Manchester United and the England national team. He was one of the Busby Babes, the young United team formed under manager Matt Busby in the mid-1950s, playing 177 matches for the club. He was noted for his physical strength, toughness, and level of authority on the pitch, and has been ranked amongst the toughest players of all time. One of eight players who died as a result of the Munich air disaster, he survived initially but succumbed to his injuries in hospital two weeks later. Many of his contemporaries have described him as one of the best, if not the best, players with whom they had played.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DuncanEdwards1.jpg/330px-DuncanEdwards1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Duncan_Edwards",
+  "dateOfBirth": "1936-10-01",
+  "birthDateParsed": "1936-10-01",
+  "dateOfDeath": "1958-02-21",
+  "deathDateParsed": "1958-02-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "-2.1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q276310",
+  "birthPlace": "Dudley",
+  "fetchedAt": "2026-08-10T11:27:42.362Z"
+}

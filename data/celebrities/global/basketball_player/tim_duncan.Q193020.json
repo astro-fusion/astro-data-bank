@@ -1,0 +1,32 @@
+{
+  "publicId": "235e7484",
+  "wikipediaSlug": "Tim_Duncan",
+  "wikipediaId": "Q193020",
+  "name": "Tim Duncan",
+  "fullName": "Tim Duncan",
+  "profileSummary": "Timothy Theodore Duncan is an American former professional basketball player and coach who spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA). Nicknamed \"the Big Fundamental\", he is widely considered the greatest power forward of all time and one of the greatest players in NBA history, and was a central contributor to the franchise's success during the 2000s and 2010s. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tim_Duncan_Walks_Verizon_Center%27s_Floor_%28cropped%29_%28cropped%29.jpg/330px-Tim_Duncan_Walks_Verizon_Center%27s_Floor_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Duncan",
+  "dateOfBirth": "1976-04-25",
+  "birthDateParsed": "1976-04-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.75",
+  "birthCoordinatesLng": "-64.75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q193020",
+  "birthPlace": "Christiansted",
+  "fetchedAt": "2026-08-01T15:38:30.898Z"
+}

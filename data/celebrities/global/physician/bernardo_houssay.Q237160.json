@@ -1,0 +1,35 @@
+{
+  "publicId": "1ff6ec4e",
+  "wikipediaSlug": "Bernardo_Houssay",
+  "wikipediaId": "Q237160",
+  "name": "Bernardo Houssay",
+  "fullName": "Bernardo Houssay",
+  "profileSummary": "Bernardo Alberto Houssay was an Argentinian physiologist. Houssay was a co-recipient of the 1947 Nobel Prize for Physiology or Medicine for discovering the role played by pituitary hormones in regulating the amount of glucose in animals, sharing the prize with Carl Ferdinand Cori and Gerty Cori. He is the first Latin American Nobel laureate in the sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bernardo_Alberto_Houssay.jpg/330px-Bernardo_Alberto_Houssay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernardo_Houssay",
+  "dateOfBirth": "1887-04-10",
+  "birthDateParsed": "1887-04-10",
+  "dateOfDeath": "1971-09-21",
+  "deathDateParsed": "1971-09-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "chemist",
+    "pharmacist",
+    "entomologist",
+    "biologist"
+  ],
+  "qid": "Q237160",
+  "birthPlace": "Buenos Aires",
+  "fetchedAt": "2026-08-10T03:14:06.324Z"
+}

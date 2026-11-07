@@ -1,0 +1,32 @@
+{
+  "publicId": "fa4ed763",
+  "wikipediaSlug": "Chris_Rogers_(cricketer)",
+  "wikipediaId": "Q953381",
+  "name": "Chris Rogers (cricketer)",
+  "fullName": "Chris Rogers (cricketer)",
+  "profileSummary": "Christopher John Llewellyn Rogers is a former Australian cricketer who played for the Australian national team. Rogers is a left-handed opening batsman. He spent ten years playing for Western Australia, before moving to play for Victoria in 2008. He played county cricket in England for ten years representing five first-class teams: Derbyshire, Leicestershire, Northamptonshire, Middlesex and Somerset. Rogers holds the record for most half centuries in consecutive innings.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Chris_Rogers.jpg/330px-Chris_Rogers.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Rogers_(cricketer)",
+  "dateOfBirth": "1977-08-31",
+  "birthDateParsed": "1977-08-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "linguist"
+  ],
+  "qid": "Q953381",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-07-31T19:45:14.027Z"
+}

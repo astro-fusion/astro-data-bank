@@ -1,0 +1,31 @@
+{
+  "publicId": "086f2249",
+  "wikipediaSlug": "Bonnor_Middleton",
+  "wikipediaId": "Q4942477",
+  "name": "Bonnor Middleton",
+  "fullName": "Bonnor Middleton",
+  "profileSummary": "James \"Bonnor\" Middleton was a South African cricketer who played in six Tests from 1896 to 1902. On his debut, he took five wickets in the first innings against England in Port Elizabeth in 1896.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Bonnor_Middleton_in_1894.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bonnor_Middleton",
+  "dateOfBirth": "1865-09-30",
+  "birthDateParsed": "1865-09-30",
+  "dateOfDeath": "1913-12-23",
+  "deathDateParsed": "1913-12-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4942477",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:20:46.101Z"
+}

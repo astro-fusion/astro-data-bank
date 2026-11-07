@@ -1,0 +1,33 @@
+{
+  "publicId": "c4d254d0",
+  "wikipediaSlug": "Giulio_Natta",
+  "wikipediaId": "Q234145",
+  "name": "Giulio Natta",
+  "fullName": "Giulio Natta",
+  "profileSummary": "Giulio Natta was an Italian chemical engineer and Nobel laureate. Natta's work at Politecnico di Milano led to the improvement of earlier work by Karl Ziegler and to the development of the Ziegler–Natta catalyst. The discoveries of Natta and Ziegler revolutionized polymer science by enabling the low-pressure, stereospecific polymerization of olefins, particularly propylene, into highly ordered, crystalline structures. This development allowed the production of high-strength plastics that were previously unobtainable. Natta won a Nobel Prize in Chemistry in 1963 with Karl Ziegler for his work on high density polymer. He also received a Lomonosov Gold Medal in 1969.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Giulio_Natta_1960s.jpg/330px-Giulio_Natta_1960s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giulio_Natta",
+  "dateOfBirth": "1903-02-26",
+  "birthDateParsed": "1903-02-26",
+  "dateOfDeath": "1979-05-02",
+  "deathDateParsed": "1979-05-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.87954",
+  "birthCoordinatesLng": "8.02326",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "inventor",
+    "university teacher"
+  ],
+  "qid": "Q234145",
+  "birthPlace": "Porto Maurizio",
+  "fetchedAt": "2026-08-10T02:04:08.429Z"
+}

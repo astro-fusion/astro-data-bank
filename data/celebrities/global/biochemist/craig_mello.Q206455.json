@@ -1,0 +1,33 @@
+{
+  "publicId": "0bbc6549",
+  "wikipediaSlug": "Craig_Mello",
+  "wikipediaId": "Q206455",
+  "name": "Craig Mello",
+  "fullName": "Craig Mello",
+  "profileSummary": "Craig Cameron Mello is an American biologist and professor in the RNA Therapeutics Institute and Program for Molecular Medicine at the University of Massachusetts Chan Medical School in Worcester, Massachusetts. He was awarded the 2006 Nobel Prize for Physiology or Medicine, along with Andrew Z. Fire, for the discovery of RNA interference. This research was conducted at the Carnegie Institution of Washington and published in 1998. Mello has been a Howard Hughes Medical Institute investigator since 2000.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Craig_Mello_01_%28cropped%29.jpg/330px-Craig_Mello_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Craig_Mello",
+  "dateOfBirth": "1960-10-18",
+  "birthDateParsed": "1960-10-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.308333333",
+  "birthCoordinatesLng": "-72.925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "physician",
+    "university teacher"
+  ],
+  "qid": "Q206455",
+  "birthPlace": "New Haven",
+  "fetchedAt": "2026-08-10T03:14:26.007Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "9c466473",
+  "wikipediaSlug": "Bob_Wyatt",
+  "wikipediaId": "Q3526870",
+  "name": "Bob Wyatt",
+  "fullName": "Bob Wyatt",
+  "profileSummary": "Robert Elliott Storey Wyatt was an English cricketer who played for Warwickshire, Worcestershire and England in a career lasting nearly thirty years from 1923 to 1951. He was born at Milford Heath House in Surrey and died at Treliske in Truro.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bob_Wyatt_1930-07-08cr.jpg/330px-Bob_Wyatt_1930-07-08cr.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Wyatt",
+  "dateOfBirth": "1901-05-02",
+  "birthDateParsed": "1901-05-02",
+  "dateOfDeath": "1995-04-20",
+  "deathDateParsed": "1995-04-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.25",
+  "birthCoordinatesLng": "-0.45",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526870",
+  "birthPlace": "Surrey",
+  "fetchedAt": "2026-07-31T20:09:29.694Z"
+}

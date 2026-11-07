@@ -1,0 +1,35 @@
+{
+  "publicId": "8eb4e2ac",
+  "wikipediaSlug": "Carl_Ferdinand_Cori",
+  "wikipediaId": "Q78501",
+  "name": "Carl Ferdinand Cori",
+  "fullName": "Carl Ferdinand Cori",
+  "profileSummary": "Carl Ferdinand Cori, ForMemRS was an Austrian-American biochemist and pharmacologist. He, together with his wife Gerty Cori and Argentine physiologist Bernardo Houssay, received a Nobel Prize in 1947 for their discovery of how the glucose derivative glycogen is broken down and resynthesized in the body for use as a store and source of energy. In 2004, both Coris were designated a National Historic Chemical Landmark in recognition of their work that elucidated carbohydrate metabolism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Carl_Ferdinand_Cori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Ferdinand_Cori",
+  "dateOfBirth": "1896-12-05",
+  "birthDateParsed": "1896-12-05",
+  "dateOfDeath": "1986-10-20",
+  "deathDateParsed": "1986-10-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0875",
+  "birthCoordinatesLng": "14.421388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "physician",
+    "chemist",
+    "researcher",
+    "pharmacologist"
+  ],
+  "qid": "Q78501",
+  "birthPlace": "Prague",
+  "fetchedAt": "2026-08-10T03:14:05.612Z"
+}

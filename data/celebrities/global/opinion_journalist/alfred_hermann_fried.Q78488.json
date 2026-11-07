@@ -1,0 +1,38 @@
+{
+  "publicId": "0b192a7b",
+  "wikipediaSlug": "Alfred_Hermann_Fried",
+  "wikipediaId": "Q78488",
+  "name": "Alfred Hermann Fried",
+  "fullName": "Alfred Hermann Fried",
+  "profileSummary": "Alfred Hermann Fried was an Austrian Jewish pacifist, publicist, journalist, co-founder of the German peace movement, and winner of the Nobel Peace Prize in 1911. Fried was also a supporter of Esperanto. He is the author of an Esperanto textbook and an Esperanto–German and German–Esperanto dictionary, first published in 1903 and republished in 1905.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Alfred_Hermann_Fried_nobel.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Hermann_Fried",
+  "dateOfBirth": "1864-11-11",
+  "birthDateParsed": "1864-11-11",
+  "dateOfDeath": "1921-05-05",
+  "deathDateParsed": "1921-05-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opinion journalist",
+    "Esperantist",
+    "writer",
+    "pacifist",
+    "journalist",
+    "jurist",
+    "publisher",
+    "politician"
+  ],
+  "qid": "Q78488",
+  "birthPlace": "Vienna",
+  "fetchedAt": "2026-08-04T02:12:41.684Z"
+}

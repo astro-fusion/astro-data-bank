@@ -1,0 +1,38 @@
+{
+  "publicId": "4ed54f73",
+  "wikipediaSlug": "Archibald_MacLeish",
+  "wikipediaId": "Q633354",
+  "name": "Archibald MacLeish",
+  "fullName": "Archibald MacLeish",
+  "profileSummary": "Archibald MacLeish was an American poet and writer, who was associated with the modernist school of poetry. MacLeish studied English at Yale University and law at Harvard University. He enlisted in and saw action during the First World War and lived in Paris in the 1920s. On returning to the United States, he contributed to Henry Luce's magazine Fortune from 1929 to 1938. For five years, MacLeish was the ninth Librarian of Congress, a post he accepted at the urging of President Franklin D. Roosevelt. From 1949 to 1962, he was Boylston Professor of Rhetoric and Oratory at Harvard. He was awarded three Pulitzer Prizes for his work.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_of_Archibald_MacLeish%2C_undated_%28cropped%29.jpg/330px-Portrait_of_Archibald_MacLeish%2C_undated_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Archibald_MacLeish",
+  "dateOfBirth": "1892-05-07",
+  "birthDateParsed": "1892-05-07",
+  "dateOfDeath": "1982-04-20",
+  "deathDateParsed": "1982-04-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.1314",
+  "birthCoordinatesLng": "-87.7608",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "librarian",
+    "poet",
+    "playwright",
+    "writer",
+    "university teacher",
+    "poet lawyer",
+    "lawyer",
+    "essayist"
+  ],
+  "qid": "Q633354",
+  "birthPlace": "Glencoe",
+  "fetchedAt": "2026-08-05T02:43:51.350Z"
+}

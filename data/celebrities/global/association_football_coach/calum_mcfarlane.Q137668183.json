@@ -1,0 +1,31 @@
+{
+  "publicId": "b280ad96",
+  "wikipediaSlug": "Calum_McFarlane",
+  "wikipediaId": "Q137668183",
+  "name": "Calum McFarlane",
+  "fullName": "Calum McFarlane",
+  "profileSummary": "Calum McFarlane is an English professional football coach who is the current assistant manager of Premier League club Chelsea.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Calum_McFarlane_IMG_1606_%28cropped%29.jpg/330px-Calum_McFarlane_IMG_1606_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Calum_McFarlane",
+  "dateOfBirth": "1985-11-13",
+  "birthDateParsed": "1985-11-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football coach"
+  ],
+  "qid": "Q137668183",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-01T05:21:07.304Z"
+}

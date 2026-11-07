@@ -1,0 +1,33 @@
+{
+  "publicId": "3f1b6c25",
+  "wikipediaSlug": "Dwight_Nishimura",
+  "wikipediaId": "Q68587455",
+  "name": "Dwight Nishimura",
+  "fullName": "Dwight Nishimura",
+  "profileSummary": "Dwight G. Nishimura is the Addie and Al Macovski professor in the School of Engineering, and professor of Electrical Engineering at Stanford University. \nHe leads the Magnetic Resonance Systems Research Laboratory (MRSRL), which designs improved MRI techniques and equipment.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dwight_Nishimura",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "electrical engineer",
+    "academic",
+    "university teacher"
+  ],
+  "qid": "Q68587455",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-04T15:06:44.655Z"
+}

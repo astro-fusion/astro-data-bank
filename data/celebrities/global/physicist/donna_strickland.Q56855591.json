@@ -1,0 +1,32 @@
+{
+  "publicId": "4af71914",
+  "wikipediaSlug": "Donna_Strickland",
+  "wikipediaId": "Q56855591",
+  "name": "Donna Strickland",
+  "fullName": "Donna Strickland",
+  "profileSummary": "Donna Theo Strickland is a Canadian optical physicist and pioneer in the field of pulsed lasers. She was awarded the Nobel Prize in Physics in 2018, together with Gérard Mourou, for the practical implementation of chirped pulse amplification. She is a professor at the University of Waterloo in Ontario, Canada.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Donna_Strickland_EM1B5760_%2846183560632%29_%28cropped%29.jpg/330px-Donna_Strickland_EM1B5760_%2846183560632%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Donna_Strickland",
+  "dateOfBirth": "1959-05-27",
+  "birthDateParsed": "1959-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.55",
+  "birthCoordinatesLng": "-80.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q56855591",
+  "birthPlace": "Guelph",
+  "fetchedAt": "2026-08-06T05:01:46.203Z"
+}

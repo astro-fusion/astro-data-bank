@@ -1,0 +1,32 @@
+{
+  "publicId": "3d3a9ff6",
+  "wikipediaSlug": "Bah_Oury",
+  "wikipediaId": "Q22209348",
+  "name": "Bah Oury",
+  "fullName": "Bah Oury",
+  "profileSummary": "Amadou Oury Bah is a Guinean politician who has been the Prime Minister of Guinea since 2024. He has been a member and held leadership positions in the Union of Democratic Forces of Guinea, Union of Democrats for the Rebirth of Guinea, and the Union for Democracy and Development. Prior to his tenure as prime minister he was Minister of National Reconciliation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bah_Oury_%28cropped2%29.jpg/330px-Bah_Oury_%28cropped2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bah_Oury",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "11.0596",
+  "birthCoordinatesLng": "-12.3956",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "minister"
+  ],
+  "qid": "Q22209348",
+  "birthPlace": "Pita",
+  "fetchedAt": "2026-08-03T16:50:10.659Z"
+}

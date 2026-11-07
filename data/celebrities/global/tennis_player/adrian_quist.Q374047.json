@@ -1,0 +1,31 @@
+{
+  "publicId": "eac09c6a",
+  "wikipediaSlug": "Adrian_Quist",
+  "wikipediaId": "Q374047",
+  "name": "Adrian Quist",
+  "fullName": "Adrian Quist",
+  "profileSummary": "Adrian Karl Quist was an Australian tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Adrian_Quist_02.jpg/330px-Adrian_Quist_02.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrian_Quist",
+  "dateOfBirth": "1913-01-23",
+  "birthDateParsed": "1913-01-23",
+  "dateOfDeath": "1991-11-17",
+  "deathDateParsed": "1991-11-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.896",
+  "birthCoordinatesLng": "138.605",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q374047",
+  "birthPlace": "Medindie",
+  "fetchedAt": "2026-08-01T13:10:59.855Z"
+}

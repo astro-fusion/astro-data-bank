@@ -1,0 +1,33 @@
+{
+  "publicId": "030ea2e3",
+  "wikipediaSlug": "Daniel_Ortega",
+  "wikipediaId": "Q57402",
+  "name": "Daniel Ortega",
+  "fullName": "Daniel Ortega",
+  "profileSummary": "José Daniel Ortega Saavedra is a Nicaraguan politician, revolutionary, and former guerrilla fighter who, under various titles, has been the leader of Nicaragua since 2007 and previously from 1979 to 1990. He first came to power as the coordinator of the Junta of National Reconstruction from 1979 to 1985, and then served as president of Nicaragua from 1985 until 1990. He reassumed the presidency in 2007 and has served alongside his wife Rosario Murillo as co-president since February 2025. Ortega has been described as an authoritarian leader and has invited comparisons to Anastasio Somoza. Multiple media outlets and politicians in the international community have referred to him and his wife as dictators. In July 2026, Ortega declared an end to elections in Nicaragua.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Daniel_Ortega_on_July_20%2C_2024.jpg/330px-Daniel_Ortega_on_July_20%2C_2024.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Ortega",
+  "dateOfBirth": "1945-11-11",
+  "birthDateParsed": "1945-11-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.216194444",
+  "birthCoordinatesLng": "-85.165830555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "revolutionary"
+  ],
+  "qid": "Q57402",
+  "birthPlace": "La Libertad",
+  "fetchedAt": "2026-08-03T16:50:24.787Z"
+}

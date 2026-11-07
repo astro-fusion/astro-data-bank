@@ -1,0 +1,33 @@
+{
+  "publicId": "fe4a3b50",
+  "wikipediaSlug": "Alvin_Kraenzlein",
+  "wikipediaId": "Q312863",
+  "name": "Alvin Kraenzlein",
+  "fullName": "Alvin Kraenzlein",
+  "profileSummary": "Alvin Christian \"Al\" Kraenzlein was an American track-and-field athlete known as \"the father of the modern hurdling technique\". He was the first sportsman in the history of the Olympic games to win four individual gold medals in a single discipline at the 1900 Summer Olympics in Paris. As of 2016, Alvin Kraenzlein is the only track-and-field athlete who has won four individual titles at one Olympics. Kraenzlein is also known for developing a pioneering technique of straight-leg hurdling, which allowed him to set two world hurdle records. He is an Olympic Hall of Fame (1984) and National Track and Field Hall of Fame (1974) inductee.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Alvin_Kraenzlein_1910.png/330px-Alvin_Kraenzlein_1910.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alvin_Kraenzlein",
+  "dateOfBirth": "1876-12-12",
+  "birthDateParsed": "1876-12-12",
+  "dateOfDeath": "1928-01-06",
+  "deathDateParsed": "1928-01-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.05",
+  "birthCoordinatesLng": "-87.95",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sprinter",
+    "athletics competitor",
+    "athlete"
+  ],
+  "qid": "Q312863",
+  "birthPlace": "Milwaukee",
+  "fetchedAt": "2026-08-10T12:57:58.669Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "efd443da",
+  "wikipediaSlug": "Erik_Axel_Karlfeldt",
+  "wikipediaId": "Q134641",
+  "name": "Erik Axel Karlfeldt",
+  "fullName": "Erik Axel Karlfeldt",
+  "profileSummary": "Erik Axel Karlfeldt was a Swedish poet whose highly symbolist poetry masquerading as regionalism was popular and won him the 1931 Nobel Prize in Literature posthumously after he had been nominated by Nathan Söderblom, member of the Swedish Academy. Karlfeldt had been offered the award already in 1919 but refused to accept it, because of his position as permanent secretary to the Swedish Academy (1913–1931), which awards the prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Erik_Axel_Karlfeldt_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Axel_Karlfeldt",
+  "dateOfBirth": "1864-07-20",
+  "birthDateParsed": "1864-07-20",
+  "dateOfDeath": "1931-04-08",
+  "deathDateParsed": "1931-04-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.1526",
+  "birthCoordinatesLng": "16.314544444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer"
+  ],
+  "qid": "Q134641",
+  "birthPlace": "Folkärna",
+  "fetchedAt": "2026-08-06T07:41:32.168Z"
+}

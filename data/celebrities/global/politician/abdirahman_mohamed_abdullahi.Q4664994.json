@@ -1,0 +1,32 @@
+{
+  "publicId": "357a4a6d",
+  "wikipediaSlug": "Abdirahman_Mohamed_Abdullahi",
+  "wikipediaId": "Q4664994",
+  "name": "Abdirahman Mohamed Abdullahi",
+  "fullName": "Abdirahman Mohamed Abdullahi",
+  "profileSummary": "Abdirahman Mohamed Abdullahi, colloquially known as Irro, is a Somalilander politician and diplomat who has served as the incumbent and sixth President of Somaliland since 12 December 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/President_Abdullahi_%28Irro%29.png/330px-President_Abdullahi_%28Irro%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdirahman_Mohamed_Abdullahi",
+  "dateOfBirth": "1956-04-24",
+  "birthDateParsed": "1956-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.565556",
+  "birthCoordinatesLng": "44.060556",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat"
+  ],
+  "qid": "Q4664994",
+  "birthPlace": "Hargeisa",
+  "fetchedAt": "2026-08-03T16:48:46.822Z"
+}

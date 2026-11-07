@@ -1,0 +1,39 @@
+{
+  "publicId": "72c3fc35",
+  "wikipediaSlug": "Alfred_Kinsey",
+  "wikipediaId": "Q186561",
+  "name": "Alfred Kinsey",
+  "fullName": "Alfred Kinsey",
+  "profileSummary": "Alfred Charles Kinsey was an American sexologist, biologist, and professor of entomology and zoology who, in 1947, founded the Institute for Sex Research at Indiana University, now known as the Kinsey Institute for Research in Sex, Gender, and Reproduction. He is best known for writing Sexual Behavior in the Human Male (1948) and Sexual Behavior in the Human Female (1953), also known as the Kinsey Reports, as well as for the Kinsey scale. Kinsey's research on human sexuality, foundational to the field of sexology, provoked controversy in the 1940s and 1950s, and has continued to provoke controversy decades after his death. His work has influenced social and cultural values in the United States and United Kingdom as well as internationally.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alfred_Kinsey_1955.jpg/330px-Alfred_Kinsey_1955.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Kinsey",
+  "dateOfBirth": "1894-06-23",
+  "birthDateParsed": "1894-06-23",
+  "dateOfDeath": "1956-08-25",
+  "deathDateParsed": "1956-08-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.745",
+  "birthCoordinatesLng": "-74.0325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entomologist",
+    "zoologist",
+    "sexologist",
+    "sex educator",
+    "sociologist",
+    "university teacher",
+    "psychologist",
+    "writer",
+    "scientific collector"
+  ],
+  "qid": "Q186561",
+  "birthPlace": "Hoboken",
+  "fetchedAt": "2026-08-05T02:42:09.525Z"
+}

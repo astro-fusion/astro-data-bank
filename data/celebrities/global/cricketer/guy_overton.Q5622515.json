@@ -1,0 +1,32 @@
+{
+  "publicId": "2261e30f",
+  "wikipediaSlug": "Guy_Overton",
+  "wikipediaId": "Q5622515",
+  "name": "Guy Overton",
+  "fullName": "Guy Overton",
+  "profileSummary": "Guy William Fitzroy Overton was a New Zealand international cricketer who played three Test matches in 1953–54. In domestic cricket he represented Otago from 1945–46 to 1955–56.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/Guy_Overton_1953.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guy_Overton",
+  "dateOfBirth": "1919-06-08",
+  "birthDateParsed": "1919-06-08",
+  "dateOfDeath": "1993-09-07",
+  "deathDateParsed": "1993-09-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-45.874166666",
+  "birthCoordinatesLng": "170.503611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "farmer"
+  ],
+  "qid": "Q5622515",
+  "birthPlace": "Dunedin",
+  "fetchedAt": "2026-07-31T21:03:46.435Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "b8f6ef49",
+  "wikipediaSlug": "Millard_Fillmore",
+  "wikipediaId": "Q12306",
+  "name": "Millard Fillmore",
+  "fullName": "Millard Fillmore",
+  "profileSummary": "Millard Fillmore was the 13th president of the United States, serving from 1850 to 1853. He was the last president to be a member of the Whig Party while in the White House, and the last to be neither a Democrat nor a Republican. A former member of the U.S. House of Representatives, Fillmore was elected vice president in 1848, and succeeded to the presidency when Zachary Taylor died in 1850. Fillmore was instrumental in passing the Compromise of 1850, which led to a brief truce in the battle over the expansion of slavery.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Millard_Fillmore_Better_Crop_%28cropped%29.jpg/330px-Millard_Fillmore_Better_Crop_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Millard_Fillmore",
+  "dateOfBirth": "1800-01-07",
+  "birthDateParsed": "1800-01-07",
+  "dateOfDeath": "1874-03-08",
+  "deathDateParsed": "1874-03-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.639166666",
+  "birthCoordinatesLng": "-76.325277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "statesperson",
+    "jurist"
+  ],
+  "qid": "Q12306",
+  "birthPlace": "Summerhill",
+  "fetchedAt": "2026-08-01T18:08:34.108Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "253215c0",
+  "wikipediaSlug": "Cec_Dixon",
+  "wikipediaId": "Q3525623",
+  "name": "Cec Dixon",
+  "fullName": "Cec Dixon",
+  "profileSummary": "Cecil Donovan Dixon played first-class cricket between 1913 and 1924. He was educated at Potchefstroom High School for Boys.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cecil_Dixon_of_South_Africa.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cec_Dixon",
+  "dateOfBirth": "1891-02-12",
+  "birthDateParsed": "1891-02-12",
+  "dateOfDeath": "1969-09-09",
+  "deathDateParsed": "1969-09-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525623",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:22:04.619Z"
+}

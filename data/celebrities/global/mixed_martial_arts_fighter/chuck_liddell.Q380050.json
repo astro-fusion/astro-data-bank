@@ -1,0 +1,36 @@
+{
+  "publicId": "582ad67d",
+  "wikipediaSlug": "Chuck_Liddell",
+  "wikipediaId": "Q380050",
+  "name": "Chuck Liddell",
+  "fullName": "Chuck Liddell",
+  "profileSummary": "Charles David Liddell is an American former professional mixed martial artist. A professional competitor from 1998 to 2018, Liddell is a former UFC Light Heavyweight Champion and is widely credited, along with fellow UFC fighter Randy Couture, with helping bring MMA into the mainstream of American sports and entertainment. Known as \"The Iceman\", Liddell achieved a 16–7 MMA record in the UFC, and an overall MMA record of 21–9, with 13 of his wins coming by way of knockout. He also achieved a 20–2 record in kickboxing, with 16 of his wins coming by way of knockout, and won two national amateur championships. He retired in late 2010, then came out of retirement for one bout in 2018, in a loss to rival Tito Ortiz. On July 10, 2009, Liddell was inducted into the UFC Hall of Fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chuck_Liddell_in_Santa_Monica-California_2005_photo_by_Ithaka_Darin_Pappas.jpg/330px-Chuck_Liddell_in_Santa_Monica-California_2005_photo_by_Ithaka_Darin_Pappas.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chuck_Liddell",
+  "dateOfBirth": "1969-12-17",
+  "birthDateParsed": "1969-12-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.425833333",
+  "birthCoordinatesLng": "-119.714166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "kickboxer",
+    "karateka",
+    "amateur wrestler",
+    "actor",
+    "athlete"
+  ],
+  "qid": "Q380050",
+  "birthPlace": "Santa Barbara",
+  "fetchedAt": "2026-08-01T17:05:23.788Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "bc288e87",
+  "wikipediaSlug": "Alia_Farid",
+  "wikipediaId": "Q52114749",
+  "name": "Alia Farid",
+  "fullName": "Alia Farid",
+  "profileSummary": "Alia Farid is a Kuwaiti-Puerto Rican visual artist. She holds a Bachelor of Fine Arts from La Escuela de Artes Plásticas de Puerto Rico, Puerto Rico, a Master of Science in Visual Studies from the Visual Arts Program at MIT, Cambridge, MA, and a Master of Arts in Museum Studies and Critical Theory from the Programa d’Estudis Independents at MACBA, Barcelona.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zamzamiya_by_Alia_Farid%2C_Victoria_and_Albert_Museum_02.jpg/330px-Zamzamiya_by_Alia_Farid%2C_Victoria_and_Albert_Museum_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alia_Farid",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artist"
+  ],
+  "qid": "Q52114749",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:27.302Z"
+}

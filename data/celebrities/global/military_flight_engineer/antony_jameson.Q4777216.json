@@ -1,0 +1,36 @@
+{
+  "publicId": "1da1403c",
+  "wikipediaSlug": "Antony_Jameson",
+  "wikipediaId": "Q4777216",
+  "name": "Antony Jameson",
+  "fullName": "Antony Jameson",
+  "profileSummary": "Guy Antony Jameson was a British-born scientist best known for his contributions to computational fluid dynamics. He was a professor of aerospace engineering at Texas A&M University and had published over 400 papers on aerospace science, including computational fluid dynamics, control theory, and aerodynamics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TonyJameson.JPG/330px-TonyJameson.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antony_Jameson",
+  "dateOfBirth": "1943-11-20",
+  "birthDateParsed": "1943-11-20",
+  "dateOfDeath": "2026-06-11",
+  "deathDateParsed": "2026-06-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.3792",
+  "birthCoordinatesLng": "0.5498",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "mathematician",
+    "academic",
+    "university teacher",
+    "aerospace engineer",
+    "engineer"
+  ],
+  "qid": "Q4777216",
+  "birthPlace": "Gillingham",
+  "fetchedAt": "2026-08-04T15:04:44.740Z"
+}

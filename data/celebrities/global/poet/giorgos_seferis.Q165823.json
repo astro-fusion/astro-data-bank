@@ -1,0 +1,34 @@
+{
+  "publicId": "d0731568",
+  "wikipediaSlug": "Giorgos_Seferis",
+  "wikipediaId": "Q165823",
+  "name": "Giorgos Seferis",
+  "fullName": "Giorgos Seferis",
+  "profileSummary": "Giorgos or George Seferis, the pen name of Georgios Seferiadis, was a Greek poet and diplomat. He was one of the most important Greek poets of the 20th century, and a Nobel laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/George_Seferis.JPG/330px-George_Seferis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgos_Seferis",
+  "dateOfBirth": "1900-03-13",
+  "birthDateParsed": "1900-03-13",
+  "dateOfDeath": "1971-09-19",
+  "deathDateParsed": "1971-09-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.322222222",
+  "birthCoordinatesLng": "26.764722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "translator",
+    "writer",
+    "ambassador"
+  ],
+  "qid": "Q165823",
+  "birthPlace": "Urla",
+  "fetchedAt": "2026-08-06T07:41:58.460Z"
+}

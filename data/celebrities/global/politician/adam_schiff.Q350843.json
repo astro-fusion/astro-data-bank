@@ -1,0 +1,33 @@
+{
+  "publicId": "076ae246",
+  "wikipediaSlug": "Adam_Schiff",
+  "wikipediaId": "Q350843",
+  "name": "Adam Schiff",
+  "fullName": "Adam Schiff",
+  "profileSummary": "Adam Bennett Schiff is an American lawyer and politician serving as the junior United States senator from California, a seat he has held since 2024. A member of the Democratic Party, Schiff served in the United States House of Representatives from 2001 to 2024 and in the California State Senate from 1996 to 2000. Before being elected to public office, Schiff was a judicial law clerk, an assistant United States attorney from 1987 to 1993, and an unsuccessful candidate for California State Assembly in 1994.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Schiff_Adam_119th_Congress.jpg/330px-Schiff_Adam_119th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Schiff",
+  "dateOfBirth": "1960-06-22",
+  "birthDateParsed": "1960-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.279166666",
+  "birthCoordinatesLng": "-71.416666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "writer"
+  ],
+  "qid": "Q350843",
+  "birthPlace": "Framingham",
+  "fetchedAt": "2026-08-02T02:15:46.083Z"
+}

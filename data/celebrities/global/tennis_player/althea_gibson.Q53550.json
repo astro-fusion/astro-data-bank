@@ -1,0 +1,36 @@
+{
+  "publicId": "dc244c93",
+  "wikipediaSlug": "Althea_Gibson",
+  "wikipediaId": "Q53550",
+  "name": "Althea Gibson",
+  "fullName": "Althea Gibson",
+  "profileSummary": "Althea Neale Gibson was an American tennis player and professional golfer, and one of the first Black athletes to cross the color line of international tennis. In 1956, she became the first Black player to win a Grand Slam event. The following year she won both Wimbledon and the US Nationals, then won both again in 1958 and was voted Female Athlete of the Year by the Associated Press in both years. In all, she won 11 Grand Slam titles: five singles titles, five doubles titles, and one mixed doubles title. \"She is one of the greatest players who ever lived,\" said Bob Ryland, a tennis contemporary and former coach of Venus and Serena Williams. \"Martina [Navratilova] couldn't touch her. I think she'd beat the Williams sisters.\" Gibson was inducted into the International Tennis Hall of Fame in 1971 and the International Women's Sports Hall of Fame in 1980. In the early 1960s, she also became the first Black player to compete in the Ladies Professional Golf Association.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Althea_Gibson_in_1956_by_Fred_Palumbo_%28NYWTS%29.jpg/330px-Althea_Gibson_in_1956_by_Fred_Palumbo_%28NYWTS%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Althea_Gibson",
+  "dateOfBirth": "1927-08-25",
+  "birthDateParsed": "1927-08-25",
+  "dateOfDeath": "2003-09-28",
+  "deathDateParsed": "2003-09-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.6779398",
+  "birthCoordinatesLng": "-80.3573053",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach",
+    "autobiographer",
+    "golfer",
+    "actor",
+    "professional golfer"
+  ],
+  "qid": "Q53550",
+  "birthPlace": "Silver",
+  "fetchedAt": "2026-08-01T14:58:42.102Z"
+}

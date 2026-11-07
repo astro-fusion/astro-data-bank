@@ -1,0 +1,32 @@
+{
+  "publicId": "7a688e80",
+  "wikipediaSlug": "David_Webb_(footballer)",
+  "wikipediaId": "Q1177113",
+  "name": "David Webb (footballer)",
+  "fullName": "David Webb (footballer)",
+  "profileSummary": "David James Webb is an English former professional footballer who made 555 appearances in the Football League playing for Leyton Orient, Southampton, Chelsea, Queens Park Rangers, Leicester City, Derby County, AFC Bournemouth and Torquay United. He became a manager, taking charge of Bournemouth, Torquay United, Southend United, Chelsea, Brentford and Yeovil Town.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Webb_(footballer)",
+  "dateOfBirth": "1946-04-09",
+  "birthDateParsed": "1946-04-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1177113",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-01T05:21:08.258Z"
+}

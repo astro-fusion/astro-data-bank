@@ -1,0 +1,33 @@
+{
+  "publicId": "0496e163",
+  "wikipediaSlug": "Austen_Chamberlain",
+  "wikipediaId": "Q188999",
+  "name": "Austen Chamberlain",
+  "fullName": "Austen Chamberlain",
+  "profileSummary": "Sir Joseph Austen Chamberlain was a British statesman, Nobel Peace Prize winner, son of Joseph Chamberlain and older half-brother of Prime Minister Neville Chamberlain. He served as a Member of Parliament (MP) for 45 years, as Chancellor of the Exchequer (twice) and was briefly Conservative Party leader before serving as Foreign Secretary.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Austen_Chamberlain_MP.jpg/330px-Austen_Chamberlain_MP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Austen_Chamberlain",
+  "dateOfBirth": "1863-10-16",
+  "birthDateParsed": "1863-10-16",
+  "dateOfDeath": "1937-03-17",
+  "deathDateParsed": "1937-03-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "statesperson",
+    "foreign minister"
+  ],
+  "qid": "Q188999",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-08-04T02:12:42.689Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "57a37edc",
+  "wikipediaSlug": "Alison_Brown",
+  "wikipediaId": "Q2647211",
+  "name": "Alison Brown",
+  "fullName": "Alison Brown",
+  "profileSummary": "Alison Brown is an American banjo player, guitarist, composer, and producer. She has won and has been nominated for several Grammy awards and is often compared to another banjo prodigy, Béla Fleck, for her unique style of playing. In her music, she blends bluegrass, jazz, Latin and Celtic influences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alison-brown-fls.jpg/330px-Alison-brown-fls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alison_Brown",
+  "dateOfBirth": "1962-08-07",
+  "birthDateParsed": "1962-08-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.763333333",
+  "birthCoordinatesLng": "-72.685",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician",
+    "banjoist",
+    "jazz guitarist",
+    "songwriter",
+    "costume designer",
+    "composer"
+  ],
+  "qid": "Q2647211",
+  "birthPlace": "Hartford",
+  "fetchedAt": "2026-08-05T02:42:26.091Z"
+}

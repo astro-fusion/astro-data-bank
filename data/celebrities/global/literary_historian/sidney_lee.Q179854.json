@@ -1,0 +1,36 @@
+{
+  "publicId": "9028a144",
+  "wikipediaSlug": "Sidney_Lee",
+  "wikipediaId": "Q179854",
+  "name": "Sidney Lee",
+  "fullName": "Sidney Lee",
+  "profileSummary": "Sir Sidney Lee was an English biographer, writer, and critic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sir-Sidney-Lee.jpg/330px-Sir-Sidney-Lee.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sidney_Lee",
+  "dateOfBirth": "1859-12-05",
+  "birthDateParsed": "1859-12-05",
+  "dateOfDeath": "1926-03-03",
+  "deathDateParsed": "1926-03-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.523055555",
+  "birthCoordinatesLng": "-0.125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "literary historian",
+    "biographer",
+    "literary critic",
+    "writer",
+    "university teacher",
+    "literary scholar"
+  ],
+  "qid": "Q179854",
+  "birthPlace": "Bloomsbury",
+  "fetchedAt": "2026-08-02T05:23:14.543Z"
+}

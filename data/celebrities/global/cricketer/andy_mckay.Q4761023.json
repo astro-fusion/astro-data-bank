@@ -1,0 +1,31 @@
+{
+  "publicId": "63e062a0",
+  "wikipediaSlug": "Andy_McKay",
+  "wikipediaId": "Q4761023",
+  "name": "Andy McKay",
+  "fullName": "Andy McKay",
+  "profileSummary": "Andrew John McKay is a former New Zealand cricketer who played for the Wellington Firebirds in the State Championship, having moved from the Auckland Aces for the 2009–10 season. He was born in Auckland.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_McKay",
+  "dateOfBirth": "1985-04-17",
+  "birthDateParsed": "1985-04-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4761023",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:02:01.718Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "52609362",
+  "wikipediaSlug": "Mary_Pierce",
+  "wikipediaId": "Q210695",
+  "name": "Mary Pierce",
+  "fullName": "Mary Pierce",
+  "profileSummary": "Mary Caroline Pierce is a French former professional tennis player. She was ranked world No. 3 in singles and in doubles by the Women's Tennis Association (WTA). Pierce won 18 singles titles on the WTA Tour, including two majors at the 1995 Australian Open and the 2000 French Open, and five Tier I singles events. Pierce was a finalist at a further four singles majors, and twice at the Tour Finals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mary_Pierce.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mary_Pierce",
+  "dateOfBirth": "1975-01-15",
+  "birthDateParsed": "1975-01-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.5033426",
+  "birthCoordinatesLng": "-73.5868411",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q210695",
+  "birthPlace": "Montreal",
+  "fetchedAt": "2026-08-01T15:00:20.892Z"
+}

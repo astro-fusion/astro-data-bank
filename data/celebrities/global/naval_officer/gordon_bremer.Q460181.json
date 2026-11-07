@@ -1,0 +1,33 @@
+{
+  "publicId": "ef96e3a8",
+  "wikipediaSlug": "Gordon_Bremer",
+  "wikipediaId": "Q460181",
+  "name": "Gordon Bremer",
+  "fullName": "Gordon Bremer",
+  "profileSummary": "Sir James John Gordon Bremer was a British Royal Navy officer. He served in the Napoleonic Wars against France, the First Anglo-Burmese War in Burma, and the First Opium War in China.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sir_James_Bremer.jpg/330px-Sir_James_Bremer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Bremer",
+  "dateOfBirth": "1786-09-26",
+  "birthDateParsed": "1786-09-26",
+  "dateOfDeath": "1850-02-14",
+  "deathDateParsed": "1850-02-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.8025",
+  "birthCoordinatesLng": "-1.07",
+  "birthTimezone": "Europe/London",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "naval officer"
+  ],
+  "qid": "Q460181",
+  "placeOfBirth": "Portsea Island",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-21T07:59:30.577Z"
+}

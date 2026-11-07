@@ -1,0 +1,33 @@
+{
+  "publicId": "8a139641",
+  "wikipediaSlug": "Maria_Sharapova",
+  "wikipediaId": "Q11666",
+  "name": "Maria Sharapova",
+  "fullName": "Maria Sharapova",
+  "profileSummary": "Maria Yuryevna Sharapova is a Russian former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 21 weeks. Sharapova won 36 WTA Tour-level singles titles, including five major titles, as well as the 2004 WTA Tour Championships. She is one of ten women to achieve the career Grand Slam in singles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg/330px-Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Sharapova",
+  "dateOfBirth": "1987-04-19",
+  "birthDateParsed": "1987-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "62.133333333",
+  "birthCoordinatesLng": "65.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "model",
+    "diplomat"
+  ],
+  "qid": "Q11666",
+  "birthPlace": "Nyagan",
+  "fetchedAt": "2026-08-01T15:00:26.330Z"
+}

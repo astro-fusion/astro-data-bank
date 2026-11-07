@@ -1,0 +1,31 @@
+{
+  "publicId": "201913e7",
+  "wikipediaSlug": "Vijay_Singh",
+  "wikipediaId": "Q331942",
+  "name": "Vijay Singh",
+  "fullName": "Vijay Singh",
+  "profileSummary": "Vijay Singh is a Fijian professional golfer. In 1982, Singh turned professional and played on the local Asia Golf Circuit. However, his early career met with controversy, as he was accused of numerous rules violations, and he was banned from the AGC. Singh turned to Africa and Europe where he had much success on the respective tours, the Safari Circuit and European Tour, winning several times on each. In 1993, he won the PGA Tour's Buick Classic, earning him tour membership and ultimately Rookie of the Years honours. In 1998, he won his first major championship, the PGA Championship, and two years later the Masters. In 2004, Singh had one of the best seasons in the history of golf, winning nine times including the PGA Championship, overtaking Tiger Woods as the #1 golfer in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2009_US_Open_-_Vijay_Singh_%283649412798%29.jpg/330px-2009_US_Open_-_Vijay_Singh_%283649412798%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vijay_Singh",
+  "dateOfBirth": "1963-02-22",
+  "birthDateParsed": "1963-02-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-17.624166666",
+  "birthCoordinatesLng": "177.452777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "golfer"
+  ],
+  "qid": "Q331942",
+  "birthPlace": "Lautoka",
+  "fetchedAt": "2026-08-07T04:27:36.656Z"
+}

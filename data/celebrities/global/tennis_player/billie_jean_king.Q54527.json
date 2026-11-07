@@ -1,0 +1,35 @@
+{
+  "publicId": "b6be9dd1",
+  "wikipediaSlug": "Billie_Jean_King",
+  "wikipediaId": "Q54527",
+  "name": "Billie Jean King",
+  "fullName": "Billie Jean King",
+  "profileSummary": "Billie Jean King is an American former world No. 1 tennis player. King won 39 Grand Slam titles: 12 in singles, 16 in women's doubles, and 11 in mixed doubles. She was a member of the victorious United States team in seven Federation Cups and nine Wightman Cups.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Billie_Jean_King_at_the_2026_Sundance_Film_Festival_02_%28crop_2%29.jpg/330px-Billie_Jean_King_at_the_2026_Sundance_Film_Festival_02_%28crop_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billie_Jean_King",
+  "dateOfBirth": "1943-11-22",
+  "birthDateParsed": "1943-11-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.768055555",
+  "birthCoordinatesLng": "-118.195555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach",
+    "sports commentator",
+    "writer",
+    "athlete"
+  ],
+  "qid": "Q54527",
+  "birthPlace": "Long Beach",
+  "fetchedAt": "2026-08-01T14:59:19.299Z"
+}

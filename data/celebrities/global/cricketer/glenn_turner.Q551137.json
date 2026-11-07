@@ -1,0 +1,32 @@
+{
+  "publicId": "baf176c5",
+  "wikipediaSlug": "Glenn_Turner",
+  "wikipediaId": "Q551137",
+  "name": "Glenn Turner",
+  "fullName": "Glenn Turner",
+  "profileSummary": "Glenn Maitland Turner is a New Zealand former cricketer and coach. A right-handed batter who predominantly opened the batting, he played 41 Test and 41 One Day International (ODI) matches for New Zealand from 1969 to 1983.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Glenn_Turner",
+  "dateOfBirth": "1947-05-26",
+  "birthDateParsed": "1947-05-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-45.874166666",
+  "birthCoordinatesLng": "170.503611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "athlete"
+  ],
+  "qid": "Q551137",
+  "birthPlace": "Dunedin",
+  "fetchedAt": "2026-07-31T21:03:45.017Z"
+}

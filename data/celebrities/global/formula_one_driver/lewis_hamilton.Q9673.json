@@ -1,0 +1,32 @@
+{
+  "publicId": "2aa1a500",
+  "wikipediaSlug": "Lewis_Hamilton",
+  "wikipediaId": "Q9673",
+  "name": "Lewis Hamilton",
+  "fullName": "Lewis Hamilton",
+  "profileSummary": "Sir Lewis Carl Davidson Hamilton is a British racing driver who competes in Formula One for Ferrari. Hamilton has won a joint-record seven Formula One World Drivers' Championship titles—tied with Michael Schumacher—and holds the records for most wins (106), pole positions (104), and podium finishes (207), among others.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/330px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lewis_Hamilton",
+  "dateOfBirth": "1985-01-07",
+  "birthDateParsed": "1985-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.901666666",
+  "birthCoordinatesLng": "-0.201944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q9673",
+  "birthPlace": "Stevenage",
+  "fetchedAt": "2026-08-01T16:01:29.272Z"
+}

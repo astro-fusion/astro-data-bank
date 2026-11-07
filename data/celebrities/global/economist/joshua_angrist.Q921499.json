@@ -1,0 +1,33 @@
+{
+  "publicId": "7a987ec4",
+  "wikipediaSlug": "Joshua_Angrist",
+  "wikipediaId": "Q921499",
+  "name": "Joshua Angrist",
+  "fullName": "Joshua Angrist",
+  "profileSummary": "Joshua David Angrist is an Israeli American economist and Ford Professor of Economics at the Massachusetts Institute of Technology. Angrist, together with Guido Imbens, was awarded the Nobel Memorial Prize in Economics in 2021 \"for their methodological contributions to the analysis of causal relationships\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Joshua_Angrist_-_2011.jpg/330px-Joshua_Angrist_-_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joshua_Angrist",
+  "dateOfBirth": "1960-09-18",
+  "birthDateParsed": "1960-09-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.962222222",
+  "birthCoordinatesLng": "-83.000555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "econometrician",
+    "university teacher"
+  ],
+  "qid": "Q921499",
+  "birthPlace": "Columbus",
+  "fetchedAt": "2026-08-10T09:43:34.428Z"
+}

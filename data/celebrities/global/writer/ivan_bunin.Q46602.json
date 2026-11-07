@@ -1,0 +1,36 @@
+{
+  "publicId": "3df4b8ca",
+  "wikipediaSlug": "Ivan_Bunin",
+  "wikipediaId": "Q46602",
+  "name": "Ivan Bunin",
+  "fullName": "Ivan Bunin",
+  "profileSummary": "Ivan Alekseyevich Bunin was the first Russian writer awarded the Nobel Prize in Literature, in 1933. He was noted for the strict artistry with which he carried on the classical Russian traditions in the writing of prose and poetry. The texture of his poems and stories, sometimes referred to as \"Bunin brocade\", is considered to be one of the richest in the language.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%D0%98%D0%B2%D0%B0%D0%BD_%D0%91%D1%83%D0%BD%D0%B8%D0%BD_%281928%29.jpg/330px-%D0%98%D0%B2%D0%B0%D0%BD_%D0%91%D1%83%D0%BD%D0%B8%D0%BD_%281928%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Bunin",
+  "dateOfBirth": "1870-10-22",
+  "birthDateParsed": "1870-10-22",
+  "dateOfDeath": "1953-11-08",
+  "deathDateParsed": "1953-11-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.671666666",
+  "birthCoordinatesLng": "39.210555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "translator",
+    "poet",
+    "prose writer",
+    "playwright",
+    "Nobel Prize winner"
+  ],
+  "qid": "Q46602",
+  "birthPlace": "Voronezh",
+  "fetchedAt": "2026-08-06T07:41:53.039Z"
+}

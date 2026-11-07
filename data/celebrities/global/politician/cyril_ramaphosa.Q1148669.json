@@ -1,0 +1,36 @@
+{
+  "publicId": "9978eb37",
+  "wikipediaSlug": "Cyril_Ramaphosa",
+  "wikipediaId": "Q1148669",
+  "name": "Cyril Ramaphosa",
+  "fullName": "Cyril Ramaphosa",
+  "profileSummary": "Matamela Cyril Ramaphosa is a South African businessman and politician serving as the president of South Africa since 2018. A former anti-apartheid activist and trade union leader, Ramaphosa is also the president of the African National Congress (ANC).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cyril_Ramaphosa_in_2026.jpg/330px-Cyril_Ramaphosa_in_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa",
+  "dateOfBirth": "1952-11-17",
+  "birthDateParsed": "1952-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.267777777",
+  "birthCoordinatesLng": "27.858611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "trade unionist",
+    "businessperson",
+    "entrepreneur",
+    "minister",
+    "union member"
+  ],
+  "qid": "Q1148669",
+  "birthPlace": "Soweto",
+  "fetchedAt": "2026-08-03T16:50:36.355Z"
+}

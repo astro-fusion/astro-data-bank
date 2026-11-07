@@ -1,0 +1,32 @@
+{
+  "publicId": "f2dc82a6",
+  "wikipediaSlug": "Alan_Wharton",
+  "wikipediaId": "Q4708034",
+  "name": "Alan Wharton",
+  "fullName": "Alan Wharton",
+  "profileSummary": "Alan Wharton was an English cricketer, who played for Lancashire, Leicestershire and England.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Wharton",
+  "dateOfBirth": "1923-04-30",
+  "birthDateParsed": "1923-04-30",
+  "dateOfDeath": "1993-08-26",
+  "deathDateParsed": "1993-08-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.59",
+  "birthCoordinatesLng": "-2.219",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "rugby league player"
+  ],
+  "qid": "Q4708034",
+  "birthPlace": "Heywood",
+  "fetchedAt": "2026-07-31T20:08:01.588Z"
+}

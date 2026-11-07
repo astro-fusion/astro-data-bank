@@ -1,0 +1,33 @@
+{
+  "publicId": "63e2f151",
+  "wikipediaSlug": "André_Frédéric_Cournand",
+  "wikipediaId": "Q271757",
+  "name": "André Frédéric Cournand",
+  "fullName": "André Frédéric Cournand",
+  "profileSummary": "André Frédéric Cournand was a French-American physician and physiologist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand",
+  "dateOfBirth": "1895-09-24",
+  "birthDateParsed": "1895-09-24",
+  "dateOfDeath": "1988-02-19",
+  "deathDateParsed": "1988-02-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.859947",
+  "birthCoordinatesLng": "2.342059",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "psychologist",
+    "physiologist"
+  ],
+  "qid": "Q271757",
+  "birthPlace": "1st arrondissement of Paris",
+  "fetchedAt": "2026-08-10T03:14:02.432Z"
+}

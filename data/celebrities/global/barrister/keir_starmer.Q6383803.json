@@ -1,0 +1,33 @@
+{
+  "publicId": "bdaa0615",
+  "wikipediaSlug": "Keir_Starmer",
+  "wikipediaId": "Q6383803",
+  "name": "Keir Starmer",
+  "fullName": "Keir Starmer",
+  "profileSummary": "Sir Keir Rodney Starmer is a British politician and former lawyer who served as Prime Minister of the United Kingdom from 2024 to 2026. He served as Leader of the Labour Party from 2020 to 2026 and as Leader of the Opposition from 2020 to 2024. He has been Member of Parliament (MP) for Holborn and St Pancras since 2015. Before entering politics he was a barrister and served as Director of Public Prosecutions from 2008 to 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg/330px-Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Keir_Starmer",
+  "dateOfBirth": "1962-09-02",
+  "birthDateParsed": "1962-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4988",
+  "birthCoordinatesLng": "-0.0901",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "barrister",
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q6383803",
+  "birthPlace": "Southwark",
+  "fetchedAt": "2026-08-02T05:22:47.240Z"
+}

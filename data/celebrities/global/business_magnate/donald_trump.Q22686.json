@@ -1,0 +1,43 @@
+{
+  "publicId": "77d227de",
+  "wikipediaSlug": "Donald_Trump",
+  "wikipediaId": "Q22686",
+  "name": "Donald Trump",
+  "fullName": "Donald Trump",
+  "profileSummary": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+  "dateOfBirth": "1946-06-14",
+  "birthDateParsed": "1946-06-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.7005",
+  "birthCoordinatesLng": "-73.816",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "business magnate",
+    "investor",
+    "politician",
+    "game show host",
+    "real estate entrepreneur",
+    "television producer",
+    "film producer",
+    "writer",
+    "actor",
+    "chief executive officer",
+    "merchant",
+    "businessperson",
+    "entrepreneur"
+  ],
+  "qid": "Q22686",
+  "birthPlace": "Jamaica Hospital Medical Center",
+  "fetchedAt": "2026-08-04T02:13:14.318Z"
+}

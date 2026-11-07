@@ -1,0 +1,35 @@
+{
+  "publicId": "f3077e48",
+  "wikipediaSlug": "Alexander_Fleming",
+  "wikipediaId": "Q37064",
+  "name": "Alexander Fleming",
+  "fullName": "Alexander Fleming",
+  "profileSummary": "Sir Alexander Fleming was a Scottish physician and microbiologist. He shared the 1945 Nobel Prize in Physiology or Medicine with Howard Florey and Ernst Chain \"for the discovery of penicillin and its curative effect in various infectious diseases\".\nThis was the first antibiotic substance discovered. His discovery in 1928 of what was later named benzylpenicillin from the mould Penicillium rubens has been described as the \"single greatest victory ever achieved over disease\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/330px-Synthetic_Production_of_Penicillin_TR1468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+  "dateOfBirth": "1881-08-06",
+  "birthDateParsed": "1881-08-06",
+  "dateOfDeath": "1955-03-11",
+  "deathDateParsed": "1955-03-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.647233",
+  "birthCoordinatesLng": "-4.2537544",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "bacteriologist",
+    "pharmacologist",
+    "physician",
+    "surgeon",
+    "inventor"
+  ],
+  "qid": "Q37064",
+  "birthPlace": "Lochfield",
+  "fetchedAt": "2026-08-10T03:13:49.909Z"
+}

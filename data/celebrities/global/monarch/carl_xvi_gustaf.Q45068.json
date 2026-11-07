@@ -1,0 +1,31 @@
+{
+  "publicId": "a3374345",
+  "wikipediaSlug": "Carl_XVI_Gustaf",
+  "wikipediaId": "Q45068",
+  "name": "Carl XVI Gustaf",
+  "fullName": "Carl XVI Gustaf",
+  "profileSummary": "Carl XVI Gustaf is King of Sweden since 15 September 1973. Having reigned for 52 years, he is the longest-reigning monarch in Swedish history and the second longest-serving current head of state.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/06.11.2025_%E2%80%93_Recep%C3%A7%C3%A3o_Oficial_dos_Chefes_de_Delega%C3%A7%C3%A3o_da_C%C3%BApula_do_Clima_%2854906269035%29_%28Carlos_XVI_Gustavo%29.jpg/330px-06.11.2025_%E2%80%93_Recep%C3%A7%C3%A3o_Oficial_dos_Chefes_de_Delega%C3%A7%C3%A3o_da_C%C3%BApula_do_Clima_%2854906269035%29_%28Carlos_XVI_Gustavo%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_XVI_Gustaf",
+  "dateOfBirth": "1946-04-30",
+  "birthDateParsed": "1946-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.36361111",
+  "birthCoordinatesLng": "18.03944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch"
+  ],
+  "qid": "Q45068",
+  "birthPlace": "Haga Palace",
+  "fetchedAt": "2026-08-03T16:50:13.023Z"
+}

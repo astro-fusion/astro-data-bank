@@ -1,0 +1,32 @@
+{
+  "publicId": "715a092e",
+  "wikipediaSlug": "Francesco_Guidolin",
+  "wikipediaId": "Q557760",
+  "name": "Francesco Guidolin",
+  "fullName": "Francesco Guidolin",
+  "profileSummary": "Francesco Guidolin is an Italian football manager and former player. He has coached various Italian club sides in Serie A, winning the 1996–97 Coppa Italia with Vicenza, while also competing in European competitions with Vicenza, Udinese, Bologna and Palermo, as well as managing Ligue 1 club Monaco.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Guidolin_francesco_%281%29.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francesco_Guidolin",
+  "dateOfBirth": "1955-10-03",
+  "birthDateParsed": "1955-10-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.666666666",
+  "birthCoordinatesLng": "11.933333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q557760",
+  "birthPlace": "Castelfranco Veneto",
+  "fetchedAt": "2026-08-01T05:21:19.816Z"
+}

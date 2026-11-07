@@ -1,0 +1,31 @@
+{
+  "publicId": "d1b8aa2c",
+  "wikipediaSlug": "Geoff_Howarth",
+  "wikipediaId": "Q5534174",
+  "name": "Geoff Howarth",
+  "fullName": "Geoff Howarth",
+  "profileSummary": "Geoffrey Philip Howarth is a former New Zealand cricketer and former captain, who remains the only New Zealand captain to have positive win–loss records in both Test cricket and ODI cricket. He was the third most successful test captain for New Zealand winning 36.7% of games with 11 wins from 30 test matches.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Geoff_Howrath%2C_1978.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geoff_Howarth",
+  "dateOfBirth": "1951-03-29",
+  "birthDateParsed": "1951-03-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5534174",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:03:38.438Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "f225a209",
+  "wikipediaSlug": "Gianni_Rivera",
+  "wikipediaId": "Q230046",
+  "name": "Gianni Rivera",
+  "fullName": "Gianni Rivera",
+  "profileSummary": "Giovanni \"Gianni\" Rivera is an Italian politician and former footballer who played as an attacking midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rivera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gianni_Rivera",
+  "dateOfBirth": "1943-08-18",
+  "birthDateParsed": "1943-08-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.913330555",
+  "birthCoordinatesLng": "8.62",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "politician"
+  ],
+  "qid": "Q230046",
+  "birthPlace": "Alessandria",
+  "fetchedAt": "2026-08-10T11:28:20.491Z"
+}

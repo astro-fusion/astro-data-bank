@@ -1,0 +1,32 @@
+{
+  "publicId": "8b79aee3",
+  "wikipediaSlug": "Vernon_L._Smith",
+  "wikipediaId": "Q295717",
+  "name": "Vernon L. Smith",
+  "fullName": "Vernon L. Smith",
+  "profileSummary": "Vernon Lomax Smith is an American economist who is currently a professor of economics and law at Chapman University. He was formerly the McLellan/Regent's Professor of Economics at the University of Arizona, a professor of economics and law at George Mason University, and a board member of the Mercatus Center. Along with Daniel Kahneman, Smith won the 2002 Nobel Memorial Prize in Economic Sciences for his contributions to behavioral economics and his work in the field of experimental economics, which helped establish \"laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Vernon_L._Smith_2011.jpg/330px-Vernon_L._Smith_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vernon_L._Smith",
+  "dateOfBirth": "1927-01-01",
+  "birthDateParsed": "1927-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.688888888",
+  "birthCoordinatesLng": "-97.336111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q295717",
+  "birthPlace": "Wichita",
+  "fetchedAt": "2026-08-10T09:44:33.291Z"
+}

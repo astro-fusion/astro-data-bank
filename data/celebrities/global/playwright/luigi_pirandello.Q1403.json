@@ -1,0 +1,36 @@
+{
+  "publicId": "7d3eda17",
+  "wikipediaSlug": "Luigi_Pirandello",
+  "wikipediaId": "Q1403",
+  "name": "Luigi Pirandello",
+  "fullName": "Luigi Pirandello",
+  "profileSummary": "Luigi Pirandello was an Italian dramatist, novelist, poet, and short story writer most noted for his plays. He was awarded the 1934 Nobel Prize in Literature \"for his bold and ingenious revival of dramatic and scenic art\". Pirandello's works include novels, hundreds of short stories, and about 40 plays, some of which are written in Sicilian. Pirandello's tragic farces are often seen as forerunners of the Theatre of the Absurd.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Luigi_Pirandello_1932.jpg/330px-Luigi_Pirandello_1932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Luigi_Pirandello",
+  "dateOfBirth": "1867-06-28",
+  "birthDateParsed": "1867-06-28",
+  "dateOfDeath": "1936-12-10",
+  "deathDateParsed": "1936-12-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.3125",
+  "birthCoordinatesLng": "13.575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "writer",
+    "poet",
+    "novelist",
+    "screenwriter",
+    "director"
+  ],
+  "qid": "Q1403",
+  "birthPlace": "Agrigento",
+  "fetchedAt": "2026-08-06T07:42:17.190Z"
+}

@@ -1,0 +1,39 @@
+{
+  "publicId": "0e9c1a6a",
+  "wikipediaSlug": "Fridtjof_Nansen",
+  "wikipediaId": "Q72292",
+  "name": "Fridtjof Nansen",
+  "fullName": "Fridtjof Nansen",
+  "profileSummary": "Fridtjof Wedel-Jarlsberg Nansen was a Norwegian polymath and Nobel Peace Prize laureate. He gained prominence at various points in his life as an explorer, a scientist, a diplomat, a humanitarian, and the co-founder of the Fatherland League.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fridtjof_Nansen_LOC_03377u-3.jpg/330px-Fridtjof_Nansen_LOC_03377u-3.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fridtjof_Nansen",
+  "dateOfBirth": "1861-10-10",
+  "birthDateParsed": "1861-10-10",
+  "dateOfDeath": "1930-05-13",
+  "deathDateParsed": "1930-05-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.95002",
+  "birthCoordinatesLng": "10.67219",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "zoologist",
+    "polar explorer",
+    "diplomat",
+    "professor",
+    "politician",
+    "photographer",
+    "speed skater",
+    "writer",
+    "scientific collector"
+  ],
+  "qid": "Q72292",
+  "birthPlace": "Vestre Aker",
+  "fetchedAt": "2026-08-04T02:13:16.411Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "0cff4eb9",
+  "wikipediaSlug": "Dave_Jones_(footballer,_born_1956)",
+  "wikipediaId": "Q1173249",
+  "name": "Dave Jones (footballer, born 1956)",
+  "fullName": "Dave Jones (footballer, born 1956)",
+  "profileSummary": "David Ronald Jones is an English former footballer and manager who was most recently the manager of Hartlepool United.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dave_Jones.jpg/330px-Dave_Jones.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Jones_(footballer%2C_born_1956)",
+  "dateOfBirth": "1956-08-17",
+  "birthDateParsed": "1956-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.407222222",
+  "birthCoordinatesLng": "-2.991666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "autobiographer"
+  ],
+  "qid": "Q1173249",
+  "birthPlace": "Liverpool",
+  "fetchedAt": "2026-08-01T05:20:22.919Z"
+}

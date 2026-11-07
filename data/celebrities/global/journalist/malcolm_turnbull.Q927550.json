@@ -1,0 +1,38 @@
+{
+  "publicId": "0dff6b1c",
+  "wikipediaSlug": "Malcolm_Turnbull",
+  "wikipediaId": "Q927550",
+  "name": "Malcolm Turnbull",
+  "fullName": "Malcolm Turnbull",
+  "profileSummary": "Malcolm Bligh Turnbull is an Australian former politician, businessman and barrister who served as the 29th prime minister of Australia from 2015 to 2018. He held office as leader of the Liberal Party from 2008 to 2009 and again from 2015 to 2018, and was the member of parliament (MP) for the New South Wales division of Wentworth from 2004 to 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Malcolm_Turnbull_Portrait_%283x4_cropped%29.jpg/330px-Malcolm_Turnbull_Portrait_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Malcolm_Turnbull",
+  "dateOfBirth": "1954-10-24",
+  "birthDateParsed": "1954-10-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "politician",
+    "entrepreneur",
+    "investment banker",
+    "barrister",
+    "head of government",
+    "investment advisor",
+    "lawyer"
+  ],
+  "qid": "Q927550",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-03T12:58:46.619Z"
+}

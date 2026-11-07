@@ -1,0 +1,38 @@
+{
+  "publicId": "a2774430",
+  "wikipediaSlug": "Grover_Cleveland",
+  "wikipediaId": "Q35171",
+  "name": "Grover Cleveland",
+  "fullName": "Grover Cleveland",
+  "profileSummary": "Stephen Grover Cleveland was the 22nd and 24th president of the United States, serving from 1885 to 1889 and from 1893 to 1897. He was the first Democrat elected president after the American Civil War and the first U.S. president to serve nonconsecutive terms.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/StephenGroverCleveland.jpg/330px-StephenGroverCleveland.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Grover_Cleveland",
+  "dateOfBirth": "1837-03-18",
+  "birthDateParsed": "1837-03-18",
+  "dateOfDeath": "1908-06-24",
+  "deathDateParsed": "1908-06-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.8369",
+  "birthCoordinatesLng": "-74.2719",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "statesperson",
+    "executioner",
+    "writer",
+    "governor",
+    "mayor",
+    "sheriff"
+  ],
+  "qid": "Q35171",
+  "birthPlace": "Grover Cleveland Birthplace",
+  "fetchedAt": "2026-08-01T18:07:52.702Z"
+}

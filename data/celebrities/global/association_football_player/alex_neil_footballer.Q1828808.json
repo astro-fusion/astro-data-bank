@@ -1,0 +1,32 @@
+{
+  "publicId": "0fca16d2",
+  "wikipediaSlug": "Alex_Neil_(footballer)",
+  "wikipediaId": "Q1828808",
+  "name": "Alex Neil (footballer)",
+  "fullName": "Alex Neil (footballer)",
+  "profileSummary": "Alexander Francis Neil is a Scottish professional football manager and former player who played as a midfielder. He is currently head coach of EFL Championship club Millwall.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alex_Neil_12042025_%286%29.jpg/330px-Alex_Neil_12042025_%286%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Neil_(footballer)",
+  "dateOfBirth": "1981-06-09",
+  "birthDateParsed": "1981-06-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.866",
+  "birthCoordinatesLng": "-3.98",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1828808",
+  "birthPlace": "Airdrie",
+  "fetchedAt": "2026-08-01T05:19:52.837Z"
+}

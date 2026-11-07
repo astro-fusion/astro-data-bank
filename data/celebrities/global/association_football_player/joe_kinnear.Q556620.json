@@ -1,0 +1,32 @@
+{
+  "publicId": "e4ad2333",
+  "wikipediaSlug": "Joe_Kinnear",
+  "wikipediaId": "Q556620",
+  "name": "Joe Kinnear",
+  "fullName": "Joe Kinnear",
+  "profileSummary": "Joseph Patrick Kinnear was an Irish professional football manager and player. As a defender, Kinnear spent the majority of his career spanning ten seasons with Tottenham Hotspur and one with Brighton & Hove Albion. With Tottenham he won the FA Cup, the League Cup twice, the Charity Shield, and the UEFA Cup. After Spurs, Kinnear played for Brighton for the 1975–76 season. Having been born in Dublin, Kinnear played and was capped 26 times for the Republic of Ireland national team. After his playing career, he managed India, Nepal, Doncaster Rovers, Wimbledon, Luton Town, Nottingham Forest, and Newcastle United.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Joe_Kinnear_Hull_City_v._Newcastle_United_1.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Kinnear",
+  "dateOfBirth": "1946-12-27",
+  "birthDateParsed": "1946-12-27",
+  "dateOfDeath": "2024-04-07",
+  "deathDateParsed": "2024-04-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q556620",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-08-01T05:21:15.951Z"
+}

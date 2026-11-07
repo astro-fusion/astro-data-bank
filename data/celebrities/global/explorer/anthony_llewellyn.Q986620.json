@@ -1,0 +1,32 @@
+{
+  "publicId": "2bb9f09d",
+  "wikipediaSlug": "Anthony_Llewellyn",
+  "wikipediaId": "Q986620",
+  "name": "Anthony Llewellyn",
+  "fullName": "Anthony Llewellyn",
+  "profileSummary": "John Anthony Llewellyn was a Welsh chemist and a NOAA aquanaut. In August 1967, Llewellyn was one of only two non-American astronaut candidates selected by NASA as part of NASA Astronaut Group 6.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Anthony_Llewellyn.jpg/330px-Anthony_Llewellyn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Llewellyn",
+  "dateOfBirth": "1933-04-22",
+  "birthDateParsed": "1933-04-22",
+  "dateOfDeath": "2013-07-02",
+  "deathDateParsed": "2013-07-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.481666666",
+  "birthCoordinatesLng": "-3.179166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "astronaut"
+  ],
+  "qid": "Q986620",
+  "birthPlace": "Cardiff",
+  "fetchedAt": "2026-08-10T06:03:36.883Z"
+}

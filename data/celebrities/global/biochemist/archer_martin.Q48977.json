@@ -1,0 +1,33 @@
+{
+  "publicId": "1d7158ba",
+  "wikipediaSlug": "Archer_Martin",
+  "wikipediaId": "Q48977",
+  "name": "Archer Martin",
+  "fullName": "Archer Martin",
+  "profileSummary": "Archer John Porter Martin was an English chemist who shared the 1952 Nobel Prize in Chemistry for the invention of partition chromatography with Richard Synge.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Archer_John_Porter_Martin_Nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Archer_Martin",
+  "dateOfBirth": "1910-03-01",
+  "birthDateParsed": "1910-03-01",
+  "dateOfDeath": "2002-07-28",
+  "deathDateParsed": "2002-07-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q48977",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T02:03:08.540Z"
+}

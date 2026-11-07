@@ -1,0 +1,34 @@
+{
+  "publicId": "c34f2ee6",
+  "wikipediaSlug": "Mario_Kempes",
+  "wikipediaId": "Q180649",
+  "name": "Mario Kempes",
+  "fullName": "Mario Kempes",
+  "profileSummary": "Mario Alberto Kempes is an Argentine former professional footballer who played as a striker or attacking midfielder. A prolific goalscorer, he finished as La Liga's top goalscorer twice with Valencia where he amassed 116 goals in 184 league games. He is regarded as one of the greatest strikers of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mario_Kempes_Argentina_v_Spain_19_July_2026-036_%28cropped%29.jpg/330px-Mario_Kempes_Argentina_v_Spain_19_July_2026-036_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Kempes",
+  "dateOfBirth": "1954-07-15",
+  "birthDateParsed": "1954-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.633333333",
+  "birthCoordinatesLng": "-62.683333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "journalist",
+    "beach soccer player"
+  ],
+  "qid": "Q180649",
+  "birthPlace": "Bell Ville",
+  "fetchedAt": "2026-08-10T11:28:50.732Z"
+}

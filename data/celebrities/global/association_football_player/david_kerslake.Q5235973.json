@@ -1,0 +1,32 @@
+{
+  "publicId": "bb14a745",
+  "wikipediaSlug": "David_Kerslake",
+  "wikipediaId": "Q5235973",
+  "name": "David Kerslake",
+  "fullName": "David Kerslake",
+  "profileSummary": "David Kerslake is an English football coach and former player. He is assistant manager of Ebbsfleet United.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/David_Kerslake_%28cropped%29.jpg/330px-David_Kerslake_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Kerslake",
+  "dateOfBirth": "1966-06-19",
+  "birthDateParsed": "1966-06-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5152",
+  "birthCoordinatesLng": "-0.0462",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q5235973",
+  "birthPlace": "Stepney",
+  "fetchedAt": "2026-08-01T05:20:35.973Z"
+}

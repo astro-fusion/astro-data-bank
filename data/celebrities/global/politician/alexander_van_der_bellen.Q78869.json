@@ -1,0 +1,33 @@
+{
+  "publicId": "50cc8eea",
+  "wikipediaSlug": "Alexander_Van_der_Bellen",
+  "wikipediaId": "Q78869",
+  "name": "Alexander Van der Bellen",
+  "fullName": "Alexander Van der Bellen",
+  "profileSummary": "Alexander \"Sascha\" Van der Bellen, also referred to by the abbreviation VdB, is an Austrian politician serving as the president of Austria since 2017. He previously was a professor of economics at the University of Vienna, and after joining politics, the spokesman of the Austrian Green Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Am_23._September_2025_nahm_Au%C3%9Fenministerin_Beate_Meinl-Reisinger_gemeinsam_mit_Bundespr%C3%A4sident_Alexander_Van_der_Bellen_%28M%29_und_Bundeskanzler_Christian_Stocker_%28L%29_%2854813003241%29_%28cropped%29.jpg/330px-thumbnail.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Van_der_Bellen",
+  "dateOfBirth": "1944-01-18",
+  "birthDateParsed": "1944-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q78869",
+  "birthPlace": "Vienna",
+  "fetchedAt": "2026-08-03T16:49:10.139Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "d0272db8",
+  "wikipediaSlug": "Alan_Smith_(football_manager)",
+  "wikipediaId": "Q4707783",
+  "name": "Alan Smith (football manager)",
+  "fullName": "Alan Smith (football manager)",
+  "profileSummary": "Alan Smith is an English former football manager, who has managed Dulwich Hamlet, Crystal Palace and Wycombe Wanderers.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Smith_(football_manager)",
+  "dateOfBirth": "1946-12-28",
+  "birthDateParsed": "1946-12-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "manager",
+    "association football coach"
+  ],
+  "qid": "Q4707783",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-01T05:20:08.208Z"
+}

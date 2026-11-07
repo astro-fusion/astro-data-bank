@@ -1,0 +1,35 @@
+{
+  "publicId": "0da47448",
+  "wikipediaSlug": "Friedrich_Hayek",
+  "wikipediaId": "Q1325",
+  "name": "Friedrich Hayek",
+  "fullName": "Friedrich Hayek",
+  "profileSummary": "Friedrich August von Hayek was an Austrian economist and philosopher. He is known for his contributions to political economy, political philosophy and intellectual history. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for work on money and economic fluctuations, and the interdependence of economic, social and institutional phenomena. His account of how prices communicate information is widely regarded as an important contribution to economics that led to his receiving the prize. He was a notable member of the Austrian school of economics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Friedrich_Hayek_portrait.jpg/330px-Friedrich_Hayek_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_Hayek",
+  "dateOfBirth": "1899-05-08",
+  "birthDateParsed": "1899-05-08",
+  "dateOfDeath": "1992-03-23",
+  "deathDateParsed": "1992-03-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "philosopher",
+    "historian",
+    "political scientist",
+    "university teacher"
+  ],
+  "qid": "Q1325",
+  "birthPlace": "Vienna",
+  "fetchedAt": "2026-08-10T09:43:01.555Z"
+}

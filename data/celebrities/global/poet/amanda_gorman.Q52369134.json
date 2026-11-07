@@ -1,0 +1,34 @@
+{
+  "publicId": "b1268c15",
+  "wikipediaSlug": "Amanda_Gorman",
+  "wikipediaId": "Q52369134",
+  "name": "Amanda Gorman",
+  "fullName": "Amanda Gorman",
+  "profileSummary": "Amanda S. C. Gorman is an American poet, activist, and model. Her work focuses on issues of oppression, feminism, race, and marginalization, as well as the African diaspora. Gorman was the first person to be named National Youth Poet Laureate. She published the poetry book The One for Whom Food Is Not Enough in 2015. She rose to fame in 2021 for writing and delivering her poem \"The Hill We Climb\" at the inauguration of Joe Biden. Gorman's inauguration poem generated international acclaim and, shortly thereafter, two of her books achieved best-seller status and she obtained a professional management contract.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Amanda_Gorman_2021_%283x4_crop%29.jpg/330px-Amanda_Gorman_2021_%283x4_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanda_Gorman",
+  "dateOfBirth": "1998-03-07",
+  "birthDateParsed": "1998-03-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "activist",
+    "political activist",
+    "non-fiction writer"
+  ],
+  "qid": "Q52369134",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-05T02:42:35.870Z"
+}

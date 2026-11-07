@@ -1,0 +1,32 @@
+{
+  "publicId": "84a32252",
+  "wikipediaSlug": "Cindy_Hyde-Smith",
+  "wikipediaId": "Q5120540",
+  "name": "Cindy Hyde-Smith",
+  "fullName": "Cindy Hyde-Smith",
+  "profileSummary": "Cindy Hyde-Smith is an American politician and lobbyist serving since 2018 as the junior United States senator from Mississippi. A member of the Republican Party, she served from 2012 to 2018 as the Mississippi Commissioner of Agriculture and Commerce and from 2000 to 2012 in the Mississippi State Senate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg/330px-Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cindy_Hyde-Smith",
+  "dateOfBirth": "1959-05-10",
+  "birthDateParsed": "1959-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.581944444",
+  "birthCoordinatesLng": "-90.443055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "farmer"
+  ],
+  "qid": "Q5120540",
+  "birthPlace": "Brookhaven",
+  "fetchedAt": "2026-08-02T02:16:22.805Z"
+}

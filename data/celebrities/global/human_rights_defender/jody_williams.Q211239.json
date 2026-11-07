@@ -1,0 +1,34 @@
+{
+  "publicId": "a5f963c8",
+  "wikipediaSlug": "Jody_Williams",
+  "wikipediaId": "Q211239",
+  "name": "Jody Williams",
+  "fullName": "Jody Williams",
+  "profileSummary": "Jody Williams is an American political activist known for her work in banning anti-personnel landmines, her defense of human rights, and her efforts to promote new understandings of security in today's world. She was awarded the Nobel Peace Prize in 1997 for her work toward the banning and clearing of anti-personnel mines.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jody_Williams_2001.jpg/330px-Jody_Williams_2001.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jody_Williams",
+  "dateOfBirth": "1950-10-09",
+  "birthDateParsed": "1950-10-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.861944444",
+  "birthCoordinatesLng": "-72.614444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "human rights defender",
+    "peace activist",
+    "university teacher",
+    "social activist"
+  ],
+  "qid": "Q211239",
+  "birthPlace": "Brattleboro",
+  "fetchedAt": "2026-08-04T02:13:33.755Z"
+}

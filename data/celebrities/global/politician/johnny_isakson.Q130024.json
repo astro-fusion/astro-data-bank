@@ -1,0 +1,32 @@
+{
+  "publicId": "70c9a21f",
+  "wikipediaSlug": "Johnny_Isakson",
+  "wikipediaId": "Q130024",
+  "name": "Johnny Isakson",
+  "fullName": "Johnny Isakson",
+  "profileSummary": "John Hardy Isakson was an American businessman and politician who served as a United States senator from Georgia from 2005 until his resignation in 2019 following health concerns. A member of the Republican Party, he previously served in the Georgia legislature and the United States House of Representatives.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Johnny_Isakson_official_Senate_photo.jpg/330px-Johnny_Isakson_official_Senate_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnny_Isakson",
+  "dateOfBirth": "1944-12-28",
+  "birthDateParsed": "1944-12-28",
+  "dateOfDeath": "2021-12-19",
+  "deathDateParsed": "2021-12-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.754444444",
+  "birthCoordinatesLng": "-84.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist"
+  ],
+  "qid": "Q130024",
+  "birthPlace": "Atlanta",
+  "fetchedAt": "2026-08-02T02:17:01.932Z"
+}

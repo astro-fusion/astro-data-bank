@@ -1,0 +1,38 @@
+{
+  "publicId": "f8b669cc",
+  "wikipediaSlug": "Chris_Hadfield",
+  "wikipediaId": "Q1076962",
+  "name": "Chris Hadfield",
+  "fullName": "Chris Hadfield",
+  "profileSummary": "Chris Austin Hadfield is a retired Royal Canadian Air Force colonel, test pilot, and CSA astronaut. As the first Canadian to perform extravehicular activity in outer space, he has flown two Space Shuttle missions and also served as commander of the International Space Station (ISS). Prior to his career as an astronaut, he served in the Canadian Armed Forces for 25 years as an Air Command fighter pilot.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Chris_Hadfield_2011.jpg/330px-Chris_Hadfield_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Hadfield",
+  "dateOfBirth": "1959-08-29",
+  "birthDateParsed": "1959-08-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.9745",
+  "birthCoordinatesLng": "-82.4066",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "executive producer",
+    "aircraft pilot",
+    "songwriter",
+    "singer",
+    "guitarist",
+    "camera operator",
+    "writer"
+  ],
+  "qid": "Q1076962",
+  "birthPlace": "Sarnia",
+  "fetchedAt": "2026-08-10T06:04:00.320Z"
+}

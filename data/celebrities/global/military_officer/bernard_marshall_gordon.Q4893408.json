@@ -1,0 +1,33 @@
+{
+  "publicId": "f3fb116b",
+  "wikipediaSlug": "Bernard_Marshall_Gordon",
+  "wikipediaId": "Q4893408",
+  "name": "Bernard Marshall Gordon",
+  "fullName": "Bernard Marshall Gordon",
+  "profileSummary": "Bernard Marshall Gordon is an American engineer, inventor, entrepreneur, and philanthropist. He is considered \"the father of high-speed analog-to-digital conversion\".",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_Marshall_Gordon",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "computer scientist",
+    "inventor"
+  ],
+  "qid": "Q4893408",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:16:17.485Z"
+}

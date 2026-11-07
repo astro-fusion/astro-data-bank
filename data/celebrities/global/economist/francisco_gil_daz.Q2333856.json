@@ -1,0 +1,32 @@
+{
+  "publicId": "c17ca0fb",
+  "wikipediaSlug": "Francisco_Gil_Díaz",
+  "wikipediaId": "Q2333856",
+  "name": "Francisco Gil Díaz",
+  "fullName": "Francisco Gil Díaz",
+  "profileSummary": "Francisco Gil Díaz is a Mexican economist who served as Secretary of Finance in the cabinet of President Vicente Fox and currently serves as regional chairman of Telefónica for Mexico and Central America.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Franscisco_Gil_Diaz_IMF.jpg/330px-Franscisco_Gil_Diaz_IMF.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Gil_D%C3%ADaz",
+  "dateOfBirth": "1943-09-02",
+  "birthDateParsed": "1943-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "minister"
+  ],
+  "qid": "Q2333856",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-04T15:06:54.219Z"
+}

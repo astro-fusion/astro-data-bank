@@ -1,0 +1,33 @@
+{
+  "publicId": "29441e04",
+  "wikipediaSlug": "Georges_Charpak",
+  "wikipediaId": "Q153178",
+  "name": "Georges Charpak",
+  "fullName": "Georges Charpak",
+  "profileSummary": "Hersz Georges Charpak was a Polish-born French physicist who received the Nobel Prize in Physics in 1992 for his invention of the multiwire proportional chamber.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/CHARPAK_Georges-24x50-2005_cropped.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Charpak",
+  "dateOfBirth": "1924-08-01",
+  "birthDateParsed": "1924-08-01",
+  "dateOfDeath": "2010-09-29",
+  "deathDateParsed": "2010-09-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.566666666",
+  "birthCoordinatesLng": "26.566666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "French resistance fighter",
+    "researcher"
+  ],
+  "qid": "Q153178",
+  "birthPlace": "Dubrovytsia",
+  "fetchedAt": "2026-08-06T05:01:45.546Z"
+}

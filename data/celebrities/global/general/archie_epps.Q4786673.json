@@ -1,0 +1,29 @@
+{
+  "publicId": "c2f407a0",
+  "wikipediaSlug": "Archie_Epps",
+  "wikipediaId": "Q4786673",
+  "name": "Archie Epps",
+  "fullName": "Archie Epps",
+  "profileSummary": "Archie C. Epps III was dean of students at Harvard College from 1970 to 1999. He was one of the first black administrators at Harvard.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/A_Epps.png/330px-A_Epps.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Archie_Epps",
+  "dateOfBirth": "1937-05-19",
+  "birthDateParsed": "1937-05-19",
+  "dateOfDeath": "2003-08-21",
+  "deathDateParsed": "2003-08-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q4786673",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T02:43:52.669Z"
+}

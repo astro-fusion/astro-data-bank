@@ -1,0 +1,31 @@
+{
+  "publicId": "f952595b",
+  "wikipediaSlug": "André_Gobert",
+  "wikipediaId": "Q518931",
+  "name": "André Gobert",
+  "fullName": "André Gobert",
+  "profileSummary": "André Henri Gobert was a tennis player from France. Gobert is a double Olympic tennis champion of 1912. At the Stockholm Games, he won both the men's singles and doubles indoor gold medals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gobert.jpg/330px-Gobert.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gobert",
+  "dateOfBirth": "1890-09-30",
+  "birthDateParsed": "1890-09-30",
+  "dateOfDeath": "1951-12-06",
+  "deathDateParsed": "1951-12-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.882244444",
+  "birthCoordinatesLng": "2.307838888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q518931",
+  "birthPlace": "17th arrondissement of Paris",
+  "fetchedAt": "2026-08-01T13:10:50.578Z"
+}

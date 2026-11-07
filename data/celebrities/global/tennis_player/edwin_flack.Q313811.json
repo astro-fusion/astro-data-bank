@@ -1,0 +1,34 @@
+{
+  "publicId": "f88b4f58",
+  "wikipediaSlug": "Edwin_Flack",
+  "wikipediaId": "Q313811",
+  "name": "Edwin Flack",
+  "fullName": "Edwin Flack",
+  "profileSummary": "Edwin Harold Flack was an Australian athlete and tennis player. Also known as \"Teddy\", he was Australia's first Olympian, being its only representative in 1896, and the first Olympic champion in the 800 metres and the 1500 metres running events.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edwin_Flack",
+  "dateOfBirth": "1873-11-05",
+  "birthDateParsed": "1873-11-05",
+  "dateOfDeath": "1935-01-10",
+  "deathDateParsed": "1935-01-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "athletics competitor",
+    "marathon runner",
+    "middle-distance runner"
+  ],
+  "qid": "Q313811",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T12:58:54.796Z"
+}

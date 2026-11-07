@@ -1,0 +1,32 @@
+{
+  "publicId": "c7f13592",
+  "wikipediaSlug": "Aleksandr_Pavlovich_Aleksandrov",
+  "wikipediaId": "Q466483",
+  "name": "Aleksandr Pavlovich Aleksandrov",
+  "fullName": "Aleksandr Pavlovich Aleksandrov",
+  "profileSummary": "Aleksandr Pavlovich Aleksandrov is a former Soviet cosmonaut and twice Hero of the Soviet Union.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aleksandr_Pavlovich_Aleksandrov.jpg/330px-Aleksandr_Pavlovich_Aleksandrov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Pavlovich_Aleksandrov",
+  "dateOfBirth": "1943-02-20",
+  "birthDateParsed": "1943-02-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "astronaut"
+  ],
+  "qid": "Q466483",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-10T06:02:56.435Z"
+}

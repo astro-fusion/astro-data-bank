@@ -1,0 +1,40 @@
+{
+  "publicId": "2f8f9dc5",
+  "wikipediaSlug": "Camillo_Golgi",
+  "wikipediaId": "Q150630",
+  "name": "Camillo Golgi",
+  "fullName": "Camillo Golgi",
+  "profileSummary": "Camillo Golgi was an Italian biologist and pathologist who was awarded the 1906 Nobel Prize in Physiology or Medicine for his works on the central nervous system. He studied medicine at the University of Pavia between 1860 and 1868 under the tutelage of Cesare Lombroso. Inspired by pathologist Giulio Bizzozero, he pursued research in the nervous system. His discovery of a staining technique called black reaction in 1873 was a major breakthrough in neuroscience. Several structures and phenomena in anatomy and physiology are named for him, including the Golgi apparatus, the Golgi tendon organ and the Golgi tendon reflex.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Camillo_Golgi_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Camillo_Golgi",
+  "dateOfBirth": "1843-07-07",
+  "birthDateParsed": "1843-07-07",
+  "dateOfDeath": "1926-01-21",
+  "deathDateParsed": "1926-01-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.166944444",
+  "birthCoordinatesLng": "10.244444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cell biologist",
+    "physician",
+    "neurologist",
+    "professor",
+    "pathologist",
+    "anatomist",
+    "politician",
+    "scientist",
+    "university teacher",
+    "Nobel Prize winner"
+  ],
+  "qid": "Q150630",
+  "birthPlace": "Corteno Golgi",
+  "fetchedAt": "2026-08-10T03:14:15.847Z"
+}

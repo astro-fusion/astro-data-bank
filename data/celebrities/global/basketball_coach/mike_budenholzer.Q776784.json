@@ -1,0 +1,32 @@
+{
+  "publicId": "f05d7d26",
+  "wikipediaSlug": "Mike_Budenholzer",
+  "wikipediaId": "Q776784",
+  "name": "Mike Budenholzer",
+  "fullName": "Mike Budenholzer",
+  "profileSummary": "Michael Vincent Budenholzer is an American professional basketball coach who most recently served as the head coach of the Phoenix Suns of the National Basketball Association (NBA).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CMuwGzp.jpg/330px-CMuwGzp.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Budenholzer",
+  "dateOfBirth": "1969-08-06",
+  "birthDateParsed": "1969-08-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.907222222",
+  "birthCoordinatesLng": "-110.162777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q776784",
+  "birthPlace": "Holbrook",
+  "fetchedAt": "2026-08-01T15:38:07.223Z"
+}

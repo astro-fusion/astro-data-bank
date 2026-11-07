@@ -1,0 +1,37 @@
+{
+  "publicId": "28222721",
+  "wikipediaSlug": "Christiaan_Eijkman",
+  "wikipediaId": "Q107609",
+  "name": "Christiaan Eijkman",
+  "fullName": "Christiaan Eijkman",
+  "profileSummary": "Christiaan Eijkman was a Dutch physician and professor of physiology whose demonstration that beriberi is caused by poor diet led to the discovery of antineuritic vitamins (thiamine). Together with Sir Frederick Hopkins, he received the Nobel Prize for Physiology or Medicine in 1929 for the discovery of vitamins.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Christiaan_Eijkman.jpg/330px-Christiaan_Eijkman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christiaan_Eijkman",
+  "dateOfBirth": "1858-08-11",
+  "birthDateParsed": "1858-08-11",
+  "dateOfDeath": "1930-11-05",
+  "deathDateParsed": "1930-11-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.221388888",
+  "birthCoordinatesLng": "5.484166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "biochemist",
+    "university teacher",
+    "physiologist",
+    "bacteriologist",
+    "pathologist",
+    "scientist"
+  ],
+  "qid": "Q107609",
+  "birthPlace": "Nijkerk",
+  "fetchedAt": "2026-08-10T03:14:15.361Z"
+}

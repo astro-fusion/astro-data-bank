@@ -1,0 +1,34 @@
+{
+  "publicId": "ec2d5e75",
+  "wikipediaSlug": "Brian_Binnie",
+  "wikipediaId": "Q911890",
+  "name": "Brian Binnie",
+  "fullName": "Brian Binnie",
+  "profileSummary": "William Brian Binnie was a United States Navy officer and one of the test pilots for SpaceShipOne, the experimental spaceplane developed by Scaled Composites and flown from 2003 to 2004.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brian_Binnie_by_Don_Ramey_Logan.jpg/330px-Brian_Binnie_by_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Binnie",
+  "dateOfBirth": "1953-04-26",
+  "birthDateParsed": "1953-04-26",
+  "dateOfDeath": "2022-09-15",
+  "deathDateParsed": "2022-09-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.441944444",
+  "birthCoordinatesLng": "-86.9125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "commercial astronaut",
+    "aircraft pilot",
+    "test pilot"
+  ],
+  "qid": "Q911890",
+  "birthPlace": "West Lafayette",
+  "fetchedAt": "2026-08-10T06:04:12.476Z"
+}

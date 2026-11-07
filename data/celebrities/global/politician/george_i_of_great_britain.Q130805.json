@@ -1,0 +1,31 @@
+{
+  "publicId": "a694aacd",
+  "wikipediaSlug": "George_I_of_Great_Britain",
+  "wikipediaId": "Q130805",
+  "name": "George I of Great Britain",
+  "fullName": "George I of Great Britain",
+  "profileSummary": "George I was King of Great Britain and Ireland from 1 August 1714 and ruler of the Electorate of Hanover within the Holy Roman Empire from 23 January 1698 until his death in 1727. He was the first British monarch of the House of Hanover.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/King_George_I_by_Sir_Godfrey_Kneller%2C_Bt_%283%29.jpg/330px-King_George_I_by_Sir_Godfrey_Kneller%2C_Bt_%283%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_I_of_Great_Britain",
+  "dateOfBirth": "1660-06-07",
+  "birthDateParsed": "1660-06-07",
+  "dateOfDeath": "1727-06-22",
+  "deathDateParsed": "1727-06-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.374444444",
+  "birthCoordinatesLng": "9.738611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q130805",
+  "birthPlace": "Hanover",
+  "fetchedAt": "2026-08-02T05:21:55.196Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "7b58ec76",
+  "wikipediaSlug": "Jana_Novotná",
+  "wikipediaId": "Q229121",
+  "name": "Jana Novotná",
+  "fullName": "Jana Novotná",
+  "profileSummary": "Jana Novotná was a Czech professional tennis player. She was ranked world No. 2 in women's singles by the Women's Tennis Association (WTA), achieved in July 1997, and as the world No. 1 in women's doubles for 67 weeks. Novotná won 24 WTA Tour–level singles titles, including the 1998 Wimbledon Championships, and was runner-up in three other singles majors. She also won twelve major women's doubles titles, four major mixed doubles titles, and three Olympic medals. Novotná played a serve-and-volley game, an increasingly rare style of play among women during her career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jana_Novotna_1996.jpg/330px-Jana_Novotna_1996.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jana_Novotn%C3%A1",
+  "dateOfBirth": "1968-10-02",
+  "birthDateParsed": "1968-10-02",
+  "dateOfDeath": "2017-11-19",
+  "deathDateParsed": "2017-11-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.195277777",
+  "birthCoordinatesLng": "16.608333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach",
+    "coach"
+  ],
+  "qid": "Q229121",
+  "birthPlace": "Brno",
+  "fetchedAt": "2026-08-01T14:59:21.346Z"
+}

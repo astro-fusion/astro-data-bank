@@ -1,0 +1,31 @@
+{
+  "publicId": "cb08f5b6",
+  "wikipediaSlug": "Georg_Bednorz",
+  "wikipediaId": "Q76687",
+  "name": "Georg Bednorz",
+  "fullName": "Georg Bednorz",
+  "profileSummary": "Johannes Georg Bednorz is a German physicist who, together with K. Alex Müller, discovered high-temperature superconductivity in ceramics, for which they shared the 1987 Nobel Prize in Physics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/8th_Silesian_Science_Festival%2C_Johannes_Georg_Bednorz%2C_KsP_709%2C_09.12.2024.jpg/330px-8th_Silesian_Science_Festival%2C_Johannes_Georg_Bednorz%2C_KsP_709%2C_09.12.2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georg_Bednorz",
+  "dateOfBirth": "1950-05-16",
+  "birthDateParsed": "1950-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.241111111",
+  "birthCoordinatesLng": "7.368888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q76687",
+  "birthPlace": "Neuenkirchen",
+  "fetchedAt": "2026-08-06T05:02:07.269Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "a3da4563",
+  "wikipediaSlug": "John_Cocke_(computer_scientist)",
+  "wikipediaId": "Q92632",
+  "name": "John Cocke (computer scientist)",
+  "fullName": "John Cocke (computer scientist)",
+  "profileSummary": "John Cocke was an American computer scientist at IBM and recognized for his large contribution to computer architecture and optimizing compiler design. He is considered by many to be \"the father of RISC architecture.\" He won the 1987 ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/John_Cocke_%28computer_scientist%29.jpg/330px-John_Cocke_%28computer_scientist%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Cocke_(computer_scientist)",
+  "dateOfBirth": "1925-05-30",
+  "birthDateParsed": "1925-05-30",
+  "dateOfDeath": "2002-07-16",
+  "deathDateParsed": "2002-07-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.226944444",
+  "birthCoordinatesLng": "-80.843333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q92632",
+  "birthPlace": "Charlotte",
+  "fetchedAt": "2026-08-10T04:29:07.527Z"
+}

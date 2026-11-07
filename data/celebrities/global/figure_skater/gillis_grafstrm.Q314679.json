@@ -1,0 +1,32 @@
+{
+  "publicId": "f5cc02bf",
+  "wikipediaSlug": "Gillis_Grafström",
+  "wikipediaId": "Q314679",
+  "name": "Gillis Grafström",
+  "fullName": "Gillis Grafström",
+  "profileSummary": "Gillis Emanuel Grafström was a Swedish figure skater. He was born in Stockholm, Sweden. He won three successive Olympic gold medals in Men's Figure Skating as well as an Olympic silver medal in the same event in 1932, and three World Championships. Grafström is one of the few athletes who have competed in both the Summer and Winter Olympic games. He and Eddie Eagan are the only athletes to have won gold medals at both the Summer and Winter Olympic Games, although Eagan remains the only one to have managed the feat in different disciplines. He is one of the oldest figure skating Olympic champions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gillis_Grafstr%C3%B6m_1924.jpg/330px-Gillis_Grafstr%C3%B6m_1924.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gillis_Grafstr%C3%B6m",
+  "dateOfBirth": "1893-06-07",
+  "birthDateParsed": "1893-06-07",
+  "dateOfDeath": "1938-04-14",
+  "deathDateParsed": "1938-04-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.33560278",
+  "birthCoordinatesLng": "18.08112778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "figure skater",
+    "interior architect"
+  ],
+  "qid": "Q314679",
+  "birthPlace": "Hedvig Eleonora parish",
+  "fetchedAt": "2026-08-10T13:00:13.272Z"
+}

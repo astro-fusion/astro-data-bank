@@ -1,0 +1,33 @@
+{
+  "publicId": "fc4742f4",
+  "wikipediaSlug": "Christian_Guilleminault",
+  "wikipediaId": "Q2965322",
+  "name": "Christian Guilleminault",
+  "fullName": "Christian Guilleminault",
+  "profileSummary": "Christian Guilleminault was a French physician and researcher in the field of sleep medicine who played a central role in the early discovery of obstructive sleep apnea and made seminal discoveries in many other areas of sleep medicine.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Guilleminault",
+  "dateOfBirth": "1938-08-12",
+  "birthDateParsed": "1938-08-12",
+  "dateOfDeath": "2019-07-09",
+  "deathDateParsed": "2019-07-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.296666666",
+  "birthCoordinatesLng": "5.376388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "neurologist",
+    "researcher"
+  ],
+  "qid": "Q2965322",
+  "birthPlace": "Marseille",
+  "fetchedAt": "2026-08-04T15:05:25.281Z"
+}

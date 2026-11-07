@@ -1,0 +1,32 @@
+{
+  "publicId": "b0542f25",
+  "wikipediaSlug": "Denis_Matveev",
+  "wikipediaId": "Q21106378",
+  "name": "Denis Matveev",
+  "fullName": "Denis Matveev",
+  "profileSummary": "Denis Vladimirovich Matveev is a former Russian cosmonaut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Denis_Matveev_in_2021_%28b%29.jpg/330px-Denis_Matveev_in_2021_%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Matveev",
+  "dateOfBirth": "1983-04-25",
+  "birthDateParsed": "1983-04-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "explorer"
+  ],
+  "qid": "Q21106378",
+  "birthPlace": "Saint Petersburg",
+  "fetchedAt": "2026-08-10T06:04:52.249Z"
+}

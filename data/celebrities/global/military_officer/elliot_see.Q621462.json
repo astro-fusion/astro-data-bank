@@ -1,0 +1,34 @@
+{
+  "publicId": "b53c274f",
+  "wikipediaSlug": "Elliot_See",
+  "wikipediaId": "Q621462",
+  "name": "Elliot See",
+  "fullName": "Elliot See",
+  "profileSummary": "Elliot McKay See Jr. was an American engineer, naval aviator, test pilot and NASA astronaut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Elliot_See_-_S64-29933.jpg/330px-Elliot_See_-_S64-29933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elliot_See",
+  "dateOfBirth": "1927-07-23",
+  "birthDateParsed": "1927-07-23",
+  "dateOfDeath": "1966-02-28",
+  "deathDateParsed": "1966-02-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.779166666",
+  "birthCoordinatesLng": "-96.808888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "test pilot",
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q621462",
+  "birthPlace": "Dallas",
+  "fetchedAt": "2026-08-10T06:04:55.134Z"
+}

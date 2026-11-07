@@ -1,0 +1,35 @@
+{
+  "publicId": "08e391ce",
+  "wikipediaSlug": "Arthur_Wellesley,_1st_Duke_of_Wellington",
+  "wikipediaId": "Q131691",
+  "name": "Arthur Wellesley, 1st Duke of Wellington",
+  "fullName": "Arthur Wellesley, 1st Duke of Wellington",
+  "profileSummary": "Field Marshal Arthur Wellesley, 1st Duke of Wellington, was a British Army officer and statesman. A leading figure in early-19th-century British politics, Wellesley served as Prime Minister of the United Kingdom and as Commander-in-Chief of the Forces.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sir_Arthur_Wellesley%2C_1st_Duke_of_Wellington.jpg/330px-Sir_Arthur_Wellesley%2C_1st_Duke_of_Wellington.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Wellesley%2C_1st_Duke_of_Wellington",
+  "dateOfBirth": "1769-05-01",
+  "birthDateParsed": "1769-05-01",
+  "dateOfDeath": "1852-09-14",
+  "deathDateParsed": "1852-09-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military officer",
+    "head of government",
+    "general field marshal"
+  ],
+  "qid": "Q131691",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-08-02T05:21:21.505Z"
+}

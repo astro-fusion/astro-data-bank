@@ -1,0 +1,31 @@
+{
+  "publicId": "67b9f63c",
+  "wikipediaSlug": "Anant_Bhardwaj",
+  "wikipediaId": "Q38606654",
+  "name": "Instabase",
+  "fullName": "Instabase",
+  "profileSummary": "Instabase, Inc is a technology company headquartered in San Francisco. The company provides an applied AI platform that is used to automate business processes.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Instabase",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist"
+  ],
+  "qid": "Q38606654",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:55.092Z"
+}

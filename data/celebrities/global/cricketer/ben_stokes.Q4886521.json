@@ -1,0 +1,31 @@
+{
+  "publicId": "7b8f44a0",
+  "wikipediaSlug": "Ben_Stokes",
+  "wikipediaId": "Q4886521",
+  "name": "Ben Stokes",
+  "fullName": "Ben Stokes",
+  "profileSummary": "Benjamin Andrew Stokes is an English former international cricketer who captained the England Test team from 2022 to 2026. Stokes played for England in all three formats and is regarded as one of England's greatest all-rounders. In domestic cricket, he represents Durham and has played in multiple Twenty20 leagues around the world. He was part of the England team that won the 2019 Cricket World Cup and 2022 T20 World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/3_14_Captain_Ben_%28cropped%29_%28cropped%29.jpg/330px-3_14_Captain_Ben_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Stokes",
+  "dateOfBirth": "1991-06-04",
+  "birthDateParsed": "1991-06-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4886521",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-07-31T20:08:31.288Z"
+}

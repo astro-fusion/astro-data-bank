@@ -1,0 +1,37 @@
+{
+  "publicId": "1bf0d103",
+  "wikipediaSlug": "Alfred_Lyttelton",
+  "wikipediaId": "Q3395941",
+  "name": "Alfred Lyttelton",
+  "fullName": "Alfred Lyttelton",
+  "profileSummary": "Alfred Lyttelton KC was a British politician and sportsman from the Lyttelton family who excelled at both football and cricket. During his time at university he participated in Varsity Matches in five sports: cricket (1876–79), football (1876–78), athletics, rackets (1877–79) and real tennis (1877–79), displaying an ability that made him arguably the pre-eminent sportsman of his generation; his only rival in terms of versatility was Oxford's Cuthbert Ottaway. He was, among numerous other achievements, the first man to represent England at both football and cricket. Lyttelton was also a successful politician and served as Secretary of State for the Colonies between 1903 and 1905.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Alfred_Lyttelton.jpg/330px-Alfred_Lyttelton.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Lyttelton",
+  "dateOfBirth": "1857-02-07",
+  "birthDateParsed": "1857-02-07",
+  "dateOfDeath": "1913-07-05",
+  "deathDateParsed": "1913-07-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4995",
+  "birthCoordinatesLng": "-0.1333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "cricketer",
+    "politician",
+    "tennis player",
+    "athlete",
+    "barrister",
+    "minister"
+  ],
+  "qid": "Q3395941",
+  "birthPlace": "Westminster",
+  "fetchedAt": "2026-07-31T20:07:21.556Z"
+}

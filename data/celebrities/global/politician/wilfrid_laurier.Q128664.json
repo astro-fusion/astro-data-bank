@@ -1,0 +1,35 @@
+{
+  "publicId": "0dd9ab90",
+  "wikipediaSlug": "Wilfrid_Laurier",
+  "wikipediaId": "Q128664",
+  "name": "Wilfrid Laurier",
+  "fullName": "Wilfrid Laurier",
+  "profileSummary": "Sir Henri Charles Wilfrid Laurier was the seventh prime minister of Canada from 1896 to 1911. The first French Canadian prime minister, his 15-year tenure remains the longest uninterrupted term of office among Canadian prime ministers and his nearly 45 years of service in the House of Commons is a record for the House. Laurier is best known for his compromises between English and French Canada.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Honourable_Sir_Wilfrid_Laurier_Photo_A_%283x4_cropped%29.jpg/330px-The_Honourable_Sir_Wilfrid_Laurier_Photo_A_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilfrid_Laurier",
+  "dateOfBirth": "1841-11-20",
+  "birthDateParsed": "1841-11-20",
+  "dateOfDeath": "1919-02-17",
+  "deathDateParsed": "1919-02-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.85",
+  "birthCoordinatesLng": "-73.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "journalist",
+    "essayist",
+    "writer"
+  ],
+  "qid": "Q128664",
+  "birthPlace": "Saint-Lin–Laurentides",
+  "fetchedAt": "2026-08-03T10:59:45.445Z"
+}

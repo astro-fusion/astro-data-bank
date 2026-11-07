@@ -1,0 +1,32 @@
+{
+  "publicId": "1c522e38",
+  "wikipediaSlug": "Feodor_Lynen",
+  "wikipediaId": "Q44597",
+  "name": "Feodor Lynen",
+  "fullName": "Feodor Lynen",
+  "profileSummary": "Feodor Felix Konrad Lynen was a German biochemist. In 1964, he won the Nobel Prize in Physiology or Medicine together with Konrad Bloch for their discoveries concerning the mechanism and regulation of cholesterol and fatty acid metabolism while he was director of the Max-Planck Institute for Cellular Chemistry in Munich.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Feodor_Lynen_with_pipette.jpg/330px-Feodor_Lynen_with_pipette.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Feodor_Lynen",
+  "dateOfBirth": "1911-04-06",
+  "birthDateParsed": "1911-04-06",
+  "dateOfDeath": "1979-08-06",
+  "deathDateParsed": "1979-08-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "university teacher"
+  ],
+  "qid": "Q44597",
+  "birthPlace": "Munich",
+  "fetchedAt": "2026-08-10T03:14:31.033Z"
+}

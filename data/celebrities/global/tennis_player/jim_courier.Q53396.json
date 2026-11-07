@@ -1,0 +1,31 @@
+{
+  "publicId": "9a0a034b",
+  "wikipediaSlug": "Jim_Courier",
+  "wikipediaId": "Q53396",
+  "name": "Jim Courier",
+  "fullName": "Jim Courier",
+  "profileSummary": "James Spencer Courier is an American former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 58 weeks, including as the year-end No. 1 in 1992. Courier won 23 ATP Tour-level singles titles, including four majors – two at the French Open and two at the Australian Open – and was the youngest man in the Open Era to reach the final of all four singles majors, after reaching the final of the 1993 Wimbledon Championships aged 22 years, 319 days, a record that stood until Carlos Alcaraz achieved the same feat aged 22 years, 266 days at the 2026 Australian Open. He also won five Masters titles and was part of the victorious United States Davis Cup teams in 1992 and 1995.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jim_Courier_2007.jpg/330px-Jim_Courier_2007.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Courier",
+  "dateOfBirth": "1970-08-17",
+  "birthDateParsed": "1970-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.789444444",
+  "birthCoordinatesLng": "-81.275555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q53396",
+  "birthPlace": "Sanford",
+  "fetchedAt": "2026-08-01T13:12:07.994Z"
+}

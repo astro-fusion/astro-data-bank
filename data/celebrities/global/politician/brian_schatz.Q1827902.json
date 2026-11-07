@@ -1,0 +1,33 @@
+{
+  "publicId": "d35b13cc",
+  "wikipediaSlug": "Brian_Schatz",
+  "wikipediaId": "Q1827902",
+  "name": "Brian Schatz",
+  "fullName": "Brian Schatz",
+  "profileSummary": "Brian Emanuel Schatz is an American politician serving since 2012 as the senior United States senator from Hawaii. A progressive Democrat, Schatz served in the Hawaii House of Representatives from 1998 to 2006, representing the 25th legislative district; as the chairman of the Democratic Party of Hawaii from 2008 to 2010; and as the 12th lieutenant governor of Hawaii from 2010 to 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Brian_Schatz%2C_official_portrait%2C_113th_Congress_2.jpg/330px-Brian_Schatz%2C_official_portrait%2C_113th_Congress_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Schatz",
+  "dateOfBirth": "1972-10-20",
+  "birthDateParsed": "1972-10-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.281388888",
+  "birthCoordinatesLng": "-83.748333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "teacher",
+    "chief executive officer"
+  ],
+  "qid": "Q1827902",
+  "birthPlace": "Ann Arbor",
+  "fetchedAt": "2026-08-02T02:16:13.842Z"
+}

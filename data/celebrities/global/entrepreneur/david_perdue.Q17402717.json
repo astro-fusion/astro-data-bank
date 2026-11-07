@@ -1,0 +1,36 @@
+{
+  "publicId": "51c5fd6f",
+  "wikipediaSlug": "David_Perdue",
+  "wikipediaId": "Q17402717",
+  "name": "David Perdue",
+  "fullName": "David Perdue",
+  "profileSummary": "David Alfred Perdue Jr. is an American diplomat, politician, and businessman serving as the 14th United States ambassador to China since 2025. A member of the Republican Party, Perdue previously served as a United States senator for Georgia from 2015 to 2021. He was an unsuccessful candidate for governor of Georgia in 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ambassador_David_Perdue.jpg/330px-Ambassador_David_Perdue.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Perdue",
+  "dateOfBirth": "1949-12-10",
+  "birthDateParsed": "1949-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.84069",
+  "birthCoordinatesLng": "-83.6324",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "businessperson",
+    "politician",
+    "business consultant",
+    "business executive",
+    "diplomat"
+  ],
+  "qid": "Q17402717",
+  "birthPlace": "Macon",
+  "fetchedAt": "2026-08-02T02:16:50.348Z"
+}

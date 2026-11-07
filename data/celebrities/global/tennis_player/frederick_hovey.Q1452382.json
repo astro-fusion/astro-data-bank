@@ -1,0 +1,31 @@
+{
+  "publicId": "57239f66",
+  "wikipediaSlug": "Frederick_Hovey",
+  "wikipediaId": "Q1452382",
+  "name": "Frederick Hovey",
+  "fullName": "Frederick Hovey",
+  "profileSummary": "Frederick Howard Hovey was a former World No 1 American tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fred_Hovey.jpg/330px-Fred_Hovey.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Hovey",
+  "dateOfBirth": "1868-10-07",
+  "birthDateParsed": "1868-10-07",
+  "dateOfDeath": "1945-10-18",
+  "deathDateParsed": "1945-10-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.336944444",
+  "birthCoordinatesLng": "-71.209722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q1452382",
+  "birthPlace": "Newton",
+  "fetchedAt": "2026-08-01T13:11:27.497Z"
+}

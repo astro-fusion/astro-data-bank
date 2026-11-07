@@ -1,0 +1,32 @@
+{
+  "publicId": "78d512ec",
+  "wikipediaSlug": "James_Gomez_(politician)",
+  "wikipediaId": "Q6134719",
+  "name": "James Gomez (politician)",
+  "fullName": "James Gomez (politician)",
+  "profileSummary": "James Gomez is a Singaporean academic, politician and a member of the Singapore Democratic Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/James_Gomez_2015.JPG/330px-James_Gomez_2015.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Gomez_(politician)",
+  "dateOfBirth": "1965-01-10",
+  "birthDateParsed": "1965-01-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "political scientist"
+  ],
+  "qid": "Q6134719",
+  "birthPlace": "Singapore",
+  "fetchedAt": "2026-08-06T09:08:56.061Z"
+}

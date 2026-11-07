@@ -1,0 +1,33 @@
+{
+  "publicId": "560cc146",
+  "wikipediaSlug": "Peter_Cosgrove",
+  "wikipediaId": "Q976974",
+  "name": "Peter Cosgrove",
+  "fullName": "Peter Cosgrove",
+  "profileSummary": "General Sir Peter John Cosgrove is an Australian retired senior Army officer who served as the 26th governor-general of Australia, in office from 2014 to 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Peter_Cosgrove_2017_%281%29.jpg/330px-Peter_Cosgrove_2017_%281%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Cosgrove",
+  "dateOfBirth": "1947-07-28",
+  "birthDateParsed": "1947-07-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "politician",
+    "soldier"
+  ],
+  "qid": "Q976974",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-03T12:58:47.107Z"
+}

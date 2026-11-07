@@ -1,0 +1,32 @@
+{
+  "publicId": "ee301797",
+  "wikipediaSlug": "David_Hurley",
+  "wikipediaId": "Q5235277",
+  "name": "David Hurley",
+  "fullName": "David Hurley",
+  "profileSummary": "General David John Hurley is an Australian viceregal officeholder and military officer. A senior officer in the Australian Army, he served as the 27th governor-general of Australia from 2019 to 2024. He was previously the 38th governor of New South Wales from 2014 to 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/David_Hurley_official_photo_%283x4_cropped%29.jpg/330px-David_Hurley_official_photo_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Hurley",
+  "dateOfBirth": "1953-08-26",
+  "birthDateParsed": "1953-08-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.433055555",
+  "birthCoordinatesLng": "150.883055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "politician"
+  ],
+  "qid": "Q5235277",
+  "birthPlace": "Wollongong",
+  "fetchedAt": "2026-08-03T12:58:11.891Z"
+}

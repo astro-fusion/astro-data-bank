@@ -1,0 +1,32 @@
+{
+  "publicId": "e30f7e6f",
+  "wikipediaSlug": "Algy_Gehrs",
+  "wikipediaId": "Q4724396",
+  "name": "Algy Gehrs",
+  "fullName": "Algy Gehrs",
+  "profileSummary": "Donald Raeburn Algernon Gehrs was an Australian sportsman who played six Test matches for Australia from 1904 to 1911 and played Australian rules football for South Adelaide and North Adelaide Football Clubs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Algy_Gehrs_Cricket_1905_-_Copy.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Algy_Gehrs",
+  "dateOfBirth": "1880-11-29",
+  "birthDateParsed": "1880-11-29",
+  "dateOfDeath": "1953-06-25",
+  "deathDateParsed": "1953-06-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-35.55",
+  "birthCoordinatesLng": "138.616666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "Australian rules football player"
+  ],
+  "qid": "Q4724396",
+  "birthPlace": "Victor Harbor",
+  "fetchedAt": "2026-07-31T19:43:45.000Z"
+}

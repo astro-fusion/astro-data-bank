@@ -1,0 +1,32 @@
+{
+  "publicId": "aa3ad720",
+  "wikipediaSlug": "Gilles_Brassard",
+  "wikipediaId": "Q92938",
+  "name": "Gilles Brassard",
+  "fullName": "Gilles Brassard",
+  "profileSummary": "Gilles Brassard is a Canadian computer scientist. He is faculty member of the Université de Montréal, where he has been a Full Professor since 1988 and Canada Research Chair since 2001. He shared the 2025 Turing Award with Charles H. Bennett for their work in quantum information science.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gilles_Brassard_%282019%29.jpg/330px-Gilles_Brassard_%282019%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilles_Brassard",
+  "dateOfBirth": "1955-04-20",
+  "birthDateParsed": "1955-04-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.5033426",
+  "birthCoordinatesLng": "-73.5868411",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cryptographer",
+    "computer scientist"
+  ],
+  "qid": "Q92938",
+  "birthPlace": "Montreal",
+  "fetchedAt": "2026-08-10T04:28:43.437Z"
+}

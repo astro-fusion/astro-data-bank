@@ -1,0 +1,32 @@
+{
+  "publicId": "0350a34e",
+  "wikipediaSlug": "Alice_Marble",
+  "wikipediaId": "Q54535",
+  "name": "Alice Marble",
+  "fullName": "Alice Marble",
+  "profileSummary": "Alice Irene Marble was an American tennis player who won 18 Grand Slam championships between 1936 and 1940: five in singles, six in women's doubles, and seven in mixed doubles. She was ranked world No. 1 in 1939.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Alice_Marble%2C_NPG_97_215.jpg/330px-Alice_Marble%2C_NPG_97_215.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Marble",
+  "dateOfBirth": "1913-09-28",
+  "birthDateParsed": "1913-09-28",
+  "dateOfDeath": "1990-12-13",
+  "deathDateParsed": "1990-12-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.01",
+  "birthCoordinatesLng": "-120.83",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "comics writer"
+  ],
+  "qid": "Q54535",
+  "birthPlace": "Plumas County",
+  "fetchedAt": "2026-08-01T14:58:52.395Z"
+}

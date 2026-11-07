@@ -1,0 +1,33 @@
+{
+  "publicId": "896f6489",
+  "wikipediaSlug": "Dorothea_Lambert_Chambers",
+  "wikipediaId": "Q53369",
+  "name": "Dorothea Lambert Chambers",
+  "fullName": "Dorothea Lambert Chambers",
+  "profileSummary": "Dorothea Lambert Chambers was a British tennis player. She won seven Wimbledon women's singles titles and a gold medal at the 1908 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dorothea_Douglass.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorothea_Lambert_Chambers",
+  "dateOfBirth": "1878-09-03",
+  "birthDateParsed": "1878-09-03",
+  "dateOfDeath": "1960-01-07",
+  "deathDateParsed": "1960-01-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5111",
+  "birthCoordinatesLng": "-0.3058",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "badminton player",
+    "field hockey player"
+  ],
+  "qid": "Q53369",
+  "birthPlace": "Ealing",
+  "fetchedAt": "2026-08-01T14:59:43.673Z"
+}

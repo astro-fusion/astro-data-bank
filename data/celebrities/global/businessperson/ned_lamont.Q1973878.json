@@ -1,0 +1,36 @@
+{
+  "publicId": "67da88a0",
+  "wikipediaSlug": "Ned_Lamont",
+  "wikipediaId": "Q1973878",
+  "name": "Ned Lamont",
+  "fullName": "Ned Lamont",
+  "profileSummary": "Edward Miner Lamont Jr. is an American politician and businessman who has been serving since 2019 as the 89th governor of Connecticut. A member of the Democratic Party, he served from 1987 to 1989 as a Greenwich selectman, and was the Democratic nominee for the United States Senate in 2006, losing to Independent incumbent Joe Lieberman.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Governor_Ned_Lamont_of_Connecticut%2C_official_portrait.jpg/330px-Governor_Ned_Lamont_of_Connecticut%2C_official_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ned_Lamont",
+  "dateOfBirth": "1954-01-03",
+  "birthDateParsed": "1954-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "politician",
+    "newspaper editor",
+    "university teacher",
+    "entrepreneur",
+    "governor"
+  ],
+  "qid": "Q1973878",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-02T03:28:34.162Z"
+}

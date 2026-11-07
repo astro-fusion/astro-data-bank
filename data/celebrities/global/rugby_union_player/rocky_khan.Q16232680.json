@@ -1,0 +1,31 @@
+{
+  "publicId": "c781e872",
+  "wikipediaSlug": "Rocky_Khan",
+  "wikipediaId": "Q16232680",
+  "name": "Rocky Khan",
+  "fullName": "Rocky Khan",
+  "profileSummary": "Rocky Khan is a New Zealand rugby union player. He plays on the wing, flyhalf and fullback in 15's rugby or at halfback in 7's rugby.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rocky_Khan_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rocky_Khan",
+  "dateOfBirth": "1989-05-06",
+  "birthDateParsed": "1989-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rugby union player"
+  ],
+  "qid": "Q16232680",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-08-07T04:27:22.705Z"
+}

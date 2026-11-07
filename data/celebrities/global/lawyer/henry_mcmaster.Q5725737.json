@@ -1,0 +1,35 @@
+{
+  "publicId": "6106e75b",
+  "wikipediaSlug": "Henry_McMaster",
+  "wikipediaId": "Q5725737",
+  "name": "Henry McMaster",
+  "fullName": "Henry McMaster",
+  "profileSummary": "Henry Dargan McMaster is an American politician and attorney serving since 2017 as the 117th governor of South Carolina. A member of the Republican Party, he served from 2003 to 2011 as the 50th attorney general of South Carolina and from 2015 to 2017 as the 91st lieutenant governor of South Carolina, under Governor Nikki Haley.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Henry_McMaster_in_2026_%28cropped%29.jpg/330px-Henry_McMaster_in_2026_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_McMaster",
+  "dateOfBirth": "1947-05-27",
+  "birthDateParsed": "1947-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.000555555",
+  "birthCoordinatesLng": "-81.044166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "governor",
+    "jurist",
+    "prosecutor"
+  ],
+  "qid": "Q5725737",
+  "birthPlace": "Columbia",
+  "fetchedAt": "2026-08-02T03:28:09.128Z"
+}

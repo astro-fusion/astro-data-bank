@@ -1,0 +1,39 @@
+{
+  "publicId": "98139fa9",
+  "wikipediaSlug": "Ayn_Rand",
+  "wikipediaId": "Q132524",
+  "name": "Ayn Rand",
+  "fullName": "Ayn Rand",
+  "profileSummary": "Alice O'Connor, better known by her pen name Ayn Rand, was a Russian and American writer and philosopher. She is known for her fiction and for developing a philosophical system which she named Objectivism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg/330px-Ayn_Rand_%281943_Talbot_portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayn_Rand",
+  "dateOfBirth": "1905-02-02",
+  "birthDateParsed": "1905-02-02",
+  "dateOfDeath": "1982-03-06",
+  "deathDateParsed": "1982-03-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "philosopher",
+    "novelist",
+    "screenwriter",
+    "literary critic",
+    "essayist",
+    "journalist",
+    "science fiction writer",
+    "writer"
+  ],
+  "qid": "Q132524",
+  "birthPlace": "Saint Petersburg",
+  "fetchedAt": "2026-08-05T03:15:13.432Z"
+}

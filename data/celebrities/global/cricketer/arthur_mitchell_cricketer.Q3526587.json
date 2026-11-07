@@ -1,0 +1,31 @@
+{
+  "publicId": "15cdd1ad",
+  "wikipediaSlug": "Arthur_Mitchell_(cricketer)",
+  "wikipediaId": "Q3526587",
+  "name": "Arthur Mitchell (cricketer)",
+  "fullName": "Arthur Mitchell (cricketer)",
+  "profileSummary": "Arthur \"Ticker\" Mitchell was an English first-class cricketer, who played both for Yorkshire County Cricket Club and England.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Arthur_Mitchell_of_Yorkshire.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Mitchell_(cricketer)",
+  "dateOfBirth": "1902-09-13",
+  "birthDateParsed": "1902-09-13",
+  "dateOfDeath": "1976-12-25",
+  "deathDateParsed": "1976-12-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.851",
+  "birthCoordinatesLng": "-1.763",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526587",
+  "birthPlace": "Baildon",
+  "fetchedAt": "2026-07-31T20:08:45.811Z"
+}

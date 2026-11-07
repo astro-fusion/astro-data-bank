@@ -1,0 +1,36 @@
+{
+  "publicId": "094c9962",
+  "wikipediaSlug": "Greg_Louganis",
+  "wikipediaId": "Q311332",
+  "name": "Greg Louganis",
+  "fullName": "Greg Louganis",
+  "profileSummary": "Gregory Efthimios Louganis is an American Olympic diver who won gold medals at the 1984 and 1988 Summer Olympics on the springboard and platform. He is the only man and the second diver in Olympic history to sweep the diving events in consecutive Olympic Games. He has been called both \"the greatest American diver\" and \"probably the greatest diver in history\" as of 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Credit_Mark-Hanauer_4.jpg/330px-Credit_Mark-Hanauer_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Greg_Louganis",
+  "dateOfBirth": "1960-01-29",
+  "birthDateParsed": "1960-01-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715",
+  "birthCoordinatesLng": "-117.1625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "platform diver",
+    "autobiographer",
+    "competitive diver",
+    "coach",
+    "art collector",
+    "Q116445694"
+  ],
+  "qid": "Q311332",
+  "birthPlace": "San Diego",
+  "fetchedAt": "2026-08-10T12:59:31.872Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "2f4d1537",
+  "wikipediaSlug": "James_Buchanan",
+  "wikipediaId": "Q12325",
+  "name": "James Buchanan",
+  "fullName": "James Buchanan",
+  "profileSummary": "James Buchanan Jr. was the 15th president of the United States, serving from 1857 to 1861. He also served as the 17th United States secretary of state from 1845 to 1849 and represented Pennsylvania in both houses of the U.S. Congress. Buchanan was an advocate for states' rights, particularly regarding slavery, and argued for limiting the role of the federal government preceding the American Civil War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/330px-James_Buchanan.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Buchanan",
+  "dateOfBirth": "1791-04-23",
+  "birthDateParsed": "1791-04-23",
+  "dateOfDeath": "1868-06-01",
+  "deathDateParsed": "1868-06-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.870833333",
+  "birthCoordinatesLng": "-77.953888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer",
+    "statesperson",
+    "ambassador"
+  ],
+  "qid": "Q12325",
+  "birthPlace": "Stony Batter",
+  "fetchedAt": "2026-08-01T18:08:15.129Z"
+}

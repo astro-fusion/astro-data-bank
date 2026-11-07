@@ -1,0 +1,32 @@
+{
+  "publicId": "2e034378",
+  "wikipediaSlug": "Annie_Ernaux",
+  "wikipediaId": "Q1153825",
+  "name": "Annie Ernaux",
+  "fullName": "Annie Ernaux",
+  "profileSummary": "Annie Thérèse Blanche Ernaux is a French writer who was awarded the 2022 Nobel Prize in Literature \"for the courage and clinical acuity with which she uncovers the roots, estrangements, and collective restraints of personal memory\". Her literary work, mostly autobiographical, maintains close links with sociology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Annie_Ernaux_in_2022_%284_av_11%29.jpg/330px-Annie_Ernaux_in_2022_%284_av_11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annie_Ernaux",
+  "dateOfBirth": "1940-09-01",
+  "birthDateParsed": "1940-09-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.520833333",
+  "birthCoordinatesLng": "0.5375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "teacher"
+  ],
+  "qid": "Q1153825",
+  "birthPlace": "Lillebonne",
+  "fetchedAt": "2026-08-06T07:41:01.230Z"
+}

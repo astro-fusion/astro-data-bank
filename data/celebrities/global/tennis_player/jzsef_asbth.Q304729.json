@@ -1,0 +1,32 @@
+{
+  "publicId": "3805dbf6",
+  "wikipediaSlug": "József_Asbóth",
+  "wikipediaId": "Q304729",
+  "name": "József Asbóth",
+  "fullName": "József Asbóth",
+  "profileSummary": "József Asbóth was a Hungarian tennis player. Born to a family of railway workers, he is best remembered for being the first Hungarian and first player from Eastern Europe to win a Grand Slam singles title, at the 1947 French Open. He remains the only Hungarian male player to win a Grand Slam singles title. Asbóth was a clay court specialist who was good at keeping the ball in play.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Asb%C3%B3th_J%C3%B3zsef_XI_ker%C3%BClet_Bart%C3%B3k_B%C3%A9la_%C3%BAt_75.JPG/330px-Asb%C3%B3th_J%C3%B3zsef_XI_ker%C3%BClet_Bart%C3%B3k_B%C3%A9la_%C3%BAt_75.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B3zsef_Asb%C3%B3th",
+  "dateOfBirth": "1917-09-18",
+  "birthDateParsed": "1917-09-18",
+  "dateOfDeath": "1986-09-22",
+  "deathDateParsed": "1986-09-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.233333333",
+  "birthCoordinatesLng": "16.633333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "coach"
+  ],
+  "qid": "Q304729",
+  "birthPlace": "Szombathely",
+  "fetchedAt": "2026-08-01T13:11:57.507Z"
+}

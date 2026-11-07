@@ -1,0 +1,34 @@
+{
+  "publicId": "7f5f0a9c",
+  "wikipediaSlug": "Finn_E._Kydland",
+  "wikipediaId": "Q211097",
+  "name": "Finn E. Kydland",
+  "fullName": "Finn E. Kydland",
+  "profileSummary": "Finn Erling Kydland is a Norwegian economist known for his contributions to business cycle theory. He is the Henley Professor of Economics at the University of California, Santa Barbara. He also holds the Richard P. Simmons Distinguished Professorship at the Tepper School of Business of Carnegie Mellon University, where he earned his PhD, and a part-time position at the Norwegian School of Economics (NHH). Kydland was a co-recipient of the 2004 Nobel Memorial Prize in Economics, with Edward C. Prescott, \"for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Finn_E_Kydland_2015_%28cropped%29.jpg/330px-Finn_E_Kydland_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Finn_E._Kydland",
+  "dateOfBirth": "1943-12-01",
+  "birthDateParsed": "1943-12-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.7648",
+  "birthCoordinatesLng": "5.85548",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "professor",
+    "scientist",
+    "university teacher"
+  ],
+  "qid": "Q211097",
+  "birthPlace": "Ålgård",
+  "fetchedAt": "2026-08-10T09:43:10.711Z"
+}

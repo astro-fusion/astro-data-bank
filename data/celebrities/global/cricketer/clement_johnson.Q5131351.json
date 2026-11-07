@@ -1,0 +1,31 @@
+{
+  "publicId": "c032a88c",
+  "wikipediaSlug": "Clement_Johnson",
+  "wikipediaId": "Q5131351",
+  "name": "Clement Johnson",
+  "fullName": "Clement Johnson",
+  "profileSummary": "Clement Lecky Johnson was an Irish cricketer who represented South Africa in a single Test match in 1896.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/South_Africans_in_England_1894.png/330px-South_Africans_in_England_1894.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clement_Johnson",
+  "dateOfBirth": "1871-03-31",
+  "birthDateParsed": "1871-03-31",
+  "dateOfDeath": "1908-05-31",
+  "deathDateParsed": "1908-05-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.367",
+  "birthCoordinatesLng": "-6.967",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5131351",
+  "birthPlace": "Carbury",
+  "fetchedAt": "2026-07-31T20:21:39.473Z"
+}

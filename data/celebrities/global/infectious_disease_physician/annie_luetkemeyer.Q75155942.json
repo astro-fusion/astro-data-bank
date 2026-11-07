@@ -1,0 +1,31 @@
+{
+  "publicId": "eafeb6df",
+  "wikipediaSlug": "Annie_Luetkemeyer",
+  "wikipediaId": "Q75155942",
+  "name": "Annie Luetkemeyer",
+  "fullName": "Annie Luetkemeyer",
+  "profileSummary": "Annie F. Luetkemeyer is an American physician and researcher who is Professor of Medicine and Infectious Diseases at the University of California, San Francisco. She specializes in infectious diseases, in particular tuberculosis, human immunodeficiency virus and viral hepatitis. During the COVID-19 pandemic Luetkemeyer led a clinical trial of remdesivir. She has also researched treatment of COVID-19 as a co-infection with HIV.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Annie_Luetkemeyer%2C_MD_UCSF_01.jpg/330px-Annie_Luetkemeyer%2C_MD_UCSF_01.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annie_Luetkemeyer",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.286388888",
+  "birthCoordinatesLng": "-76.615",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "infectious disease physician"
+  ],
+  "qid": "Q75155942",
+  "birthPlace": "Baltimore",
+  "fetchedAt": "2026-08-05T02:43:23.912Z"
+}

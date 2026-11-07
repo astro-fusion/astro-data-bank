@@ -1,0 +1,38 @@
+{
+  "publicId": "e014dc42",
+  "wikipediaSlug": "Charles_Richet",
+  "wikipediaId": "Q214851",
+  "name": "Charles Richet",
+  "fullName": "Charles Richet",
+  "profileSummary": "Charles Robert Richet was a French physiologist at the Collège de France and immunology pioneer. In 1913, he won the Nobel Prize in Physiology or Medicine \"in recognition of his work on anaphylaxis\". Richet devoted many years to the study of paranormal and spiritualist phenomena, coining the term \"ectoplasm\". He believed in the inferiority of black people, was a proponent of eugenics, and presided over the French Eugenics Society towards the end of his life. The Richet line of professorships of medical science continued through his son Charles and his grandson Gabriel. Gabriel Richet was also one of the pioneers of European nephrology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charles_Robert_Richet_3.jpg/330px-Charles_Robert_Richet_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Richet",
+  "dateOfBirth": "1850-08-25",
+  "birthDateParsed": "1850-08-25",
+  "dateOfDeath": "1935-12-04",
+  "deathDateParsed": "1935-12-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "psychologist",
+    "Esperantist",
+    "physiologist",
+    "immunologist",
+    "researcher",
+    "playwright",
+    "writer"
+  ],
+  "qid": "Q214851",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-10T03:14:04.652Z"
+}

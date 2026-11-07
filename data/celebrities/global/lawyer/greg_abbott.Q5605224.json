@@ -1,0 +1,35 @@
+{
+  "publicId": "294a9ffd",
+  "wikipediaSlug": "Greg_Abbott",
+  "wikipediaId": "Q5605224",
+  "name": "Greg Abbott",
+  "fullName": "Greg Abbott",
+  "profileSummary": "Gregory Wayne Abbott is an American politician, attorney, and jurist who has served since 2015 as the 48th governor of Texas. A member of the Republican Party, he served from 2002 to 2015 as the 50th attorney general of Texas and from 1996 to 2001 as a justice of the Texas Supreme Court. As of 2025, Abbott is the longest-serving incumbent governor in the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Greg_Abbott_at_NASA_2024_%28cropped%29.jpg/330px-Greg_Abbott_at_NASA_2024_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Greg_Abbott",
+  "dateOfBirth": "1957-11-13",
+  "birthDateParsed": "1957-11-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.896944444",
+  "birthCoordinatesLng": "-98.515",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "judge",
+    "governor",
+    "jurist"
+  ],
+  "qid": "Q5605224",
+  "birthPlace": "Wichita Falls",
+  "fetchedAt": "2026-08-02T03:28:07.981Z"
+}

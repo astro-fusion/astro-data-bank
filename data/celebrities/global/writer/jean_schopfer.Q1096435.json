@@ -1,0 +1,35 @@
+{
+  "publicId": "de8ea658",
+  "wikipediaSlug": "Jean_Schopfer",
+  "wikipediaId": "Q1096435",
+  "name": "Jean Schopfer",
+  "fullName": "Jean Schopfer",
+  "profileSummary": "Jean Schopfer was a tennis player competing for France, and a writer, known under the pseudonym of Claude Anet. He reached two singles finals at the Amateur French Championships, winning in 1892 over the American player Francis Louis Fassitt, and losing in 1893 to Laurent Riboulet.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Claude_Anet_1931.jpg/330px-Claude_Anet_1931.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Schopfer",
+  "dateOfBirth": "1868-05-28",
+  "birthDateParsed": "1868-05-28",
+  "dateOfDeath": "1931-01-09",
+  "deathDateParsed": "1931-01-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.509447222",
+  "birthCoordinatesLng": "6.498611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "tennis player",
+    "journalist",
+    "screenwriter",
+    "travel writer"
+  ],
+  "qid": "Q1096435",
+  "birthPlace": "Morges",
+  "fetchedAt": "2026-08-01T13:12:03.793Z"
+}

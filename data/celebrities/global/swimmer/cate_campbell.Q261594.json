@@ -1,0 +1,31 @@
+{
+  "publicId": "7694a34e",
+  "wikipediaSlug": "Cate_Campbell",
+  "wikipediaId": "Q261594",
+  "name": "Cate Campbell",
+  "fullName": "Cate Campbell",
+  "profileSummary": "Cate Natalie Campbell, is an Australian former competitive swimmer. She is the current world record holder in the short course 100 m freestyle. She is also a former world record holder in the long course 100 m freestyle, breaking Britta Steffen's supersuit WR by 0.01.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cate_Campbell_-_Kazan_2015_-_Victory_Ceremony_100m_freestyle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cate_Campbell",
+  "dateOfBirth": "1992-05-20",
+  "birthDateParsed": "1992-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-15.786111111",
+  "birthCoordinatesLng": "35.005833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q261594",
+  "birthPlace": "Blantyre",
+  "fetchedAt": "2026-08-10T12:59:47.599Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "634f4241",
+  "wikipediaSlug": "George_VI",
+  "wikipediaId": "Q280856",
+  "name": "George VI",
+  "fullName": "George VI",
+  "profileSummary": "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952. He was also the last Emperor of India from 1936 until the British Raj was dissolved in August 1947, and the first Head of the Commonwealth following the London Declaration of 1949.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/330px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_VI",
+  "dateOfBirth": "1895-12-14",
+  "birthDateParsed": "1895-12-14",
+  "dateOfDeath": "1952-02-06",
+  "deathDateParsed": "1952-02-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.82638889",
+  "birthCoordinatesLng": "0.51638889",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "aristocrat",
+    "military officer",
+    "tennis player"
+  ],
+  "qid": "Q280856",
+  "birthPlace": "York Cottage",
+  "fetchedAt": "2026-08-03T12:58:24.629Z"
+}

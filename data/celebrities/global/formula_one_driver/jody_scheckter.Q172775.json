@@ -1,0 +1,34 @@
+{
+  "publicId": "0b0039fb",
+  "wikipediaSlug": "Jody_Scheckter",
+  "wikipediaId": "Q172775",
+  "name": "Jody Scheckter",
+  "fullName": "Jody Scheckter",
+  "profileSummary": "Jody David Scheckter is a South African former racing driver and businessman who competed in Formula One from 1972 to 1980. Scheckter won the Formula One World Drivers' Championship in 1979 with Ferrari, and remains the only African driver to have won a Formula One Grand Prix or the World Drivers' Championship; he won 10 Grands Prix across nine seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jody_Scheckter_during_the_1979_Monaco_Grand_Prix.jpg/330px-Jody_Scheckter_during_the_1979_Monaco_Grand_Prix.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jody_Scheckter",
+  "dateOfBirth": "1950-01-29",
+  "birthDateParsed": "1950-01-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.0175",
+  "birthCoordinatesLng": "27.904722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver",
+    "businessperson",
+    "farmer"
+  ],
+  "qid": "Q172775",
+  "birthPlace": "East London",
+  "fetchedAt": "2026-08-01T16:01:43.402Z"
+}

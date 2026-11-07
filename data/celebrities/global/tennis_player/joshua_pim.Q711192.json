@@ -1,0 +1,32 @@
+{
+  "publicId": "e426e472",
+  "wikipediaSlug": "Joshua_Pim",
+  "wikipediaId": "Q711192",
+  "name": "Joshua Pim",
+  "fullName": "Joshua Pim",
+  "profileSummary": "Dr Joshua Pim FRCSI was a medical doctor and Irish amateur tennis player. He won the Wimbledon men's singles title two years in a row, in 1893 and 1894, and was ranked British number one in both those years. He won the Wimbledon men's doubles in 1890 and 1893.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Joshua_Pim_%28tennis%29.jpg/330px-Joshua_Pim_%28tennis%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joshua_Pim",
+  "dateOfBirth": "1869-05-20",
+  "birthDateParsed": "1869-05-20",
+  "dateOfDeath": "1942-04-15",
+  "deathDateParsed": "1942-04-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.201388888",
+  "birthCoordinatesLng": "-6.110833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "surgeon"
+  ],
+  "qid": "Q711192",
+  "birthPlace": "Bray",
+  "fetchedAt": "2026-08-01T13:12:06.678Z"
+}

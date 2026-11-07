@@ -1,0 +1,33 @@
+{
+  "publicId": "f0c64a3f",
+  "wikipediaSlug": "Joseph_Cook",
+  "wikipediaId": "Q356230",
+  "name": "Joseph Cook",
+  "fullName": "Joseph Cook",
+  "profileSummary": "Sir Joseph Cook was an Australian politician and trade unionist who served as the sixth prime minister of Australia from 1913 to 1914. He held office as the leader of the Liberal Party, having previously been leader of the Anti-Socialist Party from 1908 to 1909. His victory at the 1913 election marked the first time that a centre-right party had won a majority at an Australian federal election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Joseph_Cook_-_Crown_Studios_03.jpg/330px-Joseph_Cook_-_Crown_Studios_03.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Cook",
+  "dateOfBirth": "1860-12-07",
+  "birthDateParsed": "1860-12-07",
+  "dateOfDeath": "1947-07-30",
+  "deathDateParsed": "1947-07-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.0159",
+  "birthCoordinatesLng": "-2.2675",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "trade unionist"
+  ],
+  "qid": "Q356230",
+  "birthPlace": "Silverdale",
+  "fetchedAt": "2026-08-03T12:58:25.678Z"
+}

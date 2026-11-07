@@ -1,0 +1,34 @@
+{
+  "publicId": "07b07c71",
+  "wikipediaSlug": "Elihu_Root",
+  "wikipediaId": "Q220619",
+  "name": "Elihu Root",
+  "fullName": "Elihu Root",
+  "profileSummary": "Elihu Root was an American lawyer, Republican politician, and statesman who served as the 41st United States Secretary of War under presidents William McKinley and Theodore Roosevelt and the 38th United States Secretary of State, also under Roosevelt. In both positions as well as a long legal career, he pioneered the American practice of international law. Root is sometimes considered the prototype of the 20th-century political \"wise man\", advising presidents on a range of foreign and domestic issues. He also served as a United States Senator from New York and received the 1912 Nobel Peace Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elihu_Root%2C_Secretary_of_War%2C_half-length_portrait%2C_facing_slightly_left_LCCN90714305_Trim_%28cropped%29%282%29.jpg/330px-Elihu_Root%2C_Secretary_of_War%2C_half-length_portrait%2C_facing_slightly_left_LCCN90714305_Trim_%28cropped%29%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elihu_Root",
+  "dateOfBirth": "1845-02-15",
+  "birthDateParsed": "1845-02-15",
+  "dateOfDeath": "1937-02-07",
+  "deathDateParsed": "1937-02-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.0489",
+  "birthCoordinatesLng": "-75.3803",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "jurist"
+  ],
+  "qid": "Q220619",
+  "birthPlace": "Clinton",
+  "fetchedAt": "2026-08-04T02:13:06.879Z"
+}

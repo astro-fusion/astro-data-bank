@@ -1,0 +1,40 @@
+{
+  "publicId": "607b62df",
+  "wikipediaSlug": "Pearl_S._Buck",
+  "wikipediaId": "Q80900",
+  "name": "Pearl S. Buck",
+  "fullName": "Pearl S. Buck",
+  "profileSummary": "Pearl Comfort Sydenstricker Buck was an American writer and humanitarian. She is best known for The Good Earth, the best-selling novel in the United States in 1931 and 1932, which won her the Pulitzer Prize in 1932. In 1938, Buck became the first American woman to win the Nobel Prize in Literature \"for her rich and truly epic descriptions of peasant life in China\" and for her \"masterpieces\", two memoir-biographies of her missionary parents.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pearl_S._Buck_-_1960.jpg/330px-Pearl_S._Buck_-_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pearl_S._Buck",
+  "dateOfBirth": "1892-06-26",
+  "birthDateParsed": "1892-06-26",
+  "dateOfDeath": "1973-03-06",
+  "deathDateParsed": "1973-03-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.138055555",
+  "birthCoordinatesLng": "-80.2125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "translator",
+    "novelist",
+    "autobiographer",
+    "human rights defender",
+    "screenwriter",
+    "journalist",
+    "children's writer",
+    "writer",
+    "missionary",
+    "prose writer"
+  ],
+  "qid": "Q80900",
+  "birthPlace": "Hillsboro",
+  "fetchedAt": "2026-08-06T07:42:31.838Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "38f4def8",
+  "wikipediaSlug": "Paul_Heyse",
+  "wikipediaId": "Q76487",
+  "name": "Paul Heyse",
+  "fullName": "Paul Heyse",
+  "profileSummary": "Paul Johann Ludwig von Heyse was a German writer and translator. A member of two important literary societies, the Tunnel über der Spree in Berlin and Die Krokodile in Munich, he wrote novels, poetry, 177 short stories, and about sixty dramas. The sum of Heyse's many and varied productions made him a dominant figure among German men of letters. He was awarded the 1910 Nobel Prize in Literature \"as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories.\" Wirsen, one of the Nobel judges, said that \"Germany has not had a greater literary genius since Goethe.\" Heyse is the fifth oldest laureate in literature, after Alice Munro, Jaroslav Seifert, Theodor Mommsen and Doris Lessing.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Paul_Heyse_1910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Heyse",
+  "dateOfBirth": "1830-03-13",
+  "birthDateParsed": "1830-03-13",
+  "dateOfDeath": "1914-04-02",
+  "deathDateParsed": "1914-04-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "playwright",
+    "translator",
+    "novelist",
+    "writer",
+    "draftsperson"
+  ],
+  "qid": "Q76487",
+  "birthPlace": "Berlin",
+  "fetchedAt": "2026-08-06T07:42:20.456Z"
+}

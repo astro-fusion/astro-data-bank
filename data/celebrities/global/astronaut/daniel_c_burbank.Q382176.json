@@ -1,0 +1,33 @@
+{
+  "publicId": "18cab796",
+  "wikipediaSlug": "Daniel_C._Burbank",
+  "wikipediaId": "Q382176",
+  "name": "Daniel C. Burbank",
+  "fullName": "Daniel C. Burbank",
+  "profileSummary": "Daniel Christopher Burbank is a retired American astronaut and a veteran of two Space Shuttle missions. Burbank, a Captain in the United States Coast Guard, is the second Coast Guard astronaut after Bruce Melnick.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Daniel_Burbank.jpg/330px-Daniel_Burbank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_C._Burbank",
+  "dateOfBirth": "1961-07-27",
+  "birthDateParsed": "1961-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.775277777",
+  "birthCoordinatesLng": "-72.524166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "military officer",
+    "engineer"
+  ],
+  "qid": "Q382176",
+  "birthPlace": "Manchester",
+  "fetchedAt": "2026-08-10T06:04:41.123Z"
+}

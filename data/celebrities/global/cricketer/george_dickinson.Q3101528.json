@@ -1,0 +1,32 @@
+{
+  "publicId": "1a442118",
+  "wikipediaSlug": "George_Dickinson",
+  "wikipediaId": "Q3101528",
+  "name": "George Dickinson",
+  "fullName": "George Dickinson",
+  "profileSummary": "George Ritchie Dickinson was a New Zealand cricketer and rugby union player. He played three tests for the New Zealand cricket team between 1930 and 1932, and five matches for the New Zealand national rugby side, the All Blacks, in 1922.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/George_Dickinson.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Dickinson",
+  "dateOfBirth": "1903-03-11",
+  "birthDateParsed": "1903-03-11",
+  "dateOfDeath": "1978-03-17",
+  "deathDateParsed": "1978-03-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-45.874166666",
+  "birthCoordinatesLng": "170.503611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "rugby union player"
+  ],
+  "qid": "Q3101528",
+  "birthPlace": "Dunedin",
+  "fetchedAt": "2026-07-31T21:03:45.750Z"
+}

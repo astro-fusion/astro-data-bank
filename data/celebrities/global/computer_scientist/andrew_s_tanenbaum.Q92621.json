@@ -1,0 +1,38 @@
+{
+  "publicId": "51a08946",
+  "wikipediaSlug": "Andrew_S._Tanenbaum",
+  "wikipediaId": "Q92621",
+  "name": "Andrew S. Tanenbaum",
+  "fullName": "Andrew S. Tanenbaum",
+  "profileSummary": "Andrew Stuart Tanenbaum, sometimes referred to by the handle AST, is an American-born Dutch computer scientist and retired professor emeritus of computer science at the Vrije Universiteit Amsterdam in the Netherlands.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Andrew_S._Tanenbaum_2012.jpg/330px-Andrew_S._Tanenbaum_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum",
+  "dateOfBirth": "1944-03-16",
+  "birthDateParsed": "1944-03-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "programmer",
+    "writer",
+    "physicist",
+    "university teacher",
+    "hoogleraar",
+    "software developer"
+  ],
+  "qid": "Q92621",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-05T03:15:09.609Z"
+}

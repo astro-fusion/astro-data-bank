@@ -1,0 +1,33 @@
+{
+  "publicId": "23be8fe0",
+  "wikipediaSlug": "Hans_Spemann",
+  "wikipediaId": "Q57568",
+  "name": "Hans Spemann",
+  "fullName": "Hans Spemann",
+  "profileSummary": "Hans Spemann was a German embryologist who was awarded a Nobel Prize in Physiology or Medicine in 1935 for his student Hilde Mangold's discovery of the effect now known as embryonic induction, an influence, exercised by various parts of the embryo, that directs the development of groups of cells into particular tissues and organs, one of the first steps towards cloning. Spemann added his name as an author to Hilde Mangold's dissertation and won a Nobel Prize for her work.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hans_Spemann_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Spemann",
+  "dateOfBirth": "1869-06-27",
+  "birthDateParsed": "1869-06-27",
+  "dateOfDeath": "1941-09-09",
+  "deathDateParsed": "1941-09-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.7775",
+  "birthCoordinatesLng": "9.18",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "zoologist",
+    "university teacher",
+    "physician"
+  ],
+  "qid": "Q57568",
+  "birthPlace": "Stuttgart",
+  "fetchedAt": "2026-08-10T03:15:01.526Z"
+}

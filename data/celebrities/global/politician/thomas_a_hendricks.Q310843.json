@@ -1,0 +1,35 @@
+{
+  "publicId": "a437a077",
+  "wikipediaSlug": "Thomas_A._Hendricks",
+  "wikipediaId": "Q310843",
+  "name": "Thomas A. Hendricks",
+  "fullName": "Thomas A. Hendricks",
+  "profileSummary": "Thomas Andrews Hendricks was an American politician and lawyer from Indiana who served as the 16th governor of Indiana from 1873 to 1877 and the 21st vice president of the United States from March 1885 until his death in November of that year. Hendricks represented Indiana in the U.S. House of Representatives (1851–1855) and the U.S. Senate (1863–1869). He also represented Shelby County, Indiana, in the Indiana General Assembly (1848–1850) and as a delegate to the 1851 Indiana constitutional convention. In addition, Hendricks served as commissioner of the United States General Land Office (1855–1859). Hendricks, a popular member of the Democratic Party, was a fiscal conservative. He defended the Democratic position in the U.S. Senate during the American Civil War and Reconstruction era and voted against the Thirteenth, Fourteenth, and Fifteenth Amendments to the U.S. Constitution. He also opposed Radical Reconstruction and President Andrew Johnson's removal from office following Johnson's impeachment in the U.S. House.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Thomas_Andrews_Hendricks.jpg/330px-Thomas_Andrews_Hendricks.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_A._Hendricks",
+  "dateOfBirth": "1819-09-07",
+  "birthDateParsed": "1819-09-07",
+  "dateOfDeath": "1885-11-25",
+  "deathDateParsed": "1885-11-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.9461",
+  "birthCoordinatesLng": "-82.0122",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "governor",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q310843",
+  "birthPlace": "Zanesville",
+  "fetchedAt": "2026-08-01T18:08:53.888Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "f9eb82ad",
+  "wikipediaSlug": "Bill_Bradley_(cricketer)",
+  "wikipediaId": "Q3527566",
+  "name": "Bill Bradley (cricketer)",
+  "fullName": "Bill Bradley (cricketer)",
+  "profileSummary": "Walter Morris Bradley, known as Bill Bradley, was an English amateur cricketer who played in two Test matches in 1899. He played for Kent County Cricket Club between 1895 and 1903.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Walter_Morris_Bradley_c1900.jpg/330px-Walter_Morris_Bradley_c1900.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Bradley_(cricketer)",
+  "dateOfBirth": "1875-01-02",
+  "birthDateParsed": "1875-01-02",
+  "dateOfDeath": "1944-06-19",
+  "deathDateParsed": "1944-06-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4254",
+  "birthCoordinatesLng": "-0.0544",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3527566",
+  "birthPlace": "Sydenham",
+  "fetchedAt": "2026-07-31T20:09:05.742Z"
+}

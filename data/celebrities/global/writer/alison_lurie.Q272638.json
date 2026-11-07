@@ -1,0 +1,35 @@
+{
+  "publicId": "fca609ba",
+  "wikipediaSlug": "Alison_Lurie",
+  "wikipediaId": "Q272638",
+  "name": "Alison Lurie",
+  "fullName": "Alison Lurie",
+  "profileSummary": "Alison Stewart Lurie was an American novelist and academic. She won the Pulitzer Prize for Fiction for her 1984 novel Foreign Affairs. Although better known as a novelist, she wrote many non-fiction books and articles, particularly on children's literature and the semiotics of dress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Alison_Lurie%2C_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alison_Lurie",
+  "dateOfBirth": "1926-09-03",
+  "birthDateParsed": "1926-09-03",
+  "dateOfDeath": "2020-12-03",
+  "deathDateParsed": "2020-12-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "university teacher",
+    "essayist",
+    "screenwriter"
+  ],
+  "qid": "Q272638",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-05T02:42:23.479Z"
+}

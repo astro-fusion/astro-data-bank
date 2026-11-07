@@ -1,0 +1,31 @@
+{
+  "publicId": "f3c6ec66",
+  "wikipediaSlug": "Ben_Sears",
+  "wikipediaId": "Q58008280",
+  "name": "Ben Sears",
+  "fullName": "Ben Sears",
+  "profileSummary": "Benjamin Vincent Sears is a New Zealand cricketer who plays for the Wellington domestic cricket side. He made his international debut for the New Zealand cricket team in September 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2_10_Ben_Sears_%28cropped%29.jpg/330px-2_10_Ben_Sears_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Sears",
+  "dateOfBirth": "1998-02-11",
+  "birthDateParsed": "1998-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.216666666",
+  "birthCoordinatesLng": "174.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q58008280",
+  "birthPlace": "Lower Hutt",
+  "fetchedAt": "2026-07-31T21:01:03.949Z"
+}

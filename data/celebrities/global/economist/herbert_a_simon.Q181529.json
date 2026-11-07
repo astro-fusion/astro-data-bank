@@ -1,0 +1,37 @@
+{
+  "publicId": "453312e0",
+  "wikipediaSlug": "Herbert_A._Simon",
+  "wikipediaId": "Q181529",
+  "name": "Herbert A. Simon",
+  "fullName": "Herbert A. Simon",
+  "profileSummary": "Herbert Alexander Simon was an American scholar whose work influenced the fields of computer science, economics, and cognitive psychology. His primary research interest was decision-making within organizations and he is best known for the theories of \"bounded rationality\" and \"satisficing\". He and Allen Newell received the ACM Turing Award in 1975, and he received the Nobel Memorial Prize in Economic Sciences in 1978.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Herbert_Simon%2C_RIT_NandE_Vol13Num11_1981_Mar19_Complete.jpg/330px-Herbert_Simon%2C_RIT_NandE_Vol13Num11_1981_Mar19_Complete.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herbert_A._Simon",
+  "dateOfBirth": "1916-06-15",
+  "birthDateParsed": "1916-06-15",
+  "dateOfDeath": "2001-02-09",
+  "deathDateParsed": "2001-02-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.05",
+  "birthCoordinatesLng": "-87.95",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician",
+    "sociologist",
+    "university teacher",
+    "computer scientist",
+    "political scientist",
+    "social scientist"
+  ],
+  "qid": "Q181529",
+  "birthPlace": "Milwaukee",
+  "fetchedAt": "2026-08-10T09:43:20.927Z"
+}

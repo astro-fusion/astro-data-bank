@@ -1,0 +1,31 @@
+{
+  "publicId": "b23a8b93",
+  "wikipediaSlug": "Kim_Clijsters",
+  "wikipediaId": "Q11685",
+  "name": "Kim Clijsters",
+  "fullName": "Kim Clijsters",
+  "profileSummary": "Kim Antonie Lode Clijsters is a Belgian former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 20 weeks, and as the world No. 1 in women's doubles for 4 weeks, having held both rankings simultaneously in 2003. She won 41 singles titles and 11 doubles titles on the WTA Tour, including four singles majors and two doubles majors, as well as three singles titles at the Tour Finals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kim_Clijsters.jpg/330px-Kim_Clijsters.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Clijsters",
+  "dateOfBirth": "1983-06-08",
+  "birthDateParsed": "1983-06-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.866666666",
+  "birthCoordinatesLng": "5.516666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q11685",
+  "birthPlace": "Bilzen",
+  "fetchedAt": "2026-08-01T14:59:31.389Z"
+}

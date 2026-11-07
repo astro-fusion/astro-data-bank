@@ -1,0 +1,37 @@
+{
+  "publicId": "8cc02e7d",
+  "wikipediaSlug": "Amy_Goodman",
+  "wikipediaId": "Q259317",
+  "name": "Amy Goodman",
+  "fullName": "Amy Goodman",
+  "profileSummary": "Amy Goodman is an American broadcast journalist, syndicated columnist, investigative reporter, and author. Since 1996, Goodman has been the main host and executive producer of Democracy Now!, an independent global news program that she co-founded; it is broadcast daily and syndicated nationally on radio, television, and the Internet, including transcription. On the award-winning program, Goodman elevates voices and perspectives rarely covered in US corporate media. Highlights of Goodman's investigative journalism career include coverage of the Santa Cruz massacre and the East Timor independence movement, the Chevron Corporation's assistance to armed forces in Nigeria, the 1999 Seattle World Trade Organization protests and anti-globalization activism, the American political prisoner in Peru Lori Berenson, and the US-backed 2004 Haitian coup d'état.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amygoodmanphoto.tif/lossless-page1-330px-Amygoodmanphoto.tif.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amy_Goodman",
+  "dateOfBirth": "1957-04-13",
+  "birthDateParsed": "1957-04-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "columnist",
+    "radio producer",
+    "investigative journalist",
+    "writer",
+    "television producer",
+    "television presenter",
+    "journalist"
+  ],
+  "qid": "Q259317",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-05T02:43:01.062Z"
+}

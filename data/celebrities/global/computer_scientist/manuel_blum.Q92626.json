@@ -1,0 +1,32 @@
+{
+  "publicId": "334db4db",
+  "wikipediaSlug": "Manuel_Blum",
+  "wikipediaId": "Q92626",
+  "name": "Manuel Blum",
+  "fullName": "Manuel Blum",
+  "profileSummary": "Manuel Blum is a Venezuelan-born American computer scientist who received the 1995 ACM Turing Award \"In recognition of his contributions to the foundations of computational complexity theory and its application to cryptography and program checking\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blum_manuel_lenore_avrim.jpg/330px-Blum_manuel_lenore_avrim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Blum",
+  "dateOfBirth": "1938-04-26",
+  "birthDateParsed": "1938-04-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.506111111",
+  "birthCoordinatesLng": "-66.914444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q92626",
+  "birthPlace": "Caracas",
+  "fetchedAt": "2026-08-10T04:29:23.662Z"
+}

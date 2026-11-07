@@ -1,0 +1,32 @@
+{
+  "publicId": "0e263278",
+  "wikipediaSlug": "Friedrich_Bergius",
+  "wikipediaId": "Q76614",
+  "name": "Friedrich Bergius",
+  "fullName": "Friedrich Bergius",
+  "profileSummary": "Friedrich Karl Rudolf Bergius was a German chemist known for the Bergius process for producing synthetic fuel from coal, Nobel Prize in Chemistry in recognition of contributions to the invention and development of chemical high-pressure methods. Having worked with IG Farben during World War II, his citizenship came into question following the war, causing him to ultimately flee to Argentina, where he acted as adviser to the Ministry of Industry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedrich_Bergius.jpg/330px-Friedrich_Bergius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_Bergius",
+  "dateOfBirth": "1884-10-11",
+  "birthDateParsed": "1884-10-11",
+  "dateOfDeath": "1949-03-30",
+  "deathDateParsed": "1949-03-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.1405",
+  "birthCoordinatesLng": "16.8882",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q76614",
+  "birthPlace": "Złotniki",
+  "fetchedAt": "2026-08-10T02:04:00.707Z"
+}

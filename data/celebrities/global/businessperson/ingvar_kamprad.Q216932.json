@@ -1,0 +1,33 @@
+{
+  "publicId": "f3f3a268",
+  "wikipediaSlug": "Ingvar_Kamprad",
+  "wikipediaId": "Q216932",
+  "name": "Ingvar Kamprad",
+  "fullName": "Ingvar Kamprad",
+  "profileSummary": "Feodor Ingvar Kamprad was a Swedish billionaire businessman who founded IKEA in 1943 and grew it into a multinational retail company that became the world's largest furniture seller in 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ingvar_Kamprad_Haparanda_June_2010.jpg/330px-Ingvar_Kamprad_Haparanda_June_2010.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ingvar_Kamprad",
+  "dateOfBirth": "1926-03-30",
+  "birthDateParsed": "1926-03-30",
+  "dateOfDeath": "2018-01-27",
+  "deathDateParsed": "2018-01-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.643833333",
+  "birthCoordinatesLng": "14.02875",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "entrepreneur",
+    "designer"
+  ],
+  "qid": "Q216932",
+  "birthPlace": "Pjätteryd",
+  "fetchedAt": "2026-08-04T03:34:54.711Z"
+}

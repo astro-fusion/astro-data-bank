@@ -1,0 +1,33 @@
+{
+  "publicId": "7320ee65",
+  "wikipediaSlug": "Alfred_Aho",
+  "wikipediaId": "Q62898",
+  "name": "Alfred Aho",
+  "fullName": "Alfred Aho",
+  "profileSummary": "Alfred Vaino Aho is a Canadian computer scientist best known for his work on programming languages, compilers, and related algorithms, and his textbooks on the art and science of computer programming.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Aho",
+  "dateOfBirth": "1941-08-09",
+  "birthDateParsed": "1941-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.471666666",
+  "birthCoordinatesLng": "-81.331388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "programmer"
+  ],
+  "qid": "Q62898",
+  "birthPlace": "Timmins",
+  "fetchedAt": "2026-08-10T04:28:18.433Z"
+}

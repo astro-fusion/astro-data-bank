@@ -1,0 +1,41 @@
+{
+  "publicId": "b5dbdfb6",
+  "wikipediaSlug": "David_Starr_Jordan",
+  "wikipediaId": "Q290343",
+  "name": "David Starr Jordan",
+  "fullName": "David Starr Jordan",
+  "profileSummary": "David Starr Jordan was the founding president of Stanford University, serving from 1891 to 1913. He was an ichthyologist during his research career. Prior to serving as president of Stanford University, he served as president of Indiana University from 1885 to 1891.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Portrait_of_David_Starr_Jordan.jpg/330px-Portrait_of_David_Starr_Jordan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Starr_Jordan",
+  "dateOfBirth": "1851-01-19",
+  "birthDateParsed": "1851-01-19",
+  "dateOfDeath": "1931-09-19",
+  "deathDateParsed": "1931-09-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.6642",
+  "birthCoordinatesLng": "-78.1161",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "botanist",
+    "peace activist",
+    "zoologist",
+    "autobiographer",
+    "ichthyologist",
+    "eugenicist",
+    "pedagogue",
+    "writer",
+    "naturalist",
+    "scientific collector",
+    "children's writer"
+  ],
+  "qid": "Q290343",
+  "birthPlace": "Gainesville",
+  "fetchedAt": "2026-08-04T15:06:12.951Z"
+}

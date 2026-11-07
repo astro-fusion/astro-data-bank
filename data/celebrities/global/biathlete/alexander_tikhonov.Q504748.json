@@ -1,0 +1,31 @@
+{
+  "publicId": "1efe00c6",
+  "wikipediaSlug": "Alexander_Tikhonov",
+  "wikipediaId": "Q504748",
+  "name": "Alexander Tikhonov",
+  "fullName": "Alexander Tikhonov",
+  "profileSummary": "Alexander Ivanovich Tikhonov is a former Soviet-Russian biathlete. He is a four-time Olympic champion, winning his gold medals in relays.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alexander_Tikhonov.jpg/330px-Alexander_Tikhonov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Tikhonov",
+  "dateOfBirth": "1947-01-02",
+  "birthDateParsed": "1947-01-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.3775",
+  "birthCoordinatesLng": "60.00472",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biathlete"
+  ],
+  "qid": "Q504748",
+  "birthPlace": "Uyskoye",
+  "fetchedAt": "2026-08-10T12:58:41.076Z"
+}

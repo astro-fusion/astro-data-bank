@@ -1,0 +1,31 @@
+{
+  "publicId": "cc634fdf",
+  "wikipediaSlug": "Ajmal_Shahzad",
+  "wikipediaId": "Q3531338",
+  "name": "Ajmal Shahzad",
+  "fullName": "Ajmal Shahzad",
+  "profileSummary": "Ajmal Shahzad is an English cricket coach and retired cricketer. He was a member of the England team that won the 2010 ICC World Twenty20.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajmal_Shahzad",
+  "dateOfBirth": "1985-07-27",
+  "birthDateParsed": "1985-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.645",
+  "birthCoordinatesLng": "-1.779722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3531338",
+  "birthPlace": "Huddersfield",
+  "fetchedAt": "2026-07-31T20:07:31.736Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "a479a0c9",
+  "wikipediaSlug": "Forrest_Mars_Sr.",
+  "wikipediaId": "Q2578399",
+  "name": "Forrest Mars Sr.",
+  "fullName": "Forrest Mars Sr.",
+  "profileSummary": "Forrest Edward Mars Sr. was an American billionaire businessman and the driving force of the candy company Mars Inc. until 1973.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Forrest_Mars%2C_Sr..jpg/330px-Forrest_Mars%2C_Sr..jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Forrest_Mars_Sr.",
+  "dateOfBirth": "1904-03-21",
+  "birthDateParsed": "1904-03-21",
+  "dateOfDeath": "1999-07-01",
+  "deathDateParsed": "1999-07-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.43944444",
+  "birthCoordinatesLng": "-95.13722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chocolatier",
+    "businessperson",
+    "designer"
+  ],
+  "qid": "Q2578399",
+  "birthPlace": "Wadena",
+  "fetchedAt": "2026-08-04T03:34:23.645Z"
+}

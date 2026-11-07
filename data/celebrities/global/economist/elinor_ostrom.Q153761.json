@@ -1,0 +1,33 @@
+{
+  "publicId": "fee62487",
+  "wikipediaSlug": "Elinor_Ostrom",
+  "wikipediaId": "Q153761",
+  "name": "Elinor Ostrom",
+  "fullName": "Elinor Ostrom",
+  "profileSummary": "Elinor Claire \"Lin\" Ostrom was an American political scientist and political economist whose work was associated with New Institutional Economics and the resurgence of political economy. In 2009, she was awarded the Nobel Memorial Prize in Economic Sciences for her \"analysis of economic governance, especially the commons\", which she shared with Oliver E. Williamson; she was the first woman to win the prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Nobel_Prize_2009-Press_Conference_KVA-30.jpg/330px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elinor_Ostrom",
+  "dateOfBirth": "1933-08-07",
+  "birthDateParsed": "1933-08-07",
+  "dateOfDeath": "2012-06-12",
+  "deathDateParsed": "2012-06-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "political scientist",
+    "university teacher"
+  ],
+  "qid": "Q153761",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-10T09:43:07.554Z"
+}

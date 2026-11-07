@@ -1,0 +1,32 @@
+{
+  "publicId": "3040452b",
+  "wikipediaSlug": "David_Lee_(physicist)",
+  "wikipediaId": "Q201853",
+  "name": "David Lee (physicist)",
+  "fullName": "David Lee (physicist)",
+  "profileSummary": "David Morris Lee is an American physicist who shared the 1996 Nobel Prize in Physics with Robert C. Richardson and Douglas Osheroff \"for their discovery of superfluidity in helium-3.\" Lee is professor emeritus of physics at Cornell University and distinguished professor of physics at Texas A&M University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nobel_Laureate_David_Morris_Lee_in_2007.jpg/330px-Nobel_Laureate_David_Morris_Lee_in_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Lee_(physicist)",
+  "dateOfBirth": "1931-01-20",
+  "birthDateParsed": "1931-01-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.9811",
+  "birthCoordinatesLng": "-73.6839",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q201853",
+  "birthPlace": "Rye",
+  "fetchedAt": "2026-08-06T05:01:33.757Z"
+}

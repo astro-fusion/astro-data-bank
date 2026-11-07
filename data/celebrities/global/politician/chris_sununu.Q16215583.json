@@ -1,0 +1,33 @@
+{
+  "publicId": "28900951",
+  "wikipediaSlug": "Chris_Sununu",
+  "wikipediaId": "Q16215583",
+  "name": "Chris Sununu",
+  "fullName": "Chris Sununu",
+  "profileSummary": "Christopher Thomas Sununu is an American politician and engineer who served as the 82nd governor of New Hampshire from 2017 to 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GOV_SUNUNU_OFFICIAL_PHOTO.jpg/330px-GOV_SUNUNU_OFFICIAL_PHOTO.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Sununu",
+  "dateOfBirth": "1974-11-05",
+  "birthDateParsed": "1974-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.788333333",
+  "birthCoordinatesLng": "-71.200833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson",
+    "governor"
+  ],
+  "qid": "Q16215583",
+  "birthPlace": "Salem",
+  "fetchedAt": "2026-08-05T03:16:56.956Z"
+}

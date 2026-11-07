@@ -1,0 +1,32 @@
+{
+  "publicId": "a17ae5eb",
+  "wikipediaSlug": "Iliana_Iotova",
+  "wikipediaId": "Q433338",
+  "name": "Iliana Iotova",
+  "fullName": "Iliana Iotova",
+  "profileSummary": "Iliana Malinova Iotova is a Bulgarian politician and journalist who has served as president of Bulgaria since 23 January 2026. She is the first woman to hold the office. A member of the Bulgarian Socialist Party (BSP), Iotova previously served as vice president under Rumen Radev from 2017 to 2026, when she became the first Bulgarian vice president to assume the presidency intra-term due to Radev's resignation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/President_Iliyana_Yotova_%283x4_cropped%29.jpg/330px-President_Iliyana_Yotova_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iliana_Iotova",
+  "dateOfBirth": "1964-10-24",
+  "birthDateParsed": "1964-10-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.697886",
+  "birthCoordinatesLng": "23.321726",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "journalist"
+  ],
+  "qid": "Q433338",
+  "birthPlace": "Sofia",
+  "fetchedAt": "2026-08-04T00:56:30.922Z"
+}

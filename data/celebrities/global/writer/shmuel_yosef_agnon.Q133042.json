@@ -1,0 +1,34 @@
+{
+  "publicId": "41129594",
+  "wikipediaSlug": "Shmuel_Yosef_Agnon",
+  "wikipediaId": "Q133042",
+  "name": "Shmuel Yosef Agnon",
+  "fullName": "Shmuel Yosef Agnon",
+  "profileSummary": "Shmuel Yosef Agnon was an Austro-Hungarian-born Israeli novelist, poet, and short-story writer. He was one of the central figures of modern Hebrew literature. In Hebrew, he is known by the nom de plume Shai Agnon. In English, his works are published under the name S. Y. Agnon.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%D7%A4%D7%95%D7%A8%D7%98%D7%A8%D7%98_%D7%A9%22%D7%99_%D7%A2%D7%92%D7%A0%D7%95%D7%9F_%28cropped%29.jpg/330px-%D7%A4%D7%95%D7%A8%D7%98%D7%A8%D7%98_%D7%A9%22%D7%99_%D7%A2%D7%92%D7%A0%D7%95%D7%9F_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon",
+  "dateOfBirth": "1887-08-08",
+  "birthDateParsed": "1887-08-08",
+  "dateOfDeath": "1970-02-17",
+  "deathDateParsed": "1970-02-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.064722222",
+  "birthCoordinatesLng": "25.387222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "poet",
+    "short story writer"
+  ],
+  "qid": "Q133042",
+  "birthPlace": "Buchach",
+  "fetchedAt": "2026-08-06T07:42:42.579Z"
+}

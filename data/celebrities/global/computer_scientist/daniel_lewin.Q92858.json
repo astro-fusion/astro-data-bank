@@ -1,0 +1,33 @@
+{
+  "publicId": "9b5edda7",
+  "wikipediaSlug": "Daniel_Lewin",
+  "wikipediaId": "Q92858",
+  "name": "Daniel Lewin",
+  "fullName": "Daniel Lewin",
+  "profileSummary": "Daniel \"Danny\" Mark Lewin was an American-Israeli mathematician and entrepreneur who co-founded Akamai Technologies. He was a passenger on board American Airlines Flight 11, and it is believed that he was stabbed to death by Satam al-Suqami, one of the hijackers of that flight, making him the first victim of the September 11 attacks.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bd/Lewin.daniel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Lewin",
+  "dateOfBirth": "1970-05-14",
+  "birthDateParsed": "1970-05-14",
+  "dateOfDeath": "2001-09-11",
+  "deathDateParsed": "2001-09-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.739166666",
+  "birthCoordinatesLng": "-104.984722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "mathematician",
+    "businessperson"
+  ],
+  "qid": "Q92858",
+  "birthPlace": "Denver",
+  "fetchedAt": "2026-08-05T03:16:56.352Z"
+}

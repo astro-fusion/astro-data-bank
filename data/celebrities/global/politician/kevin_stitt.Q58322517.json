@@ -1,0 +1,32 @@
+{
+  "publicId": "0575b263",
+  "wikipediaSlug": "Kevin_Stitt",
+  "wikipediaId": "Q58322517",
+  "name": "Kevin Stitt",
+  "fullName": "Kevin Stitt",
+  "profileSummary": "John Kevin Stitt is an American businessman and politician serving as the 28th governor of Oklahoma since 2019. A member of the Republican Party, he was elected in 2018 and reelected in 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kevin_Stitt_%2855103789989%29_%28cropped%29.jpg/330px-Kevin_Stitt_%2855103789989%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Stitt",
+  "dateOfBirth": "1972-12-28",
+  "birthDateParsed": "1972-12-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.630277777",
+  "birthCoordinatesLng": "-87.046388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "governor"
+  ],
+  "qid": "Q58322517",
+  "birthPlace": "Milton",
+  "fetchedAt": "2026-08-02T03:28:32.014Z"
+}

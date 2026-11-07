@@ -1,0 +1,32 @@
+{
+  "publicId": "edc600ee",
+  "wikipediaSlug": "Bruce_Dooland",
+  "wikipediaId": "Q4977397",
+  "name": "Bruce Dooland",
+  "fullName": "Bruce Dooland",
+  "profileSummary": "Bruce Dooland was an Australian cricketer who played in three Test matches for the Australian national cricket team during the late 1940s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bruce_Dooland_1948_card.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Dooland",
+  "dateOfBirth": "1923-11-01",
+  "birthDateParsed": "1923-11-01",
+  "dateOfDeath": "1980-09-08",
+  "deathDateParsed": "1980-09-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.931",
+  "birthCoordinatesLng": "138.557",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "baseball player"
+  ],
+  "qid": "Q4977397",
+  "birthPlace": "Cowandilla",
+  "fetchedAt": "2026-07-31T19:45:39.548Z"
+}

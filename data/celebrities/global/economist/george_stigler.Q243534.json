@@ -1,0 +1,31 @@
+{
+  "publicId": "50b3f912",
+  "wikipediaSlug": "George_Stigler",
+  "wikipediaId": "Q243534",
+  "name": "George Stigler",
+  "fullName": "George Stigler",
+  "profileSummary": "George Joseph Stigler was an American economist. He was the 1982 laureate in Nobel Memorial Prize in Economic Sciences and is considered a key leader of the Chicago school of economics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/George_Stigler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Stigler",
+  "dateOfBirth": "1911-01-17",
+  "birthDateParsed": "1911-01-17",
+  "dateOfDeath": "1991-12-01",
+  "deathDateParsed": "1991-12-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.479916666",
+  "birthCoordinatesLng": "-122.203444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist"
+  ],
+  "qid": "Q243534",
+  "birthPlace": "Renton",
+  "fetchedAt": "2026-08-10T09:43:09.320Z"
+}

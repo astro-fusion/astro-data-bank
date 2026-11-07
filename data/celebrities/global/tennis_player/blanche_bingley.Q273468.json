@@ -1,0 +1,31 @@
+{
+  "publicId": "785c690f",
+  "wikipediaSlug": "Blanche_Bingley",
+  "wikipediaId": "Q273468",
+  "name": "Blanche Bingley",
+  "fullName": "Blanche Bingley",
+  "profileSummary": "Blanche Bingley Hillyard was an English tennis player. She won six singles Wimbledon championships and was runner up seven times, having also competed in the first Wimbledon championships for women in 1884.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Blance_bingley_hillyard.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blanche_Bingley",
+  "dateOfBirth": "1863-11-03",
+  "birthDateParsed": "1863-11-03",
+  "dateOfDeath": "1946-08-06",
+  "deathDateParsed": "1946-08-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5299",
+  "birthCoordinatesLng": "-0.3628",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q273468",
+  "birthPlace": "Greenford",
+  "fetchedAt": "2026-08-01T14:59:42.981Z"
+}

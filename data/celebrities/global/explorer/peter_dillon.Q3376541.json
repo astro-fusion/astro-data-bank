@@ -1,0 +1,31 @@
+{
+  "publicId": "e1af6063",
+  "wikipediaSlug": "Peter_Dillon",
+  "wikipediaId": "Q3376541",
+  "name": "Peter Dillon",
+  "fullName": "Peter Dillon",
+  "profileSummary": "Peter Dillon was a French sea captain engaged in the merchant trade, explorer and writer. Dillon discovered in 1826–27 the fate of the La Pérouse expedition.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Portrait_of_Peter_Dillon.jpg/330px-Portrait_of_Peter_Dillon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Dillon",
+  "dateOfBirth": "1788-06-15",
+  "birthDateParsed": "1788-06-15",
+  "dateOfDeath": "1847-02-09",
+  "deathDateParsed": "1847-02-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "14.65",
+  "birthCoordinatesLng": "-61.015",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer"
+  ],
+  "qid": "Q3376541",
+  "birthPlace": "Martinique",
+  "fetchedAt": "2026-08-07T04:27:07.973Z"
+}

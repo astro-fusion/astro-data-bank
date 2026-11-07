@@ -1,0 +1,38 @@
+{
+  "publicId": "9f3c0c73",
+  "wikipediaSlug": "Norman_Angell",
+  "wikipediaId": "Q272224",
+  "name": "Norman Angell",
+  "fullName": "Norman Angell",
+  "profileSummary": "Sir Ralph Norman Angell was a lecturer, journalist, author and Member of Parliament for the Labour Party. He was awarded the Nobel Peace Prize for his efforts to promote peace, particularly through writings that argued that modern economic interdependence made war irrational and self-defeating.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Norman_Angell_01.jpg/330px-Norman_Angell_01.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Norman_Angell",
+  "dateOfBirth": "1874-12-26",
+  "birthDateParsed": "1874-12-26",
+  "dateOfDeath": "1967-10-07",
+  "deathDateParsed": "1967-10-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.803947",
+  "birthCoordinatesLng": "0.016249052",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lecturer",
+    "journalist",
+    "politician",
+    "pedagogue",
+    "writer",
+    "economist",
+    "political scientist",
+    "opinion journalist"
+  ],
+  "qid": "Q272224",
+  "birthPlace": "Mansion House",
+  "fetchedAt": "2026-08-04T02:14:08.451Z"
+}

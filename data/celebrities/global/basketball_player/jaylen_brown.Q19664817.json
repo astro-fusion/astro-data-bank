@@ -1,0 +1,31 @@
+{
+  "publicId": "ecfa976c",
+  "wikipediaSlug": "Jaylen_Brown",
+  "wikipediaId": "Q19664817",
+  "name": "Jaylen Brown",
+  "fullName": "Jaylen Brown",
+  "profileSummary": "Jaylen Marselles Brown is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). He played one year of college basketball for the California Golden Bears and was named first-team all-conference and Freshman of the Year in the Pac-12 Conference. Declaring for the 2016 NBA draft after his freshman season, Brown was selected by the Boston Celtics with the third overall pick. As a professional, he has split his time between shooting guard and small forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Celtics_at_Wizards_2024-12-015_%28cropped%29_%28cropped%29.jpg/330px-Celtics_at_Wizards_2024-12-015_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaylen_Brown",
+  "dateOfBirth": "1996-10-24",
+  "birthDateParsed": "1996-10-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.953333333",
+  "birthCoordinatesLng": "-84.540555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q19664817",
+  "birthPlace": "Marietta",
+  "fetchedAt": "2026-08-01T15:37:41.910Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "ddde6e30",
+  "wikipediaSlug": "George_H._W._Bush",
+  "wikipediaId": "Q23505",
+  "name": "George H. W. Bush",
+  "fullName": "George H. W. Bush",
+  "profileSummary": "George Herbert Walker Bush was the 41st president of the United States, serving from 1989 to 1993. Bush was the 43rd vice president of the United States serving under Ronald Reagan from 1981 to 1989. He was the father of George W. Bush, the 43rd president of the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg/330px-George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+  "dateOfBirth": "1924-06-12",
+  "birthDateParsed": "1924-06-12",
+  "dateOfDeath": "2018-11-30",
+  "deathDateParsed": "2018-11-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.25",
+  "birthCoordinatesLng": "-71.066666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "naval officer",
+    "baseball player",
+    "diplomat",
+    "aircraft pilot",
+    "entrepreneur",
+    "autobiographer",
+    "statesperson"
+  ],
+  "qid": "Q23505",
+  "birthPlace": "Milton",
+  "fetchedAt": "2026-08-01T18:07:51.939Z"
+}

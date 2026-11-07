@@ -1,0 +1,31 @@
+{
+  "publicId": "8df12f5e",
+  "wikipediaSlug": "Roy_Krishna",
+  "wikipediaId": "Q733523",
+  "name": "Roy Krishna",
+  "fullName": "Roy Krishna",
+  "profileSummary": "Roy Christopher Krishna is a Fijian professional footballer who plays as a striker and captains both Bula FC and the Fiji national team. He is the most-capped and highest-scoring Fijian footballer of all-time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Roy_Krishna_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roy_Krishna",
+  "dateOfBirth": "1987-08-30",
+  "birthDateParsed": "1987-08-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-16.433333333",
+  "birthCoordinatesLng": "179.366666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q733523",
+  "birthPlace": "Labasa",
+  "fetchedAt": "2026-08-07T04:27:24.808Z"
+}

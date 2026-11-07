@@ -1,0 +1,32 @@
+{
+  "publicId": "a6b7cbfe",
+  "wikipediaSlug": "George_Senesky",
+  "wikipediaId": "Q1606788",
+  "name": "George Senesky",
+  "fullName": "George Senesky",
+  "profileSummary": "George Lawrence Senesky was an American professional basketball player and coach. A 6'2\" guard from Saint Joseph's University, he was the 1942–43 College Basketball Season's Consensus Player of the Year and played for eight seasons in the Basketball Association of America (BAA) and the National Basketball Association (NBA), all with the Philadelphia Warriors. He later coached the franchise, from 1955 through to 1958, winning the NBA title in 1956.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/George_Senesky_1948.jpg/330px-George_Senesky_1948.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Senesky",
+  "dateOfBirth": "1922-04-04",
+  "birthDateParsed": "1922-04-04",
+  "dateOfDeath": "2001-06-25",
+  "deathDateParsed": "2001-06-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.81222",
+  "birthCoordinatesLng": "-76.14",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q1606788",
+  "birthPlace": "Mahanoy City",
+  "fetchedAt": "2026-08-01T15:37:30.440Z"
+}

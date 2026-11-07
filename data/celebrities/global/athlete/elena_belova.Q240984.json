@@ -1,0 +1,33 @@
+{
+  "publicId": "60fb88d0",
+  "wikipediaSlug": "Elena_Belova",
+  "wikipediaId": "Q240984",
+  "name": "Elena Belova",
+  "fullName": "Elena Belova",
+  "profileSummary": "Elena Dmitriyevna Novikova-Belova is a retired Russian foil fencer, known professionally simply as Elena Belova. She competed at the 1968, 1972, 1976 and 1980 Olympics in the individual and team events and won four gold, one silver and one bronze medal, becoming the first female fencer to win four Olympic gold medals. She nearly won a fifth gold in 1976, but lost her last pool match to the last-placed fencer. Belova also won eight world titles, individually in 1969, and with the Soviet team in 1970–1979.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Elena_Belova_c1974.jpg/330px-Elena_Belova_c1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elena_Belova",
+  "dateOfBirth": "1947-07-28",
+  "birthDateParsed": "1947-07-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.966666666",
+  "birthCoordinatesLng": "140.283333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "athlete",
+    "coach",
+    "university teacher"
+  ],
+  "qid": "Q240984",
+  "birthPlace": "Sovetskaya Gavan",
+  "fetchedAt": "2026-08-10T12:59:48.240Z"
+}

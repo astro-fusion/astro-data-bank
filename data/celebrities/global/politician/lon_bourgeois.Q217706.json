@@ -1,0 +1,35 @@
+{
+  "publicId": "203c5a21",
+  "wikipediaSlug": "Léon_Bourgeois",
+  "wikipediaId": "Q217706",
+  "name": "Léon Bourgeois",
+  "fullName": "Léon Bourgeois",
+  "profileSummary": "Léon Victor Auguste Bourgeois was a French statesman. His ideas influenced the Radical Party regarding a wide range of issues.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/L%C3%A9on_Bourgeois.jpg/330px-L%C3%A9on_Bourgeois.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A9on_Bourgeois",
+  "dateOfBirth": "1851-05-21",
+  "birthDateParsed": "1851-05-21",
+  "dateOfDeath": "1925-09-29",
+  "deathDateParsed": "1925-09-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.855068",
+  "birthCoordinatesLng": "2.356731",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "judge",
+    "official",
+    "jurist"
+  ],
+  "qid": "Q217706",
+  "birthPlace": "former 9th arrondissement of Paris",
+  "fetchedAt": "2026-08-04T02:13:57.437Z"
+}

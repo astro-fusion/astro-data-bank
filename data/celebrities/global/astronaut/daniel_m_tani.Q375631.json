@@ -1,0 +1,32 @@
+{
+  "publicId": "c8574d1a",
+  "wikipediaSlug": "Daniel_M._Tani",
+  "wikipediaId": "Q375631",
+  "name": "Daniel M. Tani",
+  "fullName": "Daniel M. Tani",
+  "profileSummary": "Daniel Michio Tani is an American engineer and retired NASA astronaut. He was born in Ridley Park, Pennsylvania, but considers Lombard, Illinois, to be his hometown.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Daniel_Tani.jpg/330px-Daniel_Tani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_M._Tani",
+  "dateOfBirth": "1961-02-01",
+  "birthDateParsed": "1961-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.88122",
+  "birthCoordinatesLng": "-75.3238",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q375631",
+  "birthPlace": "Ridley Park",
+  "fetchedAt": "2026-08-10T06:04:45.106Z"
+}

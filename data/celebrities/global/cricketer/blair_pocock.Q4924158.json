@@ -1,0 +1,31 @@
+{
+  "publicId": "80050976",
+  "wikipediaSlug": "Blair_Pocock",
+  "wikipediaId": "Q4924158",
+  "name": "Blair Pocock",
+  "fullName": "Blair Pocock",
+  "profileSummary": "Blair Andrew Pocock is a New Zealand cricket player who played 15 Test matches for his national side. He was born in Papakura, New Zealand.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blair_Pocock",
+  "dateOfBirth": "1971-06-18",
+  "birthDateParsed": "1971-06-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4924158",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:02:02.442Z"
+}

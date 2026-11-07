@@ -1,0 +1,31 @@
+{
+  "publicId": "be24dcd1",
+  "wikipediaSlug": "Henry_Pelham",
+  "wikipediaId": "Q244766",
+  "name": "Henry Pelham",
+  "fullName": "Henry Pelham",
+  "profileSummary": "Henry Pelham was a British Whig statesman who served as Prime Minister of Great Britain from 1743 until his death in 1754. He was the younger brother of Thomas Pelham-Holles, 1st Duke of Newcastle, who served in Pelham's government and succeeded him as prime minister. Pelham is generally considered to have been Britain's third prime minister, after Robert Walpole and the Earl of Wilmington.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Henry_Pelham_by_William_Hoare.jpg/330px-Henry_Pelham_by_William_Hoare.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Pelham",
+  "dateOfBirth": "1694-09-25",
+  "birthDateParsed": "1694-09-25",
+  "dateOfDeath": "1754-03-06",
+  "deathDateParsed": "1754-03-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.9",
+  "birthCoordinatesLng": "0.13",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q244766",
+  "birthPlace": "Laughton",
+  "fetchedAt": "2026-08-02T05:22:12.031Z"
+}

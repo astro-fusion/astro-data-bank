@@ -1,0 +1,31 @@
+{
+  "publicId": "54e31992",
+  "wikipediaSlug": "Craig_Serjeant",
+  "wikipediaId": "Q5181435",
+  "name": "Craig Serjeant",
+  "fullName": "Craig Serjeant",
+  "profileSummary": "Craig Stanton Serjeant is a former Australian cricketer who played in 12 Test matches and three One Day Internationals in 1977 and 1978.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Craig_Serjeant",
+  "dateOfBirth": "1951-11-01",
+  "birthDateParsed": "1951-11-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.982",
+  "birthCoordinatesLng": "115.807",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5181435",
+  "birthPlace": "Nedlands",
+  "fetchedAt": "2026-07-31T19:45:26.251Z"
+}

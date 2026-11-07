@@ -1,0 +1,32 @@
+{
+  "publicId": "a5c89166",
+  "wikipediaSlug": "Andrew_R._Morgan",
+  "wikipediaId": "Q13500735",
+  "name": "Andrew R. Morgan",
+  "fullName": "Andrew R. Morgan",
+  "profileSummary": "Andrew Richard Morgan is an American military physician and retired NASA astronaut from the class of 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andrew_R._Morgan_official_portrait_%282%29.jpg/330px-Andrew_R._Morgan_official_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_R._Morgan",
+  "dateOfBirth": "1976-02-05",
+  "birthDateParsed": "1976-02-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.9972",
+  "birthCoordinatesLng": "-80.3444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "physician"
+  ],
+  "qid": "Q13500735",
+  "birthPlace": "New Castle",
+  "fetchedAt": "2026-08-10T06:03:34.733Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "34d80f1b",
+  "wikipediaSlug": "Thomas_R._Marshall",
+  "wikipediaId": "Q299001",
+  "name": "Thomas R. Marshall",
+  "fullName": "Thomas R. Marshall",
+  "profileSummary": "Thomas Riley Marshall was the 28th vice president of the United States from 1913 to 1921 under President Woodrow Wilson. A prominent lawyer in Indiana, he became an active and well-known member of the Democratic Party by stumping across the state for other candidates and organizing party rallies that later helped him win election as the 27th governor of Indiana. In office, he attempted to incorporate items from his progressive agenda into the Constitution of Indiana, but was blocked by the Indiana Supreme Court.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MARSHALL%2C_THOMAS_R._HONORABLE_LCCN2016858260_%28cropped%29.jpg/330px-MARSHALL%2C_THOMAS_R._HONORABLE_LCCN2016858260_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_R._Marshall",
+  "dateOfBirth": "1854-03-14",
+  "birthDateParsed": "1854-03-14",
+  "dateOfDeath": "1925-06-01",
+  "deathDateParsed": "1925-06-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.0039",
+  "birthCoordinatesLng": "-85.7725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "writer",
+    "governor",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q299001",
+  "birthPlace": "North Manchester",
+  "fetchedAt": "2026-08-01T18:08:43.863Z"
+}

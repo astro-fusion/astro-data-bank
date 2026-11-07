@@ -1,0 +1,34 @@
+{
+  "publicId": "2a83f8e6",
+  "wikipediaSlug": "John_Tyler",
+  "wikipediaId": "Q11881",
+  "name": "John Tyler",
+  "fullName": "John Tyler",
+  "profileSummary": "John Tyler was the tenth president of the United States, serving from 1841 to 1845, after briefly holding office as the tenth vice president in 1841. He was elected vice president on the 1840 Whig ticket with William Henry Harrison, succeeding to the presidency following Harrison's death 31 days after assuming office as president. Tyler was a stalwart supporter and advocate of states' rights, including regarding slavery, and he adopted nationalistic policies as president only when they did not infringe on the states' powers. His unexpected rise to the presidency posed a threat to the presidential ambitions of Senator Henry Clay and other Whig politicians and left Tyler estranged from both major political parties at the time: the Whigs and the Democrats.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tyler%2C_John%2C_by_Healy_%281842%2C_NPG_2019_13%29_%28cropped%29.jpg/330px-Tyler%2C_John%2C_by_Healy_%281842%2C_NPG_2019_13%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Tyler",
+  "dateOfBirth": "1790-03-29",
+  "birthDateParsed": "1790-03-29",
+  "dateOfDeath": "1862-01-18",
+  "deathDateParsed": "1862-01-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.3542",
+  "birthCoordinatesLng": "-77.1017",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "statesperson",
+    "governor"
+  ],
+  "qid": "Q11881",
+  "birthPlace": "Greenway Plantation",
+  "fetchedAt": "2026-08-01T18:08:29.041Z"
+}

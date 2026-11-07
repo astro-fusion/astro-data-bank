@@ -1,0 +1,33 @@
+{
+  "publicId": "a7fbe2f0",
+  "wikipediaSlug": "Amir_Sadollah",
+  "wikipediaId": "Q2843489",
+  "name": "Amir Sadollah",
+  "fullName": "Amir Sadollah",
+  "profileSummary": "Amir Ali Sadollah is a retired American mixed martial artist best known for his tenure with the Ultimate Fighting Championship (UFC), having fought in the Middleweight and Welterweight divisions, and was the winner of Spike TV's The Ultimate Fighter 7. He has fought exclusively within the confines of the UFC Octagon since the beginning of his mixed martial arts career, making him one of the few fighters to have done so.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Amir_Sadollah.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amir_Sadollah",
+  "dateOfBirth": "1980-08-27",
+  "birthDateParsed": "1980-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "kickboxer",
+    "Thai boxer"
+  ],
+  "qid": "Q2843489",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-01T17:04:24.119Z"
+}

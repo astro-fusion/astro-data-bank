@@ -1,0 +1,32 @@
+{
+  "publicId": "ce18c4fe",
+  "wikipediaSlug": "Don_McNeill_(tennis)",
+  "wikipediaId": "Q491358",
+  "name": "Don McNeill (tennis)",
+  "fullName": "Don McNeill (tennis)",
+  "profileSummary": "William Donald McNeill was an American tennis player. He was born in Chickasha, Oklahoma, and died in Vero Beach, Florida.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hammersley_and_Mc_Neill.jpg/330px-Hammersley_and_Mc_Neill.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_McNeill_(tennis)",
+  "dateOfBirth": "1918-04-30",
+  "birthDateParsed": "1918-04-30",
+  "dateOfDeath": "1996-11-28",
+  "deathDateParsed": "1996-11-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.038333333",
+  "birthCoordinatesLng": "-97.946111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "military officer"
+  ],
+  "qid": "Q491358",
+  "birthPlace": "Chickasha",
+  "fetchedAt": "2026-08-01T13:11:44.275Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "91dca03b",
+  "wikipediaSlug": "John_Hoeven",
+  "wikipediaId": "Q374762",
+  "name": "John Hoeven",
+  "fullName": "John Hoeven",
+  "profileSummary": "John Henry Hoeven III is an American politician and banker serving as the senior U.S. senator from North Dakota, a seat he has held since 2011. A member of the Republican Party, Hoeven served as the 31st governor of North Dakota from 2000 to 2010.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hoeven_Official_Portrait_2014.JPG/330px-Hoeven_Official_Portrait_2014.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hoeven",
+  "dateOfBirth": "1957-03-13",
+  "birthDateParsed": "1957-03-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.808333333",
+  "birthCoordinatesLng": "-100.78375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "banker"
+  ],
+  "qid": "Q374762",
+  "birthPlace": "Bismarck",
+  "fetchedAt": "2026-08-02T02:17:04.176Z"
+}

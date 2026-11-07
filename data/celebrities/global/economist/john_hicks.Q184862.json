@@ -1,0 +1,33 @@
+{
+  "publicId": "f502bfca",
+  "wikipediaSlug": "John_Hicks",
+  "wikipediaId": "Q184862",
+  "name": "John Hicks",
+  "fullName": "John Hicks",
+  "profileSummary": "Sir John Richard Hicks was a British economist. He is considered one of the most important and influential economists of the twentieth century. The most familiar of his many contributions in the field of economics were his statement of consumer demand theory in microeconomics, and the IS–LM model (1937), which summarised a Keynesian view of macroeconomics. His book Value and Capital (1939) significantly extended general-equilibrium and value theory. The compensated demand function is named the Hicksian demand function in memory of him.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/John_Hicks_1972.jpg/330px-John_Hicks_1972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hicks",
+  "dateOfBirth": "1904-04-08",
+  "birthDateParsed": "1904-04-08",
+  "dateOfDeath": "1989-05-20",
+  "deathDateParsed": "1989-05-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.28",
+  "birthCoordinatesLng": "-1.59",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "political economist"
+  ],
+  "qid": "Q184862",
+  "birthPlace": "Warwick",
+  "fetchedAt": "2026-08-10T09:43:35.319Z"
+}

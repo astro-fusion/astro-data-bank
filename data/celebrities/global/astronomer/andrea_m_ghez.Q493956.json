@@ -1,0 +1,34 @@
+{
+  "publicId": "75edf4d3",
+  "wikipediaSlug": "Andrea_M._Ghez",
+  "wikipediaId": "Q493956",
+  "name": "Andrea M. Ghez",
+  "fullName": "Andrea M. Ghez",
+  "profileSummary": "Andrea Mia Ghez is an American astrophysicist. She shared the 2020 Nobel Prize in Physics with Reinhard Genzel \"for the discovery of a supermassive compact object at the centre of our galaxy\". This object is generally recognized to be a black hole.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Andrea_Ghez.jpg/330px-Andrea_Ghez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_M._Ghez",
+  "dateOfBirth": "1965-06-16",
+  "birthDateParsed": "1965-06-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "university teacher",
+    "mathematician",
+    "scientist"
+  ],
+  "qid": "Q493956",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-06T05:00:41.633Z"
+}

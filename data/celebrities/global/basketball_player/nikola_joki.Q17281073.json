@@ -1,0 +1,31 @@
+{
+  "publicId": "b8d0d35f",
+  "wikipediaSlug": "Nikola_Jokić",
+  "wikipediaId": "Q17281073",
+  "name": "Nikola Jokić",
+  "fullName": "Nikola Jokić",
+  "profileSummary": "Nikola Jokić is a Serbian professional basketball player who is a center for the Denver Nuggets of the National Basketball Association (NBA). Nicknamed \"Joker\", he is widely regarded as one of the greatest players and centers of all time, and is often considered the greatest draft steal in NBA history. Jokić is an eight-time NBA All-Star, eight-time All-NBA Team member and a three-time NBA Most Valuable Player (MVP). He represents the Serbian national team, with which he won a silver medal at the 2016 Summer Olympics, and a bronze medal at the 2024 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nikola_Jokic_free_throw_%28cropped%29.jpg/330px-Nikola_Jokic_free_throw_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikola_Joki%C4%87",
+  "dateOfBirth": "1995-02-19",
+  "birthDateParsed": "1995-02-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.78",
+  "birthCoordinatesLng": "19.12",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q17281073",
+  "birthPlace": "Sombor",
+  "fetchedAt": "2026-08-01T15:38:20.911Z"
+}

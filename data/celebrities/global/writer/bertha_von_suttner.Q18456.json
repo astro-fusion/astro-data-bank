@@ -1,0 +1,38 @@
+{
+  "publicId": "77f236fa",
+  "wikipediaSlug": "Bertha_von_Suttner",
+  "wikipediaId": "Q18456",
+  "name": "Bertha von Suttner",
+  "fullName": "Bertha von Suttner",
+  "profileSummary": "Baroness Bertha Sophie Felicitas von Suttner was an Austrian noblewoman, pacifist and novelist. In 1905, she became the second female Nobel laureate, the first woman to be awarded the Nobel Peace Prize, and the first Austrian laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bertha_von_Suttner_nobel.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bertha_von_Suttner",
+  "dateOfBirth": "1843-06-09",
+  "birthDateParsed": "1843-06-09",
+  "dateOfDeath": "1914-06-21",
+  "deathDateParsed": "1914-06-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0875",
+  "birthCoordinatesLng": "14.421388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "translator",
+    "journalist",
+    "pacifist",
+    "science fiction writer",
+    "editor",
+    "social activist"
+  ],
+  "qid": "Q18456",
+  "birthPlace": "Prague",
+  "fetchedAt": "2026-08-04T02:12:41.167Z"
+}

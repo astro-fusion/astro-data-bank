@@ -1,0 +1,32 @@
+{
+  "publicId": "092c8575",
+  "wikipediaSlug": "Douglas_Osheroff",
+  "wikipediaId": "Q206405",
+  "name": "Douglas Osheroff",
+  "fullName": "Douglas Osheroff",
+  "profileSummary": "Douglas Dean Osheroff is an American physicist known for his work in experimental condensed matter physics, in particular for his co-discovery of superfluidity in Helium-3. For his contributions he shared the 1996 Nobel Prize in Physics along with David Lee and Robert C. Richardson. Osheroff is currently the J. G. Jackson and C. J. Wood Professor of Physics, emeritus, at Stanford University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Douglas_Osheroff_2011-08-08_cropped.JPG/330px-Douglas_Osheroff_2011-08-08_cropped.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Douglas_Osheroff",
+  "dateOfBirth": "1945-08-01",
+  "birthDateParsed": "1945-08-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.975361111",
+  "birthCoordinatesLng": "-123.815722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q206405",
+  "birthPlace": "Aberdeen",
+  "fetchedAt": "2026-08-06T05:01:30.033Z"
+}

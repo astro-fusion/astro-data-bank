@@ -1,0 +1,33 @@
+{
+  "publicId": "799c5324",
+  "wikipediaSlug": "Myron_Scholes",
+  "wikipediaId": "Q295647",
+  "name": "Myron Scholes",
+  "fullName": "Myron Scholes",
+  "profileSummary": "Myron Samuel Scholes is a Canadian–American financial economist. Scholes is the Frank E. Buck Professor of Finance, Emeritus, at the Stanford Graduate School of Business, Nobel Laureate in Economic Sciences, and co-originator of the Black–Scholes options pricing model. This mathematical model, developed with Fischer Black, revolutionized finance by providing a systematic way to value options through the elimination of risk via dynamic hedging.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Myron_Scholes_2008_in_Lindau.png/330px-Myron_Scholes_2008_in_Lindau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Myron_Scholes",
+  "dateOfBirth": "1941-07-01",
+  "birthDateParsed": "1941-07-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.471666666",
+  "birthCoordinatesLng": "-81.331388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "mathematician",
+    "researcher"
+  ],
+  "qid": "Q295647",
+  "birthPlace": "Timmins",
+  "fetchedAt": "2026-08-10T09:43:53.598Z"
+}

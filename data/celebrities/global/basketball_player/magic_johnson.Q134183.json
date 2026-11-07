@@ -1,0 +1,39 @@
+{
+  "publicId": "7e5c1173",
+  "wikipediaSlug": "Magic_Johnson",
+  "wikipediaId": "Q134183",
+  "name": "Magic Johnson",
+  "fullName": "Magic Johnson",
+  "profileSummary": "Earvin \"Magic\" Johnson Jr. is an American businessman and former professional basketball player. He is widely regarded as the greatest point guard of all time and one of the greatest basketball players in history. Johnson spent his entire career with the Los Angeles Lakers in the National Basketball Association (NBA). After winning a national championship with the Michigan State Spartans in 1979, Johnson was selected first overall in the 1979 NBA draft by the Lakers, then led the team to five NBA championships during their \"Showtime\" era. Johnson retired abruptly in 1991 after announcing that he had contracted HIV, but returned to play in the 1992 All-Star Game, winning the All-Star MVP Award. He retired again after fellow players protested his return, but returned in 1996, at age 36, to play 32 games for the Lakers before retiring for the third and final time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg/330px-Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Magic_Johnson",
+  "dateOfBirth": "1959-08-14",
+  "birthDateParsed": "1959-08-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.7335",
+  "birthCoordinatesLng": "-84.5467",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "motivational speaker",
+    "basketball coach",
+    "entrepreneur",
+    "financier",
+    "film producer",
+    "actor",
+    "television producer",
+    "HIV/AIDS activist"
+  ],
+  "qid": "Q134183",
+  "birthPlace": "Lansing",
+  "fetchedAt": "2026-08-01T15:37:54.939Z"
+}

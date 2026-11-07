@@ -1,0 +1,31 @@
+{
+  "publicId": "e487eea7",
+  "wikipediaSlug": "Bob_McLeod_(cricketer)",
+  "wikipediaId": "Q4933368",
+  "name": "Bob McLeod (cricketer)",
+  "fullName": "Bob McLeod (cricketer)",
+  "profileSummary": "Robert William McLeod was an Australian cricketer who played in six Test matches in 1892 and 1893. On his debut, he took five wickets in the first innings against England in Melbourne in 1892.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bob_McLeod.png/330px-Bob_McLeod.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_McLeod_(cricketer)",
+  "dateOfBirth": "1868-01-19",
+  "birthDateParsed": "1868-01-19",
+  "dateOfDeath": "1907-06-14",
+  "deathDateParsed": "1907-06-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.823888888",
+  "birthCoordinatesLng": "144.911111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4933368",
+  "birthPlace": "Port Melbourne",
+  "fetchedAt": "2026-07-31T19:44:56.540Z"
+}

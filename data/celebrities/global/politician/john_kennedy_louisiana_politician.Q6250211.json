@@ -1,0 +1,32 @@
+{
+  "publicId": "17313f10",
+  "wikipediaSlug": "John_Kennedy_(Louisiana_politician)",
+  "wikipediaId": "Q6250211",
+  "name": "John Kennedy (Louisiana politician)",
+  "fullName": "John Kennedy (Louisiana politician)",
+  "profileSummary": "John Neely Kennedy is an American politician and attorney who has served as the junior United States senator from Louisiana since 2017. A member of the Republican Party, he served as the Louisiana State Treasurer from 2000 to 2017, as Secretary of the Louisiana Department of Revenue from 1996 to 1999, and as special counsel and then cabinet member to Governor Buddy Roemer from 1988 to 1992.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/John_N._Kennedy_official_portrait.jpg/330px-John_N._Kennedy_official_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Kennedy_(Louisiana_politician)",
+  "dateOfBirth": "1951-11-21",
+  "birthDateParsed": "1951-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.089611111",
+  "birthCoordinatesLng": "-91.068444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q6250211",
+  "birthPlace": "Centreville",
+  "fetchedAt": "2026-08-02T02:17:16.735Z"
+}

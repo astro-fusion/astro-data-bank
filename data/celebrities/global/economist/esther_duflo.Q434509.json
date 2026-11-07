@@ -1,0 +1,33 @@
+{
+  "publicId": "90abb2d1",
+  "wikipediaSlug": "Esther_Duflo",
+  "wikipediaId": "Q434509",
+  "name": "Esther Duflo",
+  "fullName": "Esther Duflo",
+  "profileSummary": "Esther Caroline Duflo, FBA is a French-American economist, and the Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics at the Massachusetts Institute of Technology (MIT). In 2019, she was jointly awarded the Nobel Memorial Prize in Economic Sciences alongside her husband Abhijit Banerjee and Michael Kremer \"for their experimental approach to alleviating global poverty\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nobel_9_Dec_2019_Esther_Duflo_%28cropped%29.jpg/330px-Nobel_9_Dec_2019_Esther_Duflo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Esther_Duflo",
+  "dateOfBirth": "1972-10-25",
+  "birthDateParsed": "1972-10-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "researcher"
+  ],
+  "qid": "Q434509",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-10T09:43:13.307Z"
+}

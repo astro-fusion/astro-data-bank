@@ -1,0 +1,33 @@
+{
+  "publicId": "aa41ad16",
+  "wikipediaSlug": "Herbert_C._Brown",
+  "wikipediaId": "Q102406",
+  "name": "Herbert C. Brown",
+  "fullName": "Herbert C. Brown",
+  "profileSummary": "Herbert Charles Brown was an American chemist and recipient of the 1979 Nobel Prize in Chemistry for his work with organoboranes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/Herbert_C._Brown.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herbert_C._Brown",
+  "dateOfBirth": "1912-05-22",
+  "birthDateParsed": "1912-05-22",
+  "dateOfDeath": "2004-12-19",
+  "deathDateParsed": "2004-12-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher",
+    "writer"
+  ],
+  "qid": "Q102406",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T02:04:09.723Z"
+}

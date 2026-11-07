@@ -1,0 +1,33 @@
+{
+  "publicId": "1a15e243",
+  "wikipediaSlug": "Giacinto_Facchetti",
+  "wikipediaId": "Q219390",
+  "name": "Giacinto Facchetti",
+  "fullName": "Giacinto Facchetti",
+  "profileSummary": "Giacinto Facchetti was an Italian footballer who played as a left-back for Inter Milan from 1960 to 1978. He later served as Inter chairman from January 2004 until his death in 2006. He played 634 official games for the club, scoring 75 goals, and was a member of \"Grande Inter\" team under manager Helenio Herrera which won four Serie A titles, a Coppa Italia, two European Cups, and two Intercontinental Cups. He placed second for the Ballon d'Or in 1965.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1966%E2%80%9367_Inter_Milan_-_Giacinto_Facchetti.jpg/330px-1966%E2%80%9367_Inter_Milan_-_Giacinto_Facchetti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giacinto_Facchetti",
+  "dateOfBirth": "1942-07-18",
+  "birthDateParsed": "1942-07-18",
+  "dateOfDeath": "2006-09-04",
+  "deathDateParsed": "2006-09-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.521388888",
+  "birthCoordinatesLng": "9.592777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "sports official",
+    "manager"
+  ],
+  "qid": "Q219390",
+  "birthPlace": "Treviglio",
+  "fetchedAt": "2026-08-10T11:28:27.168Z"
+}

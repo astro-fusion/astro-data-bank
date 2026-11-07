@@ -1,0 +1,33 @@
+{
+  "publicId": "c0f593aa",
+  "wikipediaSlug": "Ann_Bergren",
+  "wikipediaId": "Q55154423",
+  "name": "Ann Bergren",
+  "fullName": "Ann Bergren",
+  "profileSummary": "Ann Bergren was Professor of Greek literature, Literary Theory, and Contemporary Architecture at University of California, Los Angeles. She is known for her scholarship on Ancient Greek language, gender, and contemporary architecture.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ann_Bergren",
+  "dateOfBirth": "1942-10-07",
+  "birthDateParsed": "1942-10-07",
+  "dateOfDeath": "2018-05-10",
+  "deathDateParsed": "2018-05-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.809166666",
+  "birthCoordinatesLng": "-96.678055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "hellenist",
+    "historian of classical antiquity",
+    "university teacher"
+  ],
+  "qid": "Q55154423",
+  "birthPlace": "Lincoln",
+  "fetchedAt": "2026-08-05T02:43:27.513Z"
+}

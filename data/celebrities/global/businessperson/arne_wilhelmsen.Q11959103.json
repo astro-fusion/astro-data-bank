@@ -1,0 +1,32 @@
+{
+  "publicId": "f5f89279",
+  "wikipediaSlug": "Arne_Wilhelmsen",
+  "wikipediaId": "Q11959103",
+  "name": "Arne Wilhelmsen",
+  "fullName": "Arne Wilhelmsen",
+  "profileSummary": "Arne Wilhelmsen was a Norwegian billionaire businessman, the co-founder of Royal Caribbean Cruises.\n",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ingrid-Bergman-1970_%28NordicPrince%29.jpg/330px-Ingrid-Bergman-1970_%28NordicPrince%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arne_Wilhelmsen",
+  "dateOfBirth": "1929-06-15",
+  "birthDateParsed": "1929-06-15",
+  "dateOfDeath": "2020-04-11",
+  "deathDateParsed": "2020-04-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.913333333",
+  "birthCoordinatesLng": "10.738888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "ship-owner"
+  ],
+  "qid": "Q11959103",
+  "birthPlace": "Oslo",
+  "fetchedAt": "2026-08-05T02:43:54.728Z"
+}

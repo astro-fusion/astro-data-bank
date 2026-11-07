@@ -1,0 +1,32 @@
+{
+  "publicId": "c878d106",
+  "wikipediaSlug": "Eric_J._Evans",
+  "wikipediaId": "Q5386783",
+  "name": "Eric J. Evans",
+  "fullName": "Eric J. Evans",
+  "profileSummary": "Eric J. Evans was a British historian who was Professor Emeritus of History at the University of Lancaster and was Chair (1991–98) and vice-president of the Social History Society.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_J._Evans",
+  "dateOfBirth": "1945-01-01",
+  "birthDateParsed": "1945-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "writer"
+  ],
+  "qid": "Q5386783",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-02T05:22:20.812Z"
+}

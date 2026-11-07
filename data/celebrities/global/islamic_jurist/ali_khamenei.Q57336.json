@@ -1,0 +1,36 @@
+{
+  "publicId": "25cd2a7c",
+  "wikipediaSlug": "Ali_Khamenei",
+  "wikipediaId": "Q57336",
+  "name": "Ali Khamenei",
+  "fullName": "Ali Khamenei",
+  "profileSummary": "Ali Hosseini Khamenei was an Iranian politician and Shia cleric who served as the second supreme leader of Iran from 1989 until his assassination in 2026. A member of the Khamenei family who held the title Grand Ayatollah, he previously served as the third president of Iran from 1981 to 1989. His 36-year tenure as supreme leader made him the longest-serving head of state in West Asia at the time of his death.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%283_x_4_cropped%29.jpg/330px-Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%283_x_4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Khamenei",
+  "dateOfBirth": "1939-04-19",
+  "birthDateParsed": "1939-04-19",
+  "dateOfDeath": "2026-02-28",
+  "deathDateParsed": "2026-02-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.297494444",
+  "birthCoordinatesLng": "59.605923055",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Islamic jurist",
+    "politician",
+    "translator",
+    "writer",
+    "poet",
+    "cleric"
+  ],
+  "qid": "Q57336",
+  "birthPlace": "Mashhad",
+  "fetchedAt": "2026-08-03T15:51:50.551Z"
+}

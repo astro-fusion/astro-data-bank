@@ -1,0 +1,31 @@
+{
+  "publicId": "2e40e006",
+  "wikipediaSlug": "Claude_Steele",
+  "wikipediaId": "Q5129029",
+  "name": "Claude Steele",
+  "fullName": "Claude Steele",
+  "profileSummary": "Claude Mason Steele is a social psychologist and emeritus professor at Stanford University, where he is the I. James Quillen Endowed Dean, emeritus at the Stanford University Graduate School of Education, and Lucie Stern Professor in the Social Sciences, emeritus.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Claude_Steele_-_TeachAIDS_Interview_%2819719334549%29.jpg/330px-Claude_Steele_-_TeachAIDS_Interview_%2819719334549%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Steele",
+  "dateOfBirth": "1946-01-01",
+  "birthDateParsed": "1946-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.6122",
+  "birthCoordinatesLng": "-87.6306",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "psychologist"
+  ],
+  "qid": "Q5129029",
+  "birthPlace": "Phoenix",
+  "fetchedAt": "2026-08-04T15:05:27.337Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "4bbbc786",
+  "wikipediaSlug": "George_Canning",
+  "wikipediaId": "Q219731",
+  "name": "George Canning",
+  "fullName": "George Canning",
+  "profileSummary": "George Canning was a British statesman and Tory politician. He became Prime Minister of the United Kingdom on 12 April 1827, but his premiership was cut short by his death 119 days later on 8 August 1827. Canning also figured prominently in the cabinets of Robert Jenkinson, 2nd Earl of Liverpool, and William Cavendish-Bentinck, 3rd Duke of Portland, with two terms as Foreign Secretary.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/George_Canning%2C_Prime_Minister_of_The_United_Kingdom.jpg/330px-George_Canning%2C_Prime_Minister_of_The_United_Kingdom.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Canning",
+  "dateOfBirth": "1770-04-11",
+  "birthDateParsed": "1770-04-11",
+  "dateOfDeath": "1827-08-08",
+  "deathDateParsed": "1827-08-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer",
+    "writer",
+    "bretteur",
+    "governor"
+  ],
+  "qid": "Q219731",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:21:48.093Z"
+}

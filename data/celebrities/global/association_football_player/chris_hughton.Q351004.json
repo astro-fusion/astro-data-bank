@@ -1,0 +1,32 @@
+{
+  "publicId": "d0b77df3",
+  "wikipediaSlug": "Chris_Hughton",
+  "wikipediaId": "Q351004",
+  "name": "Chris Hughton",
+  "fullName": "Chris Hughton",
+  "profileSummary": "Christopher William Gerard Hughton is a professional football manager and former player. Born in England, he represented the Republic of Ireland national team. He was most recently head coach of the Ghana national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chris_Hughton_July_2015.jpg/330px-Chris_Hughton_July_2015.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Hughton",
+  "dateOfBirth": "1958-12-11",
+  "birthDateParsed": "1958-12-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5423",
+  "birthCoordinatesLng": "-0.002561111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q351004",
+  "birthPlace": "Stratford",
+  "fetchedAt": "2026-08-01T05:21:05.942Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "b332b8a1",
+  "wikipediaSlug": "Claudie_Haigneré",
+  "wikipediaId": "Q235580",
+  "name": "Claudie Haigneré",
+  "fullName": "Claudie Haigneré",
+  "profileSummary": "Claudie Haigneré is a French doctor, former politician and retired astronaut. The first female astronaut of the French Space Agency (CNES) and the European Space Agency (ESA) to go to space and to visit the ISS, she later was a government minister under Prime Minister Jean-Pierre Raffarin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20140927_Femmes_de_science_-_Claudie_Haigner%C3%A9_02.jpg/330px-20140927_Femmes_de_science_-_Claudie_Haigner%C3%A9_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudie_Haigner%C3%A9",
+  "dateOfBirth": "1957-05-13",
+  "birthDateParsed": "1957-05-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.800555555",
+  "birthCoordinatesLng": "4.440277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "politician",
+    "physician"
+  ],
+  "qid": "Q235580",
+  "birthPlace": "Le Creusot",
+  "fetchedAt": "2026-08-10T06:04:40.474Z"
+}

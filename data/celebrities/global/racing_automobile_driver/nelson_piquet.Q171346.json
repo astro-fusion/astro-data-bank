@@ -1,0 +1,33 @@
+{
+  "publicId": "0952568b",
+  "wikipediaSlug": "Nelson_Piquet",
+  "wikipediaId": "Q171346",
+  "name": "Nelson Piquet",
+  "fullName": "Nelson Piquet",
+  "profileSummary": "Nelson Piquet Souto Maior is a Brazilian former racing driver and businessman, who competed in Formula One from 1978 to 1991. Piquet won three Formula One World Drivers' Championship titles, which he won in 1981, 1983, and 1987, and won 23 Grands Prix across 14 seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cerimonia_de_entrega_da_medalha_Bras%C3%ADlia_60_anos_-_16.jpg/330px-Cerimonia_de_entrega_da_medalha_Bras%C3%ADlia_60_anos_-_16.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelson_Piquet",
+  "dateOfBirth": "1952-08-17",
+  "birthDateParsed": "1952-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing automobile driver",
+    "businessperson",
+    "Formula One driver"
+  ],
+  "qid": "Q171346",
+  "birthPlace": "Rio de Janeiro",
+  "fetchedAt": "2026-08-01T16:01:53.601Z"
+}

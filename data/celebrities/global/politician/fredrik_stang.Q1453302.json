@@ -1,0 +1,34 @@
+{
+  "publicId": "0c30f220",
+  "wikipediaSlug": "Fredrik_Stang",
+  "wikipediaId": "Q1453302",
+  "name": "Fredrik Stang",
+  "fullName": "Fredrik Stang",
+  "profileSummary": "Fredrik Stang was a Norwegian law professor and politician for the Conservative Party. He served as a Member of Parliament, leader of the Conservative Party, Minister of Justice and the Police, Chairman of the Norwegian Nobel Committee, and Rector of The Royal Frederick University. His father was Prime Minister Emil Stang and his grandfather was Prime Minister Frederik Stang.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fredrik_Stang_d.y.jpg/330px-Fredrik_Stang_d.y.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fredrik_Stang",
+  "dateOfBirth": "1867-12-27",
+  "birthDateParsed": "1867-12-27",
+  "dateOfDeath": "1941-11-15",
+  "deathDateParsed": "1941-11-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.913333333",
+  "birthCoordinatesLng": "10.738888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "law professor",
+    "Justice of the Supreme Court of Norway",
+    "non-fiction writer"
+  ],
+  "qid": "Q1453302",
+  "birthPlace": "Oslo",
+  "fetchedAt": "2026-08-04T02:13:26.372Z"
+}

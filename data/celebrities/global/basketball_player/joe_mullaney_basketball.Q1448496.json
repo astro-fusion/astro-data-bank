@@ -1,0 +1,32 @@
+{
+  "publicId": "34ff0c55",
+  "wikipediaSlug": "Joe_Mullaney_(basketball)",
+  "wikipediaId": "Q1448496",
+  "name": "Joe Mullaney (basketball)",
+  "fullName": "Joe Mullaney (basketball)",
+  "profileSummary": "Joseph Alexander Mullaney was an American professional basketball player and coach.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Mullaney_(basketball)",
+  "dateOfBirth": "1924-11-17",
+  "birthDateParsed": "1924-11-17",
+  "dateOfDeath": "2000-03-08",
+  "deathDateParsed": "2000-03-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.805805",
+  "birthCoordinatesLng": "-73.253616",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q1448496",
+  "birthPlace": "Long Island",
+  "fetchedAt": "2026-08-01T15:37:34.467Z"
+}

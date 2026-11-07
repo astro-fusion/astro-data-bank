@@ -1,0 +1,32 @@
+{
+  "publicId": "4428cac7",
+  "wikipediaSlug": "Jack_Brabham",
+  "wikipediaId": "Q2125",
+  "name": "Jack Brabham",
+  "fullName": "Jack Brabham",
+  "profileSummary": "Sir John Arthur Brabham was an Australian racing driver and motorsport executive, who competed in Formula One from 1955 to 1970. Brabham won three Formula One World Drivers' Championship titles, which he won in 1959, 1960 and 1966, and won 14 Grands Prix across 16 seasons. He co-founded Brabham in 1960, leading the team to two World Constructors' Championship titles, and remains the only driver to have won the World Drivers' Championship in an eponymous car.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BrabhamJack1966B.jpg/330px-BrabhamJack1966B.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Brabham",
+  "dateOfBirth": "1926-04-02",
+  "birthDateParsed": "1926-04-02",
+  "dateOfDeath": "2014-05-19",
+  "deathDateParsed": "2014-05-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.965",
+  "birthCoordinatesLng": "151.1094444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "sporting director"
+  ],
+  "qid": "Q2125",
+  "birthPlace": "Hurstville",
+  "fetchedAt": "2026-08-01T16:01:32.994Z"
+}

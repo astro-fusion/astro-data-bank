@@ -1,0 +1,33 @@
+{
+  "publicId": "17f7bcd3",
+  "wikipediaSlug": "Aleksandr_Karelin",
+  "wikipediaId": "Q187247",
+  "name": "Aleksandr Karelin",
+  "fullName": "Aleksandr Karelin",
+  "profileSummary": "Aleksandr Aleksandrovich Karelin is a Russian politician and retired athlete.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aleksandr_Karelin_WCG-2013.jpg/330px-Aleksandr_Karelin_WCG-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Karelin",
+  "dateOfBirth": "1967-09-19",
+  "birthDateParsed": "1967-09-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.033333333",
+  "birthCoordinatesLng": "82.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "wrestler",
+    "statesperson"
+  ],
+  "qid": "Q187247",
+  "birthPlace": "Novosibirsk",
+  "fetchedAt": "2026-08-10T12:57:56.636Z"
+}

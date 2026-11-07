@@ -1,0 +1,33 @@
+{
+  "publicId": "c82c7934",
+  "wikipediaSlug": "Bob_Ferguson_(politician)",
+  "wikipediaId": "Q4932411",
+  "name": "Bob Ferguson (politician)",
+  "fullName": "Bob Ferguson (politician)",
+  "profileSummary": "Robert Watson Ferguson is an American attorney and politician serving since 2025 as the 24th governor of Washington. A member of the Democratic Party, he served from 2013 to 2025 as the 18th attorney general of Washington, and from 2004 to 2013 as a member of the King County Council.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bob_Ferguson_at_his_2023_Shrimp_Feed_02_%28cropped%29.jpg/330px-Bob_Ferguson_at_his_2023_Shrimp_Feed_02_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Ferguson_(politician)",
+  "dateOfBirth": "1965-02-23",
+  "birthDateParsed": "1965-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.605",
+  "birthCoordinatesLng": "-122.33",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chess player",
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q4932411",
+  "birthPlace": "Seattle",
+  "fetchedAt": "2026-08-02T03:27:52.675Z"
+}

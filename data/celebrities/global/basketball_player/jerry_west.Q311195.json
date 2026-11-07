@@ -1,0 +1,33 @@
+{
+  "publicId": "453bf912",
+  "wikipediaSlug": "Jerry_West",
+  "wikipediaId": "Q311195",
+  "name": "Jerry West",
+  "fullName": "Jerry West",
+  "profileSummary": "Jerry Alan West was an American basketball player and executive. He played professionally for the Los Angeles Lakers of the National Basketball Association (NBA), and is universally regarded as one of the greatest players of all time. His nicknames included \"the Logo\", in reference to his silhouette being the basis for the NBA logo; \"Mr. Clutch\", for his ability to make a big play in a key situation such as his famous buzzer-beating 60-foot shot that tied game 3 of the 1970 NBA Finals against the New York Knicks; \"Mr. Outside\", in reference to his perimeter play with the Lakers and \"Zeke from Cabin Creek\" for the creek near his birthplace of Chelyan, West Virginia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jerry_West_1972.jpeg/330px-Jerry_West_1972.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerry_West",
+  "dateOfBirth": "1938-05-28",
+  "birthDateParsed": "1938-05-28",
+  "dateOfDeath": "2024-06-12",
+  "deathDateParsed": "2024-06-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.1953",
+  "birthCoordinatesLng": "-81.4908",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "sports executive"
+  ],
+  "qid": "Q311195",
+  "birthPlace": "Chelyan",
+  "fetchedAt": "2026-08-01T15:37:44.882Z"
+}

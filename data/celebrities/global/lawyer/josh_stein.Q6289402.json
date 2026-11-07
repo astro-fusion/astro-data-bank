@@ -1,0 +1,32 @@
+{
+  "publicId": "03ebc86d",
+  "wikipediaSlug": "Josh_Stein",
+  "wikipediaId": "Q6289402",
+  "name": "Josh Stein",
+  "fullName": "Josh Stein",
+  "profileSummary": "Joshua Harold Stein is an American politician and lawyer serving as the 76th governor of North Carolina since 2025. A member of the Democratic Party, Stein served as the 51st attorney general of North Carolina from 2017 to 2025 and in the North Carolina Senate from 2009 to 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Josh_Stein_SelectUSA_%2855252715239%29.jpg/330px-Josh_Stein_SelectUSA_%2855252715239%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josh_Stein",
+  "dateOfBirth": "1966-09-13",
+  "birthDateParsed": "1966-09-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q6289402",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-02T03:28:10.563Z"
+}

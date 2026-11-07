@@ -1,0 +1,33 @@
+{
+  "publicId": "2259cbb2",
+  "wikipediaSlug": "Phil_Scott",
+  "wikipediaId": "Q7185808",
+  "name": "Phil Scott",
+  "fullName": "Phil Scott",
+  "profileSummary": "Philip Brian Scott is an American politician, stock car racer, and businessman who has served since 2017 as the 82nd governor of Vermont. A member of the Republican Party, he was a representative for the Washington District in the Vermont Senate from 2001 to 2011 and the 81st lieutenant governor of Vermont from 2011 to 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Phil_Scott_2019.png/330px-Phil_Scott_2019.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Phil_Scott",
+  "dateOfBirth": "1958-08-04",
+  "birthDateParsed": "1958-08-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.1857891",
+  "birthCoordinatesLng": "-72.481805",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "racing automobile driver",
+    "general contractor"
+  ],
+  "qid": "Q7185808",
+  "birthPlace": "Barre",
+  "fetchedAt": "2026-08-02T03:29:01.627Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "31995b47",
+  "wikipediaSlug": "Fred_Alexander",
+  "wikipediaId": "Q1333525",
+  "name": "Fred Alexander",
+  "fullName": "Fred Alexander",
+  "profileSummary": "Frederick Beasley Alexander was an American tennis player in the early 20th century. He won the singles title at the 1908 Australasian Championships and six double titles at Grand Slam events.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Frederick_Beasley_Alexander.jpg/330px-Frederick_Beasley_Alexander.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Alexander",
+  "dateOfBirth": "1880-08-14",
+  "birthDateParsed": "1880-08-14",
+  "dateOfDeath": "1969-03-03",
+  "deathDateParsed": "1969-03-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q1333525",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-01T13:11:02.660Z"
+}

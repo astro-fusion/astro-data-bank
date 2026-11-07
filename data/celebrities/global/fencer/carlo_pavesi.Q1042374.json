@@ -1,0 +1,31 @@
+{
+  "publicId": "55ecd6a7",
+  "wikipediaSlug": "Carlo_Pavesi",
+  "wikipediaId": "Q1042374",
+  "name": "Carlo Pavesi",
+  "fullName": "Carlo Pavesi",
+  "profileSummary": "Carlo Pavesi was an Italian fencer. He won four gold medals in total at the 1952, 1956 and 1960 Olympics in the individual and team épée events. He competed at the Mediterranean Games in 1951, where he won a gold medal in the team épée event and a silver medal in the individual épée event, and in 1955, where he won a gold medal in the individual épée event and a silver in the team épée event.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Carlo_Pavesi.jpg/330px-Carlo_Pavesi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlo_Pavesi",
+  "dateOfBirth": "1923-06-10",
+  "birthDateParsed": "1923-06-10",
+  "dateOfDeath": "1995-03-24",
+  "deathDateParsed": "1995-03-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.9925",
+  "birthCoordinatesLng": "9.009166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "fencer"
+  ],
+  "qid": "Q1042374",
+  "birthPlace": "Voghera",
+  "fetchedAt": "2026-08-10T12:59:41.089Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "be15c7b1",
+  "wikipediaSlug": "John_Russell,_1st_Earl_Russell",
+  "wikipediaId": "Q157259",
+  "name": "John Russell, 1st Earl Russell",
+  "fullName": "John Russell, 1st Earl Russell",
+  "profileSummary": "John Russell, 1st Earl Russell, known as Lord John Russell before 1861, was a British Whig and Liberal statesman who was Prime Minister of the United Kingdom from 1846 to 1852 and again from 1865 to 1866.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/John_Russell%2C_1st_Earl_Russell_circa_1867.jpg/330px-John_Russell%2C_1st_Earl_Russell_circa_1867.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Russell%2C_1st_Earl_Russell",
+  "dateOfBirth": "1792-08-18",
+  "birthDateParsed": "1792-08-18",
+  "dateOfDeath": "1878-05-28",
+  "deathDateParsed": "1878-05-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.510277777",
+  "birthCoordinatesLng": "-0.147222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q157259",
+  "birthPlace": "Mayfair",
+  "fetchedAt": "2026-08-02T05:22:26.388Z"
+}

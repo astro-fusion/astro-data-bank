@@ -1,0 +1,34 @@
+{
+  "publicId": "36504560",
+  "wikipediaSlug": "Hubert_Humphrey",
+  "wikipediaId": "Q209989",
+  "name": "Hubert Humphrey",
+  "fullName": "Hubert Humphrey",
+  "profileSummary": "Hubert Horatio Humphrey Jr. was an American politician who served from 1965 to 1969 as the 38th vice president of the United States. He twice served in the United States Senate, representing Minnesota from 1949 to 1964 and from 1971 to 1978. As a senator, he was a major leader of modern liberalism in the United States. As President Lyndon B. Johnson's vice president, he supported the controversial Vietnam War. An intensely divided Democratic Party nominated him in the 1968 presidential election, which he lost to Republican nominee Richard Nixon.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hubert_Humphrey_vice_presidential_portrait.jpg/330px-Hubert_Humphrey_vice_presidential_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hubert_Humphrey",
+  "dateOfBirth": "1911-05-27",
+  "birthDateParsed": "1911-05-27",
+  "dateOfDeath": "1978-01-13",
+  "deathDateParsed": "1978-01-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.085",
+  "birthCoordinatesLng": "-97.478888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "pharmacist",
+    "trade unionist",
+    "mayor"
+  ],
+  "qid": "Q209989",
+  "birthPlace": "Wallace",
+  "fetchedAt": "2026-08-01T18:08:15.913Z"
+}

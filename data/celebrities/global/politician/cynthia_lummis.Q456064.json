@@ -1,0 +1,33 @@
+{
+  "publicId": "7c101f2e",
+  "wikipediaSlug": "Cynthia_Lummis",
+  "wikipediaId": "Q456064",
+  "name": "Cynthia Lummis",
+  "fullName": "Cynthia Lummis",
+  "profileSummary": "Cynthia Marie Lummis Wiederspahn is an American attorney and politician serving as the junior United States senator from Wyoming since 2021. A member of the Republican Party, Lummis served as the U.S. representative for Wyoming's at-large congressional district from 2009 to 2017. She served in the Wyoming House of Representatives from 1979 to 1983 and from 1985 to 1993, in the Wyoming Senate from 1993 to 1995, and as the Wyoming State Treasurer from 1999 to 2007.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cynthia_Lummis_U.S._Senator.jpg/330px-Cynthia_Lummis_U.S._Senator.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cynthia_Lummis",
+  "dateOfBirth": "1954-09-10",
+  "birthDateParsed": "1954-09-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.145555555",
+  "birthCoordinatesLng": "-104.801944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "rancher"
+  ],
+  "qid": "Q456064",
+  "birthPlace": "Cheyenne",
+  "fetchedAt": "2026-08-02T02:16:36.015Z"
+}

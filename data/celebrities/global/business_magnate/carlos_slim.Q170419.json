@@ -1,0 +1,39 @@
+{
+  "publicId": "bbf9eeb0",
+  "wikipediaSlug": "Carlos_Slim",
+  "wikipediaId": "Q170419",
+  "name": "Carlos Slim",
+  "fullName": "Carlos Slim",
+  "profileSummary": "Carlos Slim Helú is a Mexican business oligarch, investor and philanthropist. From 2010 to 2013, Slim was ranked as the richest person in the world by Forbes business magazine. He derived his fortune from his extensive holdings in a considerable number of Mexican companies through his conglomerate, Grupo Carso. As of July 2025, the Bloomberg Billionaires Index ranked him as the 18th-richest person in the world, with a net worth of US$99.1 billion, making him the richest person in Latin America.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carlos_Slim_%2845680472234%29_%28cropped%29.jpg/330px-Carlos_Slim_%2845680472234%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Slim",
+  "dateOfBirth": "1940-01-28",
+  "birthDateParsed": "1940-01-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "business magnate",
+    "philanthropist",
+    "investor",
+    "chief executive officer",
+    "computer scientist",
+    "civil engineer",
+    "entrepreneur",
+    "art collector",
+    "financier"
+  ],
+  "qid": "Q170419",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-04T03:33:58.784Z"
+}

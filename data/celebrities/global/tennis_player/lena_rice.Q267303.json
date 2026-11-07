@@ -1,0 +1,31 @@
+{
+  "publicId": "e0165315",
+  "wikipediaSlug": "Lena_Rice",
+  "wikipediaId": "Q267303",
+  "name": "Lena Rice",
+  "fullName": "Lena Rice",
+  "profileSummary": "Helena Bertha Grace Rice was an Irish tennis player who won the singles title at the 1890 Wimbledon Championships. She is the only female player from Ireland ever to win a singles title at Wimbledon.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lena_rice.jpg/330px-Lena_rice.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lena_Rice",
+  "dateOfBirth": "1866-06-21",
+  "birthDateParsed": "1866-06-21",
+  "dateOfDeath": "1907-06-21",
+  "deathDateParsed": "1907-06-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.440694444",
+  "birthCoordinatesLng": "-7.882361111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q267303",
+  "birthPlace": "New Inn",
+  "fetchedAt": "2026-08-01T15:00:01.826Z"
+}

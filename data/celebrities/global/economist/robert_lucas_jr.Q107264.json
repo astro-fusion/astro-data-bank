@@ -1,0 +1,31 @@
+{
+  "publicId": "7e2703e8",
+  "wikipediaSlug": "Robert_Lucas_Jr.",
+  "wikipediaId": "Q107264",
+  "name": "Robert Lucas Jr.",
+  "fullName": "Robert Lucas Jr.",
+  "profileSummary": "Robert Emerson Lucas Jr. was an American economist at the University of Chicago. Widely regarded as the central figure in the development of the new classical approach to macroeconomics, he received the Nobel Memorial Prize in Economic Sciences in 1995 \"for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy\". N. Gregory Mankiw characterized him as \"the most influential macroeconomist of the last quarter of the 20th century\". In 2020, he ranked as the 10th most cited economist in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/La_Revoluci%C3%B3n_Industrial_Pasado_y_Futuro%2C_Robert_E._Lucas_Jr._screenshot_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Lucas_Jr.",
+  "dateOfBirth": "1937-09-15",
+  "birthDateParsed": "1937-09-15",
+  "dateOfDeath": "2023-05-15",
+  "deathDateParsed": "2023-05-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.601944444",
+  "birthCoordinatesLng": "-120.507777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist"
+  ],
+  "qid": "Q107264",
+  "birthPlace": "Yakima",
+  "fetchedAt": "2026-08-10T09:43:58.981Z"
+}

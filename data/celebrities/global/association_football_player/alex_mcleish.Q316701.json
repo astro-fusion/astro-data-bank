@@ -1,0 +1,32 @@
+{
+  "publicId": "d39d75f9",
+  "wikipediaSlug": "Alex_McLeish",
+  "wikipediaId": "Q316701",
+  "name": "Alex McLeish",
+  "fullName": "Alex McLeish",
+  "profileSummary": "Alexander McLeish is a Scottish professional football manager and former player. He played as a defender for Aberdeen during their 1980s glory years, making nearly 500 League appearances for the club, and won 77 caps for Scotland.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Alexmcleish2012.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_McLeish",
+  "dateOfBirth": "1959-01-21",
+  "birthDateParsed": "1959-01-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q316701",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-01T05:19:25.896Z"
+}

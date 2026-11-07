@@ -1,0 +1,36 @@
+{
+  "publicId": "8016f25d",
+  "wikipediaSlug": "Kenneth_Arrow",
+  "wikipediaId": "Q192592",
+  "name": "Kenneth Arrow",
+  "fullName": "Kenneth Arrow",
+  "profileSummary": "Kenneth Joseph Arrow was an American economist, mathematician and political theorist. He received the John Bates Clark Medal in 1957, and the Nobel Memorial Prize in Economic Sciences in 1972, along with John Hicks.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kenneth_Arrow%2C_Stanford_University.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenneth_Arrow",
+  "dateOfBirth": "1921-08-23",
+  "birthDateParsed": "1921-08-23",
+  "dateOfDeath": "2017-02-21",
+  "deathDateParsed": "2017-02-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician",
+    "teacher",
+    "political scientist",
+    "writer",
+    "university teacher"
+  ],
+  "qid": "Q192592",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T09:43:32.182Z"
+}

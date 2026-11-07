@@ -1,0 +1,34 @@
+{
+  "publicId": "cdc9a5cd",
+  "wikipediaSlug": "George_IV",
+  "wikipediaId": "Q130586",
+  "name": "George IV",
+  "fullName": "George IV",
+  "profileSummary": "George IV was King of the United Kingdom of Great Britain and Ireland and King of Hanover from 29 January 1820 until his death in 1830. At the time of his accession to the throne, he was acting as prince regent for his father, King George III, having done so since 5 February 1811 during his father's final mental illness.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/King_George_IV_of_the_United_Kingdom_in_Coronation_Robes_%28by_Thomas_Lawrence%29_-_Royal_Collection_%28RCIN_405918%29.jpg/330px-King_George_IV_of_the_United_Kingdom_in_Coronation_Robes_%28by_Thomas_Lawrence%29_-_Royal_Collection_%28RCIN_405918%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_IV",
+  "dateOfBirth": "1762-08-12",
+  "birthDateParsed": "1762-08-12",
+  "dateOfDeath": "1830-06-26",
+  "deathDateParsed": "1830-06-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.504722222",
+  "birthCoordinatesLng": "-0.137777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "art collector",
+    "patron of the arts",
+    "ruler",
+    "politician"
+  ],
+  "qid": "Q130586",
+  "birthPlace": "St James's Palace",
+  "fetchedAt": "2026-08-02T05:22:06.913Z"
+}

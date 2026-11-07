@@ -1,0 +1,33 @@
+{
+  "publicId": "33e17f70",
+  "wikipediaSlug": "John_Curtis",
+  "wikipediaId": "Q6253810",
+  "name": "John Curtis",
+  "fullName": "John Curtis",
+  "profileSummary": "John Ream Curtis is an American politician serving since 2025 as the junior United States senator from Utah. A member of the Republican Party, Curtis served from 2017 to 2025 as the U.S. representative for Utah's 3rd congressional district and from 2010 to 2017 as the 44th mayor of Provo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/John_Curtis%2C_official_portrait_%282026%29.jpg/330px-John_Curtis%2C_official_portrait_%282026%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Curtis",
+  "dateOfBirth": "1960-05-10",
+  "birthDateParsed": "1960-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.227777777",
+  "birthCoordinatesLng": "-111.961111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "salesperson",
+    "business executive"
+  ],
+  "qid": "Q6253810",
+  "birthPlace": "Ogden",
+  "fetchedAt": "2026-08-02T02:17:15.354Z"
+}

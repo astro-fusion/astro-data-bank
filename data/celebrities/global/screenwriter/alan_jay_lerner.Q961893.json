@@ -1,0 +1,38 @@
+{
+  "publicId": "e515c784",
+  "wikipediaSlug": "Alan_Jay_Lerner",
+  "wikipediaId": "Q961893",
+  "name": "Alan Jay Lerner",
+  "fullName": "Alan Jay Lerner",
+  "profileSummary": "Alan Jay Lerner was an American lyricist and librettist. In collaboration with Frederick Loewe, and later Burton Lane, he created some of the world's most popular and enduring works of musical theatre both for the stage and on film. Lerner won three Tony Awards and three Academy Awards, among other honors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alan_Jay_Lerner_%281962%29.jpg/330px-Alan_Jay_Lerner_%281962%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Jay_Lerner",
+  "dateOfBirth": "1918-08-31",
+  "birthDateParsed": "1918-08-31",
+  "dateOfDeath": "1986-06-14",
+  "deathDateParsed": "1986-06-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "librettist",
+    "writer",
+    "biographer",
+    "lyricist",
+    "songwriter",
+    "film producer",
+    "playwright"
+  ],
+  "qid": "Q961893",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-05T02:42:01.642Z"
+}

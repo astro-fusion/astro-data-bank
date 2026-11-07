@@ -1,0 +1,31 @@
+{
+  "publicId": "0fb903f8",
+  "wikipediaSlug": "François_Blanchy",
+  "wikipediaId": "Q723927",
+  "name": "François Blanchy",
+  "fullName": "François Blanchy",
+  "profileSummary": "François Joseph Marie Antoine Blanchy was a tennis player competing for France. He competed at the 1912 Summer Olympics and the 1920 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/16-6-23%2C_championnat_de_France_%28de_tennis%29%2C_Blanchy_%28vainqueur%29_-_%28photographie_de_presse%29_-_%28Agence_Rol%29.png/330px-16-6-23%2C_championnat_de_France_%28de_tennis%29%2C_Blanchy_%28vainqueur%29_-_%28photographie_de_presse%29_-_%28Agence_Rol%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Blanchy",
+  "dateOfBirth": "1886-12-12",
+  "birthDateParsed": "1886-12-12",
+  "dateOfDeath": "1960-10-02",
+  "deathDateParsed": "1960-10-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.837777777",
+  "birthCoordinatesLng": "-0.579444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q723927",
+  "birthPlace": "Bordeaux",
+  "fetchedAt": "2026-08-01T13:11:06.404Z"
+}

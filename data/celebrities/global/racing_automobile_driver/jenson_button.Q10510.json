@@ -1,0 +1,33 @@
+{
+  "publicId": "9ee7c37f",
+  "wikipediaSlug": "Jenson_Button",
+  "wikipediaId": "Q10510",
+  "name": "Jenson Button",
+  "fullName": "Jenson Button",
+  "profileSummary": "Jenson Alexander Lyons Button is a British former racing driver who competed in Formula One from 2000 to 2017. Button won the Formula One World Drivers' Championship in 2009 with Brawn, and won 15 Grands Prix across 18 seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Jenson_Button_2024_WEC_Fuji.jpg/330px-Jenson_Button_2024_WEC_Fuji.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jenson_Button",
+  "dateOfBirth": "1980-01-19",
+  "birthDateParsed": "1980-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.2279",
+  "birthCoordinatesLng": "-2.3215",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing automobile driver",
+    "autobiographer",
+    "Formula One driver"
+  ],
+  "qid": "Q10510",
+  "birthPlace": "Frome",
+  "fetchedAt": "2026-08-01T16:01:44.556Z"
+}

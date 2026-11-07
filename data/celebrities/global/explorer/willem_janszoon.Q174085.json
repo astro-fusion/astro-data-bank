@@ -1,0 +1,35 @@
+{
+  "publicId": "a5da0aa8",
+  "wikipediaSlug": "Willem_Janszoon",
+  "wikipediaId": "Q174085",
+  "name": "Willem Janszoon",
+  "fullName": "Willem Janszoon",
+  "profileSummary": "Willem Janszoon was a Dutch navigator and colonial governor. He served in the Dutch East Indies in the periods 1603–1611 and 1612–1616, including as governor of Fort Henricus on the island of Solor. During his voyage of 1605–1606, Janszoon and his crew became the first Europeans known to have seen and land on the coast of Australia.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Willem_Janszoon",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.366666666",
+  "birthCoordinatesLng": "4.883333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "colonial administrator",
+    "navigator",
+    "map drawer",
+    "seafarer"
+  ],
+  "qid": "Q174085",
+  "birthPlace": "Amsterdam",
+  "fetchedAt": "2026-08-06T01:38:16.947Z"
+}

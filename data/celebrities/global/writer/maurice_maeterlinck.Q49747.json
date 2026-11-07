@@ -1,0 +1,39 @@
+{
+  "publicId": "c80b91b9",
+  "wikipediaSlug": "Maurice_Maeterlinck",
+  "wikipediaId": "Q49747",
+  "name": "Maurice Maeterlinck",
+  "fullName": "Maurice Maeterlinck",
+  "profileSummary": "Maurice Polydore Marie Bernard Maeterlinck, also known as Count/Comte Maeterlinck from 1932, was a Belgian playwright, poet, and essayist who was Flemish but wrote in French. He was awarded the Nobel Prize in Literature in 1911 \"in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations\". The main themes in his work are death and the meaning of life. He was a leading member of the group La Jeune Belgique, and his plays form an important part of the Symbolist movement. In later life, Maeterlinck faced credible accusations of plagiarism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maurice_Maeterlinck_2.jpg/330px-Maurice_Maeterlinck_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Maeterlinck",
+  "dateOfBirth": "1862-08-29",
+  "birthDateParsed": "1862-08-29",
+  "dateOfDeath": "1949-05-06",
+  "deathDateParsed": "1949-05-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.053611111",
+  "birthCoordinatesLng": "3.725277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "philosopher",
+    "essayist",
+    "playwright",
+    "librettist",
+    "translator",
+    "jurist",
+    "natural philosopher"
+  ],
+  "qid": "Q49747",
+  "birthPlace": "Ghent",
+  "fetchedAt": "2026-08-06T07:42:10.958Z"
+}

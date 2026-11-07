@@ -1,0 +1,31 @@
+{
+  "publicId": "8d78e392",
+  "wikipediaSlug": "Bob_Dadae",
+  "wikipediaId": "Q28647870",
+  "name": "Bob Dadae",
+  "fullName": "Bob Dadae",
+  "profileSummary": "Sir Bob Bofeng Dadae is a Papua New Guinean politician currently serving as the tenth governor-general of Papua New Guinea since 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sir_Bob_Dadae_%28cropped%29.jpg/330px-Sir_Bob_Dadae_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Dadae",
+  "dateOfBirth": "1961-03-08",
+  "birthDateParsed": "1961-03-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-6.401",
+  "birthCoordinatesLng": "147.364",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q28647870",
+  "birthPlace": "Kabwum District",
+  "fetchedAt": "2026-08-03T16:50:11.943Z"
+}

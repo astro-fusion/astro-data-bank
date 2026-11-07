@@ -1,0 +1,31 @@
+{
+  "publicId": "f1443fc1",
+  "wikipediaSlug": "Charles_Koch",
+  "wikipediaId": "Q1066551",
+  "name": "Charles Koch",
+  "fullName": "Charles Koch",
+  "profileSummary": "Charles de Ganahl Koch is an American businessman, engineer, and philanthropist. As of May 2025, he is ranked as the 22nd richest man in the world on the Bloomberg Billionaires Index, with an estimated net worth of US$71.4 billion. Koch has been co-owner, chairman, and chief executive officer of Koch Industries since 1967, while his late brother David Koch served as executive vice president. Charles and David each owned 42% of the conglomerate. The brothers inherited the business from their father, Fred C. Koch, then expanded the business. Koch Industries is the largest privately held company by revenue in the United States, according to Forbes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Charles_Koch_portrait_%28cropped%29.jpg/330px-Charles_Koch_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Koch",
+  "dateOfBirth": "1935-11-01",
+  "birthDateParsed": "1935-11-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.688888888",
+  "birthCoordinatesLng": "-97.336111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q1066551",
+  "birthPlace": "Wichita",
+  "fetchedAt": "2026-08-05T03:16:30.850Z"
+}

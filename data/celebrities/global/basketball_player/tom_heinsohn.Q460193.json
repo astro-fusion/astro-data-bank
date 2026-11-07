@@ -1,0 +1,34 @@
+{
+  "publicId": "e8f27f05",
+  "wikipediaSlug": "Tom_Heinsohn",
+  "wikipediaId": "Q460193",
+  "name": "Tom Heinsohn",
+  "fullName": "Tom Heinsohn",
+  "profileSummary": "Thomas William Heinsohn was an American professional basketball player, coach, and broadcaster. He was associated with the Boston Celtics of the National Basketball Association (NBA) for six decades as a player, coach and broadcaster. He played for the Celtics from 1956 to 1965, and also coached the team from 1969 to 1978. He spent over 30 years as the color commentator for the Celtics' local broadcasts alongside play-by-play commentator Mike Gorman. He is regarded as one of the most iconic Celtics figures in the franchise's history, known during his lifetime for his charisma and loyalty to the team and its traditions. From this, he earned the nickname \"Mr. Celtic\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tom_heinsohn_press_photo_1970.jpg/330px-Tom_heinsohn_press_photo_1970.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Heinsohn",
+  "dateOfBirth": "1934-08-26",
+  "birthDateParsed": "1934-08-26",
+  "dateOfDeath": "2020-11-09",
+  "deathDateParsed": "2020-11-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.71",
+  "birthCoordinatesLng": "-74.06",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "sports commentator",
+    "athlete"
+  ],
+  "qid": "Q460193",
+  "birthPlace": "Jersey City",
+  "fetchedAt": "2026-08-01T15:38:19.079Z"
+}

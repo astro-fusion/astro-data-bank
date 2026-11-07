@@ -1,0 +1,33 @@
+{
+  "publicId": "219faae9",
+  "wikipediaSlug": "Albert_A._Michelson",
+  "wikipediaId": "Q127234",
+  "name": "Albert A. Michelson",
+  "fullName": "Albert A. Michelson",
+  "profileSummary": "Albert Abraham Michelson was an American experimental physicist known for his work on measuring the speed of light and especially for the Michelson–Morley experiment. In 1907, he received the Nobel Prize in Physics, becoming the first American to win the Nobel Prize in a science. He was the founder and the first head of the physics departments of the Case School of Applied Science and the University of Chicago.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Albert_Abraham_Michelson2.jpg/330px-Albert_Abraham_Michelson2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_A._Michelson",
+  "dateOfBirth": "1852-12-19",
+  "birthDateParsed": "1852-12-19",
+  "dateOfDeath": "1931-05-09",
+  "deathDateParsed": "1931-05-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.629444444",
+  "birthCoordinatesLng": "18.17",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "military officer",
+    "university teacher"
+  ],
+  "qid": "Q127234",
+  "birthPlace": "Strzelno",
+  "fetchedAt": "2026-08-06T05:00:54.098Z"
+}

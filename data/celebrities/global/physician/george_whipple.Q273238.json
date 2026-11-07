@@ -1,0 +1,32 @@
+{
+  "publicId": "db61e4bb",
+  "wikipediaSlug": "George_Whipple",
+  "wikipediaId": "Q273238",
+  "name": "George Whipple",
+  "fullName": "George Whipple",
+  "profileSummary": "George Hoyt Whipple was an American physician, pathologist, biomedical researcher, and medical school educator and administrator. Whipple shared the Nobel Prize in Physiology or Medicine in 1934 with George Richards Minot and William Parry Murphy \"for their discoveries concerning liver therapy in cases of anemia\". This makes Whipple the first of several Nobel laureates affiliated with the University of Rochester.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/George_Whipple_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Whipple",
+  "dateOfBirth": "1878-08-28",
+  "birthDateParsed": "1878-08-28",
+  "dateOfDeath": "1976-02-01",
+  "deathDateParsed": "1976-02-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.695",
+  "birthCoordinatesLng": "-71.631666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "pathologist"
+  ],
+  "qid": "Q273238",
+  "birthPlace": "Ashland",
+  "fetchedAt": "2026-08-10T03:15:14.084Z"
+}

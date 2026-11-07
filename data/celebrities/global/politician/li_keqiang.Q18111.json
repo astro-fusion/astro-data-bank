@@ -1,0 +1,32 @@
+{
+  "publicId": "7a5f6591",
+  "wikipediaSlug": "Li_Keqiang",
+  "wikipediaId": "Q18111",
+  "name": "Li Keqiang",
+  "fullName": "Li Keqiang",
+  "profileSummary": "Li Keqiang was a Chinese politician and economist who served as premier of China from 2013 to 2023 and was the second-ranking member of the Chinese Communist Party (CCP)'s Politburo Standing Committee from 2012 to 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Li_Keqiang_at_EU_%28cropped%29.jpg/330px-Li_Keqiang_at_EU_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Keqiang",
+  "dateOfBirth": "1955-07-01",
+  "birthDateParsed": "1955-07-01",
+  "dateOfDeath": "2023-10-27",
+  "deathDateParsed": "2023-10-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.86389",
+  "birthCoordinatesLng": "117.28083",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist"
+  ],
+  "qid": "Q18111",
+  "birthPlace": "Hefei",
+  "fetchedAt": "2026-08-03T15:52:29.341Z"
+}

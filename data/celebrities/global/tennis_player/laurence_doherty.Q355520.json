@@ -1,0 +1,31 @@
+{
+  "publicId": "69bf3241",
+  "wikipediaSlug": "Laurence_Doherty",
+  "wikipediaId": "Q355520",
+  "name": "Laurence Doherty",
+  "fullName": "Laurence Doherty",
+  "profileSummary": "Hugh Laurence Doherty was a British tennis player and the younger brother of tennis player Reginald Doherty. He was a six-time Grand Slam champion and a double Olympic Gold medalist at the 1900 Summer Olympics in singles and doubles. In 1903 he became the first non-American player to win the U.S. National Championships.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hugh_Lawrence_Doherty.jpg/330px-Hugh_Lawrence_Doherty.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laurence_Doherty",
+  "dateOfBirth": "1875-10-08",
+  "birthDateParsed": "1875-10-08",
+  "dateOfDeath": "1919-08-21",
+  "deathDateParsed": "1919-08-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4235",
+  "birthCoordinatesLng": "-0.2171",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q355520",
+  "birthPlace": "Wimbledon",
+  "fetchedAt": "2026-08-01T13:12:28.649Z"
+}

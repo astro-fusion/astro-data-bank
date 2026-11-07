@@ -1,0 +1,31 @@
+{
+  "publicId": "118cd635",
+  "wikipediaSlug": "John_Baird,_1st_Viscount_Stonehaven",
+  "wikipediaId": "Q334198",
+  "name": "John Baird, 1st Viscount Stonehaven",
+  "fullName": "John Baird, 1st Viscount Stonehaven",
+  "profileSummary": "John Lawrence Baird, 1st Viscount Stonehaven was a British politician who served as the eighth governor-general of Australia, in office from 1925 to 1930. He had previously been a government minister under David Lloyd George, Bonar Law, and Stanley Baldwin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Viscount_Stonehave.jpg/330px-Viscount_Stonehave.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Baird%2C_1st_Viscount_Stonehaven",
+  "dateOfBirth": "1874-04-27",
+  "birthDateParsed": "1874-04-27",
+  "dateOfDeath": "1941-08-20",
+  "deathDateParsed": "1941-08-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4875",
+  "birthCoordinatesLng": "-0.1684",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q334198",
+  "birthPlace": "Chelsea",
+  "fetchedAt": "2026-08-03T12:58:37.124Z"
+}

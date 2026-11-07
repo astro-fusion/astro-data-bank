@@ -1,0 +1,31 @@
+{
+  "publicId": "dea6b642",
+  "wikipediaSlug": "Frank_Sedgman",
+  "wikipediaId": "Q962049",
+  "name": "Frank Sedgman",
+  "fullName": "Frank Sedgman",
+  "profileSummary": "Francis Arthur Sedgman is an Australian former world No. 1 tennis player. Over the course of a three-decade career, Sedgman won five Grand Slam singles tournaments as an amateur as well as 9 Grand Slam doubles tournaments. He is one of only five tennis players all-time to win multiple career Grand Slams in two disciplines, alongside Margaret Court, Roy Emerson, Martina Navratilova and Serena Williams. In 1951, he and Ken McGregor won the Grand Slam in men's doubles. Sedgman turned professional in 1953, and won the Wembley World Professional Indoor singles title in 1953 and 1958. He also won the Sydney Masters tournament in 1958, and the Melbourne Professional singles title in 1959. He won the Grand Prix de Europe Professional Tour in 1959.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frank_Sedgman.jpg/330px-Frank_Sedgman.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Sedgman",
+  "dateOfBirth": "1927-10-29",
+  "birthDateParsed": "1927-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.816111111",
+  "birthCoordinatesLng": "145.11",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q962049",
+  "birthPlace": "Mont Albert",
+  "fetchedAt": "2026-08-01T13:11:32.396Z"
+}

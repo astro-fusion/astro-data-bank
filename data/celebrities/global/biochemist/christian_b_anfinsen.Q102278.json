@@ -1,0 +1,34 @@
+{
+  "publicId": "8018cc9a",
+  "wikipediaSlug": "Christian_B._Anfinsen",
+  "wikipediaId": "Q102278",
+  "name": "Christian B. Anfinsen",
+  "fullName": "Christian B. Anfinsen",
+  "profileSummary": "Christian Boehmer Anfinsen Jr. was an American biochemist. He shared the 1972 Nobel Prize in Chemistry with Stanford Moore and William Howard Stein for work on ribonuclease, especially concerning the connection between the amino acid sequence and the biologically active conformation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Christian_B._Anfinsen%2C_NIH_portrait%2C_1969.jpg/330px-Christian_B._Anfinsen%2C_NIH_portrait%2C_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_B._Anfinsen",
+  "dateOfBirth": "1916-03-26",
+  "birthDateParsed": "1916-03-26",
+  "dateOfDeath": "1995-05-14",
+  "deathDateParsed": "1995-05-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.1542",
+  "birthCoordinatesLng": "-79.8828",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "university teacher",
+    "biophysicist"
+  ],
+  "qid": "Q102278",
+  "birthPlace": "Monessen",
+  "fetchedAt": "2026-08-10T02:03:39.502Z"
+}

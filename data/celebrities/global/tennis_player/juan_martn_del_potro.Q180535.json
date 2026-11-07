@@ -1,0 +1,31 @@
+{
+  "publicId": "a298b702",
+  "wikipediaSlug": "Juan_Martín_del_Potro",
+  "wikipediaId": "Q180535",
+  "name": "Juan Martín del Potro",
+  "fullName": "Juan Martín del Potro",
+  "profileSummary": "Juan Martín del Potro is an Argentine former professional tennis player. He was ranked world No. 3 in men's singles by the Association of Tennis Professionals (ATP), in August 2018. Del Potro won 22 ATP Tour-level singles titles, including a major at the 2009 US Open, where he defeated Rafael Nadal and the five-time defending champion Roger Federer en route. Del Potro's other career highlights include storming to the 2018 US Open final, winning an Olympic silver medal at the 2016 Rio Olympics and a bronze medal at the 2012 London Olympics, winning Indian Wells in 2018, and leading Argentina to the 2016 Davis Cup title. Notably, his career was hampered by a succession of wrist and knee injuries.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Del_Potro_en_Indian_Wells_2018.jpg/330px-Del_Potro_en_Indian_Wells_2018.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Mart%C3%ADn_del_Potro",
+  "dateOfBirth": "1988-09-23",
+  "birthDateParsed": "1988-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.316666666",
+  "birthCoordinatesLng": "-59.133333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q180535",
+  "birthPlace": "Tandil",
+  "fetchedAt": "2026-08-01T13:12:09.336Z"
+}

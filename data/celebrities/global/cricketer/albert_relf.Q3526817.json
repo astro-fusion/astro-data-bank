@@ -1,0 +1,31 @@
+{
+  "publicId": "69e5b322",
+  "wikipediaSlug": "Albert_Relf",
+  "wikipediaId": "Q3526817",
+  "name": "Albert Relf",
+  "fullName": "Albert Relf",
+  "profileSummary": "Albert Edward Relf was a professional cricketer who played for Sussex and England.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Albert_Relf_c1905.jpg/330px-Albert_Relf_c1905.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Relf",
+  "dateOfBirth": "1874-06-26",
+  "birthDateParsed": "1874-06-26",
+  "dateOfDeath": "1937-03-26",
+  "deathDateParsed": "1937-03-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51",
+  "birthCoordinatesLng": "0.39",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526817",
+  "birthPlace": "Burwash",
+  "fetchedAt": "2026-07-31T20:08:20.081Z"
+}

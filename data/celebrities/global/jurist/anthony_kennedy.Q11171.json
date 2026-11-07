@@ -1,0 +1,35 @@
+{
+  "publicId": "d2786763",
+  "wikipediaSlug": "Anthony_Kennedy",
+  "wikipediaId": "Q11171",
+  "name": "Anthony Kennedy",
+  "fullName": "Anthony Kennedy",
+  "profileSummary": "Anthony McLeod Kennedy is an American lawyer who served as an associate justice of the Supreme Court of the United States from 1988 until his retirement in 2018. He was nominated to the court in 1987 by President Ronald Reagan, and sworn in on February 18, 1988. After the retirement of Sandra Day O'Connor in 2006, he was considered the swing vote on many of the Roberts Court's 5–4 decisions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Anthony_Kennedy_official_SCOTUS_portrait.jpg/330px-Anthony_Kennedy_official_SCOTUS_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Kennedy",
+  "dateOfBirth": "1936-07-23",
+  "birthDateParsed": "1936-07-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.575277777",
+  "birthCoordinatesLng": "-121.486111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jurist",
+    "judge",
+    "lawyer",
+    "university teacher",
+    "politician"
+  ],
+  "qid": "Q11171",
+  "birthPlace": "Sacramento",
+  "fetchedAt": "2026-08-05T02:43:23.321Z"
+}

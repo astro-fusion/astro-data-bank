@@ -1,0 +1,33 @@
+{
+  "publicId": "aca623ac",
+  "wikipediaSlug": "Damon_Hill",
+  "wikipediaId": "Q10505",
+  "name": "Damon Hill",
+  "fullName": "Damon Hill",
+  "profileSummary": "Damon Graham Devereux Hill is a British former racing driver and broadcaster, who competed in Formula One from 1992 to 1999. Hill won the Formula One World Drivers' Championship in 1996 with Williams, and won 22 Grands Prix across eight seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Damon_Hill_at_the_Atlassian_Williams_Racing_Fan_Zone_of_2026_%28028A8241%29.jpg/330px-Damon_Hill_at_the_Atlassian_Williams_Racing_Fan_Zone_of_2026_%28028A8241%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Damon_Hill",
+  "dateOfBirth": "1960-09-17",
+  "birthDateParsed": "1960-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5541",
+  "birthCoordinatesLng": "-0.1744",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "businessperson",
+    "guitarist"
+  ],
+  "qid": "Q10505",
+  "birthPlace": "Hampstead",
+  "fetchedAt": "2026-08-01T16:01:19.707Z"
+}

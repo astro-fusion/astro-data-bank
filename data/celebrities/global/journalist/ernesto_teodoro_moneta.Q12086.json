@@ -1,0 +1,34 @@
+{
+  "publicId": "c2ef9384",
+  "wikipediaSlug": "Ernesto_Teodoro_Moneta",
+  "wikipediaId": "Q12086",
+  "name": "Ernesto Teodoro Moneta",
+  "fullName": "Ernesto Teodoro Moneta",
+  "profileSummary": "Ernesto Teodoro Moneta was an Italian journalist, nationalist, revolutionary soldier and later a pacifist and Nobel Peace Prize Laureate. He adopted the motto In varietate unitas! which later inspired the motto of the European Union.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ernesto_Teodoro_Moneta.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernesto_Teodoro_Moneta",
+  "dateOfBirth": "1833-09-20",
+  "birthDateParsed": "1833-09-20",
+  "dateOfDeath": "1918-01-30",
+  "deathDateParsed": "1918-01-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.466944444",
+  "birthCoordinatesLng": "9.19",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "writer",
+    "military personnel",
+    "pacifist"
+  ],
+  "qid": "Q12086",
+  "birthPlace": "Milan",
+  "fetchedAt": "2026-08-04T02:13:02.999Z"
+}

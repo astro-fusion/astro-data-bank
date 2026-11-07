@@ -1,0 +1,35 @@
+{
+  "publicId": "9c24c0bf",
+  "wikipediaSlug": "Bashar_al-Assad",
+  "wikipediaId": "Q44329",
+  "name": "Bashar al-Assad",
+  "fullName": "Bashar al-Assad",
+  "profileSummary": "Bashar Hafez al-Assad is a former Syrian politician, medical doctor, and military officer who served as the president of Syria from 2000 until his overthrow in 2024 after the Syrian civil war. As president, Assad was commander-in-chief of the Syrian Arab Armed Forces and secretary-general of the Central Command of the Arab Socialist Ba'ath Party. He is the son of Hafez al-Assad, who ruled Syria from 1970 to 2000.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bashar_al-Assad_%282018-05-17%29_02_%28cropped%29.jpg/330px-Bashar_al-Assad_%282018-05-17%29_02_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bashar_al-Assad",
+  "dateOfBirth": "1965-09-11",
+  "birthDateParsed": "1965-09-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.513055555",
+  "birthCoordinatesLng": "36.291944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "statesperson",
+    "ophthalmologist",
+    "military leader",
+    "politician",
+    "military physician"
+  ],
+  "qid": "Q44329",
+  "birthPlace": "Damascus",
+  "fetchedAt": "2026-08-03T15:51:48.362Z"
+}

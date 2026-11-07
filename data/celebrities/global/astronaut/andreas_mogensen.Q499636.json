@@ -1,0 +1,31 @@
+{
+  "publicId": "2628ae47",
+  "wikipediaSlug": "Andreas_Mogensen",
+  "wikipediaId": "Q499636",
+  "name": "Andreas Mogensen",
+  "fullName": "Andreas Mogensen",
+  "profileSummary": "Andreas Enevold \"Andy\" Mogensen is a Danish engineer and ESA astronaut who is best known for being the first Dane to fly in space as part of the European Space Agency's Iriss program. Mogensen has also been involved in a number of other space-related projects throughout his career, including working as a test engineer for ESTEC and as a member of the European Astronaut Corps. In addition to his work with ESA, he has also worked with NASA and other international space agencies. He returned to space in August 2023 for his second spaceflight to the ISS onboard SpaceX Crew Dragon as the first non-American to serve as a pilot. He is the current head of the European Astronaut Corps, taking over duties from Frank De Winne in 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Andreas_Mogensen_official_portrait.jpg/330px-Andreas_Mogensen_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Mogensen",
+  "dateOfBirth": "1976-11-02",
+  "birthDateParsed": "1976-11-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.676111111",
+  "birthCoordinatesLng": "12.568888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut"
+  ],
+  "qid": "Q499636",
+  "birthPlace": "Copenhagen",
+  "fetchedAt": "2026-08-10T06:03:23.300Z"
+}

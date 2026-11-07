@@ -1,0 +1,32 @@
+{
+  "publicId": "51108d9b",
+  "wikipediaSlug": "George_Smith_(chemist)",
+  "wikipediaId": "Q56868017",
+  "name": "George Smith (chemist)",
+  "fullName": "George Smith (chemist)",
+  "profileSummary": "George Pearson Smith is an American biologist and Nobel laureate. He is a Curators' Distinguished Professor Emeritus of Biological Sciences at the University of Missouri in Columbia, Missouri, US.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/George_Smith_EM1B5849_%2831295409687%29.jpg/330px-George_Smith_EM1B5849_%2831295409687%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Smith_(chemist)",
+  "dateOfBirth": "1941-03-10",
+  "birthDateParsed": "1941-03-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.093888888",
+  "birthCoordinatesLng": "-73.419722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "biochemist"
+  ],
+  "qid": "Q56868017",
+  "birthPlace": "Norwalk",
+  "fetchedAt": "2026-08-10T02:04:18.526Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "9acc54ec",
+  "wikipediaSlug": "Diego_Brandão",
+  "wikipediaId": "Q5274592",
+  "name": "Diego Brandão",
+  "fullName": "Diego Brandão",
+  "profileSummary": "Diego Brandão is a Brazilian mixed martial artist currently competing in the Lightweight division. A professional since 2005, he formerly competed for the UFC, RIZIN, and Fight Nights Global. He was the winner of Spike TV's The Ultimate Fighter: Team Bisping vs. Team Miller.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Diego_Brandao_BJJ.png/330px-Diego_Brandao_BJJ.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Brand%C3%A3o",
+  "dateOfBirth": "1987-05-27",
+  "birthDateParsed": "1987-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-3.7275",
+  "birthCoordinatesLng": "-38.5275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "Brazilian jiu-jitsu practitioner"
+  ],
+  "qid": "Q5274592",
+  "birthPlace": "Fortaleza",
+  "fetchedAt": "2026-08-01T17:05:15.037Z"
+}

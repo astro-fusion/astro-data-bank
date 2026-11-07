@@ -1,0 +1,31 @@
+{
+  "publicId": "884b6f63",
+  "wikipediaSlug": "Arthur_Hamilton-Gordon,_1st_Baron_Stanmore",
+  "wikipediaId": "Q335510",
+  "name": "Arthur Hamilton-Gordon, 1st Baron Stanmore",
+  "fullName": "Arthur Hamilton-Gordon, 1st Baron Stanmore",
+  "profileSummary": "Arthur Charles Hamilton-Gordon, 1st Baron Stanmore was a Scottish Liberal Party politician and colonial administrator. He had extensive contact with Prime Minister William Ewart Gladstone.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sir_Arthur_Hamilton_Gordon.jpg/330px-Sir_Arthur_Hamilton_Gordon.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Hamilton-Gordon%2C_1st_Baron_Stanmore",
+  "dateOfBirth": "1829-11-26",
+  "birthDateParsed": "1829-11-26",
+  "dateOfDeath": "1912-01-30",
+  "deathDateParsed": "1912-01-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q335510",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-07T04:26:39.859Z"
+}

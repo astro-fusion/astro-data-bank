@@ -1,0 +1,33 @@
+{
+  "publicId": "6b585a92",
+  "wikipediaSlug": "Martti_Ahtisaari",
+  "wikipediaId": "Q29230",
+  "name": "Martti Ahtisaari",
+  "fullName": "Martti Ahtisaari",
+  "profileSummary": "Martti Oiva Kalevi Ahtisaari was a Finnish politician and diplomat who was the president of Finland from 1994 to 2000. He was Finland's Ambassador to Tanzania from 1973 to 1977 and United Nations Commissioner for Namibia from 1977 to 1981. Noted for his international peace work, he received the Nobel Peace Prize in 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Martti_Ahtisaari_M%C3%A4ntyniemess%C3%A4_%28cropped%29.jpg/330px-Martti_Ahtisaari_M%C3%A4ntyniemess%C3%A4_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Martti_Ahtisaari",
+  "dateOfBirth": "1937-06-23",
+  "birthDateParsed": "1937-06-23",
+  "dateOfDeath": "2023-10-16",
+  "deathDateParsed": "2023-10-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.710555555",
+  "birthCoordinatesLng": "28.749722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "teacher"
+  ],
+  "qid": "Q29230",
+  "birthPlace": "Vyborg",
+  "fetchedAt": "2026-08-04T02:13:47.616Z"
+}

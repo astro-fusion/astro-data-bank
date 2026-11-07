@@ -1,0 +1,35 @@
+{
+  "publicId": "918542fe",
+  "wikipediaSlug": "Aharon_Lichtenstein",
+  "wikipediaId": "Q2910768",
+  "name": "Aharon Lichtenstein",
+  "fullName": "Aharon Lichtenstein",
+  "profileSummary": "Aharon Lichtenstein was an Orthodox rabbi, Israel Prize laureate and rosh yeshiva who was an authority in Jewish law (Halakha).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D7%A8%D7%91_%D7%9C%D7%99%D7%9B%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F_%D7%91%D7%94%D7%9B%D7%AA%D7%A8%D7%94_%D7%A9%D7%9C_%D7%A8%D7%91_%D7%9E%D7%A9%D7%94.jpg/330px-%D7%A8%D7%91_%D7%9C%D7%99%D7%9B%D7%98%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F_%D7%91%D7%94%D7%9B%D7%AA%D7%A8%D7%94_%D7%A9%D7%9C_%D7%A8%D7%91_%D7%9E%D7%A9%D7%94.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aharon_Lichtenstein",
+  "dateOfBirth": "1933-04-23",
+  "birthDateParsed": "1933-04-23",
+  "dateOfDeath": "2015-04-20",
+  "deathDateParsed": "2015-04-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.840808333",
+  "birthCoordinatesLng": "2.388183333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rabbi",
+    "rosh yeshiva",
+    "teacher",
+    "university teacher",
+    "talmudist"
+  ],
+  "qid": "Q2910768",
+  "birthPlace": "12th arrondissement of Paris",
+  "fetchedAt": "2026-08-05T02:42:22.245Z"
+}

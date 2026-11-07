@@ -1,0 +1,31 @@
+{
+  "publicId": "81ba4ada",
+  "wikipediaSlug": "Charlie_Butt",
+  "wikipediaId": "Q5084633",
+  "name": "Charlie Butt",
+  "fullName": "Charlie Butt",
+  "profileSummary": "Charles Stahley Butt Jr. (1919–1992) was a high school rowing coach in Northern Virginia, United States, who was also involved in promoting the growth of school rowing in the Washington D.C. area and the United States.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Butt",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rowing coach"
+  ],
+  "qid": "Q5084633",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:16:43.394Z"
+}

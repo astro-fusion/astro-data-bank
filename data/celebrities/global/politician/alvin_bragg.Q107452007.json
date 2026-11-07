@@ -1,0 +1,32 @@
+{
+  "publicId": "658d808e",
+  "wikipediaSlug": "Alvin_Bragg",
+  "wikipediaId": "Q107452007",
+  "name": "Alvin Bragg",
+  "fullName": "Alvin Bragg",
+  "profileSummary": "Alvin Leonard Bragg Jr. is an American politician and lawyer who serves as the New York County District Attorney, covering Manhattan. In 2021, he became the first African American elected to that office. Bragg had previously served as Chief Deputy Attorney General of New York and as an Assistant United States Attorney in the Southern District of New York. In 2024, he became the first and only district attorney to secure a conviction of a former United States president.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alvin_Bragg-District_Attorney_for_New_York_County-PXL_20230608_222746789_%28cropped%29.jpg/330px-Alvin_Bragg-District_Attorney_for_New_York_County-PXL_20230608_222746789_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alvin_Bragg",
+  "dateOfBirth": "1973-10-21",
+  "birthDateParsed": "1973-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.728333333",
+  "birthCoordinatesLng": "-73.994166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q107452007",
+  "birthPlace": "Manhattan",
+  "fetchedAt": "2026-08-05T02:42:44.897Z"
+}

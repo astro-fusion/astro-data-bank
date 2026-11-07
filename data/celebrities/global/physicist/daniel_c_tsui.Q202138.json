@@ -1,0 +1,32 @@
+{
+  "publicId": "3f8a9cb3",
+  "wikipediaSlug": "Daniel_C._Tsui",
+  "wikipediaId": "Q202138",
+  "name": "Daniel C. Tsui",
+  "fullName": "Daniel C. Tsui",
+  "profileSummary": "Daniel Chee Tsui is an American physicist. He is currently serving as the Professor of Electrical Engineering, emeritus, at Princeton University. Tsui's areas of research include electrical properties of thin films and microstructures of semiconductors and solid-state physics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Daniel_Chee_Tsui.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_C._Tsui",
+  "dateOfBirth": "1939-02-28",
+  "birthDateParsed": "1939-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.86834",
+  "birthCoordinatesLng": "113.0627",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q202138",
+  "birthPlace": "Baofeng County",
+  "fetchedAt": "2026-08-06T05:01:32.620Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "21ab3a94",
+  "wikipediaSlug": "Fred_Brooks",
+  "wikipediaId": "Q92609",
+  "name": "Fred Brooks",
+  "fullName": "Fred Brooks",
+  "profileSummary": "Frederick Phillips Brooks Jr. was an American computer architect, software engineer, and computer scientist, best known for managing development of IBM's System/360 family of mainframe computers and the OS/360 software support package, then later writing candidly about those experiences in his seminal book The Mythical Man-Month.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fred_Brooks_%28cropped_square%29.jpg/330px-Fred_Brooks_%28cropped_square%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Brooks",
+  "dateOfBirth": "1931-04-19",
+  "birthDateParsed": "1931-04-19",
+  "dateOfDeath": "2022-11-17",
+  "deathDateParsed": "2022-11-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.994166666",
+  "birthCoordinatesLng": "-78.898611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q92609",
+  "birthPlace": "Durham",
+  "fetchedAt": "2026-08-10T04:28:39.395Z"
+}

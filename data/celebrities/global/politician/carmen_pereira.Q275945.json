@@ -1,0 +1,33 @@
+{
+  "publicId": "e0867ef8",
+  "wikipediaSlug": "Carmen_Pereira",
+  "wikipediaId": "Q275945",
+  "name": "Carmen Pereira",
+  "fullName": "Carmen Pereira",
+  "profileSummary": "Carmen Maria de Araújo Pereira was a Bissau-Guinean politician. She served three days as Acting President in 1984, becoming the first woman in this role in Africa and the only one in Guinea-Bissau's history. She had the shortest term as the Acting President, serving only three days in office. She died in Bissau on 4 June 2016.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmen_Pereira",
+  "dateOfBirth": "1936-09-22",
+  "birthDateParsed": "1936-09-22",
+  "dateOfDeath": "2016-06-04",
+  "deathDateParsed": "2016-06-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "11.86",
+  "birthCoordinatesLng": "-15.583333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "partisan",
+    "minister"
+  ],
+  "qid": "Q275945",
+  "birthPlace": "Bissau",
+  "fetchedAt": "2026-08-04T00:55:10.588Z"
+}

@@ -1,0 +1,39 @@
+{
+  "publicId": "1e2437e5",
+  "wikipediaSlug": "Nicholas_Murray_Butler",
+  "wikipediaId": "Q271517",
+  "name": "Nicholas Murray Butler",
+  "fullName": "Nicholas Murray Butler",
+  "profileSummary": "Nicholas Murray Butler was an American philosopher, diplomat, and educator. Butler was president of Columbia University, president of the Carnegie Endowment for International Peace, a recipient of the Nobel Peace Prize, and the late James S. Sherman's replacement as William Howard Taft's running mate in the 1912 United States presidential election. The New York Times printed his Christmas greeting to the nation for many years during the 1920s and 1930s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Portrait_of_Nicholas_Murray_Butler.jpg/330px-Portrait_of_Nicholas_Murray_Butler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicholas_Murray_Butler",
+  "dateOfBirth": "1862-04-02",
+  "birthDateParsed": "1862-04-02",
+  "dateOfDeath": "1947-12-07",
+  "deathDateParsed": "1947-12-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.662222222",
+  "birthCoordinatesLng": "-74.209166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "politician",
+    "university teacher",
+    "diplomat",
+    "teacher",
+    "writer",
+    "pedagogue",
+    "pacifist",
+    "opinion journalist"
+  ],
+  "qid": "Q271517",
+  "birthPlace": "Elizabeth",
+  "fetchedAt": "2026-08-04T02:13:54.546Z"
+}

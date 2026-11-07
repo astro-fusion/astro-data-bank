@@ -1,0 +1,33 @@
+{
+  "publicId": "2b438b07",
+  "wikipediaSlug": "George_Porter",
+  "wikipediaId": "Q106762",
+  "name": "George Porter",
+  "fullName": "George Porter",
+  "profileSummary": "George Porter, Baron Porter of Luddenham, was a British chemist. He was awarded the Nobel Prize in Chemistry in 1967.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/George_Porter_Nobel.jpg/330px-George_Porter_Nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Porter",
+  "dateOfBirth": "1920-12-06",
+  "birthDateParsed": "1920-12-06",
+  "dateOfDeath": "2002-08-31",
+  "deathDateParsed": "2002-08-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.5958",
+  "birthCoordinatesLng": "-1.0253",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q106762",
+  "birthPlace": "Stainforth",
+  "fetchedAt": "2026-08-10T02:04:07.993Z"
+}

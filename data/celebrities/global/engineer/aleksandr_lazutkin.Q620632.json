@@ -1,0 +1,33 @@
+{
+  "publicId": "5200638b",
+  "wikipediaSlug": "Aleksandr_Lazutkin",
+  "wikipediaId": "Q620632",
+  "name": "Aleksandr Lazutkin",
+  "fullName": "Aleksandr Lazutkin",
+  "profileSummary": "Aleksandr Ivanovich Lazutkin is a former Russian cosmonaut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lazutkin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Lazutkin",
+  "dateOfBirth": "1957-10-30",
+  "birthDateParsed": "1957-10-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "astronaut",
+    "flight engineer"
+  ],
+  "qid": "Q620632",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-10T06:02:57.220Z"
+}

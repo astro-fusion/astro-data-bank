@@ -1,0 +1,31 @@
+{
+  "publicId": "1a373948",
+  "wikipediaSlug": "Dana_Vollmer",
+  "wikipediaId": "Q231243",
+  "name": "Dana Vollmer",
+  "fullName": "Dana Vollmer",
+  "profileSummary": "Dana Whitney Vollmer is a former American competition swimmer, five-time Olympic gold medalist, and former world record-holder. At the 2004 Summer Olympics, she won a gold medal as a member of the winning United States team in the 4×200-meter freestyle relay that set the world record in the event. Eight years later at the 2012 Summer Olympics, Vollmer set the world record on her way to the gold medal in the 100-meter butterfly, and also won golds in the 4×100-meter medley relay and 4×200-meter freestyle relay. She won three medals including a gold at the 2016 Summer Olympics in Rio de Janeiro.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dana_Vollmer_%286316233126%29.jpg/330px-Dana_Vollmer_%286316233126%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dana_Vollmer",
+  "dateOfBirth": "1987-11-13",
+  "birthDateParsed": "1987-11-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.046899",
+  "birthCoordinatesLng": "-76.144423",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q231243",
+  "birthPlace": "Syracuse",
+  "fetchedAt": "2026-08-10T12:59:20.114Z"
+}

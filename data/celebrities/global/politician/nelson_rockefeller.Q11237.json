@@ -1,0 +1,34 @@
+{
+  "publicId": "2b7c2431",
+  "wikipediaSlug": "Nelson_Rockefeller",
+  "wikipediaId": "Q11237",
+  "name": "Nelson Rockefeller",
+  "fullName": "Nelson Rockefeller",
+  "profileSummary": "Nelson Aldrich Rockefeller was the 41st vice president of the United States, serving from 1974 to 1977 under President Gerald Ford. A member of the Republican Party and the wealthy Rockefeller family, he was the 49th governor of New York from 1959 to 1973. He was the leader of the moderate faction of his party, known as the Rockefeller Republicans.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nelson_Rockefeller.jpg/330px-Nelson_Rockefeller.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelson_Rockefeller",
+  "dateOfBirth": "1908-07-08",
+  "birthDateParsed": "1908-07-08",
+  "dateOfDeath": "1979-01-26",
+  "deathDateParsed": "1979-01-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.385833333",
+  "birthCoordinatesLng": "-68.209444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "art collector",
+    "businessperson",
+    "philanthropist"
+  ],
+  "qid": "Q11237",
+  "birthPlace": "Bar Harbor",
+  "fetchedAt": "2026-08-01T18:08:43.186Z"
+}

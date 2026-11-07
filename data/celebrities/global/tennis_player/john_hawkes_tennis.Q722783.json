@@ -1,0 +1,31 @@
+{
+  "publicId": "8fdf5932",
+  "wikipediaSlug": "John_Hawkes_(tennis)",
+  "wikipediaId": "Q722783",
+  "name": "John Hawkes (tennis)",
+  "fullName": "John Hawkes (tennis)",
+  "profileSummary": "John Bailey Hawkes was an Australian tennis player who won the singles title at the 1926 Australasian Championships and was ranked No. 10 in the world in 1928.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TT3014_J._B._Hawkes.png/330px-TT3014_J._B._Hawkes.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hawkes_(tennis)",
+  "dateOfBirth": "1899-06-07",
+  "birthDateParsed": "1899-06-07",
+  "dateOfDeath": "1990-03-31",
+  "deathDateParsed": "1990-03-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-38.15",
+  "birthCoordinatesLng": "144.35",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q722783",
+  "birthPlace": "Geelong",
+  "fetchedAt": "2026-08-01T13:12:05.236Z"
+}

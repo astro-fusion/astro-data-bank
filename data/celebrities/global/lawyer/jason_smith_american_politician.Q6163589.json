@@ -1,0 +1,33 @@
+{
+  "publicId": "66749ac5",
+  "wikipediaSlug": "Jason_Smith_(American_politician)",
+  "wikipediaId": "Q6163589",
+  "name": "Jason Smith (American politician)",
+  "fullName": "Jason Smith (American politician)",
+  "profileSummary": "Jason Thomas Smith is an American businessman and politician who has been the U.S. representative for Missouri's 8th congressional district since 2013. The district comprises 30 counties, covering just under 20,000 square miles of southeastern and southern Missouri.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rep_Jason_Smith_-_2024.jpeg/330px-Rep_Jason_Smith_-_2024.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Smith_(American_politician)",
+  "dateOfBirth": "1980-06-16",
+  "birthDateParsed": "1980-06-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.626388888",
+  "birthCoordinatesLng": "-90.199444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "farmer"
+  ],
+  "qid": "Q6163589",
+  "birthPlace": "St. Louis",
+  "fetchedAt": "2026-08-02T02:17:19.375Z"
+}

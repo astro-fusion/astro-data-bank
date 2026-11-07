@@ -1,0 +1,31 @@
+{
+  "publicId": "0d9bbca6",
+  "wikipediaSlug": "Bran_Ferren",
+  "wikipediaId": "Q4956294",
+  "name": "Bran Ferren",
+  "fullName": "Bran Ferren",
+  "profileSummary": "Bran Ferren is an American artist, vehicle designer, visual effects artist, photographer, and inventor. Ferren was President of Research and Development of Walt Disney Imagineering as well as founder of Associates & Ferren, a multidisciplinary engineering and design firm acquired in 1993 by Disney. He is Chief Creative Officer of Applied Minds, which he co-founded in 2000 with Danny Hillis. Apple's \"pinch-to-zoom\" patent, which features in its legal battle with Samsung, was invalidated by the US Patent and Trademark Office in 2013 based on a 2005 patent by Ferren and Hillis for multi-touch gestures. He holds US Patent #8381985, which teaches the use of two or more cameras and electronic image processing to emulate optical zoom, technology used in many multi-lens smartphones.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bran_Ferren_by_Christopher_Michel_in_2022_A_03.jpg/330px-Bran_Ferren_by_Christopher_Michel_in_2022_A_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bran_Ferren",
+  "dateOfBirth": "1953-01-16",
+  "birthDateParsed": "1953-01-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "designer"
+  ],
+  "qid": "Q4956294",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-05T03:16:04.767Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "8231be69",
+  "wikipediaSlug": "Nadine_Gordimer",
+  "wikipediaId": "Q47619",
+  "name": "Nadine Gordimer",
+  "fullName": "Nadine Gordimer",
+  "profileSummary": "Nadine Gordimer was a South African writer and political activist. She received the Nobel Prize in Literature in 1991, recognised as a writer \"who through her magnificent epic writing has ... been of very great benefit to humanity\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nadine_Gordimer_01.JPG/330px-Nadine_Gordimer_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadine_Gordimer",
+  "dateOfBirth": "1923-11-20",
+  "birthDateParsed": "1923-11-20",
+  "dateOfDeath": "2014-07-13",
+  "deathDateParsed": "2014-07-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.254722222",
+  "birthCoordinatesLng": "28.442777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "novelist",
+    "playwright",
+    "short story writer",
+    "scientific editor",
+    "prose writer"
+  ],
+  "qid": "Q47619",
+  "birthPlace": "Springs",
+  "fetchedAt": "2026-08-06T07:42:31.354Z"
+}

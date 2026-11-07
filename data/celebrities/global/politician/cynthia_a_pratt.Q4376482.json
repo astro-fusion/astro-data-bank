@@ -1,0 +1,32 @@
+{
+  "publicId": "6166da0e",
+  "wikipediaSlug": "Cynthia_A._Pratt",
+  "wikipediaId": "Q4376482",
+  "name": "Cynthia A. Pratt",
+  "fullName": "Cynthia A. Pratt",
+  "profileSummary": "Dame Cynthia Alexandria \"Mother\" Pratt is a Bahamian politician who has served as the 12th governor-general of the Bahamas since 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Governor-general_Cynthia_A._Pratt_%282025%29_%28cropped%29.jpg/330px-Governor-general_Cynthia_A._Pratt_%282025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cynthia_A._Pratt",
+  "dateOfBirth": "1945-11-05",
+  "birthDateParsed": "1945-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.03",
+  "birthCoordinatesLng": "-77.405",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "basketball player"
+  ],
+  "qid": "Q4376482",
+  "birthPlace": "New Providence",
+  "fetchedAt": "2026-08-04T00:55:20.604Z"
+}

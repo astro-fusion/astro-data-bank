@@ -1,0 +1,32 @@
+{
+  "publicId": "1afd8acc",
+  "wikipediaSlug": "Aminata_Touré_(Senegalese_politician)",
+  "wikipediaId": "Q2415495",
+  "name": "Aminata Touré (Senegalese politician)",
+  "fullName": "Aminata Touré (Senegalese politician)",
+  "profileSummary": "Aminata Touré is a Senegalese politician who served as the Prime Minister of Senegal from 1 September 2013 to 4 July 2014. She was the second female Prime Minister of Senegal after Mame Madior Boye, and she previously served as Justice Minister from 2012 to 2013. While campaigning for the upcoming elections in February 2024, she was arrested by the police and detained for six hours though never charged with any crime.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Aminata_Tour%C3%A9_%28cropped%29.jpg/330px-Aminata_Tour%C3%A9_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aminata_Tour%C3%A9_(Senegalese_politician)",
+  "dateOfBirth": "1962-10-12",
+  "birthDateParsed": "1962-10-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "14.672555555",
+  "birthCoordinatesLng": "-17.432",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "minister"
+  ],
+  "qid": "Q2415495",
+  "birthPlace": "Dakar",
+  "fetchedAt": "2026-08-04T00:54:58.544Z"
+}

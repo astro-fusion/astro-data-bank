@@ -1,0 +1,33 @@
+{
+  "publicId": "e5ae08a2",
+  "wikipediaSlug": "Avner_Greif",
+  "wikipediaId": "Q4148436",
+  "name": "Avner Greif",
+  "fullName": "Avner Greif",
+  "profileSummary": "Avner Greif is an economics professor at Stanford University, Stanford, California. He holds a chaired professorship as Bowman Family Professor in the Humanities and Sciences.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Avner_Greif",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.08",
+  "birthCoordinatesLng": "34.78",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "academic",
+    "university teacher"
+  ],
+  "qid": "Q4148436",
+  "birthPlace": "Tel Aviv",
+  "fetchedAt": "2026-08-04T15:04:33.305Z"
+}

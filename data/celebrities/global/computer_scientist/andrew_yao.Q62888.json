@@ -1,0 +1,32 @@
+{
+  "publicId": "6f0b5bb5",
+  "wikipediaSlug": "Andrew_Yao",
+  "wikipediaId": "Q62888",
+  "name": "Andrew Yao",
+  "fullName": "Andrew Yao",
+  "profileSummary": "Andrew Chi-Chih Yao is a Chinese computer scientist, theoretical physicist, and computational theorist. He is currently a professor and the dean of Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University. Yao used the minimax theorem to prove what is now known as Yao's principle.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Andrew_Yao_P1130016_%28cropped%29.jpg/330px-Andrew_Yao_P1130016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Yao",
+  "dateOfBirth": "1946-12-24",
+  "birthDateParsed": "1946-12-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q62888",
+  "birthPlace": "Shanghai",
+  "fetchedAt": "2026-08-10T04:28:15.907Z"
+}

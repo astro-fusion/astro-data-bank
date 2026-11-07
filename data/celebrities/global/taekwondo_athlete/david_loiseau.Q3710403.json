@@ -1,0 +1,32 @@
+{
+  "publicId": "17108af3",
+  "wikipediaSlug": "David_Loiseau",
+  "wikipediaId": "Q3710403",
+  "name": "David Loiseau",
+  "fullName": "David Loiseau",
+  "profileSummary": "David Loiseau is a Canadian former mixed martial artist from Montreal, Quebec. He has fought in the Ultimate Fighting Championship, EliteXC, and TKO Major League MMA veteran. He is the former TKO World Middleweight Champion and former two-time TKO Canadian Middleweight Champion. He was also a former TPF Middleweight Champion. He was the first French-speaking Canadian to fight in the Ultimate Fighting Championship. Loiseau has also played a gang member in French-Canadian movie La rage de l'ange. Loiseau wrote and acted in a short film called Keelos, featuring hip-hop artist Imposs and Stand-up comedian Eddy King.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DavidLoiseau.png/330px-DavidLoiseau.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Loiseau",
+  "dateOfBirth": "1979-12-17",
+  "birthDateParsed": "1979-12-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.5033426",
+  "birthCoordinatesLng": "-73.5868411",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "taekwondo athlete",
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q3710403",
+  "birthPlace": "Montreal",
+  "fetchedAt": "2026-08-01T17:05:00.393Z"
+}

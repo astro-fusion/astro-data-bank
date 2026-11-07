@@ -1,0 +1,31 @@
+{
+  "publicId": "f24f1d66",
+  "wikipediaSlug": "Bruce_Bolton",
+  "wikipediaId": "Q4977168",
+  "name": "Bruce Bolton",
+  "fullName": "Bruce Bolton",
+  "profileSummary": "Bruce Alfred Bolton is a former New Zealand cricketer who played in two Test matches during the 1958–59 season.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Bolton",
+  "dateOfBirth": "1935-05-31",
+  "birthDateParsed": "1935-05-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4977168",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-07-31T21:01:18.380Z"
+}

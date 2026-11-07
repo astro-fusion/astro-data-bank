@@ -1,0 +1,31 @@
+{
+  "publicId": "feb9fa9c",
+  "wikipediaSlug": "Eddie_McLeod_(cricketer)",
+  "wikipediaId": "Q5336304",
+  "name": "Eddie McLeod (cricketer)",
+  "fullName": "Eddie McLeod (cricketer)",
+  "profileSummary": "Edwin George McLeod was a New Zealand cricketer who played in one Test in 1930. He was also an international hockey player who captained New Zealand.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Eddie_McLeod_in_1935.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_McLeod_(cricketer)",
+  "dateOfBirth": "1900-10-14",
+  "birthDateParsed": "1900-10-14",
+  "dateOfDeath": "1989-09-14",
+  "deathDateParsed": "1989-09-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5336304",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:03:32.136Z"
+}

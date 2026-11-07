@@ -1,0 +1,31 @@
+{
+  "publicId": "49bcb3e9",
+  "wikipediaSlug": "David_Sewell",
+  "wikipediaId": "Q5239653",
+  "name": "David Sewell",
+  "fullName": "David Sewell",
+  "profileSummary": "David Graham Sewell is a former New Zealand cricketer. He played one Test match for New Zealand against Zimbabwe in 1997. He played first-class cricket for Otago between the 1995–96 season and 2005–06.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Sewell",
+  "dateOfBirth": "1977-10-20",
+  "birthDateParsed": "1977-10-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5239653",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-07-31T21:02:48.255Z"
+}

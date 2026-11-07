@@ -1,0 +1,33 @@
+{
+  "publicId": "ad6418c7",
+  "wikipediaSlug": "Edward_Mills_Purcell",
+  "wikipediaId": "Q183270",
+  "name": "Edward Mills Purcell",
+  "fullName": "Edward Mills Purcell",
+  "profileSummary": "Edward Mills Purcell was an American physicist who shared the 1952 Nobel Prize in Physics with Felix Bloch for his independent discovery of nuclear magnetic resonance (NMR) in liquids and in solids. NMR has become widely used to study the molecular structure of pure materials and the composition of mixtures. Friends and colleagues knew him as Ed Purcell.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Edward_Mills_Purcell.jpg/330px-Edward_Mills_Purcell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Mills_Purcell",
+  "dateOfBirth": "1912-08-30",
+  "birthDateParsed": "1912-08-30",
+  "dateOfDeath": "1997-03-07",
+  "deathDateParsed": "1997-03-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.540833333",
+  "birthCoordinatesLng": "-89.288055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "nuclear physicist",
+    "university teacher"
+  ],
+  "qid": "Q183270",
+  "birthPlace": "Taylorville",
+  "fetchedAt": "2026-08-06T05:01:31.969Z"
+}

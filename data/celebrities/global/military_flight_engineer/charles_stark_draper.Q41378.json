@@ -1,0 +1,36 @@
+{
+  "publicId": "c367638c",
+  "wikipediaSlug": "Charles_Stark_Draper",
+  "wikipediaId": "Q41378",
+  "name": "Charles Stark Draper",
+  "fullName": "Charles Stark Draper",
+  "profileSummary": "Charles Stark \"Doc\" Draper was an American scientist and engineer, known as the \"father of inertial navigation\". He was the founder and director of the Massachusetts Institute of Technology's Instrumentation Laboratory, which was later spun out of MIT to become the non-profit Charles Stark Draper Laboratory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Charles_Stark_Draper_c1965_Bachrach_portrait.png/330px-Charles_Stark_Draper_c1965_Bachrach_portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Stark_Draper",
+  "dateOfBirth": "1901-10-02",
+  "birthDateParsed": "1901-10-02",
+  "dateOfDeath": "1987-07-25",
+  "deathDateParsed": "1987-07-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.5322",
+  "birthCoordinatesLng": "-93.5233",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "inventor",
+    "university teacher",
+    "computer scientist",
+    "physicist",
+    "engineer"
+  ],
+  "qid": "Q41378",
+  "birthPlace": "Windsor",
+  "fetchedAt": "2026-08-05T03:16:42.218Z"
+}

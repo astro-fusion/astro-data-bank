@@ -1,0 +1,37 @@
+{
+  "publicId": "91c98cb0",
+  "wikipediaSlug": "Margaret_Thatcher",
+  "wikipediaId": "Q7416",
+  "name": "Margaret Thatcher",
+  "fullName": "Margaret Thatcher",
+  "profileSummary": "Margaret Hilda Thatcher, Baroness Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990 and Leader of the Conservative Party from 1975 to 1990. She was the longest-serving British prime minister of the 20th century and the first woman to hold the office. As prime minister, she implemented policies that came to be known as Thatcherism. A Soviet journalist dubbed her the \"Iron Lady\", a nickname that became associated with her uncompromising politics and leadership style.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/330px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+  "dateOfBirth": "1925-10-13",
+  "birthDateParsed": "1925-10-13",
+  "dateOfDeath": "2013-04-08",
+  "deathDateParsed": "2013-04-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.918055555",
+  "birthCoordinatesLng": "-0.638055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "chemist",
+    "autobiographer",
+    "barrister",
+    "statesperson",
+    "research scientist",
+    "business executive"
+  ],
+  "qid": "Q7416",
+  "birthPlace": "Grantham",
+  "fetchedAt": "2026-08-02T05:22:39.994Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "4ae83d96",
+  "wikipediaSlug": "George_Andrew_Olah",
+  "wikipediaId": "Q192603",
+  "name": "George Andrew Olah",
+  "fullName": "George Andrew Olah",
+  "profileSummary": "George Andrew Olah was a Hungarian-American chemist. His research involved the generation and reactivity of carbocations via superacids. For this research, Olah was awarded a Nobel Prize in Chemistry in 1994 \"for his contribution to carbocation chemistry.\" He was also awarded the Priestley Medal, the highest honor granted by the American Chemical Society and F.A. Cotton Medal for Excellence in Chemical Research of the American Chemical Society in 1996.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ol%C3%A1h_Gy%C3%B6rgy_el%C5%91ad%C3%A1sa_8299.jpg/330px-Ol%C3%A1h_Gy%C3%B6rgy_el%C5%91ad%C3%A1sa_8299.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Andrew_Olah",
+  "dateOfBirth": "1927-05-22",
+  "birthDateParsed": "1927-05-22",
+  "dateOfDeath": "2017-03-08",
+  "deathDateParsed": "2017-03-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q192603",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-10T02:03:59.338Z"
+}

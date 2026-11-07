@@ -1,0 +1,33 @@
+{
+  "publicId": "1e40f68b",
+  "wikipediaSlug": "Clive_Allen",
+  "wikipediaId": "Q706818",
+  "name": "Clive Allen",
+  "fullName": "Clive Allen",
+  "profileSummary": "Clive Darren Allen is an English former professional footballer who played as a forward for seven different London clubs. Allen was a prolific striker throughout his career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Clive_Allen_2016.jpeg/330px-Clive_Allen_2016.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clive_Allen",
+  "dateOfBirth": "1961-05-20",
+  "birthDateParsed": "1961-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5152",
+  "birthCoordinatesLng": "-0.0462",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "American football player"
+  ],
+  "qid": "Q706818",
+  "birthPlace": "Stepney",
+  "fetchedAt": "2026-08-01T05:20:35.278Z"
+}

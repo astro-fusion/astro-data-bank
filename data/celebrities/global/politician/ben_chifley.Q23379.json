@@ -1,0 +1,34 @@
+{
+  "publicId": "6611f767",
+  "wikipediaSlug": "Ben_Chifley",
+  "wikipediaId": "Q23379",
+  "name": "Ben Chifley",
+  "fullName": "Ben Chifley",
+  "profileSummary": "Joseph Benedict Chifley was an Australian politician and trade unionist who served as the 16th prime minister of Australia from 1945 to 1949. He held office as the leader of the Australian Labor Party (ALP), and was notable for defining Australia's post-war reconstruction efforts, enacting social and immigration reforms and advancing the nationalisation of critical industries.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Benchifley.jpg/330px-Benchifley.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Chifley",
+  "dateOfBirth": "1885-09-22",
+  "birthDateParsed": "1885-09-22",
+  "dateOfDeath": "1951-06-13",
+  "deathDateParsed": "1951-06-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.42",
+  "birthCoordinatesLng": "149.577777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "train driver",
+    "head of government"
+  ],
+  "qid": "Q23379",
+  "birthPlace": "Bathurst",
+  "fetchedAt": "2026-08-03T12:58:11.215Z"
+}

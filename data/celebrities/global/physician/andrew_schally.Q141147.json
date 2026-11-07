@@ -1,0 +1,35 @@
+{
+  "publicId": "739551a6",
+  "wikipediaSlug": "Andrew_Schally",
+  "wikipediaId": "Q141147",
+  "name": "Andrew Schally",
+  "fullName": "Andrew Schally",
+  "profileSummary": "Andrzej Viktor \"Andrew\" Schally was a Polish-American endocrinologist who was a co-recipient, with Roger Guillemin and Rosalyn Sussman Yalow, of the 1977 Nobel Prize in Physiology or Medicine.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Andrew_Schally_portrait.jpg/330px-Andrew_Schally_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Schally",
+  "dateOfBirth": "1926-11-30",
+  "birthDateParsed": "1926-11-30",
+  "dateOfDeath": "2024-10-17",
+  "deathDateParsed": "2024-10-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.687222222",
+  "birthCoordinatesLng": "25.28",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "biochemist",
+    "researcher",
+    "endocrinologist",
+    "university teacher"
+  ],
+  "qid": "Q141147",
+  "birthPlace": "Vilnius",
+  "fetchedAt": "2026-08-10T03:13:38.015Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "f7f956be",
+  "wikipediaSlug": "Thomas_Denman,_3rd_Baron_Denman",
+  "wikipediaId": "Q335621",
+  "name": "Thomas Denman, 3rd Baron Denman",
+  "fullName": "Thomas Denman, 3rd Baron Denman",
+  "profileSummary": "Thomas Denman, 3rd Baron Denman was a British aristocrat and politician who served as the fifth governor-general of Australia, in office from 1911 to 1914.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lord_Denman_%28cropped%29.jpg/330px-Lord_Denman_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Denman%2C_3rd_Baron_Denman",
+  "dateOfBirth": "1874-11-16",
+  "birthDateParsed": "1874-11-16",
+  "dateOfDeath": "1954-06-24",
+  "deathDateParsed": "1954-06-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q335621",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-03T12:58:59.689Z"
+}

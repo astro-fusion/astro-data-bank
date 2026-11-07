@@ -1,0 +1,31 @@
+{
+  "publicId": "9194cace",
+  "wikipediaSlug": "Edward_Smith-Stanley,_14th_Earl_of_Derby",
+  "wikipediaId": "Q237829",
+  "name": "Edward Smith-Stanley, 14th Earl of Derby",
+  "fullName": "Edward Smith-Stanley, 14th Earl of Derby",
+  "profileSummary": "Edward George Geoffrey Smith-Stanley, 14th Earl of Derby, known as Lord Stanley from 1834 to 1851, was a British statesman and Conservative politician who served three times as Prime Minister of the United Kingdom. To date, he is the longest-serving leader of the Conservative Party (1846–68). He is one of only four British prime ministers to have three or more separate periods in office. However, his ministries each lasted less than two years and totalled three years and 280 days. Derby introduced the state education system in Ireland, and reformed Parliament.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Edward_Smith-Stanley%2C_14th_Earl_of_Derby_circa_1867_%28cropped%29.jpg/330px-Edward_Smith-Stanley%2C_14th_Earl_of_Derby_circa_1867_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Smith-Stanley%2C_14th_Earl_of_Derby",
+  "dateOfBirth": "1799-03-29",
+  "birthDateParsed": "1799-03-29",
+  "dateOfDeath": "1869-10-23",
+  "deathDateParsed": "1869-10-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q237829",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:21:33.556Z"
+}

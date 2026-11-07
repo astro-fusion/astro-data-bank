@@ -1,0 +1,32 @@
+{
+  "publicId": "a52ab8e0",
+  "wikipediaSlug": "Fausta_Morganti",
+  "wikipediaId": "Q386550",
+  "name": "Fausta Morganti",
+  "fullName": "Fausta Morganti",
+  "profileSummary": "Fausta Simona Morganti was a Sammarinese politician.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fausta_Morganti",
+  "dateOfBirth": "1944-08-20",
+  "birthDateParsed": "1944-08-20",
+  "dateOfDeath": "2021-02-02",
+  "deathDateParsed": "2021-02-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.933333333",
+  "birthCoordinatesLng": "12.466666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "teacher"
+  ],
+  "qid": "Q386550",
+  "birthPlace": "San Marino",
+  "fetchedAt": "2026-08-04T00:55:43.187Z"
+}

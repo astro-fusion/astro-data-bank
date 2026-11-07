@@ -1,0 +1,33 @@
+{
+  "publicId": "55a34eca",
+  "wikipediaSlug": "Caroline_Hoxby",
+  "wikipediaId": "Q5045105",
+  "name": "Caroline Hoxby",
+  "fullName": "Caroline Hoxby",
+  "profileSummary": "Caroline Minter Hoxby is an American economist whose research focuses on issues in education and public economics. She is currently the Scott and Donya Bommer Professor in Economics at Stanford University and program director of the Economics of Education Program for the National Bureau of Economic Research. Hoxby is a John and Lydia Pearce Mitchell University Fellow in Undergraduate Education. She is also a senior fellow at the Hoover Institution and the Stanford Institute for Economic Policy Research.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Caroline_Hoxby_Photograph.jpg/330px-Caroline_Hoxby_Photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caroline_Hoxby",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "academic",
+    "university teacher"
+  ],
+  "qid": "Q5045105",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-04T15:05:31.539Z"
+}

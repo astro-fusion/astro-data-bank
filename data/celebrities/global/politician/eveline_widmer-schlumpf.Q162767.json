@@ -1,0 +1,33 @@
+{
+  "publicId": "67f3b050",
+  "wikipediaSlug": "Eveline_Widmer-Schlumpf",
+  "wikipediaId": "Q162767",
+  "name": "Eveline Widmer-Schlumpf",
+  "fullName": "Eveline Widmer-Schlumpf",
+  "profileSummary": "Eveline Widmer-Schlumpf is a Swiss politician and lawyer who served as a Member of the Swiss Federal Council from 2008 to 2015. A member of the Swiss People's Party (SVP/UDC) until 2008, she was then a member of the splinter Conservative Democratic Party (BDP/PBD) until 2021, when that party merged into The Centre. Widmer-Schlumpf was the head of the Federal Department of Justice and Police from 2008 to 2010, when she became head of the Federal Department of Finance. She served as President of the Swiss Confederation in 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Eveline_Widmer-Schlumpf_2011.jpg/330px-Eveline_Widmer-Schlumpf_2011.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eveline_Widmer-Schlumpf",
+  "dateOfBirth": "1956-03-16",
+  "birthDateParsed": "1956-03-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.833055555",
+  "birthCoordinatesLng": "9.466388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q162767",
+  "birthPlace": "Felsberg",
+  "fetchedAt": "2026-08-04T00:56:08.678Z"
+}

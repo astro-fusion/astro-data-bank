@@ -1,0 +1,32 @@
+{
+  "publicId": "70a0193a",
+  "wikipediaSlug": "Bonar_Law",
+  "wikipediaId": "Q166663",
+  "name": "Bonar Law",
+  "fullName": "Bonar Law",
+  "profileSummary": "Andrew Bonar Law was a British statesman and Conservative politician who was Prime Minister of the United Kingdom from October 1922 to May 1923.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bonar_Law_1923_portrait_by_Walter_Stoneman_%283x4_cropped%29.jpg/330px-Bonar_Law_1923_portrait_by_Walter_Stoneman_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bonar_Law",
+  "dateOfBirth": "1858-09-16",
+  "birthDateParsed": "1858-09-16",
+  "dateOfDeath": "1923-10-30",
+  "deathDateParsed": "1923-10-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.642777777",
+  "birthCoordinatesLng": "-64.871388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "chess player"
+  ],
+  "qid": "Q166663",
+  "birthPlace": "Rexton",
+  "fetchedAt": "2026-08-02T05:21:46.125Z"
+}

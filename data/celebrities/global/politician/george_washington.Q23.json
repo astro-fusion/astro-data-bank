@@ -1,0 +1,40 @@
+{
+  "publicId": "ae7fc97b",
+  "wikipediaSlug": "George_Washington",
+  "wikipediaId": "Q23",
+  "name": "George Washington",
+  "fullName": "George Washington",
+  "profileSummary": "George Washington was a Founding Father and the first president of the United States, serving from 1789 to 1797. As commander of the Continental Army, Washington led Patriot forces to victory in the American Revolutionary War against the British Empire. He is commonly known as the Father of His Country for his role in bringing about American independence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Washington",
+  "dateOfBirth": "1732-02-22",
+  "birthDateParsed": "1732-02-22",
+  "dateOfDeath": "1799-12-14",
+  "deathDateParsed": "1799-12-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.11",
+  "birthCoordinatesLng": "-76.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "farmer",
+    "cartographer",
+    "geometer",
+    "engineer",
+    "statesperson",
+    "revolutionary",
+    "writer",
+    "army officer",
+    "commander-in-chief"
+  ],
+  "qid": "Q23",
+  "birthPlace": "Westmoreland County",
+  "fetchedAt": "2026-08-01T18:07:51.087Z"
+}

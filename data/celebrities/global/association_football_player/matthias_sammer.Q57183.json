@@ -1,0 +1,32 @@
+{
+  "publicId": "328dfb3b",
+  "wikipediaSlug": "Matthias_Sammer",
+  "wikipediaId": "Q57183",
+  "name": "Matthias Sammer",
+  "fullName": "Matthias Sammer",
+  "profileSummary": "Matthias Sammer is a German football official and former player and coach. He played as a defensive midfielder and later in his career as a sweeper.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Matthias_Sammer_2722.jpg/330px-Matthias_Sammer_2722.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthias_Sammer",
+  "dateOfBirth": "1967-09-05",
+  "birthDateParsed": "1967-09-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.0493286",
+  "birthCoordinatesLng": "13.7381437",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q57183",
+  "birthPlace": "Dresden",
+  "fetchedAt": "2026-08-10T11:28:50.046Z"
+}

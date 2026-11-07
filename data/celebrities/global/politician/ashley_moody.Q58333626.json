@@ -1,0 +1,33 @@
+{
+  "publicId": "e4a9e53b",
+  "wikipediaSlug": "Ashley_Moody",
+  "wikipediaId": "Q58333626",
+  "name": "Ashley Moody",
+  "fullName": "Ashley Moody",
+  "profileSummary": "Ashley Brooke Moody is an American politician and attorney serving since 2025 as the junior United States senator from Florida. A member of the Republican Party, she served from 2019 to 2025 as the 38th attorney general of Florida.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Senator_Ashley_Moody_Official_Portrait.jpg/330px-Senator_Ashley_Moody_Official_Portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashley_Moody",
+  "dateOfBirth": "1975-03-28",
+  "birthDateParsed": "1975-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.016666666",
+  "birthCoordinatesLng": "-82.133333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q58333626",
+  "birthPlace": "Plant City",
+  "fetchedAt": "2026-08-02T02:16:13.318Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "a6274b99",
+  "wikipediaSlug": "Katie_Britt",
+  "wikipediaId": "Q111285444",
+  "name": "Katie Britt",
+  "fullName": "Katie Britt",
+  "profileSummary": "Katie Elizabeth Boyd Britt is an American politician and attorney serving since 2023 as the junior United States senator from Alabama. A member of the Republican Party, Britt is the first woman to be elected to the U.S. Senate from Alabama and the youngest Republican woman to be elected to the Senate. She was president and CEO of the Business Council of Alabama from 2019 to 2021, and served as chief of staff for the previous incumbent, Richard Shelby, from 2016 to 2018. Britt is expected to become Alabama's senior senator when Tommy Tuberville leaves office in January 2027.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Katie_Britt.jpg/330px-Katie_Britt.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Katie_Britt",
+  "dateOfBirth": "1982-02-02",
+  "birthDateParsed": "1982-02-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.327476",
+  "birthCoordinatesLng": "-85.844484",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q111285444",
+  "birthPlace": "Enterprise",
+  "fetchedAt": "2026-08-02T02:17:41.606Z"
+}

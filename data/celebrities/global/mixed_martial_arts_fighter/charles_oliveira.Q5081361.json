@@ -1,0 +1,31 @@
+{
+  "publicId": "8ea4bb7d",
+  "wikipediaSlug": "Charles_Oliveira",
+  "wikipediaId": "Q5081361",
+  "name": "Charles Oliveira",
+  "fullName": "Charles Oliveira",
+  "profileSummary": "Charles Oliveira da Silva is a Brazilian professional mixed martial artist and fourth degree black belt Brazilian jiu-jitsu practitioner. Oliveira currently competes in the Lightweight division of the Ultimate Fighting Championship (UFC), where he is a former UFC Lightweight Champion and current symbolic UFC \"BMF\" titleholder. As of January 27, 2026, he is #3 in the Meta UFC lightweight rankings and as of June 23, 2026, he is #15 in the UFC men's pound-for-pound rankings.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Charles_Oliveira_do_Bronxs.jpg/330px-Charles_Oliveira_do_Bronxs.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Oliveira",
+  "dateOfBirth": "1989-10-17",
+  "birthDateParsed": "1989-10-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.993611111",
+  "birthCoordinatesLng": "-46.256388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q5081361",
+  "birthPlace": "Guarujá",
+  "fetchedAt": "2026-08-01T17:05:39.009Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "76e06404",
+  "wikipediaSlug": "Steve_Ballmer",
+  "wikipediaId": "Q181162",
+  "name": "Steve Ballmer",
+  "fullName": "Steve Ballmer",
+  "profileSummary": "Steven Anthony Ballmer is an American businessman and investor who was the chief executive officer of Microsoft from 2000 to 2014. He is the owner of the Los Angeles Clippers of the National Basketball Association (NBA), and a co-founder of the Ballmer Group, a philanthropic investment company.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Steve_ballmer_2007_outdoors2-2.jpg/330px-Steve_ballmer_2007_outdoors2-2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+  "dateOfBirth": "1956-03-24",
+  "birthDateParsed": "1956-03-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.331666666",
+  "birthCoordinatesLng": "-83.0475",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "computer scientist",
+    "merchant"
+  ],
+  "qid": "Q181162",
+  "birthPlace": "Detroit",
+  "fetchedAt": "2026-08-04T03:35:25.819Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "cf9d941e",
+  "wikipediaSlug": "Kobe_Bryant",
+  "wikipediaId": "Q25369",
+  "name": "Kobe Bryant",
+  "fullName": "Kobe Bryant",
+  "profileSummary": "Kobe Bean Bryant was an American professional basketball player. Nicknamed \"the Black Mamba\", he played his entire 20-year career with the Los Angeles Lakers in the National Basketball Association (NBA). Bryant was a five-time NBA champion, two-time NBA Finals MVP, the 2008 NBA MVP, and two-time gold medal recipient on the 2008 and 2012 U.S. Olympic teams. He is regarded as one of the greatest basketball players of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kobe_Bryant_Dec_2014.jpg/330px-Kobe_Bryant_Dec_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kobe_Bryant",
+  "dateOfBirth": "1978-08-23",
+  "birthDateParsed": "1978-08-23",
+  "dateOfDeath": "2020-01-26",
+  "deathDateParsed": "2020-01-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "screenwriter",
+    "professional athlete",
+    "athlete",
+    "author"
+  ],
+  "qid": "Q25369",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-01T15:37:10.225Z"
+}

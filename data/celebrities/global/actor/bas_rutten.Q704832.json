@@ -1,0 +1,38 @@
+{
+  "publicId": "23128c2e",
+  "wikipediaSlug": "Bas_Rutten",
+  "wikipediaId": "Q704832",
+  "name": "Bas Rutten",
+  "fullName": "Bas Rutten",
+  "profileSummary": "Sebastiaan Rutten is a Dutch and American actor, former mixed martial artist, kickboxer and professional wrestler. As a kickboxer, he fought 16 times, winning the first 14 matches by knockout, 13 in the first round, and losing his final two fights, one of them against Frank Lobman for the European Muay Thai title in 1991, with Rutten losing by knockout in the first round. In MMA, he was a UFC Heavyweight Champion and a three-time King of Pancrase world champion. After his submission loss to Ken Shamrock in 1995, he finished his MMA career on a 22 fight unbeaten streak.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bas_Rutten.jpg/330px-Bas_Rutten.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bas_Rutten",
+  "dateOfBirth": "1965-02-24",
+  "birthDateParsed": "1965-02-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5572",
+  "birthCoordinatesLng": "5.0911",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "judoka",
+    "professional wrestler",
+    "kickboxer",
+    "karateka",
+    "taekwondo athlete",
+    "Thai boxer",
+    "film actor"
+  ],
+  "qid": "Q704832",
+  "birthPlace": "Tilburg",
+  "fetchedAt": "2026-08-01T17:04:23.006Z"
+}

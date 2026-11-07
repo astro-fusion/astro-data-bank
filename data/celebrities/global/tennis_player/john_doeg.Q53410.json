@@ -1,0 +1,31 @@
+{
+  "publicId": "76640a84",
+  "wikipediaSlug": "John_Doeg",
+  "wikipediaId": "Q53410",
+  "name": "John Doeg",
+  "fullName": "John Doeg",
+  "profileSummary": "John Thomas Godfray Hope Doeg was a male tennis player from the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/John_Doeg_1927.jpg/330px-John_Doeg_1927.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Doeg",
+  "dateOfBirth": "1908-12-07",
+  "birthDateParsed": "1908-12-07",
+  "dateOfDeath": "1978-04-27",
+  "deathDateParsed": "1978-04-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.919166666",
+  "birthCoordinatesLng": "-110.8975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q53410",
+  "birthPlace": "Heroica Guaymas",
+  "fetchedAt": "2026-08-01T13:12:08.711Z"
+}

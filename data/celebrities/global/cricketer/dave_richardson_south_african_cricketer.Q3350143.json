@@ -1,0 +1,31 @@
+{
+  "publicId": "78749f93",
+  "wikipediaSlug": "Dave_Richardson_(South_African_cricketer)",
+  "wikipediaId": "Q3350143",
+  "name": "Dave Richardson (South African cricketer)",
+  "fullName": "Dave Richardson (South African cricketer)",
+  "profileSummary": "David John Richardson is a South African former cricketer and the former CEO of the International Cricket Council.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Richardson_(South_African_cricketer)",
+  "dateOfBirth": "1959-09-16",
+  "birthDateParsed": "1959-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3350143",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:22:15.316Z"
+}

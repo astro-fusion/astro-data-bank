@@ -1,0 +1,32 @@
+{
+  "publicId": "abbeb5fe",
+  "wikipediaSlug": "Jean_Tigana",
+  "wikipediaId": "Q295559",
+  "name": "Jean Tigana",
+  "fullName": "Jean Tigana",
+  "profileSummary": "Amadou Jean Tigana is a former professional football player and manager. A central midfielder, he was renowned as one of the best midfielders in the world during the 1980s. He spent his entire playing career in France, and made 52 appearances and scored one goal for the France national team. Following his playing career, he became a manager, coaching clubs in France, England, Turkey and China.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jean_Tigana_cropped.jpg/330px-Jean_Tigana_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Tigana",
+  "dateOfBirth": "1955-06-23",
+  "birthDateParsed": "1955-06-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.645833333",
+  "birthCoordinatesLng": "-7.992222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q295559",
+  "birthPlace": "Bamako",
+  "fetchedAt": "2026-08-10T11:28:38.269Z"
+}

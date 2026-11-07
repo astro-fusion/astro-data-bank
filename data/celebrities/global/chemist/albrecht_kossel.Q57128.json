@@ -1,0 +1,35 @@
+{
+  "publicId": "db7d8f71",
+  "wikipediaSlug": "Albrecht_Kossel",
+  "wikipediaId": "Q57128",
+  "name": "Albrecht Kossel",
+  "fullName": "Albrecht Kossel",
+  "profileSummary": "Ludwig Karl Martin Leonhard Albrecht Kossel was a German biochemist and pioneer in the study of genetics. He was awarded the Nobel Prize for Physiology or Medicine in 1910 for his work in determining the chemical composition of nucleic acids, the genetic substance of biological cells.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Albrecht_Kossel_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albrecht_Kossel",
+  "dateOfBirth": "1853-09-16",
+  "birthDateParsed": "1853-09-16",
+  "dateOfDeath": "1927-07-05",
+  "deathDateParsed": "1927-07-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.083333333",
+  "birthCoordinatesLng": "12.133333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "physician",
+    "university teacher",
+    "physiologist",
+    "biochemist"
+  ],
+  "qid": "Q57128",
+  "birthPlace": "Rostock",
+  "fetchedAt": "2026-08-10T03:13:39.110Z"
+}

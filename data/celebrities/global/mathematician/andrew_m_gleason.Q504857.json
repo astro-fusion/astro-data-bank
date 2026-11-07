@@ -1,0 +1,33 @@
+{
+  "publicId": "1d3f41ac",
+  "wikipediaSlug": "Andrew_M._Gleason",
+  "wikipediaId": "Q504857",
+  "name": "Andrew M. Gleason",
+  "fullName": "Andrew M. Gleason",
+  "profileSummary": "Andrew Mattei Gleason was an American mathematician who made fundamental contributions to widely varied areas of mathematics, including the solution of Hilbert's fifth problem, and was a leader in reform and innovation in math­e­mat­ics teaching at all levels. Gleason's theorem in quantum logic and the Greenwood–Gleason graph, an important example in Ramsey theory, are named for him.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GleasonAndrewMattei_Berlin1959.jpg/330px-GleasonAndrewMattei_Berlin1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_M._Gleason",
+  "dateOfBirth": "1921-11-04",
+  "birthDateParsed": "1921-11-04",
+  "dateOfDeath": "2008-10-17",
+  "deathDateParsed": "2008-10-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.781666666",
+  "birthCoordinatesLng": "-119.792222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher",
+    "cryptographer"
+  ],
+  "qid": "Q504857",
+  "birthPlace": "Fresno",
+  "fetchedAt": "2026-08-05T02:43:12.731Z"
+}

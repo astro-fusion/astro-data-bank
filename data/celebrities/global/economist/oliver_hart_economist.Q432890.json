@@ -1,0 +1,32 @@
+{
+  "publicId": "57ece740",
+  "wikipediaSlug": "Oliver_Hart_(economist)",
+  "wikipediaId": "Q432890",
+  "name": "Oliver Hart (economist)",
+  "fullName": "Oliver Hart (economist)",
+  "profileSummary": "Sir Oliver Simon D'Arcy Hart is a British-American economist, currently the Lewis P. and Linda L. Geyser University Professor at Harvard University. Together with Bengt R. Holmström, he received the Nobel Memorial Prize in Economic Sciences in 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nobel_Laureates_0983_%2831117127490%29.jpg/330px-Nobel_Laureates_0983_%2831117127490%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oliver_Hart_(economist)",
+  "dateOfBirth": "1948-10-09",
+  "birthDateParsed": "1948-10-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q432890",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T09:43:55.418Z"
+}

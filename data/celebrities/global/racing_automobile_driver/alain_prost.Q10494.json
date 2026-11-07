@@ -1,0 +1,32 @@
+{
+  "publicId": "45d1187e",
+  "wikipediaSlug": "Alain_Prost",
+  "wikipediaId": "Q10494",
+  "name": "Alain Prost",
+  "fullName": "Alain Prost",
+  "profileSummary": "Alain Marie Pascal Prost is a French former racing driver and motorsport executive, who competed in Formula One from 1980 to 1993. Nicknamed \"the Professor\", Prost won four Formula One World Drivers' Championship titles and—at the time of his retirement—held the records for most wins (51), fastest laps (41), and podium finishes (106).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Festival_automobile_international_2015_-_Photocall_-_065_%28cropped3%29.jpg/330px-Festival_automobile_international_2015_-_Photocall_-_065_%28cropped3%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alain_Prost",
+  "dateOfBirth": "1955-02-24",
+  "birthDateParsed": "1955-02-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.511944444",
+  "birthCoordinatesLng": "4.581111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing automobile driver",
+    "Formula One driver"
+  ],
+  "qid": "Q10494",
+  "birthPlace": "Lorette",
+  "fetchedAt": "2026-08-01T16:01:21.247Z"
+}

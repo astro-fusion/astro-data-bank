@@ -1,0 +1,31 @@
+{
+  "publicId": "29cdb4f9",
+  "wikipediaSlug": "Charles_Prince_(cricketer)",
+  "wikipediaId": "Q5081766",
+  "name": "Charles Prince (cricketer)",
+  "fullName": "Charles Prince (cricketer)",
+  "profileSummary": "Charles Frederick Henry Prince was a South African cricketer who played in one Test in 1899.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Prince_(cricketer)",
+  "dateOfBirth": "1874-09-11",
+  "birthDateParsed": "1874-09-11",
+  "dateOfDeath": "1949-02-02",
+  "deathDateParsed": "1949-02-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5081766",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:22:06.614Z"
+}

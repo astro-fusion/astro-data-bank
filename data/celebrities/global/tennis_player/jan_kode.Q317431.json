@@ -1,0 +1,32 @@
+{
+  "publicId": "50efab42",
+  "wikipediaSlug": "Jan_Kodeš",
+  "wikipediaId": "Q317431",
+  "name": "Jan Kodeš",
+  "fullName": "Jan Kodeš",
+  "profileSummary": "Jan Kodeš is a Czech former professional tennis player. A three-time major singles champion, Kodeš was one of the premier players in the early 1970s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jan_Kode%C5%A1.JPG/330px-Jan_Kode%C5%A1.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Kode%C5%A1",
+  "dateOfBirth": "1946-03-01",
+  "birthDateParsed": "1946-03-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0875",
+  "birthCoordinatesLng": "14.421388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach"
+  ],
+  "qid": "Q317431",
+  "birthPlace": "Prague",
+  "fetchedAt": "2026-08-01T13:11:53.311Z"
+}

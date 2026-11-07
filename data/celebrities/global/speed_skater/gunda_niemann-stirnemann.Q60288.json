@@ -1,0 +1,32 @@
+{
+  "publicId": "2c3b149f",
+  "wikipediaSlug": "Gunda_Niemann-Stirnemann",
+  "wikipediaId": "Q60288",
+  "name": "Gunda Niemann-Stirnemann",
+  "fullName": "Gunda Niemann-Stirnemann",
+  "profileSummary": "Gunda Niemann-Stirnemann is a German former speed skater. She is a three-time Olympic gold medallist, winning the 3000 metres in 1992 and 1998 and the 5000 metres in 1992. She won a total of eight Olympic medals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bundesarchiv_Bild_183-1988-1211-006%2C_Gunda_Kleemann.jpg/330px-Bundesarchiv_Bild_183-1988-1211-006%2C_Gunda_Kleemann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gunda_Niemann-Stirnemann",
+  "dateOfBirth": "1966-09-07",
+  "birthDateParsed": "1966-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.366666666",
+  "birthCoordinatesLng": "10.866666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "speed skater",
+    "speed skating trainer"
+  ],
+  "qid": "Q60288",
+  "birthPlace": "Sondershausen",
+  "fetchedAt": "2026-08-10T13:00:11.885Z"
+}

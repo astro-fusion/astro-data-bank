@@ -1,0 +1,31 @@
+{
+  "publicId": "0623373b",
+  "wikipediaSlug": "James_Anderson_(tennis)",
+  "wikipediaId": "Q1679953",
+  "name": "James Anderson (tennis)",
+  "fullName": "James Anderson (tennis)",
+  "profileSummary": "James Outram Anderson, commonly known as J.O. Anderson, was an Australian tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/James_Anderson_at_the_1922_Davis_Cup.jpg/330px-James_Anderson_at_the_1922_Davis_Cup.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Anderson_(tennis)",
+  "dateOfBirth": "1895-09-17",
+  "birthDateParsed": "1895-09-17",
+  "dateOfDeath": "1973-12-22",
+  "deathDateParsed": "1973-12-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.89",
+  "birthCoordinatesLng": "151.0927778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q1679953",
+  "birthPlace": "Enfield",
+  "fetchedAt": "2026-08-01T13:12:17.828Z"
+}

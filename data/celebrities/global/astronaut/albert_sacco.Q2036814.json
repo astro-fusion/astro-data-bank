@@ -1,0 +1,32 @@
+{
+  "publicId": "ade471ed",
+  "wikipediaSlug": "Albert_Sacco",
+  "wikipediaId": "Q2036814",
+  "name": "Albert Sacco",
+  "fullName": "Albert Sacco",
+  "profileSummary": "Albert Sacco Jr. is an American chemical engineer who flew as a Payload Specialist on the Space Shuttle Columbia on Shuttle mission STS-73 in 1995. He recently retired as the Provost and Dean of the Franklin W. Olin College of Engineering.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Albert_Sacco.jpg/330px-Albert_Sacco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Sacco",
+  "dateOfBirth": "1949-05-03",
+  "birthDateParsed": "1949-05-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "professor"
+  ],
+  "qid": "Q2036814",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T06:02:54.945Z"
+}

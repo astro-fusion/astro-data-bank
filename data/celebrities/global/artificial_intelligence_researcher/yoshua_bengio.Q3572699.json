@@ -1,0 +1,34 @@
+{
+  "publicId": "821137f0",
+  "wikipediaSlug": "Yoshua_Bengio",
+  "wikipediaId": "Q3572699",
+  "name": "Yoshua Bengio",
+  "fullName": "Yoshua Bengio",
+  "profileSummary": "Yoshua Bengio is a Canadian computer scientist, and a pioneer of artificial neural networks and deep learning.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ICLR_2025_-_Yoshua_Bengio_02.jpg/330px-ICLR_2025_-_Yoshua_Bengio_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoshua_Bengio",
+  "dateOfBirth": "1964-03-05",
+  "birthDateParsed": "1964-03-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artificial intelligence researcher",
+    "professor",
+    "computer scientist",
+    "information scientist"
+  ],
+  "qid": "Q3572699",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-10T04:29:54.599Z"
+}

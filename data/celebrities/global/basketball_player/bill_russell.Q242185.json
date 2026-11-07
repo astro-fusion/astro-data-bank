@@ -1,0 +1,35 @@
+{
+  "publicId": "181180b3",
+  "wikipediaSlug": "Bill_Russell",
+  "wikipediaId": "Q242185",
+  "name": "Bill Russell",
+  "fullName": "Bill Russell",
+  "profileSummary": "William Felton Russell was an American professional basketball player who played center for the Boston Celtics of the National Basketball Association (NBA) from 1956 to 1969. He was the centerpiece of the Celtics dynasty that played for 12 NBA championships and won 11 during his 13-year career. Russell is widely considered one of the greatest basketball players of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_russell_dribbling_%28cropped%29.jpg/330px-Bill_russell_dribbling_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Russell",
+  "dateOfBirth": "1934-02-12",
+  "birthDateParsed": "1934-02-12",
+  "dateOfDeath": "2022-07-31",
+  "deathDateParsed": "2022-07-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.5094",
+  "birthCoordinatesLng": "-92.1183",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "actor",
+    "high jumper",
+    "athlete"
+  ],
+  "qid": "Q242185",
+  "birthPlace": "Monroe",
+  "fetchedAt": "2026-08-01T15:36:58.680Z"
+}

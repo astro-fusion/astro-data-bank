@@ -1,0 +1,32 @@
+{
+  "publicId": "beefdbca",
+  "wikipediaSlug": "Francesca_Civerchia",
+  "wikipediaId": "Q130390817",
+  "name": "Francesca Civerchia",
+  "fullName": "Francesca Civerchia",
+  "profileSummary": "Francesca Civerchia is a Sammarinese politician who was one of two captains regent for San Marino from October 2024 to April 2025.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francesca_Civerchia",
+  "dateOfBirth": "1977-09-18",
+  "birthDateParsed": "1977-09-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.932011111",
+  "birthCoordinatesLng": "12.44845",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "public employee"
+  ],
+  "qid": "Q130390817",
+  "birthPlace": "San Marino",
+  "fetchedAt": "2026-08-04T00:56:06.426Z"
+}

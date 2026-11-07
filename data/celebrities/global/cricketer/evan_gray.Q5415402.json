@@ -1,0 +1,31 @@
+{
+  "publicId": "4cd337ff",
+  "wikipediaSlug": "Evan_Gray",
+  "wikipediaId": "Q5415402",
+  "name": "Evan Gray",
+  "fullName": "Evan Gray",
+  "profileSummary": "Evan John Gray is a former New Zealand cricketer, who played 10 Tests and 10 One Day Internationals for New Zealand in the 1980s.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evan_Gray",
+  "dateOfBirth": "1954-11-18",
+  "birthDateParsed": "1954-11-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.288888888",
+  "birthCoordinatesLng": "174.777222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5415402",
+  "birthPlace": "Wellington",
+  "fetchedAt": "2026-07-31T21:03:28.908Z"
+}

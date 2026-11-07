@@ -1,0 +1,35 @@
+{
+  "publicId": "63486454",
+  "wikipediaSlug": "William_Ewart_Gladstone",
+  "wikipediaId": "Q160852",
+  "name": "William Ewart Gladstone",
+  "fullName": "William Ewart Gladstone",
+  "profileSummary": "William Ewart Gladstone was a British statesman who served four times as Prime Minister of the United Kingdom. He began in politics as a Conservative Member of Parliament (MP) for Newark and ended as the face of the Liberal Party.\nHis four non-consecutive terms — the most of any British prime minister — took place between 1868 and 1894. He also served four times as Chancellor of the Exchequer, five times as Leader of the House of Commons, and MP for over 60 years, from 1832 to 1846 and from 1847 to 1895, representing a total of five constituencies. His political career thus spanned nearly the entire Victorian era.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/William_Ewart_Gladstone%2C_1892_%28cropped%29.jpg/330px-William_Ewart_Gladstone%2C_1892_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Ewart_Gladstone",
+  "dateOfBirth": "1809-12-29",
+  "birthDateParsed": "1809-12-29",
+  "dateOfDeath": "1898-05-19",
+  "deathDateParsed": "1898-05-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.407222222",
+  "birthCoordinatesLng": "-2.991666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "statistician",
+    "writer",
+    "head of government"
+  ],
+  "qid": "Q160852",
+  "birthPlace": "Liverpool",
+  "fetchedAt": "2026-08-02T05:23:04.674Z"
+}

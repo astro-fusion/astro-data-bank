@@ -1,0 +1,36 @@
+{
+  "publicId": "a3fdefcc",
+  "wikipediaSlug": "Sergey_Brin",
+  "wikipediaId": "Q92764",
+  "name": "Sergey Brin",
+  "fullName": "Sergey Brin",
+  "profileSummary": "Sergey Mikhailovich Brin is an American computer scientist and businessman who co-founded Google with Larry Page. He was the president of Google's parent company, Alphabet Inc., until stepping down from the role in 2019. He and Page remain at Alphabet as co-founders, controlling shareholders, and board members. Brin is a centibillionaire and among the richest people in the world, in August 2026, his current estimated net worth is of U$264.9 billion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sergey_Brin_Ted_2010_%28cropped%29.jpg/330px-Sergey_Brin_Ted_2010_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergey_Brin",
+  "dateOfBirth": "1973-08-21",
+  "birthDateParsed": "1973-08-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "inventor",
+    "business executive",
+    "technology entrepreneur",
+    "author",
+    "entrepreneur"
+  ],
+  "qid": "Q92764",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-04T03:35:19.610Z"
+}

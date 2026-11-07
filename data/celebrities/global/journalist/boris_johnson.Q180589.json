@@ -1,0 +1,40 @@
+{
+  "publicId": "55f130c2",
+  "wikipediaSlug": "Boris_Johnson",
+  "wikipediaId": "Q180589",
+  "name": "Boris Johnson",
+  "fullName": "Boris Johnson",
+  "profileSummary": "Alexander Boris de Pfeffel Johnson is a British politician and writer who was Prime Minister of the United Kingdom and Leader of the Conservative Party from 2019 to 2022. He was previously Foreign Secretary from 2016 to 2018 and Mayor of London from 2008 to 2016. He was Member of Parliament (MP) for Henley from 2001 to 2008 and for Uxbridge and South Ruislip from 2015 to 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Johnson",
+  "dateOfBirth": "1964-06-19",
+  "birthDateParsed": "1964-06-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "politician",
+    "editor",
+    "writer",
+    "essayist",
+    "blogger",
+    "historian",
+    "film actor",
+    "head of government",
+    "mayor"
+  ],
+  "qid": "Q180589",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-03T14:11:01.810Z"
+}

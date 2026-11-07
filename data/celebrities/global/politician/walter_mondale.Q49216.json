@@ -1,0 +1,37 @@
+{
+  "publicId": "73162e55",
+  "wikipediaSlug": "Walter_Mondale",
+  "wikipediaId": "Q49216",
+  "name": "Walter Mondale",
+  "fullName": "Walter Mondale",
+  "profileSummary": "Walter Frederick \"Fritz\" Mondale was an American politician who was the 42nd vice president of the United States, serving from 1977 to 1981 under President Jimmy Carter. A member of the Democratic Party, he represented Minnesota in the United States Senate from 1964 to 1976, and was the Democratic nominee in the 1984 presidential election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Walter_Mondale_1977_vice_presidential_portrait.jpg/330px-Walter_Mondale_1977_vice_presidential_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Mondale",
+  "dateOfBirth": "1928-01-05",
+  "birthDateParsed": "1928-01-05",
+  "dateOfDeath": "2021-04-19",
+  "deathDateParsed": "2021-04-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.533611111",
+  "birthCoordinatesLng": "-94.631666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "memoirist",
+    "ambassador",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q49216",
+  "birthPlace": "Ceylon",
+  "fetchedAt": "2026-08-01T18:08:56.448Z"
+}

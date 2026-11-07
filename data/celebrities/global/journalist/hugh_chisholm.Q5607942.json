@@ -1,0 +1,32 @@
+{
+  "publicId": "96dacbe8",
+  "wikipediaSlug": "Hugh_Chisholm",
+  "wikipediaId": "Q5607942",
+  "name": "Hugh Chisholm",
+  "fullName": "Hugh Chisholm",
+  "profileSummary": "Hugh Chisholm was a British journalist. He was the editor of the 10th, 11th and 12th editions of the Encyclopædia Britannica.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hugh_Chisholm_1903.jpg/330px-Hugh_Chisholm_1903.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugh_Chisholm",
+  "dateOfBirth": "1866-02-22",
+  "birthDateParsed": "1866-02-22",
+  "dateOfDeath": "1924-09-29",
+  "deathDateParsed": "1924-09-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "editor"
+  ],
+  "qid": "Q5607942",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:22:22.905Z"
+}

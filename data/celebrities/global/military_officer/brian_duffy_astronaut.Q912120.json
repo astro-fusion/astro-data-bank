@@ -1,0 +1,33 @@
+{
+  "publicId": "5ebc2611",
+  "wikipediaSlug": "Brian_Duffy_(astronaut)",
+  "wikipediaId": "Q912120",
+  "name": "Brian Duffy (astronaut)",
+  "fullName": "Brian Duffy (astronaut)",
+  "profileSummary": "Brian Duffy is a retired U.S. Air Force colonel and a former NASA astronaut. He flew aboard four Space Shuttle missions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brian_Duffy_%28cropped%29.jpg/330px-Brian_Duffy_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Duffy_(astronaut)",
+  "dateOfBirth": "1953-06-20",
+  "birthDateParsed": "1953-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q912120",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T06:04:02.279Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "c8f65344",
+  "wikipediaSlug": "Giorgia_Meloni",
+  "wikipediaId": "Q451791",
+  "name": "Giorgia Meloni",
+  "fullName": "Giorgia Meloni",
+  "profileSummary": "Giorgia Meloni is an Italian politician who has served as Prime Minister of Italy since October 2022. She is the first woman to hold the office and the head of the second-longest government in the history of the Italian Republic. A member of the Chamber of Deputies since 2006, she has been president of the right-wing to far-right party Brothers of Italy (FdI) since 2014, and was president of the European Conservatives and Reformists Party from 2020 to 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/330px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgia_Meloni",
+  "dateOfBirth": "1977-01-15",
+  "birthDateParsed": "1977-01-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.893055555",
+  "birthCoordinatesLng": "12.482777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "journalist"
+  ],
+  "qid": "Q451791",
+  "birthPlace": "Rome",
+  "fetchedAt": "2026-08-04T00:55:58.399Z"
+}

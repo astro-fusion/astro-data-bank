@@ -1,0 +1,31 @@
+{
+  "publicId": "9d6d5a2f",
+  "wikipediaSlug": "Jannik_Sinner",
+  "wikipediaId": "Q54812588",
+  "name": "Jannik Sinner",
+  "fullName": "Jannik Sinner",
+  "profileSummary": "Jannik Sinner is an Italian professional tennis player. He is currently ranked world No.1 by Association of Tennis Professionals (ATP), and was the year-end No. 1 in 2024. Sinner has won 30 ATP Tour-level singles titles, including five majors, ten Masters and two ATP Finals titles. He led Italy to back-to-back Davis Cup crowns in 2023 and 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Jannik_Sinner_2025_US_Open.jpg/330px-Jannik_Sinner_2025_US_Open.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jannik_Sinner",
+  "dateOfBirth": "2001-08-16",
+  "birthDateParsed": "2001-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.732872",
+  "birthCoordinatesLng": "12.279167",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q54812588",
+  "birthPlace": "Innichen",
+  "fetchedAt": "2026-08-01T13:12:07.329Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "ec135649",
+  "wikipediaSlug": "Birgit_Fischer",
+  "wikipediaId": "Q2151006",
+  "name": "Birgit Fischer",
+  "fullName": "Birgit Fischer",
+  "profileSummary": "Birgit Fischer is a German former kayaker, who has won eight gold medals over six different Olympic Games, a record she shares with Aladár Gerevich and Isabell Werth, spanning seven Olympiads: twice representing East Germany, then four times representing the reunited nation. After both the 1988 and 2000 games, she announced her retirement, only to return for the subsequent games. She has been both the youngest- and oldest-ever Olympic canoeing champion. In 2004, she was chosen as the German sportswoman of the year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Birgit_Fischer_%282010%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Birgit_Fischer",
+  "dateOfBirth": "1962-02-25",
+  "birthDateParsed": "1962-02-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.414138888",
+  "birthCoordinatesLng": "12.554083333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "kayaker"
+  ],
+  "qid": "Q2151006",
+  "birthPlace": "Brandenburg an der Havel",
+  "fetchedAt": "2026-08-10T12:58:45.502Z"
+}

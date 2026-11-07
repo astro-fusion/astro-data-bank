@@ -1,0 +1,32 @@
+{
+  "publicId": "981a37cf",
+  "wikipediaSlug": "Jim_DeMint",
+  "wikipediaId": "Q22201",
+  "name": "Jim DeMint",
+  "fullName": "Jim DeMint",
+  "profileSummary": "James Warren DeMint is an American businessman, author, and retired politician who served as a United States senator from South Carolina and as president of The Heritage Foundation. A leading figure in the Tea Party movement, DeMint is a member of the Republican Party and is the founder of the Senate Conservatives Fund.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jim_DeMint.jpg/330px-Jim_DeMint.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_DeMint",
+  "dateOfBirth": "1951-09-02",
+  "birthDateParsed": "1951-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.844444444",
+  "birthCoordinatesLng": "-82.385555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "business executive"
+  ],
+  "qid": "Q22201",
+  "birthPlace": "Greenville",
+  "fetchedAt": "2026-08-02T02:17:40.862Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "d2b727cd",
+  "wikipediaSlug": "Alan_Moss",
+  "wikipediaId": "Q3526474",
+  "name": "Alan Moss",
+  "fullName": "Alan Moss",
+  "profileSummary": "Alan Edward Moss was an English cricketer, who played in nine Tests for England from 1954 to 1960.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Moss",
+  "dateOfBirth": "1930-11-14",
+  "birthDateParsed": "1930-11-14",
+  "dateOfDeath": "2019-03-12",
+  "deathDateParsed": "2019-03-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5975",
+  "birthCoordinatesLng": "-0.068055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526474",
+  "birthPlace": "Tottenham",
+  "fetchedAt": "2026-07-31T20:08:03.750Z"
+}

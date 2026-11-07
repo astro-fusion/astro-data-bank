@@ -1,0 +1,33 @@
+{
+  "publicId": "cfc77b04",
+  "wikipediaSlug": "Brij_Lal_(historian)",
+  "wikipediaId": "Q2925538",
+  "name": "Brij Lal (historian)",
+  "fullName": "Brij Lal (historian)",
+  "profileSummary": "Brij Vilash Lal, OF was an Indo-Fijian historian who wrote about the Pacific region and the Indian indenture system. A harsh critic of the Bainimarama government, which originated in the military coup of 2006 and retained power in the 2014 elections, he lived in exile in Australia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Prof-Brij-Lal-ANU.png/330px-Prof-Brij-Lal-ANU.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brij_Lal_(historian)",
+  "dateOfBirth": "1952-08-21",
+  "birthDateParsed": "1952-08-21",
+  "dateOfDeath": "2021-12-25",
+  "deathDateParsed": "2021-12-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-18",
+  "birthCoordinatesLng": "178",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q2925538",
+  "birthPlace": "Fiji",
+  "fetchedAt": "2026-08-07T04:26:40.764Z"
+}

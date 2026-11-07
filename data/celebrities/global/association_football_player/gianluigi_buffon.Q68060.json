@@ -1,0 +1,31 @@
+{
+  "publicId": "09296cf9",
+  "wikipediaSlug": "Gianluigi_Buffon",
+  "wikipediaId": "Q68060",
+  "name": "Gianluigi Buffon",
+  "fullName": "Gianluigi Buffon",
+  "profileSummary": "Gianluigi \"Gigi\" Buffon is an Italian former professional footballer who played as a goalkeeper. Widely regarded as one of the greatest goalkeepers of all time, he is one of the few recorded players to have made over 1,100 professional career appearances and holds the record for the most appearances in Serie A.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg/330px-Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gianluigi_Buffon",
+  "dateOfBirth": "1978-01-28",
+  "birthDateParsed": "1978-01-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.083333333",
+  "birthCoordinatesLng": "10.1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q68060",
+  "birthPlace": "Carrara",
+  "fetchedAt": "2026-08-10T11:28:19.166Z"
+}

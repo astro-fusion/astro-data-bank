@@ -1,0 +1,31 @@
+{
+  "publicId": "53c5b645",
+  "wikipediaSlug": "Carlos_Alcaraz",
+  "wikipediaId": "Q85518537",
+  "name": "Carlos Alcaraz",
+  "fullName": "Carlos Alcaraz",
+  "profileSummary": "Carlos Alcaraz Garfia is a Spanish professional tennis player. He has been ranked world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 66 weeks, and finished as the year-end No. 1 in 2022 and 2025. Alcaraz has won 26 ATP Tour–level singles titles, including seven majors and eight ATP Masters 1000 titles. He is the ninth and youngest man in history to complete the career Grand Slam in singles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg/330px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Alcaraz",
+  "dateOfBirth": "2003-05-05",
+  "birthDateParsed": "2003-05-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.94133809",
+  "birthCoordinatesLng": "-1.15457706",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q85518537",
+  "birthPlace": "El Palmar",
+  "fetchedAt": "2026-08-01T13:11:01.324Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "95360a6f",
+  "wikipediaSlug": "Joseph_Sifakis",
+  "wikipediaId": "Q92781",
+  "name": "Joseph Sifakis",
+  "fullName": "Joseph Sifakis",
+  "profileSummary": "Joseph Sifakis is a Greek-French computer scientist. He received the 2007 Turing Award, along with Edmund M. Clarke and E. Allen Emerson, for his work on model checking.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Joseph_Sifakis_2018.jpg/330px-Joseph_Sifakis_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Sifakis",
+  "dateOfBirth": "1946-12-26",
+  "birthDateParsed": "1946-12-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.340277777",
+  "birthCoordinatesLng": "25.134444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "researcher",
+    "electrical engineer"
+  ],
+  "qid": "Q92781",
+  "birthPlace": "Heraklion",
+  "fetchedAt": "2026-08-10T04:29:19.162Z"
+}

@@ -1,0 +1,41 @@
+{
+  "publicId": "531db16b",
+  "wikipediaSlug": "Octavio_Paz",
+  "wikipediaId": "Q46739",
+  "name": "Octavio Paz",
+  "fullName": "Octavio Paz",
+  "profileSummary": "Octavio Paz Lozano was a Mexican philosopher, poet, and diplomat. For his body of work, he was awarded the 1977 Jerusalem Prize, the 1981 Miguel de Cervantes Prize, the 1982 Neustadt International Prize for Literature, and the 1990 Nobel Prize in Literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Octavio_Paz_-_1988_Malm%C3%B6.jpg/330px-Octavio_Paz_-_1988_Malm%C3%B6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Octavio_Paz",
+  "dateOfBirth": "1914-03-31",
+  "birthDateParsed": "1914-03-31",
+  "dateOfDeath": "1998-04-19",
+  "deathDateParsed": "1998-04-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "lyricist",
+    "diplomat",
+    "philosopher",
+    "translator",
+    "essayist",
+    "writer",
+    "politician",
+    "university teacher",
+    "literary critic",
+    "librettist"
+  ],
+  "qid": "Q46739",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-06T07:42:21.372Z"
+}

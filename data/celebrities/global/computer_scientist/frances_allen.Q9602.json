@@ -1,0 +1,33 @@
+{
+  "publicId": "60022f75",
+  "wikipediaSlug": "Frances_Allen",
+  "wikipediaId": "Q9602",
+  "name": "Frances Allen",
+  "fullName": "Frances Allen",
+  "profileSummary": "Frances Elizabeth Allen was an American computer scientist and pioneer in the field of optimizing compilers. Allen was the first woman to become an IBM Fellow, and in 2006 became the first woman to win the Turing Award. Her achievements include seminal work in compilers, program optimization, and parallelization. She worked for IBM from 1957 to 2002 and subsequently was a Fellow Emerita.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Allen_mg_2528-3750K-b.jpg/330px-Allen_mg_2528-3750K-b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frances_Allen",
+  "dateOfBirth": "1932-08-04",
+  "birthDateParsed": "1932-08-04",
+  "dateOfDeath": "2020-08-04",
+  "deathDateParsed": "2020-08-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.57838",
+  "birthCoordinatesLng": "-73.5268",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher",
+    "engineer"
+  ],
+  "qid": "Q9602",
+  "birthPlace": "Peru",
+  "fetchedAt": "2026-08-10T04:28:42.774Z"
+}

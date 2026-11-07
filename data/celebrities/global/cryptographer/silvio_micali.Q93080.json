@@ -1,0 +1,34 @@
+{
+  "publicId": "a609e56a",
+  "wikipediaSlug": "Silvio_Micali",
+  "wikipediaId": "Q93080",
+  "name": "Silvio Micali",
+  "fullName": "Silvio Micali",
+  "profileSummary": "Silvio Micali is an Italian computer scientist, professor at the Massachusetts Institute of Technology and the founder of Algorand, a proof-of-stake blockchain cryptocurrency protocol. Micali's research at the MIT Computer Science and Artificial Intelligence Laboratory centers on cryptography and information security.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silvio_Micali.jpg/330px-Silvio_Micali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Silvio_Micali",
+  "dateOfBirth": "1954-10-13",
+  "birthDateParsed": "1954-10-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.115658055",
+  "birthCoordinatesLng": "13.361261944",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cryptographer",
+    "mathematician",
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q93080",
+  "birthPlace": "Palermo",
+  "fetchedAt": "2026-08-10T04:29:34.093Z"
+}

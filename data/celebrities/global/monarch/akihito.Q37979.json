@@ -1,0 +1,36 @@
+{
+  "publicId": "1e30989a",
+  "wikipediaSlug": "Akihito",
+  "wikipediaId": "Q37979",
+  "name": "Akihito",
+  "fullName": "Akihito",
+  "profileSummary": "Akihito is a member of the Imperial House of Japan who reigned as the 125th emperor of Japan from 7 January 1989 until his abdication on 30 April 2019. The era of his rule was named the Heisei era, Heisei being an expression of achieving peace worldwide.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Emperor_Akihito_%282016%29.jpg/330px-Emperor_Akihito_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akihito",
+  "dateOfBirth": "1933-12-23",
+  "birthDateParsed": "1933-12-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.6825",
+  "birthCoordinatesLng": "139.7521",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "ichthyologist",
+    "zoologist",
+    "marine biologist",
+    "ruler",
+    "Emperor of Japan"
+  ],
+  "qid": "Q37979",
+  "birthPlace": "Tokyo Imperial Palace",
+  "fetchedAt": "2026-08-05T02:42:52.422Z"
+}

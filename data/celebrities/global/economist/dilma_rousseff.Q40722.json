@@ -1,0 +1,32 @@
+{
+  "publicId": "7b1d04d7",
+  "wikipediaSlug": "Dilma_Rousseff",
+  "wikipediaId": "Q40722",
+  "name": "Dilma Rousseff",
+  "fullName": "Dilma Rousseff",
+  "profileSummary": "Dilma Vana Rousseff known mononymously as Dilma, is a Brazilian economist and politician who served as the 36th president of Brazil from 2011 until her impeachment and removal from office on 31 August 2016. She is the only woman to have held the Brazilian presidency to date. Since March 2023, she has been the chair of the New Development Bank. She also served in the cabinet of Luiz Inácio Lula da Silva during his first presidency—first as Minister of Mines and Energy, from 2003 to 2005, then as Chief of Staff from 2005 to 2010.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg/330px-Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dilma_Rousseff",
+  "dateOfBirth": "1947-12-14",
+  "birthDateParsed": "1947-12-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-19.928055555",
+  "birthCoordinatesLng": "-43.941944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician"
+  ],
+  "qid": "Q40722",
+  "birthPlace": "Belo Horizonte",
+  "fetchedAt": "2026-08-04T00:55:18.186Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "93196388",
+  "wikipediaSlug": "Adolfo_Pérez_Esquivel",
+  "wikipediaId": "Q206505",
+  "name": "Adolfo Pérez Esquivel",
+  "fullName": "Adolfo Pérez Esquivel",
+  "profileSummary": "Adolfo Pérez Esquivel is an Argentine activist, community organizer, painter, writer and sculptor. He was the recipient of the 1980 Nobel Peace Prize for his opposition to Argentina's last civil-military dictatorship (1976–1983), during which he was detained, tortured, and held without trial for 14 months. He also received, among other distinctions, the Pacem in Terris Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Entrevista_a_Adolfo_P%C3%A9rez_Esquivel_%28cropped%29.jpg/330px-Entrevista_a_Adolfo_P%C3%A9rez_Esquivel_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolfo_P%C3%A9rez_Esquivel",
+  "dateOfBirth": "1931-11-26",
+  "birthDateParsed": "1931-11-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architect",
+    "sculptor",
+    "painter",
+    "university teacher",
+    "writer",
+    "artist"
+  ],
+  "qid": "Q206505",
+  "birthPlace": "Buenos Aires",
+  "fetchedAt": "2026-08-04T02:12:30.342Z"
+}

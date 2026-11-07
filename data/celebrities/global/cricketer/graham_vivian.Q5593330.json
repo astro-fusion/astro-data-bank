@@ -1,0 +1,31 @@
+{
+  "publicId": "1d35b106",
+  "wikipediaSlug": "Graham_Vivian",
+  "wikipediaId": "Q5593330",
+  "name": "Graham Vivian",
+  "fullName": "Graham Vivian",
+  "profileSummary": "Graham Ellery Vivian is a former New Zealand cricketer who played in five Test matches and one One Day International (ODI) from 1965 to 1972. He made his Test match debut without previously playing in a first-class match. His father, Giff Vivian, played seven Tests for New Zealand in the 1930s. Both father and son were selected in New Zealand touring teams, in 1930 and 1965 respectively, at the age of 18.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GEV.jpg/330px-GEV.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Graham_Vivian",
+  "dateOfBirth": "1946-02-28",
+  "birthDateParsed": "1946-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5593330",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:03:40.631Z"
+}

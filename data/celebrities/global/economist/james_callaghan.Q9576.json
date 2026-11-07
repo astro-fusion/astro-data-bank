@@ -1,0 +1,33 @@
+{
+  "publicId": "f510ad54",
+  "wikipediaSlug": "James_Callaghan",
+  "wikipediaId": "Q9576",
+  "name": "James Callaghan",
+  "fullName": "James Callaghan",
+  "profileSummary": "Leonard James Callaghan, Baron Callaghan of Cardiff was a British statesman who served as Prime Minister of the United Kingdom from 1976 to 1979 and Leader of the Labour Party from 1976 to 1980. Callaghan is the only person to have held all four Great Offices of State, having also served as Chancellor of the Exchequer from 1964 to 1967, Home Secretary from 1967 to 1970 and Foreign Secretary from 1974 to 1976. He was a member of Parliament (MP) from 1945 to 1987.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/James_Callaghan_%281975%29.jpg/330px-James_Callaghan_%281975%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Callaghan",
+  "dateOfBirth": "1912-03-27",
+  "birthDateParsed": "1912-03-27",
+  "dateOfDeath": "2005-03-26",
+  "deathDateParsed": "2005-03-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.811",
+  "birthCoordinatesLng": "-1.062",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician",
+    "trade unionist"
+  ],
+  "qid": "Q9576",
+  "birthPlace": "Copnor",
+  "fetchedAt": "2026-08-02T05:22:39.245Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "4ce5c0dc",
+  "wikipediaSlug": "Gabriel_Hanot",
+  "wikipediaId": "Q947157",
+  "name": "Gabriel Hanot",
+  "fullName": "Gabriel Hanot",
+  "profileSummary": "Gabriel Hanot was a French footballer, coach and journalist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gabriel_Hanot_1910.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Hanot",
+  "dateOfBirth": "1889-11-06",
+  "birthDateParsed": "1889-11-06",
+  "dateOfDeath": "1968-08-10",
+  "deathDateParsed": "1968-08-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.289166666",
+  "birthCoordinatesLng": "2.78",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "journalist",
+    "association football coach"
+  ],
+  "qid": "Q947157",
+  "birthPlace": "Arras",
+  "fetchedAt": "2026-08-10T11:28:07.445Z"
+}

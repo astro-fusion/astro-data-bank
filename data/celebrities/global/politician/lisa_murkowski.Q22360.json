@@ -1,0 +1,32 @@
+{
+  "publicId": "1f285161",
+  "wikipediaSlug": "Lisa_Murkowski",
+  "wikipediaId": "Q22360",
+  "name": "Lisa Murkowski",
+  "fullName": "Lisa Murkowski",
+  "profileSummary": "Lisa Ann Murkowski is an American attorney and politician serving as the senior United States senator from the state of Alaska, having held the seat since 2002. She is the first woman to represent Alaska in the U.S. Congress and is the Senate's second-most senior Republican woman. Murkowski became dean of Alaska's congressional delegation upon Representative Don Young's death.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lisa_Murkowski_official_photo.jpg/330px-Lisa_Murkowski_official_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lisa_Murkowski",
+  "dateOfBirth": "1957-05-22",
+  "birthDateParsed": "1957-05-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.343083333",
+  "birthCoordinatesLng": "-131.646694444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q22360",
+  "birthPlace": "Ketchikan",
+  "fetchedAt": "2026-08-02T02:17:43.035Z"
+}

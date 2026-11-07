@@ -1,0 +1,34 @@
+{
+  "publicId": "cb72c4c4",
+  "wikipediaSlug": "Ramon_Tikaram",
+  "wikipediaId": "Q3929913",
+  "name": "Ramon Tikaram",
+  "fullName": "Ramon Tikaram",
+  "profileSummary": "Ramon Tikaram is a British actor. On television, he is known for his roles in the BBC2 series This Life (1996–1997), the BBC One soap opera EastEnders (2009–2012), the Channel 4 sitcom Man Down (2013–2015), the Sky Atlantic series Fortitude (2015–2017), the DC Universe series Pennyworth (2019–2022), and the Sky One comedy-drama Brassic (2019–2023). His films include Mischief Night (2006) and Endgame (2009).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramon_Tikaram",
+  "dateOfBirth": "1967-05-16",
+  "birthDateParsed": "1967-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q3929913",
+  "birthPlace": "Singapore",
+  "fetchedAt": "2026-08-07T04:27:07.349Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "d706df8e",
+  "wikipediaSlug": "Henrik_Pontoppidan",
+  "wikipediaId": "Q225554",
+  "name": "Henrik Pontoppidan",
+  "fullName": "Henrik Pontoppidan",
+  "profileSummary": "Henrik Pontoppidan was a Danish realist writer who shared with Karl Gjellerup the Nobel Prize for Literature in 1917 for \"his authentic descriptions of present-day life in Denmark.\" Pontoppidan's novels and short stories — informed with a desire for social progress but despairing, later in his life, of its realization — present an unusually comprehensive picture of his country and his epoch. As a writer he was an interesting figure, distancing himself both from the conservative environment in which he was brought up and from his socialist contemporaries and friends. He was the youngest and in many ways the most original and influential member of the Modern Break-Through.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Henrik_Pontoppidan_1913.jpg/330px-Henrik_Pontoppidan_1913.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrik_Pontoppidan",
+  "dateOfBirth": "1857-07-24",
+  "birthDateParsed": "1857-07-24",
+  "dateOfDeath": "1943-08-21",
+  "deathDateParsed": "1943-08-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.564444444",
+  "birthCoordinatesLng": "9.759722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "autobiographer",
+    "poet",
+    "prose writer"
+  ],
+  "qid": "Q225554",
+  "birthPlace": "Fredericia",
+  "fetchedAt": "2026-08-06T07:41:54.417Z"
+}

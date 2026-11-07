@@ -1,0 +1,34 @@
+{
+  "publicId": "39efe555",
+  "wikipediaSlug": "Frank_Bainimarama",
+  "wikipediaId": "Q57830",
+  "name": "Frank Bainimarama",
+  "fullName": "Frank Bainimarama",
+  "profileSummary": "Josaia Voreqe \"Frank\" Bainimarama is a Fijian former politician and naval officer who served as the prime minister of Fiji from 2007 until 2022. A member of the FijiFirst party, which he founded in 2014, he began his career as an officer in the Fijian navy and commander of the Fijian military.\nDespite being suspended from Parliament, he served as the opposition leader from 24 December 2022 until 8 March 2023, when he resigned and was replaced by Inia Seruiratu.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Frank_Bainimarama_November_2014.jpg/330px-Frank_Bainimarama_November_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Bainimarama",
+  "dateOfBirth": "1954-04-27",
+  "birthDateParsed": "1954-04-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-17.833333333",
+  "birthCoordinatesLng": "178.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "naval officer",
+    "head of government"
+  ],
+  "qid": "Q57830",
+  "birthPlace": "Tailevu",
+  "fetchedAt": "2026-08-07T04:26:44.927Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "2ebd2f45",
+  "wikipediaSlug": "Mike_Hawthorn",
+  "wikipediaId": "Q2104",
+  "name": "Mike Hawthorn",
+  "fullName": "Mike Hawthorn",
+  "profileSummary": "John Michael Hawthorn was a British racing driver who competed in Formula One from 1952 to 1958. Hawthorn won the Formula One World Drivers' Championship in 1958 with Ferrari, and won three Grands Prix across seven seasons. In endurance racing, Hawthorn won both the 24 Hours of Le Mans and the 12 Hours of Sebring in 1955 with Jaguar.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Mike_Hawthorn.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Hawthorn",
+  "dateOfBirth": "1929-04-10",
+  "birthDateParsed": "1929-04-10",
+  "dateOfDeath": "1959-01-22",
+  "deathDateParsed": "1959-01-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.494166666",
+  "birthCoordinatesLng": "-1.283333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver"
+  ],
+  "qid": "Q2104",
+  "birthPlace": "Mexborough",
+  "fetchedAt": "2026-08-01T16:01:56.776Z"
+}

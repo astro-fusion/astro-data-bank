@@ -1,0 +1,31 @@
+{
+  "publicId": "4b8db61a",
+  "wikipediaSlug": "Dennis_Bermudez",
+  "wikipediaId": "Q5258197",
+  "name": "Dennis Bermudez",
+  "fullName": "Dennis Bermudez",
+  "profileSummary": "Dennis Ross Bermudez is a retired American mixed martial artist who competed in the featherweight division of the Ultimate Fighting Championship (UFC). A professional competitor from 2009 to 2019, he made a name for himself mainly fighting on the East Coast, and was a competitor on Spike TV's The Ultimate Fighter: Team Bisping vs. Team Miller, where he became the runner-up.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bermund.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Bermudez",
+  "dateOfBirth": "1986-12-13",
+  "birthDateParsed": "1986-12-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.07759",
+  "birthCoordinatesLng": "-73.95291",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q5258197",
+  "birthPlace": "Saugerties",
+  "fetchedAt": "2026-08-01T17:05:40.240Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "eae655b2",
+  "wikipediaSlug": "Bradley_Wiggins",
+  "wikipediaId": "Q193876",
+  "name": "Bradley Wiggins",
+  "fullName": "Bradley Wiggins",
+  "profileSummary": "Sir Bradley Marc Wiggins is an English former professional road and track racing cyclist, who competed professionally between 2001-16. He became Great Britain’s most decorated Olympian, amassing eight medals across five Games, and remains the only rider to have won World and Olympic titles on the track and road. In 2012 he was the first British winner of the Tour de France.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2015_UEC_Track_Elite_European_Championships_158_%28cropped%29.JPG/330px-2015_UEC_Track_Elite_European_Championships_158_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bradley_Wiggins",
+  "dateOfBirth": "1980-04-28",
+  "birthDateParsed": "1980-04-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.053611111",
+  "birthCoordinatesLng": "3.725277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "track cyclist",
+    "sport cyclist"
+  ],
+  "qid": "Q193876",
+  "birthPlace": "Ghent",
+  "fetchedAt": "2026-08-10T12:58:43.079Z"
+}

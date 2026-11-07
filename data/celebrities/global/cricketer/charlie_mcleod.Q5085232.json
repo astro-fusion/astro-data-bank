@@ -1,0 +1,31 @@
+{
+  "publicId": "f31f3cda",
+  "wikipediaSlug": "Charlie_McLeod",
+  "wikipediaId": "Q5085232",
+  "name": "Charlie McLeod",
+  "fullName": "Charlie McLeod",
+  "profileSummary": "Charles Edward McLeod was an Australian cricketer who played in 17 Test matches between 1894 and 1905.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Charlie_McLeod_c1900.jpg/330px-Charlie_McLeod_c1900.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_McLeod",
+  "dateOfBirth": "1869-10-24",
+  "birthDateParsed": "1869-10-24",
+  "dateOfDeath": "1918-11-26",
+  "deathDateParsed": "1918-11-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.823888888",
+  "birthCoordinatesLng": "144.911111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5085232",
+  "birthPlace": "Port Melbourne",
+  "fetchedAt": "2026-07-31T19:45:12.672Z"
+}

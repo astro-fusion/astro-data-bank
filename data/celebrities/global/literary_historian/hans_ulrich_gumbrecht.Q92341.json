@@ -1,0 +1,40 @@
+{
+  "publicId": "2758c2bf",
+  "wikipediaSlug": "Hans_Ulrich_Gumbrecht",
+  "wikipediaId": "Q92341",
+  "name": "Hans Ulrich Gumbrecht",
+  "fullName": "Hans Ulrich Gumbrecht",
+  "profileSummary": "Hans Ulrich \"Sepp\" Gumbrecht is a German-born American literary theorist whose work spans philology, philosophy, semiotics, literary and cultural history, and epistemologies of the everyday. As of June 14, 2018, he is Albert Guérard Professor Emeritus in Literature at Stanford University. Since 1989, he held the Albert Guérard Chair as Professor in the Departments of Comparative literature and French and Italian in Stanford's Division of Literatures, Languages, and Cultures. By courtesy, he was also affiliated with the Departments of German studies, Iberian and Latin American Cultures, and the Program in Modern Thought and Literature. Since retirement, he continues to be a Catedratico Visitante Permanente at the University of Lisbon and became a Presidential Professor at the Hebrew University of Jerusalem in 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gumbrecht_at_Stanford.jpg/330px-Gumbrecht_at_Stanford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Ulrich_Gumbrecht",
+  "dateOfBirth": "1948-06-15",
+  "birthDateParsed": "1948-06-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.794444444",
+  "birthCoordinatesLng": "9.929444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "literary historian",
+    "university teacher",
+    "writer",
+    "literary critic",
+    "journalist",
+    "researcher",
+    "literary scholar",
+    "academic",
+    "romanist",
+    "comparative literature academic"
+  ],
+  "qid": "Q92341",
+  "birthPlace": "Würzburg",
+  "fetchedAt": "2026-08-04T15:06:58.624Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "2f38ce3b",
+  "wikipediaSlug": "Bill_Merritt_(cricketer)",
+  "wikipediaId": "Q4910168",
+  "name": "Bill Merritt (cricketer)",
+  "fullName": "Bill Merritt (cricketer)",
+  "profileSummary": "William Edward Merritt was a New Zealand Test cricketer who played for Canterbury and Northamptonshire, and a rugby league footballer who played for Canterbury, Wigan and Halifax.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bill_Merritt_1936.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Merritt_(cricketer)",
+  "dateOfBirth": "1908-08-18",
+  "birthDateParsed": "1908-08-18",
+  "dateOfDeath": "1977-06-09",
+  "deathDateParsed": "1977-06-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.571438888",
+  "birthCoordinatesLng": "172.764469444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4910168",
+  "birthPlace": "Sumner",
+  "fetchedAt": "2026-07-31T21:01:35.705Z"
+}

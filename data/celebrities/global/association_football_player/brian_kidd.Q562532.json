@@ -1,0 +1,32 @@
+{
+  "publicId": "1a93a103",
+  "wikipediaSlug": "Brian_Kidd",
+  "wikipediaId": "Q562532",
+  "name": "Brian Kidd",
+  "fullName": "Brian Kidd",
+  "profileSummary": "Brian Kidd is an English football coach and former player, who won the European Cup in 1968 with Manchester United. He was most recently assistant coach of Premier League club Manchester City.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brian_Kidd_%28cropped%29.JPG/330px-Brian_Kidd_%28cropped%29.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Kidd",
+  "dateOfBirth": "1949-05-29",
+  "birthDateParsed": "1949-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.466666666",
+  "birthCoordinatesLng": "-2.233333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q562532",
+  "birthPlace": "Manchester",
+  "fetchedAt": "2026-08-01T05:20:19.782Z"
+}

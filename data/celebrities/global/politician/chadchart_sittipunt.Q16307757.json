@@ -1,0 +1,31 @@
+{
+  "publicId": "990c5376",
+  "wikipediaSlug": "Chadchart_Sittipunt",
+  "wikipediaId": "Q16307757",
+  "name": "Chadchart Sittipunt",
+  "fullName": "Chadchart Sittipunt",
+  "profileSummary": "Chadchart Sittipunt is a Thai politician, engineer, and professor who is the incumbent Governor of Bangkok since 2022. He previously was Minister of Transport from 2012 to 2014.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chadchart_Sittipunt_October_2023_%28cropped%29.jpg/330px-Chadchart_Sittipunt_October_2023_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chadchart_Sittipunt",
+  "dateOfBirth": "1966-05-24",
+  "birthDateParsed": "1966-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.75",
+  "birthCoordinatesLng": "100.516666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q16307757",
+  "birthPlace": "Bangkok",
+  "fetchedAt": "2026-08-05T03:16:30.250Z"
+}

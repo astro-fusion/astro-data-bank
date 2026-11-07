@@ -1,0 +1,34 @@
+{
+  "publicId": "d85889e9",
+  "wikipediaSlug": "Paul_Westphal",
+  "wikipediaId": "Q2063085",
+  "name": "Paul Westphal",
+  "fullName": "Paul Westphal",
+  "profileSummary": "Paul Douglas Westphal was an American basketball player and coach.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Paul_Westphal_1975_press_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Westphal",
+  "dateOfBirth": "1950-11-30",
+  "birthDateParsed": "1950-11-30",
+  "dateOfDeath": "2021-01-02",
+  "deathDateParsed": "2021-01-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.8358492",
+  "birthCoordinatesLng": "-118.3406288",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "sports commentator",
+    "head coach"
+  ],
+  "qid": "Q2063085",
+  "birthPlace": "Torrance",
+  "fetchedAt": "2026-08-01T15:38:28.073Z"
+}

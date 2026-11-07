@@ -1,0 +1,31 @@
+{
+  "publicId": "bc26660f",
+  "wikipediaSlug": "Alan_Fairfax",
+  "wikipediaId": "Q2830503",
+  "name": "Alan Fairfax",
+  "fullName": "Alan Fairfax",
+  "profileSummary": "Alan Geoffrey Fairfax was an Australian cricketer who played in ten Test matches from 1929 to 1931. He was an all rounder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/AlanFairfax.jpg/330px-AlanFairfax.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Fairfax",
+  "dateOfBirth": "1906-06-16",
+  "birthDateParsed": "1906-06-16",
+  "dateOfDeath": "1955-05-17",
+  "deathDateParsed": "1955-05-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32",
+  "birthCoordinatesLng": "147",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2830503",
+  "birthPlace": "New South Wales",
+  "fetchedAt": "2026-07-31T19:43:34.720Z"
+}

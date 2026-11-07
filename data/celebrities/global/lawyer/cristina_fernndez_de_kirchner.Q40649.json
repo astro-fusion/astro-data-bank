@@ -1,0 +1,31 @@
+{
+  "publicId": "e592cf16",
+  "wikipediaSlug": "Cristina_Fernández_de_Kirchner",
+  "wikipediaId": "Q40649",
+  "name": "Cristina Fernández de Kirchner",
+  "fullName": "Cristina Fernández de Kirchner",
+  "profileSummary": "Cristina Elísabet Fernández de Kirchner is an Argentine lawyer and politician who served as the 55th President of Argentina from 2007 to 2015, and later as the 37th Vice President of Argentina under President Alberto Fernández from 2019 to 2023. The widow of Néstor Kirchner, she was also First Lady during his presidency from 2003 to 2007. She was the second female president of Argentina after Isabel Perón and the first to be directly elected to office. Ideologically self-identified as a Peronist and a progressive, her political approach is called Kirchnerism. Since 2024, she has been the president of the Justicialist Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cristinakirchnermensaje2010.jpg/330px-Cristinakirchnermensaje2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner",
+  "dateOfBirth": "1953-02-19",
+  "birthDateParsed": "1953-02-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.8942",
+  "birthCoordinatesLng": "-57.9647",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer"
+  ],
+  "qid": "Q40649",
+  "birthPlace": "Tolosa",
+  "fetchedAt": "2026-08-04T00:55:18.784Z"
+}

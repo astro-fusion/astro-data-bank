@@ -1,0 +1,31 @@
+{
+  "publicId": "d0605298",
+  "wikipediaSlug": "Aaron_Redmond",
+  "wikipediaId": "Q4662361",
+  "name": "Aaron Redmond",
+  "fullName": "Aaron Redmond",
+  "profileSummary": "Aaron James Redmond is a former New Zealand international cricketer. He was a member of the Otago cricket team for ten seasons, having previously played for Canterbury. Redmond played as a right-handed batsman. He made eight Test match, six One Day International and seven Twenty20 International appearances for the New Zealand national cricket team between 2008 and 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aaron_Redmond_batting%2C_cropped.jpg/330px-Aaron_Redmond_batting%2C_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Redmond",
+  "dateOfBirth": "1979-09-23",
+  "birthDateParsed": "1979-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4662361",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:01:41.428Z"
+}

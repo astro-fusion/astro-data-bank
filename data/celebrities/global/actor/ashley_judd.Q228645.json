@@ -1,0 +1,35 @@
+{
+  "publicId": "45050c64",
+  "wikipediaSlug": "Ashley_Judd",
+  "wikipediaId": "Q228645",
+  "name": "Ashley Judd",
+  "fullName": "Ashley Judd",
+  "profileSummary": "Ashley Tyler Ciminella, known professionally as Ashley Judd, is an American actress. She grew up in a family of performing artists, the daughter of country music singer Naomi Judd and the half-sister of country music singer Wynonna Judd. Her acting career has spanned more than three decades, and she has been involved in global humanitarian efforts and political activism. Judd made her television debut in 1991 with a guest role on two episodes of Star Trek: The Next Generation and her film debut in 1992's Kuffs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ashley_Judd_SXSW_2024.jpg/330px-Ashley_Judd_SXSW_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashley_Judd",
+  "dateOfBirth": "1968-04-19",
+  "birthDateParsed": "1968-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.2647",
+  "birthCoordinatesLng": "-118.522",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "voice actor",
+    "stage actor"
+  ],
+  "qid": "Q228645",
+  "birthPlace": "Granada Hills",
+  "fetchedAt": "2026-08-05T02:43:37.965Z"
+}

@@ -1,0 +1,42 @@
+{
+  "publicId": "1273b30e",
+  "wikipediaSlug": "JD_Vance",
+  "wikipediaId": "Q28935729",
+  "name": "JD Vance",
+  "fullName": "JD Vance",
+  "profileSummary": "James David Vance is an American politician, author, and venture capitalist serving as the 50th vice president of the United States. A member of the Republican Party, he represented the state of Ohio in the United States Senate from 2023 to 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28head-and-shoulders_cropped%29.jpg/330px-March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28head-and-shoulders_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/JD_Vance",
+  "dateOfBirth": "1984-08-02",
+  "birthDateParsed": "1984-08-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.506111111",
+  "birthCoordinatesLng": "-84.375833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "financier",
+    "pundit",
+    "politician",
+    "corporate lawyer",
+    "merchant",
+    "skier",
+    "ideologue",
+    "jurist",
+    "vice president",
+    "author",
+    "soldier"
+  ],
+  "qid": "Q28935729",
+  "birthPlace": "Middletown",
+  "fetchedAt": "2026-08-02T02:17:43.652Z"
+}

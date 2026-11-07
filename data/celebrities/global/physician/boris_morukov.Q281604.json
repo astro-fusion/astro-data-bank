@@ -1,0 +1,32 @@
+{
+  "publicId": "44bc272b",
+  "wikipediaSlug": "Boris_Morukov",
+  "wikipediaId": "Q281604",
+  "name": "Boris Morukov",
+  "fullName": "Boris Morukov",
+  "profileSummary": "Boris Vladimirovich Morukov was a Russian physician at the State Research Center RF-Institute for Biomedical Problems (IBMP). He trained with the Russian Federal Space Agency as a research-cosmonaut and flew aboard NASA Space Shuttle mission STS-106 as a mission specialist",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Morukov32.jpg/330px-Morukov32.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Morukov",
+  "dateOfBirth": "1950-10-01",
+  "birthDateParsed": "1950-10-01",
+  "dateOfDeath": "2015-01-01",
+  "deathDateParsed": "2015-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "astronaut"
+  ],
+  "qid": "Q281604",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-10T06:04:03.815Z"
+}

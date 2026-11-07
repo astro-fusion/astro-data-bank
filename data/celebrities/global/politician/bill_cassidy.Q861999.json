@@ -1,0 +1,33 @@
+{
+  "publicId": "b9704c34",
+  "wikipediaSlug": "Bill_Cassidy",
+  "wikipediaId": "Q861999",
+  "name": "Bill Cassidy",
+  "fullName": "Bill Cassidy",
+  "profileSummary": "William Morgan Cassidy is an American politician and physician who is the senior United States senator from Louisiana, a seat he has held since 2015. A member of the Republican Party, he served in the Louisiana State Senate from 2006 to 2009 and in the U.S. House of Representatives from 2009 to 2015. Cassidy has chaired the Senate Health, Education, Labor, & Pensions (HELP) Committee since 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bill_Cassidy_official_Senate_photo.jpg/330px-Bill_Cassidy_official_Senate_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Cassidy",
+  "dateOfBirth": "1957-09-28",
+  "birthDateParsed": "1957-09-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.1825",
+  "birthCoordinatesLng": "-87.806944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physician",
+    "researcher"
+  ],
+  "qid": "Q861999",
+  "birthPlace": "Highland Park",
+  "fetchedAt": "2026-08-02T02:16:10.480Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "745a6bbb",
+  "wikipediaSlug": "John_T._Walton",
+  "wikipediaId": "Q484669",
+  "name": "John T. Walton",
+  "fullName": "John T. Walton",
+  "profileSummary": "John Thomas Walton was an American war veteran, businessman and a son of Walmart founder Sam Walton. He was the chairman of True North Venture Partners, a venture capital firm. Walton cofounded the Children's Scholarship Fund, providing tuition scholarships for disadvantaged youth.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_T._Walton",
+  "dateOfBirth": "1946-10-08",
+  "birthDateParsed": "1946-10-08",
+  "dateOfDeath": "2005-06-27",
+  "deathDateParsed": "2005-06-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.611944444",
+  "birthCoordinatesLng": "-91.262222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "military personnel",
+    "businessperson"
+  ],
+  "qid": "Q484669",
+  "birthPlace": "Newport",
+  "fetchedAt": "2026-08-04T03:34:31.815Z"
+}

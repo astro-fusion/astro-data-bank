@@ -1,0 +1,31 @@
+{
+  "publicId": "f2925878",
+  "wikipediaSlug": "Tony_Abbott",
+  "wikipediaId": "Q348577",
+  "name": "Tony Abbott",
+  "fullName": "Tony Abbott",
+  "profileSummary": "Anthony John Abbott is an Australian politician who served as the 28th prime minister of Australia from 2013 to 2015, holding office as the leader of the Liberal Party. He was the member of Parliament (MP) for the New South Wales division of Warringah from 1994 to 2019 and is the current president of the Liberal Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Prime_Minister_Tony_Abbott_official_portrait.jpg/330px-Prime_Minister_Tony_Abbott_official_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Abbott",
+  "dateOfBirth": "1957-11-04",
+  "birthDateParsed": "1957-11-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5016",
+  "birthCoordinatesLng": "-0.11666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q348577",
+  "birthPlace": "General Lying-In Hospital",
+  "fetchedAt": "2026-08-03T12:59:01.866Z"
+}

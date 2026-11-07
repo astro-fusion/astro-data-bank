@@ -1,0 +1,32 @@
+{
+  "publicId": "20b87f4f",
+  "wikipediaSlug": "Vikram_Nair",
+  "wikipediaId": "Q7929569",
+  "name": "Vikram Nair",
+  "fullName": "Vikram Nair",
+  "profileSummary": "Vikram Nair is a Singaporean politician and lawyer. A member of the governing People's Action Party (PAP), he has been the Member of Parliament (MP) representing the Admiralty division of Sembawang Group Representation Constituency since 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Vikram_Nair.jpg/330px-Vikram_Nair.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vikram_Nair",
+  "dateOfBirth": "1978-07-18",
+  "birthDateParsed": "1978-07-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q7929569",
+  "birthPlace": "Singapore",
+  "fetchedAt": "2026-08-06T09:09:18.945Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "bdc81271",
+  "wikipediaSlug": "Andre_Geim",
+  "wikipediaId": "Q104104",
+  "name": "Andre Geim",
+  "fullName": "Andre Geim",
+  "profileSummary": "Sir Andre Konstantin Geim is a Russian-born British physicist working in England in the School of Physics and Astronomy at the University of Manchester.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Andre_Geim_10.jpg/330px-Andre_Geim_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andre_Geim",
+  "dateOfBirth": "1958-10-21",
+  "birthDateParsed": "1958-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.585277777",
+  "birthCoordinatesLng": "39.720277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "inventor",
+    "professor",
+    "scientist"
+  ],
+  "qid": "Q104104",
+  "birthPlace": "Sochi",
+  "fetchedAt": "2026-08-06T05:00:58.378Z"
+}

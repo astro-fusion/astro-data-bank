@@ -1,0 +1,33 @@
+{
+  "publicId": "fe356636",
+  "wikipediaSlug": "Alexis_Davis_(fighter)",
+  "wikipediaId": "Q4721435",
+  "name": "Alexis Davis (fighter)",
+  "fullName": "Alexis Davis (fighter)",
+  "profileSummary": "Alexis Evelyn Chris Davis is a Canadian mixed martial artist who competed in the Ultimate Fighting Championship (UFC) where she is a former Title challenger. She is a Canadian Open grappling champion.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexis_Davis_(fighter)",
+  "dateOfBirth": "1984-10-04",
+  "birthDateParsed": "1984-10-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.883333333",
+  "birthCoordinatesLng": "-79.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "academic",
+    "university teacher"
+  ],
+  "qid": "Q4721435",
+  "birthPlace": "Port Colborne",
+  "fetchedAt": "2026-08-01T17:04:05.444Z"
+}

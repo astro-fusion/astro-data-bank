@@ -1,0 +1,34 @@
+{
+  "publicId": "f8ef7131",
+  "wikipediaSlug": "H._Robert_Horvitz",
+  "wikipediaId": "Q295659",
+  "name": "H. Robert Horvitz",
+  "fullName": "H. Robert Horvitz",
+  "profileSummary": "Howard Robert Horvitz ForMemRS is an American biologist whose research on the nematode worm Caenorhabditis elegans was awarded the 2002 Nobel Prize in Physiology or Medicine, together with Sydney Brenner and John E. Sulston, whose \"seminal discoveries concerning the genetic regulation of organ development and programmed cell death\" were \"important for medical research and have shed new light on the pathogenesis of many diseases\".",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/H._Robert_Horvitz",
+  "dateOfBirth": "1947-05-08",
+  "birthDateParsed": "1947-05-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "university teacher",
+    "geneticist",
+    "physician"
+  ],
+  "qid": "Q295659",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-10T03:15:17.390Z"
+}

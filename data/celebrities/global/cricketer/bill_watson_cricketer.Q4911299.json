@@ -1,0 +1,31 @@
+{
+  "publicId": "9073e137",
+  "wikipediaSlug": "Bill_Watson_(cricketer)",
+  "wikipediaId": "Q4911299",
+  "name": "Bill Watson (cricketer)",
+  "fullName": "Bill Watson (cricketer)",
+  "profileSummary": "William James Watson was an Australian cricketer who played in four Test matches in 1955. He played first-class cricket for New South Wales from 1953–54 to 1960–61.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Watson_(cricketer)",
+  "dateOfBirth": "1931-01-31",
+  "birthDateParsed": "1931-01-31",
+  "dateOfDeath": "2018-12-29",
+  "deathDateParsed": "2018-12-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4911299",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T19:45:08.794Z"
+}

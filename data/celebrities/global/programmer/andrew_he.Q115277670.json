@@ -1,0 +1,31 @@
+{
+  "publicId": "47aa5f03",
+  "wikipediaSlug": "Andrew_He",
+  "wikipediaId": "Q115277670",
+  "name": "Andrew He",
+  "fullName": "Andrew He",
+  "profileSummary": "Andrew He is an American competitive programmer and the winner of the 2021 Facebook Hacker Cup.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_He",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "programmer"
+  ],
+  "qid": "Q115277670",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:16:04.172Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "3ef9d20a",
+  "wikipediaSlug": "Crawford_Greenewalt",
+  "wikipediaId": "Q4459873",
+  "name": "Crawford Greenewalt",
+  "fullName": "Crawford Greenewalt",
+  "profileSummary": "Crawford Hallock Greenewalt was an American chemical engineer who was president of the DuPont Company from 1948 to 1962, and chairman from 1962 to 1967.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Crawford_Greenewalt",
+  "dateOfBirth": "1902-08-16",
+  "birthDateParsed": "1902-08-16",
+  "dateOfDeath": "1993-09-28",
+  "deathDateParsed": "1993-09-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.46175",
+  "birthCoordinatesLng": "-72.89398",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "entrepreneur",
+    "chemist"
+  ],
+  "qid": "Q4459873",
+  "birthPlace": "Cummington",
+  "fetchedAt": "2026-08-05T03:16:41.576Z"
+}

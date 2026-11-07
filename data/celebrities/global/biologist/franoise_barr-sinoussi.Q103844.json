@@ -1,0 +1,36 @@
+{
+  "publicId": "1018c0a2",
+  "wikipediaSlug": "Françoise_Barré-Sinoussi",
+  "wikipediaId": "Q103844",
+  "name": "Françoise Barré-Sinoussi",
+  "fullName": "Françoise Barré-Sinoussi",
+  "profileSummary": "Françoise Barré-Sinoussi is a French virologist and Director of the Regulation of Retroviral Infections Division and Professor at the Institut Pasteur in Paris. Born in Paris, Barré-Sinoussi performed some of the fundamental work in the identification of the human immunodeficiency virus (HIV) as the cause of AIDS. In 2008, Barré-Sinoussi was awarded the Nobel Prize in Physiology or Medicine, together with her former mentor, Luc Montagnier, for their discovery of HIV. She mandatorily retired from active research on 31 August 2015, and fully retired by some time in 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fran%C3%A7oise_Barr%C3%A9-Sinoussi-press_conference_Dec_06th%2C_2008-1.jpg/330px-Fran%C3%A7oise_Barr%C3%A9-Sinoussi-press_conference_Dec_06th%2C_2008-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi",
+  "dateOfBirth": "1947-07-30",
+  "birthDateParsed": "1947-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.88235",
+  "birthCoordinatesLng": "2.381822222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "virologist",
+    "directeur de recherche",
+    "university teacher",
+    "researcher",
+    "physician"
+  ],
+  "qid": "Q103844",
+  "birthPlace": "19th arrondissement of Paris",
+  "fetchedAt": "2026-08-10T03:15:26.913Z"
+}

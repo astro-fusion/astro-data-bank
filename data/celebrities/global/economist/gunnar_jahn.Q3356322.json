@@ -1,0 +1,37 @@
+{
+  "publicId": "5512a839",
+  "wikipediaSlug": "Gunnar_Jahn",
+  "wikipediaId": "Q3356322",
+  "name": "Gunnar Jahn",
+  "fullName": "Gunnar Jahn",
+  "profileSummary": "Gunnar Jahn was a Norwegian jurist, economist, statistician, politician for the Liberal Party and resistance member. He held several important positions, such as Norwegian Minister of Finance and Customs from 1934 to 1935 and in 1945, chair of the Norwegian Nobel Committee from 1941 to 1966 and Governor of the Central Bank of Norway from 1946 to 1954.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gunnar_Jahn.jpg/330px-Gunnar_Jahn.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gunnar_Jahn",
+  "dateOfBirth": "1883-01-10",
+  "birthDateParsed": "1883-01-10",
+  "dateOfDeath": "1971-01-31",
+  "deathDateParsed": "1971-01-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "63.44",
+  "birthCoordinatesLng": "10.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician",
+    "banker",
+    "jurist",
+    "statistician",
+    "non-fiction writer",
+    "chief officer"
+  ],
+  "qid": "Q3356322",
+  "birthPlace": "Trondheim",
+  "fetchedAt": "2026-08-04T02:13:25.848Z"
+}

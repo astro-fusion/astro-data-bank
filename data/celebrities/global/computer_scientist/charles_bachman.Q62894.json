@@ -1,0 +1,32 @@
+{
+  "publicId": "9ef6a9ef",
+  "wikipediaSlug": "Charles_Bachman",
+  "wikipediaId": "Q62894",
+  "name": "Charles Bachman",
+  "fullName": "Charles Bachman",
+  "profileSummary": "Charles William Bachman III was an American computer scientist, who spent his entire career as an industrial researcher, developer, and manager rather than in academia. He was particularly known for his work in the early development of database management systems.\nHis techniques of layered architecture include his namesake Bachman diagrams. He won the 1973 ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Charles_Bachman_2012.jpg/330px-Charles_Bachman_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Bachman",
+  "dateOfBirth": "1924-12-11",
+  "birthDateParsed": "1924-12-11",
+  "dateOfDeath": "2017-07-13",
+  "deathDateParsed": "2017-07-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.19",
+  "birthCoordinatesLng": "-96.58667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer"
+  ],
+  "qid": "Q62894",
+  "birthPlace": "Manhattan",
+  "fetchedAt": "2026-08-10T04:28:29.418Z"
+}

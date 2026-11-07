@@ -1,0 +1,35 @@
+{
+  "publicId": "989c0406",
+  "wikipediaSlug": "Gustav_Flatow",
+  "wikipediaId": "Q213620",
+  "name": "Gustav Flatow",
+  "fullName": "Gustav Flatow",
+  "profileSummary": "Gustav Felix Flatow was a German gymnast. He competed at the 1896 Summer Olympics in Athens and at the 1900 Summer Olympics in Paris. Flatow was Jewish, and was born in Berent, West Prussia. In 1892, he moved to Berlin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gustav_Flatow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustav_Flatow",
+  "dateOfBirth": "1875-01-07",
+  "birthDateParsed": "1875-01-07",
+  "dateOfDeath": "1945-01-29",
+  "deathDateParsed": "1945-01-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.121944444",
+  "birthCoordinatesLng": "17.981111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artistic gymnast",
+    "commercial employee",
+    "general manager",
+    "athlete",
+    "Olympic champion"
+  ],
+  "qid": "Q213620",
+  "birthPlace": "Kościerzyna",
+  "fetchedAt": "2026-08-10T13:00:15.739Z"
+}

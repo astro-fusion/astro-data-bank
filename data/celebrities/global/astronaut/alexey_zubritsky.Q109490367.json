@@ -1,0 +1,32 @@
+{
+  "publicId": "fd0ed2ab",
+  "wikipediaSlug": "Alexey_Zubritsky",
+  "wikipediaId": "Q109490367",
+  "name": "Alexey Zubritsky",
+  "fullName": "Alexey Zubritsky",
+  "profileSummary": "Alexey Vitalyevich Zubritsky is a Russian military pilot and cosmonaut, selected in 2018. Zubritsky is the 135th cosmonaut of the Roscosmos Cosmonaut Corps.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Expedition_73_Press_Conference_%28NHQ202504070016%29.jpg/330px-Expedition_73_Press_Conference_%28NHQ202504070016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexey_Zubritsky",
+  "dateOfBirth": "1992-08-22",
+  "birthDateParsed": "1992-08-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.928976351",
+  "birthCoordinatesLng": "35.075565242",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q109490367",
+  "birthPlace": "Volodymyrivske",
+  "fetchedAt": "2026-08-10T06:03:32.582Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "3a95ed8c",
+  "wikipediaSlug": "Imre_Kertész",
+  "wikipediaId": "Q47755",
+  "name": "Imre Kertész",
+  "fullName": "Imre Kertész",
+  "profileSummary": "Imre Kertész was a Hungarian author and recipient of the 2002 Nobel Prize in Literature, \"for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history\". He was the first Hungarian to win the Nobel in Literature. His works deal with themes of the Holocaust, dictatorship, and personal freedom.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Oliver_Mark_-_Imre_Kert%C3%A9sz%2C_Berlin_2005.jpg/330px-Oliver_Mark_-_Imre_Kert%C3%A9sz%2C_Berlin_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Imre_Kert%C3%A9sz",
+  "dateOfBirth": "1929-11-09",
+  "birthDateParsed": "1929-11-09",
+  "dateOfDeath": "2016-03-31",
+  "deathDateParsed": "2016-03-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "translator",
+    "novelist",
+    "journalist",
+    "screenwriter",
+    "playwright"
+  ],
+  "qid": "Q47755",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-06T07:41:46.746Z"
+}

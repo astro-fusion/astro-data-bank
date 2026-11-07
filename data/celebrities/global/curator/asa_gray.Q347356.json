@@ -1,0 +1,36 @@
+{
+  "publicId": "e625f728",
+  "wikipediaSlug": "Asa_Gray",
+  "wikipediaId": "Q347356",
+  "name": "Asa Gray",
+  "fullName": "Asa Gray",
+  "profileSummary": "Asa Gray was an American botanist who was considered the most important American botanist of the 19th century. His Darwiniana (1876) was considered by some as an important explanation of how religion and science were not necessarily mutually exclusive. Gray was adamant that a genetic connection must exist between all members of a species. He was also strongly opposed to the ideas of hybridization within one generation and special creation in the sense of its not allowing for evolution. Gray was a strong supporter of Darwin while at the same time being a proponent of theistic evolution.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Asa_Gray_1870s.jpg/330px-Asa_Gray_1870s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Asa_Gray",
+  "dateOfBirth": "1810-11-18",
+  "birthDateParsed": "1810-11-18",
+  "dateOfDeath": "1888-01-30",
+  "deathDateParsed": "1888-01-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.000555555",
+  "birthCoordinatesLng": "-75.313888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "curator",
+    "botanist",
+    "university teacher",
+    "writer",
+    "botanical collector",
+    "scientific collector"
+  ],
+  "qid": "Q347356",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-05T02:43:45.004Z"
+}

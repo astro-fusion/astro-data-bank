@@ -1,0 +1,34 @@
+{
+  "publicId": "50db1b71",
+  "wikipediaSlug": "Allan_V._Cox",
+  "wikipediaId": "Q179365",
+  "name": "Allan V. Cox",
+  "fullName": "Allan V. Cox",
+  "profileSummary": "Allan Verne Cox was an American geophysicist. His work on dating geomagnetic reversals, with Richard Doell and Brent Dalrymple, made a major contribution to the theory of plate tectonics. Allan Cox won numerous awards, including the prestigious Vetlesen Prize, and was the president of the American Geophysical Union. He was the author of over a hundred scientific papers, and the author or editor of two books on plate tectonics. On January 27, 1987, Cox died in an apparent suicide.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_V._Cox",
+  "dateOfBirth": "1926-12-17",
+  "birthDateParsed": "1926-12-17",
+  "dateOfDeath": "1987-01-27",
+  "deathDateParsed": "1987-01-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.740833333",
+  "birthCoordinatesLng": "-117.881388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "geologist",
+    "geographer",
+    "geophysicist"
+  ],
+  "qid": "Q179365",
+  "birthPlace": "Santa Ana",
+  "fetchedAt": "2026-08-04T15:04:35.675Z"
+}

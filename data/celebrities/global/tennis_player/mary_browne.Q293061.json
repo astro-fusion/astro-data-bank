@@ -1,0 +1,32 @@
+{
+  "publicId": "a2a5ab96",
+  "wikipediaSlug": "Mary_Browne",
+  "wikipediaId": "Q293061",
+  "name": "Mary Browne",
+  "fullName": "Mary Browne",
+  "profileSummary": "Mary Kendall Browne was an American professional tennis player and an amateur golfer. She was born in Ventura County, California.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mary_Browne.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mary_Browne",
+  "dateOfBirth": "1891-06-03",
+  "birthDateParsed": "1891-06-03",
+  "dateOfDeath": "1971-08-19",
+  "deathDateParsed": "1971-08-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.021944444",
+  "birthCoordinatesLng": "-118.481388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "golfer"
+  ],
+  "qid": "Q293061",
+  "birthPlace": "Santa Monica",
+  "fetchedAt": "2026-08-01T15:00:25.840Z"
+}

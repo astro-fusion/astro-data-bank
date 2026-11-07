@@ -1,0 +1,37 @@
+{
+  "publicId": "6e5d3e7e",
+  "wikipediaSlug": "Emmanuelle_Charpentier",
+  "wikipediaId": "Q17280087",
+  "name": "Emmanuelle Charpentier",
+  "fullName": "Emmanuelle Charpentier",
+  "profileSummary": "Emmanuelle Marie Charpentier is a French professor and researcher in microbiology, genetics, and biochemistry. She has served as a director at the Max Planck Institute for Infection Biology in Berlin since 2015. Three years later, she founded an independent research institute, the Max Planck Unit for the Science of Pathogens. In 2020, Charpentier and American biochemist Jennifer Doudna of the University of California, Berkeley, were awarded the Nobel Prize in Chemistry \"for the development of a method for genome editing\". This was the first science Nobel Prize ever won by two women only.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Emmanuelle_Charpentier.jpg/330px-Emmanuelle_Charpentier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuelle_Charpentier",
+  "dateOfBirth": "1968-12-11",
+  "birthDateParsed": "1968-12-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.688333333",
+  "birthCoordinatesLng": "2.3775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "microbiologist",
+    "biochemist",
+    "geneticist",
+    "immunologist",
+    "university teacher",
+    "scientist",
+    "director"
+  ],
+  "qid": "Q17280087",
+  "birthPlace": "Juvisy-sur-Orge",
+  "fetchedAt": "2026-08-10T02:04:21.725Z"
+}

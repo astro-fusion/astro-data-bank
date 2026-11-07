@@ -1,0 +1,41 @@
+{
+  "publicId": "5aab6746",
+  "wikipediaSlug": "Bill_Gates",
+  "wikipediaId": "Q5284",
+  "name": "Bill Gates",
+  "fullName": "Bill Gates",
+  "profileSummary": "William Henry Gates III is an American businessman and philanthropist. A pioneer of the microcomputer revolution of the 1970s and 1980s, he co-founded the software company Microsoft in 1975 with his childhood friend Paul Allen. Following Microsoft's initial public offering in 1986 and the subsequent increase in its stock price, Gates became the world's then-youngest billionaire in 1987, at age 31. Forbes magazine ranked him as the world's wealthiest person in their The World's Billionaires list for 18 out of 24 years between 1995 and 2017, including 13 years consecutively from 1995 to 2007. Gates became the first centibillionaire in 1999, when his net worth briefly surpassed US$100 billion. According to Forbes, as of July 2026, his net worth stood at US$106.5 billion, making him the 19th-wealthiest individual in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/330px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Gates",
+  "dateOfBirth": "1955-10-28",
+  "birthDateParsed": "1955-10-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.605",
+  "birthCoordinatesLng": "-122.33",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "programmer",
+    "computer scientist",
+    "bridge player",
+    "investor",
+    "philanthropist",
+    "writer",
+    "business magnate",
+    "technology entrepreneur",
+    "patron of the arts",
+    "founder"
+  ],
+  "qid": "Q5284",
+  "birthPlace": "Seattle",
+  "fetchedAt": "2026-08-04T03:33:59.895Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "334e5714",
+  "wikipediaSlug": "Delcy_Rodríguez",
+  "wikipediaId": "Q15081116",
+  "name": "Delcy Rodríguez",
+  "fullName": "Delcy Rodríguez",
+  "profileSummary": "Delcy Eloína Rodríguez Gómez is a Venezuelan politician and diplomat who has been acting president of Venezuela since 2026, after the United States intervention in Venezuela. She is the first woman in Venezuelan history to perform the duties of the presidency. A member of the United Socialist Party of Venezuela (PSUV), Rodríguez served as the 24th vice president under Nicolás Maduro's government since 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Delcy_Rodr%C3%ADguez_-_02_%2819-01-2026%29_%28cropped_2%29_%28b%29.jpg/330px-Delcy_Rodr%C3%ADguez_-_02_%2819-01-2026%29_%28cropped_2%29_%28b%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delcy_Rodr%C3%ADguez",
+  "dateOfBirth": "1969-05-18",
+  "birthDateParsed": "1969-05-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.506111111",
+  "birthCoordinatesLng": "-66.914444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "authority",
+    "jurist"
+  ],
+  "qid": "Q15081116",
+  "birthPlace": "Caracas",
+  "fetchedAt": "2026-08-04T00:55:29.662Z"
+}

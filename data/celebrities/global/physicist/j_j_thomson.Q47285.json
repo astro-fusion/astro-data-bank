@@ -1,0 +1,33 @@
+{
+  "publicId": "cd6d58df",
+  "wikipediaSlug": "J._J._Thomson",
+  "wikipediaId": "Q47285",
+  "name": "J. J. Thomson",
+  "fullName": "J. J. Thomson",
+  "profileSummary": "Sir Joseph John Thomson was a British physicist. He received the 1906 Nobel Prize in Physics \"in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases.\" In 1897, he showed that cathode rays were composed of previously unknown negatively charged particles, which he calculated must have bodies much smaller than atoms and a very large charge-to-mass ratio. The electron was the first subatomic particle to be discovered.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J.J_Thomson.jpg/330px-J.J_Thomson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J._J._Thomson",
+  "dateOfBirth": "1856-12-18",
+  "birthDateParsed": "1856-12-18",
+  "dateOfDeath": "1940-08-30",
+  "deathDateParsed": "1940-08-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.504",
+  "birthCoordinatesLng": "-2.231",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q47285",
+  "birthPlace": "Cheetham Hill",
+  "fetchedAt": "2026-08-06T05:02:27.480Z"
+}

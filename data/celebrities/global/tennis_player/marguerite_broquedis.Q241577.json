@@ -1,0 +1,31 @@
+{
+  "publicId": "d6471a25",
+  "wikipediaSlug": "Marguerite_Broquedis",
+  "wikipediaId": "Q241577",
+  "name": "Marguerite Broquedis",
+  "fullName": "Marguerite Broquedis",
+  "profileSummary": "Marguerite Marie Broquedis was a French tennis player. In major tournaments she won the singles title at the 1912 World Hard Court Championships, and the mixed doubles at the 1927 French Championships.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Magerite_Broquedis_1912.jpg/330px-Magerite_Broquedis_1912.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marguerite_Broquedis",
+  "dateOfBirth": "1893-04-17",
+  "birthDateParsed": "1893-04-17",
+  "dateOfDeath": "1983-04-23",
+  "deathDateParsed": "1983-04-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.300833333",
+  "birthCoordinatesLng": "-0.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q241577",
+  "birthPlace": "Pau",
+  "fetchedAt": "2026-08-01T15:00:32.620Z"
+}

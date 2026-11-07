@@ -1,0 +1,39 @@
+{
+  "publicId": "00249a79",
+  "wikipediaSlug": "John_Kerry",
+  "wikipediaId": "Q22316",
+  "name": "John Kerry",
+  "fullName": "John Kerry",
+  "profileSummary": "John Forbes Kerry is an American attorney, politician, diplomat, and former naval officer who served as the 68th United States secretary of state from 2013 to 2017 in the administration of President Barack Obama. A member of the Democratic Party, he previously represented Massachusetts in the United States Senate from 1985 to 2013 and later served as the first U.S. special presidential envoy for climate from 2021 to 2024. Kerry was the Democratic presidential nominee in the 2004 presidential election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/John_Kerry_official_Secretary_of_State_portrait_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Kerry",
+  "dateOfBirth": "1943-12-11",
+  "birthDateParsed": "1943-12-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.710833333",
+  "birthCoordinatesLng": "-104.8125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "naval officer",
+    "lawyer",
+    "diplomat",
+    "aircraft pilot",
+    "peace activist",
+    "climate activist",
+    "lieutenant governor",
+    "foreign minister"
+  ],
+  "qid": "Q22316",
+  "birthPlace": "Aurora",
+  "fetchedAt": "2026-08-02T02:17:07.592Z"
+}

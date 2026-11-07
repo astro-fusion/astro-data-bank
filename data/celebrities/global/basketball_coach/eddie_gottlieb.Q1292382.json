@@ -1,0 +1,33 @@
+{
+  "publicId": "b11acf15",
+  "wikipediaSlug": "Eddie_Gottlieb",
+  "wikipediaId": "Q1292382",
+  "name": "Eddie Gottlieb",
+  "fullName": "Eddie Gottlieb",
+  "profileSummary": "Edward Gottlieb was an American professional basketball coach and executive. Nicknamed \"Mr. Basketball\" and \"the Mogul\", he was the first coach and manager of the Philadelphia Warriors of the National Basketball Association (NBA), and later became the owner of the team from 1951 to 1962. He was elected to the Naismith Memorial Basketball Hall of Fame as a contributor on April 20, 1972. The NBA Rookie of the Year Award, the Eddie Gottlieb Trophy, was formerly named after him before being renamed after superstar center Wilt Chamberlain by 2022 after the final Eddie Gottlieb Trophy was given out to Scottie Barnes of the Toronto Raptors that year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/Edward_Gottlieb.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_Gottlieb",
+  "dateOfBirth": "1898-09-15",
+  "birthDateParsed": "1898-09-15",
+  "dateOfDeath": "1979-12-07",
+  "deathDateParsed": "1979-12-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "entrepreneur",
+    "basketball player"
+  ],
+  "qid": "Q1292382",
+  "birthPlace": "Kyiv",
+  "fetchedAt": "2026-08-01T15:37:18.894Z"
+}

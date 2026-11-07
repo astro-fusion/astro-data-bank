@@ -1,0 +1,31 @@
+{
+  "publicId": "dcf0a7fd",
+  "wikipediaSlug": "Bill_Johnston_(tennis)",
+  "wikipediaId": "Q53568",
+  "name": "Bill Johnston (tennis)",
+  "fullName": "Bill Johnston (tennis)",
+  "profileSummary": "William Marquitz \"Little Bill\" Johnston was an American world No. 1 tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/William_Marquitz_Johnston_in_1916.jpg/330px-William_Marquitz_Johnston_in_1916.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Johnston_(tennis)",
+  "dateOfBirth": "1894-11-02",
+  "birthDateParsed": "1894-11-02",
+  "dateOfDeath": "1946-05-01",
+  "deathDateParsed": "1946-05-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q53568",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-01T13:10:24.649Z"
+}

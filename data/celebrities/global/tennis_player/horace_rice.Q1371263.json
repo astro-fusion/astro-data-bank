@@ -1,0 +1,31 @@
+{
+  "publicId": "12a8f0c9",
+  "wikipediaSlug": "Horace_Rice",
+  "wikipediaId": "Q1371263",
+  "name": "Horace Rice",
+  "fullName": "Horace Rice",
+  "profileSummary": "Horace Rice was an Australian tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Horace_Rice_1913.jpg/330px-Horace_Rice_1913.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Horace_Rice",
+  "dateOfBirth": "1872-01-01",
+  "birthDateParsed": "1872-01-01",
+  "dateOfDeath": "1950-01-01",
+  "deathDateParsed": "1950-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q1371263",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-01T13:11:13.556Z"
+}

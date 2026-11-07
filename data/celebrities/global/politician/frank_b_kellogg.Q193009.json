@@ -1,0 +1,36 @@
+{
+  "publicId": "318a9676",
+  "wikipediaSlug": "Frank_B._Kellogg",
+  "wikipediaId": "Q193009",
+  "name": "Frank B. Kellogg",
+  "fullName": "Frank B. Kellogg",
+  "profileSummary": "Frank Billings Kellogg was an American lawyer, politician, and statesman who served in the U.S. Senate and as U.S. Secretary of State. He co-authored the Kellogg–Briand Pact, for which he was awarded the Nobel Peace Prize in 1929.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frank_Billings_Kellogg%2C_half-length_portrait%2C_facing_front_LCCN90709247_%283x4q%29.jpg/330px-Frank_Billings_Kellogg%2C_half-length_portrait%2C_facing_front_LCCN90709247_%283x4q%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_B._Kellogg",
+  "dateOfBirth": "1856-12-22",
+  "birthDateParsed": "1856-12-22",
+  "dateOfDeath": "1937-12-21",
+  "deathDateParsed": "1937-12-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.669722222",
+  "birthCoordinatesLng": "-74.981111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "judge",
+    "lawyer",
+    "diplomat",
+    "foreign minister",
+    "jurist"
+  ],
+  "qid": "Q193009",
+  "birthPlace": "Potsdam",
+  "fetchedAt": "2026-08-04T02:13:06.450Z"
+}

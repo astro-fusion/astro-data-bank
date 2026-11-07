@@ -1,0 +1,31 @@
+{
+  "publicId": "c3c27846",
+  "wikipediaSlug": "Assunta_Meloni",
+  "wikipediaId": "Q437620",
+  "name": "Assunta Meloni",
+  "fullName": "Assunta Meloni",
+  "profileSummary": "Assunta \"Tina\" Meloni is a politician of San Marino, a member of the Popular Alliance. She was Captain Regent of San Marino for the term from 1 October 2008 to April 2009 together with Ernesto Benedettini. She was also a member of the Council of Europe.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Assunta_Meloni",
+  "dateOfBirth": "1951-04-21",
+  "birthDateParsed": "1951-04-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.932011111",
+  "birthCoordinatesLng": "12.44845",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q437620",
+  "birthPlace": "San Marino",
+  "fetchedAt": "2026-08-04T00:54:55.509Z"
+}

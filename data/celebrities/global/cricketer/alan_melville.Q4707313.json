@@ -1,0 +1,31 @@
+{
+  "publicId": "b39f7d74",
+  "wikipediaSlug": "Alan_Melville",
+  "wikipediaId": "Q4707313",
+  "name": "Alan Melville",
+  "fullName": "Alan Melville",
+  "profileSummary": "Alan Melville was a South African cricketer who played in 11 Test matches from 1938 to 1949. He was born in Carnarvon, Northern Cape, South Africa and died at Sabie, Transvaal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alan_Melville_c1935.jpg/330px-Alan_Melville_c1935.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Melville",
+  "dateOfBirth": "1910-05-19",
+  "birthDateParsed": "1910-05-19",
+  "dateOfDeath": "1983-04-18",
+  "deathDateParsed": "1983-04-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-30.966666666",
+  "birthCoordinatesLng": "22.133333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4707313",
+  "birthPlace": "Carnarvon",
+  "fetchedAt": "2026-07-31T20:20:17.964Z"
+}

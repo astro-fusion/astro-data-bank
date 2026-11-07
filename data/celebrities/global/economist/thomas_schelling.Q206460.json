@@ -1,0 +1,33 @@
+{
+  "publicId": "d6dff99b",
+  "wikipediaSlug": "Thomas_Schelling",
+  "wikipediaId": "Q206460",
+  "name": "Thomas Schelling",
+  "fullName": "Thomas Schelling",
+  "profileSummary": "Thomas Crombie Schelling was an American economist and professor of foreign policy, national security, nuclear strategy, and arms control at the School of Public Policy at the University of Maryland, College Park. He was also co-faculty at the New England Complex Systems Institute.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_C._Schelling_%28cropped%29.jpg/330px-Thomas_C._Schelling_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Schelling",
+  "dateOfBirth": "1921-04-14",
+  "birthDateParsed": "1921-04-14",
+  "dateOfDeath": "2016-12-13",
+  "deathDateParsed": "2016-12-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.8",
+  "birthCoordinatesLng": "-122.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "political scientist",
+    "university teacher"
+  ],
+  "qid": "Q206460",
+  "birthPlace": "Oakland",
+  "fetchedAt": "2026-08-10T09:44:18.526Z"
+}

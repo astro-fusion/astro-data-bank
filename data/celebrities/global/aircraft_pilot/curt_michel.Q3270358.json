@@ -1,0 +1,34 @@
+{
+  "publicId": "51d3e450",
+  "wikipediaSlug": "Curt_Michel",
+  "wikipediaId": "Q3270358",
+  "name": "Curt Michel",
+  "fullName": "Curt Michel",
+  "profileSummary": "Frank Curtis Michel was an American astrophysicist; a professor of astrophysics at Rice University in Houston, Texas; a United States Air Force pilot; and a NASA astronaut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Michel-fc.jpg/330px-Michel-fc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Curt_Michel",
+  "dateOfBirth": "1934-06-05",
+  "birthDateParsed": "1934-06-05",
+  "dateOfDeath": "2015-02-23",
+  "deathDateParsed": "2015-02-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.813333333",
+  "birthCoordinatesLng": "-91.233055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aircraft pilot",
+    "physicist",
+    "astrophysicist",
+    "astronaut"
+  ],
+  "qid": "Q3270358",
+  "birthPlace": "La Crosse",
+  "fetchedAt": "2026-08-10T06:04:42.521Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "0f3f8b3a",
+  "wikipediaSlug": "Bobby_Finke",
+  "wikipediaId": "Q34007778",
+  "name": "Bobby Finke",
+  "fullName": "Bobby Finke",
+  "profileSummary": "Robert Christian Finke, better known as Bobby Finke, is an American competitive swimmer. He won two gold medals for the United States in the 2020 Summer Olympics: the men's 800-meter and 1500-meter freestyle swims. Finke successfully defended his title in 1500 m freestyle at the 2024 Summer Olympics, setting the world record. He added a silver medal in the 800 m freestyle. He swam for the University of Florida in Gainesville, Florida, from 2018 to 2022 under Coach Anthony Nesty. He currently swims as part of the pro group at UF. Before swimming in college, Finke swam for coach Fred Lewis on the Saint Petersburg Aquatics club team, located in Saint Petersburg, Florida.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Finke_%28USA%29_2018.jpg/330px-Robert_Finke_%28USA%29_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Finke",
+  "dateOfBirth": "1999-11-06",
+  "birthDateParsed": "1999-11-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.965555555",
+  "birthCoordinatesLng": "-82.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q34007778",
+  "birthPlace": "Clearwater",
+  "fetchedAt": "2026-08-10T12:59:07.328Z"
+}

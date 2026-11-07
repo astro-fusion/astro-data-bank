@@ -1,0 +1,36 @@
+{
+  "publicId": "44c62bac",
+  "wikipediaSlug": "Pär_Lagerkvist",
+  "wikipediaId": "Q93137",
+  "name": "Pär Lagerkvist",
+  "fullName": "Pär Lagerkvist",
+  "profileSummary": "Pär Fabian Lagerkvist was a Swedish author who received the 1951 Nobel Prize in Literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lagerkvist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/P%C3%A4r_Lagerkvist",
+  "dateOfBirth": "1891-05-23",
+  "birthDateParsed": "1891-05-23",
+  "dateOfDeath": "1974-07-11",
+  "deathDateParsed": "1974-07-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.889029924",
+  "birthCoordinatesLng": "14.802795326",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "playwright",
+    "essayist",
+    "screenwriter",
+    "autobiographer",
+    "writer"
+  ],
+  "qid": "Q93137",
+  "birthPlace": "Växjö",
+  "fetchedAt": "2026-08-06T07:42:40.038Z"
+}

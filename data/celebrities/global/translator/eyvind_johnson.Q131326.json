@@ -1,0 +1,37 @@
+{
+  "publicId": "7815859f",
+  "wikipediaSlug": "Eyvind_Johnson",
+  "wikipediaId": "Q131326",
+  "name": "Eyvind Johnson",
+  "fullName": "Eyvind Johnson",
+  "profileSummary": "Eyvind Johnson was a Swedish novelist and short story writer. Regarded as the most groundbreaking novelist in modern Swedish literature he became a member of the Swedish Academy in 1957 and shared the 1974 Nobel Prize in Literature with Harry Martinson with the citation: for a narrative art, far-seeing in lands and ages, in the service of freedom.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eyvind.JPG/330px-Eyvind.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eyvind_Johnson",
+  "dateOfBirth": "1900-07-29",
+  "birthDateParsed": "1900-07-29",
+  "dateOfDeath": "1976-08-25",
+  "deathDateParsed": "1976-08-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "65.818248726",
+  "birthCoordinatesLng": "21.70456347",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "translator",
+    "novelist",
+    "journalist",
+    "writer",
+    "poet",
+    "film director",
+    "film screenwriter"
+  ],
+  "qid": "Q131326",
+  "birthPlace": "Boden",
+  "fetchedAt": "2026-08-06T07:41:22.691Z"
+}

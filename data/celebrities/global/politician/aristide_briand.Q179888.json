@@ -1,0 +1,41 @@
+{
+  "publicId": "c16a6b0f",
+  "wikipediaSlug": "Aristide_Briand",
+  "wikipediaId": "Q179888",
+  "name": "Aristide Briand",
+  "fullName": "Aristide Briand",
+  "profileSummary": "Aristide Pierre Henri Briand was a French statesman who served eleven terms as Prime Minister of France during the French Third Republic. He is mainly remembered for his focus on international issues and reconciliation politics during the interwar period (1918–1939).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aristide_Briand.png/330px-Aristide_Briand.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aristide_Briand",
+  "dateOfBirth": "1862-03-28",
+  "birthDateParsed": "1862-03-28",
+  "dateOfDeath": "1932-03-07",
+  "deathDateParsed": "1932-03-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.217222222",
+  "birthCoordinatesLng": "-1.553888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "statesperson",
+    "journalist",
+    "diplomat",
+    "writer",
+    "lawyer",
+    "socialist",
+    "jurist",
+    "head of government",
+    "author",
+    "minister"
+  ],
+  "qid": "Q179888",
+  "birthPlace": "Nantes",
+  "fetchedAt": "2026-08-04T02:12:43.269Z"
+}

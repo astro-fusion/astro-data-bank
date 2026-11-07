@@ -1,0 +1,35 @@
+{
+  "publicId": "79f5fcbc",
+  "wikipediaSlug": "Eugene_Wigner",
+  "wikipediaId": "Q155790",
+  "name": "Eugene Wigner",
+  "fullName": "Eugene Wigner",
+  "profileSummary": "Eugene Paul Wigner was a Hungarian-American theoretical physicist who also contributed to mathematical physics. He received the Nobel Prize in Physics in 1963 \"for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Wigner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugene_Wigner",
+  "dateOfBirth": "1902-11-17",
+  "birthDateParsed": "1902-11-17",
+  "dateOfDeath": "1995-01-01",
+  "deathDateParsed": "1995-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "physicist",
+    "university teacher",
+    "theoretical physicist",
+    "nuclear physicist"
+  ],
+  "qid": "Q155790",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-06T05:01:44.885Z"
+}

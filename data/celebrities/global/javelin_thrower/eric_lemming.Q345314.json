@@ -1,0 +1,32 @@
+{
+  "publicId": "c18b6fd3",
+  "wikipediaSlug": "Eric_Lemming",
+  "wikipediaId": "Q345314",
+  "name": "Eric Lemming",
+  "fullName": "Eric Lemming",
+  "profileSummary": "Eric Otto Valdemar Lemming was a Swedish track and field athlete who competed at the 1900, 1906, 1908 and 1912 Olympics in a wide variety of events, which mostly involved throwing and jumping. He had his best results in the javelin throw, which he won at the 1906–1912 Games, and in which he set multiple world records between 1899 and 1912. His last record, measured at 62.32 m, was ratified by the International Association of Athletics Federations as the first official world record.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Eric_Lemming_2.jpg/330px-Eric_Lemming_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Lemming",
+  "dateOfBirth": "1880-02-22",
+  "birthDateParsed": "1880-02-22",
+  "dateOfDeath": "1930-06-05",
+  "deathDateParsed": "1930-06-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "57.683333333",
+  "birthCoordinatesLng": "11.933333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "javelin thrower",
+    "business executive"
+  ],
+  "qid": "Q345314",
+  "birthPlace": "Göteborgs garnisonsförsamling",
+  "fetchedAt": "2026-08-10T13:00:13.721Z"
+}

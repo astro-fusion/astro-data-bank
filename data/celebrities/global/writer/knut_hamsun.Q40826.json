@@ -1,0 +1,35 @@
+{
+  "publicId": "e7c6ee58",
+  "wikipediaSlug": "Knut_Hamsun",
+  "wikipediaId": "Q40826",
+  "name": "Knut Hamsun",
+  "fullName": "Knut Hamsun",
+  "profileSummary": "Knut Hamsun was a Norwegian writer who was awarded the Nobel Prize in Literature in 1920. Hamsun's work spans more than 70 years and shows variation with regard to consciousness, subject, perspective and environment. He published more than 23 novels, a collection of poetry, some short stories and plays, a travelogue, works of non-fiction and some essays.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hamsun_bldsa_HA0341.jpg/330px-Hamsun_bldsa_HA0341.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Knut_Hamsun",
+  "dateOfBirth": "1859-08-04",
+  "birthDateParsed": "1859-08-04",
+  "dateOfDeath": "1952-02-19",
+  "deathDateParsed": "1952-02-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "61.8386",
+  "birthCoordinatesLng": "8.5674",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "novelist",
+    "playwright",
+    "critic"
+  ],
+  "qid": "Q40826",
+  "birthPlace": "Lom Municipality",
+  "fetchedAt": "2026-08-06T07:41:57.285Z"
+}

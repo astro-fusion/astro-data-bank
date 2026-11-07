@@ -1,0 +1,37 @@
+{
+  "publicId": "1e60b45c",
+  "wikipediaSlug": "Serena_Williams",
+  "wikipediaId": "Q11459",
+  "name": "Serena Williams",
+  "fullName": "Serena Williams",
+  "profileSummary": "Serena Jameka Williams is an American professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 319 weeks, and finished as the year-end No. 1 five times. Williams won 73 WTA Tour–level singles titles, including 23 major women's singles titles—the most in the Open Era, and the second-most of all time. She is the only player to accomplish a Career Golden Slam in both singles and doubles, and the only player to have simultaneously held Olympic gold and all four major titles in both singles and doubles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Guests_at_the_2026_Met_Gala_209_%28cropped%29.jpg/330px-Guests_at_the_2026_Met_Gala_209_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Serena_Williams",
+  "dateOfBirth": "1981-09-26",
+  "birthDateParsed": "1981-09-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.4199247",
+  "birthCoordinatesLng": "-83.9500261",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "autobiographer",
+    "actor",
+    "businessperson",
+    "writer",
+    "designer",
+    "athlete"
+  ],
+  "qid": "Q11459",
+  "birthPlace": "Saginaw",
+  "fetchedAt": "2026-08-01T15:00:38.886Z"
+}

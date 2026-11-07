@@ -1,0 +1,31 @@
+{
+  "publicId": "7eb2dfb0",
+  "wikipediaSlug": "John_L._Flannery",
+  "wikipediaId": "Q30242909",
+  "name": "John L. Flannery",
+  "fullName": "John L. Flannery",
+  "profileSummary": "John L. Flannery is an American business executive. He succeeded Jeff Immelt as the eleventh CEO and tenth chairman of General Electric, and was CEO from August 2017 until October 2018. Prior to ascending to the CEO role, Flannery held leadership roles inside GE for nearly 30 years, heading GE Healthcare, GE India and other business units.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Flannery_%28GE%29.jpg/330px-John_Flannery_%28GE%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_L._Flannery",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.804722222",
+  "birthCoordinatesLng": "-77.047222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chief executive officer"
+  ],
+  "qid": "Q30242909",
+  "birthPlace": "Alexandria",
+  "fetchedAt": "2026-08-03T15:52:50.028Z"
+}

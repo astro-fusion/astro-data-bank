@@ -1,0 +1,32 @@
+{
+  "publicId": "5b1dcbf6",
+  "wikipediaSlug": "Anatoly_Solovyev",
+  "wikipediaId": "Q447311",
+  "name": "Anatoly Solovyev",
+  "fullName": "Anatoly Solovyev",
+  "profileSummary": "Anatoly Yakovlevich Solovyev is a retired Russian and Soviet cosmonaut and pilot. Solovyev holds the world record on the number of spacewalks performed (16) and accumulated time spent spacewalking.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Anatoly_Solovyev_Portrait.jpg/330px-Anatoly_Solovyev_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anatoly_Solovyev",
+  "dateOfBirth": "1948-01-16",
+  "birthDateParsed": "1948-01-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.9475",
+  "birthCoordinatesLng": "24.106944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aircraft pilot",
+    "astronaut"
+  ],
+  "qid": "Q447311",
+  "birthPlace": "Riga",
+  "fetchedAt": "2026-08-10T06:03:00.263Z"
+}

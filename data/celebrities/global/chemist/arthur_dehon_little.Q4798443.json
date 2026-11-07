@@ -1,0 +1,33 @@
+{
+  "publicId": "084b71ba",
+  "wikipediaSlug": "Arthur_Dehon_Little",
+  "wikipediaId": "Q4798443",
+  "name": "Arthur Dehon Little",
+  "fullName": "Arthur Dehon Little",
+  "profileSummary": "Arthur Dehon Little was an American chemist and chemical engineer. He founded the consulting company Arthur D. Little and was instrumental in developing chemical engineering at the Massachusetts Institute of Technology (MIT). Little is credited with introducing the term unit operations to chemical engineering and promoting the concept of industrial research.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Arthur_Dehon_Little_%281863-1935%29_47429935t.tiff/lossy-page1-330px-Arthur_Dehon_Little_%281863-1935%29_47429935t.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Dehon_Little",
+  "dateOfBirth": "1863-12-15",
+  "birthDateParsed": "1863-12-15",
+  "dateOfDeath": "1935-08-01",
+  "deathDateParsed": "1935-08-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "inventor",
+    "engineer"
+  ],
+  "qid": "Q4798443",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-05T03:15:29.788Z"
+}

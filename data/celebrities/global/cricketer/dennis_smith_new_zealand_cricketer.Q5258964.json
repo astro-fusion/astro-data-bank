@@ -1,0 +1,31 @@
+{
+  "publicId": "9bd9bc84",
+  "wikipediaSlug": "Dennis_Smith_(New_Zealand_cricketer)",
+  "wikipediaId": "Q5258964",
+  "name": "Dennis Smith (New Zealand cricketer)",
+  "fullName": "Dennis Smith (New Zealand cricketer)",
+  "profileSummary": "Horace Dennis Smith was a New Zealand cricketer who played in one Test match in 1933.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HD_Smith_of_New_Zealand_in_1931.png/330px-HD_Smith_of_New_Zealand_in_1931.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Smith_(New_Zealand_cricketer)",
+  "dateOfBirth": "1913-01-08",
+  "birthDateParsed": "1913-01-08",
+  "dateOfDeath": "1986-01-25",
+  "deathDateParsed": "1986-01-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-20",
+  "birthCoordinatesLng": "143",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5258964",
+  "birthPlace": "Queensland",
+  "fetchedAt": "2026-07-31T21:02:38.494Z"
+}

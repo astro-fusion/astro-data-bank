@@ -1,0 +1,32 @@
+{
+  "publicId": "a8d13bb3",
+  "wikipediaSlug": "Angus_Fraser",
+  "wikipediaId": "Q4764119",
+  "name": "Angus Fraser",
+  "fullName": "Angus Fraser",
+  "profileSummary": "Angus Robert Charles Fraser is an English cricket administrator and former player. Fraser played in forty-six Test matches and forty-two One Day Internationals for England, and played for Middlesex in his first-class career between 1984 and 2002, winning the County Championship three times. He was awarded an MBE in the 1999 New Year Honours and was\nnamed one of the Wisden Cricketers of the Year in 1996.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angus_Fraser",
+  "dateOfBirth": "1965-08-08",
+  "birthDateParsed": "1965-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.5233",
+  "birthCoordinatesLng": "-2.7154",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "journalist"
+  ],
+  "qid": "Q4764119",
+  "birthPlace": "Higher End",
+  "fetchedAt": "2026-07-31T20:08:59.629Z"
+}

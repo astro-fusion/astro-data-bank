@@ -1,0 +1,35 @@
+{
+  "publicId": "eee034eb",
+  "wikipediaSlug": "Bernardo_Arévalo",
+  "wikipediaId": "Q107254030",
+  "name": "Bernardo Arévalo",
+  "fullName": "Bernardo Arévalo",
+  "profileSummary": "César Bernardo Arévalo de León is a Guatemalan diplomat, sociologist, writer, and politician who has served as the 52nd president of Guatemala since 2024. A member and co-founder of the defunct Semilla party, he previously served as a deputy in the Congress of Guatemala from 2020 to 2024, as ambassador to Spain from 1995 to 1996 and as deputy minister of foreign affairs from 1994 to 1995.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Retrato_oficial_de_Presidente_Bernardo_Ar%C3%A9valo_%28cropped%29.jpg/330px-Retrato_oficial_de_Presidente_Bernardo_Ar%C3%A9valo_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernardo_Ar%C3%A9valo",
+  "dateOfBirth": "1958-10-07",
+  "birthDateParsed": "1958-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.905916666",
+  "birthCoordinatesLng": "-56.191311111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "sociologist",
+    "writer",
+    "ambassador"
+  ],
+  "qid": "Q107254030",
+  "birthPlace": "Montevideo",
+  "fetchedAt": "2026-08-03T16:49:59.303Z"
+}

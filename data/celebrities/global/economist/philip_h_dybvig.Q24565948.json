@@ -1,0 +1,32 @@
+{
+  "publicId": "5a526556",
+  "wikipediaSlug": "Philip_H._Dybvig",
+  "wikipediaId": "Q24565948",
+  "name": "Philip H. Dybvig",
+  "fullName": "Philip H. Dybvig",
+  "profileSummary": "Philip Hallen Dybvig is an American economist. He is the Boatmen's Bancshares Professor of Banking and Finance at the Olin Business School of Washington University in St. Louis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ASSA_2025_-_Philip_Dybvig_01.jpg/330px-ASSA_2025_-_Philip_Dybvig_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philip_H._Dybvig",
+  "dateOfBirth": "1955-05-22",
+  "birthDateParsed": "1955-05-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.665277777",
+  "birthCoordinatesLng": "-82.336111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q24565948",
+  "birthPlace": "Gainesville",
+  "fetchedAt": "2026-08-10T09:44:19.844Z"
+}

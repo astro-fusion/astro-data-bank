@@ -1,0 +1,34 @@
+{
+  "publicId": "7d937968",
+  "wikipediaSlug": "Allan_MacLeod_Cormack",
+  "wikipediaId": "Q223542",
+  "name": "Allan MacLeod Cormack",
+  "fullName": "Allan MacLeod Cormack",
+  "profileSummary": "Allan MacLeod Cormack was a South African and American physicist, academic, and Nobel Laureate. He was Professor of Physics at Tufts University and won the 1979 Nobel Prize in Physiology or Medicine for his work on X-ray computed tomography (CT), a significant and unusual achievement since Cormack did not hold a doctoral degree in any scientific field.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/34._Tagung_1984_Mediziner%3B_Verabschiedung_H.-H._Kunckel%2C_Allen_Cormack_-_W134Nr.123006_-_Willy_Pragher_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_MacLeod_Cormack",
+  "dateOfBirth": "1924-02-23",
+  "birthDateParsed": "1924-02-23",
+  "dateOfDeath": "1998-05-07",
+  "deathDateParsed": "1998-05-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "biophysicist",
+    "researcher",
+    "physician"
+  ],
+  "qid": "Q223542",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-08-10T03:13:52.741Z"
+}

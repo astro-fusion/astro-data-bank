@@ -1,0 +1,36 @@
+{
+  "publicId": "b5fb7ee1",
+  "wikipediaSlug": "Ulysses_S._Grant",
+  "wikipediaId": "Q34836",
+  "name": "Ulysses S. Grant",
+  "fullName": "Ulysses S. Grant",
+  "profileSummary": "Ulysses S. Grant was the 18th president of the United States, serving from 1869 to 1877, and was the Commanding General of the Union Army, leading it to victory in the American Civil War in 1865.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/330px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+  "dateOfBirth": "1822-04-27",
+  "birthDateParsed": "1822-04-27",
+  "dateOfDeath": "1885-07-23",
+  "deathDateParsed": "1885-07-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.894444444",
+  "birthCoordinatesLng": "-84.233888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "writer",
+    "statesperson",
+    "army officer",
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q34836",
+  "birthPlace": "Point Pleasant",
+  "fetchedAt": "2026-08-01T18:08:55.067Z"
+}

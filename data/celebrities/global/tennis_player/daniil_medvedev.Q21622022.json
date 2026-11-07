@@ -1,0 +1,31 @@
+{
+  "publicId": "25c0250d",
+  "wikipediaSlug": "Daniil_Medvedev",
+  "wikipediaId": "Q21622022",
+  "name": "Daniil Medvedev",
+  "fullName": "Daniil Medvedev",
+  "profileSummary": "Daniil Sergeyevich Medvedev is a Russian professional tennis player. He has been ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP). Medvedev has won 23 ATP Tour-level singles titles, including the 2021 US Open and 2020 ATP Finals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Danill_Medvedev_Miami_2019_%28cropped%29.jpg/330px-Danill_Medvedev_Miami_2019_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniil_Medvedev",
+  "dateOfBirth": "1996-02-11",
+  "birthDateParsed": "1996-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q21622022",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-01T13:11:05.593Z"
+}

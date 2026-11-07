@@ -1,0 +1,33 @@
+{
+  "publicId": "4893efdf",
+  "wikipediaSlug": "Andy_Ducat",
+  "wikipediaId": "Q504527",
+  "name": "Andy Ducat",
+  "fullName": "Andy Ducat",
+  "profileSummary": "Andrew Ducat was an English cricketer and footballer. He played internationally for both the England cricket team and England football team, one of a small group of players to have represented their country in both sports. Domestically he played for Surrey County Cricket Club and for Woolwich Arsenal, Aston Villa, and Fulham football clubs. He died while batting at Lord's.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Andy_Ducat.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Ducat",
+  "dateOfBirth": "1886-02-16",
+  "birthDateParsed": "1886-02-16",
+  "dateOfDeath": "1942-07-23",
+  "deathDateParsed": "1942-07-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "cricketer",
+    "association football coach"
+  ],
+  "qid": "Q504527",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-31T20:08:23.963Z"
+}

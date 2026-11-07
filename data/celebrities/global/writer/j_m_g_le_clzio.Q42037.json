@@ -1,0 +1,37 @@
+{
+  "publicId": "2e706318",
+  "wikipediaSlug": "J._M._G._Le_Clézio",
+  "wikipediaId": "Q42037",
+  "name": "J. M. G. Le Clézio",
+  "fullName": "J. M. G. Le Clézio",
+  "profileSummary": "Jean-Marie Gustave Le Clézio, usually identified as J. M. G. Le Clézio is a writer and professor who holds both French and Mauritian nationality. The author of over forty works, he was awarded the 1963 Prix Renaudot for his novel The Interrogation and the 2008 Nobel Prize in Literature for his life's work, as an \"author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jean-Marie_Gustave_Le_Cl%C3%A9zio-press_conference_Dec_06th%2C_2008-9_%28cropped%29.jpg/330px-Jean-Marie_Gustave_Le_Cl%C3%A9zio-press_conference_Dec_06th%2C_2008-9_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J._M._G._Le_Cl%C3%A9zio",
+  "dateOfBirth": "1940-04-13",
+  "birthDateParsed": "1940-04-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.701944444",
+  "birthCoordinatesLng": "7.268333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "translator",
+    "novelist",
+    "essayist",
+    "children's writer",
+    "journalist",
+    "university teacher"
+  ],
+  "qid": "Q42037",
+  "birthPlace": "Nice",
+  "fetchedAt": "2026-08-06T07:41:55.314Z"
+}

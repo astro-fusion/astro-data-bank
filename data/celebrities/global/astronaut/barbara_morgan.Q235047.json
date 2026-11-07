@@ -1,0 +1,32 @@
+{
+  "publicId": "dc1bb278",
+  "wikipediaSlug": "Barbara_Morgan",
+  "wikipediaId": "Q235047",
+  "name": "Barbara Morgan",
+  "fullName": "Barbara Morgan",
+  "profileSummary": "Barbara Radding Morgan is an American teacher and a former NASA astronaut. She participated in the Teacher in Space Project as backup to Christa McAuliffe for the 1986 ill-fated STS-51-L mission of the Space Shuttle Challenger. In 1998, eight years after the Teacher in Space Project had ended, she was selected by NASA as an astronaut candidate, training as a mission specialist; astronaut Morgan flew on STS-118 in August 2007. As such, she became the first teacher to go into space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Barbara_morgan.jpg/330px-Barbara_morgan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barbara_Morgan",
+  "dateOfBirth": "1951-11-28",
+  "birthDateParsed": "1951-11-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.781666666",
+  "birthCoordinatesLng": "-119.792222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "teacher"
+  ],
+  "qid": "Q235047",
+  "birthPlace": "Fresno",
+  "fetchedAt": "2026-08-10T06:03:38.623Z"
+}

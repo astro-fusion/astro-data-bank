@@ -1,0 +1,32 @@
+{
+  "publicId": "74f29b05",
+  "wikipediaSlug": "Bruno_Lage",
+  "wikipediaId": "Q56434101",
+  "name": "Bruno Lage",
+  "fullName": "Bruno Lage",
+  "profileSummary": "Bruno Miguel Silva do Nascimento, known as Bruno Lage, is a Portuguese football manager who is set to take over Saudi Pro League club Diriyah Club ahead of the 26-27 season.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bruno_Lage_2024.jpg/330px-Bruno_Lage_2024.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Lage",
+  "dateOfBirth": "1976-05-12",
+  "birthDateParsed": "1976-05-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.524305555",
+  "birthCoordinatesLng": "-8.892611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football coach",
+    "association football player"
+  ],
+  "qid": "Q56434101",
+  "birthPlace": "Setúbal",
+  "fetchedAt": "2026-08-01T05:20:39.832Z"
+}

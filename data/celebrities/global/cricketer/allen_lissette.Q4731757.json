@@ -1,0 +1,31 @@
+{
+  "publicId": "c3f88a0b",
+  "wikipediaSlug": "Allen_Lissette",
+  "wikipediaId": "Q4731757",
+  "name": "Allen Lissette",
+  "fullName": "Allen Lissette",
+  "profileSummary": "Allen Fisher Lissette was a New Zealand cricketer who played in two Test matches in 1956.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/66/A_Lissette_1963.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allen_Lissette",
+  "dateOfBirth": "1919-11-06",
+  "birthDateParsed": "1919-11-06",
+  "dateOfDeath": "1973-01-24",
+  "deathDateParsed": "1973-01-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.65",
+  "birthCoordinatesLng": "175.516666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4731757",
+  "birthPlace": "Morrinsville",
+  "fetchedAt": "2026-07-31T21:01:02.401Z"
+}

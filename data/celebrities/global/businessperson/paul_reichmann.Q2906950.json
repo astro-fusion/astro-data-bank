@@ -1,0 +1,31 @@
+{
+  "publicId": "482c3cd7",
+  "wikipediaSlug": "Paul_Reichmann",
+  "wikipediaId": "Q2906950",
+  "name": "Paul Reichmann",
+  "fullName": "Paul Reichmann",
+  "profileSummary": "Paul Reichmann was a Canadian businessman and member of the Reichmann family. He is best known for his leadership of the Olympia & York real estate development company.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Paul_Reichmann.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Reichmann",
+  "dateOfBirth": "1930-09-27",
+  "birthDateParsed": "1930-09-27",
+  "dateOfDeath": "2013-10-25",
+  "deathDateParsed": "2013-10-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q2906950",
+  "birthPlace": "Vienna",
+  "fetchedAt": "2026-08-04T03:35:15.329Z"
+}

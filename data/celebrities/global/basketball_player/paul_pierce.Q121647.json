@@ -1,0 +1,31 @@
+{
+  "publicId": "f08a020b",
+  "wikipediaSlug": "Paul_Pierce",
+  "wikipediaId": "Q121647",
+  "name": "Paul Pierce",
+  "fullName": "Paul Pierce",
+  "profileSummary": "Paul Anthony Pierce is an American former professional basketball player. He played 19 seasons in the National Basketball Association (NBA), predominantly with the Boston Celtics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Paul_Pierce_2008-01-13_%28cropped%29.jpg/330px-Paul_Pierce_2008-01-13_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Pierce",
+  "dateOfBirth": "1977-10-13",
+  "birthDateParsed": "1977-10-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.8",
+  "birthCoordinatesLng": "-122.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q121647",
+  "birthPlace": "Oakland",
+  "fetchedAt": "2026-08-01T15:38:15.850Z"
+}

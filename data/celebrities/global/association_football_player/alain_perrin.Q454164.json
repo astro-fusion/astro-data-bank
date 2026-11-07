@@ -1,0 +1,32 @@
+{
+  "publicId": "bea26044",
+  "wikipediaSlug": "Alain_Perrin",
+  "wikipediaId": "Q454164",
+  "name": "Alain Perrin",
+  "fullName": "Alain Perrin",
+  "profileSummary": "Alain André Christian Perrin is a French professional football manager and former player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Alain_Perrin_al_khor.jpg/330px-Alain_Perrin_al_khor.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alain_Perrin",
+  "dateOfBirth": "1956-10-07",
+  "birthDateParsed": "1956-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.683055555",
+  "birthCoordinatesLng": "6.496666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q454164",
+  "birthPlace": "Lure",
+  "fetchedAt": "2026-08-01T05:19:53.635Z"
+}

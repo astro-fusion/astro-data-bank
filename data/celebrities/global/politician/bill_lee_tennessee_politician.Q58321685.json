@@ -1,0 +1,33 @@
+{
+  "publicId": "ed6c3726",
+  "wikipediaSlug": "Bill_Lee_(Tennessee_politician)",
+  "wikipediaId": "Q58321685",
+  "name": "Bill Lee (Tennessee politician)",
+  "fullName": "Bill Lee (Tennessee politician)",
+  "profileSummary": "William Byron Lee is an American businessman and politician who has served since 2019 as the 50th governor of Tennessee. A member of the Republican Party, Lee was president and chief executive officer (CEO) of the Lee Company, a business operated by his family, from 1992 to 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hob_Nob_on_the_State_Line_with_Tennessee_Governor_Bill_Lee%2C_Bristol_%28cropped%29.2.jpg/330px-Hob_Nob_on_the_State_Line_with_Tennessee_Governor_Bill_Lee%2C_Bristol_%28cropped%29.2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Lee_(Tennessee_politician)",
+  "dateOfBirth": "1959-10-09",
+  "birthDateParsed": "1959-10-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.929166666",
+  "birthCoordinatesLng": "-86.8575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson",
+    "governor"
+  ],
+  "qid": "Q58321685",
+  "birthPlace": "Franklin",
+  "fetchedAt": "2026-08-02T03:27:57.440Z"
+}

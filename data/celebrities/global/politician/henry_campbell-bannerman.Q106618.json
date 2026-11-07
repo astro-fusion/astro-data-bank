@@ -1,0 +1,32 @@
+{
+  "publicId": "f70a3f9b",
+  "wikipediaSlug": "Henry_Campbell-Bannerman",
+  "wikipediaId": "Q106618",
+  "name": "Henry Campbell-Bannerman",
+  "fullName": "Henry Campbell-Bannerman",
+  "profileSummary": "Sir Henry Campbell-Bannerman was a British statesman and Liberal Party politician who was Prime Minister of the United Kingdom from 1905 to 1908 and Leader of the Liberal Party from 1899 to 1908. He also was Secretary of State for War twice, in the cabinets of Gladstone and Rosebery. He was the first First Lord of the Treasury to be officially called the \"Prime Minister\", the term only coming into official usage five days after he took office. He remains the only person to date to hold the positions of Prime Minister and Father of the House at the same time, and the last Liberal leader to gain a UK parliamentary majority.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sir-Henry-Campbell-Bannerman.jpg/330px-Sir-Henry-Campbell-Bannerman.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Campbell-Bannerman",
+  "dateOfBirth": "1836-09-07",
+  "birthDateParsed": "1836-09-07",
+  "dateOfDeath": "1908-04-22",
+  "deathDateParsed": "1908-04-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat"
+  ],
+  "qid": "Q106618",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-02T05:21:57.260Z"
+}

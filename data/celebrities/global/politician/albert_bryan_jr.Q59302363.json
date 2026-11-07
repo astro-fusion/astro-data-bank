@@ -1,0 +1,31 @@
+{
+  "publicId": "34135696",
+  "wikipediaSlug": "Albert_Bryan_Jr.",
+  "wikipediaId": "Q59302363",
+  "name": "Albert Bryan Jr.",
+  "fullName": "Albert Bryan Jr.",
+  "profileSummary": "Albert Bryan Jr. is a U.S. Virgin Islander politician and former businessman, serving since 2019 as the ninth governor of the United States Virgin Islands. A member of the Democratic Party, he served as Commissioner of Department of Labor under Governor John deJongh from May 3, 2007 to January 5, 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Governor_Albert_Bryan_Jr..jpg/330px-Governor_Albert_Bryan_Jr..jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Bryan_Jr.",
+  "dateOfBirth": "1968-02-21",
+  "birthDateParsed": "1968-02-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.333333333",
+  "birthCoordinatesLng": "-64.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q59302363",
+  "birthPlace": "Saint Thomas",
+  "fetchedAt": "2026-08-02T03:27:55.495Z"
+}

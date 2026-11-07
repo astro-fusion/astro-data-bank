@@ -1,0 +1,31 @@
+{
+  "publicId": "9b4991fc",
+  "wikipediaSlug": "Armando_Gutierrez",
+  "wikipediaId": "Q4792776",
+  "name": "Armando Gutierrez",
+  "fullName": "Armando Gutierrez",
+  "profileSummary": "Armando Gutierrez is an American actor and musician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Armando_Gutierrez4.jpg/330px-Armando_Gutierrez4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Gutierrez",
+  "dateOfBirth": "1949-11-17",
+  "birthDateParsed": "1949-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22",
+  "birthCoordinatesLng": "-79.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q4792776",
+  "birthPlace": "Cuba",
+  "fetchedAt": "2026-08-05T02:43:43.158Z"
+}

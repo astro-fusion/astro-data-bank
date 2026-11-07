@@ -1,0 +1,32 @@
+{
+  "publicId": "b4100148",
+  "wikipediaSlug": "Ashleigh_Barty",
+  "wikipediaId": "Q84056",
+  "name": "Ashleigh Barty",
+  "fullName": "Ashleigh Barty",
+  "profileSummary": "Ashleigh Jacinta Barty is an Australian former professional tennis player and cricketer. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 121 weeks, and was ranked world No. 5 in doubles. Barty won 12 WTA Tour-level singles titles, and three majors at the 2019 French Open, 2021 Wimbledon Championships, and 2022 Australian Open, as well as the 2019 WTA Finals. She also won 12 doubles titles, including a major at the 2018 US Open with CoCo Vandeweghe.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sydney_International_WTA_Players_Cruise_%2831974227527%29_%28cropped_2%29.jpg/330px-Sydney_International_WTA_Players_Cruise_%2831974227527%29_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashleigh_Barty",
+  "dateOfBirth": "1996-04-24",
+  "birthDateParsed": "1996-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.616666666",
+  "birthCoordinatesLng": "152.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "cricketer"
+  ],
+  "qid": "Q84056",
+  "birthPlace": "Ipswich",
+  "fetchedAt": "2026-08-01T14:58:46.538Z"
+}

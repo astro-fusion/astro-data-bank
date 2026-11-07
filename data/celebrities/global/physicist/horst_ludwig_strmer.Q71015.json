@@ -1,0 +1,32 @@
+{
+  "publicId": "e9c6a532",
+  "wikipediaSlug": "Horst_Ludwig_Störmer",
+  "wikipediaId": "Q71015",
+  "name": "Horst Ludwig Störmer",
+  "fullName": "Horst Ludwig Störmer",
+  "profileSummary": "Horst Ludwig Störmer is a German physicist, Nobel laureate and emeritus professor at Columbia University.\nHe was awarded the 1998 Nobel Prize in Physics jointly with Daniel Tsui and Robert Laughlin \"for their discovery of a new form of quantum fluid with fractionally charged excitations\". He and Tsui were working at Bell Labs at the time of the experiment cited by the Nobel committee.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Horst_St%C3%B6rmer_cropped.jpg/330px-Horst_St%C3%B6rmer_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Horst_Ludwig_St%C3%B6rmer",
+  "dateOfBirth": "1949-04-06",
+  "birthDateParsed": "1949-04-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.110555555",
+  "birthCoordinatesLng": "8.682222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q71015",
+  "birthPlace": "Frankfurt",
+  "fetchedAt": "2026-08-06T05:02:17.347Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "93b9c9da",
+  "wikipediaSlug": "Daniel_Inouye",
+  "wikipediaId": "Q312845",
+  "name": "Daniel Inouye",
+  "fullName": "Daniel Inouye",
+  "profileSummary": "Daniel Ken Inouye was an American attorney, soldier, and statesman who represented Hawaii in the United States Senate from 1963 until his death in 2012. A member of the Democratic Party, he was the most-senior member of the Senate when he died. He is the second-longest serving U.S. senator in history. Prior to his tenure in the Senate, Inouye served in the Hawaii Territorial Legislature and the United States House of Representatives from 1959 to 1963.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Daniel_Inouye_Official_Photo_2009.jpg/330px-Daniel_Inouye_Official_Photo_2009.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Inouye",
+  "dateOfBirth": "1924-09-07",
+  "birthDateParsed": "1924-09-07",
+  "dateOfDeath": "2012-12-17",
+  "deathDateParsed": "2012-12-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.304722222",
+  "birthCoordinatesLng": "-157.857222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "lawyer",
+    "captain"
+  ],
+  "qid": "Q312845",
+  "birthPlace": "Honolulu",
+  "fetchedAt": "2026-08-02T02:16:28.528Z"
+}

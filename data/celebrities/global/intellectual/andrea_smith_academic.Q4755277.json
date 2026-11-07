@@ -1,0 +1,36 @@
+{
+  "publicId": "45e75139",
+  "wikipediaSlug": "Andrea_Smith_(academic)",
+  "wikipediaId": "Q4755277",
+  "name": "Andrea Smith (academic)",
+  "fullName": "Andrea Smith (academic)",
+  "profileSummary": "Andrea Lee Smith is an American academic, feminist, and activist. Smith's work has primarily focused on issues of violence against women of color and their communities, specifically Native American women. Formerly an assistant professor of American Culture and Women's Studies at the University of Michigan in Ann Arbor, Michigan, she is also a co-founder of INCITE! Women of Color Against Violence, the Boarding School Healing Project, and the Chicago chapter of Women of All Red Nations.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Andrea_Smith_Photograph_cropped.jpg/330px-Andrea_Smith_Photograph_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Smith_(academic)",
+  "dateOfBirth": "1966-06-14",
+  "birthDateParsed": "1966-06-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "intellectual",
+    "illustrator",
+    "designer",
+    "ethnologist",
+    "cultural studies scholar",
+    "media scholar"
+  ],
+  "qid": "Q4755277",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-05T02:43:01.707Z"
+}

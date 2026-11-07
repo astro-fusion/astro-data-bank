@@ -1,0 +1,35 @@
+{
+  "publicId": "a975cde4",
+  "wikipediaSlug": "Bob_Iger",
+  "wikipediaId": "Q532423",
+  "name": "Bob Iger",
+  "fullName": "Bob Iger",
+  "profileSummary": "Robert Alan Iger is an American media executive who was the chief executive officer (CEO) of the Walt Disney Company twice, from 2005 to 2020 and from 2022 to 2026. He previously was the president of the American Broadcasting Company (ABC) between 1994 and 1995 and president and chief operating officer (COO) of Capital Cities/ABC, from 1995 until its acquisition by Disney in 1996.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bob_Iger_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_%2851441457900%29_%28cropped%29.jpg/330px-Bob_Iger_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_%2851441457900%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Iger",
+  "dateOfBirth": "1951-02-10",
+  "birthDateParsed": "1951-02-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.6364",
+  "birthCoordinatesLng": "-73.6375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "business executive",
+    "businessperson",
+    "entrepreneur",
+    "film producer",
+    "television producer"
+  ],
+  "qid": "Q532423",
+  "birthPlace": "Oceanside",
+  "fetchedAt": "2026-08-03T15:52:00.230Z"
+}

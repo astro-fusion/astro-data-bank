@@ -1,0 +1,33 @@
+{
+  "publicId": "ba931ad7",
+  "wikipediaSlug": "David_M._Walker_(astronaut)",
+  "wikipediaId": "Q720351",
+  "name": "David M. Walker (astronaut)",
+  "fullName": "David M. Walker (astronaut)",
+  "profileSummary": "David Mathieson Walker, , was an American naval officer and aviator, fighter pilot, test pilot, and a former NASA astronaut. He flew aboard four Space Shuttle missions in the 1980s and 1990s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Walker-dm.jpg/330px-Walker-dm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_M._Walker_(astronaut)",
+  "dateOfBirth": "1944-05-20",
+  "birthDateParsed": "1944-05-20",
+  "dateOfDeath": "2001-04-23",
+  "deathDateParsed": "2001-04-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.492222222",
+  "birthCoordinatesLng": "-84.940277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q720351",
+  "birthPlace": "Columbus",
+  "fetchedAt": "2026-08-10T06:04:43.239Z"
+}

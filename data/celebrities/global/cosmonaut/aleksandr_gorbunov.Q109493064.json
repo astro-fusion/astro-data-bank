@@ -1,0 +1,34 @@
+{
+  "publicId": "d30c1d02",
+  "wikipediaSlug": "Aleksandr_Gorbunov",
+  "wikipediaId": "Q109493064",
+  "name": "Aleksandr Gorbunov",
+  "fullName": "Aleksandr Gorbunov",
+  "profileSummary": "Aleksandr Vladimirovich Gorbunov is a Russian cosmonaut and aerospace engineer. A native of Zheleznogorsk, he graduated with a degree in engineering from the Moscow Aviation Institute.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aleksandr_Gorbunov_Portrait_%28Cropped%29.jpg/330px-Aleksandr_Gorbunov_Portrait_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Gorbunov",
+  "dateOfBirth": "1990-05-24",
+  "birthDateParsed": "1990-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.333333333",
+  "birthCoordinatesLng": "35.366666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cosmonaut",
+    "engineer",
+    "astronaut",
+    "test cosmonaut"
+  ],
+  "qid": "Q109493064",
+  "birthPlace": "Zheleznogorsk",
+  "fetchedAt": "2026-08-10T06:03:24.800Z"
+}

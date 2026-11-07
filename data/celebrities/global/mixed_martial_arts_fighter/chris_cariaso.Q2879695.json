@@ -1,0 +1,31 @@
+{
+  "publicId": "46db7ecf",
+  "wikipediaSlug": "Chris_Cariaso",
+  "wikipediaId": "Q2879695",
+  "name": "Chris Cariaso",
+  "fullName": "Chris Cariaso",
+  "profileSummary": "Christopher Vincent Cariaso is an American former mixed martial artist best known for competing in the Flyweight division of the Ultimate Fighting Championship (UFC), where he contended for the UFC Flyweight Championship once.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Cariaso",
+  "dateOfBirth": "1981-05-27",
+  "birthDateParsed": "1981-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.304166666",
+  "birthCoordinatesLng": "-121.872777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q2879695",
+  "birthPlace": "San Jose",
+  "fetchedAt": "2026-08-01T17:05:03.000Z"
+}

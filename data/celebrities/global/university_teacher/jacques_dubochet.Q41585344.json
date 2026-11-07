@@ -1,0 +1,32 @@
+{
+  "publicId": "379300f9",
+  "wikipediaSlug": "Jacques_Dubochet",
+  "wikipediaId": "Q41585344",
+  "name": "Jacques Dubochet",
+  "fullName": "Jacques Dubochet",
+  "profileSummary": "Jacques Dubochet is a retired Swiss biophysicist. He is a former researcher at the European Molecular Biology Laboratory in Heidelberg, Germany, and an honorary professor of biophysics at the University of Lausanne in Switzerland.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Jacques_Dubochet%2C_2017_%28cropped%29.jpg/330px-Jacques_Dubochet%2C_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Dubochet",
+  "dateOfBirth": "1942-06-08",
+  "birthDateParsed": "1942-06-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.3173",
+  "birthCoordinatesLng": "6.9646",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "molecular biologist"
+  ],
+  "qid": "Q41585344",
+  "birthPlace": "Aigle",
+  "fetchedAt": "2026-08-10T02:04:40.052Z"
+}

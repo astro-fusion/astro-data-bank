@@ -1,0 +1,36 @@
+{
+  "publicId": "61b8bb1a",
+  "wikipediaSlug": "Clayton_Anderson",
+  "wikipediaId": "Q447264",
+  "name": "Clayton Anderson",
+  "fullName": "Clayton Anderson",
+  "profileSummary": "Clayton Conrad Anderson is a retired NASA astronaut. Launched on STS-117, he replaced Sunita Williams on June 10, 2007 as a member of the ISS Expedition 15 crew. He is currently an author, a motivational speaker, and a Professor of Practice at Iowa State University in Ames, Iowa. In 2022, he became the president and CEO of the Strategic Air Command & Aerospace Museum.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Clayton_C._Anderson_%28cropped%29_2.jpg/330px-Clayton_C._Anderson_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clayton_Anderson",
+  "dateOfBirth": "1959-02-23",
+  "birthDateParsed": "1959-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.258611111",
+  "birthCoordinatesLng": "-95.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "astronaut",
+    "engineer",
+    "radio operator",
+    "aerospace engineer",
+    "physicist"
+  ],
+  "qid": "Q447264",
+  "birthPlace": "Omaha",
+  "fetchedAt": "2026-08-10T06:04:31.844Z"
+}

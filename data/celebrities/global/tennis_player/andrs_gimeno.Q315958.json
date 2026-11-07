@@ -1,0 +1,31 @@
+{
+  "publicId": "1ed0678c",
+  "wikipediaSlug": "Andrés_Gimeno",
+  "wikipediaId": "Q315958",
+  "name": "Andrés Gimeno",
+  "fullName": "Andrés Gimeno",
+  "profileSummary": "Andrés Gimeno Tolaguera was a Spanish tennis player. His greatest achievement came in 1972, when he won the French Open and became the oldest first-time Grand Slam champion in the Open era at 34 years of age.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Andr%C3%A9s_Gimeno%2C_Bestanddeelnr_922-4574_%28cropped%29.jpg/330px-Andr%C3%A9s_Gimeno%2C_Bestanddeelnr_922-4574_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Gimeno",
+  "dateOfBirth": "1937-08-03",
+  "birthDateParsed": "1937-08-03",
+  "dateOfDeath": "2019-10-09",
+  "deathDateParsed": "2019-10-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.3825",
+  "birthCoordinatesLng": "2.176944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q315958",
+  "birthPlace": "Barcelona",
+  "fetchedAt": "2026-08-01T13:10:28.765Z"
+}

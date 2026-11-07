@@ -1,0 +1,32 @@
+{
+  "publicId": "96a32308",
+  "wikipediaSlug": "Robert_C._Merton",
+  "wikipediaId": "Q287542",
+  "name": "Robert C. Merton",
+  "fullName": "Robert C. Merton",
+  "profileSummary": "Robert Cox Merton is an American economist, Nobel Memorial Prize in Economic Sciences laureate, and professor at the MIT Sloan School of Management. He is best known for his pioneering contributions to continuous-time finance, particularly the first continuous-time option pricing model, the Black–Scholes–Merton model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Robert_Merton_November_2010_03%281%29.jpg/330px-Robert_Merton_November_2010_03%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_C._Merton",
+  "dateOfBirth": "1944-07-31",
+  "birthDateParsed": "1944-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q287542",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T09:43:56.098Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "b7b5ec37",
+  "wikipediaSlug": "Aung_San_Suu_Kyi",
+  "wikipediaId": "Q36740",
+  "name": "Aung San Suu Kyi",
+  "fullName": "Aung San Suu Kyi",
+  "profileSummary": "Aung San Suu Kyi is a Burmese politician, diplomat and author who served as State Counsellor of Myanmar and Union Minister of Foreign Affairs from 2016 to 2021. She has served as the general secretary of the National League for Democracy (NLD) since the party's founding in 1988 and was registered as its chairperson while it was a legal party from 2011 to 2023. She played a vital role in Myanmar's transition from military junta to partial democracy in the 2010s. She has been widely described as the de facto leader of Myanmar from 2016 to 2021. She was awarded the 1991 Nobel Peace Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg/330px-Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi",
+  "dateOfBirth": "1945-06-19",
+  "birthDateParsed": "1945-06-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "16.80528",
+  "birthCoordinatesLng": "96.15611",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "human rights defender",
+    "foreign minister"
+  ],
+  "qid": "Q36740",
+  "birthPlace": "Yangon",
+  "fetchedAt": "2026-08-04T02:12:33.776Z"
+}

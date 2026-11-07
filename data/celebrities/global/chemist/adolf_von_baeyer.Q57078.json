@@ -1,0 +1,32 @@
+{
+  "publicId": "af45fa18",
+  "wikipediaSlug": "Adolf_von_Baeyer",
+  "wikipediaId": "Q57078",
+  "name": "Adolf von Baeyer",
+  "fullName": "Adolf von Baeyer",
+  "profileSummary": "Johann Friedrich Wilhelm Adolf von Baeyer was a German chemist who synthesized indigo and developed a nomenclature for cyclic compounds. He was ennobled in the Kingdom of Bavaria in 1885 and was the 1905 recipient of the Nobel Prize in Chemistry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Adolf_von_Baeyer_CIPB0531_%28cropped%29.jpg/330px-Adolf_von_Baeyer_CIPB0531_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolf_von_Baeyer",
+  "dateOfBirth": "1835-10-31",
+  "birthDateParsed": "1835-10-31",
+  "dateOfDeath": "1917-08-20",
+  "deathDateParsed": "1917-08-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q57078",
+  "birthPlace": "Berlin",
+  "fetchedAt": "2026-08-10T02:03:08.118Z"
+}

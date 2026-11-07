@@ -1,0 +1,34 @@
+{
+  "publicId": "0f2588c2",
+  "wikipediaSlug": "Elisabeth_Domitien",
+  "wikipediaId": "Q291555",
+  "name": "Elisabeth Domitien",
+  "fullName": "Elisabeth Domitien",
+  "profileSummary": "Elisabeth Domitien served as the prime minister of the Central African Republic from 1975 to 1976. She was the first and to date only woman to hold the position, and was the first woman to serve as prime minister of a country in Africa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Elisabeth_Domitien.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elisabeth_Domitien",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": "2005-04-26",
+  "deathDateParsed": "2005-04-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "4",
+  "birthCoordinatesLng": "18",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "farmer",
+    "businessperson",
+    "minister"
+  ],
+  "qid": "Q291555",
+  "birthPlace": "Lobaye Prefecture",
+  "fetchedAt": "2026-08-04T00:55:52.876Z"
+}

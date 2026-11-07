@@ -1,0 +1,34 @@
+{
+  "publicId": "763b39b7",
+  "wikipediaSlug": "Daniel_W._Bursch",
+  "wikipediaId": "Q948673",
+  "name": "Daniel W. Bursch",
+  "fullName": "Daniel W. Bursch",
+  "profileSummary": "Daniel Wheeler Bursch is a former NASA astronaut, and Captain of the United States Navy. He had four spaceflights, the first three of which were Space Shuttle missions lasting 10 to 11 days each. His fourth and final spaceflight was a long-duration stay aboard the International Space Station as a crew member of Expedition 4, which lasted from December 2001 to June 2002. This 196-day mission set a new record for the longest duration spaceflight for an American astronaut, a record simultaneously set with his crew mate Carl Walz. Their record has since been broken, and as of 2016 it is held by Scott Kelly, who flew a 340-day mission during Expeditions 43, 44 and 45.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Daniel_Bursch.jpg/330px-Daniel_Bursch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_W._Bursch",
+  "dateOfBirth": "1957-07-25",
+  "birthDateParsed": "1957-07-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.1033",
+  "birthCoordinatesLng": "-74.8514",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot",
+    "test pilot"
+  ],
+  "qid": "Q948673",
+  "birthPlace": "Bristol",
+  "fetchedAt": "2026-08-10T06:04:44.018Z"
+}

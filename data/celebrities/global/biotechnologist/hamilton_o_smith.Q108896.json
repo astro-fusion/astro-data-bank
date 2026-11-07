@@ -1,0 +1,34 @@
+{
+  "publicId": "6a7e371b",
+  "wikipediaSlug": "Hamilton_O._Smith",
+  "wikipediaId": "Q108896",
+  "name": "Hamilton O. Smith",
+  "fullName": "Hamilton O. Smith",
+  "profileSummary": "Hamilton Othanel Smith was an American microbiologist and Nobel laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hamilton_Smith%2C_2.jpg/330px-Hamilton_Smith%2C_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamilton_O._Smith",
+  "dateOfBirth": "1931-08-23",
+  "birthDateParsed": "1931-08-23",
+  "dateOfDeath": "2025-10-25",
+  "deathDateParsed": "2025-10-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biotechnologist",
+    "biochemist",
+    "microbiologist",
+    "biologist"
+  ],
+  "qid": "Q108896",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T03:15:15.490Z"
+}

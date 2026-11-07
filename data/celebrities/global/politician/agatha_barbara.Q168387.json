@@ -1,0 +1,32 @@
+{
+  "publicId": "7835ad56",
+  "wikipediaSlug": "Agatha_Barbara",
+  "wikipediaId": "Q168387",
+  "name": "Agatha Barbara",
+  "fullName": "Agatha Barbara",
+  "profileSummary": "Agatha Barbara, was a Maltese politician, having served as a Labour Member of Parliament and Minister. She was the first woman to serve as president of Malta, and remains the longest-serving woman Member of Parliament in Maltese political history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Agatha_Barbara.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agatha_Barbara",
+  "dateOfBirth": "1923-03-11",
+  "birthDateParsed": "1923-03-11",
+  "dateOfDeath": "2002-02-04",
+  "deathDateParsed": "2002-02-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.877222222",
+  "birthCoordinatesLng": "14.538055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "teacher"
+  ],
+  "qid": "Q168387",
+  "birthPlace": "Żabbar",
+  "fetchedAt": "2026-08-04T00:54:46.419Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "eb802f56",
+  "wikipediaSlug": "Jack_Kramer",
+  "wikipediaId": "Q54529",
+  "name": "Jack Kramer",
+  "fullName": "Jack Kramer",
+  "profileSummary": "John Albert Kramer was an American tennis player of the 1940s and 1950s, and a pioneer promoter who helped drive the sport towards professionalism at the elite level. Kramer also ushered in the serve-and-volley era in tennis, a playing style with which he won three Grand Slam tournaments. He also led the U.S. Davis Cup tennis team to victory in the 1946 and 1947 Davis Cup finals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jack_Kramer.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Kramer",
+  "dateOfBirth": "1921-08-01",
+  "birthDateParsed": "1921-08-01",
+  "dateOfDeath": "2009-09-12",
+  "deathDateParsed": "2009-09-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.167222222",
+  "birthCoordinatesLng": "-115.148611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "sports journalist"
+  ],
+  "qid": "Q54529",
+  "birthPlace": "Las Vegas",
+  "fetchedAt": "2026-08-01T13:11:56.851Z"
+}

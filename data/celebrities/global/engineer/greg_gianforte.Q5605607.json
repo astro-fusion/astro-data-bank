@@ -1,0 +1,35 @@
+{
+  "publicId": "65783c2a",
+  "wikipediaSlug": "Greg_Gianforte",
+  "wikipediaId": "Q5605607",
+  "name": "Greg Gianforte",
+  "fullName": "Greg Gianforte",
+  "profileSummary": "Gregory Richard Gianforte is an American politician, businessman, and software engineer serving as the 25th governor of Montana since 2021. A member of the Republican Party, Gianforte served as the U.S. representative for Montana's at-large congressional district from 2017 to 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Greg_Gianforte_in_2025_%28cropped%29.jpg/330px-Greg_Gianforte_in_2025_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Greg_Gianforte",
+  "dateOfBirth": "1961-04-17",
+  "birthDateParsed": "1961-04-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715",
+  "birthCoordinatesLng": "-117.1625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "politician",
+    "businessperson",
+    "business executive",
+    "governor"
+  ],
+  "qid": "Q5605607",
+  "birthPlace": "San Diego",
+  "fetchedAt": "2026-08-02T03:28:06.776Z"
+}

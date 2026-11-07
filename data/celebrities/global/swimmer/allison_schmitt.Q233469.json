@@ -1,0 +1,31 @@
+{
+  "publicId": "76a2673c",
+  "wikipediaSlug": "Allison_Schmitt",
+  "wikipediaId": "Q233469",
+  "name": "Allison Schmitt",
+  "fullName": "Allison Schmitt",
+  "profileSummary": "Allison Rodgers Schmitt is an American competition swimmer who specializes in freestyle events. She is a four-time Olympian and a ten-time Olympic medalist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Allison_Schmitt_2016.jpg/330px-Allison_Schmitt_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allison_Schmitt",
+  "dateOfBirth": "1990-06-07",
+  "birthDateParsed": "1990-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.441666666",
+  "birthCoordinatesLng": "-80",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q233469",
+  "birthPlace": "Pittsburgh",
+  "fetchedAt": "2026-08-10T12:58:32.536Z"
+}

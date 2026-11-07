@@ -1,0 +1,31 @@
+{
+  "publicId": "5e850054",
+  "wikipediaSlug": "Algernon_Kingscote",
+  "wikipediaId": "Q719277",
+  "name": "Algernon Kingscote",
+  "fullName": "Algernon Kingscote",
+  "profileSummary": "Algernon Robert Fitzhardinge \"Algy\" Kingscote was a British tennis player, who won the Men's Singles event at the Australasian Championships in 1919. Kingscote also competed in the 1924 Summer Olympics in Paris. He was born in Bangalore, India, in 1888.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Algernon_Kingscote_1914.jpg/330px-Algernon_Kingscote_1914.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Algernon_Kingscote",
+  "dateOfBirth": "1888-12-03",
+  "birthDateParsed": "1888-12-03",
+  "dateOfDeath": "1964-12-21",
+  "deathDateParsed": "1964-12-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.9791198",
+  "birthCoordinatesLng": "77.5912997",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q719277",
+  "birthPlace": "Bengaluru",
+  "fetchedAt": "2026-08-01T13:10:28.061Z"
+}

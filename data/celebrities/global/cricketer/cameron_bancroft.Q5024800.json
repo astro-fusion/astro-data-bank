@@ -1,0 +1,31 @@
+{
+  "publicId": "fe21e20c",
+  "wikipediaSlug": "Cameron_Bancroft",
+  "wikipediaId": "Q5024800",
+  "name": "Cameron Bancroft",
+  "fullName": "Cameron Bancroft",
+  "profileSummary": "Cameron Timothy Bancroft is an Australian cricketer contracted to Western Australia in Australian first class cricket, Gloucestershire in English first class cricket, and the Sydney Thunder in the Big Bash League. He made his Test debut for the Australian national team in November 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/1_05_Bancroft_departs.jpg/330px-1_05_Bancroft_departs.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cameron_Bancroft",
+  "dateOfBirth": "1992-11-19",
+  "birthDateParsed": "1992-11-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.025346",
+  "birthCoordinatesLng": "115.8023457",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5024800",
+  "birthPlace": "Attadale",
+  "fetchedAt": "2026-07-31T19:45:42.310Z"
+}

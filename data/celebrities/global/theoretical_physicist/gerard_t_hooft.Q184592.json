@@ -1,0 +1,35 @@
+{
+  "publicId": "cc1ef49f",
+  "wikipediaSlug": "Gerard_'t_Hooft",
+  "wikipediaId": "Q184592",
+  "name": "Gerard 't Hooft",
+  "fullName": "Gerard 't Hooft",
+  "profileSummary": "Gerardus \"Gerard\" 't Hooft is a Dutch theoretical physicist and professor emeritus at Utrecht University, the Netherlands. He shared the 1999 Nobel Prize in Physics with his thesis advisor Martinus J. G. Veltman \"for elucidating the quantum structure of electroweak interactions.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gerard_%27t_Hooft.jpg/330px-Gerard_%27t_Hooft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerard_'t_Hooft",
+  "dateOfBirth": "1946-07-05",
+  "birthDateParsed": "1946-07-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.958333333",
+  "birthCoordinatesLng": "4.758888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "theoretical physicist",
+    "pedagogue",
+    "non-fiction writer",
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q184592",
+  "birthPlace": "Den Helder",
+  "fetchedAt": "2026-08-06T05:01:57.182Z"
+}

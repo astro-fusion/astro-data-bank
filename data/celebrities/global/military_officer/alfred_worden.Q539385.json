@@ -1,0 +1,34 @@
+{
+  "publicId": "b19347e9",
+  "wikipediaSlug": "Alfred_Worden",
+  "wikipediaId": "Q539385",
+  "name": "Alfred Worden",
+  "fullName": "Alfred Worden",
+  "profileSummary": "Alfred Merrill Worden was an American test pilot, engineer and NASA astronaut who was command module pilot for the Apollo 15 lunar mission in 1971. One of the 24 Apollo astronauts to reach the Moon, he orbited it 74 times in the command module (CM) Endeavour.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Al_Worden_Apollo_15_CMP_%284x5_cropped%29.jpg/330px-Al_Worden_Apollo_15_CMP_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Worden",
+  "dateOfBirth": "1932-02-07",
+  "birthDateParsed": "1932-02-07",
+  "dateOfDeath": "2020-03-18",
+  "deathDateParsed": "2020-03-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.245833333",
+  "birthCoordinatesLng": "-84.401388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot",
+    "military flight engineer"
+  ],
+  "qid": "Q539385",
+  "birthPlace": "Jackson",
+  "fetchedAt": "2026-08-10T06:03:13.331Z"
+}

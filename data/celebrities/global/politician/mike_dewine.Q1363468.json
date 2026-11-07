@@ -1,0 +1,34 @@
+{
+  "publicId": "b947bc92",
+  "wikipediaSlug": "Mike_DeWine",
+  "wikipediaId": "Q1363468",
+  "name": "Mike DeWine",
+  "fullName": "Mike DeWine",
+  "profileSummary": "Richard Michael DeWine is an American politician and attorney serving as the 70th governor of Ohio since 2019. A member of the Republican Party, he served as the 50th attorney general of Ohio from 2011 to 2019, as a United States senator from Ohio from 1995 to 2007, and in the U.S. House of Representatives from 1983 to 1991.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gov-Mike-DeWine.jpg/330px-Gov-Mike-DeWine.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_DeWine",
+  "dateOfBirth": "1947-01-05",
+  "birthDateParsed": "1947-01-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.926944444",
+  "birthCoordinatesLng": "-83.804166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "governor",
+    "jurist"
+  ],
+  "qid": "Q1363468",
+  "birthPlace": "Springfield",
+  "fetchedAt": "2026-08-02T03:28:33.474Z"
+}

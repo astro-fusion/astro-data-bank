@@ -1,0 +1,33 @@
+{
+  "publicId": "e6c4d77b",
+  "wikipediaSlug": "Jeffrey_Ullman",
+  "wikipediaId": "Q92794",
+  "name": "Jeffrey Ullman",
+  "fullName": "Jeffrey Ullman",
+  "profileSummary": "Jeffrey David Ullman is an American computer scientist and the Stanford W. Ascherman Professor of Engineering, Emeritus, at Stanford University. His textbooks on compilers, theory of computation, data structures, and databases are regarded as standards in their fields. He and his long-time collaborator Alfred Aho are the recipients of the 2020 Turing Award, generally recognized as the highest distinction in computer science.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeffrey_Ullman",
+  "dateOfBirth": "1942-11-22",
+  "birthDateParsed": "1942-11-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher",
+    "academic"
+  ],
+  "qid": "Q92794",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T04:29:12.118Z"
+}

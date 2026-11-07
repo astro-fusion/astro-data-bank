@@ -1,0 +1,32 @@
+{
+  "publicId": "c7c23b8a",
+  "wikipediaSlug": "Evelyn_Ashford",
+  "wikipediaId": "Q230079",
+  "name": "Evelyn Ashford",
+  "fullName": "Evelyn Ashford",
+  "profileSummary": "Evelyn Ashford is an American retired track and field athlete, the 1984 Olympic champion in the 100-meter dash, and the world record-holder in the 60-yard dash. She ran under the 11-second barrier over 30 times and was the first woman to run under 11 seconds in an Olympic Games. Ashford has the distinction of owning the longest unbroken athletics record.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evelyn_Ashford",
+  "dateOfBirth": "1957-04-15",
+  "birthDateParsed": "1957-04-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.508055555",
+  "birthCoordinatesLng": "-93.762777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sprinter",
+    "athletics competitor"
+  ],
+  "qid": "Q230079",
+  "birthPlace": "Shreveport",
+  "fetchedAt": "2026-08-10T12:59:41.768Z"
+}

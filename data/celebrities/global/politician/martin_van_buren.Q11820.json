@@ -1,0 +1,39 @@
+{
+  "publicId": "71d5f378",
+  "wikipediaSlug": "Martin_Van_Buren",
+  "wikipediaId": "Q11820",
+  "name": "Martin Van Buren",
+  "fullName": "Martin Van Buren",
+  "profileSummary": "Martin Van Buren was the eighth president of the United States, serving from 1837 to 1841. Van Buren co-founded the Democratic Party with Andrew Jackson and became Jackson's vice president from 1833 to 1837.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Martin_Van_Buren_by_Mathew_Brady_c1855-58-%284%29.jpg/330px-Martin_Van_Buren_by_Mathew_Brady_c1855-58-%284%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
+  "dateOfBirth": "1782-12-05",
+  "birthDateParsed": "1782-12-05",
+  "dateOfDeath": "1862-07-24",
+  "deathDateParsed": "1862-07-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.3936",
+  "birthCoordinatesLng": "-73.705",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "statesperson",
+    "writer",
+    "ambassador",
+    "governor",
+    "jurist",
+    "foreign minister"
+  ],
+  "qid": "Q11820",
+  "birthPlace": "Kinderhook",
+  "fetchedAt": "2026-08-01T18:08:31.990Z"
+}

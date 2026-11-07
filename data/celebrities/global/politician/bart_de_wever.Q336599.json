@@ -1,0 +1,33 @@
+{
+  "publicId": "a7cd45fe",
+  "wikipediaSlug": "Bart_De_Wever",
+  "wikipediaId": "Q336599",
+  "name": "Bart De Wever",
+  "fullName": "Bart De Wever",
+  "profileSummary": "Bart Albert Liliane De Wever is a Belgian politician who has served as the Prime Minister of Belgium since February 2025. From 2004 to 2025, De Wever had been the leader of the New Flemish Alliance (N-VA), a political party advocating Flemish independence. From January 2013 to February 2025, he was Mayor of Antwerp, following the 2012 municipal elections.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bart_De_Wever%2C_2025.06.26_%2802%29.jpg/330px-Bart_De_Wever%2C_2025.06.26_%2802%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bart_De_Wever",
+  "dateOfBirth": "1970-12-21",
+  "birthDateParsed": "1970-12-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.170277777",
+  "birthCoordinatesLng": "4.456666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "columnist",
+    "historian"
+  ],
+  "qid": "Q336599",
+  "birthPlace": "Mortsel",
+  "fetchedAt": "2026-08-03T16:49:50.371Z"
+}

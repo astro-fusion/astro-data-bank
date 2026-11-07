@@ -1,0 +1,32 @@
+{
+  "publicId": "1b98100d",
+  "wikipediaSlug": "Ali_Lamine_Zeine",
+  "wikipediaId": "Q2646711",
+  "name": "Ali Lamine Zeine",
+  "fullName": "Ali Lamine Zeine",
+  "profileSummary": "Ali Mahamane Lamine Zeine is a Nigerien politician and economist who has served as the prime minister of Niger since 2023. He previously served as minister of the Economy and Finance from 2003 to 2010.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ali_Lamine_Zeine_%282024%29_%28cropped%29.jpg/330px-Ali_Lamine_Zeine_%282024%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Lamine_Zeine",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.801705555",
+  "birthCoordinatesLng": "8.98535246",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician"
+  ],
+  "qid": "Q2646711",
+  "birthPlace": "Zinder",
+  "fetchedAt": "2026-08-03T16:49:13.008Z"
+}

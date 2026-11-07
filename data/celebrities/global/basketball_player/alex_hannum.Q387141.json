@@ -1,0 +1,33 @@
+{
+  "publicId": "86084d5f",
+  "wikipediaSlug": "Alex_Hannum",
+  "wikipediaId": "Q387141",
+  "name": "Alex Hannum",
+  "fullName": "Alex Hannum",
+  "profileSummary": "Alexander Murray Hannum was an American professional basketball player and coach. Known as Sarge because of his military background, Hannum played center for six different teams, most notably the Milwaukee Hawks in the National Basketball Association (NBA), where he spent three seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Alex_Hannum_1947_%28cropped%29.jpg/330px-Alex_Hannum_1947_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Hannum",
+  "dateOfBirth": "1923-07-19",
+  "birthDateParsed": "1923-07-19",
+  "dateOfDeath": "2002-01-18",
+  "deathDateParsed": "2002-01-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "coach"
+  ],
+  "qid": "Q387141",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-01T15:36:26.071Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "f055e127",
+  "wikipediaSlug": "Shai_Gilgeous-Alexander",
+  "wikipediaId": "Q32860369",
+  "name": "Shai Gilgeous-Alexander",
+  "fullName": "Shai Gilgeous-Alexander",
+  "profileSummary": "Shaivonte Aician Gilgeous-Alexander, also known by his initials SGA, is a Canadian professional basketball player for the Oklahoma City Thunder of the National Basketball Association (NBA). He is a four-time NBA All-Star, a four-time All-NBA First Team member, and two-time NBA Most Valuable Player (MVP). Gilgeous-Alexander led the Thunder to their first NBA championship since relocating from Seattle to Oklahoma City and was named Finals MVP.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93109.jpg/330px-2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93109.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shai_Gilgeous-Alexander",
+  "dateOfBirth": "1998-07-12",
+  "birthDateParsed": "1998-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.670277777",
+  "birthCoordinatesLng": "-79.386666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q32860369",
+  "birthPlace": "Toronto",
+  "fetchedAt": "2026-08-01T15:38:09.559Z"
+}

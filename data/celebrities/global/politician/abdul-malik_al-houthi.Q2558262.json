@@ -1,0 +1,31 @@
+{
+  "publicId": "ee6305d2",
+  "wikipediaSlug": "Abdul-Malik_al-Houthi",
+  "wikipediaId": "Q2558262",
+  "name": "Abdul-Malik al-Houthi",
+  "fullName": "Abdul-Malik al-Houthi",
+  "profileSummary": "Abdul-Malik Badr al-Din al-Houthi is a Yemeni politician and religious leader who is the second leader of the Houthis, an organization principally made up of Zaydi Shia Muslims, since 2004.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D9%84%DA%A9_%D8%AD%D9%88%D8%AB%DB%8C.jpg/330px-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D9%84%DA%A9_%D8%AD%D9%88%D8%AB%DB%8C.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul-Malik_al-Houthi",
+  "dateOfBirth": "1979-05-22",
+  "birthDateParsed": "1979-05-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "17.066666666",
+  "birthCoordinatesLng": "43.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q2558262",
+  "birthPlace": "Saada Governorate",
+  "fetchedAt": "2026-08-03T16:48:47.518Z"
+}

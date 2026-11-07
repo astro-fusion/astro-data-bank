@@ -1,0 +1,31 @@
+{
+  "publicId": "63439a1b",
+  "wikipediaSlug": "Georg_Hackl",
+  "wikipediaId": "Q39588",
+  "name": "Georg Hackl",
+  "fullName": "Georg Hackl",
+  "profileSummary": "Georg Hackl, often named Hackl Schorsch, is a German former luger who was three time Olympic and World Champion. He is known affectionately as Hackl-Schorsch or as the Speeding Weißwurst, a reference to what he looks like in his white bodysuit coming down the luge at fast speeds.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2026-03-07_Ebersp%C3%A4cher_Luge_World_Cup_2025-26_%E2%80%93_Altenberg_%E2%80%93_Men%27s_Doubles_World_Cup_by_Sandro_Halank%E2%80%93058.jpg/330px-2026-03-07_Ebersp%C3%A4cher_Luge_World_Cup_2025-26_%E2%80%93_Altenberg_%E2%80%93_Men%27s_Doubles_World_Cup_by_Sandro_Halank%E2%80%93058.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georg_Hackl",
+  "dateOfBirth": "1966-09-09",
+  "birthDateParsed": "1966-09-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.631388888",
+  "birthCoordinatesLng": "13.004166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "luger"
+  ],
+  "qid": "Q39588",
+  "birthPlace": "Berchtesgaden",
+  "fetchedAt": "2026-08-10T12:59:48.998Z"
+}

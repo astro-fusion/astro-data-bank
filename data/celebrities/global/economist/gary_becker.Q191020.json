@@ -1,0 +1,34 @@
+{
+  "publicId": "67c256a3",
+  "wikipediaSlug": "Gary_Becker",
+  "wikipediaId": "Q191020",
+  "name": "Gary Becker",
+  "fullName": "Gary Becker",
+  "profileSummary": "Gary Stanley Becker was an American economist who received the 1992 Nobel Memorial Prize in Economic Sciences. He was a professor of economics and sociology at the University of Chicago, and was a leader of the third generation of the Chicago school of economics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/GaryBecker-May24-2008.jpg/330px-GaryBecker-May24-2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Becker",
+  "dateOfBirth": "1930-12-02",
+  "birthDateParsed": "1930-12-02",
+  "dateOfDeath": "2014-05-03",
+  "deathDateParsed": "2014-05-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.685",
+  "birthCoordinatesLng": "-76.2028",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "criminologist",
+    "educator"
+  ],
+  "qid": "Q191020",
+  "birthPlace": "Pottsville",
+  "fetchedAt": "2026-08-10T09:43:01.987Z"
+}

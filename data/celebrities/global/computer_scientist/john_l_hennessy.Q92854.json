@@ -1,0 +1,36 @@
+{
+  "publicId": "dbbaf2a4",
+  "wikipediaSlug": "John_L._Hennessy",
+  "wikipediaId": "Q92854",
+  "name": "John L. Hennessy",
+  "fullName": "John L. Hennessy",
+  "profileSummary": "John Leroy Hennessy is an American computer scientist and chairman of Alphabet Inc. Hennessy is one of the founders of MIPS Technologies and Atheros, serving as 10th president of Stanford University from 2000 to 2016. He was succeeded as president by Marc Tessier-Lavigne. Marc Andreessen called him \"the godfather of Silicon Valley.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/John_L._Hennessy_by_Christopher_Michel_in_2024_01.jpg/330px-John_L._Hennessy_by_Christopher_Michel_in_2024_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_L._Hennessy",
+  "dateOfBirth": "1952-09-22",
+  "birthDateParsed": "1952-09-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.868055555",
+  "birthCoordinatesLng": "-73.426111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "university teacher",
+    "businessperson",
+    "academic",
+    "entrepreneur"
+  ],
+  "qid": "Q92854",
+  "birthPlace": "Huntington",
+  "fetchedAt": "2026-08-10T04:29:11.471Z"
+}

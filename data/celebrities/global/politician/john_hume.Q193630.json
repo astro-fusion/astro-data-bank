@@ -1,0 +1,31 @@
+{
+  "publicId": "5649fa3f",
+  "wikipediaSlug": "John_Hume",
+  "wikipediaId": "Q193630",
+  "name": "John Hume",
+  "fullName": "John Hume",
+  "profileSummary": "John Hume was an Irish nationalist politician in Northern Ireland and a Nobel Peace Prize laureate. A founder and leader of the Social Democratic and Labour Party, Hume served in the Parliament of Northern Ireland; the Northern Ireland Assembly including, in 1974, its first power-sharing executive; the European Parliament and the United Kingdom Parliament. Seeking an accommodation between Irish nationalism and Ulster unionism, and soliciting American support, he was both critical of British government policy in Northern Ireland and opposed to the republican embrace of \"armed struggle\". In their 1998 citation, the Norwegian Nobel Committee recognised Hume as an architect of the Good Friday Agreement. For his own part, Hume wished to be remembered as having been, in his earlier years, a pioneer of the credit union movement.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/John_Hume%2C_1994_%28cropped%29_2.jpg/330px-John_Hume%2C_1994_%28cropped%29_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hume",
+  "dateOfBirth": "1937-01-18",
+  "birthDateParsed": "1937-01-18",
+  "dateOfDeath": "2020-08-03",
+  "deathDateParsed": "2020-08-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.991666666",
+  "birthCoordinatesLng": "-7.341666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q193630",
+  "birthPlace": "Derry",
+  "fetchedAt": "2026-08-04T02:13:36.753Z"
+}

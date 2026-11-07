@@ -1,0 +1,32 @@
+{
+  "publicId": "77dea874",
+  "wikipediaSlug": "Ken_McGregor",
+  "wikipediaId": "Q712779",
+  "name": "Ken McGregor",
+  "fullName": "Ken McGregor",
+  "profileSummary": "Kenneth Bruce McGregor was an Australian tennis player from Adelaide who won the Men's Singles title at the Australian Championships in 1952. He and his longtime doubles partner, Frank Sedgman, are generally considered one of the greatest men's doubles teams of all time and won the doubles Grand Slam in 1951. McGregor was also a member of three Australian Davis Cup winning teams in 1950–1952. In 1953, Jack Kramer induced both Sedgman and McGregor to turn professional. He was ranked as high as World No. 3 in 1952.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ken_McGregor.jpg/330px-Ken_McGregor.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ken_McGregor",
+  "dateOfBirth": "1929-06-02",
+  "birthDateParsed": "1929-06-02",
+  "dateOfDeath": "2007-12-01",
+  "deathDateParsed": "2007-12-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.9275",
+  "birthCoordinatesLng": "138.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "Australian rules football player"
+  ],
+  "qid": "Q712779",
+  "birthPlace": "Adelaide",
+  "fetchedAt": "2026-08-01T13:11:56.168Z"
+}

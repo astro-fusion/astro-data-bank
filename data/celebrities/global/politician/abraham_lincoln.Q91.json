@@ -1,0 +1,37 @@
+{
+  "publicId": "17101be0",
+  "wikipediaSlug": "Abraham_Lincoln",
+  "wikipediaId": "Q91",
+  "name": "Abraham Lincoln",
+  "fullName": "Abraham Lincoln",
+  "profileSummary": "Abraham Lincoln was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defeating the Confederacy and playing a major role in the abolition of slavery.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/330px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+  "dateOfBirth": "1809-02-12",
+  "birthDateParsed": "1809-02-12",
+  "dateOfDeath": "1865-04-15",
+  "deathDateParsed": "1865-04-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.533333333",
+  "birthCoordinatesLng": "-85.733333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "postmaster",
+    "lawyer",
+    "statesperson",
+    "farmer",
+    "military officer",
+    "writer"
+  ],
+  "qid": "Q91",
+  "birthPlace": "Sinking Spring Farm",
+  "fetchedAt": "2026-08-01T18:07:48.234Z"
+}

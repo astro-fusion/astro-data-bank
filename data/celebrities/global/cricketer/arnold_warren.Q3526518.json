@@ -1,0 +1,32 @@
+{
+  "publicId": "69da2789",
+  "wikipediaSlug": "Arnold_Warren",
+  "wikipediaId": "Q3526518",
+  "name": "Arnold Warren",
+  "fullName": "Arnold Warren",
+  "profileSummary": "Arnold Warren was an English cricketer who played first-class cricket for Derbyshire between 1897 and 1920 and played for England in 1905. He was the first bowler from Derbyshire to take 100 wickets in a season, a feat he performed three times.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Arnold_Warren_c1908.jpg/330px-Arnold_Warren_c1908.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnold_Warren",
+  "dateOfBirth": "1875-04-02",
+  "birthDateParsed": "1875-04-02",
+  "dateOfDeath": "1951-09-03",
+  "deathDateParsed": "1951-09-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.043",
+  "birthCoordinatesLng": "-1.373",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "association football player"
+  ],
+  "qid": "Q3526518",
+  "birthPlace": "Codnor",
+  "fetchedAt": "2026-07-31T20:09:05.048Z"
+}

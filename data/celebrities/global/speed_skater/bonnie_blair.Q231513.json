@@ -1,0 +1,32 @@
+{
+  "publicId": "b4f8525f",
+  "wikipediaSlug": "Bonnie_Blair",
+  "wikipediaId": "Q231513",
+  "name": "Bonnie Blair",
+  "fullName": "Bonnie Blair",
+  "profileSummary": "Bonnie Kathleen Blair is a retired American speed skater. She is one of the top skaters of her era, and one of the most decorated athletes in Olympic history. Blair competed for the United States in four Olympics, winning five gold medals and one bronze medal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bonnie_Blair_%28cropped%29.jpg/330px-Bonnie_Blair_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bonnie_Blair",
+  "dateOfBirth": "1964-03-18",
+  "birthDateParsed": "1964-03-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.4344",
+  "birthCoordinatesLng": "-74.0358",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "speed skater",
+    "short-track speed skater"
+  ],
+  "qid": "Q231513",
+  "birthPlace": "Cornwall",
+  "fetchedAt": "2026-08-10T12:58:51.408Z"
+}

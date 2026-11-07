@@ -1,0 +1,31 @@
+{
+  "publicId": "aaca32bb",
+  "wikipediaSlug": "Dooley_Briscoe",
+  "wikipediaId": "Q5297030",
+  "name": "Dooley Briscoe",
+  "fullName": "Dooley Briscoe",
+  "profileSummary": "Captain Arthur Wellesley \"Dooley\" Briscoe MC was a South African cricketer who played in two Test matches, one in 1935–36 and the other in 1938–39.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Dooley_Briscoe.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dooley_Briscoe",
+  "dateOfBirth": "1911-02-06",
+  "birthDateParsed": "1911-02-06",
+  "dateOfDeath": "1941-04-22",
+  "deathDateParsed": "1941-04-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5297030",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:22:16.199Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "c600650d",
+  "wikipediaSlug": "Evelyn_Sears",
+  "wikipediaId": "Q508925",
+  "name": "Evelyn Sears",
+  "fullName": "Evelyn Sears",
+  "profileSummary": "Evelyn Georgianna Sears was an American tennis player at the beginning of the 20th century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EvelynSears1908.tif/lossless-page1-250px-EvelynSears1908.tif.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evelyn_Sears",
+  "dateOfBirth": "1875-03-09",
+  "birthDateParsed": "1875-03-09",
+  "dateOfDeath": "1966-11-10",
+  "deathDateParsed": "1966-11-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.380596",
+  "birthCoordinatesLng": "-71.235005",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q508925",
+  "birthPlace": "Waltham",
+  "fetchedAt": "2026-08-01T14:59:32.117Z"
+}

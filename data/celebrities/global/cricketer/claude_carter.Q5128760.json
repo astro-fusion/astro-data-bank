@@ -1,0 +1,31 @@
+{
+  "publicId": "9d37fbbd",
+  "wikipediaSlug": "Claude_Carter",
+  "wikipediaId": "Q5128760",
+  "name": "Claude Carter",
+  "fullName": "Claude Carter",
+  "profileSummary": "Claude Pagdett Carter, sometimes known as Claude Paget Carter was a South African cricketer who played in 10 Tests from 1912 to 1924.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/CP_Carter_of_South_Africa_in_1912.png/330px-CP_Carter_of_South_Africa_in_1912.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Carter",
+  "dateOfBirth": "1881-04-23",
+  "birthDateParsed": "1881-04-23",
+  "dateOfDeath": "1952-11-08",
+  "deathDateParsed": "1952-11-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.858333333",
+  "birthCoordinatesLng": "31.025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5128760",
+  "birthPlace": "Durban",
+  "fetchedAt": "2026-07-31T20:21:23.542Z"
+}

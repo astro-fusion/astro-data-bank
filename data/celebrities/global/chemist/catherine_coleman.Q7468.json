@@ -1,0 +1,35 @@
+{
+  "publicId": "1ce6ccb5",
+  "wikipediaSlug": "Catherine_Coleman",
+  "wikipediaId": "Q7468",
+  "name": "Catherine Coleman",
+  "fullName": "Catherine Coleman",
+  "profileSummary": "Catherine Grace \"Cady\" Coleman is an American chemist, engineer, former United States Air Force colonel, and retired NASA astronaut. She is a veteran of two Space Shuttle missions, and departed the International Space Station on May 23, 2011, as a crew member of Expedition 27 after logging 159 days in space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Catherine_Coleman_2009.jpg/330px-Catherine_Coleman_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catherine_Coleman",
+  "dateOfBirth": "1960-12-14",
+  "birthDateParsed": "1960-12-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.783333333",
+  "birthCoordinatesLng": "-79.931944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "air force officer",
+    "astronaut",
+    "engineer",
+    "scientist"
+  ],
+  "qid": "Q7468",
+  "birthPlace": "Charleston",
+  "fetchedAt": "2026-08-10T06:04:01.049Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "0af76852",
+  "wikipediaSlug": "Lou_Leon_Guerrero",
+  "wikipediaId": "Q21066675",
+  "name": "Lou Leon Guerrero",
+  "fullName": "Lou Leon Guerrero",
+  "profileSummary": "Lourdes Aflague \"Lou\" Leon Guerrero is a Guamanian politician and former banking executive, lobbyist, and nurse who has served as the ninth governor of Guam since 2019. A member of the Democratic Party, Guerrero is the first woman to serve in the position. Leon Guerrero had served in the Guam Legislature from 1995 to 1999 and again from 2001 to 2007. From 2007 to 2017, Leon Guerrero was president and CEO of the Bank of Guam.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Governor_of_Guam_Lourdes_Aflague_%22Lou%22_Leon_Guerrero.jpg/330px-Governor_of_Guam_Lourdes_Aflague_%22Lou%22_Leon_Guerrero.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lou_Leon_Guerrero",
+  "dateOfBirth": "1950-11-08",
+  "birthDateParsed": "1950-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.5",
+  "birthCoordinatesLng": "144.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "politician",
+    "nurse"
+  ],
+  "qid": "Q21066675",
+  "birthPlace": "Guam",
+  "fetchedAt": "2026-08-02T03:28:50.153Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "c24f0e55",
+  "wikipediaSlug": "Ernest_Renshaw",
+  "wikipediaId": "Q505764",
+  "name": "Ernest Renshaw",
+  "fullName": "Ernest Renshaw",
+  "profileSummary": "Ernest James Renshaw was a British tennis player who was active in the late 19th century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ernest_Renshaw.jpg/330px-Ernest_Renshaw.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernest_Renshaw",
+  "dateOfBirth": "1861-01-03",
+  "birthDateParsed": "1861-01-03",
+  "dateOfDeath": "1899-09-02",
+  "deathDateParsed": "1899-09-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.291944444",
+  "birthCoordinatesLng": "-1.535833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q505764",
+  "birthPlace": "Leamington Spa",
+  "fetchedAt": "2026-08-01T13:11:31.681Z"
+}

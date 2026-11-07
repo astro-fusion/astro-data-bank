@@ -1,0 +1,33 @@
+{
+  "publicId": "6a182c42",
+  "wikipediaSlug": "Alfred_Hershey",
+  "wikipediaId": "Q271703",
+  "name": "Alfred Hershey",
+  "fullName": "Alfred Hershey",
+  "profileSummary": "Alfred Day Hershey was an American Nobel Prize–winning bacteriologist and geneticist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alfred_Hershey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Hershey",
+  "dateOfBirth": "1908-12-04",
+  "birthDateParsed": "1908-12-04",
+  "dateOfDeath": "1997-05-22",
+  "deathDateParsed": "1997-05-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.997777777",
+  "birthCoordinatesLng": "-84.176666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "geneticist",
+    "microbiologist"
+  ],
+  "qid": "Q271703",
+  "birthPlace": "Owosso",
+  "fetchedAt": "2026-08-10T03:14:01.099Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "6f3d1906",
+  "wikipediaSlug": "Bob_Menendez",
+  "wikipediaId": "Q888132",
+  "name": "Bob Menendez",
+  "fullName": "Bob Menendez",
+  "profileSummary": "Robert Menendez is an American former politician and lawyer who represented New Jersey in the United States Senate from 2006 until his resignation in 2024. A member of the Democratic Party, he previously represented New Jersey's 13th congressional district in the United States House of Representatives from 1993 to 2006. His political career ended after he was convicted in a political corruption case in 2024, making him the first sitting member of Congress convicted of conspiracy to act as a foreign agent.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Senator_Bob_Menendez_%282022%29.jpg/330px-Senator_Bob_Menendez_%282022%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Menendez",
+  "dateOfBirth": "1954-01-01",
+  "birthDateParsed": "1954-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist",
+    "mayor"
+  ],
+  "qid": "Q888132",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-02T02:15:46.780Z"
+}

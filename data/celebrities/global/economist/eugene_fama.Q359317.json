@@ -1,0 +1,33 @@
+{
+  "publicId": "b827a3a9",
+  "wikipediaSlug": "Eugene_Fama",
+  "wikipediaId": "Q359317",
+  "name": "Eugene Fama",
+  "fullName": "Eugene Fama",
+  "profileSummary": "Eugene Francis \"Gene\" Fama is an American economist and Nobel Laureate. He is best known for his empirical work on portfolio theory, asset pricing, and the efficient-market hypothesis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eugene_Fama_at_Nobel_Prize%2C_2013.jpg/330px-Eugene_Fama_at_Nobel_Prize%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugene_Fama",
+  "dateOfBirth": "1939-02-14",
+  "birthDateParsed": "1939-02-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "pedagogue",
+    "university teacher"
+  ],
+  "qid": "Q359317",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T09:43:08.201Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "8e041e7f",
+  "wikipediaSlug": "Christian_Gross",
+  "wikipediaId": "Q115587",
+  "name": "Christian Gross",
+  "fullName": "Christian Gross",
+  "profileSummary": "Christian Jürgen Gross is a football manager and former player from Switzerland. He played as a sweeper and central midfielder. Gross was manager of Basel from 1999 to 2009, winning four Swiss Super Leagues and four Swiss Cups. As manager of Tottenham Hotspur between November 1997 and September 1998, Gross became the first Swiss to manage in the Premier League.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Christian-gross.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Gross",
+  "dateOfBirth": "1954-08-14",
+  "birthDateParsed": "1954-08-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.374444444",
+  "birthCoordinatesLng": "8.541111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q115587",
+  "birthPlace": "Zurich",
+  "fetchedAt": "2026-08-01T05:20:11.998Z"
+}

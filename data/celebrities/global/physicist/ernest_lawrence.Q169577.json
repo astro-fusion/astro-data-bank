@@ -1,0 +1,33 @@
+{
+  "publicId": "4a993a5b",
+  "wikipediaSlug": "Ernest_Lawrence",
+  "wikipediaId": "Q169577",
+  "name": "Ernest Lawrence",
+  "fullName": "Ernest Lawrence",
+  "profileSummary": "Ernest Orlando Lawrence was an American physicist who received the Nobel Prize in Physics in 1939 for his invention of the cyclotron. He is known for his work on uranium-isotope separation for the Manhattan Project, as well as for founding the Lawrence Berkeley National Laboratory and the Lawrence Livermore National Laboratory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ernest_Lawrence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernest_Lawrence",
+  "dateOfBirth": "1901-08-08",
+  "birthDateParsed": "1901-08-08",
+  "dateOfDeath": "1958-08-27",
+  "deathDateParsed": "1958-08-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.302222222",
+  "birthCoordinatesLng": "-96.590833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "nuclear physicist",
+    "university teacher"
+  ],
+  "qid": "Q169577",
+  "birthPlace": "Canton",
+  "fetchedAt": "2026-08-06T05:01:52.328Z"
+}

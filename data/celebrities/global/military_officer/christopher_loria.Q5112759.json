@@ -1,0 +1,32 @@
+{
+  "publicId": "53db316a",
+  "wikipediaSlug": "Christopher_Loria",
+  "wikipediaId": "Q5112759",
+  "name": "Christopher Loria",
+  "fullName": "Christopher Loria",
+  "profileSummary": "Christopher Joseph \"Gus\" Loria is a retired United States Marine Corps Colonel and a medically retired NASA astronaut. He was originally scheduled to fly on STS-113 as pilot; however, he was grounded from spaceflight due to a severe back injury.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christopher_Loria.jpg/330px-Christopher_Loria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Loria",
+  "dateOfBirth": "1960-07-09",
+  "birthDateParsed": "1960-07-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.336944444",
+  "birthCoordinatesLng": "-71.209722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut"
+  ],
+  "qid": "Q5112759",
+  "birthPlace": "Newton",
+  "fetchedAt": "2026-08-10T06:04:54.482Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "c0b5b554",
+  "wikipediaSlug": "Alexander_Prokhorov",
+  "wikipediaId": "Q83552",
+  "name": "Alexander Prokhorov",
+  "fullName": "Alexander Prokhorov",
+  "profileSummary": "Alexander Mikhailovich Prokhorov was an Australian-born Soviet physicist and researcher whose work focused on quantum electronics. His most famous and well-known works were on optics and electromagnetic research. He was jointly awarded the Nobel Prize in Physics in 1964 with Charles Hard Townes and Nikolay Basov for his fundamental work that led to the development of the laser and the maser.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Aleksandr_Prokhorov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Prokhorov",
+  "dateOfBirth": "1916-07-11",
+  "birthDateParsed": "1916-07-11",
+  "dateOfDeath": "2002-01-08",
+  "deathDateParsed": "2002-01-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-17.265555555",
+  "birthCoordinatesLng": "145.474166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "editor"
+  ],
+  "qid": "Q83552",
+  "birthPlace": "Atherton",
+  "fetchedAt": "2026-08-06T05:00:46.629Z"
+}

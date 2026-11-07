@@ -1,0 +1,34 @@
+{
+  "publicId": "fe24dd24",
+  "wikipediaSlug": "Brigitte_Bierlein",
+  "wikipediaId": "Q916162",
+  "name": "Brigitte Bierlein",
+  "fullName": "Brigitte Bierlein",
+  "profileSummary": "Brigitte Bierlein was an Austrian jurist who served as President of the Constitutional Court from 2018 to 2019 and as Chancellor of Austria from 2019 to 2020. An independent, she was the first woman to hold either office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brigitte_Bierlein_2018_%28coloured_portrait_crop%29.jpg/330px-Brigitte_Bierlein_2018_%28coloured_portrait_crop%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigitte_Bierlein",
+  "dateOfBirth": "1949-06-25",
+  "birthDateParsed": "1949-06-25",
+  "dateOfDeath": "2024-06-03",
+  "deathDateParsed": "2024-06-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "jurist",
+    "politician",
+    "Member of the Constitutional Court of Austria"
+  ],
+  "qid": "Q916162",
+  "birthPlace": "Vienna",
+  "fetchedAt": "2026-08-04T00:55:30.893Z"
+}

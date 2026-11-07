@@ -1,0 +1,32 @@
+{
+  "publicId": "9e528b1c",
+  "wikipediaSlug": "Laura_Kuenssberg",
+  "wikipediaId": "Q6499096",
+  "name": "Laura Kuenssberg",
+  "fullName": "Laura Kuenssberg",
+  "profileSummary": "Laura Juliet Kuenssberg is a Scottish journalist and television presenter. She was the political editor of BBC News from 2015 to 2022, and was the first woman to hold the position. She has since presented the BBC's weekend political discussion programme Sunday with Laura Kuenssberg.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Laura_Kuenssberg_Cicero_2012.jpg/330px-Laura_Kuenssberg_Cicero_2012.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laura_Kuenssberg",
+  "dateOfBirth": "1976-08-08",
+  "birthDateParsed": "1976-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.893055555",
+  "birthCoordinatesLng": "12.482777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "television presenter"
+  ],
+  "qid": "Q6499096",
+  "birthPlace": "Rome",
+  "fetchedAt": "2026-08-02T05:22:46.721Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "76aa1999",
+  "wikipediaSlug": "Benjamin_Harrison",
+  "wikipediaId": "Q35678",
+  "name": "Benjamin Harrison",
+  "fullName": "Benjamin Harrison",
+  "profileSummary": "Benjamin Harrison was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia—a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison V, a Founding Father. A Union army veteran and a Republican, he defeated Democratic Party incumbent Grover Cleveland to win the presidency in the 1888 United States presidential election by winning the Electoral College while losing the popular vote. He was defeated by Cleveland in the 1892 United States presidential election, becoming the first president to be succeeded in office by his predecessor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pach_Brothers_-_Benjamin_Harrison_%28cropped%29_%28cropped%29.jpg/330px-Pach_Brothers_-_Benjamin_Harrison_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+  "dateOfBirth": "1833-08-20",
+  "birthDateParsed": "1833-08-20",
+  "dateOfDeath": "1901-03-13",
+  "deathDateParsed": "1901-03-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.1497",
+  "birthCoordinatesLng": "-84.7458",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "lawyer",
+    "statesperson",
+    "writer",
+    "jurist"
+  ],
+  "qid": "Q35678",
+  "birthPlace": "North Bend",
+  "fetchedAt": "2026-08-04T15:05:29.627Z"
+}

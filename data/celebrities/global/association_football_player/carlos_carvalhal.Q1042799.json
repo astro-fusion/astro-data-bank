@@ -1,0 +1,32 @@
+{
+  "publicId": "c2d787c8",
+  "wikipediaSlug": "Carlos_Carvalhal",
+  "wikipediaId": "Q1042799",
+  "name": "Carlos Carvalhal",
+  "fullName": "Carlos Carvalhal",
+  "profileSummary": "Carlos Augusto Soares da Costa Faria Carvalhal is a Portuguese former professional footballer who played as a centre-back. He is currently manager of Primeira Liga club Famalicão.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Carvalhal.JPG/330px-Carvalhal.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Carvalhal",
+  "dateOfBirth": "1965-12-04",
+  "birthDateParsed": "1965-12-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.533333333",
+  "birthCoordinatesLng": "-8.416666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1042799",
+  "birthPlace": "Braga",
+  "fetchedAt": "2026-08-01T05:20:47.903Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "9e171638",
+  "wikipediaSlug": "Bajram_Begaj",
+  "wikipediaId": "Q107422711",
+  "name": "Bajram Begaj",
+  "fullName": "Bajram Begaj",
+  "profileSummary": "Bajram Rushit Begaj is an Albanian former military officer, physician and politician serving as President of Albania since 24 July 2022. Prior to his election as president, he served as the 26th Chief of the General Staff of the Albanian Armed Forces from July 2020 to June 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bajram_Begaj_%28infobox_crop%29.jpg/330px-Bajram_Begaj_%28infobox_crop%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bajram_Begaj",
+  "dateOfBirth": "1967-03-20",
+  "birthDateParsed": "1967-03-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.076111111",
+  "birthCoordinatesLng": "19.666666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "major general"
+  ],
+  "qid": "Q107422711",
+  "birthPlace": "Rrogozhinë",
+  "fetchedAt": "2026-08-03T16:50:08.701Z"
+}

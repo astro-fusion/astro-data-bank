@@ -1,0 +1,32 @@
+{
+  "publicId": "eb6c95ff",
+  "wikipediaSlug": "Bill_Gosper",
+  "wikipediaId": "Q862150",
+  "name": "Bill Gosper",
+  "fullName": "Bill Gosper",
+  "profileSummary": "Ralph William Gosper Jr. is an American mathematician and programmer. Along with Richard Greenblatt, he may be considered to have founded the hacker community, and he holds a place of pride in the Lisp community. The Gosper curve and Gosper's algorithm are named after him.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bill_Gosper_2006.jpg/330px-Bill_Gosper_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Gosper",
+  "dateOfBirth": "1943-04-26",
+  "birthDateParsed": "1943-04-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40",
+  "birthCoordinatesLng": "-74.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "programmer"
+  ],
+  "qid": "Q862150",
+  "birthPlace": "New Jersey",
+  "fetchedAt": "2026-08-05T03:16:07.404Z"
+}

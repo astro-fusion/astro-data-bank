@@ -1,0 +1,31 @@
+{
+  "publicId": "eccb76b1",
+  "wikipediaSlug": "Betty_Williams",
+  "wikipediaId": "Q157690",
+  "name": "Betty Williams",
+  "fullName": "Betty Williams",
+  "profileSummary": "Elizabeth Williams was a peace activist from Northern Ireland. She was a co-recipient with Mairead Corrigan of the Nobel Peace Prize in 1976 for her work as a cofounder of Community of Peace People, an organisation dedicated to promoting a peaceful resolution to the Troubles in Northern Ireland.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Betty_Williams_1996.jpg/330px-Betty_Williams_1996.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Betty_Williams",
+  "dateOfBirth": "1943-05-22",
+  "birthDateParsed": "1943-05-22",
+  "dateOfDeath": "2020-03-17",
+  "deathDateParsed": "2020-03-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.596666666",
+  "birthCoordinatesLng": "-5.93",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "peace activist"
+  ],
+  "qid": "Q157690",
+  "birthPlace": "Belfast",
+  "fetchedAt": "2026-08-04T02:12:44.260Z"
+}

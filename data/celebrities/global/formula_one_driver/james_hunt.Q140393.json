@@ -1,0 +1,33 @@
+{
+  "publicId": "c5d1f68c",
+  "wikipediaSlug": "James_Hunt",
+  "wikipediaId": "Q140393",
+  "name": "James Hunt",
+  "fullName": "James Hunt",
+  "profileSummary": "James Simon Wallis Hunt was a British racing driver and broadcaster who competed in Formula One from 1973 to 1979. Nicknamed \"the Shunt\", Hunt won the Formula One World Drivers' Championship in 1976 with McLaren and won 10 Grands Prix across seven seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/J._Hunt_in_1977_%28cropped%29.jpg/330px-J._Hunt_in_1977_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Hunt",
+  "dateOfBirth": "1947-08-29",
+  "birthDateParsed": "1947-08-29",
+  "dateOfDeath": "1993-06-15",
+  "deathDateParsed": "1993-06-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.343280555",
+  "birthCoordinatesLng": "-0.202388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver",
+    "broadcaster"
+  ],
+  "qid": "Q140393",
+  "birthPlace": "Belmont",
+  "fetchedAt": "2026-08-01T16:01:31.570Z"
+}

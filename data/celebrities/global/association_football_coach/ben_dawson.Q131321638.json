@@ -1,0 +1,31 @@
+{
+  "publicId": "e06ffe37",
+  "wikipediaSlug": "Ben_Dawson",
+  "wikipediaId": "Q131321638",
+  "name": "Ben Dawson",
+  "fullName": "Ben Dawson",
+  "profileSummary": "Ben Dawson is an English football coach. He is currently a first-team coach of Danish Superliga club Brøndby.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Dawson",
+  "dateOfBirth": "1981-02-11",
+  "birthDateParsed": "1981-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football coach"
+  ],
+  "qid": "Q131321638",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-01T05:20:11.212Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "2df6be71",
+  "wikipediaSlug": "Bobby_Riggs",
+  "wikipediaId": "Q54539",
+  "name": "Bobby Riggs",
+  "fullName": "Bobby Riggs",
+  "profileSummary": "Robert Larimore Riggs was an American tennis champion who was the world No. 1 amateur in 1939 and world No. 1 professional in 1946 and 1947. He played his first professional tennis match on December 26, 1941.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bobby_Riggs_c1947.jpg/330px-Bobby_Riggs_c1947.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Riggs",
+  "dateOfBirth": "1918-02-25",
+  "birthDateParsed": "1918-02-25",
+  "dateOfDeath": "1995-10-25",
+  "deathDateParsed": "1995-10-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q54539",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-01T13:10:25.303Z"
+}

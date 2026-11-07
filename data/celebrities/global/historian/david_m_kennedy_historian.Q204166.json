@@ -1,0 +1,33 @@
+{
+  "publicId": "3233e20e",
+  "wikipediaSlug": "David_M._Kennedy_(historian)",
+  "wikipediaId": "Q204166",
+  "name": "David M. Kennedy (historian)",
+  "fullName": "David M. Kennedy (historian)",
+  "profileSummary": "David Michael Kennedy is an American historian specializing in American history. He is the Donald J. McLachlan Professor of History Emeritus at Stanford University and the former director of the Bill Lane Center for the American West. Kennedy's scholarship is notable for its integration of economic analysis and cultural analysis with social history and political history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/David_M._Kennedy_2015_%28cropped%29.jpg/330px-David_M._Kennedy_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_M._Kennedy_(historian)",
+  "dateOfBirth": "1941-07-22",
+  "birthDateParsed": "1941-07-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.605",
+  "birthCoordinatesLng": "-122.33",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "university teacher",
+    "academic"
+  ],
+  "qid": "Q204166",
+  "birthPlace": "Seattle",
+  "fetchedAt": "2026-08-04T15:06:29.247Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "0be0bb11",
+  "wikipediaSlug": "Nelson_Mandela",
+  "wikipediaId": "Q8023",
+  "name": "Nelson Mandela",
+  "fullName": "Nelson Mandela",
+  "profileSummary": "Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, politician, and philanthropist, who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as President of the African National Congress (ANC) party from 1991 to 1997.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/330px-Nelson_Mandela_1994.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+  "dateOfBirth": "1918-07-18",
+  "birthDateParsed": "1918-07-18",
+  "dateOfDeath": "2013-12-05",
+  "deathDateParsed": "2013-12-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.95",
+  "birthCoordinatesLng": "28.516",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "autobiographer",
+    "lawyer",
+    "political activist",
+    "political prisoner",
+    "screenwriter",
+    "freedom fighter"
+  ],
+  "qid": "Q8023",
+  "birthPlace": "Mvezo",
+  "fetchedAt": "2026-08-04T02:14:07.538Z"
+}

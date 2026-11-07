@@ -1,0 +1,31 @@
+{
+  "publicId": "29ad23e7",
+  "wikipediaSlug": "DaMarques_Johnson",
+  "wikipediaId": "Q5207179",
+  "name": "DaMarques Johnson",
+  "fullName": "DaMarques Johnson",
+  "profileSummary": "DaMarques Johnson is a retired American mixed martial artist. He competed for the UFC and King of the Cage and was the Welterweight runner-up on The Ultimate Fighter: United States vs. United Kingdom.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/DaMarques_Johnson.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/DaMarques_Johnson",
+  "dateOfBirth": "1982-06-28",
+  "birthDateParsed": "1982-06-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.606388888",
+  "birthCoordinatesLng": "-111.976111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q5207179",
+  "birthPlace": "West Jordan",
+  "fetchedAt": "2026-08-01T17:05:14.399Z"
+}

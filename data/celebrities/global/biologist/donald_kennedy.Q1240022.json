@@ -1,0 +1,33 @@
+{
+  "publicId": "dded9d08",
+  "wikipediaSlug": "Donald_Kennedy",
+  "wikipediaId": "Q1240022",
+  "name": "Donald Kennedy",
+  "fullName": "Donald Kennedy",
+  "profileSummary": "Donald Kennedy was an American scientist, public administrator, and academic. He served as Commissioner of the U.S. Food and Drug Administration (1977–1979), President of Stanford University (1980–1992), and Editor-in-Chief of Science (2000–2008). Following this, he was named president emeritus of Stanford University; Bing Professor of Environmental Science and Policy, emeritus; and senior fellow of the Freeman Spogli Institute for International Studies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Donald_Kennedy_1964_Edit.jpg/330px-Donald_Kennedy_1964_Edit.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Kennedy",
+  "dateOfBirth": "1931-08-18",
+  "birthDateParsed": "1931-08-18",
+  "dateOfDeath": "2020-04-21",
+  "deathDateParsed": "2020-04-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "writer",
+    "university teacher"
+  ],
+  "qid": "Q1240022",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-04T15:05:38.959Z"
+}

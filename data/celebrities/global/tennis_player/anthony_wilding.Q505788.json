@@ -1,0 +1,34 @@
+{
+  "publicId": "ed115513",
+  "wikipediaSlug": "Anthony_Wilding",
+  "wikipediaId": "Q505788",
+  "name": "Anthony Wilding",
+  "fullName": "Anthony Wilding",
+  "profileSummary": "Anthony Frederick Wilding, also known as Tony Wilding, was a New Zealand world No. 1 tennis player and soldier who was killed in action during World War I. Considered the world's first tennis superstar, Wilding was the son of wealthy English immigrants to Christchurch, Canterbury, New Zealand and enjoyed the use of private tennis courts at their home. Wilding obtained a legal education at Trinity College, Cambridge and briefly joined his father's law firm. Wilding was a first-class cricketer and a keen motorcycle enthusiast. His tennis career started with him winning the Canterbury Championships aged 17.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Anthony_wilding%2C_ca_1912.jpg/330px-Anthony_wilding%2C_ca_1912.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Wilding",
+  "dateOfBirth": "1883-10-31",
+  "birthDateParsed": "1883-10-31",
+  "dateOfDeath": "1915-05-09",
+  "deathDateParsed": "1915-05-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "barrister",
+    "military officer",
+    "cricketer"
+  ],
+  "qid": "Q505788",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-08-01T13:10:49.229Z"
+}

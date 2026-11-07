@@ -1,0 +1,31 @@
+{
+  "publicId": "6707cad9",
+  "wikipediaSlug": "Dan_Taylor_(cricketer)",
+  "wikipediaId": "Q3228663",
+  "name": "Dan Taylor (cricketer)",
+  "fullName": "Dan Taylor (cricketer)",
+  "profileSummary": "Daniel Taylor was a South African cricketer who played in two Test matches in 1914.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Daniel_Taylor_of_South_Africa.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Taylor_(cricketer)",
+  "dateOfBirth": "1887-01-09",
+  "birthDateParsed": "1887-01-09",
+  "dateOfDeath": "1957-01-24",
+  "deathDateParsed": "1957-01-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3228663",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:22:03.569Z"
+}

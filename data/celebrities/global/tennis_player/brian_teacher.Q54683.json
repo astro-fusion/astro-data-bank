@@ -1,0 +1,32 @@
+{
+  "publicId": "81d7c588",
+  "wikipediaSlug": "Brian_Teacher",
+  "wikipediaId": "Q54683",
+  "name": "Brian Teacher",
+  "fullName": "Brian Teacher",
+  "profileSummary": "Brian David Teacher is an American former professional tennis player. He reached career-high rankings of world No. 7 in singles and world No. 5 in doubles, both in 1981. Teacher is best remembered for being a major singles champion, triumphing at the 1980 Australian Open. He won eight career singles titles and 16 doubles titles.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Teacher",
+  "dateOfBirth": "1954-12-23",
+  "birthDateParsed": "1954-12-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715",
+  "birthCoordinatesLng": "-117.1625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "teacher"
+  ],
+  "qid": "Q54683",
+  "birthPlace": "San Diego",
+  "fetchedAt": "2026-08-01T13:10:38.732Z"
+}

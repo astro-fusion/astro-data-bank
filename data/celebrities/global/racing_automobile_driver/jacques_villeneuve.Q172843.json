@@ -1,0 +1,33 @@
+{
+  "publicId": "6645f983",
+  "wikipediaSlug": "Jacques_Villeneuve",
+  "wikipediaId": "Q172843",
+  "name": "Jacques Villeneuve",
+  "fullName": "Jacques Villeneuve",
+  "profileSummary": " Jacques Joseph Charles Villeneuve is a Canadian former racing driver who competed in IndyCar from 1994 to 1995, and Formula One from 1996 to 2006. He won the Formula One World Drivers' Championship in 1997 with Williams, and won 11 Grands Prix across 11 seasons. In American open-wheel racing, Villeneuve won the IndyCar World Series and the Indianapolis 500 in 1995 with Team Green.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jacques_Villeneuve_Peugeot_208_T16_Lydden_Hill_2014_006_%28cropped2%29.jpg/330px-Jacques_Villeneuve_Peugeot_208_T16_Lydden_Hill_2014_006_%28cropped2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Villeneuve",
+  "dateOfBirth": "1971-04-09",
+  "birthDateParsed": "1971-04-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.305555555",
+  "birthCoordinatesLng": "-73.253611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing automobile driver",
+    "sports commentator",
+    "Formula One driver"
+  ],
+  "qid": "Q172843",
+  "birthPlace": "Saint-Jean-sur-Richelieu",
+  "fetchedAt": "2026-08-01T16:01:44.122Z"
+}

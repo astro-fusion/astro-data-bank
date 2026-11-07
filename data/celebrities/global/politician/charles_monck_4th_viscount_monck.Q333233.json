@@ -1,0 +1,31 @@
+{
+  "publicId": "97cf2fb0",
+  "wikipediaSlug": "Charles_Monck,_4th_Viscount_Monck",
+  "wikipediaId": "Q333233",
+  "name": "Charles Monck, 4th Viscount Monck",
+  "fullName": "Charles Monck, 4th Viscount Monck",
+  "profileSummary": "Charles Stanley Monck, 4th Viscount Monck was a British politician who served as the last governor-general of the Province of Canada and the first Governor General of Canada after Canadian Confederation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Charles_Stanley_Monck.png/330px-Charles_Stanley_Monck.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Monck%2C_4th_Viscount_Monck",
+  "dateOfBirth": "1819-10-10",
+  "birthDateParsed": "1819-10-10",
+  "dateOfDeath": "1894-10-29",
+  "deathDateParsed": "1894-10-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.8",
+  "birthCoordinatesLng": "-7.08",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q333233",
+  "birthPlace": "Templemore",
+  "fetchedAt": "2026-08-03T10:59:12.015Z"
+}

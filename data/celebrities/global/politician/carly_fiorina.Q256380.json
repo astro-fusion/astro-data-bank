@@ -1,0 +1,32 @@
+{
+  "publicId": "4be98f34",
+  "wikipediaSlug": "Carly_Fiorina",
+  "wikipediaId": "Q256380",
+  "name": "Carly Fiorina",
+  "fullName": "Carly Fiorina",
+  "profileSummary": "Cara Carleton \"Carly\" Fiorina is an American businesswoman and politician, known primarily for her tenure as chief executive officer (CEO) of Hewlett-Packard (HP) from 1999 to 2005. Fiorina is the first woman to lead a Fortune Top-20 company. She is also known for her candidacies for U.S. Senate in California in 2010 and for president of the United States in 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Carly_Fiorina_2017_CPAC_by_Gage_Skidmore.jpg/330px-Carly_Fiorina_2017_CPAC_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carly_Fiorina",
+  "dateOfBirth": "1954-09-06",
+  "birthDateParsed": "1954-09-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.3",
+  "birthCoordinatesLng": "-97.733333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q256380",
+  "birthPlace": "Austin",
+  "fetchedAt": "2026-08-05T03:16:20.472Z"
+}

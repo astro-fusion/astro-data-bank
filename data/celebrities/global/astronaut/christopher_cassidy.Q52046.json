@@ -1,0 +1,31 @@
+{
+  "publicId": "05bd0e7b",
+  "wikipediaSlug": "Christopher_Cassidy",
+  "wikipediaId": "Q52046",
+  "name": "Christopher Cassidy",
+  "fullName": "Christopher Cassidy",
+  "profileSummary": "Christopher John Cassidy is an American retired NASA astronaut and United States Navy SEAL. He achieved the rank of captain in the U.S. Navy. His first spaceflight was on a Space Shuttle mission in 2009. He was the Chief of the Astronaut Office at NASA from July 2015 until June 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU_%28cropped%29.jpg/330px-Chris_Cassidy_-_Official_NASA_Astronaut_Portrait_in_EMU_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Cassidy",
+  "dateOfBirth": "1970-01-04",
+  "birthDateParsed": "1970-01-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.516845",
+  "birthCoordinatesLng": "-70.898503",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut"
+  ],
+  "qid": "Q52046",
+  "birthPlace": "Salem",
+  "fetchedAt": "2026-08-10T06:04:55.837Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "33621358",
+  "wikipediaSlug": "Kim_Dae-jung",
+  "wikipediaId": "Q45785",
+  "name": "Kim Dae-jung",
+  "fullName": "Kim Dae-jung",
+  "profileSummary": "Kim Dae-jung was a South Korean politician, activist, and statesman who served as the eighth president of South Korea from 1998 to 2003.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kim_Dae-jung_presidential_portrait.jpg/330px-Kim_Dae-jung_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Dae-jung",
+  "dateOfBirth": "1924-01-06",
+  "birthDateParsed": "1924-01-06",
+  "dateOfDeath": "2009-08-18",
+  "deathDateParsed": "2009-08-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.599444444",
+  "birthCoordinatesLng": "126.0375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "journalist"
+  ],
+  "qid": "Q45785",
+  "birthPlace": "Hauido",
+  "fetchedAt": "2026-08-04T02:13:34.761Z"
+}

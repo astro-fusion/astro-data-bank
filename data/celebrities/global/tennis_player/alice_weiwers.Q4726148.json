@@ -1,0 +1,31 @@
+{
+  "publicId": "e1152791",
+  "wikipediaSlug": "Alice_Weiwers",
+  "wikipediaId": "Q4726148",
+  "name": "Alice Weiwers",
+  "fullName": "Alice Weiwers",
+  "profileSummary": "Alice Weiwers was a tennis player from Luxembourg. Weiwers won 4 titles at the Tournoi de France, the French Championship tournament held in Vichy France. She won the 1941 and 1942 singles, 1941 doubles, and 1941 mixed doubles titles.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Weiwers",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q4726148",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-01T14:58:57.233Z"
+}

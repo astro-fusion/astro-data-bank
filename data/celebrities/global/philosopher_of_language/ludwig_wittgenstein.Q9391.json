@@ -1,0 +1,41 @@
+{
+  "publicId": "ea579249",
+  "wikipediaSlug": "Ludwig_Wittgenstein",
+  "wikipediaId": "Q9391",
+  "name": "Ludwig Wittgenstein",
+  "fullName": "Ludwig Wittgenstein",
+  "profileSummary": "Ludwig Josef Johann Wittgenstein was an Austro-British philosopher who worked in logic, philosophy of mathematics, philosophy of mind, and philosophy of language.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ludwig_Wittgenstein_1929.jpg/330px-Ludwig_Wittgenstein_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+  "dateOfBirth": "1889-04-26",
+  "birthDateParsed": "1889-04-26",
+  "dateOfDeath": "1951-04-29",
+  "deathDateParsed": "1951-04-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.2378",
+  "birthCoordinatesLng": "16.2861",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher of language",
+    "architectural theoretician",
+    "logician",
+    "mathematician",
+    "aphorist",
+    "epistemologist",
+    "philosopher",
+    "teacher",
+    "university teacher",
+    "pedagogue",
+    "architect"
+  ],
+  "qid": "Q9391",
+  "birthPlace": "Neuwaldegg",
+  "fetchedAt": "2026-08-07T12:10:09.159Z"
+}

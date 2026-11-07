@@ -1,0 +1,31 @@
+{
+  "publicId": "13eaee88",
+  "wikipediaSlug": "Michael_Stonebraker",
+  "wikipediaId": "Q92758",
+  "name": "Michael Stonebraker",
+  "fullName": "Michael Stonebraker",
+  "profileSummary": "Michael Ralph Stonebraker is an American computer scientist specializing in database systems. Through a series of academic prototypes and commercial startups, Stonebraker's research and products are central to many relational databases. He is also the founder of many database companies, including Ingres Corporation, Illustra, Paradigm4, StreamBase Systems, Tamr, Vertica, VoltDB and Hopara, and served as chief technical officer of Informix. For his contributions to database research, Stonebraker received the 2014 Turing Award, often described as \"the Nobel Prize for computing.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Michael_Stonebraker_P1120062.jpg/330px-Michael_Stonebraker_P1120062.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+  "dateOfBirth": "1943-10-11",
+  "birthDateParsed": "1943-10-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.409722222",
+  "birthCoordinatesLng": "-70.988333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist"
+  ],
+  "qid": "Q92758",
+  "birthPlace": "Milton",
+  "fetchedAt": "2026-08-10T04:29:24.333Z"
+}

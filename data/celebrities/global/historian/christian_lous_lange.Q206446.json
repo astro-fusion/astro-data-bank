@@ -1,0 +1,37 @@
+{
+  "publicId": "55e05d64",
+  "wikipediaSlug": "Christian_Lous_Lange",
+  "wikipediaId": "Q206446",
+  "name": "Christian Lous Lange",
+  "fullName": "Christian Lous Lange",
+  "profileSummary": "Christian Lous Lange was a Norwegian historian, teacher, and political scientist. He was one of the world's foremost exponents of the theory and practice of internationalism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Christian_Lous_Lange.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Lous_Lange",
+  "dateOfBirth": "1869-09-17",
+  "birthDateParsed": "1869-09-17",
+  "dateOfDeath": "1938-12-11",
+  "deathDateParsed": "1938-12-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.97",
+  "birthCoordinatesLng": "5.731388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "political scientist",
+    "writer",
+    "peace activist",
+    "diplomat",
+    "politician",
+    "teacher"
+  ],
+  "qid": "Q206446",
+  "birthPlace": "Stavanger",
+  "fetchedAt": "2026-08-04T02:12:50.722Z"
+}

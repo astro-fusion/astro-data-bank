@@ -1,0 +1,36 @@
+{
+  "publicId": "3926a9d2",
+  "wikipediaSlug": "John_C._Calhoun",
+  "wikipediaId": "Q207191",
+  "name": "John C. Calhoun",
+  "fullName": "John C. Calhoun",
+  "profileSummary": "John Caldwell Calhoun was an American statesman and political theorist who served as the seventh vice president of the United States from 1825 to 1832. Calhoun began his political career as a nationalist, modernizer and proponent of a strong federal government and protective tariffs. In the late 1820s, his views shifted, and he became a leading proponent of states' rights, limited government, nullification, and opposition to high tariffs, and distinguished himself as an outspoken defender of slavery in the United States. Calhoun saw Northern acceptance of those policies as a condition of the South remaining in the Union. His beliefs heavily influenced the South's secession from the Union in 1860 and 1861. Calhoun was the first of two vice presidents to resign from the position, the second being Spiro Agnew, who resigned in 1973.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/George_Peter_Alexander_Healy_-_Portrait_of_John_C._Calhoun_%28ca._1845%29_-_Google_Art_Project_%28cropped%29.jpg/330px-George_Peter_Alexander_Healy_-_Portrait_of_John_C._Calhoun_%28ca._1845%29_-_Google_Art_Project_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_C._Calhoun",
+  "dateOfBirth": "1782-03-18",
+  "birthDateParsed": "1782-03-18",
+  "dateOfDeath": "1850-03-31",
+  "deathDateParsed": "1850-03-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.178611111",
+  "birthCoordinatesLng": "-82.379166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "writer",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q207191",
+  "birthPlace": "Abbeville",
+  "fetchedAt": "2026-08-01T18:08:18.162Z"
+}

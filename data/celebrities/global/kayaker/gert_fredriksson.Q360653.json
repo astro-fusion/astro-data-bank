@@ -1,0 +1,31 @@
+{
+  "publicId": "3430cf9d",
+  "wikipediaSlug": "Gert_Fredriksson",
+  "wikipediaId": "Q360653",
+  "name": "Gert Fredriksson",
+  "fullName": "Gert Fredriksson",
+  "profileSummary": "Gert Fridolf Fredriksson was a Swedish sprint canoeist. Competing in four Summer Olympics, he won eight medals including six golds, one silver, and one bronze. At the 1964 Summer Olympics in Tokyo, Fredriksson was head coach of the Swedish team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gert_Fredriksson_1960.jpg/330px-Gert_Fredriksson_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gert_Fredriksson",
+  "dateOfBirth": "1919-11-21",
+  "birthDateParsed": "1919-11-21",
+  "dateOfDeath": "2006-07-05",
+  "deathDateParsed": "2006-07-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.758237101",
+  "birthCoordinatesLng": "17.018465817",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "kayaker"
+  ],
+  "qid": "Q360653",
+  "birthPlace": "Nyköping",
+  "fetchedAt": "2026-08-10T13:00:04.837Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "be7c002e",
+  "wikipediaSlug": "Edward_Adelbert_Doisy",
+  "wikipediaId": "Q230612",
+  "name": "Edward Adelbert Doisy",
+  "fullName": "Edward Adelbert Doisy",
+  "profileSummary": "Edward Adelbert Doisy was an American biochemist. He received the Nobel Prize in Physiology or Medicine in 1943 with Henrik Dam for their discovery of vitamin K and its chemical structure.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Edward_A_Doisy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Adelbert_Doisy",
+  "dateOfBirth": "1893-11-13",
+  "birthDateParsed": "1893-11-13",
+  "dateOfDeath": "1986-10-23",
+  "deathDateParsed": "1986-10-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.7967",
+  "birthCoordinatesLng": "-87.8686",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "physician",
+    "university teacher",
+    "chemist"
+  ],
+  "qid": "Q230612",
+  "birthPlace": "Hume",
+  "fetchedAt": "2026-08-10T03:14:54.792Z"
+}

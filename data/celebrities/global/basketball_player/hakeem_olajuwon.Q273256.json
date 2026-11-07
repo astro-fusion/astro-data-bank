@@ -1,0 +1,31 @@
+{
+  "publicId": "70775d95",
+  "wikipediaSlug": "Hakeem_Olajuwon",
+  "wikipediaId": "Q273256",
+  "name": "Hakeem Olajuwon",
+  "fullName": "Hakeem Olajuwon",
+  "profileSummary": "Hakeem Abdul Olajuwon, nicknamed \"the Dream\", is a Nigerian and American former professional basketball player who played 18 seasons in the National Basketball Association (NBA). A center, he spent a majority of his career with the Houston Rockets and led them to back-to-back NBA championships in 1994 and 1995, before a short stint at the end of his career with the Toronto Raptors. He is widely regarded as one of the greatest players and centers of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nigerian_President_Buhari_Stands_With_Secretary_Kerry%2C_U.S._Delegation_After_They_Attended_His_Inauguration_Ceremony_%28cropped%29.jpg/330px-Nigerian_President_Buhari_Stands_With_Secretary_Kerry%2C_U.S._Delegation_After_They_Attended_His_Inauguration_Ceremony_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakeem_Olajuwon",
+  "dateOfBirth": "1963-01-21",
+  "birthDateParsed": "1963-01-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.456111111",
+  "birthCoordinatesLng": "3.393611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q273256",
+  "birthPlace": "Lagos",
+  "fetchedAt": "2026-08-01T15:37:20.050Z"
+}

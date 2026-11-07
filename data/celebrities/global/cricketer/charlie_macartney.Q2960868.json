@@ -1,0 +1,31 @@
+{
+  "publicId": "cd218bf0",
+  "wikipediaSlug": "Charlie_Macartney",
+  "wikipediaId": "Q2960868",
+  "name": "Charlie Macartney",
+  "fullName": "Charlie Macartney",
+  "profileSummary": "Charles George Macartney was an Australian cricketer who played in 35 Test matches between 1907 and 1926. He was known as \"The Governor-General\" in reference to his authoritative batting style and his flamboyant strokeplay, which drew comparisons with his close friend and role model Victor Trumper, regarded as one of the most elegant batsmen in cricketing history. Sir Donald Bradman—generally regarded as the greatest batsman in history—cited Macartney's dynamic batting as an inspiration in his cricket career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/CharlieMac.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Macartney",
+  "dateOfBirth": "1886-06-27",
+  "birthDateParsed": "1886-06-27",
+  "dateOfDeath": "1958-09-09",
+  "deathDateParsed": "1958-09-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.731666666",
+  "birthCoordinatesLng": "151.5511111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2960868",
+  "birthPlace": "Maitland",
+  "fetchedAt": "2026-07-31T19:45:43.706Z"
+}

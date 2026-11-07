@@ -1,0 +1,31 @@
+{
+  "publicId": "586db940",
+  "wikipediaSlug": "Dinny_Pails",
+  "wikipediaId": "Q1226602",
+  "name": "Dinny Pails",
+  "fullName": "Dinny Pails",
+  "profileSummary": "Dennis \"Dinny\" Pails was an Australian tennis champion.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dinny_Pails",
+  "dateOfBirth": "1921-03-04",
+  "birthDateParsed": "1921-03-04",
+  "dateOfDeath": "1986-11-22",
+  "deathDateParsed": "1986-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.955",
+  "birthCoordinatesLng": "-1.149166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q1226602",
+  "birthPlace": "Nottingham",
+  "fetchedAt": "2026-08-01T13:11:25.645Z"
+}

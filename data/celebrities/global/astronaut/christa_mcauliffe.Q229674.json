@@ -1,0 +1,32 @@
+{
+  "publicId": "d63c258b",
+  "wikipediaSlug": "Christa_McAuliffe",
+  "wikipediaId": "Q229674",
+  "name": "Christa McAuliffe",
+  "fullName": "Christa McAuliffe",
+  "profileSummary": "Sharon Christa McAuliffe was an American teacher and astronaut from Concord, New Hampshire, who died on the Space Shuttle Challenger on mission STS-51-L, where she was serving as a payload specialist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ChristaMcAuliffe_%28cropped%29.jpg/330px-ChristaMcAuliffe_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christa_McAuliffe",
+  "dateOfBirth": "1948-09-02",
+  "birthDateParsed": "1948-09-02",
+  "dateOfDeath": "1986-01-28",
+  "deathDateParsed": "1986-01-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "teacher"
+  ],
+  "qid": "Q229674",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T06:03:48.251Z"
+}

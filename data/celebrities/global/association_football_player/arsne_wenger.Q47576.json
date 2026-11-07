@@ -1,0 +1,34 @@
+{
+  "publicId": "7fed072d",
+  "wikipediaSlug": "Arsène_Wenger",
+  "wikipediaId": "Q47576",
+  "name": "Arsène Wenger",
+  "fullName": "Arsène Wenger",
+  "profileSummary": "Arsène Charles Ernest Wenger is a French former football manager and player who has been serving as FIFA's Chief of Global Football Development since 2019. Nicknamed Le Professeur, he is widely regarded as one of the most influential football managers of his generation. Wenger was the manager of Arsenal from 1996 to 2018, becoming the longest-serving and most successful manager in the club's history and the longest-serving manager in the history of the Premier League.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Ars%C3%A8ne_Wenger_-_240422_192850_%28cropped%29.jpg/330px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Ars%C3%A8ne_Wenger_-_240422_192850_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ars%C3%A8ne_Wenger",
+  "dateOfBirth": "1949-10-22",
+  "birthDateParsed": "1949-10-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.573333333",
+  "birthCoordinatesLng": "7.752222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "economist",
+    "association football coach",
+    "engineer"
+  ],
+  "qid": "Q47576",
+  "birthPlace": "Strasbourg",
+  "fetchedAt": "2026-08-01T05:19:38.636Z"
+}

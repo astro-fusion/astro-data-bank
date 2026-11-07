@@ -1,0 +1,32 @@
+{
+  "publicId": "008e3856",
+  "wikipediaSlug": "William_F._Sharpe",
+  "wikipediaId": "Q274111",
+  "name": "William F. Sharpe",
+  "fullName": "William F. Sharpe",
+  "profileSummary": "William Forsyth Sharpe is an American economist. He is the STANCO 25 Professor of Finance, Emeritus at Stanford University's Graduate School of Business, and the winner of the 1990 Nobel Memorial Prize in Economic Sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/William_sharpe_2007.jpg/330px-William_sharpe_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_F._Sharpe",
+  "dateOfBirth": "1934-06-16",
+  "birthDateParsed": "1934-06-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.375",
+  "birthCoordinatesLng": "-71.106111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q274111",
+  "birthPlace": "Cambridge",
+  "fetchedAt": "2026-08-10T09:44:31.469Z"
+}

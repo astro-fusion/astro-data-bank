@@ -1,0 +1,33 @@
+{
+  "publicId": "1acd4027",
+  "wikipediaSlug": "Spencer_Perceval",
+  "wikipediaId": "Q233992",
+  "name": "Spencer Perceval",
+  "fullName": "Spencer Perceval",
+  "profileSummary": "Spencer Perceval was a British statesman and barrister who was Prime Minister of the United Kingdom from October 1809 until his assassination in May 1812. He is the only British prime minister to have been assassinated, and the only solicitor-general or attorney-general to have become prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Spencer_Perceval_by_George_Francis_Joseph.jpg/330px-Spencer_Perceval_by_George_Francis_Joseph.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spencer_Perceval",
+  "dateOfBirth": "1762-11-01",
+  "birthDateParsed": "1762-11-01",
+  "dateOfDeath": "1812-05-11",
+  "deathDateParsed": "1812-05-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.510277777",
+  "birthCoordinatesLng": "-0.147222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q233992",
+  "birthPlace": "Mayfair",
+  "fetchedAt": "2026-08-02T05:23:15.361Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "4ff370fc",
+  "wikipediaSlug": "Amy_B._Smith",
+  "wikipediaId": "Q4749093",
+  "name": "Amy B. Smith",
+  "fullName": "Amy B. Smith",
+  "profileSummary": "Amy Smith is an American inventor, educator, and founder of the MIT D-Lab and senior lecturer of mechanical engineering at MIT.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amy_B._Smith",
+  "dateOfBirth": "1962-11-03",
+  "birthDateParsed": "1962-11-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.4475",
+  "birthCoordinatesLng": "-71.2275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "inventor"
+  ],
+  "qid": "Q4749093",
+  "birthPlace": "Lexington",
+  "fetchedAt": "2026-08-05T03:15:38.330Z"
+}

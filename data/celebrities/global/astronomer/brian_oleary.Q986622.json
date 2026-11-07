@@ -1,0 +1,34 @@
+{
+  "publicId": "688ec791",
+  "wikipediaSlug": "Brian_O'Leary",
+  "wikipediaId": "Q986622",
+  "name": "Brian O'Leary",
+  "fullName": "Brian O'Leary",
+  "profileSummary": "Brian Todd O'Leary was an American scientist, author, and NASA astronaut candidate. He was part of NASA Astronaut Group 6, a group of scientist-astronauts chosen with the intention of training for the Apollo Applications Program.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brian_O%27Leary.jpg/330px-Brian_O%27Leary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_O'Leary",
+  "dateOfBirth": "1940-01-27",
+  "birthDateParsed": "1940-01-27",
+  "dateOfDeath": "2011-07-28",
+  "deathDateParsed": "2011-07-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "astronaut",
+    "blogger",
+    "scientist"
+  ],
+  "qid": "Q986622",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T06:04:02.995Z"
+}

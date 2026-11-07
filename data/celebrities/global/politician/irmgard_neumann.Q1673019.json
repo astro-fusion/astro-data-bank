@@ -1,0 +1,31 @@
+{
+  "publicId": "417ae8aa",
+  "wikipediaSlug": "Irmgard_Neumann",
+  "wikipediaId": "Q1673019",
+  "name": "Irmgard Neumann",
+  "fullName": "Irmgard Neumann",
+  "profileSummary": "Irmgard Neumann was a member of the State Council of East Germany, the country's collective head of state.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bundesarchiv_Bild_183-83285-0002%2C_Irmgard_Neumann.jpg/330px-Bundesarchiv_Bild_183-83285-0002%2C_Irmgard_Neumann.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Irmgard_Neumann",
+  "dateOfBirth": "1925-10-16",
+  "birthDateParsed": "1925-10-16",
+  "dateOfDeath": "1989-02-22",
+  "deathDateParsed": "1989-02-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q1673019",
+  "birthPlace": "Hamburg",
+  "fetchedAt": "2026-08-04T00:56:31.517Z"
+}

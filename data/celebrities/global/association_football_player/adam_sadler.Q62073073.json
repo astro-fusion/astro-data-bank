@@ -1,0 +1,32 @@
+{
+  "publicId": "6a956bff",
+  "wikipediaSlug": "Adam_Sadler",
+  "wikipediaId": "Q62073073",
+  "name": "Adam Sadler",
+  "fullName": "Adam Sadler",
+  "profileSummary": "Adam Sadler is an English football coach, who was most recently a first team coach at EFL Championship club Leicester City.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Celtic-20240722-076_%28Sadler%29.jpg/330px-Celtic-20240722-076_%28Sadler%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Sadler",
+  "dateOfBirth": "1980-01-09",
+  "birthDateParsed": "1980-01-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.0097",
+  "birthCoordinatesLng": "-1.4448",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q62073073",
+  "birthPlace": "North Shields",
+  "fetchedAt": "2026-08-01T05:19:51.445Z"
+}

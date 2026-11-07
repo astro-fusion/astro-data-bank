@@ -1,0 +1,31 @@
+{
+  "publicId": "b238b64d",
+  "wikipediaSlug": "Charles_Grey,_2nd_Earl_Grey",
+  "wikipediaId": "Q294662",
+  "name": "Charles Grey, 2nd Earl Grey",
+  "fullName": "Charles Grey, 2nd Earl Grey",
+  "profileSummary": "Charles Grey, 2nd Earl Grey was a British Whig politician who served as prime minister of the United Kingdom from 1830 to 1834. His government enacted the Reform Acts of 1832, which expanded the electorate in the United Kingdom, and the Slavery Abolition Act of 1833, which abolished slavery in the British Empire.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Grey2.jpg/330px-Grey2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Grey%2C_2nd_Earl_Grey",
+  "dateOfBirth": "1764-03-13",
+  "birthDateParsed": "1764-03-13",
+  "dateOfDeath": "1845-07-17",
+  "deathDateParsed": "1845-07-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.505",
+  "birthCoordinatesLng": "-1.677",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q294662",
+  "birthPlace": "Fallodon",
+  "fetchedAt": "2026-08-02T05:21:43.277Z"
+}

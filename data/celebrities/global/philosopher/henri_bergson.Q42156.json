@@ -1,0 +1,35 @@
+{
+  "publicId": "81c48298",
+  "wikipediaSlug": "Henri_Bergson",
+  "wikipediaId": "Q42156",
+  "name": "Henri Bergson",
+  "fullName": "Henri Bergson",
+  "profileSummary": "Henri-Louis Bergson was a French philosopher who was influential in the traditions of analytic philosophy and continental philosophy, especially during the first half of the 20th century until the Second World War, but also after 1966 when Gilles Deleuze published Le Bergsonisme.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Henri_Bergson_02.jpg/330px-Henri_Bergson_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Bergson",
+  "dateOfBirth": "1859-10-18",
+  "birthDateParsed": "1859-10-18",
+  "dateOfDeath": "1941-01-04",
+  "deathDateParsed": "1941-01-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "professor",
+    "sociologist",
+    "writer",
+    "university teacher"
+  ],
+  "qid": "Q42156",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-06T07:41:34.485Z"
+}

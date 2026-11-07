@@ -1,0 +1,31 @@
+{
+  "publicId": "fb935f02",
+  "wikipediaSlug": "George_Grenville",
+  "wikipediaId": "Q244616",
+  "name": "George Grenville",
+  "fullName": "George Grenville",
+  "profileSummary": "George Grenville was a British Whig statesman who served as Prime Minister of Great Britain, during the early reign of the young King George III. He served for only two years (1763–1765), and attempted to solve the problem of the massive debt resulting from the Seven Years' War. He instituted a series of measures to increase revenue to the crown, including new taxes and enforcement of collection, and sought to bring the North American colonies under tighter crown control.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/George_Grenville_%281712%E2%80%931770%29_by_William_Hoare_%281707-1792%29.jpg/330px-George_Grenville_%281712%E2%80%931770%29_by_William_Hoare_%281707-1792%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Grenville",
+  "dateOfBirth": "1712-10-14",
+  "birthDateParsed": "1712-10-14",
+  "dateOfDeath": "1770-11-13",
+  "deathDateParsed": "1770-11-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4995",
+  "birthCoordinatesLng": "-0.1333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q244616",
+  "birthPlace": "Westminster",
+  "fetchedAt": "2026-08-02T05:21:57.993Z"
+}

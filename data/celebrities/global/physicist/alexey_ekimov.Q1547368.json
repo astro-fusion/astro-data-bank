@@ -1,0 +1,31 @@
+{
+  "publicId": "2d0b569f",
+  "wikipediaSlug": "Alexey_Ekimov",
+  "wikipediaId": "Q1547368",
+  "name": "Alexey Ekimov",
+  "fullName": "Alexey Ekimov",
+  "profileSummary": "Alexey Ekimov or Aleksey Yekimov is a Russian solid state physicist and a pioneer in nanomaterials research. He discovered the semiconductor nanocrystals known as quantum dots in 1981, while working at the Vavilov State Optical Institute. In 2023, he was awarded the Nobel Prize in Chemistry for this discovery.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/US_Embassy_Sweden_2023_Nobel_Reception_%2853390424929%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexey_Ekimov",
+  "dateOfBirth": "1945-02-28",
+  "birthDateParsed": "1945-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q1547368",
+  "birthPlace": "Saint Petersburg",
+  "fetchedAt": "2026-08-10T02:03:20.700Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "7d6d30a9",
+  "wikipediaSlug": "Bobby_Gould",
+  "wikipediaId": "Q779141",
+  "name": "Bobby Gould",
+  "fullName": "Bobby Gould",
+  "profileSummary": "Robert Alfred Gould is an English former footballer and manager.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Gould",
+  "dateOfBirth": "1946-06-12",
+  "birthDateParsed": "1946-06-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.416666666",
+  "birthCoordinatesLng": "-1.516666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q779141",
+  "birthPlace": "Coventry",
+  "fetchedAt": "2026-08-01T05:19:37.377Z"
+}

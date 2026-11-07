@@ -1,0 +1,40 @@
+{
+  "publicId": "de5d0ff0",
+  "wikipediaSlug": "Bill_Clinton",
+  "wikipediaId": "Q1124",
+  "name": "Bill Clinton",
+  "fullName": "Bill Clinton",
+  "profileSummary": "William Jefferson Clinton is an American former politician and lawyer who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979, the governor of Arkansas from 1979 to 1981, and governor again from 1983 to 1992. His centrist Third Way political philosophy became known as Clintonism, which defined his presidency and the succeeding decades of Democratic Party into the 21st century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bill_Clinton_%28cropped_4%29.jpg/330px-Bill_Clinton_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Clinton",
+  "dateOfBirth": "1946-08-19",
+  "birthDateParsed": "1946-08-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.667778",
+  "birthCoordinatesLng": "-93.592222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "autobiographer",
+    "writer",
+    "teacher",
+    "statesperson",
+    "saxophonist",
+    "governor",
+    "jurist"
+  ],
+  "qid": "Q1124",
+  "birthPlace": "Hope",
+  "fetchedAt": "2026-08-05T03:15:52.410Z"
+}

@@ -1,0 +1,41 @@
+{
+  "publicId": "042ea91b",
+  "wikipediaSlug": "Al_Gore",
+  "wikipediaId": "Q19673",
+  "name": "Al Gore",
+  "fullName": "Al Gore",
+  "profileSummary": "Albert Arnold Gore Jr. is an American former politician, businessman, and environmentalist who served as the 45th vice president of the United States from 1993 to 2001 under President Bill Clinton. A member of the Democratic Party, he previously represented Tennessee in both houses of the U.S. Congress, first as a member of the U.S. House of Representatives from 1977 to 1985, and then as a U.S. senator from 1985 to 1993. Gore was the Democratic nominee in the 2000 presidential election, losing to Republican nominee George W. Bush.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg/330px-Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Al_Gore",
+  "dateOfBirth": "1948-03-31",
+  "birthDateParsed": "1948-03-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "financier",
+    "businessperson",
+    "journalist",
+    "climate activist",
+    "environmentalist",
+    "writer",
+    "orator",
+    "blogger",
+    "farmer",
+    "university teacher"
+  ],
+  "qid": "Q19673",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-05T02:42:21.629Z"
+}

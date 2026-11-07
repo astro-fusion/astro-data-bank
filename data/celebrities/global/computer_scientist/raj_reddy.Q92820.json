@@ -1,0 +1,33 @@
+{
+  "publicId": "28efe077",
+  "wikipediaSlug": "Raj_Reddy",
+  "wikipediaId": "Q92820",
+  "name": "Raj Reddy",
+  "fullName": "Raj Reddy",
+  "profileSummary": "Dabbala Rajagopal \"Raj\" Reddy is an Indian-born American computer scientist. He is one of the early pioneers of artificial intelligence and has served on the faculty of Stanford and Carnegie Mellon for over 50 years. He was the founding director of the Robotics Institute at Carnegie Mellon University. He was instrumental in helping to create Rajiv Gandhi University of Knowledge Technologies in India, to cater to the educational needs of the low-income, gifted, rural youth. He was the founding chairman of International Institute of Information Technology, Hyderabad. He and Edward Feigenbaum won the 1994 ACM Turing Award, sometimes known as the Nobel Prize of computer science, for their work in the field of artificial intelligence. Reddy was the first person of Asian origin to receive the Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/AAAI_2026_-_Raj_Reddy_01_%28cropped%29.jpg/330px-AAAI_2026_-_Raj_Reddy_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Raj_Reddy",
+  "dateOfBirth": "1937-06-13",
+  "birthDateParsed": "1937-06-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher",
+    "artificial intelligence researcher"
+  ],
+  "qid": "Q92820",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-10T04:29:43.073Z"
+}

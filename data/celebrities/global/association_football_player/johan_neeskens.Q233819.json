@@ -1,0 +1,33 @@
+{
+  "publicId": "cc7ea0d1",
+  "wikipediaSlug": "Johan_Neeskens",
+  "wikipediaId": "Q233819",
+  "name": "Johan Neeskens",
+  "fullName": "Johan Neeskens",
+  "profileSummary": "Johannes Jacobus Neeskens was a Dutch football manager and player. A midfielder, he was an important member of the Netherlands national team that finished as runners-up in the 1974 and 1978 FIFA World Cups and is considered one of the greatest midfielders of all time. In 2004, he was named one of the 125 Greatest Living Footballers at a FIFA Awards Ceremony, while in 2017 he was included in the FourFourTwo list of the 100 all-time greatest players, at the 64th position.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Johan_Neeskens_1974.jpg/330px-Johan_Neeskens_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johan_Neeskens",
+  "dateOfBirth": "1951-09-15",
+  "birthDateParsed": "1951-09-15",
+  "dateOfDeath": "2024-10-06",
+  "deathDateParsed": "2024-10-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.3528",
+  "birthCoordinatesLng": "4.62",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "sports executive"
+  ],
+  "qid": "Q233819",
+  "birthPlace": "Heemstede",
+  "fetchedAt": "2026-08-10T11:29:00.778Z"
+}

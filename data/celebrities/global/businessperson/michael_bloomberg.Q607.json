@@ -1,0 +1,39 @@
+{
+  "publicId": "c8977093",
+  "wikipediaSlug": "Michael_Bloomberg",
+  "wikipediaId": "Q607",
+  "name": "Michael Bloomberg",
+  "fullName": "Michael Bloomberg",
+  "profileSummary": "Michael Rubens Bloomberg is an American businessman and politician. He is the majority owner and co-founder of Bloomberg L.P., and was its CEO from 1981 to 2001, and again from 2014 to 2023. He served as the 109th mayor of New York City from 2002 to 2013. He was a lifelong Democrat until 2001, when he switched to the Republican Party to run for mayor, and later becoming an Independent in 2007. Bloomberg is the most recent mayor of New York City to serve as a Republican or Independent. In 2018, he rejoined the Democratic Party, after which he ran an unsuccessful campaign for the 2020 Democratic nomination for president of the United States. Bloomberg is a centibillionaire, worth $109.4 billion as of March 2026, making him the 18th richest person in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MichaelBloomberg-byPhilipRomano_%28cropped_2%29.jpg/330px-MichaelBloomberg-byPhilipRomano_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Bloomberg",
+  "dateOfBirth": "1942-02-14",
+  "birthDateParsed": "1942-02-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "politician",
+    "aircraft pilot",
+    "writer",
+    "trader",
+    "bank manager",
+    "actor",
+    "entrepreneur",
+    "mayor"
+  ],
+  "qid": "Q607",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-04T03:35:04.997Z"
+}

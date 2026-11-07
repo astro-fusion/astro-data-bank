@@ -1,0 +1,33 @@
+{
+  "publicId": "abb7b6c4",
+  "wikipediaSlug": "William_A._Wheeler",
+  "wikipediaId": "Q310835",
+  "name": "William A. Wheeler",
+  "fullName": "William A. Wheeler",
+  "profileSummary": "William Almon Wheeler was an American politician and attorney who served as the 19th vice president of the United States from 1877 to 1881 under President Rutherford B. Hayes. A member of the Republican Party, he previously served as a United States representative from New York from 1861 to 1863 and 1869 to 1877.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/VicePresident-WmAlWheeler_%28cropped%29.jpg/330px-VicePresident-WmAlWheeler_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_A._Wheeler",
+  "dateOfBirth": "1819-06-30",
+  "birthDateParsed": "1819-06-30",
+  "dateOfDeath": "1887-06-04",
+  "deathDateParsed": "1887-06-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.853611111",
+  "birthCoordinatesLng": "-74.328888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "banker",
+    "lawyer"
+  ],
+  "qid": "Q310835",
+  "birthPlace": "Malone",
+  "fetchedAt": "2026-08-01T18:09:24.913Z"
+}

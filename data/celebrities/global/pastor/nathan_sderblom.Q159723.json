@@ -1,0 +1,39 @@
+{
+  "publicId": "7b9c4e6f",
+  "wikipediaSlug": "Nathan_Söderblom",
+  "wikipediaId": "Q159723",
+  "name": "Nathan Söderblom",
+  "fullName": "Nathan Söderblom",
+  "profileSummary": "Lars Olof Jonathan Söderblom was a Swedish bishop. He was the Church of Sweden Archbishop of Uppsala from 1914 to 1931, and recipient of the 1930 Nobel Peace Prize. He is commemorated in the Calendar of Saints of the Lutheran Church on 12 July.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nathan_S%C3%B6derblom_1914-1920.png/330px-Nathan_S%C3%B6derblom_1914-1920.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathan_S%C3%B6derblom",
+  "dateOfBirth": "1866-01-15",
+  "birthDateParsed": "1866-01-15",
+  "dateOfDeath": "1931-07-12",
+  "deathDateParsed": "1931-07-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "61.394788966",
+  "birthCoordinatesLng": "16.836135642",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "pastor",
+    "historian",
+    "university teacher",
+    "autobiographer",
+    "missionary",
+    "Anglican theologian",
+    "religious studies scholar",
+    "archbishop",
+    "Protestant theologian"
+  ],
+  "qid": "Q159723",
+  "birthPlace": "Trönö",
+  "fetchedAt": "2026-08-04T02:13:56.531Z"
+}

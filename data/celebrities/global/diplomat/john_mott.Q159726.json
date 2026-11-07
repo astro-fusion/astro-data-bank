@@ -1,0 +1,33 @@
+{
+  "publicId": "28ff4c34",
+  "wikipediaSlug": "John_Mott",
+  "wikipediaId": "Q159726",
+  "name": "John Mott",
+  "fullName": "John Mott",
+  "profileSummary": "John Raleigh Mott was an American evangelist and long-serving leader of the Young Men's Christian Association (YMCA) and the World Student Christian Federation (WSCF). He received the Nobel Peace Prize in 1946 for his work in establishing and strengthening international Protestant Christian student organizations that worked to promote peace. He shared the prize with Emily Greene Balch. From 1895 until 1920 Mott was the General Secretary of the WSCF. Intimately involved in the formation of the World Council of Churches in 1948, that body elected him as a lifelong honorary President. He helped found the World Student Christian Federation in 1895, the 1910 World Missionary Conference and the World Council of Churches in 1948. His best-known book, The Evangelization of the World in this Generation, became a missionary slogan in the early 20th century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/John_Raleigh_Mott.jpg/330px-John_Raleigh_Mott.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Mott",
+  "dateOfBirth": "1865-05-25",
+  "birthDateParsed": "1865-05-25",
+  "dateOfDeath": "1955-01-31",
+  "deathDateParsed": "1955-01-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.900277777",
+  "birthCoordinatesLng": "-74.828333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "theologian",
+    "missionary"
+  ],
+  "qid": "Q159726",
+  "birthPlace": "Livingston Manor",
+  "fetchedAt": "2026-08-04T02:13:37.204Z"
+}

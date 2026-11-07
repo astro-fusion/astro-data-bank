@@ -1,0 +1,37 @@
+{
+  "publicId": "5355f34b",
+  "wikipediaSlug": "Charles_K._Kao",
+  "wikipediaId": "Q16389",
+  "name": "Charles K. Kao",
+  "fullName": "Charles K. Kao",
+  "profileSummary": "Sir Charles Kuen Kao was a Hong Kong electrical engineer who contributed to the development and use of fibre optics in telecommunications. In the 1960s, Kao created various methods to combine glass fibres with lasers in order to transmit digital data, which laid the groundwork for the evolution of the Internet and the eventual creation of the World Wide Web.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Charles_K._Kao_cropped_2.jpg/330px-Charles_K._Kao_cropped_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_K._Kao",
+  "dateOfBirth": "1933-11-04",
+  "birthDateParsed": "1933-11-04",
+  "dateOfDeath": "2018-09-23",
+  "deathDateParsed": "2018-09-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "inventor",
+    "entrepreneur",
+    "electrical engineer",
+    "scientist",
+    "university teacher",
+    "executive"
+  ],
+  "qid": "Q16389",
+  "birthPlace": "Shanghai",
+  "fetchedAt": "2026-08-06T05:01:04.975Z"
+}

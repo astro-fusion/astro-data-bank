@@ -1,0 +1,40 @@
+{
+  "publicId": "be558e5b",
+  "wikipediaSlug": "Paul_Krugman",
+  "wikipediaId": "Q131112",
+  "name": "Paul Krugman",
+  "fullName": "Paul Krugman",
+  "profileSummary": "Paul Robin Krugman is an American economist who is the Distinguished Professor of Economics at the Graduate Center of the City University of New York. He was a columnist for The New York Times from 2000 to 2024. In 2008, Krugman was the sole winner of the Nobel Memorial Prize in Economic Sciences for his contributions to new trade theory and new economic geography. The Prize Committee cited Krugman's work explaining the patterns of international trade and the geographic distribution of economic activity, by examining the effects of economies of scale and of consumer preferences for diverse goods and services.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/P20230814AS-0367_%28cropped%29.jpg/330px-P20230814AS-0367_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Krugman",
+  "dateOfBirth": "1953-02-28",
+  "birthDateParsed": "1953-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.65",
+  "birthCoordinatesLng": "-73.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "columnist",
+    "economist",
+    "essayist",
+    "blogger",
+    "professor",
+    "pundit",
+    "journalist",
+    "writer",
+    "researcher",
+    "political economist"
+  ],
+  "qid": "Q131112",
+  "birthPlace": "Albany",
+  "fetchedAt": "2026-08-10T09:43:54.323Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "7047be3c",
+  "wikipediaSlug": "François_Jacob",
+  "wikipediaId": "Q218311",
+  "name": "François Jacob",
+  "fullName": "François Jacob",
+  "profileSummary": "François Jacob was a French biologist. He shared the 1965 Nobel Prize in Physiology or Medicine with Jacques Monod and André Lwoff \"for their discoveries concerning genetic control of enzyme and virus synthesis.\" He and Monod originated the idea that control of enzyme levels in all cells occurs through regulation of transcription. For his work in the French Resistance, he received the Cross of Liberation, the Légion d'honneur and Croix de guerre.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fran%C3%A7ois_Jacob_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacob",
+  "dateOfBirth": "1920-06-17",
+  "birthDateParsed": "1920-06-17",
+  "dateOfDeath": "2013-04-19",
+  "deathDateParsed": "2013-04-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.692777777",
+  "birthCoordinatesLng": "6.183611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "university teacher",
+    "geneticist",
+    "physiologist",
+    "autobiographer",
+    "professor",
+    "film producer",
+    "film editor",
+    "film director",
+    "physician"
+  ],
+  "qid": "Q218311",
+  "birthPlace": "Nancy",
+  "fetchedAt": "2026-08-10T03:15:04.466Z"
+}

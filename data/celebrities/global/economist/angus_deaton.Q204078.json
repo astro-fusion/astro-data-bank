@@ -1,0 +1,33 @@
+{
+  "publicId": "a569d7e5",
+  "wikipediaSlug": "Angus_Deaton",
+  "wikipediaId": "Q204078",
+  "name": "Angus Deaton",
+  "fullName": "Angus Deaton",
+  "profileSummary": "Sir Angus Stewart Deaton is a British-American economist and academic. Deaton is a Senior Scholar and the Dwight D. Eisenhower Professor of Economics and International Affairs Emeritus at the Princeton School of Public and International Affairs and the Economics Department at Princeton University. His research focuses primarily on poverty, inequality, health, wellbeing, and economic development.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Angus_Deaton_5289-2015.jpg/330px-Angus_Deaton_5289-2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angus_Deaton",
+  "dateOfBirth": "1945-10-19",
+  "birthDateParsed": "1945-10-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "writer"
+  ],
+  "qid": "Q204078",
+  "birthPlace": "Edinburgh",
+  "fetchedAt": "2026-08-10T09:42:44.910Z"
+}

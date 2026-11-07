@@ -1,0 +1,32 @@
+{
+  "publicId": "fbf57605",
+  "wikipediaSlug": "Gareth_Southgate",
+  "wikipediaId": "Q316681",
+  "name": "Gareth Southgate",
+  "fullName": "Gareth Southgate",
+  "profileSummary": "Sir Gareth Southgate is an English former professional football manager and player, who played as a defender and midfielder. He managed the England national team from 2016 to 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Southgate_2023.jpg/330px-Southgate_2023.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gareth_Southgate",
+  "dateOfBirth": "1970-09-03",
+  "birthDateParsed": "1970-09-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.655277777",
+  "birthCoordinatesLng": "-0.395833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q316681",
+  "birthPlace": "Watford",
+  "fetchedAt": "2026-08-01T05:20:12.712Z"
+}

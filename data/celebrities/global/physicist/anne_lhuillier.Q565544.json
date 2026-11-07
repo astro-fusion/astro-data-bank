@@ -1,0 +1,33 @@
+{
+  "publicId": "ff39e04c",
+  "wikipediaSlug": "Anne_L'Huillier",
+  "wikipediaId": "Q565544",
+  "name": "Anne L'Huillier",
+  "fullName": "Anne L'Huillier",
+  "profileSummary": "Anne Geneviève L'Huillier is a French physicist. She is a professor of atomic physics at Lund University in Sweden.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Anne_LHuiller_01.JPG/330px-Anne_LHuiller_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne_L'Huillier",
+  "dateOfBirth": "1958-08-16",
+  "birthDateParsed": "1958-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "nuclear physicist"
+  ],
+  "qid": "Q565544",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-06T05:00:56.536Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "98af2c9c",
+  "wikipediaSlug": "Mohamed_ElBaradei",
+  "wikipediaId": "Q133308",
+  "name": "Mohamed ElBaradei",
+  "fullName": "Mohamed ElBaradei",
+  "profileSummary": "Mohamed Mostafa ElBaradei is an Egyptian lawyer, diplomat, and politician who served as Director General of the International Atomic Energy Agency (IAEA) from 1997 to 2009 and as interim vice president of Egypt in 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mohamed_el-Baradei.jpg/330px-Mohamed_el-Baradei.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_ElBaradei",
+  "dateOfBirth": "1942-06-17",
+  "birthDateParsed": "1942-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.044444444",
+  "birthCoordinatesLng": "31.235833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "jurist",
+    "human rights defender"
+  ],
+  "qid": "Q133308",
+  "birthPlace": "Cairo",
+  "fetchedAt": "2026-08-04T02:13:46.120Z"
+}

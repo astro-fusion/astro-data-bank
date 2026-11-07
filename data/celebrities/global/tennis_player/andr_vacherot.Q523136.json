@@ -1,0 +1,32 @@
+{
+  "publicId": "5fcdf8a6",
+  "wikipediaSlug": "André_Vacherot",
+  "wikipediaId": "Q523136",
+  "name": "André Vacherot",
+  "fullName": "André Vacherot",
+  "profileSummary": "\nAndré Pierre Aurèle Gaston Vacherot was a French male tennis player. He is best remembered for having won the men's singles event of the French Championships on four occasions: 1894, 1895, 1896, and 1901.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Andr%C3%A9_Vacherot_en_1901_%28Tennis_Club_de_Paris%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Vacherot",
+  "dateOfBirth": "1877-06-05",
+  "birthDateParsed": "1877-06-05",
+  "dateOfDeath": "1924-02-22",
+  "deathDateParsed": "1924-02-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.859166666",
+  "birthCoordinatesLng": "2.312777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "notary"
+  ],
+  "qid": "Q523136",
+  "birthPlace": "7th arrondissement of Paris",
+  "fetchedAt": "2026-08-01T13:10:52.644Z"
+}

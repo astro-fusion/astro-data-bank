@@ -1,0 +1,33 @@
+{
+  "publicId": "811fc5e3",
+  "wikipediaSlug": "Sadiq_Khan",
+  "wikipediaId": "Q334155",
+  "name": "Sadiq Khan",
+  "fullName": "Sadiq Khan",
+  "profileSummary": "Sir Sadiq Aman Khan is a British politician who has served as Mayor of London since 2016. He was previously the member of Parliament (MP) for Tooting from 2005 to 2016. A member of the Labour Party, Khan is on the party's soft left and has been ideologically characterised as a social democrat.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sadiq_Khan_at_2026_SXSW_London_03_%28cropped%29.jpg/330px-Sadiq_Khan_at_2026_SXSW_London_03_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sadiq_Khan",
+  "dateOfBirth": "1970-10-08",
+  "birthDateParsed": "1970-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.428",
+  "birthCoordinatesLng": "-0.165",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "solicitor"
+  ],
+  "qid": "Q334155",
+  "birthPlace": "Tooting",
+  "fetchedAt": "2026-08-03T14:11:07.568Z"
+}

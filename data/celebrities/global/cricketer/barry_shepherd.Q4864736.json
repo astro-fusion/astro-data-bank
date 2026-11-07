@@ -1,0 +1,32 @@
+{
+  "publicId": "9613ced8",
+  "wikipediaSlug": "Barry_Shepherd",
+  "wikipediaId": "Q4864736",
+  "name": "Barry Shepherd",
+  "fullName": "Barry Shepherd",
+  "profileSummary": "Barry Kenneth Shepherd was an Australian cricketer who played in nine Test matches from 1963 to 1965.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/B_K_Shepherd.jpg/330px-B_K_Shepherd.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Shepherd",
+  "dateOfBirth": "1937-04-23",
+  "birthDateParsed": "1937-04-23",
+  "dateOfDeath": "2001-09-18",
+  "deathDateParsed": "2001-09-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.58",
+  "birthCoordinatesLng": "115.82",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "sports executive"
+  ],
+  "qid": "Q4864736",
+  "birthPlace": "Donnybrook",
+  "fetchedAt": "2026-07-31T19:44:55.777Z"
+}

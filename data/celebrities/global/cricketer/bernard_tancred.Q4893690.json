@@ -1,0 +1,31 @@
+{
+  "publicId": "b3842fcd",
+  "wikipediaSlug": "Bernard_Tancred",
+  "wikipediaId": "Q4893690",
+  "name": "Bernard Tancred",
+  "fullName": "Bernard Tancred",
+  "profileSummary": "Augustus Bernard Tancred was a 19th-century South African Test cricketer. His brothers, Vincent and Louis, also played Test cricket for South Africa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/South_Africa_cricket_team_1888-9.jpg/330px-South_Africa_cricket_team_1888-9.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_Tancred",
+  "dateOfBirth": "1865-08-20",
+  "birthDateParsed": "1865-08-20",
+  "dateOfDeath": "1911-11-23",
+  "deathDateParsed": "1911-11-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.958055555",
+  "birthCoordinatesLng": "25.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4893690",
+  "birthPlace": "Gqeberha",
+  "fetchedAt": "2026-07-31T20:20:03.505Z"
+}

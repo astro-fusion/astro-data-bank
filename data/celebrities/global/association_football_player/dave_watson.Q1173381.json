@@ -1,0 +1,32 @@
+{
+  "publicId": "9fc601b1",
+  "wikipediaSlug": "Dave_Watson",
+  "wikipediaId": "Q1173381",
+  "name": "Dave Watson",
+  "fullName": "Dave Watson",
+  "profileSummary": "David Watson is an English football manager and former professional player.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Watson",
+  "dateOfBirth": "1961-11-20",
+  "birthDateParsed": "1961-11-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.407222222",
+  "birthCoordinatesLng": "-2.991666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1173381",
+  "birthPlace": "Liverpool",
+  "fetchedAt": "2026-08-01T05:20:23.661Z"
+}

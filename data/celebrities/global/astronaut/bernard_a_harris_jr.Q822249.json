@@ -1,0 +1,32 @@
+{
+  "publicId": "45e54ef3",
+  "wikipediaSlug": "Bernard_A._Harris_Jr.",
+  "wikipediaId": "Q822249",
+  "name": "Bernard A. Harris Jr.",
+  "fullName": "Bernard A. Harris Jr.",
+  "profileSummary": "Bernard Anthony Harris Jr. is a former NASA astronaut. On February 9, 1995, Harris became the first African American to perform an extra-vehicular activity (spacewalk), during the second of his two Space Shuttle flights.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bernard_Anthony_Harris_Jr.jpg/330px-Bernard_Anthony_Harris_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_A._Harris_Jr.",
+  "dateOfBirth": "1956-06-26",
+  "birthDateParsed": "1956-06-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.0982344",
+  "birthCoordinatesLng": "-97.342782",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "physician"
+  ],
+  "qid": "Q822249",
+  "birthPlace": "Temple",
+  "fetchedAt": "2026-08-10T06:03:47.020Z"
+}

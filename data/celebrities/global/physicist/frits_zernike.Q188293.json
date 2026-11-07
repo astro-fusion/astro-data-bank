@@ -1,0 +1,35 @@
+{
+  "publicId": "9b54f768",
+  "wikipediaSlug": "Frits_Zernike",
+  "wikipediaId": "Q188293",
+  "name": "Frits Zernike",
+  "fullName": "Frits Zernike",
+  "profileSummary": "Frederik \"Frits\" Zernike was a Dutch physicist who received the Nobel Prize in Physics in 1953 for his invention of the phase-contrast microscope.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Zernike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frits_Zernike",
+  "dateOfBirth": "1888-07-16",
+  "birthDateParsed": "1888-07-16",
+  "dateOfDeath": "1966-03-10",
+  "deathDateParsed": "1966-03-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.366666666",
+  "birthCoordinatesLng": "4.883333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "mathematician",
+    "inventor",
+    "university teacher",
+    "chemist"
+  ],
+  "qid": "Q188293",
+  "birthPlace": "Amsterdam",
+  "fetchedAt": "2026-08-06T05:01:43.100Z"
+}

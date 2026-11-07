@@ -1,0 +1,33 @@
+{
+  "publicId": "d22e1f40",
+  "wikipediaSlug": "Red_Auerbach",
+  "wikipediaId": "Q336581",
+  "name": "Red Auerbach",
+  "fullName": "Red Auerbach",
+  "profileSummary": "Arnold Jacob \"Red\" Auerbach was an American professional basketball coach and executive. As head coach, he led the Boston Celtics to eight consecutive NBA championships between 1959 to 1966. On retiring in 1966, he held an NBA coaching record of 938 wins. He served as general manager of the Celtics from 1966 to 1984, and later as President and Vice-Chairman of the Board. He won a combined 16 NBA titles in his long career with the Celtics, the most of any individual, making him one of the most successful team officials in the history of North American professional sports. He served as president of the Celtics until his death in 2006 at the age of 89.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Auerbach_Lipofsky.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Auerbach",
+  "dateOfBirth": "1917-09-20",
+  "birthDateParsed": "1917-09-20",
+  "dateOfDeath": "2006-10-28",
+  "deathDateParsed": "2006-10-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player",
+    "coach"
+  ],
+  "qid": "Q336581",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-01T15:38:16.535Z"
+}

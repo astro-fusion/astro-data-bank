@@ -1,0 +1,32 @@
+{
+  "publicId": "2d79ee6b",
+  "wikipediaSlug": "Billy_Davies",
+  "wikipediaId": "Q863076",
+  "name": "Billy Davies",
+  "fullName": "Billy Davies",
+  "profileSummary": "William McIntosh Davies is a Scottish former professional footballer who turned to management and is currently technical head coach of Scottish Championship club Greenock Morton.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Billy_Davies_clipped.jpg/330px-Billy_Davies_clipped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Davies",
+  "dateOfBirth": "1964-05-31",
+  "birthDateParsed": "1964-05-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q863076",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-01T05:19:29.476Z"
+}

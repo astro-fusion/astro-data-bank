@@ -1,0 +1,31 @@
+{
+  "publicId": "dc6379c7",
+  "wikipediaSlug": "Elena_Rybakina",
+  "wikipediaId": "Q42055714",
+  "name": "Elena Rybakina",
+  "fullName": "Elena Rybakina",
+  "profileSummary": "Elena Andreyevna Rybakina is a Russian-born Kazakhstani professional tennis player. She is currently ranked world No. 2 in women's singles by the Women's Tennis Association (WTA). Rybakina has won 13 WTA Tour-level singles titles, including two majors at the 2022 Wimbledon Championships and the 2026 Australian Open, as well as the 2025 WTA Finals and two WTA 1000 events. Rybakina is the first Kazakhstani player to win a major and to be ranked inside the world's top 10.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg/330px-Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elena_Rybakina",
+  "dateOfBirth": "1999-06-17",
+  "birthDateParsed": "1999-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q42055714",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-01T14:59:24.161Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "74ca98bc",
+  "wikipediaSlug": "Eric_Heiden",
+  "wikipediaId": "Q311289",
+  "name": "Eric Heiden",
+  "fullName": "Eric Heiden",
+  "profileSummary": "Eric Arthur Heiden is an American physician and a former long track speed skater, road cyclist and track cyclist. At the 1980 Winter Olympics, Heiden was the most successful athlete, setting four Olympic records, one world record, and winning an unprecedented five individual gold medals–more than any other athlete, and in fact more than any nation except for the Soviet Union (10) and East Germany (9). He was the most successful Winter Olympian from a single edition of any Winter Olympics until 2026 when cross-country skier Johannes Høsflot Klæbo won six golds, although two of his medals are in team events. Heiden's record of five individual Olympic gold medals at a single Winter Games remains unmatched. He delivered the Athlete's Oath at those same 1980 Games. His coach was Dianne Holum.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Eric_Heiden_%28Verenigde_Staten%29_bij_de_start_van_zijn_rit_op_de_500_meter%2C_Bestanddeelnr_930-1361.jpg/330px-Eric_Heiden_%28Verenigde_Staten%29_bij_de_start_van_zijn_rit_op_de_500_meter%2C_Bestanddeelnr_930-1361.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Heiden",
+  "dateOfBirth": "1958-06-14",
+  "birthDateParsed": "1958-06-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.074722222",
+  "birthCoordinatesLng": "-89.384166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "speed skater",
+    "sport cyclist",
+    "orthopedic surgeon"
+  ],
+  "qid": "Q311289",
+  "birthPlace": "Madison",
+  "fetchedAt": "2026-08-10T12:59:35.195Z"
+}

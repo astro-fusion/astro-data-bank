@@ -1,0 +1,32 @@
+{
+  "publicId": "76392d4f",
+  "wikipediaSlug": "Claude_Simon",
+  "wikipediaId": "Q131549",
+  "name": "Claude Simon",
+  "fullName": "Claude Simon",
+  "profileSummary": "Claude Eugène Henri Simon was a French novelist and recipient of the 1985 Nobel Prize in Literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Claude_Simon_1967.jpg/330px-Claude_Simon_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Simon",
+  "dateOfBirth": "1913-10-10",
+  "birthDateParsed": "1913-10-10",
+  "dateOfDeath": "2005-07-06",
+  "deathDateParsed": "2005-07-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-18.91",
+  "birthCoordinatesLng": "47.525",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist"
+  ],
+  "qid": "Q131549",
+  "birthPlace": "Antananarivo",
+  "fetchedAt": "2026-08-06T07:41:23.831Z"
+}

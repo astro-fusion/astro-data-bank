@@ -1,0 +1,31 @@
+{
+  "publicId": "2880e969",
+  "wikipediaSlug": "Emmanuelle_Mignon",
+  "wikipediaId": "Q3052978",
+  "name": "Emmanuelle Mignon",
+  "fullName": "Emmanuelle Mignon",
+  "profileSummary": "Emmanuelle Mignon served as cabinet director for French president Nicolas Sarkozy between May 2007 and July 2008.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuelle_Mignon",
+  "dateOfBirth": "1968-04-26",
+  "birthDateParsed": "1968-04-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "official"
+  ],
+  "qid": "Q3052978",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-04T00:55:57.980Z"
+}

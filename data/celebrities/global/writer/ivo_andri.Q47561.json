@@ -1,0 +1,36 @@
+{
+  "publicId": "210059ed",
+  "wikipediaSlug": "Ivo_Andrić",
+  "wikipediaId": "Q47561",
+  "name": "Ivo Andrić",
+  "fullName": "Ivo Andrić",
+  "profileSummary": "Ivo Andrić was a Yugoslav novelist, poet and short story writer who won the Nobel Prize in Literature in 1961. His writings dealt mainly with life in his native Bosnia under Ottoman rule.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/S._Kragujevic%2C_Ivo_Andric%2C_1961_%283x4_cropped%29.jpg/330px-S._Kragujevic%2C_Ivo_Andric%2C_1961_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivo_Andri%C4%87",
+  "dateOfBirth": "1892-10-10",
+  "birthDateParsed": "1892-10-10",
+  "dateOfDeath": "1975-03-13",
+  "deathDateParsed": "1975-03-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.219165",
+  "birthCoordinatesLng": "17.770392",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "diplomat",
+    "poet",
+    "essayist",
+    "short story writer"
+  ],
+  "qid": "Q47561",
+  "birthPlace": "Dolac",
+  "fetchedAt": "2026-08-06T07:41:44.226Z"
+}

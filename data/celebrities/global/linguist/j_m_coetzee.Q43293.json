@@ -1,0 +1,42 @@
+{
+  "publicId": "410a3c29",
+  "wikipediaSlug": "J._M._Coetzee",
+  "wikipediaId": "Q43293",
+  "name": "J. M. Coetzee",
+  "fullName": "J. M. Coetzee",
+  "profileSummary": "John Maxwell Coetzee AC FRSL OMG is a South African and Australian novelist, essayist, linguist, and translator. The recipient of the 2003 Nobel Prize in Literature, Coetzee is one of the most critically acclaimed and decorated authors in the English language. He has won the Booker Prize (twice), the CNA Literary Award (thrice), the Jerusalem Prize, the Prix Femina étranger, and The Irish Times International Fiction Prize, and holds a number of other awards and honorary doctorates.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/J._M._Coetzee_Nov_2023_headshot.jpg/330px-J._M._Coetzee_Nov_2023_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J._M._Coetzee",
+  "dateOfBirth": "1940-02-09",
+  "birthDateParsed": "1940-02-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.925277777",
+  "birthCoordinatesLng": "18.423888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "linguist",
+    "translator",
+    "novelist",
+    "essayist",
+    "librettist",
+    "screenwriter",
+    "university teacher",
+    "poet",
+    "writer",
+    "prose writer",
+    "critic",
+    "literary scholar"
+  ],
+  "qid": "Q43293",
+  "birthPlace": "Cape Town",
+  "fetchedAt": "2026-08-06T07:41:53.749Z"
+}

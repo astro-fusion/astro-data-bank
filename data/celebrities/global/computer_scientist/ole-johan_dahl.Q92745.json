@@ -1,0 +1,33 @@
+{
+  "publicId": "79593aa0",
+  "wikipediaSlug": "Ole-Johan_Dahl",
+  "wikipediaId": "Q92745",
+  "name": "Ole-Johan Dahl",
+  "fullName": "Ole-Johan Dahl",
+  "profileSummary": "Ole-Johan Dahl was a Norwegian computer scientist. Dahl was a professor of computer science at the University of Oslo and is considered to be one of the fathers of Simula and object-oriented programming along with Kristen Nygaard. In 2001, Dahl and Nygaard won the ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Ole-Johan_Dahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole-Johan_Dahl",
+  "dateOfBirth": "1931-10-12",
+  "birthDateParsed": "1931-10-12",
+  "dateOfDeath": "2002-06-29",
+  "deathDateParsed": "2002-06-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.033333",
+  "birthCoordinatesLng": "7.483333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q92745",
+  "birthPlace": "Mandal Municipality",
+  "fetchedAt": "2026-08-10T04:29:21.224Z"
+}

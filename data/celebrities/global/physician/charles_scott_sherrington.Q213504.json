@@ -1,0 +1,37 @@
+{
+  "publicId": "45d1aa8d",
+  "wikipediaSlug": "Charles_Scott_Sherrington",
+  "wikipediaId": "Q213504",
+  "name": "Charles Scott Sherrington",
+  "fullName": "Charles Scott Sherrington",
+  "profileSummary": "Sir Charles Scott Sherrington was a British neurophysiologist and academic. His experimental research established many aspects of contemporary neuroscience, including the concept of the spinal reflex as a system involving connected neurons, and how signal transmission between neurons can be potentiated or depotentiated. Sherrington himself coined the word \"synapse\" to define the connection between two neurons. His book The Integrative Action of the Nervous System (1906) is a synthesis of this work, in recognition of which he was awarded the Nobel Prize in Physiology or Medicine in 1932.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Charles_Scott_Sherrington2.jpg/330px-Charles_Scott_Sherrington2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Scott_Sherrington",
+  "dateOfBirth": "1857-11-27",
+  "birthDateParsed": "1857-11-27",
+  "dateOfDeath": "1952-03-04",
+  "deathDateParsed": "1952-03-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "neurologist",
+    "university teacher",
+    "pathologist",
+    "physiologist",
+    "association football player",
+    "naturalist"
+  ],
+  "qid": "Q213504",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T03:14:03.251Z"
+}

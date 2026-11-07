@@ -1,0 +1,34 @@
+{
+  "publicId": "eedd1f2a",
+  "wikipediaSlug": "Charles_Tupper",
+  "wikipediaId": "Q128672",
+  "name": "Charles Tupper",
+  "fullName": "Charles Tupper",
+  "profileSummary": "Sir Charles Tupper, 1st Baronet, was a Canadian Father of Confederation who served as the sixth prime minister of Canada from May 1 to July 8, 1896. As the premier of Nova Scotia from 1864 to 1867, he led Nova Scotia into Confederation. He briefly served as the Canadian prime minister, from seven days after parliament had been dissolved, until he was dismissed by the Governor General on July 8, 1896, following his party's loss in the 1896 Canadian federal election. He is the only medical doctor to have ever held the office of prime minister of Canada, and his 69-day tenure as prime minister is the shortest in Canadian history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sir_charles_tupper_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Tupper",
+  "dateOfBirth": "1821-07-02",
+  "birthDateParsed": "1821-07-02",
+  "dateOfDeath": "1915-10-30",
+  "deathDateParsed": "1915-10-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.833333333",
+  "birthCoordinatesLng": "-64.213055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "physician"
+  ],
+  "qid": "Q128672",
+  "birthPlace": "Amherst",
+  "fetchedAt": "2026-08-03T10:59:11.328Z"
+}

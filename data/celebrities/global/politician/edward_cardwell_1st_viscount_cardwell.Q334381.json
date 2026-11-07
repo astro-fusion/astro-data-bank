@@ -1,0 +1,32 @@
+{
+  "publicId": "3072d4c4",
+  "wikipediaSlug": "Edward_Cardwell,_1st_Viscount_Cardwell",
+  "wikipediaId": "Q334381",
+  "name": "Edward Cardwell, 1st Viscount Cardwell",
+  "fullName": "Edward Cardwell, 1st Viscount Cardwell",
+  "profileSummary": "Edward Cardwell, 1st Viscount Cardwell, was a prominent British politician in the Peelite and Liberal parties during the middle of the 19th century. He is best remembered for his tenure as Secretary of State for War between 1868 and 1874 and, with William Ewart Gladstone's support, the introduction of the Cardwell Reforms. The goal was to centralise the power of the War Office, abolish purchase of officers' commissions, and to create reserve forces stationed in Britain by establishing short terms of service for enlisted men.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1stViscountCardwell.jpg/330px-1stViscountCardwell.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Cardwell%2C_1st_Viscount_Cardwell",
+  "dateOfBirth": "1813-07-24",
+  "birthDateParsed": "1813-07-24",
+  "dateOfDeath": "1886-02-15",
+  "deathDateParsed": "1886-02-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.407222222",
+  "birthCoordinatesLng": "-2.991666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "barrister"
+  ],
+  "qid": "Q334381",
+  "birthPlace": "Liverpool",
+  "fetchedAt": "2026-08-02T05:21:56.570Z"
+}

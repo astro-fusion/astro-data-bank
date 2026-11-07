@@ -1,0 +1,35 @@
+{
+  "publicId": "ed5f60d2",
+  "wikipediaSlug": "Christopher_A._Sims",
+  "wikipediaId": "Q109737",
+  "name": "Christopher A. Sims",
+  "fullName": "Christopher A. Sims",
+  "profileSummary": "Christopher Albert Sims was an American econometrician and macroeconomist. He was the John J.F. Sherrerd '52 University Professor of Economics at Princeton University. Together with Thomas Sargent, he won the Nobel Memorial Prize in Economic Sciences in 2011. The award cited their \"empirical research on cause and effect in the macroeconomy\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nobel_Prize_2011-Press_Conference_KVA-DSC_7720.jpg/330px-Nobel_Prize_2011-Press_Conference_KVA-DSC_7720.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_A._Sims",
+  "dateOfBirth": "1942-10-21",
+  "birthDateParsed": "1942-10-21",
+  "dateOfDeath": "2026-03-14",
+  "deathDateParsed": "2026-03-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician",
+    "university teacher",
+    "professor",
+    "Nobel Prize winner"
+  ],
+  "qid": "Q109737",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-10T09:42:49.210Z"
+}

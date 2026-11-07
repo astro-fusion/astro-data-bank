@@ -1,0 +1,31 @@
+{
+  "publicId": "a10ce5ae",
+  "wikipediaSlug": "Dorothy_Cheney",
+  "wikipediaId": "Q53371",
+  "name": "Dorothy Cheney",
+  "fullName": "Dorothy Cheney",
+  "profileSummary": "Dorothy \"Dodo\" May Sutton Bundy Cheney was an American tennis player from her youth into her 90s. In 1938, Bundy was the first American to win the women's singles title at the Australian National Championships, defeating Dorothy Stevenson in the final.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dorothy_Bundy_1929.jpg/330px-Dorothy_Bundy_1929.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorothy_Cheney",
+  "dateOfBirth": "1916-09-01",
+  "birthDateParsed": "1916-09-01",
+  "dateOfDeath": "2014-11-23",
+  "deathDateParsed": "2014-11-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q53371",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-01T14:58:57.935Z"
+}

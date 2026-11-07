@@ -1,0 +1,31 @@
+{
+  "publicId": "2dece7b1",
+  "wikipediaSlug": "Claude_Floquet",
+  "wikipediaId": "Q5128839",
+  "name": "Claude Floquet",
+  "fullName": "Claude Floquet",
+  "profileSummary": "Claude Eugene Floquet was a South African cricketer. An occasional player for Transvaal from 1905 to 1910, he played a Test match for South Africa in 1910.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Claude_Flocquet.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Floquet",
+  "dateOfBirth": "1884-11-03",
+  "birthDateParsed": "1884-11-03",
+  "dateOfDeath": "1963-11-22",
+  "deathDateParsed": "1963-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-30.7",
+  "birthCoordinatesLng": "26.7",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5128839",
+  "birthPlace": "Aliwal North",
+  "fetchedAt": "2026-07-31T20:22:01.690Z"
+}

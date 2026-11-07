@@ -1,0 +1,36 @@
+{
+  "publicId": "52e9023e",
+  "wikipediaSlug": "Ben_Bernanke",
+  "wikipediaId": "Q201795",
+  "name": "Ben Bernanke",
+  "fullName": "Ben Bernanke",
+  "profileSummary": "Ben Shalom Bernanke is an American economist who served as the 14th chairman of the Federal Reserve from 2006 to 2014. After leaving the Federal Reserve, he was appointed a distinguished fellow at the Brookings Institution. During his tenure as chairman, Bernanke oversaw the Federal Reserve's response to the 2008 financial crisis, for which he was named the 2009 Time Person of the Year. Before becoming Federal Reserve chairman, Bernanke was a tenured professor at Princeton University and chaired the Department of Economics there from 1996 to September 2002, when he went on public service leave. Bernanke was awarded the 2022 Nobel Memorial Prize in Economic Sciences, jointly with Douglas Diamond and Philip H. Dybvig, \"for research on banks and financial crises\", more specifically for his analysis of the Great Depression.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ben_Bernanke_official_portrait.jpg/330px-Ben_Bernanke_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Bernanke",
+  "dateOfBirth": "1953-12-13",
+  "birthDateParsed": "1953-12-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.47",
+  "birthCoordinatesLng": "-81.975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician",
+    "professor",
+    "banker",
+    "teacher",
+    "university teacher"
+  ],
+  "qid": "Q201795",
+  "birthPlace": "Augusta",
+  "fetchedAt": "2026-08-10T09:42:45.387Z"
+}

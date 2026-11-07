@@ -1,0 +1,31 @@
+{
+  "publicId": "17ed7a6f",
+  "wikipediaSlug": "Andrew_Jones_(New_Zealand_cricketer)",
+  "wikipediaId": "Q4757536",
+  "name": "Andrew Jones (New Zealand cricketer)",
+  "fullName": "Andrew Jones (New Zealand cricketer)",
+  "profileSummary": "Andrew Howard Jones is a former New Zealand cricketer. Between 1987 and 1995 he played in 39 Test matches and 87 One Day Internationals for New Zealand. Domestically he played for Central Districts, Otago, and Wellington.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Jones_(New_Zealand_cricketer)",
+  "dateOfBirth": "1959-05-09",
+  "birthDateParsed": "1959-05-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.288888888",
+  "birthCoordinatesLng": "174.777222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4757536",
+  "birthPlace": "Wellington",
+  "fetchedAt": "2026-07-31T21:00:59.316Z"
+}

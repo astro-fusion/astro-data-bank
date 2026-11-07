@@ -1,0 +1,32 @@
+{
+  "publicId": "d43cbc7b",
+  "wikipediaSlug": "Amy_Zegart",
+  "wikipediaId": "Q4749470",
+  "name": "Amy Zegart",
+  "fullName": "Amy Zegart",
+  "profileSummary": "Amy Zegart is an American political scientist currently serving as the Morris Arnold and Nona Jean Cox Senior Fellow at the Hoover Institution, a senior fellow at the Freeman Spogli Institute of International Studies (FSI), and professor of political science at Stanford University. She is also a contributing writer to The Atlantic. From 2013 to 2018, she served as co-director of FSI's Center for International Security and Cooperation (CISAC) and founder and co-director of the Stanford Cyber Policy Program.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/150423-D-LN567-153_%2817044591657%29.jpg/330px-150423-D-LN567-153_%2817044591657%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amy_Zegart",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "political scientist",
+    "university teacher"
+  ],
+  "qid": "Q4749470",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T02:43:39.136Z"
+}

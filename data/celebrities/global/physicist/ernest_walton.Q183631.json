@@ -1,0 +1,32 @@
+{
+  "publicId": "42254858",
+  "wikipediaSlug": "Ernest_Walton",
+  "wikipediaId": "Q183631",
+  "name": "Ernest Walton",
+  "fullName": "Ernest Walton",
+  "profileSummary": "Ernest Thomas Sinton Walton was an Irish experimental physicist. He shared the 1951 Nobel Prize in Physics with John Cockcroft \"for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles.\" According to their Nobel Prize speech: \"Thus, for the first time, a nuclear transmutation was produced by means entirely under human control.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ernest_Walton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernest_Walton",
+  "dateOfBirth": "1903-10-06",
+  "birthDateParsed": "1903-10-06",
+  "dateOfDeath": "1995-06-25",
+  "deathDateParsed": "1995-06-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.1",
+  "birthCoordinatesLng": "-7.616666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q183631",
+  "birthPlace": "Abbeyside",
+  "fetchedAt": "2026-08-06T05:01:54.043Z"
+}

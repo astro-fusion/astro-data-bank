@@ -1,0 +1,32 @@
+{
+  "publicId": "d60979a0",
+  "wikipediaSlug": "Conyers_Herring",
+  "wikipediaId": "Q1129529",
+  "name": "Conyers Herring",
+  "fullName": "Conyers Herring",
+  "profileSummary": "William Conyers Herring was an American physicist. He was a professor of applied physics at Stanford University and the Wolf Prize in Physics recipient in 1984/5.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Conyers_Herring.jpg/330px-Conyers_Herring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Conyers_Herring",
+  "dateOfBirth": "1914-11-15",
+  "birthDateParsed": "1914-11-15",
+  "dateOfDeath": "2009-07-23",
+  "deathDateParsed": "2009-07-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.8333",
+  "birthCoordinatesLng": "-73.9667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q1129529",
+  "birthPlace": "Scotia",
+  "fetchedAt": "2026-08-04T15:05:26.687Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "c6ba0e92",
+  "wikipediaSlug": "Alan_MacDiarmid",
+  "wikipediaId": "Q110942",
+  "name": "Alan MacDiarmid",
+  "fullName": "Alan MacDiarmid",
+  "profileSummary": "Alan Graham MacDiarmid, ONZ FRS was a New Zealand-American chemist, and one of three recipients of the Nobel Prize for Chemistry in 2000.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Alan_MacDiarmid_2005.017.004e_crop.tif/lossy-page1-330px-Alan_MacDiarmid_2005.017.004e_crop.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_MacDiarmid",
+  "dateOfBirth": "1927-04-14",
+  "birthDateParsed": "1927-04-14",
+  "dateOfDeath": "2007-02-07",
+  "deathDateParsed": "2007-02-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-40.966666666",
+  "birthCoordinatesLng": "175.65",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q110942",
+  "birthPlace": "Masterton",
+  "fetchedAt": "2026-08-10T02:03:19.829Z"
+}

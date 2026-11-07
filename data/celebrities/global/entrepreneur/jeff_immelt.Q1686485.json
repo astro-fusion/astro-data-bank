@@ -1,0 +1,33 @@
+{
+  "publicId": "f93495ec",
+  "wikipediaSlug": "Jeff_Immelt",
+  "wikipediaId": "Q1686485",
+  "name": "Jeff Immelt",
+  "fullName": "Jeff Immelt",
+  "profileSummary": "Jeffrey Robert Immelt is an American manufacturing executive working as a venture partner at New Enterprise Associates. He previously was the CEO of General Electric from 2001 to 2017, and the CEO of GE's Medical Systems division from 1997 to 2000. Immelt's tenure saw GE's largest divestments in the company's history, as the company sold almost two-thirds of its subsidiaries and assets.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jeffrey_R._Immelt_Senate_of_Poland.jpg/330px-Jeffrey_R._Immelt_Senate_of_Poland.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeff_Immelt",
+  "dateOfBirth": "1956-02-19",
+  "birthDateParsed": "1956-02-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.1",
+  "birthCoordinatesLng": "-84.5125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q1686485",
+  "birthPlace": "Cincinnati",
+  "fetchedAt": "2026-08-03T15:52:28.175Z"
+}

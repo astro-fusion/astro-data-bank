@@ -1,0 +1,33 @@
+{
+  "publicId": "18bc18c1",
+  "wikipediaSlug": "Benjamin_List",
+  "wikipediaId": "Q105572",
+  "name": "Benjamin List",
+  "fullName": "Benjamin List",
+  "profileSummary": "Benjamin List is a German chemist who is one of the directors of the Max Planck Institute for Coal Research and professor of organic chemistry at the University of Cologne. He co-developed organocatalysis, a method of accelerating chemical reactions and making them more efficient. He shared the 2021 Nobel Prize in Chemistry with David MacMillan \"for the development of asymmetric organocatalysis\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Empfang_f%C3%BCr_Benjamin_List_im_Rathaus_K%C3%B6ln-7597-crop.jpg/330px-Empfang_f%C3%BCr_Benjamin_List_im_Rathaus_K%C3%B6ln-7597-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_List",
+  "dateOfBirth": "1968-01-11",
+  "birthDateParsed": "1968-01-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.110555555",
+  "birthCoordinatesLng": "8.682222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher",
+    "scientist"
+  ],
+  "qid": "Q105572",
+  "birthPlace": "Frankfurt",
+  "fetchedAt": "2026-08-10T02:03:21.585Z"
+}

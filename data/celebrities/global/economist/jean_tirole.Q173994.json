@@ -1,0 +1,33 @@
+{
+  "publicId": "e1495d1c",
+  "wikipediaSlug": "Jean_Tirole",
+  "wikipediaId": "Q173994",
+  "name": "Jean Tirole",
+  "fullName": "Jean Tirole",
+  "profileSummary": "Jean Marcel Pierre Tirole is a French economist who is currently a professor of economics at Toulouse 1 Capitole University. He focuses on industrial organization and game theory. In particular, he focuses on the regulation of economic activity in a way that does not hinder innovation while maintaining fair rules. Tirole's work is largely theoretical and explored in mathematical models, not empirical research.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jean_Tirole_%28cropped%29.jpg/330px-Jean_Tirole_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Tirole",
+  "dateOfBirth": "1953-08-09",
+  "birthDateParsed": "1953-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.298888888",
+  "birthCoordinatesLng": "4.078055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "researcher"
+  ],
+  "qid": "Q173994",
+  "birthPlace": "Troyes",
+  "fetchedAt": "2026-08-10T09:43:24.079Z"
+}

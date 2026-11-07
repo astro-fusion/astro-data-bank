@@ -1,0 +1,32 @@
+{
+  "publicId": "99867ef0",
+  "wikipediaSlug": "Arthur_Dolphin",
+  "wikipediaId": "Q4798483",
+  "name": "Arthur Dolphin",
+  "fullName": "Arthur Dolphin",
+  "profileSummary": "Arthur Dolphin was an English first-class cricketer, who kept wicket for Yorkshire County Cricket Club between 1905 and 1927. He is part of a tradition of Yorkshire wicket-keepers, stretching from Ned Stephenson, George Pinder, Joe Hunter and David Hunter before him, to Arthur Wood, Jimmy Binks, David Bairstow plus Richard Blakey to the present day. The successor to David Hunter as Yorkshire's wicket-keeper he served the county for twenty two years.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Dolphin",
+  "dateOfBirth": "1885-12-24",
+  "birthDateParsed": "1885-12-24",
+  "dateOfDeath": "1942-10-23",
+  "deathDateParsed": "1942-10-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.816666666",
+  "birthCoordinatesLng": "-1.866666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire"
+  ],
+  "qid": "Q4798483",
+  "birthPlace": "Wilsden",
+  "fetchedAt": "2026-07-31T20:09:02.895Z"
+}

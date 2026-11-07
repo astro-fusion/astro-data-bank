@@ -1,0 +1,31 @@
+{
+  "publicId": "5c6616d4",
+  "wikipediaSlug": "Erling_Haaland",
+  "wikipediaId": "Q28967995",
+  "name": "Erling Haaland",
+  "fullName": "Erling Haaland",
+  "profileSummary": "Erling Braut Haaland is a Norwegian professional footballer who plays as a striker for Premier League club Manchester City and the Norway national team. Regarded as one of the best players in the world and the greatest Norwegian player of all time, he is known for his speed, strength, positioning, and finishing inside the box.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/330px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erling_Haaland",
+  "dateOfBirth": "2000-07-21",
+  "birthDateParsed": "2000-07-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.7975",
+  "birthCoordinatesLng": "-1.543611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q28967995",
+  "birthPlace": "Leeds",
+  "fetchedAt": "2026-08-10T11:28:06.993Z"
+}

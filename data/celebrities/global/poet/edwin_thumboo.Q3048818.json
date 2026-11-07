@@ -1,0 +1,35 @@
+{
+  "publicId": "19858c94",
+  "wikipediaSlug": "Edwin_Thumboo",
+  "wikipediaId": "Q3048818",
+  "name": "Edwin Thumboo",
+  "fullName": "Edwin Thumboo",
+  "profileSummary": "Edwin Nadason Thumboo B.B.M. and Bar, PJG is a Singaporean poet and academic who is regarded as one of the pioneers of English literature in Singapore.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edwin_Thumboo",
+  "dateOfBirth": "1933-11-22",
+  "birthDateParsed": "1933-11-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "university teacher",
+    "philologist",
+    "linguist",
+    "scholar of English"
+  ],
+  "qid": "Q3048818",
+  "birthPlace": "Singapore",
+  "fetchedAt": "2026-08-06T09:08:45.156Z"
+}

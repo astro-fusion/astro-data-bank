@@ -1,0 +1,32 @@
+{
+  "publicId": "9f4ae8e0",
+  "wikipediaSlug": "Elias_James_Corey",
+  "wikipediaId": "Q135171",
+  "name": "Elias James Corey",
+  "fullName": "Elias James Corey",
+  "profileSummary": "Elias James Corey is an American organic chemist. In 1990, he won the Nobel Prize in Chemistry \"for his development of the theory and methodology of organic synthesis\", specifically retrosynthetic analysis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/E.J.Coreyx240.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elias_James_Corey",
+  "dateOfBirth": "1928-07-12",
+  "birthDateParsed": "1928-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.726111111",
+  "birthCoordinatesLng": "-71.191388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q135171",
+  "birthPlace": "Methuen",
+  "fetchedAt": "2026-08-10T02:03:48.231Z"
+}

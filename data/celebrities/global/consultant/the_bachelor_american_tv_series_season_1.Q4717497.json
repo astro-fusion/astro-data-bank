@@ -1,0 +1,31 @@
+{
+  "publicId": "8fa11dc5",
+  "wikipediaSlug": "Alex_Michel",
+  "wikipediaId": "Q4717497",
+  "name": "The Bachelor (American TV series) season 1",
+  "fullName": "The Bachelor (American TV series) season 1",
+  "profileSummary": "The Bachelor was the first season of ABC reality television series The Bachelor. The show featured 31-year-old Alex Michel, a Harvard educated management consultant from Charlottesville, Virginia. The season premiered on March 25, 2002, and concluded on April 25, 2002, with Michel choosing to pursue a relationship with 23-year-old event planner Amanda Marsh. They broke up several months later.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/94/The_Bachelor_S1_poster.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Bachelor_(American_TV_series)_season_1",
+  "dateOfBirth": "1971-08-10",
+  "birthDateParsed": "1971-08-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.0299",
+  "birthCoordinatesLng": "-78.479",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "consultant"
+  ],
+  "qid": "Q4717497",
+  "birthPlace": "Charlottesville",
+  "fetchedAt": "2026-08-05T02:42:33.410Z"
+}

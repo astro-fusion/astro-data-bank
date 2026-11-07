@@ -1,0 +1,33 @@
+{
+  "publicId": "39965458",
+  "wikipediaSlug": "Arthur_Leonard_Schawlow",
+  "wikipediaId": "Q190503",
+  "name": "Arthur Leonard Schawlow",
+  "fullName": "Arthur Leonard Schawlow",
+  "profileSummary": "Arthur Leonard Schawlow was an American physicist who, along with Charles Townes, developed the theoretical basis for laser science. His central insight was the use of two mirrors as the resonant cavity to take maser action from microwaves to visible wavelengths. He shared the 1981 Nobel Prize in Physics with Nicolaas Bloembergen and Kai Siegbahn for his work using lasers to determine atomic energy levels with great precision.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Artur_Schawlow%2C_Stanford_University.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Leonard_Schawlow",
+  "dateOfBirth": "1921-05-05",
+  "birthDateParsed": "1921-05-05",
+  "dateOfDeath": "1999-04-28",
+  "deathDateParsed": "1999-04-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.914166666",
+  "birthCoordinatesLng": "-73.830555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "inventor"
+  ],
+  "qid": "Q190503",
+  "birthPlace": "Mount Vernon",
+  "fetchedAt": "2026-08-06T05:00:53.464Z"
+}

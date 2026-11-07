@@ -1,0 +1,33 @@
+{
+  "publicId": "48dcff38",
+  "wikipediaSlug": "Sam_Walton",
+  "wikipediaId": "Q497827",
+  "name": "Sam Walton",
+  "fullName": "Sam Walton",
+  "profileSummary": "Samuel Moore Walton was an American philanthropist, military veteran and business magnate best known for co-founding the retailers Walmart and Sam's Club, which he started in Rogers, Arkansas, and Midwest City, Oklahoma, in 1962 and 1983 respectively. Wal-Mart Stores Inc. grew to be the world's largest corporation by revenue as well as the biggest private employer in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sam_Walton_%281992_2%29_%28cropped%29.jpg/330px-Sam_Walton_%281992_2%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Walton",
+  "dateOfBirth": "1918-03-29",
+  "birthDateParsed": "1918-03-29",
+  "dateOfDeath": "1992-04-05",
+  "deathDateParsed": "1992-04-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.856111111",
+  "birthCoordinatesLng": "-97.934444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "businessperson",
+    "economist"
+  ],
+  "qid": "Q497827",
+  "birthPlace": "Kingfisher",
+  "fetchedAt": "2026-08-04T03:35:26.237Z"
+}

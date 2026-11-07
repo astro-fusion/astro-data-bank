@@ -1,0 +1,33 @@
+{
+  "publicId": "8a91e626",
+  "wikipediaSlug": "Fred_Stolle",
+  "wikipediaId": "Q54671",
+  "name": "Fred Stolle",
+  "fullName": "Fred Stolle",
+  "profileSummary": "Frederick Sydney Stolle, AO was an Australian amateur world No. 1 tennis player and commentator. He was born in Hornsby, New South Wales, Australia. He was the father of former Australian Davis Cup player Sandon Stolle.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Stolle",
+  "dateOfBirth": "1938-10-08",
+  "birthDateParsed": "1938-10-08",
+  "dateOfDeath": "2025-03-05",
+  "deathDateParsed": "2025-03-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.701666666",
+  "birthCoordinatesLng": "151.0972222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach",
+    "sports commentator"
+  ],
+  "qid": "Q54671",
+  "birthPlace": "Hornsby",
+  "fetchedAt": "2026-08-01T13:11:42.166Z"
+}

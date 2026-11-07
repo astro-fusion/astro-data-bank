@@ -1,0 +1,36 @@
+{
+  "publicId": "e8e1a9a6",
+  "wikipediaSlug": "Gough_Whitlam",
+  "wikipediaId": "Q23333",
+  "name": "Gough Whitlam",
+  "fullName": "Gough Whitlam",
+  "profileSummary": "Edward Gough Whitlam was the 21st prime minister of Australia, serving from December 1972 to November 1975. To date the longest-serving federal leader of the Australian Labor Party (ALP), he was notable for being the head of a reformist and socially progressive government that ended with his controversial dismissal by the then governor-general of Australia, Sir John Kerr, at the climax of the 1975 constitutional crisis. Whitlam remains the only Australian prime minister to have been removed from office by a governor-general.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg/330px-Gough_Whitlam_at_the_Lodge_1974.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gough_Whitlam",
+  "dateOfBirth": "1916-07-11",
+  "birthDateParsed": "1916-07-11",
+  "dateOfDeath": "2014-10-21",
+  "deathDateParsed": "2014-10-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "barrister",
+    "minister",
+    "jurist",
+    "head of government"
+  ],
+  "qid": "Q23333",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-03T12:58:15.797Z"
+}

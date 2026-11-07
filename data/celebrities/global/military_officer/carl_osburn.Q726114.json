@@ -1,0 +1,32 @@
+{
+  "publicId": "12233a29",
+  "wikipediaSlug": "Carl_Osburn",
+  "wikipediaId": "Q726114",
+  "name": "Carl Osburn",
+  "fullName": "Carl Osburn",
+  "profileSummary": "Carl Townsend Osburn was a United States Navy officer and sport shooter from Jacksontown, Ohio. After graduating from the United States Naval Academy in 1906, Osburn went on to reach the rank of commander. He competed in the 1912 Summer Olympics, 1920 Summer Olympics, and 1924 Summer Olympics, winning a total of eleven Olympic medals: five gold, four silver, and two bronze. He is the most successful shooter at the Olympic Games when individual and team medals are both taken into the account. His tally of eleven medals made him the leading male medal winner for the United States at the Olympic Games until Michael Phelps broke this record after Mark Spitz equaled it in 1972.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Carl_Osburn.jpg/330px-Carl_Osburn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Osburn",
+  "dateOfBirth": "1884-11-05",
+  "birthDateParsed": "1884-11-05",
+  "dateOfDeath": "1966-12-28",
+  "deathDateParsed": "1966-12-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.502777777",
+  "birthCoordinatesLng": "-122.469722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "sport shooter"
+  ],
+  "qid": "Q726114",
+  "birthPlace": "St. Helena",
+  "fetchedAt": "2026-08-10T12:59:05.369Z"
+}

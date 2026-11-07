@@ -1,0 +1,31 @@
+{
+  "publicId": "3cc86599",
+  "wikipediaSlug": "Joseph_Rotblat",
+  "wikipediaId": "Q219982",
+  "name": "Joseph Rotblat",
+  "fullName": "Joseph Rotblat",
+  "profileSummary": "Sir Joseph Rotblat was a Polish and British physicist. During World War II he worked on Tube Alloys and the Manhattan Project, but left the Los Alamos Laboratory on grounds of conscience after it became clear to him in 1944 that Germany had ceased development of an atomic bomb.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Joseph_Rotblat_Los_Alamos_identity_badge_photo.jpg/330px-Joseph_Rotblat_Los_Alamos_identity_badge_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Rotblat",
+  "dateOfBirth": "1908-11-04",
+  "birthDateParsed": "1908-11-04",
+  "dateOfDeath": "2005-08-31",
+  "deathDateParsed": "2005-08-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.23",
+  "birthCoordinatesLng": "21.011111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q219982",
+  "birthPlace": "Warsaw",
+  "fetchedAt": "2026-08-04T02:13:27.836Z"
+}

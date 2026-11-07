@@ -1,0 +1,35 @@
+{
+  "publicId": "676f89e4",
+  "wikipediaSlug": "César_Milstein",
+  "wikipediaId": "Q155525",
+  "name": "César Milstein",
+  "fullName": "César Milstein",
+  "profileSummary": "César Milstein, CH, FRS was an Argentine biochemist in the field of antibody research. Milstein shared the Nobel Prize in Physiology or Medicine in 1984 with Niels Kaj Jerne and Georges J. F. Köhler for developing the hybridoma technique for the production of monoclonal antibodies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Milstein_lnp_restauraci%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9sar_Milstein",
+  "dateOfBirth": "1927-10-08",
+  "birthDateParsed": "1927-10-08",
+  "dateOfDeath": "2002-03-24",
+  "deathDateParsed": "2002-03-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-38.71824314",
+  "birthCoordinatesLng": "-62.26733891",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "molecular biologist",
+    "immunologist",
+    "university teacher",
+    "physician",
+    "chemist"
+  ],
+  "qid": "Q155525",
+  "birthPlace": "Bahía Blanca",
+  "fetchedAt": "2026-08-10T03:14:26.702Z"
+}

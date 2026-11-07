@@ -1,0 +1,33 @@
+{
+  "publicId": "5467b761",
+  "wikipediaSlug": "Beinir_Johannesen",
+  "wikipediaId": "Q69304565",
+  "name": "Beinir Johannesen",
+  "fullName": "Beinir Johannesen",
+  "profileSummary": "Beinir Johannesen is a Faroese politician serving as the Prime Minister of the Faroe Islands since 2026 and as a member of the Løgting since 2019. He has served as chairman of the People's Party since 2022. Johannesen became prime minister after his party finished first in the 2026 election.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beinir_Johannesen",
+  "dateOfBirth": "1997-02-12",
+  "birthDateParsed": "1997-02-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "62.223888888",
+  "birthCoordinatesLng": "-6.578611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "merchant",
+    "handball player"
+  ],
+  "qid": "Q69304565",
+  "birthPlace": "Klaksvík",
+  "fetchedAt": "2026-08-03T16:50:01.937Z"
+}

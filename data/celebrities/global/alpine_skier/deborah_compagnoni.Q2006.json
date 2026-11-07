@@ -1,0 +1,31 @@
+{
+  "publicId": "d8cf3bff",
+  "wikipediaSlug": "Deborah_Compagnoni",
+  "wikipediaId": "Q2006",
+  "name": "Deborah Compagnoni",
+  "fullName": "Deborah Compagnoni",
+  "profileSummary": "Deborah Compagnoni Golden Collar of Sports Merit is an Italian former Alpine skier who won three gold medals at the 1992, 1994, and 1998 Winter Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Deborah_Compagnoni_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deborah_Compagnoni",
+  "dateOfBirth": "1970-06-04",
+  "birthDateParsed": "1970-06-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.469248",
+  "birthCoordinatesLng": "10.372171",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "alpine skier"
+  ],
+  "qid": "Q2006",
+  "birthPlace": "Bormio",
+  "fetchedAt": "2026-08-10T12:59:18.182Z"
+}

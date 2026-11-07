@@ -1,0 +1,32 @@
+{
+  "publicId": "bc4076e3",
+  "wikipediaSlug": "Kay_Ivey",
+  "wikipediaId": "Q6380211",
+  "name": "Kay Ivey",
+  "fullName": "Kay Ivey",
+  "profileSummary": "Kay Ellen Ivey is an American politician from Alabama. A member of the Republican Party, Ivey has served since 2017 as the 54th governor of Alabama.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Governor_Kay_Ivey_2017_%28cropped%29.jpg/330px-Governor_Kay_Ivey_2017_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kay_Ivey",
+  "dateOfBirth": "1944-10-15",
+  "birthDateParsed": "1944-10-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.998851",
+  "birthCoordinatesLng": "-87.295743",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "secondary school teacher"
+  ],
+  "qid": "Q6380211",
+  "birthPlace": "Camden",
+  "fetchedAt": "2026-08-02T03:28:19.699Z"
+}

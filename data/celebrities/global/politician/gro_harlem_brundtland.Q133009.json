@@ -1,0 +1,33 @@
+{
+  "publicId": "bdcef108",
+  "wikipediaSlug": "Gro_Harlem_Brundtland",
+  "wikipediaId": "Q133009",
+  "name": "Gro Harlem Brundtland",
+  "fullName": "Gro Harlem Brundtland",
+  "profileSummary": "Gro Brundtland, known as Gro Harlem Brundtland, is a Norwegian stateswoman and former physician, who thrice served as the Prime Minister of Norway, as the leader of the Labour Party from 1981 to 1992, and as the director-general of the World Health Organization from 1998 to 2003. She is also known for having chaired the Brundtland Commission which presented the Brundtland Report on sustainable development.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gro_Harlem_Brundtland_in_2025_%28cropped%29.jpg/330px-Gro_Harlem_Brundtland_in_2025_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+  "dateOfBirth": "1939-04-20",
+  "birthDateParsed": "1939-04-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.8904",
+  "birthCoordinatesLng": "10.526",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "physician"
+  ],
+  "qid": "Q133009",
+  "birthPlace": "Bærum Municipality",
+  "fetchedAt": "2026-08-04T00:56:08.064Z"
+}

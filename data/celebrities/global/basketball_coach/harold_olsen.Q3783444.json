@@ -1,0 +1,32 @@
+{
+  "publicId": "9b294374",
+  "wikipediaSlug": "Harold_Olsen",
+  "wikipediaId": "Q3783444",
+  "name": "Harold Olsen",
+  "fullName": "Harold Olsen",
+  "profileSummary": "Harold G. Olsen was a college men's basketball coach. The Rice Lake, Wisconsin native was the head coach of the Ohio State University from 1922 to 1946. That year, he became the first head coach of the BAA's Chicago Stags, where he coached almost three seasons before being replaced by Philip Brownstein. Olsen also coached at Northwestern University (1950–1952).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Harold_Olsen_OSU.jpg/330px-Harold_Olsen_OSU.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harold_Olsen",
+  "dateOfBirth": "1895-05-12",
+  "birthDateParsed": "1895-05-12",
+  "dateOfDeath": "1953-10-29",
+  "deathDateParsed": "1953-10-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.498333333",
+  "birthCoordinatesLng": "-91.738888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q3783444",
+  "birthPlace": "Rice Lake",
+  "fetchedAt": "2026-08-01T15:37:30.894Z"
+}

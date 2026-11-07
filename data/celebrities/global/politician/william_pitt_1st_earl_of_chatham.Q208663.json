@@ -1,0 +1,31 @@
+{
+  "publicId": "0396a4c2",
+  "wikipediaSlug": "William_Pitt,_1st_Earl_of_Chatham",
+  "wikipediaId": "Q208663",
+  "name": "William Pitt, 1st Earl of Chatham",
+  "fullName": "William Pitt, 1st Earl of Chatham",
+  "profileSummary": "William Pitt, 1st Earl of Chatham was a British Whig statesman who served as Prime Minister of Great Britain from 1766 to 1768. Historians call him \"Chatham\" or \"Pitt the Elder\" to distinguish him from his son William Pitt the Younger, who also served as prime minister. Pitt was also known as \"the Great Commoner\" because of his long-standing refusal to accept a title until 1766.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/William_Pitt%2C_1st_Earl_of_Chatham_by_William_Hoare.jpg/330px-William_Pitt%2C_1st_Earl_of_Chatham_by_William_Hoare.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Pitt%2C_1st_Earl_of_Chatham",
+  "dateOfBirth": "1708-11-15",
+  "birthDateParsed": "1708-11-15",
+  "dateOfDeath": "1778-05-11",
+  "deathDateParsed": "1778-05-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q208663",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:23:17.030Z"
+}

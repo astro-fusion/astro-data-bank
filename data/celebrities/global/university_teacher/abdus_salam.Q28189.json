@@ -1,0 +1,33 @@
+{
+  "publicId": "4d0ee890",
+  "wikipediaSlug": "Abdus_Salam",
+  "wikipediaId": "Q28189",
+  "name": "Abdus Salam",
+  "fullName": "Abdus Salam",
+  "profileSummary": "Mohammad Abdus Salam was a Pakistani theoretical physicist and Nobel laureate. He shared the 1979 Nobel Prize in Physics with Steven Weinberg and Sheldon Glashow \"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\". He was the first Pakistani, first Muslim scientist, and second person from any Muslim country to win a Nobel Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Abdus_Salam_1987.jpg/330px-Abdus_Salam_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdus_Salam",
+  "dateOfBirth": "1926-01-29",
+  "birthDateParsed": "1926-01-29",
+  "dateOfDeath": "1996-11-21",
+  "deathDateParsed": "1996-11-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.268055555",
+  "birthCoordinatesLng": "72.318055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "theoretical physicist",
+    "physicist"
+  ],
+  "qid": "Q28189",
+  "birthPlace": "Jhang",
+  "fetchedAt": "2026-08-06T05:00:45.289Z"
+}

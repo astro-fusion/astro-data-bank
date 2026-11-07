@@ -1,0 +1,35 @@
+{
+  "publicId": "3a91f560",
+  "wikipediaSlug": "Andy_Borowitz",
+  "wikipediaId": "Q520072",
+  "name": "Andy Borowitz",
+  "fullName": "Andy Borowitz",
+  "profileSummary": "Andy Borowitz is an American writer, comedian, satirist, and actor. Borowitz is a New York Times-bestselling author who won the first National Press Club award for humor. He is known for creating the NBC sitcom The Fresh Prince of Bel-Air and the satirical column The Borowitz Report.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AndyBorowitz.JPG/330px-AndyBorowitz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Borowitz",
+  "dateOfBirth": "1958-01-04",
+  "birthDateParsed": "1958-01-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.476388888",
+  "birthCoordinatesLng": "-81.551666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "comedian",
+    "writer",
+    "journalist",
+    "satirist"
+  ],
+  "qid": "Q520072",
+  "birthPlace": "Shaker Heights",
+  "fetchedAt": "2026-08-05T02:43:15.085Z"
+}

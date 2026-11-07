@@ -1,0 +1,32 @@
+{
+  "publicId": "7dfab317",
+  "wikipediaSlug": "Carlos_Condit",
+  "wikipediaId": "Q1189705",
+  "name": "Carlos Condit",
+  "fullName": "Carlos Condit",
+  "profileSummary": "Carlos Joseph Condit is an American former professional mixed martial artist. He previously competed in the Welterweight division in the Ultimate Fighting Championship (UFC), where he is a former Interim UFC Welterweight Champion. Condit formerly fought in the UFC's sister promotion, World Extreme Cagefighting (WEC), where he was the final Welterweight Champion. Condit has also competed for both Shootboxing and Pancrase in Japan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Carloscondit.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Condit",
+  "dateOfBirth": "1984-04-26",
+  "birthDateParsed": "1984-04-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.084444444",
+  "birthCoordinatesLng": "-106.650277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "kickboxer"
+  ],
+  "qid": "Q1189705",
+  "birthPlace": "Albuquerque",
+  "fetchedAt": "2026-08-01T17:04:28.757Z"
+}

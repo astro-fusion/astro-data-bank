@@ -1,0 +1,34 @@
+{
+  "publicId": "d75add61",
+  "wikipediaSlug": "Hideki_Yukawa",
+  "wikipediaId": "Q155777",
+  "name": "Hideki Yukawa",
+  "fullName": "Hideki Yukawa",
+  "profileSummary": "Hideki Yukawa was a Japanese theoretical physicist who received the Nobel Prize in Physics in 1949 \"for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yukawa.jpg/330px-Yukawa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hideki_Yukawa",
+  "dateOfBirth": "1907-01-23",
+  "birthDateParsed": "1907-01-23",
+  "dateOfDeath": "1981-09-08",
+  "deathDateParsed": "1981-09-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.654646",
+  "birthCoordinatesLng": "139.737082",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "theoretical physicist",
+    "nuclear physicist",
+    "university teacher"
+  ],
+  "qid": "Q155777",
+  "birthPlace": "Azabu",
+  "fetchedAt": "2026-08-06T05:02:27.037Z"
+}

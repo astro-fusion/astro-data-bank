@@ -1,0 +1,32 @@
+{
+  "publicId": "bb0fced0",
+  "wikipediaSlug": "Rick_Barry",
+  "wikipediaId": "Q434824",
+  "name": "Rick Barry",
+  "fullName": "Rick Barry",
+  "profileSummary": "Richard Francis Dennis Barry III is an American former professional basketball player. Barry ranks among the most prolific scorers and all-around players in basketball history. He is the only player to lead the National Collegiate Athletic Association (NCAA), American Basketball Association (ABA), and National Basketball Association (NBA) in points per game in a season. He ranks as the all-time ABA scoring leader in regular season and postseason (33.5) play, while his 36.3 points per game are the most in NBA Finals history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Rick_Barry.jpg/330px-Rick_Barry.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rick_Barry",
+  "dateOfBirth": "1944-03-28",
+  "birthDateParsed": "1944-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.662222222",
+  "birthCoordinatesLng": "-74.209166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q434824",
+  "birthPlace": "Elizabeth",
+  "fetchedAt": "2026-08-01T15:38:20.221Z"
+}

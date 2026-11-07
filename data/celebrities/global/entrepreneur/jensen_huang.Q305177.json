@@ -1,0 +1,39 @@
+{
+  "publicId": "7985ffd0",
+  "wikipediaSlug": "Jensen_Huang",
+  "wikipediaId": "Q305177",
+  "name": "Jensen Huang",
+  "fullName": "Jensen Huang",
+  "profileSummary": "Jen-Hsun \"Jensen\" Huang is a Taiwanese and American business executive and electrical engineer who is the founder, president, and CEO of Nvidia, the world's most valuable company. As of 2026, Forbes estimates his net worth at over US$200 billion, making him the seventh-wealthiest individual in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jen-Hsun_Huang_2025.jpg/330px-Jen-Hsun_Huang_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jensen_Huang",
+  "dateOfBirth": "1963-02-17",
+  "birthDateParsed": "1963-02-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.99",
+  "birthCoordinatesLng": "120.185",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "engineer",
+    "businessperson",
+    "computer scientist",
+    "tech VIP",
+    "electrical engineer",
+    "manager",
+    "founder",
+    "chief executive officer"
+  ],
+  "qid": "Q305177",
+  "birthPlace": "Tainan",
+  "fetchedAt": "2026-08-04T03:34:57.133Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "f4149a02",
+  "wikipediaSlug": "Anthony_W._England",
+  "wikipediaId": "Q574124",
+  "name": "Anthony W. England",
+  "fullName": "Anthony W. England",
+  "profileSummary": "Anthony Wayne England is an American former NASA astronaut. Selected in 1967, England was among a group of astronauts who served as backups during the Apollo and Skylab programs. Like most others in his class, he flew during the Space Shuttle program, serving as a mission specialist on STS-51-F in 1985. He has logged more than 4,000 hours of flying time and 188 hours in space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/AnthonyWEngland.jpg/330px-AnthonyWEngland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_W._England",
+  "dateOfBirth": "1942-05-15",
+  "birthDateParsed": "1942-05-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.768611111",
+  "birthCoordinatesLng": "-86.158055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "engineer",
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q574124",
+  "birthPlace": "Indianapolis",
+  "fetchedAt": "2026-08-10T06:03:37.907Z"
+}

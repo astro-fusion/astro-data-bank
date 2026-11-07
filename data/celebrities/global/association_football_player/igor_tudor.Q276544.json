@@ -1,0 +1,32 @@
+{
+  "publicId": "74a3f799",
+  "wikipediaSlug": "Igor_Tudor",
+  "wikipediaId": "Q276544",
+  "name": "Igor Tudor",
+  "fullName": "Igor Tudor",
+  "profileSummary": "Igor Tudor is a Croatian professional football manager and former player who was most recently the head coach of Premier League club Tottenham Hotspur.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dnepr-Hajduk_%281%29_%28cropped%29.jpg/330px-Dnepr-Hajduk_%281%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Tudor",
+  "dateOfBirth": "1978-04-16",
+  "birthDateParsed": "1978-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.51",
+  "birthCoordinatesLng": "16.44",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q276544",
+  "birthPlace": "Split",
+  "fetchedAt": "2026-08-01T05:21:16.685Z"
+}

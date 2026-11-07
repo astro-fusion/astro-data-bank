@@ -1,0 +1,32 @@
+{
+  "publicId": "1ab4d360",
+  "wikipediaSlug": "Malcolm_Fraser",
+  "wikipediaId": "Q315979",
+  "name": "Malcolm Fraser",
+  "fullName": "Malcolm Fraser",
+  "profileSummary": "John Malcolm Fraser was an Australian farmer and politician who was the 22nd prime minister of Australia, serving from 1975 to 1983. He held office as the leader of the Liberal Party of Australia, and is the fourth longest-serving prime minister in Australian history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Malcolm_Fraser_1977_%28cropped%29.jpg/330px-Malcolm_Fraser_1977_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Malcolm_Fraser",
+  "dateOfBirth": "1930-05-21",
+  "birthDateParsed": "1930-05-21",
+  "dateOfDeath": "2015-03-20",
+  "deathDateParsed": "2015-03-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.841",
+  "birthCoordinatesLng": "145.018",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "head of government"
+  ],
+  "qid": "Q315979",
+  "birthPlace": "Toorak",
+  "fetchedAt": "2026-08-03T12:58:45.266Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "7dbfef37",
+  "wikipediaSlug": "Andrew_Flintoff",
+  "wikipediaId": "Q95885",
+  "name": "Andrew Flintoff",
+  "fullName": "Andrew Flintoff",
+  "profileSummary": "Andrew \"Freddie\" Flintoff, is an English television and radio presenter and former international cricketer. Flintoff played all forms of the game and was one of the sport's leading all-rounders, a fast bowler, middle-order batsman and slip fielder. He was consistently rated by the ICC as being among the top international all-rounders in both ODI and Test cricket.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rachel_and_cricketer_husband_Freddie_Flintoff_%2823820118063%29_%28cropped%29.jpg/330px-Rachel_and_cricketer_husband_Freddie_Flintoff_%2823820118063%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Flintoff",
+  "dateOfBirth": "1977-12-06",
+  "birthDateParsed": "1977-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.759444444",
+  "birthCoordinatesLng": "-2.698055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer",
+    "cricketer",
+    "television presenter"
+  ],
+  "qid": "Q95885",
+  "birthPlace": "Preston",
+  "fetchedAt": "2026-07-31T20:08:04.855Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "733db607",
+  "wikipediaSlug": "Louis_St._Laurent",
+  "wikipediaId": "Q128626",
+  "name": "Louis St. Laurent",
+  "fullName": "Louis St. Laurent",
+  "profileSummary": "Louis Stephen St. Laurent was a Canadian lawyer and politician who served as the 12th prime minister of Canada from 1948 to 1957.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Louis_St._Laurent_portrait.jpg/330px-Louis_St._Laurent_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_St._Laurent",
+  "dateOfBirth": "1882-02-01",
+  "birthDateParsed": "1882-02-01",
+  "dateOfDeath": "1973-07-25",
+  "deathDateParsed": "1973-07-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.2333",
+  "birthCoordinatesLng": "-71.8167",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "law professor"
+  ],
+  "qid": "Q128626",
+  "birthPlace": "Compton",
+  "fetchedAt": "2026-08-03T10:59:26.896Z"
+}

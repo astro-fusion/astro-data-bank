@@ -1,0 +1,33 @@
+{
+  "publicId": "d4f4a2fe",
+  "wikipediaSlug": "Andy_Gavin",
+  "wikipediaId": "Q4760708",
+  "name": "Andy Gavin",
+  "fullName": "Andy Gavin",
+  "profileSummary": "Andrew Scott Gavin is an American video game programmer, entrepreneur, and novelist. Gavin co-founded the video game company Naughty Dog with childhood friend Jason Rubin in 1986, which released games including Crash Bandicoot and Jak and Daxter. Prior to founding Naughty Dog, Gavin worked in the LISP programming language at the MIT Artificial Intelligence Laboratory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/AGHeadshot.jpg/330px-AGHeadshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Gavin",
+  "dateOfBirth": "1970-06-11",
+  "birthDateParsed": "1970-06-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.828175",
+  "birthCoordinatesLng": "-98.5795",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "novelist",
+    "computer scientist"
+  ],
+  "qid": "Q4760708",
+  "birthPlace": "United States",
+  "fetchedAt": "2026-08-05T03:15:28.168Z"
+}

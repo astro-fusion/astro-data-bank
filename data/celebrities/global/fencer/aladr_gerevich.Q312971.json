@@ -1,0 +1,31 @@
+{
+  "publicId": "104eaffb",
+  "wikipediaSlug": "Aladár_Gerevich",
+  "wikipediaId": "Q312971",
+  "name": "Aladár Gerevich",
+  "fullName": "Aladár Gerevich",
+  "profileSummary": "Aladár Gerevich was a Hungarian fencer, regarded as \"the greatest Olympic swordsman ever\". He won seven gold medals in sabre at six different Olympic Games.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alad%C3%A1r_Gerevich_%281960%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alad%C3%A1r_Gerevich",
+  "dateOfBirth": "1910-03-16",
+  "birthDateParsed": "1910-03-16",
+  "dateOfDeath": "1991-05-14",
+  "deathDateParsed": "1991-05-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.5",
+  "birthCoordinatesLng": "19.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "fencer"
+  ],
+  "qid": "Q312971",
+  "birthPlace": "Jászberény",
+  "fetchedAt": "2026-08-10T12:58:29.220Z"
+}

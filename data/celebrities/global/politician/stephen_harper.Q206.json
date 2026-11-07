@@ -1,0 +1,35 @@
+{
+  "publicId": "807a27a5",
+  "wikipediaSlug": "Stephen_Harper",
+  "wikipediaId": "Q206",
+  "name": "Stephen Harper",
+  "fullName": "Stephen Harper",
+  "profileSummary": "Stephen Joseph Harper is a Canadian politician who served as the 22nd prime minister of Canada from 2006 to 2015. He is to date the only prime minister to have come from the modern-day Conservative Party of Canada, being the party's co-founder and serving as its first leader from 2004 to 2015. Since 2018, he has been the chairman of the International Democracy Union.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Stephen_Harper_by_Remy_Steinegger_Infobox.jpg/330px-Stephen_Harper_by_Remy_Steinegger_Infobox.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Harper",
+  "dateOfBirth": "1959-04-30",
+  "birthDateParsed": "1959-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.670277777",
+  "birthCoordinatesLng": "-79.386666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist",
+    "pianist",
+    "lecturer",
+    "writer"
+  ],
+  "qid": "Q206",
+  "birthPlace": "Toronto",
+  "fetchedAt": "2026-08-03T10:59:38.895Z"
+}

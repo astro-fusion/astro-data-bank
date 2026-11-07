@@ -1,0 +1,37 @@
+{
+  "publicId": "c2b61a6f",
+  "wikipediaSlug": "Angus_King",
+  "wikipediaId": "Q544464",
+  "name": "Angus King",
+  "fullName": "Angus King",
+  "profileSummary": "Angus Stanley King Jr. is an American lawyer and politician who has served since 2013 as the junior United States senator from Maine. A political independent who caucuses with the Democratic Party, he served from 1995 to 2003 as the 72nd governor of Maine.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Angus_King%2C_official_portrait%2C_113th_Congress.jpg/330px-Angus_King%2C_official_portrait%2C_113th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angus_King",
+  "dateOfBirth": "1944-03-31",
+  "birthDateParsed": "1944-03-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.804722222",
+  "birthCoordinatesLng": "-77.047222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "businessperson",
+    "television presenter",
+    "co-producer",
+    "business executive",
+    "entrepreneur"
+  ],
+  "qid": "Q544464",
+  "birthPlace": "Alexandria",
+  "fetchedAt": "2026-08-02T02:15:43.268Z"
+}

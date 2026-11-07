@@ -1,0 +1,32 @@
+{
+  "publicId": "02299d99",
+  "wikipediaSlug": "Mairead_Maguire",
+  "wikipediaId": "Q157655",
+  "name": "Mairead Maguire",
+  "fullName": "Mairead Maguire",
+  "profileSummary": "Mairead Maguire, also known as Mairead Corrigan Maguire and formerly as Mairéad Corrigan, is a peace activist from Northern Ireland. She co-founded, with Betty Williams and Ciaran McKeown, the Women for Peace, which later became the Community for Peace People, an organization dedicated to encouraging a peaceful resolution of the Troubles in Northern Ireland. Maguire and Williams were awarded the 1976 Nobel Peace Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mairead_Corrigan_Gaza_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mairead_Maguire",
+  "dateOfBirth": "1944-01-27",
+  "birthDateParsed": "1944-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.596666666",
+  "birthCoordinatesLng": "-5.93",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "peace activist",
+    "politician"
+  ],
+  "qid": "Q157655",
+  "birthPlace": "Belfast",
+  "fetchedAt": "2026-08-04T02:13:47.158Z"
+}

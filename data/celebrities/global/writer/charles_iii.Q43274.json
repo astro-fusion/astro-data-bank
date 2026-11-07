@@ -1,0 +1,40 @@
+{
+  "publicId": "82e748fb",
+  "wikipediaSlug": "Charles_III",
+  "wikipediaId": "Q43274",
+  "name": "Charles III",
+  "fullName": "Charles III",
+  "profileSummary": "Charles III is King of the United Kingdom and 14 other Commonwealth realms.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/330px-King_Charles_III_%28July_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_III",
+  "dateOfBirth": "1948-11-14",
+  "birthDateParsed": "1948-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.501",
+  "birthCoordinatesLng": "-0.142",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "polo player",
+    "entrepreneur",
+    "painter",
+    "helicopter pilot",
+    "children's writer",
+    "aristocrat",
+    "politician",
+    "philanthropist",
+    "environmentalist"
+  ],
+  "qid": "Q43274",
+  "birthPlace": "Buckingham Palace",
+  "fetchedAt": "2026-08-04T00:55:17.786Z"
+}

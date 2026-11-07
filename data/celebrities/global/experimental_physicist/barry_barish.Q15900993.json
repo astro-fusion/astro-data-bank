@@ -1,0 +1,34 @@
+{
+  "publicId": "43c5ef88",
+  "wikipediaSlug": "Barry_Barish",
+  "wikipediaId": "Q15900993",
+  "name": "Barry Barish",
+  "fullName": "Barry Barish",
+  "profileSummary": "Barry Clark Barish is an American experimental physicist and Nobel Laureate. He is a Linde Professor of Physics, emeritus at California Institute of Technology and a leading expert on gravitational waves.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/05-0367-92D.hr.jpg/330px-05-0367-92D.hr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Barish",
+  "dateOfBirth": "1936-01-27",
+  "birthDateParsed": "1936-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.258611111",
+  "birthCoordinatesLng": "-95.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "experimental physicist",
+    "university teacher",
+    "physicist",
+    "astrophysicist"
+  ],
+  "qid": "Q15900993",
+  "birthPlace": "Omaha",
+  "fetchedAt": "2026-08-06T05:01:06.274Z"
+}

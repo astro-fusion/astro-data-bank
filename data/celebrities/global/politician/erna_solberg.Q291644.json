@@ -1,0 +1,31 @@
+{
+  "publicId": "60a227ca",
+  "wikipediaSlug": "Erna_Solberg",
+  "wikipediaId": "Q291644",
+  "name": "Erna Solberg",
+  "fullName": "Erna Solberg",
+  "profileSummary": "Erna Solberg is a Norwegian politician and was the Leader of the Opposition from 2021 to 2025. She served as the prime minister of Norway from 2013 to 2021, and as the leader of the Conservative Party from 2004 to 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/EPP_Summit_-_23_October_2025.jpg/330px-EPP_Summit_-_23_October_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erna_Solberg",
+  "dateOfBirth": "1961-02-24",
+  "birthDateParsed": "1961-02-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.3925",
+  "birthCoordinatesLng": "5.323333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q291644",
+  "birthPlace": "Bergen",
+  "fetchedAt": "2026-08-04T00:55:50.620Z"
+}

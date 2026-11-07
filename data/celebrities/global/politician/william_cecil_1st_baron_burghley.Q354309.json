@@ -1,0 +1,33 @@
+{
+  "publicId": "0cc0a5e4",
+  "wikipediaSlug": "William_Cecil,_1st_Baron_Burghley",
+  "wikipediaId": "Q354309",
+  "name": "William Cecil, 1st Baron Burghley",
+  "fullName": "William Cecil, 1st Baron Burghley",
+  "profileSummary": "William Cecil, 1st Baron Burghley, was an English statesman, the chief adviser of Queen Elizabeth I for most of her reign, twice Secretary of State and Lord High Treasurer from 1572. In his description in the Encyclopædia Britannica Eleventh Edition, A. F. Pollard wrote, \"From 1558 for forty years the biography of Cecil is almost indistinguishable from that of Elizabeth and from the history of England.\" He was raised to the peerage as Baron Burghley in February 1571.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/William_Cecil%2C_1st_Baron_Burghley_from_NPG_%282%29FXD.jpg/330px-William_Cecil%2C_1st_Baron_Burghley_from_NPG_%282%29FXD.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Cecil%2C_1st_Baron_Burghley",
+  "dateOfBirth": "1520-09-23",
+  "birthDateParsed": "1520-09-23",
+  "dateOfDeath": "1598-08-04",
+  "deathDateParsed": "1598-08-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.7684",
+  "birthCoordinatesLng": "-0.3775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "baron",
+    "minister"
+  ],
+  "qid": "Q354309",
+  "birthPlace": "Bourne",
+  "fetchedAt": "2026-08-02T05:23:12.975Z"
+}

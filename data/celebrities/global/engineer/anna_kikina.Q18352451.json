@@ -1,0 +1,35 @@
+{
+  "publicId": "cc6d7c21",
+  "wikipediaSlug": "Anna_Kikina",
+  "wikipediaId": "Q18352451",
+  "name": "Anna Kikina",
+  "fullName": "Anna Kikina",
+  "profileSummary": "Anna Yuryevna Kikina is a Russian engineer and cosmonaut, selected in 2012. She is the only female cosmonaut currently in active service at Roscosmos. She made her first flight to space in 2022 to the International Space Station (ISS) aboard SpaceX Crew-5, the first Roscosmos cosmonaut to fly aboard a U.S. spacecraft since 2002. During her time on the ISS, Kikina served as a flight engineer during the long-duration Expedition 68 mission.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Anna_Kikina_2025_%28portrait_crop%29.jpg/330px-Anna_Kikina_2025_%28portrait_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Kikina",
+  "dateOfBirth": "1984-08-27",
+  "birthDateParsed": "1984-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.033333333",
+  "birthCoordinatesLng": "82.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "cosmonaut",
+    "test cosmonaut",
+    "astronaut",
+    "Pilot-Cosmonaut of the Russian Federation"
+  ],
+  "qid": "Q18352451",
+  "birthPlace": "Novosibirsk",
+  "fetchedAt": "2026-08-10T06:03:22.649Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "d35ad4a9",
+  "wikipediaSlug": "Don_Beard",
+  "wikipediaId": "Q5292207",
+  "name": "Don Beard",
+  "fullName": "Don Beard",
+  "profileSummary": "Donald Derek Beard was a New Zealand cricketer who played in four Test matches from 1952 to 1956. He was a schoolteacher and school principal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Don_Beard%2C_1958.jpg/330px-Don_Beard%2C_1958.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_Beard",
+  "dateOfBirth": "1920-01-14",
+  "birthDateParsed": "1920-01-14",
+  "dateOfDeath": "1982-07-15",
+  "deathDateParsed": "1982-07-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-40.354911",
+  "birthCoordinatesLng": "175.609511",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5292207",
+  "birthPlace": "Palmerston North",
+  "fetchedAt": "2026-07-31T21:02:55.040Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "b6827c62",
+  "wikipediaSlug": "George_Eyser",
+  "wikipediaId": "Q556883",
+  "name": "George Eyser",
+  "fullName": "George Eyser",
+  "profileSummary": "George Louis Eyser was a German-American gymnast who competed in the 1904 Summer Olympics, earning six medals in one day, including three gold and two silver medals. Eyser competed with a wooden prosthesis for a left leg, having lost his leg after being run over by a train. Despite his disability, he won gold in the vault, an event which then included a jump over a long horse without aid of a springboard.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgeEyser2.JPG/330px-GeorgeEyser2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Eyser",
+  "dateOfBirth": "1870-08-31",
+  "birthDateParsed": "1870-08-31",
+  "dateOfDeath": "1919-03-06",
+  "deathDateParsed": "1919-03-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.323333333",
+  "birthCoordinatesLng": "10.139444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artistic gymnast",
+    "bookkeeper"
+  ],
+  "qid": "Q556883",
+  "birthPlace": "Kiel",
+  "fetchedAt": "2026-08-10T12:59:59.639Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "0bf0d6f0",
+  "wikipediaSlug": "Robert_Aumann",
+  "wikipediaId": "Q157235",
+  "name": "Robert Aumann",
+  "fullName": "Robert Aumann",
+  "profileSummary": "Robert John Aumann is an Israeli-American mathematician, and a member of the United States National Academy of Sciences. He is a professor at the Center for the Study of Rationality in the Hebrew University of Jerusalem. He also holds a visiting position at Stony Brook University, and is one of the founding members of the Stony Brook Center for Game Theory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/OMAN.jpg/330px-OMAN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Aumann",
+  "dateOfBirth": "1930-06-08",
+  "birthDateParsed": "1930-06-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.110555555",
+  "birthCoordinatesLng": "8.682222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "economist",
+    "pedagogue",
+    "professor",
+    "researcher",
+    "Nobel Prize winner",
+    "university teacher"
+  ],
+  "qid": "Q157235",
+  "birthPlace": "Frankfurt",
+  "fetchedAt": "2026-08-10T09:44:08.423Z"
+}

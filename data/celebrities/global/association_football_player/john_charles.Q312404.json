@@ -1,0 +1,33 @@
+{
+  "publicId": "e1042001",
+  "wikipediaSlug": "John_Charles",
+  "wikipediaId": "Q312404",
+  "name": "John Charles",
+  "fullName": "John Charles",
+  "profileSummary": " William John Charles was a Welsh footballer who played at centre-forward and centre-back. Best known for his time at Leeds United and Juventus, he was rated by many as the greatest all-round footballer ever to come from Great Britain and one of the greatest footballers ever.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/John_Charles%2C_Wales_versus_Scotland%2C_Ninian_Park%2C_1954.jpg/330px-John_Charles%2C_Wales_versus_Scotland%2C_Ninian_Park%2C_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Charles",
+  "dateOfBirth": "1931-12-27",
+  "birthDateParsed": "1931-12-27",
+  "dateOfDeath": "2004-02-21",
+  "deathDateParsed": "2004-02-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.6369",
+  "birthCoordinatesLng": "-3.95778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q312404",
+  "birthPlace": "Cwmbwrla",
+  "fetchedAt": "2026-08-10T11:28:53.467Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "0fbfe513",
+  "wikipediaSlug": "Dick_Savitt",
+  "wikipediaId": "Q54577",
+  "name": "Dick Savitt",
+  "fullName": "Dick Savitt",
+  "profileSummary": "Richard Savitt was an American tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Dick_Savitt.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick_Savitt",
+  "dateOfBirth": "1927-03-04",
+  "birthDateParsed": "1927-03-04",
+  "dateOfDeath": "2023-01-06",
+  "deathDateParsed": "2023-01-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.6624",
+  "birthCoordinatesLng": "-74.1102",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q54577",
+  "birthPlace": "Bayonne",
+  "fetchedAt": "2026-08-01T13:11:40.961Z"
+}

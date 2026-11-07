@@ -1,0 +1,32 @@
+{
+  "publicId": "21051221",
+  "wikipediaSlug": "Ime_Udoka",
+  "wikipediaId": "Q1374718",
+  "name": "Ime Udoka",
+  "fullName": "Ime Udoka",
+  "profileSummary": "Ime Sunday Udoka is an American professional basketball coach and former player who is the head coach for the Houston Rockets of the National Basketball Association (NBA). Born in the United States, he represented the Nigeria national team during his playing career. After retiring as a player, Udoka served as an assistant coach with the San Antonio Spurs, Philadelphia 76ers, and Brooklyn Nets before becoming the head coach of the Boston Celtics, whom he led to the 2022 NBA Finals. In April 2023, Udoka was hired by the Rockets.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ImeUdoka2022.jpg/330px-ImeUdoka2022.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ime_Udoka",
+  "dateOfBirth": "1977-08-09",
+  "birthDateParsed": "1977-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.515",
+  "birthCoordinatesLng": "-122.679166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q1374718",
+  "birthPlace": "Portland",
+  "fetchedAt": "2026-08-01T15:37:21.402Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "2e585f4b",
+  "wikipediaSlug": "Karl-Heinz_Rummenigge",
+  "wikipediaId": "Q152871",
+  "name": "Karl-Heinz Rummenigge",
+  "fullName": "Karl-Heinz Rummenigge",
+  "profileSummary": "Karl-Heinz \"Kalle\" Rummenigge is a German football executive and former professional footballer. Widely regarded as one of the greatest German footballers of all time, he also served as the Chairman of Executive Board of FC Bayern München AG, a daughter company of German Bundesliga team Bayern Munich.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015-02-06_Rummenigge_0370_%28cropped%29.JPG/330px-2015-02-06_Rummenigge_0370_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge",
+  "dateOfBirth": "1955-09-25",
+  "birthDateParsed": "1955-09-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.666666666",
+  "birthCoordinatesLng": "8.35",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "executive board",
+    "athlete"
+  ],
+  "qid": "Q152871",
+  "birthPlace": "Lippstadt",
+  "fetchedAt": "2026-08-10T11:28:53.946Z"
+}

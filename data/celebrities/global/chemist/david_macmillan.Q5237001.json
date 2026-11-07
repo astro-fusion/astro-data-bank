@@ -1,0 +1,32 @@
+{
+  "publicId": "ad5c889f",
+  "wikipediaSlug": "David_MacMillan",
+  "wikipediaId": "Q5237001",
+  "name": "David MacMillan",
+  "fullName": "David MacMillan",
+  "profileSummary": "Sir David William Cross MacMillan is a Scottish chemist and the James S. McDonnell Distinguished University Professor of Chemistry at Princeton University, where he was also the chair of the Department of Chemistry from 2010 to 2015. He shared the 2021 Nobel Prize in Chemistry with Benjamin List \"for the development of asymmetric organocatalysis\". MacMillan used his share of the $1.14 million prize to establish the May and Billy MacMillan Foundation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/David_MacMillan.jpg/330px-David_MacMillan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_MacMillan",
+  "dateOfBirth": "1968-03-16",
+  "birthDateParsed": "1968-03-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.820555555",
+  "birthCoordinatesLng": "-4.028333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q5237001",
+  "birthPlace": "Bellshill",
+  "fetchedAt": "2026-08-10T02:03:50.672Z"
+}

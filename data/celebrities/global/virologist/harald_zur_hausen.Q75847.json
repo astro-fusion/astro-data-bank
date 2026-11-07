@@ -1,0 +1,35 @@
+{
+  "publicId": "498e0a14",
+  "wikipediaSlug": "Harald_zur_Hausen",
+  "wikipediaId": "Q75847",
+  "name": "Harald zur Hausen",
+  "fullName": "Harald zur Hausen",
+  "profileSummary": "Harald zur Hausen NAS EASA APS was a German virologist. He carried out research on cervical cancer and discovered the role of papilloma viruses in cervical cancer, for which he received the Nobel Prize in Physiology or Medicine in 2008. He was chairman of the German Cancer Research Center in Heidelberg.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Harald_zur_Hausen_03.jpg/330px-Harald_zur_Hausen_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harald_zur_Hausen",
+  "dateOfBirth": "1936-03-11",
+  "birthDateParsed": "1936-03-11",
+  "dateOfDeath": "2023-05-29",
+  "deathDateParsed": "2023-05-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.510277777",
+  "birthCoordinatesLng": "7.094166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "virologist",
+    "physician",
+    "university teacher",
+    "oncologist",
+    "Nobel Prize winner"
+  ],
+  "qid": "Q75847",
+  "birthPlace": "Gelsenkirchen",
+  "fetchedAt": "2026-08-10T03:15:24.571Z"
+}

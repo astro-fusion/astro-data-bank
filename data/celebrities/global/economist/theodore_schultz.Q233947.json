@@ -1,0 +1,33 @@
+{
+  "publicId": "11ffdab8",
+  "wikipediaSlug": "Theodore_Schultz",
+  "wikipediaId": "Q233947",
+  "name": "Theodore Schultz",
+  "fullName": "Theodore Schultz",
+  "profileSummary": "Theodore William Schultz was an American agricultural economist and chairman of the University of Chicago Department of Economics. Schultz rose to national prominence after winning the 1979 Nobel Memorial Prize in Economic Sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/Theodore_Schultz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Theodore_Schultz",
+  "dateOfBirth": "1902-04-30",
+  "birthDateParsed": "1902-04-30",
+  "dateOfDeath": "1998-02-26",
+  "deathDateParsed": "1998-02-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.364444444",
+  "birthCoordinatesLng": "-97.134722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "researcher",
+    "educator"
+  ],
+  "qid": "Q233947",
+  "birthPlace": "Arlington",
+  "fetchedAt": "2026-08-10T09:44:30.818Z"
+}

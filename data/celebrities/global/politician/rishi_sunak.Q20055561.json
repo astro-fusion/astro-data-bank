@@ -1,0 +1,33 @@
+{
+  "publicId": "4bf47dab",
+  "wikipediaSlug": "Rishi_Sunak",
+  "wikipediaId": "Q20055561",
+  "name": "Rishi Sunak",
+  "fullName": "Rishi Sunak",
+  "profileSummary": "Rishi Sunak is a British politician who served as Prime Minister of the United Kingdom and Leader of the Conservative Party from 2022 to 2024. Following his defeat to Keir Starmer's Labour Party in the 2024 general election, he became Leader of the Opposition, serving in this role from July to November 2024. He previously held two Cabinet positions under Boris Johnson, latterly as Chancellor of the Exchequer from 2020 to 2022. Sunak has been the Member of Parliament (MP) for Richmond and Northallerton, previously Richmond (Yorks), since 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg/330px-Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rishi_Sunak",
+  "dateOfBirth": "1980-05-12",
+  "birthDateParsed": "1980-05-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.906666666",
+  "birthCoordinatesLng": "-1.404444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "financial analyst",
+    "head of government"
+  ],
+  "qid": "Q20055561",
+  "birthPlace": "Southampton",
+  "fetchedAt": "2026-08-02T05:22:50.626Z"
+}

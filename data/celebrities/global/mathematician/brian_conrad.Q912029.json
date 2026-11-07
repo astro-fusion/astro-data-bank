@@ -1,0 +1,33 @@
+{
+  "publicId": "2d99484d",
+  "wikipediaSlug": "Brian_Conrad",
+  "wikipediaId": "Q912029",
+  "name": "Brian Conrad",
+  "fullName": "Brian Conrad",
+  "profileSummary": "Brian Conrad is an American mathematician and number theorist, working at Stanford University. Previously, he taught at the University of Michigan and at Columbia University.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Conrad",
+  "dateOfBirth": "1970-11-20",
+  "birthDateParsed": "1970-11-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher",
+    "academic"
+  ],
+  "qid": "Q912029",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-04T15:05:14.091Z"
+}

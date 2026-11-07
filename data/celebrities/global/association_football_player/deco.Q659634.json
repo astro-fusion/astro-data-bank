@@ -1,0 +1,31 @@
+{
+  "publicId": "aa0afb1b",
+  "wikipediaSlug": "Deco",
+  "wikipediaId": "Q659634",
+  "name": "Deco",
+  "fullName": "Deco",
+  "profileSummary": "Anderson Luís de Souza, also known as Deco, is a former professional footballer who primarily played as an attacking or central midfielder. Born and raised in Brazil, he played for the Portugal national team. He currently works as sporting director for Barcelona. Deco is widely considered one of the best midfielders of his generation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Deco_com_o_Fluminense_em_2013_%28cropped%29.jpg/330px-Deco_com_o_Fluminense_em_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deco",
+  "dateOfBirth": "1977-08-27",
+  "birthDateParsed": "1977-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.693888888",
+  "birthCoordinatesLng": "-46.565",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q659634",
+  "birthPlace": "São Bernardo do Campo",
+  "fetchedAt": "2026-08-10T11:27:52.113Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "d2f14c8d",
+  "wikipediaSlug": "Joe_Hunt",
+  "wikipediaId": "Q373538",
+  "name": "Joe Hunt",
+  "fullName": "Joe Hunt",
+  "profileSummary": "Joseph Raphael Hunt was an American tennis player of the late 1930s and early 1940s from Southern California. He was the number one ranked American in 1943 and won the US singles championship in his final match. He died off the coast of Florida in an airplane crash during World War II. To date he is the only man to win the U.S. boys', junior, collegiate, and men's singles championship.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Joe_Hunt%2C_Los_Angeles_Daily_News.jpg/330px-Joe_Hunt%2C_Los_Angeles_Daily_News.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Hunt",
+  "dateOfBirth": "1919-02-17",
+  "birthDateParsed": "1919-02-17",
+  "dateOfDeath": "1945-02-02",
+  "deathDateParsed": "1945-02-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q373538",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-01T13:11:51.952Z"
+}

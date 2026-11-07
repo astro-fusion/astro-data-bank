@@ -1,0 +1,31 @@
+{
+  "publicId": "0e2e9808",
+  "wikipediaSlug": "Clive_Halse",
+  "wikipediaId": "Q3525755",
+  "name": "Clive Halse",
+  "fullName": "Clive Halse",
+  "profileSummary": "Clive Gray Halse was a South African cricketer who played in three Test matches in 1964.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Clive_G_Halse_1963.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clive_Halse",
+  "dateOfBirth": "1935-02-28",
+  "birthDateParsed": "1935-02-28",
+  "dateOfDeath": "2002-05-28",
+  "deathDateParsed": "2002-05-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-28.75",
+  "birthCoordinatesLng": "31.9",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525755",
+  "birthPlace": "Empangeni",
+  "fetchedAt": "2026-07-31T20:21:51.046Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "bd7cba82",
+  "wikipediaSlug": "Athol_Rowan",
+  "wikipediaId": "Q3525459",
+  "name": "Athol Rowan",
+  "fullName": "Athol Rowan",
+  "profileSummary": "Athol Matthew Burchell Rowan was a South African international cricketer who played in 15 Test matches between 1947 and 1951.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Athol_Rowan.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Athol_Rowan",
+  "dateOfBirth": "1921-02-07",
+  "birthDateParsed": "1921-02-07",
+  "dateOfDeath": "1998-02-22",
+  "deathDateParsed": "1998-02-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.193333333",
+  "birthCoordinatesLng": "28.106111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525459",
+  "birthPlace": "Kensington",
+  "fetchedAt": "2026-07-31T20:20:30.785Z"
+}

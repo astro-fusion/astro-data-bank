@@ -1,0 +1,35 @@
+{
+  "publicId": "50dcb8d6",
+  "wikipediaSlug": "Robert_Kahn_(computer_scientist)",
+  "wikipediaId": "Q62843",
+  "name": "Robert Kahn (computer scientist)",
+  "fullName": "Robert Kahn (computer scientist)",
+  "profileSummary": "Robert Elliot Kahn is an American electrical engineer who, along with Vint Cerf, first proposed the Transmission Control Protocol (TCP) and the Internet Protocol (IP), the fundamental communication protocols at the heart of the Internet.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bob_Kahn.jpg/330px-Bob_Kahn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Kahn_(computer_scientist)",
+  "dateOfBirth": "1938-12-23",
+  "birthDateParsed": "1938-12-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "inventor",
+    "electrical engineer",
+    "patent inventor",
+    "engineer"
+  ],
+  "qid": "Q62843",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T04:29:32.001Z"
+}

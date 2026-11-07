@@ -1,0 +1,32 @@
+{
+  "publicId": "a04346ea",
+  "wikipediaSlug": "Edmund_Phelps",
+  "wikipediaId": "Q192566",
+  "name": "Edmund Phelps",
+  "fullName": "Edmund Phelps",
+  "profileSummary": "Edmund Strother Phelps was an American economist and the recipient of the 2006 Nobel Memorial Prize in Economic Sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Edmund_Phelps_2017.jpg/330px-Edmund_Phelps_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edmund_Phelps",
+  "dateOfBirth": "1933-07-26",
+  "birthDateParsed": "1933-07-26",
+  "dateOfDeath": "2026-05-15",
+  "deathDateParsed": "2026-05-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.047222222",
+  "birthCoordinatesLng": "-87.685",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q192566",
+  "birthPlace": "Evanston",
+  "fetchedAt": "2026-08-10T09:43:11.443Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "74570fef",
+  "wikipediaSlug": "Akihiko_Hoshide",
+  "wikipediaId": "Q375641",
+  "name": "Akihiko Hoshide",
+  "fullName": "Akihiko Hoshide",
+  "profileSummary": "Akihiko Hoshide  is a Japanese engineer, JAXA astronaut, and former commander of the International Space Station. On August 30, 2012, Hoshide became the third Japanese astronaut to walk in space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Akihiko_Hoshide%2C_official_portrait_%282020%29_%28cropped%29.jpg/330px-Akihiko_Hoshide%2C_official_portrait_%282020%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akihiko_Hoshide",
+  "dateOfBirth": "1968-12-28",
+  "birthDateParsed": "1968-12-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.646555555",
+  "birthCoordinatesLng": "139.653222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut"
+  ],
+  "qid": "Q375641",
+  "birthPlace": "Setagaya",
+  "fetchedAt": "2026-08-10T06:03:09.543Z"
+}

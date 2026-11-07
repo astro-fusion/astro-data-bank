@@ -1,0 +1,32 @@
+{
+  "publicId": "2fa26a8c",
+  "wikipediaSlug": "Edwin_McMillan",
+  "wikipediaId": "Q19009",
+  "name": "Edwin McMillan",
+  "fullName": "Edwin McMillan",
+  "profileSummary": "Edwin Mattison McMillan was an American physicist credited with being the first to produce a transuranium element, neptunium. For this, he shared the 1951 Nobel Prize in Chemistry with Glenn Seaborg.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Edwin_McMillan_Nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edwin_McMillan",
+  "dateOfBirth": "1907-09-18",
+  "birthDateParsed": "1907-09-18",
+  "dateOfDeath": "1991-09-07",
+  "deathDateParsed": "1991-09-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.856388888",
+  "birthCoordinatesLng": "-118.376944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q19009",
+  "birthPlace": "Redondo Beach",
+  "fetchedAt": "2026-08-10T02:03:51.114Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "edb7130b",
+  "wikipediaSlug": "C._V._Raman",
+  "wikipediaId": "Q60429",
+  "name": "C. V. Raman",
+  "fullName": "C. V. Raman",
+  "profileSummary": "Chandrasekhara Venkata Raman was an Indian physicist known for his work in the field of light scattering. Using a spectrograph that he developed, he and his student K. S. Krishnan discovered that when light traverses a transparent material, the deflected light changes its wavelength. This phenomenon, a hitherto unknown type of scattering of light they called modified scattering, was subsequently termed the Raman effect or Raman scattering. In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sir_CV_Raman.JPG/330px-Sir_CV_Raman.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C._V._Raman",
+  "dateOfBirth": "1888-11-07",
+  "birthDateParsed": "1888-11-07",
+  "dateOfDeath": "1970-11-21",
+  "deathDateParsed": "1970-11-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.826944444",
+  "birthCoordinatesLng": "78.692777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "crystallographer"
+  ],
+  "qid": "Q60429",
+  "birthPlace": "Tiruchirappalli",
+  "fetchedAt": "2026-08-06T05:01:07.976Z"
+}

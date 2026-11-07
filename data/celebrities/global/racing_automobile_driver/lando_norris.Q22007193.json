@@ -1,0 +1,32 @@
+{
+  "publicId": "983cf9ea",
+  "wikipediaSlug": "Lando_Norris",
+  "wikipediaId": "Q22007193",
+  "name": "Lando Norris",
+  "fullName": "Lando Norris",
+  "profileSummary": "Lando Norris is a British racing driver who competes in Formula One for McLaren. Norris won the Formula One World Drivers' Championship in 2025 with McLaren, and has won 12 Grands Prix across eight seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg/330px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lando_Norris",
+  "dateOfBirth": "1999-11-13",
+  "birthDateParsed": "1999-11-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.453611111",
+  "birthCoordinatesLng": "-2.5975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing automobile driver",
+    "Formula One driver"
+  ],
+  "qid": "Q22007193",
+  "birthPlace": "Bristol",
+  "fetchedAt": "2026-08-01T16:01:29.714Z"
+}

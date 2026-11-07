@@ -1,0 +1,33 @@
+{
+  "publicId": "6aada0b1",
+  "wikipediaSlug": "Richard_Mentor_Johnson",
+  "wikipediaId": "Q109463",
+  "name": "Richard Mentor Johnson",
+  "fullName": "Richard Mentor Johnson",
+  "profileSummary": "Richard Mentor Johnson was an American lawyer, military officer, and politician who served as the ninth vice president of the United States from 1837 to 1841 under President Martin Van Buren. He is the only vice president elected by the United States Senate under the provisions of the Twelfth Amendment. Johnson also represented Kentucky in the U.S. House of Representatives and Senate. He began and ended his political career in the Kentucky House of Representatives.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/John_Neagle%2C_Richard_Mentor_Johnson%2C_1843%2C_NGA_166465.jpg/330px-John_Neagle%2C_Richard_Mentor_Johnson%2C_1843%2C_NGA_166465.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Mentor_Johnson",
+  "dateOfBirth": "1780-10-17",
+  "birthDateParsed": "1780-10-17",
+  "dateOfDeath": "1850-11-19",
+  "deathDateParsed": "1850-11-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.256111111",
+  "birthCoordinatesLng": "-85.751388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q109463",
+  "birthPlace": "Louisville",
+  "fetchedAt": "2026-08-01T18:08:47.566Z"
+}

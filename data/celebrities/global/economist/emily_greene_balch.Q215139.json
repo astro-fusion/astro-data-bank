@@ -1,0 +1,39 @@
+{
+  "publicId": "3d899018",
+  "wikipediaSlug": "Emily_Greene_Balch",
+  "wikipediaId": "Q215139",
+  "name": "Emily Greene Balch",
+  "fullName": "Emily Greene Balch",
+  "profileSummary": "Emily Greene Balch was an American economist, sociologist and pacifist. Balch combined an academic career at Wellesley College with a long-standing interest in social issues such as poverty, child labor, and immigration, as well as settlement work to uplift poor immigrants and reduce juvenile delinquency.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/EmilyGreeneBalch.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emily_Greene_Balch",
+  "dateOfBirth": "1867-01-08",
+  "birthDateParsed": "1867-01-08",
+  "dateOfDeath": "1961-01-09",
+  "deathDateParsed": "1961-01-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.3075",
+  "birthCoordinatesLng": "-71.113055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "pedagogue",
+    "university teacher",
+    "sociologist",
+    "trade unionist",
+    "journalist",
+    "peace activist",
+    "writer",
+    "pacifist"
+  ],
+  "qid": "Q215139",
+  "birthPlace": "Jamaica Plain",
+  "fetchedAt": "2026-08-04T02:13:05.148Z"
+}

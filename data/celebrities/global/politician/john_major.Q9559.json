@@ -1,0 +1,34 @@
+{
+  "publicId": "e61dda49",
+  "wikipediaSlug": "John_Major",
+  "wikipediaId": "Q9559",
+  "name": "John Major",
+  "fullName": "John Major",
+  "profileSummary": "Sir John Major is a British statesman and former politician who served as Prime Minister of the United Kingdom and Leader of the Conservative Party from 1990 to 1997. He previously held various Cabinet positions under Margaret Thatcher. Major was the Member of Parliament (MP) for Huntingdon, formerly Huntingdonshire, from 1979 to 2001. Since stepping down, Major has focused on writing and his business, sporting, and charity work, and commentating on political developments.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/John_Major_1993_%283%29.jpg/330px-John_Major_1993_%283%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Major",
+  "dateOfBirth": "1943-03-29",
+  "birthDateParsed": "1943-03-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "bank manager",
+    "autobiographer",
+    "banker"
+  ],
+  "qid": "Q9559",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:22:23.624Z"
+}

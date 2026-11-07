@@ -1,0 +1,32 @@
+{
+  "publicId": "64183446",
+  "wikipediaSlug": "Derek_Barton",
+  "wikipediaId": "Q102419",
+  "name": "Derek Barton",
+  "fullName": "Derek Barton",
+  "profileSummary": "Sir Derek Harold Richard Barton was an English organic chemist and Nobel Prize laureate for 1969.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Derek-Harold-Richard-Barton.jpg/330px-Derek-Harold-Richard-Barton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Derek_Barton",
+  "dateOfBirth": "1918-09-08",
+  "birthDateParsed": "1918-09-08",
+  "dateOfDeath": "1998-03-16",
+  "deathDateParsed": "1998-03-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.441666666",
+  "birthCoordinatesLng": "0.368611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q102419",
+  "birthPlace": "Gravesend",
+  "fetchedAt": "2026-08-10T02:03:38.675Z"
+}

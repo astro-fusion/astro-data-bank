@@ -1,0 +1,36 @@
+{
+  "publicId": "2225cec0",
+  "wikipediaSlug": "Jens_Christian_Skou",
+  "wikipediaId": "Q1687170",
+  "name": "Jens Christian Skou",
+  "fullName": "Jens Christian Skou",
+  "profileSummary": "Jens Christian Skou was a Danish biochemist and Nobel laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Skou2008crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Christian_Skou",
+  "dateOfBirth": "1918-10-08",
+  "birthDateParsed": "1918-10-08",
+  "dateOfDeath": "2018-05-28",
+  "deathDateParsed": "2018-05-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.5477",
+  "birthCoordinatesLng": "8.3033",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "autobiographer",
+    "university teacher",
+    "physiologist",
+    "biochemist",
+    "biophysicist"
+  ],
+  "qid": "Q1687170",
+  "birthPlace": "Lemvig",
+  "fetchedAt": "2026-08-10T02:04:21.248Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "a8eb23b5",
+  "wikipediaSlug": "Cordell_Hull",
+  "wikipediaId": "Q202979",
+  "name": "Cordell Hull",
+  "fullName": "Cordell Hull",
+  "profileSummary": "Cordell Hull was an American politician and diplomat who served as the United States secretary of state for nearly twelve years under President Franklin D. Roosevelt, from 1933 to 1944. A member of the Democratic Party, he is the longest-serving secretary of state in United States history. Hull previously represented Tennessee in both houses of the United States Congress for 24 years, first as a member of the U.S. House of Representatives from 1907 to 1921 and again from 1923 to 1931, and as a U.S. senator from 1931 to 1933. Hull also as a member of the Tennessee House of Representatives from 1893 to 1897.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cordell_Hull%2C_NPG-9700446C_1.jpg/330px-Cordell_Hull%2C_NPG-9700446C_1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cordell_Hull",
+  "dateOfBirth": "1871-10-02",
+  "birthDateParsed": "1871-10-02",
+  "dateOfDeath": "1955-07-23",
+  "deathDateParsed": "1955-07-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.581978",
+  "birthCoordinatesLng": "-85.183489",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "judge",
+    "lawyer",
+    "diplomat",
+    "jurist",
+    "foreign minister"
+  ],
+  "qid": "Q202979",
+  "birthPlace": "Olympus",
+  "fetchedAt": "2026-08-04T02:13:13.353Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "c6ca471e",
+  "wikipediaSlug": "Alf_Dipper",
+  "wikipediaId": "Q302375",
+  "name": "Alf Dipper",
+  "fullName": "Alf Dipper",
+  "profileSummary": "Alfred Ernest Dipper was an English professional cricketer who played for Gloucestershire County Cricket Club from 1908 to 1932, and in one Test match for England in 1921. He was born at Apperley, Gloucestershire, and died at Lambeth, London.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alf_Dipper",
+  "dateOfBirth": "1885-11-09",
+  "birthDateParsed": "1885-11-09",
+  "dateOfDeath": "1945-11-07",
+  "deathDateParsed": "1945-11-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire"
+  ],
+  "qid": "Q302375",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:08:21.733Z"
+}

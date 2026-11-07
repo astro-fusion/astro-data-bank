@@ -1,0 +1,31 @@
+{
+  "publicId": "a8c3adf6",
+  "wikipediaSlug": "Andrew_McDonald_(cricketer)",
+  "wikipediaId": "Q4757945",
+  "name": "Andrew McDonald (cricketer)",
+  "fullName": "Andrew McDonald (cricketer)",
+  "profileSummary": "Andrew Barry McDonald is an Australian cricket coach and former player who is currently the head coach of the Australia national cricket team. He played for the Victoria and South Australia cricket teams, and had a short career playing for Australia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ANDREW_MCDONALD_%286299601707%29.jpg/330px-ANDREW_MCDONALD_%286299601707%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_McDonald_(cricketer)",
+  "dateOfBirth": "1981-06-15",
+  "birthDateParsed": "1981-06-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.121388888",
+  "birthCoordinatesLng": "146.888055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4757945",
+  "birthPlace": "Wodonga",
+  "fetchedAt": "2026-07-31T19:43:48.244Z"
+}

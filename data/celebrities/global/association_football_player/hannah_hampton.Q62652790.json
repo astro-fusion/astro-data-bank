@@ -1,0 +1,31 @@
+{
+  "publicId": "d5ec91a9",
+  "wikipediaSlug": "Hannah_Hampton",
+  "wikipediaId": "Q62652790",
+  "name": "Hannah Hampton",
+  "fullName": "Hannah Hampton",
+  "profileSummary": "Hannah Alice Hampton is an English professional footballer who plays as a goalkeeper for Women's Super League club Chelsea and the England national team. She progressed through the Stoke City and Birmingham City academies, spent five years in Spain with the Villarreal CF youth team, and previously played for Aston Villa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20250510-Hannah_Hampton_%28cropped_-_portrait%29.jpg/330px-20250510-Hannah_Hampton_%28cropped_-_portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannah_Hampton",
+  "dateOfBirth": "2000-11-16",
+  "birthDateParsed": "2000-11-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q62652790",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-08-10T11:28:31.190Z"
+}

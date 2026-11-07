@@ -1,0 +1,31 @@
+{
+  "publicId": "33a69d3f",
+  "wikipediaSlug": "Gianluigi_Donnarumma",
+  "wikipediaId": "Q20830808",
+  "name": "Gianluigi Donnarumma",
+  "fullName": "Gianluigi Donnarumma",
+  "profileSummary": "Gianluigi Donnarumma is an Italian professional footballer, who plays as a goalkeeper for Premier League club Manchester City and captains the Italy national team. He is widely regarded as one of the best goalkeepers in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Norway_Italy_-_June_2025_A_17_%28Gianluigi_Donnarumma%29.jpg/330px-Norway_Italy_-_June_2025_A_17_%28Gianluigi_Donnarumma%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gianluigi_Donnarumma",
+  "dateOfBirth": "1999-02-25",
+  "birthDateParsed": "1999-02-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.694722222",
+  "birthCoordinatesLng": "14.480277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q20830808",
+  "birthPlace": "Castellammare di Stabia",
+  "fetchedAt": "2026-08-10T11:28:42.354Z"
+}

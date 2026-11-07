@@ -1,0 +1,32 @@
+{
+  "publicId": "a8a31686",
+  "wikipediaSlug": "Claude_Puel",
+  "wikipediaId": "Q128898",
+  "name": "Claude Puel",
+  "fullName": "Claude Puel",
+  "profileSummary": "Claude Jacques Puel is a French football manager and former player who was most recently the head coach of Ligue 1 club Nice.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DSC_5240_%289326334893%29_%28Claude_Puel%29.jpg/330px-DSC_5240_%289326334893%29_%28Claude_Puel%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Puel",
+  "dateOfBirth": "1961-09-02",
+  "birthDateParsed": "1961-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.605833333",
+  "birthCoordinatesLng": "2.24",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q128898",
+  "birthPlace": "Castres",
+  "fetchedAt": "2026-08-01T05:20:40.621Z"
+}

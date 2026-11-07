@@ -1,0 +1,35 @@
+{
+  "publicId": "42ea8be5",
+  "wikipediaSlug": "Jerome_Powell",
+  "wikipediaId": "Q6182718",
+  "name": "Jerome Powell",
+  "fullName": "Jerome Powell",
+  "profileSummary": "Jerome Hayden \"Jay\" Powell is an American central banker, attorney, and former investment banker who currently serves as a governor of the Federal Reserve. He was the 16th chair of the Federal Reserve from 2018 until May 2026, when his chairmanship was succeeded by Kevin Warsh. His term as Governor expires in 2028. He was previously both a lawyer and investment banker in the private sector before entering public service.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jerome_H._Powell%2C_Federal_Reserve_Chair_%28cropped%29.jpg/330px-Jerome_H._Powell%2C_Federal_Reserve_Chair_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerome_Powell",
+  "dateOfBirth": "1953-02-04",
+  "birthDateParsed": "1953-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "investment banker",
+    "politician",
+    "jurist",
+    "Inspecteur général des finances"
+  ],
+  "qid": "Q6182718",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-03T15:52:49.392Z"
+}

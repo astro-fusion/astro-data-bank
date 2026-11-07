@@ -1,0 +1,31 @@
+{
+  "publicId": "cd9f2711",
+  "wikipediaSlug": "Barry_Wood_(cricketer)",
+  "wikipediaId": "Q4864910",
+  "name": "Barry Wood (cricketer)",
+  "fullName": "Barry Wood (cricketer)",
+  "profileSummary": "Barry Wood is a former English cricketer and footballer who played for the England cricket team in both Test and ODI competitions. From 1964-1983 he competed in first-class cricket for Yorkshire, Lancashire, and Derbyshire.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Wood_(cricketer)",
+  "dateOfBirth": "1942-12-26",
+  "birthDateParsed": "1942-12-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.68",
+  "birthCoordinatesLng": "-1.58",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4864910",
+  "birthPlace": "Ossett",
+  "fetchedAt": "2026-07-31T20:08:48.589Z"
+}

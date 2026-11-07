@@ -1,0 +1,39 @@
+{
+  "publicId": "90fcf2dc",
+  "wikipediaSlug": "Frédéric_Joliot-Curie",
+  "wikipediaId": "Q150989",
+  "name": "Frédéric Joliot-Curie",
+  "fullName": "Frédéric Joliot-Curie",
+  "profileSummary": "Jean Frédéric Joliot-Curie was a French chemist and physicist who received the 1935 Nobel Prize in Chemistry with his wife, Irène Joliot-Curie, for their discovery of induced radioactivity. They were the second married couple, after his parents-in-law, to win the Nobel Prize, adding to the Curie family legacy of four Nobel Prizes. Joliot-Curie and his wife also founded the Orsay Faculty of Sciences, part of the Paris-Saclay University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Joliot-fred.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie",
+  "dateOfBirth": "1900-03-19",
+  "birthDateParsed": "1900-03-19",
+  "dateOfDeath": "1958-08-14",
+  "deathDateParsed": "1958-08-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.863611111",
+  "birthCoordinatesLng": "2.276488888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "nuclear physicist",
+    "chemist",
+    "professor",
+    "politician",
+    "university teacher",
+    "physicist",
+    "French resistance fighter",
+    "actor",
+    "scientist"
+  ],
+  "qid": "Q150989",
+  "birthPlace": "16th arrondissement of Paris",
+  "fetchedAt": "2026-08-10T02:03:48.753Z"
+}

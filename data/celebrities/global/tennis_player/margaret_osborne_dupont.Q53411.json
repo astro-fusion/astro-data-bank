@@ -1,0 +1,31 @@
+{
+  "publicId": "8d359fb4",
+  "wikipediaSlug": "Margaret_Osborne_duPont",
+  "wikipediaId": "Q53411",
+  "name": "Margaret Osborne duPont",
+  "fullName": "Margaret Osborne duPont",
+  "profileSummary": "Margaret Osborne duPont was a world No. 1 American female tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Margaret_Osborne_1941.jpg/330px-Margaret_Osborne_1941.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Osborne_duPont",
+  "dateOfBirth": "1918-03-04",
+  "birthDateParsed": "1918-03-04",
+  "dateOfDeath": "2012-10-24",
+  "deathDateParsed": "2012-10-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.350833333",
+  "birthCoordinatesLng": "-117.230277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q53411",
+  "birthPlace": "Joseph",
+  "fetchedAt": "2026-08-01T15:00:25.163Z"
+}

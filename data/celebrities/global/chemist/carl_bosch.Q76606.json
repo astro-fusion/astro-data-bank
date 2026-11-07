@@ -1,0 +1,35 @@
+{
+  "publicId": "5a747019",
+  "wikipediaSlug": "Carl_Bosch",
+  "wikipediaId": "Q76606",
+  "name": "Carl Bosch",
+  "fullName": "Carl Bosch",
+  "profileSummary": "Carl Bosch was a German chemist and engineer and Nobel Laureate in Chemistry. He was a pioneer in the field of high-pressure industrial chemistry and founder of IG Farben, at one point the world's largest chemical company.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Carl_Bosch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Bosch",
+  "dateOfBirth": "1874-08-27",
+  "birthDateParsed": "1874-08-27",
+  "dateOfDeath": "1940-04-26",
+  "deathDateParsed": "1940-04-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.942222222",
+  "birthCoordinatesLng": "6.957777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "inventor",
+    "academic",
+    "engineer",
+    "scientific collector"
+  ],
+  "qid": "Q76606",
+  "birthPlace": "Cologne",
+  "fetchedAt": "2026-08-10T02:03:31.550Z"
+}

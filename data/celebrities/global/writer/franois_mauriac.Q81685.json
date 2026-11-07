@@ -1,0 +1,38 @@
+{
+  "publicId": "758c9fb8",
+  "wikipediaSlug": "François_Mauriac",
+  "wikipediaId": "Q81685",
+  "name": "François Mauriac",
+  "fullName": "François Mauriac",
+  "profileSummary": "François Charles Mauriac was a French novelist, dramatist, critic, poet, and journalist, a member of the Académie française, and laureate of the Nobel Prize in Literature (1952). He was awarded the Grand Cross of the Légion d'honneur in 1958.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fran%C3%A7ois_Mauriac_redux.jpg/330px-Fran%C3%A7ois_Mauriac_redux.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Mauriac",
+  "dateOfBirth": "1885-10-11",
+  "birthDateParsed": "1885-10-11",
+  "dateOfDeath": "1970-09-01",
+  "deathDateParsed": "1970-09-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.837777777",
+  "birthCoordinatesLng": "-0.579444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "journalist",
+    "poet",
+    "novelist",
+    "playwright",
+    "screenwriter",
+    "literary critic",
+    "biographer"
+  ],
+  "qid": "Q81685",
+  "birthPlace": "Bordeaux",
+  "fetchedAt": "2026-08-06T07:41:11.213Z"
+}

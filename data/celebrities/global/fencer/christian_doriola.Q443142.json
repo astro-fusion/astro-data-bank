@@ -1,0 +1,31 @@
+{
+  "publicId": "eb1b1f3e",
+  "wikipediaSlug": "Christian_d'Oriola",
+  "wikipediaId": "Q443142",
+  "name": "Christian d'Oriola",
+  "fullName": "Christian d'Oriola",
+  "profileSummary": "Christian d'Oriola was a French fencer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Christian_d%27Oriola_1968_Sharjah_stamp.jpg/330px-Christian_d%27Oriola_1968_Sharjah_stamp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_d'Oriola",
+  "dateOfBirth": "1928-10-03",
+  "birthDateParsed": "1928-10-03",
+  "dateOfDeath": "2007-10-29",
+  "deathDateParsed": "2007-10-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.6975",
+  "birthCoordinatesLng": "2.894722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "fencer"
+  ],
+  "qid": "Q443142",
+  "birthPlace": "Perpignan",
+  "fetchedAt": "2026-08-10T12:59:29.987Z"
+}

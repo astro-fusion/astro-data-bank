@@ -1,0 +1,31 @@
+{
+  "publicId": "5169acd9",
+  "wikipediaSlug": "Colin_McDonald_(Australian_cricketer)",
+  "wikipediaId": "Q5145360",
+  "name": "Colin McDonald (Australian cricketer)",
+  "fullName": "Colin McDonald (Australian cricketer)",
+  "profileSummary": "Colin Campbell McDonald was an Australian cricketer. He played in 47 Test matches from 1952 to 1961, and 192 first-class matches between 1947 and 1963. He was born in Glen Iris, Victoria.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colin_McDonald_(Australian_cricketer)",
+  "dateOfBirth": "1928-11-17",
+  "birthDateParsed": "1928-11-17",
+  "dateOfDeath": "2021-01-11",
+  "deathDateParsed": "2021-01-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.856",
+  "birthCoordinatesLng": "145.059",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5145360",
+  "birthPlace": "Glen Iris",
+  "fetchedAt": "2026-07-31T19:45:25.436Z"
+}

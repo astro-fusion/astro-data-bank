@@ -1,0 +1,35 @@
+{
+  "publicId": "306e5416",
+  "wikipediaSlug": "Martina_Navratilova",
+  "wikipediaId": "Q54545",
+  "name": "Martina Navratilova",
+  "fullName": "Martina Navratilova",
+  "profileSummary": "Martina Navratilova is a Czech-American former professional tennis player. She was ranked world No. 1 in women's singles for 332 weeks, including as the year-end No. 1 seven times, and was world No. 1 in women's doubles for a record 237 weeks. Navratilova won 167 top-level singles titles and 177 doubles titles, including an Open Era record 59 major titles: 18 in singles, an all-time record 31 in women's doubles, and an Open Era record 10 in mixed doubles. Her nine Wimbledon singles titles are an all-time record. Alongside Chris Evert, her greatest rival, Navratilova dominated women's tennis for much of the 1980s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Martina_Navratilova_Eastbourne_2011.jpg/330px-Martina_Navratilova_Eastbourne_2011.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Martina_Navratilova",
+  "dateOfBirth": "1956-10-18",
+  "birthDateParsed": "1956-10-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0875",
+  "birthCoordinatesLng": "14.421388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "autobiographer",
+    "novelist",
+    "writer",
+    "athlete"
+  ],
+  "qid": "Q54545",
+  "birthPlace": "Prague",
+  "fetchedAt": "2026-08-01T15:00:21.637Z"
+}

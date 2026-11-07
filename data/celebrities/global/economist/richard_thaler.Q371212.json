@@ -1,0 +1,31 @@
+{
+  "publicId": "0f301f2a",
+  "wikipediaSlug": "Richard_Thaler",
+  "wikipediaId": "Q371212",
+  "name": "Richard Thaler",
+  "fullName": "Richard Thaler",
+  "profileSummary": "Richard H. Thaler is an American economist and the Charles R. Walgreen Distinguished Service Professor of Behavioral Science and Economics at the University of Chicago Booth School of Business. In 2015, Thaler was president of the American Economic Association.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Richard_Thaler_Chatham.jpg/330px-Richard_Thaler_Chatham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Thaler",
+  "dateOfBirth": "1945-12-09",
+  "birthDateParsed": "1945-12-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.766111111",
+  "birthCoordinatesLng": "-74.211666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist"
+  ],
+  "qid": "Q371212",
+  "birthPlace": "East Orange",
+  "fetchedAt": "2026-08-10T09:44:17.350Z"
+}

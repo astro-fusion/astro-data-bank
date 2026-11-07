@@ -1,0 +1,31 @@
+{
+  "publicId": "7cabdfa2",
+  "wikipediaSlug": "Arthur_Coningham_(cricketer)",
+  "wikipediaId": "Q4798320",
+  "name": "Arthur Coningham (cricketer)",
+  "fullName": "Arthur Coningham (cricketer)",
+  "profileSummary": "Arthur Coningham was an Australian cricketer who played in one Ashes Test match at Melbourne in 1894 in which he took a wicket with his very first ball. He took 2 for 17 in England's first innings but failed to add to that tally in the second.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cricketer_Arthur_Conningham.jpg/330px-Cricketer_Arthur_Conningham.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Coningham_(cricketer)",
+  "dateOfBirth": "1863-07-14",
+  "birthDateParsed": "1863-07-14",
+  "dateOfDeath": "1939-06-13",
+  "deathDateParsed": "1939-06-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.835",
+  "birthCoordinatesLng": "144.96",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4798320",
+  "birthPlace": "South Melbourne",
+  "fetchedAt": "2026-07-31T19:44:13.394Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "75162f91",
+  "wikipediaSlug": "Jennifer_Doudna",
+  "wikipediaId": "Q56068",
+  "name": "Jennifer Doudna",
+  "fullName": "Jennifer Doudna",
+  "profileSummary": "Jennifer Anne Doudna is an American biochemist who has pioneered work in CRISPR gene editing, and made other fundamental contributions in biochemistry and genetics. She received the 2020 Nobel Prize in Chemistry, with Emmanuelle Charpentier, \"for the development of a method for genome editing.\" She is the Li Ka Shing Chancellor's Chair Professor at the University of California, Berkeley. She has been an investigator with the Howard Hughes Medical Institute since 1997.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jennifer_Doudna_by_Christopher_Michel_in_2023_01.jpg/330px-Jennifer_Doudna_by_Christopher_Michel_in_2023_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jennifer_Doudna",
+  "dateOfBirth": "1964-02-19",
+  "birthDateParsed": "1964-02-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "molecular biologist",
+    "university teacher",
+    "chemist",
+    "crystallographer"
+  ],
+  "qid": "Q56068",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-10T02:04:28.695Z"
+}

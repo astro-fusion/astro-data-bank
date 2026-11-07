@@ -1,0 +1,32 @@
+{
+  "publicId": "677abbb5",
+  "wikipediaSlug": "Avery_Johnson",
+  "wikipediaId": "Q676481",
+  "name": "Avery Johnson",
+  "fullName": "Avery Johnson",
+  "profileSummary": "Avery DeWitt Johnson is an American basketball television commentator, former player and coach who previously served as head coach of the Alabama Crimson Tide men's basketball team. He is an NBA and college basketball analyst for CBS Sports.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Avery_Johnson_Alabama_2016.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Avery_Johnson",
+  "dateOfBirth": "1965-03-25",
+  "birthDateParsed": "1965-03-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.976111111",
+  "birthCoordinatesLng": "-90.078333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q676481",
+  "birthPlace": "New Orleans",
+  "fetchedAt": "2026-08-01T15:36:53.814Z"
+}

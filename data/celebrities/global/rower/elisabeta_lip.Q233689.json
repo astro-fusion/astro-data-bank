@@ -1,0 +1,32 @@
+{
+  "publicId": "ce5df36e",
+  "wikipediaSlug": "Elisabeta_Lipă",
+  "wikipediaId": "Q233689",
+  "name": "Elisabeta Lipă",
+  "fullName": "Elisabeta Lipă",
+  "profileSummary": "Elisabeta Lipă is a retired rower and government official from Romania. She is the most decorated rower in the history of the Olympics, winning five gold, two silver and one bronze medals. She holds the record amongst rowers for the most years between gold medals, at 20 years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Elisabeta_Lip%C4%83_1992cr.jpg/330px-Elisabeta_Lip%C4%83_1992cr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elisabeta_Lip%C4%83",
+  "dateOfBirth": "1964-10-26",
+  "birthDateParsed": "1964-10-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.95",
+  "birthCoordinatesLng": "26.06",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rower",
+    "politician"
+  ],
+  "qid": "Q233689",
+  "birthPlace": "Siret",
+  "fetchedAt": "2026-08-10T13:00:15.078Z"
+}

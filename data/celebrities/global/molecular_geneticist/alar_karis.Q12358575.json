@@ -1,0 +1,35 @@
+{
+  "publicId": "67d88158",
+  "wikipediaSlug": "Alar_Karis",
+  "wikipediaId": "Q12358575",
+  "name": "Alar Karis",
+  "fullName": "Alar Karis",
+  "profileSummary": "Alar Karis is the sixth president of Estonia, having taken office on 11 October 2021. He previously worked as molecular geneticist, developmental biologist, and Estonian civil servant.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alar_Karis%2C_February_18%2C_2026_%28cropped%29.jpg/330px-Alar_Karis%2C_February_18%2C_2026_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alar_Karis",
+  "dateOfBirth": "1958-03-26",
+  "birthDateParsed": "1958-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.38",
+  "birthCoordinatesLng": "26.7225",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "molecular geneticist",
+    "developmental biologist",
+    "civil servant",
+    "politician",
+    "biologist"
+  ],
+  "qid": "Q12358575",
+  "birthPlace": "Tartu",
+  "fetchedAt": "2026-08-03T16:49:34.703Z"
+}

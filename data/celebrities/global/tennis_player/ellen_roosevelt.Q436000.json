@@ -1,0 +1,31 @@
+{
+  "publicId": "fae5afb9",
+  "wikipediaSlug": "Ellen_Roosevelt",
+  "wikipediaId": "Q436000",
+  "name": "Ellen Roosevelt",
+  "fullName": "Ellen Roosevelt",
+  "profileSummary": "Ellen Crosby Roosevelt was an American tennis player. Roosevelt was a daughter of John Aspinwall Roosevelt, an estate proprietor, and Ellen Murray Crosby. She started playing tennis with her sister Grace in 1879 when her father installed a tennis court at their mansion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ellen_Roosevelt.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_Roosevelt",
+  "dateOfBirth": "1868-08-20",
+  "birthDateParsed": "1868-08-20",
+  "dateOfDeath": "1954-09-26",
+  "deathDateParsed": "1954-09-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.784722222",
+  "birthCoordinatesLng": "-73.933333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q436000",
+  "birthPlace": "Hyde Park",
+  "fetchedAt": "2026-08-01T14:59:32.598Z"
+}

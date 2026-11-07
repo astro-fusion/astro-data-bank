@@ -1,0 +1,34 @@
+{
+  "publicId": "f03c9866",
+  "wikipediaSlug": "Earle_Page",
+  "wikipediaId": "Q370926",
+  "name": "Earle Page",
+  "fullName": "Earle Page",
+  "profileSummary": "Sir Earle Christmas Grafton Page was an Australian politician and surgeon who served as the 11th Prime Minister of Australia from 7 to 26 April 1939, in a caretaker capacity following the death of Joseph Lyons. He was the leader of the Country Party from 1921 to 1939, and was the most influential figure in its later years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Earle_Page_-_Falk_Studios_%28cropped%29.jpg/330px-Earle_Page_-_Falk_Studios_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Earle_Page",
+  "dateOfBirth": "1880-08-08",
+  "birthDateParsed": "1880-08-08",
+  "dateOfDeath": "1961-12-20",
+  "deathDateParsed": "1961-12-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.681666666",
+  "birthCoordinatesLng": "152.9344444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "surgeon",
+    "head of government",
+    "minister"
+  ],
+  "qid": "Q370926",
+  "birthPlace": "Grafton",
+  "fetchedAt": "2026-08-03T12:58:12.885Z"
+}

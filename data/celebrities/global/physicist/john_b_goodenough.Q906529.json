@@ -1,0 +1,34 @@
+{
+  "publicId": "415bd03e",
+  "wikipediaSlug": "John_B._Goodenough",
+  "wikipediaId": "Q906529",
+  "name": "John B. Goodenough",
+  "fullName": "John B. Goodenough",
+  "profileSummary": "John Bannister Goodenough was an American materials scientist, a solid-state physicist, and a Nobel laureate in chemistry. From 1986 he was a professor of Materials Science, Electrical Engineering and Mechanical Engineering, at the University of Texas at Austin. He is credited with\nidentifying the Goodenough–Kanamori rules of the sign of the magnetic superexchange in materials, with developing materials for computer random-access magnetic memory and with inventing cathode materials for lithium-ion batteries.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nobel_9_Dec_2019_029_copy_%2849204051647%29_%28cropped%29.jpg/330px-Nobel_9_Dec_2019_029_copy_%2849204051647%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_B._Goodenough",
+  "dateOfBirth": "1922-07-25",
+  "birthDateParsed": "1922-07-25",
+  "dateOfDeath": "2023-06-25",
+  "deathDateParsed": "2023-06-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.927222222",
+  "birthCoordinatesLng": "11.586388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "inventor",
+    "meteorologist",
+    "university teacher"
+  ],
+  "qid": "Q906529",
+  "birthPlace": "Jena",
+  "fetchedAt": "2026-08-10T02:04:31.694Z"
+}

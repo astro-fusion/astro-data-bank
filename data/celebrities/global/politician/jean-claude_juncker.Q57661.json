@@ -1,0 +1,35 @@
+{
+  "publicId": "1bc877d4",
+  "wikipediaSlug": "Jean-Claude_Juncker",
+  "wikipediaId": "Q57661",
+  "name": "Jean-Claude Juncker",
+  "fullName": "Jean-Claude Juncker",
+  "profileSummary": "Jean-Claude Juncker is a Luxembourgish politician who was prime minister of Luxembourg from 1995 to 2013 and president of the European Commission from 2014 to 2019. He was also Luxembourg's Finance Minister from 1989 to 2009 and President of the Eurogroup from 2005 to 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jean-Claude_Juncker_2019.jpg/330px-Jean-Claude_Juncker_2019.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker",
+  "dateOfBirth": "1954-12-09",
+  "birthDateParsed": "1954-12-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.765203",
+  "birthCoordinatesLng": "5.889355",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist",
+    "head of government",
+    "finance minister"
+  ],
+  "qid": "Q57661",
+  "birthPlace": "Redange sur Attert",
+  "fetchedAt": "2026-08-03T15:52:47.057Z"
+}

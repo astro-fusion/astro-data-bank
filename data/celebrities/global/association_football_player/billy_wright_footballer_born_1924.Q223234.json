@@ -1,0 +1,32 @@
+{
+  "publicId": "743e7cc5",
+  "wikipediaSlug": "Billy_Wright_(footballer,_born_1924)",
+  "wikipediaId": "Q223234",
+  "name": "Billy Wright (footballer, born 1924)",
+  "fullName": "Billy Wright (footballer, born 1924)",
+  "profileSummary": "William Ambrose Wright was an English footballer who played as a centre-back. He spent his entire club career at Wolverhampton Wanderers. The first footballer in the world to earn 100 international caps, Wright also held the record for longest unbroken run in competitive international football, with 70 consecutive appearances, although that was surpassed by Andoni Zubizarreta's 86 consecutive appearances for Spain (1985–94). He also made a total of 105 appearances for England, captaining them a record 90 times, including during their campaigns at the 1950, 1954 and 1958 World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Billy_Wright_%281961%29.jpg/330px-Billy_Wright_%281961%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Wright_(footballer%2C_born_1924)",
+  "dateOfBirth": "1924-02-06",
+  "birthDateParsed": "1924-02-06",
+  "dateOfDeath": "1994-09-03",
+  "deathDateParsed": "1994-09-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.6278",
+  "birthCoordinatesLng": "-2.4854",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q223234",
+  "birthPlace": "Ironbridge",
+  "fetchedAt": "2026-08-10T11:27:34.877Z"
+}

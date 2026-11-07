@@ -1,0 +1,40 @@
+{
+  "publicId": "7aa1eb07",
+  "wikipediaSlug": "Woodrow_Wilson",
+  "wikipediaId": "Q34296",
+  "name": "Woodrow Wilson",
+  "fullName": "Woodrow Wilson",
+  "profileSummary": "Thomas Woodrow Wilson was the 28th president of the United States, serving from 1913 to 1921. He was the only Democrat to serve as president during the Progressive Era, when Republicans dominated the presidency and legislative branches. As president, Wilson made significant economic reforms and led the United States through World War I. He was the leading architect of the League of Nations, and his stance on foreign policy came to be known as Wilsonian idealism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/330px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+  "dateOfBirth": "1856-12-28",
+  "birthDateParsed": "1856-12-28",
+  "dateOfDeath": "1924-02-03",
+  "deathDateParsed": "1924-02-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.1581",
+  "birthCoordinatesLng": "-79.0764",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "university teacher",
+    "lawyer",
+    "statesperson",
+    "political scientist",
+    "jurist",
+    "teacher",
+    "writer",
+    "governor",
+    "historian"
+  ],
+  "qid": "Q34296",
+  "birthPlace": "Staunton",
+  "fetchedAt": "2026-08-01T18:09:05.360Z"
+}

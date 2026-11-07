@@ -1,0 +1,33 @@
+{
+  "publicId": "1a266fd5",
+  "wikipediaSlug": "Abelardo_de_la_Espriella",
+  "wikipediaId": "Q137204778",
+  "name": "Abelardo de la Espriella",
+  "fullName": "Abelardo de la Espriella",
+  "profileSummary": "Abelardo Gabriel de la Espriella Otero is a Colombian lawyer, businessman, and far-right politician who is the president-elect of Colombia, due to take office on 7 August 2026. He is the founder and leader of the Defenders of the Homeland movement, established in 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/330px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abelardo_de_la_Espriella",
+  "dateOfBirth": "1978-07-31",
+  "birthDateParsed": "1978-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q137204778",
+  "birthPlace": "Bogotá",
+  "fetchedAt": "2026-08-03T16:48:57.932Z"
+}

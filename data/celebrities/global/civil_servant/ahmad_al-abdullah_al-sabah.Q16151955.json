@@ -1,0 +1,31 @@
+{
+  "publicId": "663ccaf5",
+  "wikipediaSlug": "Ahmad_Al-Abdullah_Al-Sabah",
+  "wikipediaId": "Q16151955",
+  "name": "Ahmad Al-Abdullah Al-Sabah",
+  "fullName": "Ahmad Al-Abdullah Al-Sabah",
+  "profileSummary": "Ahmad Al-Abdullah Al-Ahmad Al-Sabah is a Kuwaiti economist, politician and a senior member of the ruling family, Al Sabah. He served as the minister of oil between 2009 and 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahmad_Al-Abdullah_Al-Sabah.jpg/330px-Ahmad_Al-Abdullah_Al-Sabah.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Al-Abdullah_Al-Sabah",
+  "dateOfBirth": "1952-09-05",
+  "birthDateParsed": "1952-09-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.375",
+  "birthCoordinatesLng": "47.98",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "civil servant"
+  ],
+  "qid": "Q16151955",
+  "birthPlace": "Kuwait City",
+  "fetchedAt": "2026-08-03T16:48:46.179Z"
+}

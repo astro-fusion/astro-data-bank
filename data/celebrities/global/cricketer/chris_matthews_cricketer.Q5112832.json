@@ -1,0 +1,31 @@
+{
+  "publicId": "1b50c2fb",
+  "wikipediaSlug": "Chris_Matthews_(cricketer)",
+  "wikipediaId": "Q5112832",
+  "name": "Chris Matthews (cricketer)",
+  "fullName": "Chris Matthews (cricketer)",
+  "profileSummary": "Christopher Darrell Matthews is a former Australian cricketer, who played for the Australian national cricket team, Western Australia, Lancashire County Cricket Club, and Tasmania.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Matthews_(cricketer)",
+  "dateOfBirth": "1962-09-22",
+  "birthDateParsed": "1962-09-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.66",
+  "birthCoordinatesLng": "117.24",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5112832",
+  "birthPlace": "Cunderdin",
+  "fetchedAt": "2026-07-31T19:45:24.469Z"
+}

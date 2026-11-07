@@ -1,0 +1,31 @@
+{
+  "publicId": "e799f2d0",
+  "wikipediaSlug": "Denis_Bećirović",
+  "wikipediaId": "Q13081568",
+  "name": "Denis Bećirović",
+  "fullName": "Denis Bećirović",
+  "profileSummary": "Denis Bećirović is a Bosnian politician, professor and historian serving as the 8th and current Bosniak member of the Presidency of Bosnia and Herzegovina since 2022. He has also been serving as chairman of the Presidency since March 2026. Previously, Bećirović was a member of the national House of Peoples from 2019 to 2022. He is a member and former vice-president of the Social Democratic Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Denis_Be%C4%87irovi%C4%87_-_March_2026.jpg/330px-Denis_Be%C4%87irovi%C4%87_-_March_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Be%C4%87irovi%C4%87",
+  "dateOfBirth": "1975-11-28",
+  "birthDateParsed": "1975-11-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.5391105",
+  "birthCoordinatesLng": "18.675193",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q13081568",
+  "birthPlace": "Tuzla",
+  "fetchedAt": "2026-08-03T16:50:37.005Z"
+}

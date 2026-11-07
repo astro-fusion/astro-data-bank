@@ -1,0 +1,34 @@
+{
+  "publicId": "6f39545a",
+  "wikipediaSlug": "James_B._Sumner",
+  "wikipediaId": "Q106756",
+  "name": "James B. Sumner",
+  "fullName": "James B. Sumner",
+  "profileSummary": "James Batcheller Sumner was an American biochemist. He discovered that enzymes can be crystallized, for which he shared the Nobel Prize in Chemistry in 1946 with John Howard Northrop and Wendell Meredith Stanley. He was also the first to prove that enzymes are proteins.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/James_Batcheller_Sumner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_B._Sumner",
+  "dateOfBirth": "1887-11-19",
+  "birthDateParsed": "1887-11-19",
+  "dateOfDeath": "1955-08-12",
+  "deathDateParsed": "1955-08-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.158333333",
+  "birthCoordinatesLng": "-71.145277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "virologist",
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q106756",
+  "birthPlace": "Canton",
+  "fetchedAt": "2026-08-10T02:04:20.306Z"
+}

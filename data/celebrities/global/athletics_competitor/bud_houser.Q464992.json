@@ -1,0 +1,31 @@
+{
+  "publicId": "3f4055bc",
+  "wikipediaSlug": "Bud_Houser",
+  "wikipediaId": "Q464992",
+  "name": "Bud Houser",
+  "fullName": "Bud Houser",
+  "profileSummary": "Lemuel Clarence \"Bud\" Houser was an American field athlete. He won Olympic gold medals in the discus throw in 1924 and 1928 and in the shot put in 1924.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lemuel_Clarence_Houser.jpg/330px-Lemuel_Clarence_Houser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bud_Houser",
+  "dateOfBirth": "1901-09-25",
+  "birthDateParsed": "1901-09-25",
+  "dateOfDeath": "1994-10-01",
+  "deathDateParsed": "1994-10-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.191388888",
+  "birthCoordinatesLng": "-119.1825",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "athletics competitor"
+  ],
+  "qid": "Q464992",
+  "birthPlace": "Oxnard",
+  "fetchedAt": "2026-08-10T12:59:06.041Z"
+}

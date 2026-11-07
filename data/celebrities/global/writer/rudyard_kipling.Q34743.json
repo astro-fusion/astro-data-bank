@@ -1,0 +1,42 @@
+{
+  "publicId": "ae6c2203",
+  "wikipediaSlug": "Rudyard_Kipling",
+  "wikipediaId": "Q34743",
+  "name": "Rudyard Kipling",
+  "fullName": "Rudyard Kipling",
+  "profileSummary": "Joseph Rudyard Kipling was an English journalist, novelist, poet and short-story writer. He was born in British India, which inspired much of his work.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Rudyard_Kipling_%28portrait%29.jpg/330px-Rudyard_Kipling_%28portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rudyard_Kipling",
+  "dateOfBirth": "1865-12-30",
+  "birthDateParsed": "1865-12-30",
+  "dateOfDeath": "1936-01-18",
+  "deathDateParsed": "1936-01-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.075833333",
+  "birthCoordinatesLng": "72.8775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "novelist",
+    "war correspondent",
+    "children's writer",
+    "autobiographer",
+    "screenwriter",
+    "journalist",
+    "science fiction writer",
+    "prose writer",
+    "traveler",
+    "librettist"
+  ],
+  "qid": "Q34743",
+  "birthPlace": "Mumbai",
+  "fetchedAt": "2026-08-06T07:42:38.908Z"
+}

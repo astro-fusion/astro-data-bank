@@ -1,0 +1,34 @@
+{
+  "publicId": "09e6015a",
+  "wikipediaSlug": "Bernard_Destremau",
+  "wikipediaId": "Q2897794",
+  "name": "Bernard Destremau",
+  "fullName": "Bernard Destremau",
+  "profileSummary": "Bernard Destremau was a French tennis player, tank officer, diplomat and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bernard_Destremau_1951.jpg/330px-Bernard_Destremau_1951.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_Destremau",
+  "dateOfBirth": "1917-02-11",
+  "birthDateParsed": "1917-02-11",
+  "dateOfDeath": "2002-06-06",
+  "deathDateParsed": "2002-06-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.863611111",
+  "birthCoordinatesLng": "2.276488888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "politician",
+    "diplomat",
+    "tennis coach"
+  ],
+  "qid": "Q2897794",
+  "birthPlace": "16th arrondissement of Paris",
+  "fetchedAt": "2026-08-01T13:10:51.274Z"
+}

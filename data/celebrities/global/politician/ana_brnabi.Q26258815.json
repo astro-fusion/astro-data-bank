@@ -1,0 +1,33 @@
+{
+  "publicId": "c35f53a0",
+  "wikipediaSlug": "Ana_Brnabić",
+  "wikipediaId": "Q26258815",
+  "name": "Ana Brnabić",
+  "fullName": "Ana Brnabić",
+  "profileSummary": "Ana Brnabić is a Serbian politician serving as president of the National Assembly of Serbia since 2024. A member of the Serbian Progressive Party, she previously served as Prime Minister of Serbia from 2017 to 2024. She was the first woman, first openly lesbian, and longest-serving person to hold the office of prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ana_Brnabi%C4%87_in_2026_3x4_%28cropped%29.jpg/330px-Ana_Brnabi%C4%87_in_2026_3x4_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Brnabi%C4%87",
+  "dateOfBirth": "1975-09-28",
+  "birthDateParsed": "1975-09-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.817777777",
+  "birthCoordinatesLng": "20.456944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist",
+    "business manager"
+  ],
+  "qid": "Q26258815",
+  "birthPlace": "Belgrade",
+  "fetchedAt": "2026-08-04T00:54:59.154Z"
+}

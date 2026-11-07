@@ -1,0 +1,37 @@
+{
+  "publicId": "e8a2afb9",
+  "wikipediaSlug": "Hannes_Alfvén",
+  "wikipediaId": "Q54945",
+  "name": "Hannes Alfvén",
+  "fullName": "Hannes Alfvén",
+  "profileSummary": "Hannes Olof Gösta Alfvén was a Swedish electrical engineer, plasma physicist and winner of the 1970 Nobel Prize in Physics for his work on magnetohydrodynamics (MHD). He described the class of MHD waves now known as Alfvén waves. He was originally trained as an electrical power engineer and later moved to research and teaching in the fields of plasma physics and electrical engineering. Alfvén made many contributions to plasma physics, including theories describing the behavior of aurorae, the Van Allen radiation belts, the effect of magnetic storms on the Earth's magnetic field, the terrestrial magnetosphere, and the dynamics of plasmas in the Milky Way galaxy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/YoungAlfven.jpg/330px-YoungAlfven.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannes_Alfv%C3%A9n",
+  "dateOfBirth": "1908-05-30",
+  "birthDateParsed": "1908-05-30",
+  "dateOfDeath": "1995-04-02",
+  "deathDateParsed": "1995-04-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.590022222",
+  "birthCoordinatesLng": "16.188858333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "astronomer",
+    "astrophysicist",
+    "university teacher",
+    "electrical engineer",
+    "science fiction writer",
+    "plasma physicist"
+  ],
+  "qid": "Q54945",
+  "birthPlace": "Norrköping",
+  "fetchedAt": "2026-08-06T05:02:28.988Z"
+}

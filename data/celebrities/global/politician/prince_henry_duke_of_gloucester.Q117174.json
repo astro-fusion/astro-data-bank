@@ -1,0 +1,35 @@
+{
+  "publicId": "fc328c06",
+  "wikipediaSlug": "Prince_Henry,_Duke_of_Gloucester",
+  "wikipediaId": "Q117174",
+  "name": "Prince Henry, Duke of Gloucester",
+  "fullName": "Prince Henry, Duke of Gloucester",
+  "profileSummary": "Prince Henry, Duke of Gloucester, was a member of the British royal family. He was the third son of King George V and Queen Mary, and was a younger brother of kings Edward VIII and George VI. He served as the 11th governor-general of Australia from 1945 to 1947, the only prince to hold the post.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Prince_Henry%2C_Duke_of_Gloucester.jpg/330px-Prince_Henry%2C_Duke_of_Gloucester.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Henry%2C_Duke_of_Gloucester",
+  "dateOfBirth": "1900-03-31",
+  "birthDateParsed": "1900-03-31",
+  "dateOfDeath": "1974-06-10",
+  "deathDateParsed": "1974-06-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.82638889",
+  "birthCoordinatesLng": "0.51638889",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "aristocrat",
+    "art collector",
+    "military officer"
+  ],
+  "qid": "Q117174",
+  "birthPlace": "York Cottage",
+  "fetchedAt": "2026-08-03T12:58:57.473Z"
+}

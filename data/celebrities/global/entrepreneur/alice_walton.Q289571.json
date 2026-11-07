@@ -1,0 +1,33 @@
+{
+  "publicId": "abe859e7",
+  "wikipediaSlug": "Alice_Walton",
+  "wikipediaId": "Q289571",
+  "name": "Alice Walton",
+  "fullName": "Alice Walton",
+  "profileSummary": "Alice Louise Walton is an American billionaire and, as the daughter of Sam Walton, heiress to the fortune of Walmart. As of July 2025, Walton has an estimated net worth of $116 billion, making her the richest woman in the world and 15th richest person overall, according to the Bloomberg Billionaires Index.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Alice_Walton_portrait_%28cropped%29.jpg/330px-Alice_Walton_portrait_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Walton",
+  "dateOfBirth": "1949-10-02",
+  "birthDateParsed": "1949-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.611944444",
+  "birthCoordinatesLng": "-91.262222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "philanthropist",
+    "art collector"
+  ],
+  "qid": "Q289571",
+  "birthPlace": "Newport",
+  "fetchedAt": "2026-08-04T03:34:00.779Z"
+}

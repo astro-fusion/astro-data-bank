@@ -1,0 +1,31 @@
+{
+  "publicId": "3b097c43",
+  "wikipediaSlug": "Choi_Min-jeong",
+  "wikipediaId": "Q18685427",
+  "name": "Choi Min-jeong",
+  "fullName": "Choi Min-jeong",
+  "profileSummary": "Choi Min-jeong is a South Korean short track speed skater. She is a four-time Olympic Champion, a four-time World Champion, Four Continents Champion (2020), and the current world record holder for 1500m. Choi is widely regarded as the best female Korean short track speed skater of all time. With four golds, three silvers, she is South Korea's most decorated Olympian across both Summer and Winter Olympic Games.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Choi_Min-jeong_in_2026.jpg/330px-Choi_Min-jeong_in_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Choi_Min-jeong",
+  "dateOfBirth": "1998-09-09",
+  "birthDateParsed": "1998-09-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.56",
+  "birthCoordinatesLng": "126.99",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "short-track speed skater"
+  ],
+  "qid": "Q18685427",
+  "birthPlace": "Seoul",
+  "fetchedAt": "2026-08-10T12:59:30.702Z"
+}

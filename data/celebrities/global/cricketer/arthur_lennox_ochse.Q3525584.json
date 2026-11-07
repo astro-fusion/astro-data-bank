@@ -1,0 +1,31 @@
+{
+  "publicId": "a4c87e02",
+  "wikipediaSlug": "Arthur_Lennox_Ochse",
+  "wikipediaId": "Q3525584",
+  "name": "Arthur Lennox Ochse",
+  "fullName": "Arthur Lennox Ochse",
+  "profileSummary": "Arthur Lennox Ochse was a South African cricketer who played in three Tests in 1927–28 and 1929.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/A.L._Ochse.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Lennox_Ochse",
+  "dateOfBirth": "1899-10-11",
+  "birthDateParsed": "1899-10-11",
+  "dateOfDeath": "1949-05-05",
+  "deathDateParsed": "1949-05-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.252222222",
+  "birthCoordinatesLng": "24.540555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525584",
+  "birthPlace": "Graaff-Reinet",
+  "fetchedAt": "2026-07-31T20:20:28.149Z"
+}

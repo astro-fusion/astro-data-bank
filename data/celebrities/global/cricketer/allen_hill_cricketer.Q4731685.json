@@ -1,0 +1,32 @@
+{
+  "publicId": "78ed46a6",
+  "wikipediaSlug": "Allen_Hill_(cricketer)",
+  "wikipediaId": "Q4731685",
+  "name": "Allen Hill (cricketer)",
+  "fullName": "Allen Hill (cricketer)",
+  "profileSummary": "Allen Hill played in the first-ever cricket Test, taking the first wicket. Hill also went on to umpire in the Test match played at Lord's in 1890.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Allen_Hill.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allen_Hill_(cricketer)",
+  "dateOfBirth": "1843-11-14",
+  "birthDateParsed": "1843-11-14",
+  "dateOfDeath": "1910-08-28",
+  "deathDateParsed": "1910-08-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.6552",
+  "birthCoordinatesLng": "-1.729",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire"
+  ],
+  "qid": "Q4731685",
+  "birthPlace": "Kirkheaton",
+  "fetchedAt": "2026-07-31T20:07:53.862Z"
+}

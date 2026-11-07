@@ -1,0 +1,31 @@
+{
+  "publicId": "a66cfc1c",
+  "wikipediaSlug": "Adrian_Kuiper",
+  "wikipediaId": "Q4685176",
+  "name": "Adrian Kuiper",
+  "fullName": "Adrian Kuiper",
+  "profileSummary": "Adrian Paul Kuiper is a former South African international cricketer who played in one international Test match and 25 One Day Internationals between 1991 and 1996.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrian_Kuiper",
+  "dateOfBirth": "1959-08-24",
+  "birthDateParsed": "1959-08-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4685176",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:20:33.568Z"
+}

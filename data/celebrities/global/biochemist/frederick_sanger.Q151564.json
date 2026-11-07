@@ -1,0 +1,34 @@
+{
+  "publicId": "f1d5c671",
+  "wikipediaSlug": "Frederick_Sanger",
+  "wikipediaId": "Q151564",
+  "name": "Frederick Sanger",
+  "fullName": "Frederick Sanger",
+  "profileSummary": "Frederick Sanger was a British biochemist who received the Nobel Prize in Chemistry twice.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frederick_Sanger2.jpg/330px-Frederick_Sanger2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Sanger",
+  "dateOfBirth": "1918-08-13",
+  "birthDateParsed": "1918-08-13",
+  "dateOfDeath": "2013-11-19",
+  "deathDateParsed": "2013-11-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.785",
+  "birthCoordinatesLng": "-1.975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "university teacher",
+    "conscientious objector"
+  ],
+  "qid": "Q151564",
+  "birthPlace": "Rendcomb",
+  "fetchedAt": "2026-08-10T02:03:49.720Z"
+}

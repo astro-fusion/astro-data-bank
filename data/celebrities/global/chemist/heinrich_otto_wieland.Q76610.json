@@ -1,0 +1,32 @@
+{
+  "publicId": "5d0c2082",
+  "wikipediaSlug": "Heinrich_Otto_Wieland",
+  "wikipediaId": "Q76610",
+  "name": "Heinrich Otto Wieland",
+  "fullName": "Heinrich Otto Wieland",
+  "profileSummary": "Heinrich Otto Wieland was a German chemist. He won the 1927 Nobel Prize in Chemistry for his research into the bile acids.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Heinrich_Wieland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinrich_Otto_Wieland",
+  "dateOfBirth": "1877-06-04",
+  "birthDateParsed": "1877-06-04",
+  "dateOfDeath": "1957-08-05",
+  "deathDateParsed": "1957-08-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.8908846",
+  "birthCoordinatesLng": "8.7029532",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q76610",
+  "birthPlace": "Pforzheim",
+  "fetchedAt": "2026-08-10T02:04:11.023Z"
+}

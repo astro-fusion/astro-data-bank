@@ -1,0 +1,33 @@
+{
+  "publicId": "66841289",
+  "wikipediaSlug": "Cory_Booker",
+  "wikipediaId": "Q1135767",
+  "name": "Cory Booker",
+  "fullName": "Cory Booker",
+  "profileSummary": "Cory Anthony Booker is an American politician and lawyer serving as a United States senator from New Jersey, a seat he has held since 2013. A member of the Democratic Party, Booker is the first African-American U.S. senator from New Jersey. He was the 38th mayor of Newark from 2006 to 2013, and served on the Municipal Council of Newark for the Central Ward from 1998 to 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cory_Booker%2C_official_portrait_%28119th_Congress%29.jpg/330px-Cory_Booker%2C_official_portrait_%28119th_Congress%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cory_Booker",
+  "dateOfBirth": "1969-04-27",
+  "birthDateParsed": "1969-04-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q1135767",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-02T02:16:23.471Z"
+}

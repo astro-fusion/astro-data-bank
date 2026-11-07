@@ -1,0 +1,36 @@
+{
+  "publicId": "bf171335",
+  "wikipediaSlug": "Conor_McGregor",
+  "wikipediaId": "Q5162259",
+  "name": "Conor McGregor",
+  "fullName": "Conor McGregor",
+  "profileSummary": "Conor Anthony McGregor is an Irish professional mixed martial artist. He is a former Ultimate Fighting Championship (UFC) Featherweight and Lightweight Champion, becoming the first fighter to hold UFC championships in two weight classes simultaneously. He is also a former simultaneous Cage Warriors Fighting Championship (CWFC) Featherweight and Lightweight Champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Conor_McGregor_2025.jpeg/330px-Conor_McGregor_2025.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Conor_McGregor",
+  "dateOfBirth": "1988-07-14",
+  "birthDateParsed": "1988-07-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.324",
+  "birthCoordinatesLng": "-6.329",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "boxer",
+    "taekwondo athlete",
+    "kickboxer",
+    "actor",
+    "martial artist"
+  ],
+  "qid": "Q5162259",
+  "birthPlace": "Crumlin",
+  "fetchedAt": "2026-08-01T17:05:39.458Z"
+}

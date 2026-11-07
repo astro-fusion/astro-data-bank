@@ -1,0 +1,33 @@
+{
+  "publicId": "1df88b43",
+  "wikipediaSlug": "Calvin_Quate",
+  "wikipediaId": "Q482334",
+  "name": "Calvin Quate",
+  "fullName": "Calvin Quate",
+  "profileSummary": "Calvin Forrest Quate was an American electrical engineer and physicist best known for his contributions to microscopy. He was on the faculty of Stanford University from 1961 until his retirement in 2004.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Calvin_Quate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Calvin_Quate",
+  "dateOfBirth": "1923-12-07",
+  "birthDateParsed": "1923-12-07",
+  "dateOfDeath": "2019-07-06",
+  "deathDateParsed": "2019-07-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.013055555",
+  "birthCoordinatesLng": "-114.1225",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "inventor",
+    "university teacher",
+    "engineer"
+  ],
+  "qid": "Q482334",
+  "birthPlace": "Baker",
+  "fetchedAt": "2026-08-04T15:05:28.888Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "20be9cac",
+  "wikipediaSlug": "Beau_Webster",
+  "wikipediaId": "Q19578225",
+  "name": "Beau Webster",
+  "fullName": "Beau Webster",
+  "profileSummary": "Beau Jacob Webster is an Australian International cricketer who plays for Tasmania at state level, and the Hobart Hurricanes in the Big Bash League. He also represents Australia in Test cricket. An all-rounder, Webster is a right-handed batter capable of bowling both right-arm medium and off spin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2_10_Beau_Webster_mugshot.jpg/330px-2_10_Beau_Webster_mugshot.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beau_Webster",
+  "dateOfBirth": "1993-12-01",
+  "birthDateParsed": "1993-12-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-42.883333333",
+  "birthCoordinatesLng": "147.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q19578225",
+  "birthPlace": "Hobart",
+  "fetchedAt": "2026-07-31T19:44:26.091Z"
+}

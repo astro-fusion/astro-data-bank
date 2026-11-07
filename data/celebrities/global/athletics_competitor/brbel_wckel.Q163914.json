@@ -1,0 +1,31 @@
+{
+  "publicId": "5a1d7e31",
+  "wikipediaSlug": "Bärbel_Wöckel",
+  "wikipediaId": "Q163914",
+  "name": "Bärbel Wöckel",
+  "fullName": "Bärbel Wöckel",
+  "profileSummary": "Bärbel Wöckel is a former East German sprinter. She never ran a world record in the individual disciplines. However, she ran several world records as part of relay teams with Doris Maletzki, Renate Stecher and Christina Heinich over 4 × 100 meters, the last time on September 8, 1974, in Rome. At the GDR Championships she took first place in the 4 × 100-meter relay in 1974, 1977, 1978, 1981 to 1984. In 1976 she won third place with the team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/B%C3%A4rbel_W%C3%B6ckel.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/B%C3%A4rbel_W%C3%B6ckel",
+  "dateOfBirth": "1955-03-21",
+  "birthDateParsed": "1955-03-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.3406321",
+  "birthCoordinatesLng": "12.3747329",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "athletics competitor"
+  ],
+  "qid": "Q163914",
+  "birthPlace": "Leipzig",
+  "fetchedAt": "2026-08-10T12:58:43.729Z"
+}

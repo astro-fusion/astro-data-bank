@@ -1,0 +1,32 @@
+{
+  "publicId": "e0c26d18",
+  "wikipediaSlug": "Boris_Shakhlin",
+  "wikipediaId": "Q312645",
+  "name": "Boris Shakhlin",
+  "fullName": "Boris Shakhlin",
+  "profileSummary": "Boris Anfiyanovich Shakhlin was a Soviet gymnast who was the 1960 Olympic all-around champion and the 1958 all-around World Champion. He won a total of 13 medals including seven gold medals at the Summer Olympics, and was the most successful athlete at the 1960 Summer Olympics. He held the record for most Olympic medals by a male athlete record until gymnast Nikolai Andrianov won his 14th and 15th medals at the 1980 Summer Olympics. He also won 14 medals at the World Championships.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/De_Russische_Boris_Chaklin_in_aktie_aan_de_ringen%2C_Bestanddeelnr_919-5889.jpg/330px-De_Russische_Boris_Chaklin_in_aktie_aan_de_ringen%2C_Bestanddeelnr_919-5889.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Shakhlin",
+  "dateOfBirth": "1932-01-27",
+  "birthDateParsed": "1932-01-27",
+  "dateOfDeath": "2008-05-30",
+  "deathDateParsed": "2008-05-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.116666666",
+  "birthCoordinatesLng": "69.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professor",
+    "artistic gymnast"
+  ],
+  "qid": "Q312645",
+  "birthPlace": "Ishim",
+  "fetchedAt": "2026-08-10T12:58:52.525Z"
+}

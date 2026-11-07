@@ -1,0 +1,32 @@
+{
+  "publicId": "3404dcec",
+  "wikipediaSlug": "Fernando_J._Corbató",
+  "wikipediaId": "Q92625",
+  "name": "Fernando J. Corbató",
+  "fullName": "Fernando J. Corbató",
+  "profileSummary": "Fernando José \"Corby\" Corbató was a Spanish-American computer scientist, notable as a pioneer in the development of time-sharing operating systems. He won the 1990 ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fernando_Corbato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_J._Corbat%C3%B3",
+  "dateOfBirth": "1926-07-01",
+  "birthDateParsed": "1926-07-01",
+  "dateOfDeath": "2019-07-12",
+  "deathDateParsed": "2019-07-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.8",
+  "birthCoordinatesLng": "-122.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q92625",
+  "birthPlace": "Oakland",
+  "fetchedAt": "2026-08-10T04:28:44.722Z"
+}

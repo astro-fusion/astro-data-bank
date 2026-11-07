@@ -1,0 +1,32 @@
+{
+  "publicId": "f9a8a0c9",
+  "wikipediaSlug": "Fernando_Alonso",
+  "wikipediaId": "Q10514",
+  "name": "Fernando Alonso",
+  "fullName": "Fernando Alonso",
+  "profileSummary": "Fernando Alonso Díaz is a Spanish racing driver who competes in Formula One for Aston Martin. Alonso has won two Formula One World Drivers' Championship titles, which he won in 2005 and 2006 with Renault, and has won 32 Grands Prix across 23 seasons. In endurance racing, Alonso won the 2018–19 FIA World Endurance Championship and is a two-time winner of the 24 Hours of Le Mans with Toyota as well as a winner of the 24 Hours of Daytona in 2019 with WTR. He is the only driver to have won both the Formula One World Drivers' Championship and the World Sportscar/World Endurance Drivers' Championship.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Alonso-68_%2824710447098%29.jpg/330px-Alonso-68_%2824710447098%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Alonso",
+  "dateOfBirth": "1981-07-29",
+  "birthDateParsed": "1981-07-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.3625",
+  "birthCoordinatesLng": "-5.850277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "vegetarian"
+  ],
+  "qid": "Q10514",
+  "birthPlace": "Oviedo",
+  "fetchedAt": "2026-08-01T16:01:18.311Z"
+}

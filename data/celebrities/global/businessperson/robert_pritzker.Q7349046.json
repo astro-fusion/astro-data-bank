@@ -1,0 +1,32 @@
+{
+  "publicId": "1cf73713",
+  "wikipediaSlug": "Robert_Pritzker",
+  "wikipediaId": "Q7349046",
+  "name": "Robert Pritzker",
+  "fullName": "Robert Pritzker",
+  "profileSummary": "Robert Alan Pritzker was an American businessman and member of the wealthy Pritzker family.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Pritzker",
+  "dateOfBirth": "1926-06-30",
+  "birthDateParsed": "1926-06-30",
+  "dateOfDeath": "2011-10-27",
+  "deathDateParsed": "2011-10-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "engineer"
+  ],
+  "qid": "Q7349046",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-04T03:35:14.103Z"
+}

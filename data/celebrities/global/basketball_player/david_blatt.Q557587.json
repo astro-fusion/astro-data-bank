@@ -1,0 +1,33 @@
+{
+  "publicId": "318d9ffa",
+  "wikipediaSlug": "David_Blatt",
+  "wikipediaId": "Q557587",
+  "name": "David Blatt",
+  "fullName": "David Blatt",
+  "profileSummary": "David Michael Blatt is an Israeli-American professional basketball executive. He is also a former coach and player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/David_Blatt_Cavs_2014.jpg/330px-David_Blatt_Cavs_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Blatt",
+  "dateOfBirth": "1959-05-22",
+  "birthDateParsed": "1959-05-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "coach"
+  ],
+  "qid": "Q557587",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-01T15:36:26.528Z"
+}

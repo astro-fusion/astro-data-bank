@@ -1,0 +1,40 @@
+{
+  "publicId": "d405edae",
+  "wikipediaSlug": "John_McCain",
+  "wikipediaId": "Q10390",
+  "name": "John McCain",
+  "fullName": "John McCain",
+  "profileSummary": "John Sidney McCain III was an American politician and naval officer who represented Arizona in the United States Congress for over 35 years, first as a U.S. representative from 1983 to 1987, then as a U.S. senator from 1987 until his death in 2018. A member of the Republican Party, he was the party's nominee in the 2008 presidential election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/John_McCain_official_portrait_2009_%283x4_cropped%29.jpg/330px-John_McCain_official_portrait_2009_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_McCain",
+  "dateOfBirth": "1936-08-29",
+  "birthDateParsed": "1936-08-29",
+  "dateOfDeath": "2018-08-25",
+  "deathDateParsed": "2018-08-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "9.372619444",
+  "birthCoordinatesLng": "-79.8812",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "naval officer",
+    "autobiographer",
+    "fighter pilot",
+    "aircraft pilot",
+    "screenwriter",
+    "writer",
+    "author",
+    "television presenter",
+    "soldier"
+  ],
+  "qid": "Q10390",
+  "birthPlace": "Coco Solo",
+  "fetchedAt": "2026-08-02T02:17:27.462Z"
+}

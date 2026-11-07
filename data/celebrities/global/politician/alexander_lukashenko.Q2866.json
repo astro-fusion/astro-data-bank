@@ -1,0 +1,35 @@
+{
+  "publicId": "3f911519",
+  "wikipediaSlug": "Alexander_Lukashenko",
+  "wikipediaId": "Q2866",
+  "name": "Alexander Lukashenko",
+  "fullName": "Alexander Lukashenko",
+  "profileSummary": "Alexander Grigoryevich Lukashenko is a Belarusian politician and statesman who has been the first and only president of Belarus since the office's establishment in 1994, making him the current longest-tenured European president.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alexander_Lukashenko_%2814-03-2025%29_%283x4_cropped_2%29.jpg/330px-Alexander_Lukashenko_%2814-03-2025%29_%283x4_cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Lukashenko",
+  "dateOfBirth": "1954-08-30",
+  "birthDateParsed": "1954-08-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.321388888",
+  "birthCoordinatesLng": "30.286944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "director",
+    "political commissar",
+    "teacher",
+    "economist"
+  ],
+  "qid": "Q2866",
+  "birthPlace": "Kopyś",
+  "fetchedAt": "2026-08-03T16:49:22.823Z"
+}

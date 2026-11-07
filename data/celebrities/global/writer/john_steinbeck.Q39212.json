@@ -1,0 +1,36 @@
+{
+  "publicId": "ac6adbfc",
+  "wikipediaSlug": "John_Steinbeck",
+  "wikipediaId": "Q39212",
+  "name": "John Steinbeck",
+  "fullName": "John Steinbeck",
+  "profileSummary": "John Ernst Steinbeck was an American writer and novelist. He won the 1962 Nobel Prize in Literature \"for his realistic and imaginative writings, combining as they do sympathetic humor and keen social perception\". He has been called \"a giant of American letters\". One of the most widely read authors of the 20th century, he was also an independent journalist and war correspondent during World War II and the Vietnam War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/John_Steinbeck_1939_%28cropped%29.jpg/330px-John_Steinbeck_1939_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Steinbeck",
+  "dateOfBirth": "1902-02-27",
+  "birthDateParsed": "1902-02-27",
+  "dateOfDeath": "1968-12-20",
+  "deathDateParsed": "1968-12-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.677777777",
+  "birthCoordinatesLng": "-121.655555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "screenwriter",
+    "war correspondent",
+    "novelist",
+    "scientific collector",
+    "prose writer"
+  ],
+  "qid": "Q39212",
+  "birthPlace": "Salinas",
+  "fetchedAt": "2026-08-06T07:41:36.063Z"
+}

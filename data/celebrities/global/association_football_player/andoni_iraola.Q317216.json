@@ -1,0 +1,32 @@
+{
+  "publicId": "e5bce755",
+  "wikipediaSlug": "Andoni_Iraola",
+  "wikipediaId": "Q317216",
+  "name": "Andoni Iraola",
+  "fullName": "Andoni Iraola",
+  "profileSummary": "Andoni Iraola Sagarna is a Spanish professional football manager and former player who is the head coach of Premier League club Liverpool.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Andoni_Iraola_2023.jpg/330px-Andoni_Iraola_2023.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andoni_Iraola",
+  "dateOfBirth": "1982-06-22",
+  "birthDateParsed": "1982-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.266666666",
+  "birthCoordinatesLng": "-2.05",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q317216",
+  "birthPlace": "Usurbil",
+  "fetchedAt": "2026-08-01T05:19:55.155Z"
+}

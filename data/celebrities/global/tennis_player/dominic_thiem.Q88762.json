@@ -1,0 +1,31 @@
+{
+  "publicId": "de9ad441",
+  "wikipediaSlug": "Dominic_Thiem",
+  "wikipediaId": "Q88762",
+  "name": "Dominic Thiem",
+  "fullName": "Dominic Thiem",
+  "profileSummary": "Dominic Thiem is an Austrian former professional tennis player. He was ranked world No. 3 in singles by the Association of Tennis Professionals, achieved in March 2020. Thiem won 17 ATP Tour-level singles titles, including a major at the 2020 US Open. He was also runner-up at three other majors, and at the 2019 and 2020 ATP Finals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Thiem_MCM23_%2861%29_%2852883593873%29.jpg/330px-Thiem_MCM23_%2861%29_%2852883593873%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominic_Thiem",
+  "dateOfBirth": "1993-09-03",
+  "birthDateParsed": "1993-09-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.816666666",
+  "birthCoordinatesLng": "16.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q88762",
+  "birthPlace": "Wiener Neustadt",
+  "fetchedAt": "2026-08-01T13:11:30.983Z"
+}

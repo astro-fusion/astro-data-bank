@@ -1,0 +1,32 @@
+{
+  "publicId": "fb283d6e",
+  "wikipediaSlug": "Alan_Pierson",
+  "wikipediaId": "Q4707525",
+  "name": "Alan Pierson",
+  "fullName": "Alan Pierson",
+  "profileSummary": "Alan Emanuel Pierson is an American conductor and producer. His parents are Elaine Pierson and Edward S. Pierson, the latter an engineering professor at Purdue University Calumet. In Chicago Pierson took piano and composition lessons at the People's Music School, graduating high school at Francis W. Parker. Pierson is a 1996 graduate of the Massachusetts Institute of Technology with degrees in music and physics. At MIT, he was a timpanist and an assistant conductor with the MIT Symphony Orchestra, and also a composer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Alan-pierson.jpg/330px-Alan-pierson.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Pierson",
+  "dateOfBirth": "1974-05-12",
+  "birthDateParsed": "1974-05-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "conductor",
+    "musician"
+  ],
+  "qid": "Q4707525",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-05T03:15:03.283Z"
+}

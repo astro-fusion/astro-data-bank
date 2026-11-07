@@ -1,0 +1,32 @@
+{
+  "publicId": "ee850c98",
+  "wikipediaSlug": "Colin_Gregory",
+  "wikipediaId": "Q722768",
+  "name": "Colin Gregory",
+  "fullName": "Colin Gregory",
+  "profileSummary": "Doctor John Colin Gregory was an amateur British tennis player, best remembered for winning the Australian Open in 1929.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Colin_Gregory_1932.jpg/330px-Colin_Gregory_1932.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colin_Gregory",
+  "dateOfBirth": "1903-07-28",
+  "birthDateParsed": "1903-07-28",
+  "dateOfDeath": "1959-01-10",
+  "deathDateParsed": "1959-01-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.8425488",
+  "birthCoordinatesLng": "-0.4315677",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "physician"
+  ],
+  "qid": "Q722768",
+  "birthPlace": "Beverley",
+  "fetchedAt": "2026-08-01T13:10:51.962Z"
+}

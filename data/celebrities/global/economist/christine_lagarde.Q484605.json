@@ -1,0 +1,36 @@
+{
+  "publicId": "8eab4802",
+  "wikipediaSlug": "Christine_Lagarde",
+  "wikipediaId": "Q484605",
+  "name": "Christine Lagarde",
+  "fullName": "Christine Lagarde",
+  "profileSummary": "Christine Madeleine Odette Lagarde is a French politician and lawyer who has been the president of the European Central Bank since 2019. She previously served as the 11th Managing Director of the International Monetary Fund (IMF) from 2011 to 2019. Lagarde had also served in the Government of France, most prominently as Minister of the Economy, Finance and Industry from 2007 until 2011. She is the first woman to hold each of those posts.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lagarde_ECB_Portrait_2019.jpg/330px-Lagarde_ECB_Portrait_2019.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christine_Lagarde",
+  "dateOfBirth": "1956-01-01",
+  "birthDateParsed": "1956-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.878280555",
+  "birthCoordinatesLng": "2.336966666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "lawyer",
+    "diplomat",
+    "politician",
+    "banker",
+    "athlete"
+  ],
+  "qid": "Q484605",
+  "birthPlace": "9th arrondissement of Paris",
+  "fetchedAt": "2026-08-03T15:52:04.542Z"
+}

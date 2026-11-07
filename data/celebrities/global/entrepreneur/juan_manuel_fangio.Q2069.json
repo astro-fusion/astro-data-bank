@@ -1,0 +1,33 @@
+{
+  "publicId": "48ae99d5",
+  "wikipediaSlug": "Juan_Manuel_Fangio",
+  "wikipediaId": "Q2069",
+  "name": "Juan Manuel Fangio",
+  "fullName": "Juan Manuel Fangio",
+  "profileSummary": "Juan Manuel Fangio was an Argentine racing driver, who competed in Formula One from 1950 to 1958. Nicknamed \"el Chueco\" and \"el Maestro\", Fangio won five Formula One World Drivers' Championship titles and—at the time of his retirement—held the record for most wins (24), pole positions (29), fastest laps (23), and podium finishes (35), among others.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fangio_in_1955_%28cropped%29.jpg/330px-Fangio_in_1955_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
+  "dateOfBirth": "1911-06-24",
+  "birthDateParsed": "1911-06-24",
+  "dateOfDeath": "1995-07-17",
+  "deathDateParsed": "1995-07-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.846412222",
+  "birthCoordinatesLng": "-58.255625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q2069",
+  "birthPlace": "Balcarce",
+  "fetchedAt": "2026-08-01T16:01:32.293Z"
+}

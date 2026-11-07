@@ -1,0 +1,33 @@
+{
+  "publicId": "02e68a4a",
+  "wikipediaSlug": "Alan_Pardew",
+  "wikipediaId": "Q360491",
+  "name": "Alan Pardew",
+  "fullName": "Alan Pardew",
+  "profileSummary": "Alan Scott Pardew is an English football manager and former professional footballer, who most recently managed Greek Super League club Aris Thessaloniki.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alan_Pardew.jpg/330px-Alan_Pardew.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Pardew",
+  "dateOfBirth": "1961-07-18",
+  "birthDateParsed": "1961-07-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4235",
+  "birthCoordinatesLng": "-0.2171",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "sports commentator"
+  ],
+  "qid": "Q360491",
+  "birthPlace": "Wimbledon",
+  "fetchedAt": "2026-08-01T05:19:55.890Z"
+}

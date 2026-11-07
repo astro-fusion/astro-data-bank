@@ -1,0 +1,31 @@
+{
+  "publicId": "3db04f54",
+  "wikipediaSlug": "Frank_Parker_(tennis)",
+  "wikipediaId": "Q963755",
+  "name": "Frank Parker (tennis)",
+  "fullName": "Frank Parker (tennis)",
+  "profileSummary": "Frank Andrew Parker was an amateur & later professional American male tennis player of Polish immigrant parents who was active in the 1930s and 1940s. He won four Grand Slam singles titles as well as three doubles titles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Frank_Parker_1944.jpg/330px-Frank_Parker_1944.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Parker_(tennis)",
+  "dateOfBirth": "1916-01-31",
+  "birthDateParsed": "1916-01-31",
+  "dateOfDeath": "1997-07-24",
+  "deathDateParsed": "1997-07-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.05",
+  "birthCoordinatesLng": "-87.95",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q963755",
+  "birthPlace": "Milwaukee",
+  "fetchedAt": "2026-08-01T13:11:24.936Z"
+}

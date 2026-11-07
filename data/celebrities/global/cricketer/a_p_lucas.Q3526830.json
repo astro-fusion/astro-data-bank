@@ -1,0 +1,31 @@
+{
+  "publicId": "8f0615cd",
+  "wikipediaSlug": "A._P._Lucas",
+  "wikipediaId": "Q3526830",
+  "name": "A. P. Lucas",
+  "fullName": "A. P. Lucas",
+  "profileSummary": "Alfred Perry \"Bunny\" Lucas was an English first-class cricketer from 1874 to 1907, playing for Cambridge University, Surrey, Middlesex and Essex. He also played five Test matches for the England cricket team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/AP_Lucas.jpg/330px-AP_Lucas.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._P._Lucas",
+  "dateOfBirth": "1857-02-20",
+  "birthDateParsed": "1857-02-20",
+  "dateOfDeath": "1923-10-12",
+  "deathDateParsed": "1923-10-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4995",
+  "birthCoordinatesLng": "-0.1333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526830",
+  "birthPlace": "Westminster",
+  "fetchedAt": "2026-07-31T20:07:22.260Z"
+}

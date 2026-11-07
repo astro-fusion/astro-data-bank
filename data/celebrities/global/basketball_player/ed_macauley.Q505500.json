@@ -1,0 +1,32 @@
+{
+  "publicId": "9b8373f4",
+  "wikipediaSlug": "Ed_Macauley",
+  "wikipediaId": "Q505500",
+  "name": "Ed Macauley",
+  "fullName": "Ed Macauley",
+  "profileSummary": "Charles Edward Macauley was a professional basketball player and coach. His playing nickname was \"Easy Ed\". Macauley played in the National Basketball Association (NBA) from 1949 to 1959 for the St. Louis Bombers, Boston Celtics, and St. Louis Hawks. During his career, Macauley earned seven All-Star selections and won a championship with the Hawks in 1958. He played college basketball for Saint Louis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ed_macauley_1948_photo_cropped.jpg/330px-Ed_macauley_1948_photo_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ed_Macauley",
+  "dateOfBirth": "1928-03-22",
+  "birthDateParsed": "1928-03-22",
+  "dateOfDeath": "2011-11-08",
+  "deathDateParsed": "2011-11-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.626388888",
+  "birthCoordinatesLng": "-90.199444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q505500",
+  "birthPlace": "St. Louis",
+  "fetchedAt": "2026-08-01T15:37:51.952Z"
+}

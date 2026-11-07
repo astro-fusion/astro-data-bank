@@ -1,0 +1,32 @@
+{
+  "publicId": "17c18425",
+  "wikipediaSlug": "Ethel_Thomson_Larcombe",
+  "wikipediaId": "Q267352",
+  "name": "Ethel Thomson Larcombe",
+  "fullName": "Ethel Thomson Larcombe",
+  "profileSummary": " Ethel Larcombe  was a British female tennis player and badminton player. She won the ladies' singles tennis title at the 1912 Wimbledon Championships as well as 11 badminton titles at the All England Badminton Championships.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ethel_Thomson_Larcombe.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ethel_Thomson_Larcombe",
+  "dateOfBirth": "1879-06-08",
+  "birthDateParsed": "1879-06-08",
+  "dateOfDeath": "1965-08-11",
+  "deathDateParsed": "1965-08-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.544",
+  "birthCoordinatesLng": "-0.1027",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "badminton player"
+  ],
+  "qid": "Q267352",
+  "birthPlace": "Islington",
+  "fetchedAt": "2026-08-01T14:59:20.648Z"
+}

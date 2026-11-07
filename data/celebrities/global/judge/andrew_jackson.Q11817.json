@@ -1,0 +1,36 @@
+{
+  "publicId": "ef711521",
+  "wikipediaSlug": "Andrew_Jackson",
+  "wikipediaId": "Q11817",
+  "name": "Andrew Jackson",
+  "fullName": "Andrew Jackson",
+  "profileSummary": "Andrew Jackson was the seventh president of the United States from 1829 to 1837. He rose to fame as a U.S. Army general and served in both houses of the U.S. Congress. His political philosophy, which dominated his presidency, became the basis for the rise of Jacksonian democracy. His legacy is controversial: being praised as an advocate for white working Americans and preserving the union of states, and criticized for his racist policies, particularly towards Native Americans.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Andrew_jackson_head_%28cropped%29.jpg/330px-Andrew_jackson_head_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+  "dateOfBirth": "1767-03-15",
+  "birthDateParsed": "1767-03-15",
+  "dateOfDeath": "1845-06-08",
+  "deathDateParsed": "1845-06-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.925866694",
+  "birthCoordinatesLng": "-80.745897194",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "lawyer",
+    "politician",
+    "army officer",
+    "statesperson",
+    "governor"
+  ],
+  "qid": "Q11817",
+  "birthPlace": "Waxhaws",
+  "fetchedAt": "2026-08-01T18:07:38.718Z"
+}

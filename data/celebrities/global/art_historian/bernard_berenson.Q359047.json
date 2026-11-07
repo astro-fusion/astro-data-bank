@@ -1,0 +1,37 @@
+{
+  "publicId": "2e0e4693",
+  "wikipediaSlug": "Bernard_Berenson",
+  "wikipediaId": "Q359047",
+  "name": "Bernard Berenson",
+  "fullName": "Bernard Berenson",
+  "profileSummary": "Bernard Berenson was an American art historian specializing in the Renaissance. His book The Drawings of the Florentine Painters was an international success. His wife Mary is thought to have had a large hand in some of the writings.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/1917_Bernard_Berenson.jpg/330px-1917_Bernard_Berenson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_Berenson",
+  "dateOfBirth": "1865-06-26",
+  "birthDateParsed": "1865-06-26",
+  "dateOfDeath": "1959-10-06",
+  "deathDateParsed": "1959-10-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.687222222",
+  "birthCoordinatesLng": "25.28",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "art historian",
+    "historian",
+    "writer",
+    "art critic",
+    "connoisseur",
+    "art collector",
+    "photography collector"
+  ],
+  "qid": "Q359047",
+  "birthPlace": "Vilnius",
+  "fetchedAt": "2026-08-05T02:43:54.138Z"
+}

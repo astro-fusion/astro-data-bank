@@ -1,0 +1,31 @@
+{
+  "publicId": "b091c5f0",
+  "wikipediaSlug": "Harry_Markowitz",
+  "wikipediaId": "Q272508",
+  "name": "Harry Markowitz",
+  "fullName": "Harry Markowitz",
+  "profileSummary": "Harry Max Markowitz was an American economist who received the 1989 John von Neumann Theory Prize and the 1990 Nobel Memorial Prize in Economic Sciences.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Markowitz",
+  "dateOfBirth": "1927-08-24",
+  "birthDateParsed": "1927-08-24",
+  "dateOfDeath": "2023-06-22",
+  "deathDateParsed": "2023-06-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist"
+  ],
+  "qid": "Q272508",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-10T09:43:19.120Z"
+}

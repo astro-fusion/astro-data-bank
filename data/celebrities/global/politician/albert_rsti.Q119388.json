@@ -1,0 +1,31 @@
+{
+  "publicId": "09f7297c",
+  "wikipediaSlug": "Albert_Rösti",
+  "wikipediaId": "Q119388",
+  "name": "Albert Rösti",
+  "fullName": "Albert Rösti",
+  "profileSummary": "Albert Rösti is a Swiss businessman, lobbyist and politician who has been a Member of the Swiss Federal Council since 1 January 2023. He previously presided over the Swiss People's Party (SVP/UDC) from 2016 to 2020 and served as a member of the National Council for the canton of Bern from 2011 until 2022. Rösti resides in Uetendorf near Thun.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Albert_R%C3%B6sti_%282026%29_%28cropped%29.jpg/330px-Albert_R%C3%B6sti_%282026%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_R%C3%B6sti",
+  "dateOfBirth": "1967-08-08",
+  "birthDateParsed": "1967-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.583055555",
+  "birthCoordinatesLng": "7.649722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q119388",
+  "birthPlace": "Frutigen",
+  "fetchedAt": "2026-08-03T16:49:39.272Z"
+}

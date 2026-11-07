@@ -1,0 +1,37 @@
+{
+  "publicId": "87f4d7a9",
+  "wikipediaSlug": "Anousheh_Ansari",
+  "wikipediaId": "Q17519",
+  "name": "Anousheh Ansari",
+  "fullName": "Anousheh Ansari",
+  "profileSummary": "Anousheh Ansari is an Iranian-American engineer, space tourist, and entrepreneur. Anousheh Ansari is the CEO of XPRIZE Foundation. Ansari and her family sponsored XPRIZE’s first venture in 1994: the $10 million Ansari XPRIZE. Prior to XPRIZE, Ansari served as the CEO and Chairwoman of Prodea Systems, a leading Internet of Things (IoT) technology firm she co-founded in 2006. While under her leadership, the company earned recognition as one of Inc. Magazine’s 500 fastest-growing companies and Deloitte & Touche’s Fast 500 technology companies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AnoushehAnsari.jpg/330px-AnoushehAnsari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anousheh_Ansari",
+  "dateOfBirth": "1966-09-12",
+  "birthDateParsed": "1966-09-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.297494444",
+  "birthCoordinatesLng": "59.605923055",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "astronaut",
+    "engineer",
+    "astronomer",
+    "entrepreneur",
+    "space tourist",
+    "business executive"
+  ],
+  "qid": "Q17519",
+  "birthPlace": "Mashhad",
+  "fetchedAt": "2026-08-10T06:03:39.341Z"
+}

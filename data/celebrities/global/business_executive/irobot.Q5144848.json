@@ -1,0 +1,32 @@
+{
+  "publicId": "89262094",
+  "wikipediaSlug": "Colin_Angle",
+  "wikipediaId": "Q5144848",
+  "name": "IRobot",
+  "fullName": "IRobot",
+  "profileSummary": "iRobot Corporation is an American technology company that designs and builds consumer robots. It was founded in 1990 by three members of MIT's Artificial Intelligence Lab, who designed robots for space exploration and military defense. The company's products include a range of autonomous home vacuum cleaners (Roomba), floor moppers, and other autonomous cleaning devices.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Irobotheadquarters.jpg/330px-Irobotheadquarters.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/IRobot",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "business executive",
+    "roboticist"
+  ],
+  "qid": "Q5144848",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:16:44.788Z"
+}

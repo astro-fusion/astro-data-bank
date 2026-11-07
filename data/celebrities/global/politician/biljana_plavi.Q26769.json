@@ -1,0 +1,32 @@
+{
+  "publicId": "926cfcfc",
+  "wikipediaSlug": "Biljana_Plavšić",
+  "wikipediaId": "Q26769",
+  "name": "Biljana Plavšić",
+  "fullName": "Biljana Plavšić",
+  "profileSummary": "Biljana Plavšić is a Bosnian Serb former politician, university professor and scientist who served as President of Republika Srpska and was later convicted of crimes against humanity for her role in the Bosnian War. Before entering politics, she taught biology at the University of Sarajevo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Biljana_Plavsic.JPG/330px-Biljana_Plavsic.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Biljana_Plav%C5%A1i%C4%87",
+  "dateOfBirth": "1930-07-07",
+  "birthDateParsed": "1930-07-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.5391105",
+  "birthCoordinatesLng": "18.675193",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q26769",
+  "birthPlace": "Tuzla",
+  "fetchedAt": "2026-08-04T00:54:47.015Z"
+}

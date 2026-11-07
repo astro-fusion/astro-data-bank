@@ -1,0 +1,31 @@
+{
+  "publicId": "46ff7dd1",
+  "wikipediaSlug": "Charles_Mills_(South_African_cricketer)",
+  "wikipediaId": "Q5080965",
+  "name": "Charles Mills (South African cricketer)",
+  "fullName": "Charles Mills (South African cricketer)",
+  "profileSummary": "Charles Mills was a cricketer who played in one Test match for South Africa in 1892.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/C_Mills_Cricket_1_6_1905_-_Copy.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Mills_(South_African_cricketer)",
+  "dateOfBirth": "1867-11-26",
+  "birthDateParsed": "1867-11-26",
+  "dateOfDeath": "1948-07-26",
+  "deathDateParsed": "1948-07-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5080965",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:22:05.954Z"
+}

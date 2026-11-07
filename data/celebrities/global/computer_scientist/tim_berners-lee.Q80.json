@@ -1,0 +1,38 @@
+{
+  "publicId": "e16a1c18",
+  "wikipediaSlug": "Tim_Berners-Lee",
+  "wikipediaId": "Q80",
+  "name": "Tim Berners-Lee",
+  "fullName": "Tim Berners-Lee",
+  "profileSummary": "Sir Timothy John Berners-Lee, also known as TimBL, is an English computer scientist best known as the inventor of the World Wide Web, HTML, the URL system, and HTTP. He is a professorial research fellow at the University of Oxford and a professor emeritus at the Massachusetts Institute of Technology (MIT).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg/330px-Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+  "dateOfBirth": "1955-06-08",
+  "birthDateParsed": "1955-06-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "physicist",
+    "programmer",
+    "university teacher",
+    "web developer",
+    "engineer",
+    "inventor",
+    "author"
+  ],
+  "qid": "Q80",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T04:29:43.765Z"
+}

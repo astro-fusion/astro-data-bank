@@ -1,0 +1,37 @@
+{
+  "publicId": "8da0cf0e",
+  "wikipediaSlug": "Dan_Shechtman",
+  "wikipediaId": "Q44111",
+  "name": "Dan Shechtman",
+  "fullName": "Dan Shechtman",
+  "profileSummary": "Dan Shechtman is an Israeli chemist, the Philip Tobias Professor of Materials Science at the Technion – Israel Institute of Technology, an Associate of the US Department of Energy's Ames National Laboratory, and Professor of Materials Science at Iowa State University. On April 8, 1982, while on sabbatical at the U.S. National Bureau of Standards in Washington, D.C., Shechtman discovered the icosahedral phase, which opened the new field of quasiperiodic crystals, also referred to as \"quasicrystals.\" For this discovery, he was awarded the 2011 Nobel Prize in Chemistry, making him one of six Israelis who have won the Nobel Prize in Chemistry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nobel_Prize_2011-Nobel_interviews_KVA-DSC_8039.jpg/330px-Nobel_Prize_2011-Nobel_interviews_KVA-DSC_8039.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Shechtman",
+  "dateOfBirth": "1941-01-24",
+  "birthDateParsed": "1941-01-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.08",
+  "birthCoordinatesLng": "34.78",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "chemist",
+    "engineer",
+    "pedagogue",
+    "university teacher",
+    "crystallographer",
+    "materials scientist"
+  ],
+  "qid": "Q44111",
+  "birthPlace": "Tel Aviv",
+  "fetchedAt": "2026-08-10T02:03:37.839Z"
+}

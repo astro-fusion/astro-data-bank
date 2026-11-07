@@ -1,0 +1,35 @@
+{
+  "publicId": "0ad91b89",
+  "wikipediaSlug": "Karl_Adolph_Gjellerup",
+  "wikipediaId": "Q131487",
+  "name": "Karl Adolph Gjellerup",
+  "fullName": "Karl Adolph Gjellerup",
+  "profileSummary": "Karl Adolph Gjellerup was a Danish poet and novelist who together with his compatriot Henrik Pontoppidan won the Nobel Prize in Literature in 1917. He is associated with the Modern Breakthrough period of Scandinavian literature. He occasionally used the pseudonym Epigonos.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karl_Gjellerup.jpg/330px-Karl_Gjellerup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup",
+  "dateOfBirth": "1857-06-02",
+  "birthDateParsed": "1857-06-02",
+  "dateOfDeath": "1919-10-11",
+  "deathDateParsed": "1919-10-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.195",
+  "birthCoordinatesLng": "12.0903",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "novelist",
+    "playwright",
+    "theologian"
+  ],
+  "qid": "Q131487",
+  "birthPlace": "Roholte",
+  "fetchedAt": "2026-08-06T07:42:09.865Z"
+}

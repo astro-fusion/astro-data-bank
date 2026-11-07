@@ -1,0 +1,31 @@
+{
+  "publicId": "1cb4026a",
+  "wikipediaSlug": "Nico_Rosberg",
+  "wikipediaId": "Q75820",
+  "name": "Nico Rosberg",
+  "fullName": "Nico Rosberg",
+  "profileSummary": "Nico Erik Rosberg is a German and Finnish former racing driver, entrepreneur, and broadcaster who competed under the German flag in Formula One from 2006 to 2016. Rosberg won the Formula One World Drivers' Championship in 2016 with Mercedes, and won 23 Grands Prix across 11 seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nico_Rosberg_2016.jpg/330px-Nico_Rosberg_2016.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_Rosberg",
+  "dateOfBirth": "1985-06-27",
+  "birthDateParsed": "1985-06-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0825",
+  "birthCoordinatesLng": "8.24",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver"
+  ],
+  "qid": "Q75820",
+  "birthPlace": "Wiesbaden",
+  "fetchedAt": "2026-08-01T16:01:46.064Z"
+}

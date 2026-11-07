@@ -1,0 +1,35 @@
+{
+  "publicId": "d2528d0d",
+  "wikipediaSlug": "Deke_Slayton",
+  "wikipediaId": "Q336810",
+  "name": "Deke Slayton",
+  "fullName": "Deke Slayton",
+  "profileSummary": "Donald Kent \"Deke\" Slayton was an American Air Force pilot, aeronautical engineer, test pilot, and one of the original Mercury Seven astronauts. He went on to become NASA's first chief of the Astronaut Office and director of Flight Crew Operations, responsible for NASA crew assignments.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Slayton.jpg/330px-Slayton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deke_Slayton",
+  "dateOfBirth": "1924-03-01",
+  "birthDateParsed": "1924-03-01",
+  "dateOfDeath": "1993-06-13",
+  "deathDateParsed": "1993-06-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.943055555",
+  "birthCoordinatesLng": "-90.811666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "air force officer",
+    "test pilot",
+    "astronaut",
+    "autobiographer",
+    "military flight engineer"
+  ],
+  "qid": "Q336810",
+  "birthPlace": "Sparta",
+  "fetchedAt": "2026-08-10T06:04:46.180Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "9579d4aa",
+  "wikipediaSlug": "Reinhard_Selten",
+  "wikipediaId": "Q12830",
+  "name": "Reinhard Selten",
+  "fullName": "Reinhard Selten",
+  "profileSummary": "Reinhard Justus Reginald Selten was a German economist, who won the 1994 Nobel Memorial Prize in Economic Sciences. He is also well known for his work in bounded rationality and can be considered one of the founding fathers of experimental economics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Reinhard_Selten2.jpg/330px-Reinhard_Selten2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Reinhard_Selten",
+  "dateOfBirth": "1930-10-05",
+  "birthDateParsed": "1930-10-05",
+  "dateOfDeath": "2016-08-23",
+  "deathDateParsed": "2016-08-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.11",
+  "birthCoordinatesLng": "17.0325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "mathematician",
+    "Esperantist",
+    "university teacher",
+    "political economist"
+  ],
+  "qid": "Q12830",
+  "birthPlace": "Wrocław",
+  "fetchedAt": "2026-08-10T09:43:56.778Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "25c0976c",
+  "wikipediaSlug": "John_Quincy_Adams",
+  "wikipediaId": "Q11816",
+  "name": "John Quincy Adams",
+  "fullName": "John Quincy Adams",
+  "profileSummary": "John Quincy Adams was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825; minister to Great Britain, Prussia, and Russia; and senator for Massachusetts. After his presidency, Adams uniquely returned to Congress as a member of the lower house, where he died in 1848. He was the eldest son of John Adams, the second president, and First Lady Abigail Adams. Among his children were Charles Francis Adams Sr. Initially a Federalist like his father, Adams spent his presidency as a member of the Democratic-Republican Party, and later, in the mid-1830s, became affiliated with the Whig Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/JQA_Photo_Crop_%28cropped%29.jpg/330px-JQA_Photo_Crop_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+  "dateOfBirth": "1767-07-11",
+  "birthDateParsed": "1767-07-11",
+  "dateOfDeath": "1848-02-23",
+  "deathDateParsed": "1848-02-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.206",
+  "birthCoordinatesLng": "-71.005",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "statesperson",
+    "diarist",
+    "writer",
+    "ambassador",
+    "jurist"
+  ],
+  "qid": "Q11816",
+  "birthPlace": "Braintree",
+  "fetchedAt": "2026-08-01T18:08:03.536Z"
+}

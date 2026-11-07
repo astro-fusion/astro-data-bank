@@ -1,0 +1,31 @@
+{
+  "publicId": "c34f716b",
+  "wikipediaSlug": "Bob_Blair_(cricketer)",
+  "wikipediaId": "Q4931847",
+  "name": "Bob Blair (cricketer)",
+  "fullName": "Bob Blair (cricketer)",
+  "profileSummary": "Robert William Blair was a New Zealand cricketer who played 19 Test matches for national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bob_Blair_cricketer_1956.jpg/330px-Bob_Blair_cricketer_1956.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Blair_(cricketer)",
+  "dateOfBirth": "1932-06-23",
+  "birthDateParsed": "1932-06-23",
+  "dateOfDeath": "2026-06-23",
+  "deathDateParsed": "2026-06-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.225",
+  "birthCoordinatesLng": "174.878",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4931847",
+  "birthPlace": "Petone",
+  "fetchedAt": "2026-07-31T21:01:27.675Z"
+}

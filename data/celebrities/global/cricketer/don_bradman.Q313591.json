@@ -1,0 +1,32 @@
+{
+  "publicId": "a3372502",
+  "wikipediaSlug": "Don_Bradman",
+  "wikipediaId": "Q313591",
+  "name": "Don Bradman",
+  "fullName": "Don Bradman",
+  "profileSummary": "Sir Donald George Bradman, nicknamed \"the Don\", was an Australian international cricketer, widely acknowledged as the greatest batsman of all time. His cricketing successes have been claimed by Shane Warne, among others, to make Bradman the \"greatest sportsperson\" in history. Bradman's career Test batting average of 99.94 is considered by some to be the greatest achievement by any sportsman in any major sport.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Don_Bradman_1930.jpg/330px-Don_Bradman_1930.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_Bradman",
+  "dateOfBirth": "1908-08-27",
+  "birthDateParsed": "1908-08-27",
+  "dateOfDeath": "2001-02-25",
+  "deathDateParsed": "2001-02-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.648333333",
+  "birthCoordinatesLng": "148.0344444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "actor"
+  ],
+  "qid": "Q313591",
+  "birthPlace": "Cootamundra",
+  "fetchedAt": "2026-07-31T19:45:22.607Z"
+}

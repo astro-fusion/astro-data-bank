@@ -1,0 +1,34 @@
+{
+  "publicId": "b4a115ee",
+  "wikipediaSlug": "Pieter_de_Carpentier",
+  "wikipediaId": "Q1347193",
+  "name": "Pieter de Carpentier",
+  "fullName": "Pieter de Carpentier",
+  "profileSummary": "Pieter de Carpentier was a Dutch administrator of the Dutch East India Company (VOC) who served as Governor-General of the Dutch East Indies from 1623 to 1627. The Gulf of Carpentaria in northern Australia is named after him.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pieter_de_Carpentier_adaptation.jpg/330px-Pieter_de_Carpentier_adaptation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pieter_de_Carpentier",
+  "dateOfBirth": "1586-02-19",
+  "birthDateParsed": "1586-02-19",
+  "dateOfDeath": "1659-09-05",
+  "deathDateParsed": "1659-09-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.221111111",
+  "birthCoordinatesLng": "4.399722222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "colonial administrator",
+    "governor"
+  ],
+  "qid": "Q1347193",
+  "placeOfBirth": "Antwerp",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-21T07:59:32.581Z"
+}

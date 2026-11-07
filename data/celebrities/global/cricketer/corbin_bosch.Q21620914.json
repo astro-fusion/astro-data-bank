@@ -1,0 +1,31 @@
+{
+  "publicId": "c02fa18e",
+  "wikipediaSlug": "Corbin_Bosch",
+  "wikipediaId": "Q21620914",
+  "name": "Corbin Bosch",
+  "fullName": "Corbin Bosch",
+  "profileSummary": "Corbin Bosch is a South African cricketer. He played in the 2014 U19 World Cup. He is the son of South African former cricketer Tertius Bosch. He is an all-rounder who usually bats in the middle order.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Corbin_Bosch",
+  "dateOfBirth": "1994-09-10",
+  "birthDateParsed": "1994-09-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.858333333",
+  "birthCoordinatesLng": "31.025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q21620914",
+  "birthPlace": "Durban",
+  "fetchedAt": "2026-07-31T20:21:32.637Z"
+}

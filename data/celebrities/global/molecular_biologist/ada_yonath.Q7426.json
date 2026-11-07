@@ -1,0 +1,37 @@
+{
+  "publicId": "f1e24ec8",
+  "wikipediaSlug": "Ada_Yonath",
+  "wikipediaId": "Q7426",
+  "name": "Ada Yonath",
+  "fullName": "Ada Yonath",
+  "profileSummary": "Ada E. Yonath is an Israeli crystallographer and Nobel laureate in Chemistry, best known for her pioneering work on the structure of ribosomes. She is the current director of the Helen and Milton A. Kimmelman Center for Biomolecular Structure and Assembly of the Weizmann Institute of Science.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ada_Yonath_2013_January_CHF.jpg/330px-Ada_Yonath_2013_January_CHF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ada_Yonath",
+  "dateOfBirth": "1939-06-22",
+  "birthDateParsed": "1939-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.776679",
+  "birthCoordinatesLng": "35.234156",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "molecular biologist",
+    "chemist",
+    "university teacher",
+    "crystallographer",
+    "biochemist",
+    "scientist",
+    "biologist"
+  ],
+  "qid": "Q7426",
+  "birthPlace": "Jerusalem",
+  "fetchedAt": "2026-08-10T02:03:21.136Z"
+}

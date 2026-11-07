@@ -1,0 +1,32 @@
+{
+  "publicId": "fed87784",
+  "wikipediaSlug": "Bob_Holland",
+  "wikipediaId": "Q4932823",
+  "name": "Bob Holland",
+  "fullName": "Bob Holland",
+  "profileSummary": "Robert George Holland was a New South Wales and Australian cricketer. He was, because of his surname, nicknamed \"Dutchy\".",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Holland",
+  "dateOfBirth": "1946-10-19",
+  "birthDateParsed": "1946-10-19",
+  "dateOfDeath": "2017-09-17",
+  "deathDateParsed": "2017-09-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.89",
+  "birthCoordinatesLng": "151.1844444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "surveyor"
+  ],
+  "qid": "Q4932823",
+  "birthPlace": "Camperdown",
+  "fetchedAt": "2026-07-31T19:44:39.433Z"
+}

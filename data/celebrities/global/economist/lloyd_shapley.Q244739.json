@@ -1,0 +1,35 @@
+{
+  "publicId": "a707989e",
+  "wikipediaSlug": "Lloyd_Shapley",
+  "wikipediaId": "Q244739",
+  "name": "Lloyd Shapley",
+  "fullName": "Lloyd Shapley",
+  "profileSummary": "Lloyd Stowell Shapley was an American mathematician and Nobel Memorial Prize-winning economist. He contributed to the fields of mathematical economics and especially game theory. Shapley is generally considered one of the most important contributors to the development of game theory since the work of von Neumann and Morgenstern. With Alvin E. Roth, Shapley won the 2012 Nobel Memorial Prize in Economic Sciences \"for the theory of stable allocations and the practice of market design.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Shapley%2C_Lloyd_%281980%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lloyd_Shapley",
+  "dateOfBirth": "1923-06-02",
+  "birthDateParsed": "1923-06-02",
+  "dateOfDeath": "2016-03-12",
+  "deathDateParsed": "2016-03-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.375",
+  "birthCoordinatesLng": "-71.106111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "mathematician",
+    "university teacher",
+    "statistician",
+    "game theorist"
+  ],
+  "qid": "Q244739",
+  "birthPlace": "Cambridge",
+  "fetchedAt": "2026-08-10T09:43:46.232Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "219f9f46",
+  "wikipediaSlug": "Dennis_Johnson",
+  "wikipediaId": "Q352162",
+  "name": "Dennis Johnson",
+  "fullName": "Dennis Johnson",
+  "profileSummary": "Dennis Wayne Johnson, nicknamed \"DJ\", was an American professional basketball player for the National Basketball Association's (NBA) Seattle SuperSonics, Phoenix Suns, and Boston Celtics. He was a coach of the Los Angeles Clippers and an alumnus of Dominguez High School, Los Angeles Harbor College and Pepperdine University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dennis_Johnson_Lipofsky.jpg/330px-Dennis_Johnson_Lipofsky.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Johnson",
+  "dateOfBirth": "1954-09-18",
+  "birthDateParsed": "1954-09-18",
+  "dateOfDeath": "2007-02-22",
+  "deathDateParsed": "2007-02-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.74",
+  "birthCoordinatesLng": "-118.29",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q352162",
+  "birthPlace": "San Pedro",
+  "fetchedAt": "2026-08-01T15:36:56.237Z"
+}

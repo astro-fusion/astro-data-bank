@@ -1,0 +1,32 @@
+{
+  "publicId": "ca06efdc",
+  "wikipediaSlug": "Roger_Myerson",
+  "wikipediaId": "Q232949",
+  "name": "Roger Myerson",
+  "fullName": "Roger Myerson",
+  "profileSummary": "Roger Bruce Myerson is an American economist and a Distinguished Service Professor at the University of Chicago's Harris School of Public Policy. In 2007, he was the winner of the Nobel Memorial Prize in Economic Sciences with Leonid Hurwicz and Eric Maskin for \"having laid the foundations of mechanism design theory\". He was elected a Member of the American Philosophical Society in 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Myerson_roger_b_print.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roger_Myerson",
+  "dateOfBirth": "1951-03-29",
+  "birthDateParsed": "1951-03-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "mathematician"
+  ],
+  "qid": "Q232949",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T09:44:07.920Z"
+}

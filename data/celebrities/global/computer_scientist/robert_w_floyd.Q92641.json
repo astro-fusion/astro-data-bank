@@ -1,0 +1,33 @@
+{
+  "publicId": "16d6a50f",
+  "wikipediaSlug": "Robert_W._Floyd",
+  "wikipediaId": "Q92641",
+  "name": "Robert W. Floyd",
+  "fullName": "Robert W. Floyd",
+  "profileSummary": "Robert W. Floyd was an American computer scientist. His contributions include the design of the Floyd–Warshall algorithm, which efficiently finds all shortest paths in a graph and his work on parsing; Floyd's cycle-finding algorithm for detecting cycles in a sequence was attributed to him as well. In one isolated paper he introduced the important concept of error diffusion for rendering images, also called Floyd–Steinberg dithering. He pioneered in the field of program verification using logical assertions with the 1967 paper Assigning Meanings to Programs. This was a contribution to what later became Hoare logic. Floyd received the Turing Award in 1978.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Robert_W._Floyd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_W._Floyd",
+  "dateOfBirth": "1936-06-08",
+  "birthDateParsed": "1936-06-08",
+  "dateOfDeath": "2001-09-25",
+  "deathDateParsed": "2001-09-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q92641",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T04:29:30.687Z"
+}

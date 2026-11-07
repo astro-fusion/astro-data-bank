@@ -1,0 +1,33 @@
+{
+  "publicId": "ee8e0e3b",
+  "wikipediaSlug": "David_Wheeler_(computer_scientist)",
+  "wikipediaId": "Q92944",
+  "name": "David Wheeler (computer scientist)",
+  "fullName": "David Wheeler (computer scientist)",
+  "profileSummary": "David John Wheeler was an English computer scientist and professor of computer science at the University of Cambridge.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/EDSAC_%2814%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Wheeler_(computer_scientist)",
+  "dateOfBirth": "1927-02-09",
+  "birthDateParsed": "1927-02-09",
+  "dateOfDeath": "2004-12-13",
+  "deathDateParsed": "2004-12-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cryptographer",
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q92944",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-08-10T04:28:26.717Z"
+}

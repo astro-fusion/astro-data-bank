@@ -1,0 +1,32 @@
+{
+  "publicId": "abee0f7f",
+  "wikipediaSlug": "Arnie_Sidebottom",
+  "wikipediaId": "Q4794821",
+  "name": "Arnie Sidebottom",
+  "fullName": "Arnie Sidebottom",
+  "profileSummary": "Arnold Sidebottom is an English former footballer and cricketer, who played cricket for Yorkshire and played one Test match for England.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnie_Sidebottom",
+  "dateOfBirth": "1954-04-01",
+  "birthDateParsed": "1954-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.54899979",
+  "birthCoordinatesLng": "-1.48998365",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "cricketer"
+  ],
+  "qid": "Q4794821",
+  "birthPlace": "Shaw Lands",
+  "fetchedAt": "2026-07-31T20:09:00.501Z"
+}

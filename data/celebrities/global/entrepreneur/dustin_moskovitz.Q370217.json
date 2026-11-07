@@ -1,0 +1,32 @@
+{
+  "publicId": "42a89bcc",
+  "wikipediaSlug": "Dustin_Moskovitz",
+  "wikipediaId": "Q370217",
+  "name": "Dustin Moskovitz",
+  "fullName": "Dustin Moskovitz",
+  "profileSummary": "Dustin Aaron Moskovitz is an American internet entrepreneur who co-founded the social media service Facebook and its parent company Meta Platforms with Mark Zuckerberg, Eduardo Saverin, Andrew McCollum and Chris Hughes. In 2008, he left Facebook to co-found Asana with Justin Rosenstein. In March 2011, Forbes reported Moskovitz to be the youngest self-made billionaire in the world, on the basis of his then 2.34% share in Facebook. According to Forbes, as of April 2026, Moskovitz's estimated net worth stood at US$10.2 billion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dustin_Moskovitz_Headshot.jpg/330px-Dustin_Moskovitz_Headshot.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dustin_Moskovitz",
+  "dateOfBirth": "1984-05-22",
+  "birthDateParsed": "1984-05-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.665277777",
+  "birthCoordinatesLng": "-82.336111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "computer scientist"
+  ],
+  "qid": "Q370217",
+  "birthPlace": "Gainesville",
+  "fetchedAt": "2026-08-04T03:34:14.613Z"
+}

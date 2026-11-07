@@ -1,0 +1,38 @@
+{
+  "publicId": "d375bd0d",
+  "wikipediaSlug": "John_Roberts",
+  "wikipediaId": "Q11153",
+  "name": "John Roberts",
+  "fullName": "John Roberts",
+  "profileSummary": "John Glover Roberts Jr. is an American jurist who has served since 2005 as the 17th chief justice of the United States. Though primarily an institutionalist, he has been described as having a moderate conservative judicial philosophy. Regarded as a swing vote in some cases, Roberts has presided over an ideological shift toward conservative jurisprudence on the high court, in which he has authored key opinions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Official_roberts_CJ.jpg/330px-Official_roberts_CJ.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Roberts",
+  "dateOfBirth": "1955-01-27",
+  "birthDateParsed": "1955-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.886388888",
+  "birthCoordinatesLng": "-78.878055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jurist",
+    "judge",
+    "lawyer",
+    "politician",
+    "art historian",
+    "art theorist",
+    "teacher",
+    "academic"
+  ],
+  "qid": "Q11153",
+  "birthPlace": "Buffalo",
+  "fetchedAt": "2026-08-03T15:52:27.490Z"
+}

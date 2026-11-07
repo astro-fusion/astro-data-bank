@@ -1,0 +1,35 @@
+{
+  "publicId": "702da4f8",
+  "wikipediaSlug": "Leslie_Lamport",
+  "wikipediaId": "Q92613",
+  "name": "Leslie Lamport",
+  "fullName": "Leslie Lamport",
+  "profileSummary": "Leslie Barry Lamport is an American computer scientist and mathematician. Lamport is best known for his seminal work in distributed systems, and as the initial developer of the document preparation system LaTeX and the author of its first manual.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leslie_Lamport.jpg/330px-Leslie_Lamport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leslie_Lamport",
+  "dateOfBirth": "1941-02-07",
+  "birthDateParsed": "1941-02-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "programmer",
+    "engineer",
+    "writer"
+  ],
+  "qid": "Q92613",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T04:28:57.891Z"
+}

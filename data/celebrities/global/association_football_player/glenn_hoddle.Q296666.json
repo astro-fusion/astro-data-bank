@@ -1,0 +1,32 @@
+{
+  "publicId": "7db3f68f",
+  "wikipediaSlug": "Glenn_Hoddle",
+  "wikipediaId": "Q296666",
+  "name": "Glenn Hoddle",
+  "fullName": "Glenn Hoddle",
+  "profileSummary": "Glenn Hoddle is an English former football player and manager. He works as a television pundit and commentator for ITV Sport and TNT Sports.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Glenn_Hoddle_2014_%28cropped%29.jpg/330px-Glenn_Hoddle_2014_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Glenn_Hoddle",
+  "dateOfBirth": "1957-10-27",
+  "birthDateParsed": "1957-10-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5127",
+  "birthCoordinatesLng": "-0.4211",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q296666",
+  "birthPlace": "Hayes",
+  "fetchedAt": "2026-08-01T05:21:35.206Z"
+}

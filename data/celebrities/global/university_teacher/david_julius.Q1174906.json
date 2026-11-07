@@ -1,0 +1,33 @@
+{
+  "publicId": "bf7a4f60",
+  "wikipediaSlug": "David_Julius",
+  "wikipediaId": "Q1174906",
+  "name": "David Julius",
+  "fullName": "David Julius",
+  "profileSummary": "David Jay Julius is an American physiologist and Nobel Prize laureate known for his work on molecular mechanisms of pain sensation and heat, including the characterization of the TRPV1 and TRPM8 receptors that detect capsaicin, menthol, and temperature. He is a professor at the University of California, San Francisco.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dr_David_Julius_by_christopher_michel_in_2022_04.jpg/330px-Dr_David_Julius_by_christopher_michel_in_2022_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Julius",
+  "dateOfBirth": "1955-11-04",
+  "birthDateParsed": "1955-11-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.5776",
+  "birthCoordinatesLng": "-73.9616",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "physiologist",
+    "biochemist"
+  ],
+  "qid": "Q1174906",
+  "birthPlace": "Brighton Beach",
+  "fetchedAt": "2026-08-10T03:15:07.047Z"
+}

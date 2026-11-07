@@ -1,0 +1,32 @@
+{
+  "publicId": "b11ce5ce",
+  "wikipediaSlug": "David_Unsworth",
+  "wikipediaId": "Q340077",
+  "name": "David Unsworth",
+  "fullName": "David Unsworth",
+  "profileSummary": "David Gerald Unsworth is an English football coach and former professional footballer who was most recently the manager of Oldham Athletic. Prior to this, he was academy director and under-23s head coach at Premier League side Everton.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/David_Unsworth_2017.png/330px-David_Unsworth_2017.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Unsworth",
+  "dateOfBirth": "1973-10-16",
+  "birthDateParsed": "1973-10-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.653",
+  "birthCoordinatesLng": "-2.632",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q340077",
+  "birthPlace": "Chorley",
+  "fetchedAt": "2026-08-01T05:20:53.591Z"
+}

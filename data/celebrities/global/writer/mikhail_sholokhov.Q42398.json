@@ -1,0 +1,38 @@
+{
+  "publicId": "69cd1311",
+  "wikipediaSlug": "Mikhail_Sholokhov",
+  "wikipediaId": "Q42398",
+  "name": "Mikhail Sholokhov",
+  "fullName": "Mikhail Sholokhov",
+  "profileSummary": "Mikhail Aleksandrovich Sholokhov was a Russian novelist and winner of the 1965 Nobel Prize in Literature. He is known for writing about life and fate of Don Cossacks during the Russian Revolution, the civil war and the period of collectivization, primarily in his most famous novel, And Quiet Flows the Don.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mikhail_Sholokhov_1960.jpg/330px-Mikhail_Sholokhov_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Sholokhov",
+  "dateOfBirth": "1905-05-24",
+  "birthDateParsed": "1905-05-24",
+  "dateOfDeath": "1984-02-21",
+  "deathDateParsed": "1984-02-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.436111111",
+  "birthCoordinatesLng": "41.766388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "screenwriter",
+    "poet",
+    "prose writer",
+    "journalist",
+    "politician",
+    "short story writer"
+  ],
+  "qid": "Q42398",
+  "birthPlace": "Kruzhilin",
+  "fetchedAt": "2026-08-06T07:42:32.615Z"
+}

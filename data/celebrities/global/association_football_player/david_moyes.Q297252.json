@@ -1,0 +1,32 @@
+{
+  "publicId": "c9cd0a57",
+  "wikipediaSlug": "David_Moyes",
+  "wikipediaId": "Q297252",
+  "name": "David Moyes",
+  "fullName": "David Moyes",
+  "profileSummary": "David William Moyes is a Scottish professional football manager and former player, who is the manager of Premier League club Everton. He was the 2003, 2005 and 2009 League Managers Association Manager of the Year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/David_Moyes_2025.jpg/330px-David_Moyes_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Moyes",
+  "dateOfBirth": "1963-04-25",
+  "birthDateParsed": "1963-04-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q297252",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-01T05:19:28.766Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "0db3b587",
+  "wikipediaSlug": "Kareem_Abdul-Jabbar",
+  "wikipediaId": "Q179051",
+  "name": "Kareem Abdul-Jabbar",
+  "fullName": "Kareem Abdul-Jabbar",
+  "profileSummary": "Kareem Abdul-Jabbar is an American former professional basketball player who was a center for 20 seasons in the National Basketball Association (NBA) with the Milwaukee Bucks and Los Angeles Lakers. He played college basketball for the UCLA Bruins. A member of the Naismith Memorial Basketball Hall of Fame, Abdul-Jabbar won a record six NBA Most Valuable Player (MVP) awards. He was a 19-time NBA All-Star, a 15-time All-NBA Team member, and an 11-time NBA All-Defensive Team selection. He was a member of six NBA championship teams as a player and two more as an assistant coach, and was twice voted the NBA Finals MVP. He was named to three NBA anniversary teams. Widely regarded as one of the greatest players of all time, Abdul-Jabbar broke the NBA's career scoring record in 1984, and held it until LeBron James surpassed him in 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kareem_Abdul-Jabbar_May_2014.jpg/330px-Kareem_Abdul-Jabbar_May_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kareem_Abdul-Jabbar",
+  "dateOfBirth": "1947-04-16",
+  "birthDateParsed": "1947-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "actor",
+    "film producer",
+    "author",
+    "screenwriter",
+    "television actor"
+  ],
+  "qid": "Q179051",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-01T15:36:25.328Z"
+}

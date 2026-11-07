@@ -1,0 +1,31 @@
+{
+  "publicId": "c2c7074e",
+  "wikipediaSlug": "Hans_Rausing",
+  "wikipediaId": "Q732153",
+  "name": "Hans Rausing",
+  "fullName": "Hans Rausing",
+  "profileSummary": "Hans Anders Rausing was a Swedish industrialist and philanthropist based in the United Kingdom. His fortune derived from his co-inheritance of Tetra Pak, a company founded by his father Ruben Rausing, and the largest food packaging company in the world. In the early 1980s Rausing moved to the United Kingdom to avoid Swedish taxes, in 1995 he sold his share of the company to his brother, Gad.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Rausing256_148782a.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Rausing",
+  "dateOfBirth": "1926-03-25",
+  "birthDateParsed": "1926-03-25",
+  "dateOfDeath": "2019-08-30",
+  "deathDateParsed": "2019-08-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "57.7075",
+  "birthCoordinatesLng": "11.9675",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur"
+  ],
+  "qid": "Q732153",
+  "birthPlace": "Gothenburg",
+  "fetchedAt": "2026-08-04T03:34:22.383Z"
+}

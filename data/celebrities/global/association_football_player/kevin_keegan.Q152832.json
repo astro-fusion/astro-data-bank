@@ -1,0 +1,33 @@
+{
+  "publicId": "5a59387f",
+  "wikipediaSlug": "Kevin_Keegan",
+  "wikipediaId": "Q152832",
+  "name": "Kevin Keegan",
+  "fullName": "Kevin Keegan",
+  "profileSummary": "Joseph Kevin Keegan was an English football player and manager who played as an attacking midfielder or forward. Nicknamed \"King Kev\" or \"Mighty Mouse\", Keegan was recognised for his dribbling ability, finishing and presence in the air, as much as he was for his distinct appearance and charismatic personality, and is regarded as one of the greatest players of all time and was also a widely recognised figure of English football during the 1970s, winning consecutive Ballon d'Ors in 1978 and 1979.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kevin_keegan_panini_card_%28cropped%29.jpg/330px-Kevin_keegan_panini_card_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Keegan",
+  "dateOfBirth": "1951-02-14",
+  "birthDateParsed": "1951-02-14",
+  "dateOfDeath": "2026-07-20",
+  "deathDateParsed": "2026-07-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.535177777",
+  "birthCoordinatesLng": "-1.052236111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "autobiographer"
+  ],
+  "qid": "Q152832",
+  "birthPlace": "Armthorpe",
+  "fetchedAt": "2026-08-10T11:28:52.538Z"
+}

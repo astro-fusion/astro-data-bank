@@ -1,0 +1,32 @@
+{
+  "publicId": "09d53e85",
+  "wikipediaSlug": "Ana_Ivanovic",
+  "wikipediaId": "Q30758",
+  "name": "Ana Ivanovic",
+  "fullName": "Ana Ivanovic",
+  "profileSummary": "Ana Ivanovic is a Serbian former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 12 weeks. Ivanovic won 15 WTA Tour-level singles titles, including a major at the 2008 French Open. She was also the runner-up at the 2007 French Open and the 2008 Australian Open. Ivanovic qualified for the year-end WTA Finals three times, and won the year-end WTA Tournament of Champions twice, in 2010 and 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ana_Ivanovic_%2824401004824%29.jpg/330px-Ana_Ivanovic_%2824401004824%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Ivanovic",
+  "dateOfBirth": "1987-11-06",
+  "birthDateParsed": "1987-11-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.817777777",
+  "birthCoordinatesLng": "20.456944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "model"
+  ],
+  "qid": "Q30758",
+  "birthPlace": "Belgrade",
+  "fetchedAt": "2026-08-01T14:58:45.868Z"
+}

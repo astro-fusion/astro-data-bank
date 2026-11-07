@@ -1,0 +1,34 @@
+{
+  "publicId": "2dd3fa77",
+  "wikipediaSlug": "Emil_Fischer",
+  "wikipediaId": "Q70554",
+  "name": "Emil Fischer",
+  "fullName": "Emil Fischer",
+  "profileSummary": "Hermann Emil Louis Fischer was a German chemist and 1902 recipient of the Nobel Prize in Chemistry. He discovered the Fischer esterification. He also developed the Fischer projection, a symbolic way of drawing asymmetric carbon atoms. He also hypothesized the lock and key mechanism of enzyme action. He never used his first given name, and was known throughout his life simply as Emil Fischer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hermann_Emil_Fischer._Photograph_by_Atelier_Victoria%2C_1895._Wellcome_V0027668_%28cropped%29.jpg/330px-Hermann_Emil_Fischer._Photograph_by_Atelier_Victoria%2C_1895._Wellcome_V0027668_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Fischer",
+  "dateOfBirth": "1852-10-09",
+  "birthDateParsed": "1852-10-09",
+  "dateOfDeath": "1919-07-15",
+  "deathDateParsed": "1919-07-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.661277777",
+  "birthCoordinatesLng": "6.787255555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "university teacher",
+    "organic chemist"
+  ],
+  "qid": "Q70554",
+  "birthPlace": "Euskirchen",
+  "fetchedAt": "2026-08-10T02:03:59.858Z"
+}

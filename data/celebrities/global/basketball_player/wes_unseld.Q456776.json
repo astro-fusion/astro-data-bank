@@ -1,0 +1,33 @@
+{
+  "publicId": "a8df1da0",
+  "wikipediaSlug": "Wes_Unseld",
+  "wikipediaId": "Q456776",
+  "name": "Wes Unseld",
+  "fullName": "Wes Unseld",
+  "profileSummary": "Westley Sissel Unseld Sr. was an American professional basketball player, coach and executive. He spent his entire National Basketball Association (NBA) career with the Baltimore/Capital/Washington Bullets. Unseld played college basketball for the Louisville Cardinals and was selected with the second overall pick by the Bullets in the 1968 NBA draft. Known as \"The Incredible Hulk\" and \"The Oak Tree\" because of his immense physical presence, Unseld was named the NBA Most Valuable Player and NBA Rookie of the Year during his rookie season and joined Wilt Chamberlain as the only two players in NBA history to accomplish the feat. He won an NBA championship with the Bullets in 1978 and the Finals MVP award to go with it.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wes_Unseld_1975.jpeg/330px-Wes_Unseld_1975.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wes_Unseld",
+  "dateOfBirth": "1946-03-14",
+  "birthDateParsed": "1946-03-14",
+  "dateOfDeath": "2020-06-02",
+  "deathDateParsed": "2020-06-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.256111111",
+  "birthCoordinatesLng": "-85.751388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "sports executive"
+  ],
+  "qid": "Q456776",
+  "birthPlace": "Louisville",
+  "fetchedAt": "2026-08-01T15:38:19.553Z"
+}

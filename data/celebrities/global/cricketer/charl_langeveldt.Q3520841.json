@@ -1,0 +1,31 @@
+{
+  "publicId": "5696eca8",
+  "wikipediaSlug": "Charl_Langeveldt",
+  "wikipediaId": "Q3520841",
+  "name": "Charl Langeveldt",
+  "fullName": "Charl Langeveldt",
+  "profileSummary": "Charl Kenneth Langeveldt is a South African cricket coach and former cricketer who is currently a bowling coach with the Zimbabwe national cricket team.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charl_Langeveldt",
+  "dateOfBirth": "1974-12-17",
+  "birthDateParsed": "1974-12-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.936666666",
+  "birthCoordinatesLng": "18.861388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3520841",
+  "birthPlace": "Stellenbosch",
+  "fetchedAt": "2026-07-31T20:21:22.834Z"
+}

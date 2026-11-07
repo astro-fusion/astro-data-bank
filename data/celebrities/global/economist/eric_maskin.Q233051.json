@@ -1,0 +1,32 @@
+{
+  "publicId": "010bfd90",
+  "wikipediaSlug": "Eric_Maskin",
+  "wikipediaId": "Q233051",
+  "name": "Eric Maskin",
+  "fullName": "Eric Maskin",
+  "profileSummary": "Eric Stark Maskin is an American economist and mathematician. He was jointly awarded the 2007 Nobel Memorial Prize in Economic Sciences with Leonid Hurwicz and Roger Myerson \"for having laid the foundations of mechanism design theory\". He is the Adams University Professor and Professor of Economics and Mathematics at Harvard University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/05N3441_emaskin.jpg/330px-05N3441_emaskin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Maskin",
+  "dateOfBirth": "1950-12-12",
+  "birthDateParsed": "1950-12-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "researcher"
+  ],
+  "qid": "Q233051",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T09:43:12.622Z"
+}

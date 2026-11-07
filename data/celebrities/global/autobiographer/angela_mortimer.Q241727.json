@@ -1,0 +1,32 @@
+{
+  "publicId": "6aa1bcd4",
+  "wikipediaSlug": "Angela_Mortimer",
+  "wikipediaId": "Q241727",
+  "name": "Angela Mortimer",
+  "fullName": "Angela Mortimer",
+  "profileSummary": "Florence Angela Margaret Mortimer-Barrett was a British world No. 1 tennis player. Mortimer won three major singles titles: the 1955 French Championships, the 1958 Australian Championships and 1961 Wimbledon Championships, the last won when she was partially deaf.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angela_Mortimer",
+  "dateOfBirth": "1932-04-21",
+  "birthDateParsed": "1932-04-21",
+  "dateOfDeath": "2025-08-25",
+  "deathDateParsed": "2025-08-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.371388888",
+  "birthCoordinatesLng": "-4.142222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "autobiographer",
+    "tennis player"
+  ],
+  "qid": "Q241727",
+  "birthPlace": "Plymouth",
+  "fetchedAt": "2026-08-01T14:58:45.026Z"
+}

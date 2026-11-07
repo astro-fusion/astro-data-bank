@@ -1,0 +1,34 @@
+{
+  "publicId": "8626a5f4",
+  "wikipediaSlug": "Mario_Draghi",
+  "wikipediaId": "Q294460",
+  "name": "Mario Draghi",
+  "fullName": "Mario Draghi",
+  "profileSummary": "Mario Draghi is an Italian politician, economist, academic, banker, statesman, and civil servant, who served as the prime minister of Italy from 13 February 2021 to 22 October 2022. Prior to his appointment as prime minister, he served as the president of the European Central Bank (ECB) between 2011 and 2019. Draghi was also the chair of the Financial Stability Board between 2009 and 2011, and governor of the Bank of Italy between 2006 and 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mario_Draghi%2C_2022.03.07_%28cropped%29.jpg/330px-Mario_Draghi%2C_2022.03.07_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Draghi",
+  "dateOfBirth": "1947-09-03",
+  "birthDateParsed": "1947-09-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.893055555",
+  "birthCoordinatesLng": "12.482777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "banker",
+    "university teacher",
+    "politician"
+  ],
+  "qid": "Q294460",
+  "birthPlace": "Rome",
+  "fetchedAt": "2026-08-03T15:52:58.532Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "1f53b46c",
+  "wikipediaSlug": "Arash_Ferdowsi",
+  "wikipediaId": "Q4784346",
+  "name": "Arash Ferdowsi",
+  "fullName": "Arash Ferdowsi",
+  "profileSummary": "Arash Ferdowsi is an American entrepreneur. He is a co-founder of Dropbox.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Arash_ferdowsi_2023_%28cropped%29.jpg/330px-Arash_ferdowsi_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arash_Ferdowsi",
+  "dateOfBirth": "1985-10-07",
+  "birthDateParsed": "1985-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.940072222",
+  "birthCoordinatesLng": "-94.680697222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "chief technology officer"
+  ],
+  "qid": "Q4784346",
+  "birthPlace": "Overland Park",
+  "fetchedAt": "2026-08-05T03:15:39.030Z"
+}

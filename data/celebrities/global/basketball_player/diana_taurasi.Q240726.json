@@ -1,0 +1,32 @@
+{
+  "publicId": "77c0ae6b",
+  "wikipediaSlug": "Diana_Taurasi",
+  "wikipediaId": "Q240726",
+  "name": "Diana Taurasi",
+  "fullName": "Diana Taurasi",
+  "profileSummary": "Diana Lorena Taurasi is an Argentine and American former professional basketball player. She played 20 seasons in the Women's National Basketball Association (WNBA), spending her entire WNBA career with the Phoenix Mercury. A global basketball icon, Taurasi helped grow the visibility of the women's game and is credited with elevating the standard of play in the WNBA. She is often considered the greatest player in women's basketball history and holds the all-time WNBA scoring record. She is the most decorated Olympic athlete in any team sport, winning six Olympic gold medals with the United States women's national basketball team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Diana_Taurasi_2024_%28cropped%29.jpg/330px-Diana_Taurasi_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diana_Taurasi",
+  "dateOfBirth": "1982-06-11",
+  "birthDateParsed": "1982-06-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.170833333",
+  "birthCoordinatesLng": "-118.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "actor"
+  ],
+  "qid": "Q240726",
+  "birthPlace": "Glendale",
+  "fetchedAt": "2026-08-10T12:59:08.005Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "60dc65e7",
+  "wikipediaSlug": "Kazimierz_Deyna",
+  "wikipediaId": "Q345702",
+  "name": "Kazimierz Deyna",
+  "fullName": "Kazimierz Deyna",
+  "profileSummary": "Kazimierz Deyna was a Polish professional footballer who played as an attacking midfielder in the playmaker role and was one of the most highly regarded players of his generation, due to his excellent vision. Throughout his career he played for such clubs as Legia Warsaw, Manchester City and San Diego Sockers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kazimierz_Deyna.jpg/330px-Kazimierz_Deyna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kazimierz_Deyna",
+  "dateOfBirth": "1947-10-23",
+  "birthDateParsed": "1947-10-23",
+  "dateOfDeath": "1989-09-01",
+  "deathDateParsed": "1989-09-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.966666666",
+  "birthCoordinatesLng": "18.533333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "military personnel",
+    "soldier"
+  ],
+  "qid": "Q345702",
+  "birthPlace": "Starogard Gdański",
+  "fetchedAt": "2026-08-10T11:28:53.002Z"
+}

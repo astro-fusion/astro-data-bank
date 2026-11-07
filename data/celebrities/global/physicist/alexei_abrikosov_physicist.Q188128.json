@@ -1,0 +1,32 @@
+{
+  "publicId": "cf2b7602",
+  "wikipediaSlug": "Alexei_Abrikosov_(physicist)",
+  "wikipediaId": "Q188128",
+  "name": "Alexei Abrikosov (physicist)",
+  "fullName": "Alexei Abrikosov (physicist)",
+  "profileSummary": "Alexei Alexeyevich Abrikosov was a Russian-American theoretical physicist whose main contributions are in the field of condensed matter physics. He was the co-recipient of the 2003 Nobel Prize in Physics, with Vitaly Ginzburg and Anthony James Leggett, for theories about how matter can behave at extremely low temperatures.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AA_Abrikosov_ANL1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexei_Abrikosov_(physicist)",
+  "dateOfBirth": "1928-06-25",
+  "birthDateParsed": "1928-06-25",
+  "dateOfDeath": "2017-03-29",
+  "deathDateParsed": "2017-03-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q188128",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-06T05:00:42.348Z"
+}

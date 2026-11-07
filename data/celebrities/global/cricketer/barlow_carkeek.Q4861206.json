@@ -1,0 +1,32 @@
+{
+  "publicId": "0ce64d06",
+  "wikipediaSlug": "Barlow_Carkeek",
+  "wikipediaId": "Q4861206",
+  "name": "Barlow Carkeek",
+  "fullName": "Barlow Carkeek",
+  "profileSummary": "William \"Barlow\" Carkeek was an Australian sportsman who played Test cricket for Australia and first-class cricket for Victoria, as well as playing Australian rules football in the Victorian Football League (VFL) for Essendon.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/WCarkeek.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barlow_Carkeek",
+  "dateOfBirth": "1878-10-17",
+  "birthDateParsed": "1878-10-17",
+  "dateOfDeath": "1937-02-20",
+  "deathDateParsed": "1937-02-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.9436",
+  "birthCoordinatesLng": "146.451",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "Australian rules football player"
+  ],
+  "qid": "Q4861206",
+  "birthPlace": "Walhalla",
+  "fetchedAt": "2026-07-31T19:44:29.405Z"
+}

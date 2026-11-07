@@ -1,0 +1,32 @@
+{
+  "publicId": "02bbf940",
+  "wikipediaSlug": "Adiato_Djaló_Nandigna",
+  "wikipediaId": "Q58164",
+  "name": "Adiato Djaló Nandigna",
+  "fullName": "Adiato Djaló Nandigna",
+  "profileSummary": "Adiato Djaló Nandigna is a Bissau-Guinean politician and a former acting Prime Minister of Guinea-Bissau. Her government was overthrown in the 2012 Guinea-Bissau coup d'état, and she was arrested by the security services in 2013. She later returned as the Minister of Defence in the 2015 cabinet of Prime Minister Carlos Correia.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adiato_Djal%C3%B3_Nandigna",
+  "dateOfBirth": "1958-11-06",
+  "birthDateParsed": "1958-11-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12",
+  "birthCoordinatesLng": "-15",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "minister"
+  ],
+  "qid": "Q58164",
+  "birthPlace": "Guinea-Bissau",
+  "fetchedAt": "2026-08-04T00:54:54.320Z"
+}

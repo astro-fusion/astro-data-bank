@@ -1,0 +1,31 @@
+{
+  "publicId": "2916134f",
+  "wikipediaSlug": "Anwar_Ibrahim",
+  "wikipediaId": "Q299574",
+  "name": "Anwar Ibrahim",
+  "fullName": "Anwar Ibrahim",
+  "profileSummary": "Anwar bin Ibrahim is a Malaysian politician who has served as the 10th prime minister of Malaysia since 2022. A member of the People's Justice Party (PKR), he served as Member of Parliament (MP) for Tambun since 2022. Upon becoming prime minister, he appointed himself Minister of Finance. Anwar is also the president of PKR since 2018 and the chairman of Pakatan Harapan coalition since 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Anwar_Ibrahim_in_June_2026.jpg/330px-Anwar_Ibrahim_in_June_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anwar_Ibrahim",
+  "dateOfBirth": "1947-08-10",
+  "birthDateParsed": "1947-08-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "5.333333333",
+  "birthCoordinatesLng": "100.483333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q299574",
+  "birthPlace": "Cherok Tok Kun",
+  "fetchedAt": "2026-08-03T16:49:14.803Z"
+}

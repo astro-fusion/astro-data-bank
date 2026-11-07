@@ -1,0 +1,32 @@
+{
+  "publicId": "1feabbf5",
+  "wikipediaSlug": "Daniel_Herschlag",
+  "wikipediaId": "Q5217478",
+  "name": "Daniel Herschlag",
+  "fullName": "Daniel Herschlag",
+  "profileSummary": "Daniel Herschlag is an American biochemist and Professor of Biochemistry at the Stanford University School of Medicine. His research uses an interdisciplinary approach to advance our understanding of the fundamental behavior of RNA and proteins. He is well known for his application of rigorous kinetic and mechanistic approaches to RNA and protein systems.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Herschlag",
+  "dateOfBirth": "1958-10-16",
+  "birthDateParsed": "1958-10-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "researcher",
+    "biochemist"
+  ],
+  "qid": "Q5217478",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-04T15:06:38.806Z"
+}

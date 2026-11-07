@@ -1,0 +1,33 @@
+{
+  "publicId": "5ee348b3",
+  "wikipediaSlug": "Aprille_Ericsson",
+  "wikipediaId": "Q16195050",
+  "name": "Aprille Ericsson",
+  "fullName": "Aprille Ericsson",
+  "profileSummary": "Aprille Joy Ericsson is an American aerospace engineer who had served as the assistant secretary of defense for science and technology. Ericsson is the first African-American woman to receive a Ph.D. in mechanical engineering from Howard University and the first African-American woman to receive a Ph.D. in engineering at the National Aeronautics and Space Administration (NASA) Goddard Space Flight Center (GSFC).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aprille_Ericsson%2C_DoD.jpg/330px-Aprille_Ericsson%2C_DoD.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aprille_Ericsson",
+  "dateOfBirth": "1963-04-01",
+  "birthDateParsed": "1963-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "engineer",
+    "mechanical engineer"
+  ],
+  "qid": "Q16195050",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-05T03:15:43.503Z"
+}

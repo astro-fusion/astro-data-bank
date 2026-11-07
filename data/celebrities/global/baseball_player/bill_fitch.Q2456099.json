@@ -1,0 +1,35 @@
+{
+  "publicId": "8a149cd7",
+  "wikipediaSlug": "Bill_Fitch",
+  "wikipediaId": "Q2456099",
+  "name": "Bill Fitch",
+  "fullName": "Bill Fitch",
+  "profileSummary": "William Charles Fitch was an American professional basketball coach in the National Basketball Association (NBA). He developed multiple teams into playoff contenders and won an NBA championship with the Boston Celtics in 1981. Before entering the professional ranks, he coached college basketball at the University of Minnesota, Bowling Green State University, the University of North Dakota, and his alma mater, Coe College. Fitch's teams twice qualified for the NCAA tournament. He won the Chuck Daly Lifetime Achievement Award in 2013, and was elected to the Naismith Memorial Basketball Hall of Fame in 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/BillFitchBoston.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Fitch",
+  "dateOfBirth": "1934-05-19",
+  "birthDateParsed": "1934-05-19",
+  "dateOfDeath": "2022-02-02",
+  "deathDateParsed": "2022-02-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.543055555",
+  "birthCoordinatesLng": "-90.590833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "baseball player",
+    "basketball coach",
+    "basketball player",
+    "coach",
+    "head coach"
+  ],
+  "qid": "Q2456099",
+  "birthPlace": "Davenport",
+  "fetchedAt": "2026-08-01T15:36:53.324Z"
+}

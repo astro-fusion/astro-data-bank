@@ -1,0 +1,33 @@
+{
+  "publicId": "d792766f",
+  "wikipediaSlug": "Edward_VIII",
+  "wikipediaId": "Q590227",
+  "name": "Edward VIII",
+  "fullName": "Edward VIII",
+  "profileSummary": "Edward VIII, later known as the Duke of Windsor, was King of the United Kingdom and the Dominions of the British Commonwealth, as well as Emperor of India, from 20 January 1936 until his abdication in December of the same year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/HRH_The_Prince_of_Wales_No_4_%28HS85-10-36416%29.jpg/330px-HRH_The_Prince_of_Wales_No_4_%28HS85-10-36416%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_VIII",
+  "dateOfBirth": "1894-06-23",
+  "birthDateParsed": "1894-06-23",
+  "dateOfDeath": "1972-05-28",
+  "deathDateParsed": "1972-05-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4452",
+  "birthCoordinatesLng": "-0.2648",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "monarch",
+    "aristocrat"
+  ],
+  "qid": "Q590227",
+  "birthPlace": "White Lodge",
+  "fetchedAt": "2026-08-03T12:58:26.763Z"
+}

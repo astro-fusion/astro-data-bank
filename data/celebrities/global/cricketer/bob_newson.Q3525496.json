@@ -1,0 +1,31 @@
+{
+  "publicId": "f43aaaef",
+  "wikipediaSlug": "Bob_Newson",
+  "wikipediaId": "Q3525496",
+  "name": "Bob Newson",
+  "fullName": "Bob Newson",
+  "profileSummary": "Edward Serrurier \"Bob\" Newson, OBE was a South African cricketer who played in three Test matches in 1930–31 and 1938–39. He was also a businessman in South Africa and in Rhodesia.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Newson",
+  "dateOfBirth": "1910-12-02",
+  "birthDateParsed": "1910-12-02",
+  "dateOfDeath": "1988-04-24",
+  "deathDateParsed": "1988-04-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525496",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:20:32.242Z"
+}

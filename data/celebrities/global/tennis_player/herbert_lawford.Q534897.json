@@ -1,0 +1,31 @@
+{
+  "publicId": "4a2aef20",
+  "wikipediaSlug": "Herbert_Lawford",
+  "wikipediaId": "Q534897",
+  "name": "Herbert Lawford",
+  "fullName": "Herbert Lawford",
+  "profileSummary": "Herbert Fortescue Lawford was a former world No. 1 tennis player from Scotland who won the Men's Singles championship at Wimbledon in 1887, and was runner-up a record five times.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/19th_century_Tennis_champions.jpg/330px-19th_century_Tennis_champions.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herbert_Lawford",
+  "dateOfBirth": "1851-05-15",
+  "birthDateParsed": "1851-05-15",
+  "dateOfDeath": "1925-04-20",
+  "deathDateParsed": "1925-04-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5095",
+  "birthCoordinatesLng": "-0.192980555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q534897",
+  "birthPlace": "Bayswater",
+  "fetchedAt": "2026-08-01T13:11:26.524Z"
+}

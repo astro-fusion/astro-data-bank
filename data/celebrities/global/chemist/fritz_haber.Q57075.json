@@ -1,0 +1,34 @@
+{
+  "publicId": "8a1498b1",
+  "wikipediaSlug": "Fritz_Haber",
+  "wikipediaId": "Q57075",
+  "name": "Fritz Haber",
+  "fullName": "Fritz Haber",
+  "profileSummary": "Fritz Jakob Haber was a German chemist who received the Nobel Prize in Chemistry in 1918 for his invention of the Haber process, a method used in industry to synthesize ammonia from nitrogen gas and hydrogen gas. This invention is important for the large-scale synthesis of fertilizers and explosives. It is estimated that a third of annual global food production uses ammonia from the Haber–Bosch process, and that this food supports nearly half the world's population. For this work, Haber has been called one of the most important scientists and industrial chemists in human history. Haber also, along with Max Born, proposed the Born–Haber cycle as a method for evaluating the lattice energy of an ionic solid.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg/330px-Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Haber",
+  "dateOfBirth": "1868-12-09",
+  "birthDateParsed": "1868-12-09",
+  "dateOfDeath": "1934-01-29",
+  "deathDateParsed": "1934-01-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.11",
+  "birthCoordinatesLng": "17.0325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "physicist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q57075",
+  "birthPlace": "Wrocław",
+  "fetchedAt": "2026-08-10T02:03:41.511Z"
+}

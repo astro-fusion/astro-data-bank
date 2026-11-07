@@ -1,0 +1,33 @@
+{
+  "publicId": "87ebd594",
+  "wikipediaSlug": "Stephen_Cook",
+  "wikipediaId": "Q62870",
+  "name": "Stephen Cook",
+  "fullName": "Stephen Cook",
+  "profileSummary": "Stephen Arthur Cook is an American-Canadian computer scientist and mathematician who has made significant contributions to the fields of complexity theory and proof complexity. He is a university professor emeritus at the University of Toronto, Department of Computer Science and Department of Mathematics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Prof.Cook.jpg/330px-Prof.Cook.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Cook",
+  "dateOfBirth": "1939-12-14",
+  "birthDateParsed": "1939-12-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.886388888",
+  "birthCoordinatesLng": "-78.878055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher",
+    "mathematician"
+  ],
+  "qid": "Q62870",
+  "birthPlace": "Buffalo",
+  "fetchedAt": "2026-08-10T04:29:45.122Z"
+}

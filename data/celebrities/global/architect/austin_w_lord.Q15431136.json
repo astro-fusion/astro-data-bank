@@ -1,0 +1,32 @@
+{
+  "publicId": "a73f1c41",
+  "wikipediaSlug": "Austin_W._Lord",
+  "wikipediaId": "Q15431136",
+  "name": "Austin W. Lord",
+  "fullName": "Austin W. Lord",
+  "profileSummary": "Austin Willard Lord was an American architect and painter. He was a partner in the firm of Lord & Hewlett, best known for their work on the design of the former William A. Clark House on Fifth Avenue in New York.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Portrait_of_American_architect_Austin_W._Lord.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Austin_W._Lord",
+  "dateOfBirth": "1860-06-27",
+  "birthDateParsed": "1860-06-27",
+  "dateOfDeath": "1922-01-19",
+  "deathDateParsed": "1922-01-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.09774",
+  "birthCoordinatesLng": "-91.81682",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architect",
+    "painter"
+  ],
+  "qid": "Q15431136",
+  "birthPlace": "Rollingstone",
+  "fetchedAt": "2026-08-05T03:15:37.738Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "c7c66044",
+  "wikipediaSlug": "Bonnie_J._Dunbar",
+  "wikipediaId": "Q29618",
+  "name": "Bonnie J. Dunbar",
+  "fullName": "Bonnie J. Dunbar",
+  "profileSummary": "Bonnie Jeanne Dunbar is an American engineer and retired NASA astronaut. She flew on five Space Shuttle missions between 1985 and 1998, including two dockings with the Mir space station.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bonnie_J._Dunbar.jpg/330px-Bonnie_J._Dunbar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bonnie_J._Dunbar",
+  "dateOfBirth": "1949-03-03",
+  "birthDateParsed": "1949-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.320833333",
+  "birthCoordinatesLng": "-120.012222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q29618",
+  "birthPlace": "Sunnyside",
+  "fetchedAt": "2026-08-10T06:04:15.488Z"
+}

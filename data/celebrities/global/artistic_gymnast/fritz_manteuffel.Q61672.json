@@ -1,0 +1,31 @@
+{
+  "publicId": "47477b9e",
+  "wikipediaSlug": "Fritz_Manteuffel",
+  "wikipediaId": "Q61672",
+  "name": "Fritz Manteuffel",
+  "fullName": "Fritz Manteuffel",
+  "profileSummary": "Julius Carl Fritz Manteuffel was a German gymnast. He competed at the 1896 Summer Olympics in Athens.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Fritz_Manteuffel_Die_deutsche_olympische_Turnriege_1896_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Manteuffel",
+  "dateOfBirth": "1875-01-11",
+  "birthDateParsed": "1875-01-11",
+  "dateOfDeath": "1941-04-21",
+  "deathDateParsed": "1941-04-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artistic gymnast"
+  ],
+  "qid": "Q61672",
+  "birthPlace": "Berlin",
+  "fetchedAt": "2026-08-10T12:59:58.966Z"
+}

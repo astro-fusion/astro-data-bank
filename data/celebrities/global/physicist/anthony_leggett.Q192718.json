@@ -1,0 +1,32 @@
+{
+  "publicId": "dfa0c451",
+  "wikipediaSlug": "Anthony_Leggett",
+  "wikipediaId": "Q192718",
+  "name": "Anthony Leggett",
+  "fullName": "Anthony Leggett",
+  "profileSummary": "Sir Anthony James Leggett was a British–American theoretical physicist and professor at the University of Illinois Urbana-Champaign (UIUC). Leggett was widely recognised as a world leader in the theory of low-temperature physics, and his pioneering work on superfluidity was recognised by the 2003 Nobel Prize in Physics. He shaped the theoretical understanding of normal and superfluid helium liquids and strongly coupled superfluids. He set directions for research in the quantum physics of macroscopic dissipative systems and use of condensed systems to test the foundations of quantum mechanics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nobel_Laureate_Sir_Anthony_James_Leggett_in_2007_%28cropped%29.jpg/330px-Nobel_Laureate_Sir_Anthony_James_Leggett_in_2007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Leggett",
+  "dateOfBirth": "1938-03-26",
+  "birthDateParsed": "1938-03-26",
+  "dateOfDeath": "2026-03-08",
+  "deathDateParsed": "2026-03-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4736",
+  "birthCoordinatesLng": "-0.0912",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q192718",
+  "birthPlace": "Camberwell",
+  "fetchedAt": "2026-08-06T05:00:45.950Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "41a28e7b",
+  "wikipediaSlug": "Robert_Mueller",
+  "wikipediaId": "Q715156",
+  "name": "Robert Mueller",
+  "fullName": "Robert Mueller",
+  "profileSummary": "Robert Swan Mueller III was an American lawyer who served as the sixth director of the Federal Bureau of Investigation (FBI) from 2001 to 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Director_Robert_S._Mueller-_III_%28cropped%29%282%29.jpg/330px-Director_Robert_S._Mueller-_III_%28cropped%29%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Mueller",
+  "dateOfBirth": "1944-08-07",
+  "birthDateParsed": "1944-08-07",
+  "dateOfDeath": "2026-03-20",
+  "deathDateParsed": "2026-03-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "lawyer",
+    "jurist",
+    "politician",
+    "official",
+    "soldier"
+  ],
+  "qid": "Q715156",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-03T15:53:13.974Z"
+}

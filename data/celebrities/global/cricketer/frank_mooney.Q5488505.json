@@ -1,0 +1,31 @@
+{
+  "publicId": "46d0d727",
+  "wikipediaSlug": "Frank_Mooney",
+  "wikipediaId": "Q5488505",
+  "name": "Frank Mooney",
+  "fullName": "Frank Mooney",
+  "profileSummary": "Francis Leonard Hugh Mooney was a New Zealand cricketer who played in 14 Test matches as a batsman and wicket-keeper between 1949 and 1954.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Frank_Mooney_1957.jpg/330px-Frank_Mooney_1957.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Mooney",
+  "dateOfBirth": "1921-05-26",
+  "birthDateParsed": "1921-05-26",
+  "dateOfDeath": "2004-03-08",
+  "deathDateParsed": "2004-03-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.288888888",
+  "birthCoordinatesLng": "174.777222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5488505",
+  "birthPlace": "Wellington",
+  "fetchedAt": "2026-07-31T21:03:29.630Z"
+}

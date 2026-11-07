@@ -1,0 +1,31 @@
+{
+  "publicId": "b3b93d77",
+  "wikipediaSlug": "Derrick_Lewis",
+  "wikipediaId": "Q17182975",
+  "name": "Derrick Lewis",
+  "fullName": "Derrick Lewis",
+  "profileSummary": "Derrick James Lewis is an American professional mixed martial artist. He currently competes in the Heavyweight division of the Ultimate Fighting Championship (UFC), where he currently holds the record for most finishes in the Heavyweight division and most knockouts in UFC history (16). A professional since 2010, Lewis has also competed for Bellator MMA and Legacy FC, where he was the Heavyweight Champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Derrick_Lewis_after_UFC_239.jpg/330px-Derrick_Lewis_after_UFC_239.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Derrick_Lewis",
+  "dateOfBirth": "1985-02-07",
+  "birthDateParsed": "1985-02-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.976111111",
+  "birthCoordinatesLng": "-90.078333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q17182975",
+  "birthPlace": "New Orleans",
+  "fetchedAt": "2026-08-01T17:05:11.945Z"
+}

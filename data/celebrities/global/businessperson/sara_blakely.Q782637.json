@@ -1,0 +1,33 @@
+{
+  "publicId": "6c738d4d",
+  "wikipediaSlug": "Sara_Blakely",
+  "wikipediaId": "Q782637",
+  "name": "Sara Blakely",
+  "fullName": "Sara Blakely",
+  "profileSummary": "Sara Treleaven Blakely is an American businesswoman and philanthropist. She founded Spanx, an intimate apparel company with pants and leggings, in Atlanta, Georgia. In 2024, Blakely created the footwear brand, Sneex.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sara_Blakely.jpg/330px-Sara_Blakely.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sara_Blakely",
+  "dateOfBirth": "1971-02-27",
+  "birthDateParsed": "1971-02-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.965555555",
+  "birthCoordinatesLng": "-82.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "stand-up comedian",
+    "patron of the arts"
+  ],
+  "qid": "Q782637",
+  "birthPlace": "Clearwater",
+  "fetchedAt": "2026-08-04T03:35:30.257Z"
+}

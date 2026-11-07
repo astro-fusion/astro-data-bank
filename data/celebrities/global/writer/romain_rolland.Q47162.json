@@ -1,0 +1,40 @@
+{
+  "publicId": "995ee094",
+  "wikipediaSlug": "Romain_Rolland",
+  "wikipediaId": "Q47162",
+  "name": "Romain Rolland",
+  "fullName": "Romain Rolland",
+  "profileSummary": "Romain Rolland was a French dramatist, novelist, essayist, art historian and mystic who was awarded the Nobel Prize for Literature in 1915 \"as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Romain_Rolland_de_face_au_balcon%2C_Meurisse%2C_1914_retouche.jpg/330px-Romain_Rolland_de_face_au_balcon%2C_Meurisse%2C_1914_retouche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Romain_Rolland",
+  "dateOfBirth": "1866-01-29",
+  "birthDateParsed": "1866-01-29",
+  "dateOfDeath": "1944-12-30",
+  "deathDateParsed": "1944-12-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.46",
+  "birthCoordinatesLng": "3.519444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "playwright",
+    "essayist",
+    "historian",
+    "novelist",
+    "musicologist",
+    "prose writer",
+    "biographer",
+    "musician",
+    "teacher"
+  ],
+  "qid": "Q47162",
+  "birthPlace": "Clamecy",
+  "fetchedAt": "2026-08-06T07:42:42.148Z"
+}

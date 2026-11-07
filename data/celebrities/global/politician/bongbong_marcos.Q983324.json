@@ -1,0 +1,32 @@
+{
+  "publicId": "61a2689b",
+  "wikipediaSlug": "Bongbong_Marcos",
+  "wikipediaId": "Q983324",
+  "name": "Bongbong Marcos",
+  "fullName": "Bongbong Marcos",
+  "profileSummary": "Ferdinand \"Bongbong\" Romualdez Marcos Jr., commonly referred to by the initials BBM or PBBM, is a Filipino politician who has served as the 17th president of the Philippines since 2022. He is the second child and only son of 10th president Ferdinand Marcos and former first lady Imelda Marcos.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Portrait_of_President_Ferdinand_R._Marcos%2C_Jr_%28cropped2%29.jpg/330px-Portrait_of_President_Ferdinand_R._Marcos%2C_Jr_%28cropped2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
+  "dateOfBirth": "1957-09-13",
+  "birthDateParsed": "1957-09-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "14.604",
+  "birthCoordinatesLng": "121.03",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "merchant"
+  ],
+  "qid": "Q983324",
+  "birthPlace": "San Juan",
+  "fetchedAt": "2026-08-03T16:49:51.060Z"
+}

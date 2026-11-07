@@ -1,0 +1,33 @@
+{
+  "publicId": "f948483e",
+  "wikipediaSlug": "Ellison_Onizuka",
+  "wikipediaId": "Q349365",
+  "name": "Ellison Onizuka",
+  "fullName": "Ellison Onizuka",
+  "profileSummary": "Ellison Shoji Onizuka  was an American astronaut, engineer, and U.S. Air Force flight test engineer from Kealakekua, Hawaii, who successfully flew into space with the Space Shuttle Discovery on STS-51-C. He died in the destruction of the Space Shuttle Challenger, on which he was serving as Mission Specialist for mission STS-51-L. Onizuka was the first Asian American and the first person of Japanese ancestry to reach space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ellison_Shoji_Onizuka_%28NASA%29.jpg/330px-Ellison_Shoji_Onizuka_%28NASA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellison_Onizuka",
+  "dateOfBirth": "1946-06-24",
+  "birthDateParsed": "1946-06-24",
+  "dateOfDeath": "1986-01-28",
+  "deathDateParsed": "1986-01-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.65",
+  "birthCoordinatesLng": "-155.994166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q349365",
+  "birthPlace": "Kailua-Kona",
+  "fetchedAt": "2026-08-10T06:04:57.372Z"
+}

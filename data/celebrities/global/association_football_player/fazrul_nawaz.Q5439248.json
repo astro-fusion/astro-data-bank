@@ -1,0 +1,31 @@
+{
+  "publicId": "5379fa2e",
+  "wikipediaSlug": "Fazrul_Nawaz",
+  "wikipediaId": "Q5439248",
+  "name": "Fazrul Nawaz",
+  "fullName": "Fazrul Nawaz",
+  "profileSummary": "Fazrul Nawaz bin Shahul Hameed is a Singapore international footballer who last played as a striker or second-striker for Singapore National League club Warwick Knights and the Singapore national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fazrul_Nawaz%2C_2013_%28cropped%29.jpg/330px-Fazrul_Nawaz%2C_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fazrul_Nawaz",
+  "dateOfBirth": "1985-04-17",
+  "birthDateParsed": "1985-04-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q5439248",
+  "birthPlace": "Singapore",
+  "fetchedAt": "2026-08-06T09:08:59.715Z"
+}

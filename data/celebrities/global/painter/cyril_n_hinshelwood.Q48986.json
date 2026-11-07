@@ -1,0 +1,33 @@
+{
+  "publicId": "bb9cd6fb",
+  "wikipediaSlug": "Cyril_N._Hinshelwood",
+  "wikipediaId": "Q48986",
+  "name": "Cyril N. Hinshelwood",
+  "fullName": "Cyril N. Hinshelwood",
+  "profileSummary": "Sir Cyril Norman Hinshelwood was a British physical chemist and expert in chemical kinetics. His work in reaction mechanisms earned the 1956 Nobel Prize in chemistry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Cyril_Norman_Hinshelwood_Nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyril_N._Hinshelwood",
+  "dateOfBirth": "1897-06-19",
+  "birthDateParsed": "1897-06-19",
+  "dateOfDeath": "1967-10-09",
+  "deathDateParsed": "1967-10-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "painter",
+    "chemist",
+    "physical chemist"
+  ],
+  "qid": "Q48986",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T02:03:30.514Z"
+}

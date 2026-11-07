@@ -1,0 +1,31 @@
+{
+  "publicId": "badf0e42",
+  "wikipediaSlug": "Henry_Foley_(New_Zealand_cricketer)",
+  "wikipediaId": "Q5721351",
+  "name": "Henry Foley (New Zealand cricketer)",
+  "fullName": "Henry Foley (New Zealand cricketer)",
+  "profileSummary": "Henry Foley was a New Zealand Test cricketer who played first-class cricket for Wellington from 1927 to 1933. He played in New Zealand's first Test match.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Foley_and_Dempster_1930.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Foley_(New_Zealand_cricketer)",
+  "dateOfBirth": "1906-01-28",
+  "birthDateParsed": "1906-01-28",
+  "dateOfDeath": "1948-10-16",
+  "deathDateParsed": "1948-10-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.288888888",
+  "birthCoordinatesLng": "174.777222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5721351",
+  "birthPlace": "Wellington",
+  "fetchedAt": "2026-07-31T21:03:21.900Z"
+}

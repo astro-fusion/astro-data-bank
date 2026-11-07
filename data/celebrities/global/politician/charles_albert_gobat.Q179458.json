@@ -1,0 +1,33 @@
+{
+  "publicId": "2a271054",
+  "wikipediaSlug": "Charles_Albert_Gobat",
+  "wikipediaId": "Q179458",
+  "name": "Charles Albert Gobat",
+  "fullName": "Charles Albert Gobat",
+  "profileSummary": "Charles Albert Gobat was a Swiss lawyer, educational administrator, and politician who jointly received the Nobel Peace Prize with Élie Ducommun in 1902 for their leadership of the Permanent International Peace Bureau.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Charles_Albert_Gobat2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Albert_Gobat",
+  "dateOfBirth": "1843-05-21",
+  "birthDateParsed": "1843-05-21",
+  "dateOfDeath": "1914-03-16",
+  "deathDateParsed": "1914-03-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.223333333",
+  "birthCoordinatesLng": "7.101388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q179458",
+  "birthPlace": "Tramelan",
+  "fetchedAt": "2026-08-04T02:12:53.245Z"
+}

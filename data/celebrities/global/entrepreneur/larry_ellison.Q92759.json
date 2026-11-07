@@ -1,0 +1,35 @@
+{
+  "publicId": "b1f8e632",
+  "wikipediaSlug": "Larry_Ellison",
+  "wikipediaId": "Q92759",
+  "name": "Larry Ellison",
+  "fullName": "Larry Ellison",
+  "profileSummary": "Lawrence Joseph Ellison is an American businessman. He co-founded the software company Oracle Corporation, and was its CEO from 1977 to 2014. He now serves as its CTO and executive chairman. According to Forbes, as of early 2026, Ellison's estimated net worth is $201–203 billion, making him the world's sixth-richest person.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Larry_Ellison_picture.png/330px-Larry_Ellison_picture.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Larry_Ellison",
+  "dateOfBirth": "1944-08-17",
+  "birthDateParsed": "1944-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.846666666",
+  "birthCoordinatesLng": "-73.873333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "computer scientist",
+    "aircraft pilot",
+    "actor",
+    "businessperson"
+  ],
+  "qid": "Q92759",
+  "birthPlace": "The Bronx",
+  "fetchedAt": "2026-08-04T03:34:25.579Z"
+}

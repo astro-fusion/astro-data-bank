@@ -1,0 +1,32 @@
+{
+  "publicId": "96824593",
+  "wikipediaSlug": "Evan_Spiegel",
+  "wikipediaId": "Q15439301",
+  "name": "Evan Spiegel",
+  "fullName": "Evan Spiegel",
+  "profileSummary": "Evan Thomas Spiegel is an American businessman who is the co-founder and CEO of Snap Inc. Spiegel was the youngest billionaire in the world in 2015. As of August 2025, he had a personal net worth of $2.5 billion according to Forbes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Evan_Spiegel%2C_founder_of_Snapchat.jpg/330px-Evan_Spiegel%2C_founder_of_Snapchat.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evan_Spiegel",
+  "dateOfBirth": "1990-06-04",
+  "birthDateParsed": "1990-06-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "entrepreneur"
+  ],
+  "qid": "Q15439301",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-04T03:34:21.755Z"
+}

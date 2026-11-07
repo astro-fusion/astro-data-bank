@@ -1,0 +1,33 @@
+{
+  "publicId": "bf3dec1c",
+  "wikipediaSlug": "Arthur_B._McDonald",
+  "wikipediaId": "Q710597",
+  "name": "Arthur B. McDonald",
+  "fullName": "Arthur B. McDonald",
+  "profileSummary": "Arthur Bruce McDonald P.Eng is a Canadian astrophysicist. McDonald is the director of the Sudbury Neutrino Observatory Collaboration and held the Gordon and Patricia Gray Chair in Particle Astrophysics at Queen's University in Kingston, Ontario from 2006 to 2013. He was awarded the 2015 Nobel Prize in Physics jointly with Japanese physicist Takaaki Kajita.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Arthur_B._McDonald_5193-2015.jpg/330px-Arthur_B._McDonald_5193-2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_B._McDonald",
+  "dateOfBirth": "1943-08-29",
+  "birthDateParsed": "1943-08-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.1378",
+  "birthCoordinatesLng": "-60.1829",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "astrophysicist"
+  ],
+  "qid": "Q710597",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-06T05:01:07.554Z"
+}

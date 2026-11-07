@@ -1,0 +1,32 @@
+{
+  "publicId": "4be2da28",
+  "wikipediaSlug": "Hartmut_Michel",
+  "wikipediaId": "Q77086",
+  "name": "Hartmut Michel",
+  "fullName": "Hartmut Michel",
+  "profileSummary": "Hartmut Michel is a German biochemist, who received the 1988 Nobel Prize in Chemistry for determination of the first crystal structure of an integral membrane protein, a membrane-bound complex of proteins and co-factors that is essential to photosynthesis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/22_MPI_BP_Hartmut_Michel_221028_quadrat.jpg/330px-22_MPI_BP_Hartmut_Michel_221028_quadrat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hartmut_Michel",
+  "dateOfBirth": "1948-07-18",
+  "birthDateParsed": "1948-07-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.8975",
+  "birthCoordinatesLng": "9.191944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist"
+  ],
+  "qid": "Q77086",
+  "birthPlace": "Ludwigsburg",
+  "fetchedAt": "2026-08-10T02:04:30.104Z"
+}

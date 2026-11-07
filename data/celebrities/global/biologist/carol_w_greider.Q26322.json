@@ -1,0 +1,35 @@
+{
+  "publicId": "d3ecb3ed",
+  "wikipediaSlug": "Carol_W._Greider",
+  "wikipediaId": "Q26322",
+  "name": "Carol W. Greider",
+  "fullName": "Carol W. Greider",
+  "profileSummary": "Carolyn Widney Greider is an American molecular biologist and Nobel laureate. She is a Distinguished Professor of Molecular, Cell, and Developmental Biology at the University of California, Santa Cruz.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Carol_Greider_by_Chris_Michel_1s946948-11-23.jpg/330px-Carol_Greider_by_Chris_Michel_1s946948-11-23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carol_W._Greider",
+  "dateOfBirth": "1961-04-15",
+  "birthDateParsed": "1961-04-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715",
+  "birthCoordinatesLng": "-117.1625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "molecular biologist",
+    "geneticist",
+    "biochemist",
+    "university teacher"
+  ],
+  "qid": "Q26322",
+  "birthPlace": "San Diego",
+  "fetchedAt": "2026-08-10T03:14:27.151Z"
+}

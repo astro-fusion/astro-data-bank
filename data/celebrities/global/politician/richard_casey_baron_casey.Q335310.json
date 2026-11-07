@@ -1,0 +1,33 @@
+{
+  "publicId": "9f19b54d",
+  "wikipediaSlug": "Richard_Casey,_Baron_Casey",
+  "wikipediaId": "Q335310",
+  "name": "Richard Casey, Baron Casey",
+  "fullName": "Richard Casey, Baron Casey",
+  "profileSummary": "Richard Gavin Gardiner Casey, Baron Casey was an Australian statesman who served as the 16th governor-general of Australia, in office from 1965 to 1969. He was also a distinguished army officer, long-serving cabinet minister, Ambassador to the United States, member of Churchill's War Cabinet, and Governor of Bengal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lord_Casey.jpg/330px-Lord_Casey.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Casey%2C_Baron_Casey",
+  "dateOfBirth": "1890-08-29",
+  "birthDateParsed": "1890-08-29",
+  "dateOfDeath": "1976-06-17",
+  "deathDateParsed": "1976-06-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.467777777",
+  "birthCoordinatesLng": "153.027777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "diarist"
+  ],
+  "qid": "Q335310",
+  "birthPlace": "Brisbane",
+  "fetchedAt": "2026-08-03T12:58:50.283Z"
+}

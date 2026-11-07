@@ -1,0 +1,32 @@
+{
+  "publicId": "ba440511",
+  "wikipediaSlug": "Mario_Andretti",
+  "wikipediaId": "Q171312",
+  "name": "Mario Andretti",
+  "fullName": "Mario Andretti",
+  "profileSummary": "Mario Gabriele Andretti is an American former racing driver who competed in Formula One from 1968 to 1982, and IndyCar from 1964 to 1994. Andretti won the Formula One World Drivers' Championship in 1978 with Lotus, and won 12 Grands Prix across 14 seasons. In American open-wheel racing, Andretti won four IndyCar National Championship titles and the Indianapolis 500 in 1969; in stock car racing, he won the Daytona 500 in 1967. In endurance racing, Andretti is a three-time winner of the 12 Hours of Sebring.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mario_Andretti_Goodwood_Festival_of_Speed_2021_%28cropped%29.jpg/330px-Mario_Andretti_Goodwood_Festival_of_Speed_2021_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Andretti",
+  "dateOfBirth": "1940-02-28",
+  "birthDateParsed": "1940-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.335833333",
+  "birthCoordinatesLng": "13.827777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q171312",
+  "birthPlace": "Motovun",
+  "fetchedAt": "2026-08-01T16:01:54.938Z"
+}

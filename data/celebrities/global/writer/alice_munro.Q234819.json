@@ -1,0 +1,35 @@
+{
+  "publicId": "0588ead4",
+  "wikipediaSlug": "Alice_Munro",
+  "wikipediaId": "Q234819",
+  "name": "Alice Munro",
+  "fullName": "Alice Munro",
+  "profileSummary": "Alice Ann Munro was a Canadian short story writer who was awarded the Nobel Prize in Literature in 2013. Her work tends to move forward and backward in time, with integrated short story cycles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Alice_Munro_2006_%28cropped%29.jpg/330px-Alice_Munro_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Munro",
+  "dateOfBirth": "1931-07-10",
+  "birthDateParsed": "1931-07-10",
+  "dateOfDeath": "2024-05-13",
+  "deathDateParsed": "2024-05-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.8874",
+  "birthCoordinatesLng": "-81.3104",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "screenwriter",
+    "novelist",
+    "short story writer",
+    "journalist"
+  ],
+  "qid": "Q234819",
+  "birthPlace": "Wingham",
+  "fetchedAt": "2026-08-06T07:41:02.136Z"
+}

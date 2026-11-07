@@ -1,0 +1,34 @@
+{
+  "publicId": "b5765d16",
+  "wikipediaSlug": "Andriy_Shevchenko",
+  "wikipediaId": "Q41244",
+  "name": "Andriy Shevchenko",
+  "fullName": "Andriy Shevchenko",
+  "profileSummary": "Andriy Mykolayovych Shevchenko is a Ukrainian former football manager and player. Shevchenko is considered one of the greatest strikers of all time and Ukraine's greatest ever player. He is the all-time top scorer for the Ukraine national team with 48 goals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_2024_%28cropped%29.png/330px-%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_2024_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+  "dateOfBirth": "1976-09-29",
+  "birthDateParsed": "1976-09-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.256944444",
+  "birthCoordinatesLng": "31.781666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "association football executive",
+    "film actor"
+  ],
+  "qid": "Q41244",
+  "birthPlace": "Yahotyn",
+  "fetchedAt": "2026-08-10T11:27:20.839Z"
+}

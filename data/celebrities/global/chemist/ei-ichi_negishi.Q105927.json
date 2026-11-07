@@ -1,0 +1,33 @@
+{
+  "publicId": "5c5d849b",
+  "wikipediaSlug": "Ei-ichi_Negishi",
+  "wikipediaId": "Q105927",
+  "name": "Ei-ichi Negishi",
+  "fullName": "Ei-ichi Negishi",
+  "profileSummary": "Ei-ichi Negishi  was a Japanese chemist who was best known for his discovery of the Negishi coupling. He spent most of his career at Purdue University in the United States, where he was the Herbert C. Brown Distinguished Professor and the director of the Negishi-Brown Institute. He was awarded the 2010 Nobel Prize in Chemistry \"for palladium catalyzed cross couplings in organic synthesis\" jointly with Richard F. Heck and Akira Suzuki.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nobel_Prize_2010-Press_Conference_KVA-DSC_7398.jpg/330px-Nobel_Prize_2010-Press_Conference_KVA-DSC_7398.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ei-ichi_Negishi",
+  "dateOfBirth": "1935-07-14",
+  "birthDateParsed": "1935-07-14",
+  "dateOfDeath": "2021-06-06",
+  "deathDateParsed": "2021-06-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.831597",
+  "birthCoordinatesLng": "125.286387",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "professor",
+    "researcher"
+  ],
+  "qid": "Q105927",
+  "birthPlace": "Hsinking",
+  "fetchedAt": "2026-08-10T02:04:01.539Z"
+}

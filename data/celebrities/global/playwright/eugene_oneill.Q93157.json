@@ -1,0 +1,33 @@
+{
+  "publicId": "7e718939",
+  "wikipediaSlug": "Eugene_O'Neill",
+  "wikipediaId": "Q93157",
+  "name": "Eugene O'Neill",
+  "fullName": "Eugene O'Neill",
+  "profileSummary": "Eugene Gladstone O'Neill Sr. was an American playwright. His poetically titled plays were among the first to introduce into the U.S. the drama techniques of realism, earlier associated with Chekhov, Ibsen, and Strindberg. The tragedy Long Day's Journey into Night is often included on lists of the finest American plays in the 20th century, alongside Tennessee Williams's A Streetcar Named Desire and Arthur Miller's Death of a Salesman. He was awarded the 1936 Nobel Prize in Literature. O'Neill is also the only playwright to win four Pulitzer Prizes for Drama.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ONeill-Eugene-LOC.jpg/330px-ONeill-Eugene-LOC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugene_O'Neill",
+  "dateOfBirth": "1888-10-16",
+  "birthDateParsed": "1888-10-16",
+  "dateOfDeath": "1953-11-27",
+  "deathDateParsed": "1953-11-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "screenwriter",
+    "writer"
+  ],
+  "qid": "Q93157",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-06T07:41:10.495Z"
+}

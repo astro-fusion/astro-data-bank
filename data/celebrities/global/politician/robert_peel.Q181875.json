@@ -1,0 +1,33 @@
+{
+  "publicId": "bcbd324f",
+  "wikipediaSlug": "Robert_Peel",
+  "wikipediaId": "Q181875",
+  "name": "Robert Peel",
+  "fullName": "Robert Peel",
+  "profileSummary": "Sir Robert Peel, 2nd Baronet, was a British Conservative statesman who twice was British Prime Minister, and simultaneously was Chancellor of the Exchequer (1834–1835). He previously was Home Secretary twice. He is regarded as the father of modern British policing, owing to his founding of the Metropolitan Police while he was Home Secretary. Peel was one of the founders of the modern Conservative Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sir_Robert_Peel%2C_2nd_Bt_by_Henry_William_Pickersgill-detail.jpg/330px-Sir_Robert_Peel%2C_2nd_Bt_by_Henry_William_Pickersgill-detail.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Peel",
+  "dateOfBirth": "1788-02-05",
+  "birthDateParsed": "1788-02-05",
+  "dateOfDeath": "1850-07-02",
+  "deathDateParsed": "1850-07-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.6484",
+  "birthCoordinatesLng": "-2.3169",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "art collector",
+    "minister"
+  ],
+  "qid": "Q181875",
+  "birthPlace": "Ramsbottom",
+  "fetchedAt": "2026-08-02T05:22:52.254Z"
+}

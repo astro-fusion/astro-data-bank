@@ -1,0 +1,32 @@
+{
+  "publicId": "d243d09d",
+  "wikipediaSlug": "Andrew_M._Allen",
+  "wikipediaId": "Q506349",
+  "name": "Andrew M. Allen",
+  "fullName": "Andrew M. Allen",
+  "profileSummary": "Andrew Michael Allen is a retired American astronaut. A former Marine aviator and lieutenant colonel, he worked as a test pilot before joining NASA in 1987. He flew three Space Shuttle missions before retiring in 1997.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Andrew_allen.jpg/330px-Andrew_allen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_M._Allen",
+  "dateOfBirth": "1955-08-04",
+  "birthDateParsed": "1955-08-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut"
+  ],
+  "qid": "Q506349",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-10T06:02:59.438Z"
+}

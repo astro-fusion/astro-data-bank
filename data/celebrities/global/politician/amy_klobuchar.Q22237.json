@@ -1,0 +1,36 @@
+{
+  "publicId": "0bcc83cd",
+  "wikipediaSlug": "Amy_Klobuchar",
+  "wikipediaId": "Q22237",
+  "name": "Amy Klobuchar",
+  "fullName": "Amy Klobuchar",
+  "profileSummary": "Amy Jean Klobuchar is an American politician and lawyer serving as the senior United States senator from Minnesota, a seat she has held since 2007. A member of the Minnesota Democratic–Farmer–Labor Party (DFL), Minnesota's affiliate of the Democratic Party, she previously served as county attorney of Hennepin County, Minnesota. She is running for governor of Minnesota in the 2026 election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg/330px-Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amy_Klobuchar",
+  "dateOfBirth": "1960-05-25",
+  "birthDateParsed": "1960-05-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.010555555",
+  "birthCoordinatesLng": "-93.455555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "autobiographer",
+    "jurist",
+    "writer",
+    "prosecutor"
+  ],
+  "qid": "Q22237",
+  "birthPlace": "Plymouth",
+  "fetchedAt": "2026-08-02T02:15:44.109Z"
+}

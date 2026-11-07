@@ -1,0 +1,40 @@
+{
+  "publicId": "db0a7175",
+  "wikipediaSlug": "Bjørnstjerne_Bjørnson",
+  "wikipediaId": "Q46405",
+  "name": "Bjørnstjerne Bjørnson",
+  "fullName": "Bjørnstjerne Bjørnson",
+  "profileSummary": "Bjørnstjerne Martinius Bjørnson was a Norwegian writer who received the 1903 Nobel Prize in Literature \"as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit\". The first Norwegian Nobel laureate, he was a prolific polemicist and extremely influential in Norwegian public life and Scandinavian cultural debate. Bjørnson is considered to be one of \"the four greats\" of Norwegian literature, alongside Ibsen, Lie, and Kielland. He is also celebrated for his lyrics to the Norwegian national anthem, \"Ja, vi elsker dette landet\". The composer Fredrikke Waaler based a composition for voice and piano on a text by Bjørnson, as did Anna Teichmüller.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Portrett_av_Bj%C3%B8rnstjerne_Bj%C3%B8rnson%2C_1909_-_no-nb_digifoto_20150129_00043_bldsa_BB0791_-_Restoration.jpg/330px-Portrett_av_Bj%C3%B8rnstjerne_Bj%C3%B8rnson%2C_1909_-_no-nb_digifoto_20150129_00043_bldsa_BB0791_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson",
+  "dateOfBirth": "1832-12-08",
+  "birthDateParsed": "1832-12-08",
+  "dateOfDeath": "1910-04-26",
+  "deathDateParsed": "1910-04-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "62.582222222",
+  "birthCoordinatesLng": "10.287222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "playwright",
+    "writer",
+    "journalist",
+    "prose writer",
+    "politician",
+    "theatre manager",
+    "director",
+    "Theaterintendant",
+    "opinion journalist"
+  ],
+  "qid": "Q46405",
+  "birthPlace": "Kvikne",
+  "fetchedAt": "2026-08-06T07:41:09.390Z"
+}

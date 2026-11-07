@@ -1,0 +1,43 @@
+{
+  "publicId": "367e5ae9",
+  "wikipediaSlug": "José_Saramago",
+  "wikipediaId": "Q37060",
+  "name": "José Saramago",
+  "fullName": "José Saramago",
+  "profileSummary": "José de Sousa Saramago was a Portuguese writer. He was the recipient of the 1998 Nobel Prize in Literature for his \"parables sustained by imagination, compassion and irony [with which he] continually enables us once again to apprehend an elusory reality.\" His works, some of which can be seen as allegories, commonly present subversive perspectives on historic events, emphasizing the theopoetic human factor. In 2003 Harold Bloom described Saramago as \"the most gifted novelist alive in the world today\" and in 2010 said he considers Saramago to be \"a permanent part of the Western canon\", while James Wood praises \"the distinctive tone to his fiction because he narrates his novels as if he were someone both wise and ignorant.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/1999-Saramago_a_Siena.jpg/330px-1999-Saramago_a_Siena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Saramago",
+  "dateOfBirth": "1922-11-16",
+  "birthDateParsed": "1922-11-16",
+  "dateOfDeath": "2010-06-18",
+  "deathDateParsed": "2010-06-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.349922222",
+  "birthCoordinatesLng": "-8.532816666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "playwright",
+    "translator",
+    "novelist",
+    "poet",
+    "chronicler",
+    "essayist",
+    "diarist",
+    "literary critic",
+    "writer",
+    "screenwriter",
+    "dramaturge",
+    "revolutionary"
+  ],
+  "qid": "Q37060",
+  "birthPlace": "Azinhaga",
+  "fetchedAt": "2026-08-06T07:41:58.016Z"
+}

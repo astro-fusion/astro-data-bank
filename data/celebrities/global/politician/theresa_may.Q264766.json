@@ -1,0 +1,31 @@
+{
+  "publicId": "d91eec9d",
+  "wikipediaSlug": "Theresa_May",
+  "wikipediaId": "Q264766",
+  "name": "Theresa May",
+  "fullName": "Theresa May",
+  "profileSummary": "Theresa Mary May, Baroness May of Maidenhead, is a British politician who served as Prime Minister of the United Kingdom and Leader of the Conservative Party from 2016 to 2019. She previously served as Home Secretary from 2010 to 2016. She was Member of Parliament (MP) for Maidenhead from 1997 to 2024, and has been a member of the House of Lords since August 2024. May was the second female British prime minister, after Margaret Thatcher, and the first woman to have held two of the Great Offices of State. May is a one-nation conservative.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg/330px-Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Theresa_May",
+  "dateOfBirth": "1956-10-01",
+  "birthDateParsed": "1956-10-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.766388888",
+  "birthCoordinatesLng": "0.286111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q264766",
+  "birthPlace": "Eastbourne",
+  "fetchedAt": "2026-08-03T15:53:24.227Z"
+}

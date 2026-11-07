@@ -1,0 +1,33 @@
+{
+  "publicId": "df3d5768",
+  "wikipediaSlug": "Spencer_Cox",
+  "wikipediaId": "Q16208237",
+  "name": "Spencer Cox",
+  "fullName": "Spencer Cox",
+  "profileSummary": "Spencer James Cox is an American lawyer and politician serving since 2021 as the 18th governor of Utah. A member of the Republican Party, he served from 2013 to 2021 as the eighth lieutenant governor of Utah. In Fairview, Utah, where Cox lives and was raised, he was elected to the city council in 2004 and then as mayor in 2005. In 2008, he was elected as a Sanpete County commissioner.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spencer_Cox_-_54856206905_%28cropped%29.jpg/330px-Spencer_Cox_-_54856206905_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spencer_Cox",
+  "dateOfBirth": "1975-07-11",
+  "birthDateParsed": "1975-07-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.543055555",
+  "birthCoordinatesLng": "-111.456388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q16208237",
+  "birthPlace": "Mount Pleasant",
+  "fetchedAt": "2026-08-02T03:29:11.026Z"
+}

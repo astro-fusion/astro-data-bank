@@ -1,0 +1,32 @@
+{
+  "publicId": "33599469",
+  "wikipediaSlug": "Alan_Irvine_(footballer,_born_1958)",
+  "wikipediaId": "Q2830524",
+  "name": "Alan Irvine (footballer, born 1958)",
+  "fullName": "Alan Irvine (footballer, born 1958)",
+  "profileSummary": "James Alan Irvine is a Scottish former professional footballer and coach. He is currently assistant manager of Premier League club Everton.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Alan_Irvine_1.png/330px-Alan_Irvine_1.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Irvine_(footballer%2C_born_1958)",
+  "dateOfBirth": "1958-07-12",
+  "birthDateParsed": "1958-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q2830524",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-01T05:19:30.175Z"
+}

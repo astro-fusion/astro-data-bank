@@ -1,0 +1,32 @@
+{
+  "publicId": "515b3ec7",
+  "wikipediaSlug": "David_Katzenstein",
+  "wikipediaId": "Q90683696",
+  "name": "David Katzenstein",
+  "fullName": "David Katzenstein",
+  "profileSummary": "David Katzenstein was an American virologist and prominent AIDS researcher. He was professor emeritus of infectious diseases and global health at Stanford University.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Katzenstein",
+  "dateOfBirth": "1952-01-03",
+  "birthDateParsed": "1952-01-03",
+  "dateOfDeath": "2021-01-25",
+  "deathDateParsed": "2021-01-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.763333333",
+  "birthCoordinatesLng": "-72.685",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "researcher",
+    "physician"
+  ],
+  "qid": "Q90683696",
+  "birthPlace": "Hartford",
+  "fetchedAt": "2026-08-04T15:06:36.441Z"
+}

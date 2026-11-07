@@ -1,0 +1,35 @@
+{
+  "publicId": "6cee7229",
+  "wikipediaSlug": "Edmund_Barton",
+  "wikipediaId": "Q23342",
+  "name": "Edmund Barton",
+  "fullName": "Edmund Barton",
+  "profileSummary": "Sir Edmund \"Toby\" Barton was an Australian politician, barrister and jurist who served as the first prime minister of Australia from 1901 to 1903. He held office as the leader of the Protectionist Party, before resigning in 1903 to become a founding justice of the High Court of Australia, on which he served until his death in 1920. Barton is regarded as a founding father of Australia, a principal leader in the federation of the Australian colonies and a drafter of the Commonwealth Constitution.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edmund_Barton_-_Swiss_Studios_%28b%26w%29.jpg/330px-Edmund_Barton_-_Swiss_Studios_%28b%26w%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edmund_Barton",
+  "dateOfBirth": "1849-01-18",
+  "birthDateParsed": "1849-01-18",
+  "dateOfDeath": "1920-01-07",
+  "deathDateParsed": "1920-01-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.881666666",
+  "birthCoordinatesLng": "151.1844444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "judge",
+    "lawyer",
+    "head of government"
+  ],
+  "qid": "Q23342",
+  "birthPlace": "Glebe",
+  "fetchedAt": "2026-08-03T12:58:13.340Z"
+}

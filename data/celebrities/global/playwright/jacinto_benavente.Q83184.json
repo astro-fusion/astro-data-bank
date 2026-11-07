@@ -1,0 +1,37 @@
+{
+  "publicId": "a01f5d02",
+  "wikipediaSlug": "Jacinto_Benavente",
+  "wikipediaId": "Q83184",
+  "name": "Jacinto Benavente",
+  "fullName": "Jacinto Benavente",
+  "profileSummary": "Jacinto Benavente y Martínez was one of the foremost Spanish dramatists of the 20th century. He was awarded the 1922 Nobel Prize in Literature \"for the happy manner in which he has continued the illustrious traditions of the Spanish drama\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jacinto_Benavente_y_Martinez.jpg/330px-Jacinto_Benavente_y_Martinez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacinto_Benavente",
+  "dateOfBirth": "1866-08-12",
+  "birthDateParsed": "1866-08-12",
+  "dateOfDeath": "1954-07-14",
+  "deathDateParsed": "1954-07-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "journalist",
+    "writer",
+    "politician",
+    "poet",
+    "film director",
+    "lawyer"
+  ],
+  "qid": "Q83184",
+  "birthPlace": "Madrid",
+  "fetchedAt": "2026-08-06T07:41:47.465Z"
+}

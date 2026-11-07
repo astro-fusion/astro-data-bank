@@ -1,0 +1,35 @@
+{
+  "publicId": "91ba8682",
+  "wikipediaSlug": "Arthur_Kornberg",
+  "wikipediaId": "Q295678",
+  "name": "Arthur Kornberg",
+  "fullName": "Arthur Kornberg",
+  "profileSummary": "Arthur Kornberg was an American biochemist who won the Nobel Prize in Physiology or Medicine in 1959 for the discovery of \"the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid\" together with Spanish biochemist and physician Severo Ochoa of New York University. He was also awarded the Paul-Lewis Award in Enzyme Chemistry from the American Chemical Society in 1951, an L.H.D. degree from Yeshiva University in 1962, and the National Medal of Science in 1979. In 1991, Kornberg received the Golden Plate Award of the American Academy of Achievement and the Gairdner Foundation Award in 1995.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Arthur_Kornberg_%2830828410210%29_-_restoration1.jpg/330px-Arthur_Kornberg_%2830828410210%29_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Kornberg",
+  "dateOfBirth": "1918-03-03",
+  "birthDateParsed": "1918-03-03",
+  "dateOfDeath": "2007-10-26",
+  "deathDateParsed": "2007-10-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "biochemist",
+    "university teacher",
+    "non-fiction writer",
+    "chemist"
+  ],
+  "qid": "Q295678",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-10T03:13:53.221Z"
+}

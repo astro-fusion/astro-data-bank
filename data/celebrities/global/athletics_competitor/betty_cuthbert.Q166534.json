@@ -1,0 +1,32 @@
+{
+  "publicId": "6583b068",
+  "wikipediaSlug": "Betty_Cuthbert",
+  "wikipediaId": "Q166534",
+  "name": "Betty Cuthbert",
+  "fullName": "Betty Cuthbert",
+  "profileSummary": "Elizabeth Alyse Cuthbert, was an Australian athlete and a four-time Olympic champion. She was nicknamed Australia's \"Golden Girl\". During her career, she set world records for 60 metres, 100 yards, 200 metres, 220 yards and 440 yards. Cuthbert also contributed to Australian relay teams completing a win in the 4 × 100 metres, 4 × 110 yards, 4 × 200 metres and 4 × 220 yards. Cuthbert had a distinctive running style, with a high knee lift and mouth wide open. She was named in 1998 an Australian National Treasure and was inducted as a Legend in the Sport Australia Hall of Fame in 1994 and the Athletics Australia Hall of Fame in 2000.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Betty_Cuthbert%2C_c._1950s%2C_by_Ted_Hood.jpg/330px-Betty_Cuthbert%2C_c._1950s%2C_by_Ted_Hood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Betty_Cuthbert",
+  "dateOfBirth": "1938-04-20",
+  "birthDateParsed": "1938-04-20",
+  "dateOfDeath": "2017-08-06",
+  "deathDateParsed": "2017-08-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "athletics competitor",
+    "sprinter"
+  ],
+  "qid": "Q166534",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-10T12:58:44.828Z"
+}

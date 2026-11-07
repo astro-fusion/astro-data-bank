@@ -1,0 +1,34 @@
+{
+  "publicId": "9b38c4a8",
+  "wikipediaSlug": "Daniel_McFadden",
+  "wikipediaId": "Q312560",
+  "name": "Daniel McFadden",
+  "fullName": "Daniel McFadden",
+  "profileSummary": "Daniel Little McFadden is an American econometrician who shared the 2000 Nobel Memorial Prize in Economic Sciences with James Heckman. McFadden's share of the prize was \"for his development of theory and methods for analyzing discrete choice\". He is the Presidential Professor of Health Economics at the University of Southern California and Professor of the Graduate School at University of California, Berkeley.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Daniel_McFadden_01.JPG/330px-Daniel_McFadden_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_McFadden",
+  "dateOfBirth": "1937-07-29",
+  "birthDateParsed": "1937-07-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.78",
+  "birthCoordinatesLng": "-78.64",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "professor",
+    "statistician"
+  ],
+  "qid": "Q312560",
+  "birthPlace": "Raleigh",
+  "fetchedAt": "2026-08-10T09:42:58.436Z"
+}

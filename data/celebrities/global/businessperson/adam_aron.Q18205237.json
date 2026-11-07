@@ -1,0 +1,31 @@
+{
+  "publicId": "8fee89bb",
+  "wikipediaSlug": "Adam_Aron",
+  "wikipediaId": "Q18205237",
+  "name": "Adam Aron",
+  "fullName": "Adam Aron",
+  "profileSummary": "Adam Maximilian Aron is an American businessman and the chairman and CEO of AMC Entertainment Holdings, Inc. More recently, he became a co-owner of the Philadelphia 76ers, additionally serving as its CEO from 2011 to 2013. Aron had previously served as president and CEO of Norwegian Cruise Line, from 1993 to 1996, as well as chairman and CEO of Vail Resorts from 1996 to 2006, and continues to serve on the board of directors. In 2006, Aron formed a personal consultancy, World Leisure Partners, Inc.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Adam_Aron_momi-2.jpg/330px-Adam_Aron_momi-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Aron",
+  "dateOfBirth": "1954-09-30",
+  "birthDateParsed": "1954-09-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q18205237",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-05T02:42:08.503Z"
+}

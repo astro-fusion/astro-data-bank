@@ -1,0 +1,34 @@
+{
+  "publicId": "d247debb",
+  "wikipediaSlug": "Ernst_Ruska",
+  "wikipediaId": "Q71022",
+  "name": "Ernst Ruska",
+  "fullName": "Ernst Ruska",
+  "profileSummary": "Ernst August Friedrich Ruska was a German physicist who won the Nobel Prize in Physics in 1986 for his work in electron optics, including the design of the first electron microscope.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/Ernst_Ruska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernst_Ruska",
+  "dateOfBirth": "1906-12-25",
+  "birthDateParsed": "1906-12-25",
+  "dateOfDeath": "1988-05-27",
+  "deathDateParsed": "1988-05-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.412222222",
+  "birthCoordinatesLng": "8.71",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "inventor",
+    "electrical engineer"
+  ],
+  "qid": "Q71022",
+  "birthPlace": "Heidelberg",
+  "fetchedAt": "2026-08-06T05:01:51.898Z"
+}

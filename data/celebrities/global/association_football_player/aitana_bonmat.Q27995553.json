@@ -1,0 +1,31 @@
+{
+  "publicId": "91893a2c",
+  "wikipediaSlug": "Aitana_Bonmatí",
+  "wikipediaId": "Q27995553",
+  "name": "Aitana Bonmatí",
+  "fullName": "Aitana Bonmatí",
+  "profileSummary": "Aitana Bonmatí i Conca is a Spanish professional footballer from Catalonia who plays as a midfielder for Liga F club Barcelona and the Spain national team. She has also represented Catalonia. Having won all major club and individual awards available to a European player by 2023, including the most-decorated season of any footballer ever for 2022–23, she is considered one of the best players in women's football, and one of the greatest of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/25th_Laureus_World_Sports_Awards_-_240422_214032.jpg/330px-25th_Laureus_World_Sports_Awards_-_240422_214032.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aitana_Bonmat%C3%AD",
+  "dateOfBirth": "1998-01-18",
+  "birthDateParsed": "1998-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.259195",
+  "birthCoordinatesLng": "1.772998",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q27995553",
+  "birthPlace": "Sant Pere de Ribes",
+  "fetchedAt": "2026-08-10T11:27:29.691Z"
+}

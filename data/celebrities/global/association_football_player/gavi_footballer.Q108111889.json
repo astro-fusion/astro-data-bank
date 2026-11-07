@@ -1,0 +1,31 @@
+{
+  "publicId": "eacd460b",
+  "wikipediaSlug": "Gavi_(footballer)",
+  "wikipediaId": "Q108111889",
+  "name": "Gavi (footballer)",
+  "fullName": "Gavi (footballer)",
+  "profileSummary": "Pablo Martín Páez Gavira, known as Gavi, is a Spanish professional footballer who plays as a central midfielder for La Liga club Barcelona and the Spain national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gavi_Argentina_v_Spain_19_July_2026-013.jpg/330px-Gavi_Argentina_v_Spain_19_July_2026-013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gavi_(footballer)",
+  "dateOfBirth": "2004-08-05",
+  "birthDateParsed": "2004-08-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.16",
+  "birthCoordinatesLng": "-5.923611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q108111889",
+  "birthPlace": "Los Palacios y Villafranca",
+  "fetchedAt": "2026-08-10T11:28:40.779Z"
+}

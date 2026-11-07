@@ -1,0 +1,35 @@
+{
+  "publicId": "37b7e49a",
+  "wikipediaSlug": "Levi_P._Morton",
+  "wikipediaId": "Q298997",
+  "name": "Levi P. Morton",
+  "fullName": "Levi P. Morton",
+  "profileSummary": "Levi Parsons Morton was the 22nd vice president of the United States from 1889 to 1893. He also served as United States ambassador to France, as a United States representative from New York, and as the 31st governor of New York.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Levi_P._Morton_%28U.S._Vice_president_1889-1893%29_%28cropped%29.jpg/330px-Levi_P._Morton_%28U.S._Vice_president_1889-1893%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Levi_P._Morton",
+  "dateOfBirth": "1824-05-16",
+  "birthDateParsed": "1824-05-16",
+  "dateOfDeath": "1920-05-16",
+  "deathDateParsed": "1920-05-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.8946058",
+  "birthCoordinatesLng": "-73.3135468",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "statesperson",
+    "governor",
+    "vice president"
+  ],
+  "qid": "Q298997",
+  "birthPlace": "Shoreham",
+  "fetchedAt": "2026-08-01T18:08:20.016Z"
+}

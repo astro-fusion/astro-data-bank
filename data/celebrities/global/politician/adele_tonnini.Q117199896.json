@@ -1,0 +1,31 @@
+{
+  "publicId": "dee691d4",
+  "wikipediaSlug": "Adele_Tonnini",
+  "wikipediaId": "Q117199896",
+  "name": "Adele Tonnini",
+  "fullName": "Adele Tonnini",
+  "profileSummary": "Adele Tonnini is a Sammarinese politician who had served alongside Alessandro Scarano as the Captains Regent of San Marino from April 2023 to October 2023. She is a member of RETE Movement.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Adele_Tonnini.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adele_Tonnini",
+  "dateOfBirth": "1977-06-24",
+  "birthDateParsed": "1977-06-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.932011111",
+  "birthCoordinatesLng": "12.44845",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q117199896",
+  "birthPlace": "San Marino",
+  "fetchedAt": "2026-08-04T00:54:56.108Z"
+}

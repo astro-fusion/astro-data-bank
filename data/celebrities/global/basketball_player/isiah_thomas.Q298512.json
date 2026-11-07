@@ -1,0 +1,33 @@
+{
+  "publicId": "c6c04cf0",
+  "wikipediaSlug": "Isiah_Thomas",
+  "wikipediaId": "Q298512",
+  "name": "Isiah Thomas",
+  "fullName": "Isiah Thomas",
+  "profileSummary": "Isiah Lord Thomas III, also known as \"Zeke\", is an American former professional basketball player who is a current analyst for NBA TV and Fox Sports. He played his entire professional career for the Detroit Pistons of the National Basketball Association (NBA). Widely regarded as one of the greatest point guards of all time, Thomas was a two-time NBA champion, an NBA Finals MVP recipient, a five-time All-NBA Team member, a 12-time NBA All-Star with two All-Star Game MVP awards and the 1985 NBA assist leader. He was named to the NBA's 50th and 75th anniversary teams, and inducted into the Naismith Memorial Basketball Hall of Fame in 2000. From 2000 to 2012 he coached the Indiana Pacers, New York Knicks, and FIU.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Isiah_Thomas_2007_%28cropped%29.jpg/330px-Isiah_Thomas_2007_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isiah_Thomas",
+  "dateOfBirth": "1961-04-30",
+  "birthDateParsed": "1961-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "consultant"
+  ],
+  "qid": "Q298512",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-01T15:37:09.018Z"
+}

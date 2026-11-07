@@ -1,0 +1,34 @@
+{
+  "publicId": "800160df",
+  "wikipediaSlug": "Sarah_Huckabee_Sanders",
+  "wikipediaId": "Q27986907",
+  "name": "Sarah Huckabee Sanders",
+  "fullName": "Sarah Huckabee Sanders",
+  "profileSummary": "Sarah Elizabeth Huckabee Sanders is an American politician serving as the 47th governor of Arkansas since 2023. Sanders is the daughter of Ambassador Mike Huckabee, who served from 1996 to 2007 as Arkansas's 44th governor. A member of the Republican Party, she was the 31st White House press secretary, serving under President Donald Trump from 2017 to 2019. Sanders was the third woman to be White House press secretary. She also served as a senior advisor on Trump's 2016 presidential campaign. Sanders became the Republican nominee in the 2022 Arkansas gubernatorial election and won, defeating Democratic nominee Chris Jones. She is running for reelection in 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Governor_Sarah_Huckabee_Sanders_2026.jpg/330px-Governor_Sarah_Huckabee_Sanders_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarah_Huckabee_Sanders",
+  "dateOfBirth": "1982-08-13",
+  "birthDateParsed": "1982-08-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.667778",
+  "birthCoordinatesLng": "-93.592222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "press secretary",
+    "political campaign staff",
+    "spokesperson"
+  ],
+  "qid": "Q27986907",
+  "birthPlace": "Hope",
+  "fetchedAt": "2026-08-02T03:29:11.899Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "eb4e4b83",
+  "wikipediaSlug": "Bruce_Beutler",
+  "wikipediaId": "Q104592",
+  "name": "Bruce Beutler",
+  "fullName": "Bruce Beutler",
+  "profileSummary": "Bruce Alan Beutler is an American immunologist and geneticist. Together with Jules A. Hoffmann, he received one-half of the 2011 Nobel Prize in Physiology or Medicine, for \"discoveries concerning the activation of innate immunity.\" Beutler discovered the long-elusive receptor for lipopolysaccharide. He did so by identifying spontaneous mutations in the gene coding for mouse Toll-like receptor 4 (Tlr4) in two unrelated strains of LPS-refractory mice and proving they were responsible for that phenotype. Subsequently, and chiefly through the work of Shizuo Akira, other TLRs were shown to detect signature molecules of most infectious microbes, in each case triggering an innate immune response.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bruce_Beutler.jpg/330px-Bruce_Beutler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Beutler",
+  "dateOfBirth": "1957-12-29",
+  "birthDateParsed": "1957-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "geneticist",
+    "immunologist",
+    "university teacher",
+    "scientist"
+  ],
+  "qid": "Q104592",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-10T03:14:24.142Z"
+}

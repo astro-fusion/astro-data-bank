@@ -1,0 +1,32 @@
+{
+  "publicId": "568cf0c7",
+  "wikipediaSlug": "Helen_Jacobs",
+  "wikipediaId": "Q53567",
+  "name": "Helen Jacobs",
+  "fullName": "Helen Jacobs",
+  "profileSummary": "Helen Hull Jacobs was an American tennis player who won nine Grand Slam titles. In 1936 she was ranked No. 1 in singles by A. Wallis Myers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Helen_Jacobs%2C_c1928_%28cropped%29.jpg/330px-Helen_Jacobs%2C_c1928_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helen_Jacobs",
+  "dateOfBirth": "1908-08-06",
+  "birthDateParsed": "1908-08-06",
+  "dateOfDeath": "1997-06-02",
+  "deathDateParsed": "1997-06-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.399722222",
+  "birthCoordinatesLng": "-110.781666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "writer"
+  ],
+  "qid": "Q53567",
+  "birthPlace": "Globe",
+  "fetchedAt": "2026-08-01T15:00:11.537Z"
+}

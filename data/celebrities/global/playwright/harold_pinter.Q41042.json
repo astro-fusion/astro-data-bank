@@ -1,0 +1,39 @@
+{
+  "publicId": "93d9b93c",
+  "wikipediaSlug": "Harold_Pinter",
+  "wikipediaId": "Q41042",
+  "name": "Harold Pinter",
+  "fullName": "Harold Pinter",
+  "profileSummary": "Harold Pinter was an English playwright, screenwriter, director and actor. A Nobel Prize winner, Pinter was one of the most influential modern British dramatists with a writing career that spanned more than 50 years. His best-known plays include The Birthday Party (1957), The Homecoming (1964) and Betrayal (1978), each of which he adapted for the screen. His screenplay adaptations of others' works include The Servant (1963), The Go-Between (1971), The French Lieutenant's Woman (1981), The Trial (1993) and Sleuth (2007). He also directed or acted in radio, stage, television and film productions of his own and others' works.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Harold_Pinter_1962.jpg/330px-Harold_Pinter_1962.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harold_Pinter",
+  "dateOfBirth": "1930-10-10",
+  "birthDateParsed": "1930-10-10",
+  "dateOfDeath": "2008-12-24",
+  "deathDateParsed": "2008-12-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "actor",
+    "film director",
+    "screenwriter",
+    "writer",
+    "theatre director",
+    "poet",
+    "novelist",
+    "director"
+  ],
+  "qid": "Q41042",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-06T07:41:45.602Z"
+}

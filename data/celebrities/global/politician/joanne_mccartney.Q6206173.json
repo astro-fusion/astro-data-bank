@@ -1,0 +1,32 @@
+{
+  "publicId": "d7f7bc1b",
+  "wikipediaSlug": "Joanne_McCartney",
+  "wikipediaId": "Q6206173",
+  "name": "Joanne McCartney",
+  "fullName": "Joanne McCartney",
+  "profileSummary": "Joanne McCartney is a British barrister and Labour and Co-operative Party politician. Since 2004, she has served as a member of the London Assembly, representing Enfield & Haringey. Following the election of Sadiq Khan as Mayor of London in 2016, McCartney has served as Statutory Deputy Mayor of London.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Joanne_McCartney_2018.jpg/330px-Joanne_McCartney_2018.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joanne_McCartney",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "barrister"
+  ],
+  "qid": "Q6206173",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-03T14:11:04.280Z"
+}

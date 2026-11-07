@@ -1,0 +1,36 @@
+{
+  "publicId": "c52ea018",
+  "wikipediaSlug": "Alfonso_García_Robles",
+  "wikipediaId": "Q203843",
+  "name": "Alfonso García Robles",
+  "fullName": "Alfonso García Robles",
+  "profileSummary": "Alfonso García Robles was a Mexican diplomat and politician who, in conjunction with Sweden's Alva Myrdal, received the Nobel Peace Prize in 1982.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Alfonso_Garcia_Robles_1981.jpg/330px-Alfonso_Garcia_Robles_1981.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfonso_Garc%C3%ADa_Robles",
+  "dateOfBirth": "1911-03-20",
+  "birthDateParsed": "1911-03-20",
+  "dateOfDeath": "1991-09-02",
+  "deathDateParsed": "1991-09-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.983333333",
+  "birthCoordinatesLng": "-102.283333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "writer",
+    "lawyer",
+    "politician",
+    "jurist",
+    "ambassador"
+  ],
+  "qid": "Q203843",
+  "birthPlace": "Zamora de Hidalgo",
+  "fetchedAt": "2026-08-04T02:12:53.689Z"
+}

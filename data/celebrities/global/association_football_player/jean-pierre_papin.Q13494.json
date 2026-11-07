@@ -1,0 +1,32 @@
+{
+  "publicId": "7da26f17",
+  "wikipediaSlug": "Jean-Pierre_Papin",
+  "wikipediaId": "Q13494",
+  "name": "Jean-Pierre Papin",
+  "fullName": "Jean-Pierre Papin",
+  "profileSummary": "Jean-Pierre Roger Guillaume Papin is a French football manager and former professional player who played as a forward. He was most recently the head coach of the reserve team of Olympique de Marseille. He won the Ballon d'Or in 1991.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PapinJP1997_%28cropped%29.jpg/330px-PapinJP1997_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Pierre_Papin",
+  "dateOfBirth": "1963-11-05",
+  "birthDateParsed": "1963-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.725555555",
+  "birthCoordinatesLng": "1.613888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q13494",
+  "birthPlace": "Boulogne-sur-Mer",
+  "fetchedAt": "2026-08-10T11:28:19.838Z"
+}

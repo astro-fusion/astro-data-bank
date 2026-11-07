@@ -1,0 +1,31 @@
+{
+  "publicId": "4a6bb383",
+  "wikipediaSlug": "François_Thijssen",
+  "wikipediaId": "Q933997",
+  "name": "François Thijssen",
+  "fullName": "François Thijssen",
+  "profileSummary": "François Thijssen or Frans Thijsz was a Dutch-French explorer who explored the southern coast of Australia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hessel_Gerritsz_-_Malay_Archipelago_and_Australia.jpg/330px-Hessel_Gerritsz_-_Malay_Archipelago_and_Australia.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Thijssen",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.316666666",
+  "birthCoordinatesLng": "5.55",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer"
+  ],
+  "qid": "Q933997",
+  "birthPlace": "Netherlands",
+  "fetchedAt": "2026-08-06T01:38:06.995Z"
+}

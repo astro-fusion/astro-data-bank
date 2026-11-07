@@ -1,0 +1,36 @@
+{
+  "publicId": "7f2c7747",
+  "wikipediaSlug": "Ernest_Rutherford",
+  "wikipediaId": "Q9123",
+  "name": "Ernest Rutherford",
+  "fullName": "Ernest Rutherford",
+  "profileSummary": "Ernest Rutherford, 1st Baron Rutherford of Nelson, was a New Zealand physicist and chemist who was a pioneering researcher in both atomic and nuclear physics. He has been described as \"the father of nuclear physics\" and \"the greatest experimentalist since Michael Faraday.\" In 1908, he was awarded the Nobel Prize in Chemistry \"for his investigations into the disintegration of the elements, and the chemistry of radioactive substances.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg/330px-Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+  "dateOfBirth": "1871-08-30",
+  "birthDateParsed": "1871-08-30",
+  "dateOfDeath": "1937-10-19",
+  "deathDateParsed": "1937-10-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.388",
+  "birthCoordinatesLng": "173.079",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "nuclear physicist",
+    "chemist",
+    "physicist",
+    "professor",
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q9123",
+  "birthPlace": "Spring Grove",
+  "fetchedAt": "2026-08-10T02:03:50.205Z"
+}

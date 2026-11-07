@@ -1,0 +1,31 @@
+{
+  "publicId": "b006d6cf",
+  "wikipediaSlug": "Bob_Cunis",
+  "wikipediaId": "Q4932185",
+  "name": "Bob Cunis",
+  "fullName": "Bob Cunis",
+  "profileSummary": "Robert Smith Cunis was a cricketer who played 20 Test matches for New Zealand as a pace bowler between 1964 and 1972, and was later coach of the New Zealand team from 1987 to 1990. His son Stephen played cricket for Canterbury between 1998 and 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bob_Cunis_1967.jpg/330px-Bob_Cunis_1967.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Cunis",
+  "dateOfBirth": "1941-01-05",
+  "birthDateParsed": "1941-01-05",
+  "dateOfDeath": "2008-08-09",
+  "deathDateParsed": "2008-08-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-35.725",
+  "birthCoordinatesLng": "174.323611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4932185",
+  "birthPlace": "Whangārei",
+  "fetchedAt": "2026-07-31T21:02:06.186Z"
+}

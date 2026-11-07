@@ -1,0 +1,33 @@
+{
+  "publicId": "92be3d2e",
+  "wikipediaSlug": "Albert_Hartkopf",
+  "wikipediaId": "Q4710434",
+  "name": "Albert Hartkopf",
+  "fullName": "Albert Hartkopf",
+  "profileSummary": "Albert Ernst Victor Hartkopf was an Australian sportsman who played Test cricket for Australia and Australian rules football for Melbourne University Football Club.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Albert_Hartkopf.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Hartkopf",
+  "dateOfBirth": "1889-12-28",
+  "birthDateParsed": "1889-12-28",
+  "dateOfDeath": "1968-05-20",
+  "deathDateParsed": "1968-05-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.784",
+  "birthCoordinatesLng": "144.986",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "Australian rules football player",
+    "physician"
+  ],
+  "qid": "Q4710434",
+  "birthPlace": "Fitzroy North",
+  "fetchedAt": "2026-07-31T19:44:12.459Z"
+}

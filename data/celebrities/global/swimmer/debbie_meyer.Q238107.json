@@ -1,0 +1,31 @@
+{
+  "publicId": "6480ca87",
+  "wikipediaSlug": "Debbie_Meyer",
+  "wikipediaId": "Q238107",
+  "name": "Debbie Meyer",
+  "fullName": "Debbie Meyer",
+  "profileSummary": "Deborah Elizabeth Meyer, also known by her married name Deborah Meyer Weber, is an American former competition swimmer, a 1968 three-time Olympic champion, and a former world record-holder in five freestyle events: 200, 400, 800, and 1500 meters, and 880yd freestyle.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Debbie_Meyer_1968c.jpg/330px-Debbie_Meyer_1968c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Debbie_Meyer",
+  "dateOfBirth": "1952-08-14",
+  "birthDateParsed": "1952-08-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.978611111",
+  "birthCoordinatesLng": "-76.491944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q238107",
+  "birthPlace": "Annapolis",
+  "fetchedAt": "2026-08-10T12:58:56.802Z"
+}

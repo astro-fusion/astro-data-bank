@@ -1,0 +1,33 @@
+{
+  "publicId": "ef218108",
+  "wikipediaSlug": "David_Donoho",
+  "wikipediaId": "Q1114742",
+  "name": "David Donoho",
+  "fullName": "David Donoho",
+  "profileSummary": "David Leigh Donoho is an American statistician. He is a professor of statistics at Stanford University, where he is also the Anne T. and Robert M. Bass Professor in the Humanities and Sciences. His work includes the development of effective methods for the construction of low-dimensional representations for high-dimensional data problems, development of wavelets for denoising and compressed sensing. He was elected a Member of the American Philosophical Society in 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/David_Donoho_ICM_2018_%2843006887855%29_%28cropped%29.jpg/330px-David_Donoho_ICM_2018_%2843006887855%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Donoho",
+  "dateOfBirth": "1957-03-05",
+  "birthDateParsed": "1957-03-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "statistician",
+    "university teacher",
+    "academic"
+  ],
+  "qid": "Q1114742",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-04T15:06:14.338Z"
+}

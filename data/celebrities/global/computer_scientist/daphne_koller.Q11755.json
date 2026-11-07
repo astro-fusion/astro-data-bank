@@ -1,0 +1,34 @@
+{
+  "publicId": "2fd734e3",
+  "wikipediaSlug": "Daphne_Koller",
+  "wikipediaId": "Q11755",
+  "name": "Daphne Koller",
+  "fullName": "Daphne Koller",
+  "profileSummary": "Daphne Koller is an Israeli-American computer scientist. She was a professor in the department of computer science at Stanford University and a MacArthur Foundation fellowship recipient. She is one of the founders of Coursera, an online education platform. Her general research area is artificial intelligence and its applications in the biomedical sciences. Koller was featured in a 2004 article by MIT Technology Review titled \"10 Emerging Technologies That Will Change Your World\" concerning the topic of Bayesian machine learning.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Daphne_Koller_2019.jpg/330px-Daphne_Koller_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daphne_Koller",
+  "dateOfBirth": "1968-08-27",
+  "birthDateParsed": "1968-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.776679",
+  "birthCoordinatesLng": "35.234156",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "artificial intelligence researcher",
+    "university teacher"
+  ],
+  "qid": "Q11755",
+  "birthPlace": "Jerusalem",
+  "fetchedAt": "2026-08-04T15:06:28.598Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "d2201e05",
+  "wikipediaSlug": "Earl_Wilbur_Sutherland_Jr.",
+  "wikipediaId": "Q68118",
+  "name": "Earl Wilbur Sutherland Jr.",
+  "fullName": "Earl Wilbur Sutherland Jr.",
+  "profileSummary": "Earl Wilbur Sutherland Jr. was an American pharmacologist and biochemist born in Burlingame, Kansas. Sutherland won a Nobel Prize in Physiology or Medicine in 1971 \"for his discoveries concerning the mechanisms of the action of hormones\", especially epinephrine, via second messengers, namely cyclic adenosine monophosphate, or cyclic AMP.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earl_Wilbur_Sutherland_Jr.jpg/330px-Earl_Wilbur_Sutherland_Jr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Earl_Wilbur_Sutherland_Jr.",
+  "dateOfBirth": "1915-11-19",
+  "birthDateParsed": "1915-11-19",
+  "dateOfDeath": "1974-03-09",
+  "deathDateParsed": "1974-03-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.750833333",
+  "birthCoordinatesLng": "-95.835833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physiologist",
+    "chemist",
+    "biochemist",
+    "physician",
+    "pharmacist",
+    "pharmacologist"
+  ],
+  "qid": "Q68118",
+  "birthPlace": "Burlingame",
+  "fetchedAt": "2026-08-10T03:14:51.687Z"
+}

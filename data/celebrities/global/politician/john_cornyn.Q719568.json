@@ -1,0 +1,33 @@
+{
+  "publicId": "cb5023e3",
+  "wikipediaSlug": "John_Cornyn",
+  "wikipediaId": "Q719568",
+  "name": "John Cornyn",
+  "fullName": "John Cornyn",
+  "profileSummary": "John Cornyn III is an American politician and former judge who is the senior United States senator for Texas, a seat he has held since 2002. He is a member of the Republican Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/John_Cornyn.jpg/330px-John_Cornyn.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Cornyn",
+  "dateOfBirth": "1952-02-02",
+  "birthDateParsed": "1952-02-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.762777777",
+  "birthCoordinatesLng": "-95.383055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "judge"
+  ],
+  "qid": "Q719568",
+  "birthPlace": "Houston",
+  "fetchedAt": "2026-08-02T02:17:01.224Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "e8cbd19d",
+  "wikipediaSlug": "Craig_Shakespeare",
+  "wikipediaId": "Q5181434",
+  "name": "Craig Shakespeare",
+  "fullName": "Craig Shakespeare",
+  "profileSummary": "Craig Robert Shakespeare was an English professional footballer and coach best known for managing at the time Premier League club Leicester City in 2017.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Craig_Shakespeare",
+  "dateOfBirth": "1963-10-26",
+  "birthDateParsed": "1963-10-26",
+  "dateOfDeath": "2024-08-01",
+  "deathDateParsed": "2024-08-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q5181434",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-08-01T05:20:32.383Z"
+}

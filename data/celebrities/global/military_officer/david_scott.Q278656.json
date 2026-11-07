@@ -1,0 +1,34 @@
+{
+  "publicId": "8c87a01b",
+  "wikipediaSlug": "David_Scott",
+  "wikipediaId": "Q278656",
+  "name": "David Scott",
+  "fullName": "David Scott",
+  "profileSummary": "David Randolph Scott is an American retired test pilot and NASA astronaut who was the seventh person to walk on the Moon. Selected as part of the third group of astronauts in 1963, Scott flew to space three times and commanded Apollo 15, the fourth lunar landing; he is one of four surviving Moon walkers and the only living commander of a spacecraft that landed on the Moon.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dave_Scott_Apollo_15_CDR.jpg/330px-Dave_Scott_Apollo_15_CDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Scott",
+  "dateOfBirth": "1932-06-06",
+  "birthDateParsed": "1932-06-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.425",
+  "birthCoordinatesLng": "-98.493888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "test pilot",
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q278656",
+  "birthPlace": "San Antonio",
+  "fetchedAt": "2026-08-10T06:04:28.186Z"
+}

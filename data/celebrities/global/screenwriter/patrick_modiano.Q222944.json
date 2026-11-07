@@ -1,0 +1,35 @@
+{
+  "publicId": "78c03799",
+  "wikipediaSlug": "Patrick_Modiano",
+  "wikipediaId": "Q222944",
+  "name": "Patrick Modiano",
+  "fullName": "Patrick Modiano",
+  "profileSummary": "Jean Patrick Modiano, generally known as Patrick Modiano, is a French novelist and recipient of the 2014 Nobel Prize in Literature. He is a noted writer of autofiction, the blend of autobiography and historical fiction.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Patrick_Modiano_6_dec_2014_-_22.jpg/330px-Patrick_Modiano_6_dec_2014_-_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Modiano",
+  "dateOfBirth": "1945-07-30",
+  "birthDateParsed": "1945-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.835277777",
+  "birthCoordinatesLng": "2.241388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "writer",
+    "playwright",
+    "lyricist",
+    "essayist"
+  ],
+  "qid": "Q222944",
+  "birthPlace": "Boulogne-Billancourt",
+  "fetchedAt": "2026-08-06T07:42:27.892Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "bbefbb9a",
+  "wikipediaSlug": "Edward_VI",
+  "wikipediaId": "Q83229",
+  "name": "Edward VI",
+  "fullName": "Edward VI",
+  "profileSummary": "Edward VI was King of England and Ireland from 28 January 1547 until his death in 1553. He was crowned on 20 February 1547 at the age of nine. The only surviving son of Henry VIII by his third wife, Jane Seymour, Edward was the first English monarch to be raised as a Protestant. During his reign, the realm was governed by a regency council because Edward never reached maturity. The council was first led by his uncle Edward Seymour, Duke of Somerset (1547–1549), and then by John Dudley, Duke of Northumberland (1550–1553).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg/330px-Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_VI",
+  "dateOfBirth": "1537-10-12",
+  "birthDateParsed": "1537-10-12",
+  "dateOfDeath": "1553-07-16",
+  "deathDateParsed": "1553-07-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4034",
+  "birthCoordinatesLng": "-0.337499",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "aristocrat",
+    "writer"
+  ],
+  "qid": "Q83229",
+  "birthPlace": "Hampton Court Palace",
+  "fetchedAt": "2026-08-02T05:21:44.665Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "06288ed5",
+  "wikipediaSlug": "Dwyane_Wade",
+  "wikipediaId": "Q31683",
+  "name": "Dwyane Wade",
+  "fullName": "Dwyane Wade",
+  "profileSummary": "Dwyane Tyrone Wade Jr. is an American basketball executive and former professional player who is a co-owner of the Utah Jazz of the National Basketball Association (NBA). He is also currently the host of the American adaptation of The Cube. Nicknamed \"D-Wade\" and \"Flash\", he is regarded as one of the greatest shooting guards in NBA history, he spent the majority of his 16-year career playing for the Miami Heat of the National Basketball Association (NBA) and won three NBA championships, was a 13-time NBA All-Star, an eight-time member of the All-NBA Team, and a three-time member of the All-Defensive Team. Wade is also Miami's all-time leader in points, games played, assists, steals, shots made, and shots taken.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dwyane_Wade_e1.jpg/330px-Dwyane_Wade_e1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dwyane_Wade",
+  "dateOfBirth": "1982-01-17",
+  "birthDateParsed": "1982-01-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "sports commentator"
+  ],
+  "qid": "Q31683",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-01T15:36:43.950Z"
+}

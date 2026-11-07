@@ -1,0 +1,32 @@
+{
+  "publicId": "6b01f738",
+  "wikipediaSlug": "Andrew_Hilditch",
+  "wikipediaId": "Q2846632",
+  "name": "Andrew Hilditch",
+  "fullName": "Andrew Hilditch",
+  "profileSummary": "Andrew Mark Jefferson Hilditch is a former Australian international cricketer who played in 18 Test matches and eight One Day Internationals from 1979 to 1985. He played for New South Wales from 1977 to 1981 and for South Australia from 1982 to 1992. He was an Australian cricket selector from 1996 until 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Andrew_Hilditch_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Hilditch",
+  "dateOfBirth": "1956-05-20",
+  "birthDateParsed": "1956-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-30",
+  "birthCoordinatesLng": "135",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "barrister"
+  ],
+  "qid": "Q2846632",
+  "birthPlace": "South Australia",
+  "fetchedAt": "2026-07-31T19:43:46.162Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "95f44fcf",
+  "wikipediaSlug": "Alassane_Ouattara",
+  "wikipediaId": "Q57413",
+  "name": "Alassane Ouattara",
+  "fullName": "Alassane Ouattara",
+  "profileSummary": "Alassane Dramane Ouattara is an Ivorian politician and economist who has been President of Ivory Coast since 2010. An economist by profession, he worked for the International Monetary Fund (IMF) and the Central Bank of West African States, and was the Prime Minister of Côte d'Ivoire from November 1990 to December 1993, appointed to that post by then-President Félix Houphouët-Boigny. Ouattara became the president of the Rally of the Republicans (RDR), an Ivorian political party, in 1999.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alassane_Ouattara_-_2024_%28cropped%29.jpg/330px-Alassane_Ouattara_-_2024_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alassane_Ouattara",
+  "dateOfBirth": "1942-01-01",
+  "birthDateParsed": "1942-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.646666666",
+  "birthCoordinatesLng": "-4.705",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician"
+  ],
+  "qid": "Q57413",
+  "birthPlace": "Dimbokro",
+  "fetchedAt": "2026-08-03T16:49:24.821Z"
+}

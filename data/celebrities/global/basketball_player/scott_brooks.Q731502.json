@@ -1,0 +1,32 @@
+{
+  "publicId": "0afbcaf3",
+  "wikipediaSlug": "Scott_Brooks",
+  "wikipediaId": "Q731502",
+  "name": "Scott Brooks",
+  "fullName": "Scott Brooks",
+  "profileSummary": "Scott William Brooks is an American professional basketball coach and former player who is an assistant coach for the Los Angeles Lakers of the National Basketball Association (NBA). As a player, he won an NBA championship with the Houston Rockets in 1994.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2019_Scott_Brooks_%2848824335932%29_%28cropped%29.jpg/330px-2019_Scott_Brooks_%2848824335932%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_Brooks",
+  "dateOfBirth": "1965-07-31",
+  "birthDateParsed": "1965-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.8825",
+  "birthCoordinatesLng": "-121.27972",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q731502",
+  "birthPlace": "French Camp",
+  "fetchedAt": "2026-08-01T15:38:30.168Z"
+}

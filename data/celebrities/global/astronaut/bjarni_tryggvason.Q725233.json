@@ -1,0 +1,33 @@
+{
+  "publicId": "9c2b0a08",
+  "wikipediaSlug": "Bjarni_Tryggvason",
+  "wikipediaId": "Q725233",
+  "name": "Bjarni Tryggvason",
+  "fullName": "Bjarni Tryggvason",
+  "profileSummary": "Bjarni Valdimar Tryggvason was an Icelandic-born Canadian engineer and a NRC/CSA astronaut. He served as a Payload Specialist on Space Shuttle mission STS-85 in 1997, a nearly 12-day mission to study changes in the Earth's atmosphere. Bjarni is the first, and as of 2024, only Canadian astronaut of Icelandic birth.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bjarni_Tryggvason%2C_Portrait_1997_-_S97-06278_orig.jpg/330px-Bjarni_Tryggvason%2C_Portrait_1997_-_S97-06278_orig.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bjarni_Tryggvason",
+  "dateOfBirth": "1945-09-21",
+  "birthDateParsed": "1945-09-21",
+  "dateOfDeath": "2022-04-05",
+  "deathDateParsed": "2022-04-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "64.1475",
+  "birthCoordinatesLng": "-21.935",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "engineer",
+    "physicist"
+  ],
+  "qid": "Q725233",
+  "birthPlace": "Reykjavík",
+  "fetchedAt": "2026-08-10T06:03:50.758Z"
+}

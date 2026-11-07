@@ -1,0 +1,33 @@
+{
+  "publicId": "f4f34699",
+  "wikipediaSlug": "Joko_Widodo",
+  "wikipediaId": "Q3318231",
+  "name": "Joko Widodo",
+  "fullName": "Joko Widodo",
+  "profileSummary": "Joko Widodo, often known mononymously as Jokowi, is an Indonesian politician and businessman who served as the seventh president of Indonesia from 2014 to 2024. Previously a member of the Indonesian Democratic Party of Struggle (PDI-P), he was the country's first president not to emerge from the political or military elite. Before becoming president, he served as mayor of Surakarta from 2005 to 2012 and as governor of Jakarta from 2012 to 2014.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Joko_Widodo_2019_official_portrait.jpg/330px-Joko_Widodo_2019_official_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joko_Widodo",
+  "dateOfBirth": "1961-06-21",
+  "birthDateParsed": "1961-06-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-7.566666666",
+  "birthCoordinatesLng": "110.816666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "entrepreneur",
+    "engineer"
+  ],
+  "qid": "Q3318231",
+  "birthPlace": "Surakarta",
+  "fetchedAt": "2026-08-03T15:52:50.686Z"
+}

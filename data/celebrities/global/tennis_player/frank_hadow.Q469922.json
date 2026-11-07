@@ -1,0 +1,32 @@
+{
+  "publicId": "d5d93bbb",
+  "wikipediaSlug": "Frank_Hadow",
+  "wikipediaId": "Q469922",
+  "name": "Frank Hadow",
+  "fullName": "Frank Hadow",
+  "profileSummary": "Patrick Francis \"Frank\" Hadow was an English tennis player, who won the Wimbledon championship in 1878.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harrow_hadows_brothers.jpg/330px-Harrow_hadows_brothers.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Hadow",
+  "dateOfBirth": "1855-01-24",
+  "birthDateParsed": "1855-01-24",
+  "dateOfDeath": "1946-06-29",
+  "deathDateParsed": "1946-06-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.532222222",
+  "birthCoordinatesLng": "-0.156666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "cricketer"
+  ],
+  "qid": "Q469922",
+  "birthPlace": "Regent's Park",
+  "fetchedAt": "2026-08-01T13:11:39.019Z"
+}

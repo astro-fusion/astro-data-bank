@@ -1,0 +1,35 @@
+{
+  "publicId": "49d25c58",
+  "wikipediaSlug": "Denis_Mukwege",
+  "wikipediaId": "Q1187542",
+  "name": "Denis Mukwege",
+  "fullName": "Denis Mukwege",
+  "profileSummary": "Denis Mukwege is a Congolese humanitarian, gynecologist and Pentecostal pastor. He founded and works in Panzi Hospital in Bukavu, where he specializes in the treatment of women who have been raped. In 2018, Mukwege and Iraqi Yazidi human rights activist Nadia Murad were jointly awarded the Nobel Peace Prize for \"their efforts to end the use of sexual violence as a weapon of war and armed conflict\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Denis_Mukwege_2018.jpg/330px-Denis_Mukwege_2018.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Mukwege",
+  "dateOfBirth": "1955-03-01",
+  "birthDateParsed": "1955-03-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-2.5",
+  "birthCoordinatesLng": "28.866666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "human rights defender",
+    "gynecologist",
+    "obstetrician",
+    "pastor",
+    "physician"
+  ],
+  "qid": "Q1187542",
+  "birthPlace": "Bukavu",
+  "fetchedAt": "2026-08-04T02:13:15.886Z"
+}

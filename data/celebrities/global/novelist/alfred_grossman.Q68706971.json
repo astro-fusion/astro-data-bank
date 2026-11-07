@@ -1,0 +1,31 @@
+{
+  "publicId": "c0a0b23c",
+  "wikipediaSlug": "Alfred_Grossman",
+  "wikipediaId": "Q68706971",
+  "name": "Alfred Grossman",
+  "fullName": "Alfred Grossman",
+  "profileSummary": "Alfred Grossman (1927–1987) was an American writer and novelist.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Grossman",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": "1987-01-01",
+  "deathDateParsed": "1987-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "novelist"
+  ],
+  "qid": "Q68706971",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-05T02:42:35.180Z"
+}

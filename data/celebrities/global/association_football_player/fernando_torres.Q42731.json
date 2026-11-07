@@ -1,0 +1,32 @@
+{
+  "publicId": "c0fe6cdb",
+  "wikipediaSlug": "Fernando_Torres",
+  "wikipediaId": "Q42731",
+  "name": "Fernando Torres",
+  "fullName": "Fernando Torres",
+  "profileSummary": "Fernando José Torres Sanz is a Spanish football manager and former player who played as a striker. He is the current manager of Atlético Madrid B. Due to his consistent goalscoring as a young player, Torres came to be nicknamed El Niño, which stuck with him throughout his career. In his prime, he was regarded as one of the best strikers in the world and was known for his pace, prolific goalscoring, and technical abilities.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Fernando_Torres_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Torres",
+  "dateOfBirth": "1984-03-20",
+  "birthDateParsed": "1984-03-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.283333333",
+  "birthCoordinatesLng": "-3.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q42731",
+  "birthPlace": "Fuenlabrada",
+  "fetchedAt": "2026-08-10T11:28:06.325Z"
+}

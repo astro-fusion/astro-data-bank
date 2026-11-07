@@ -1,0 +1,36 @@
+{
+  "publicId": "b8b214e4",
+  "wikipediaSlug": "Sigrid_Undset",
+  "wikipediaId": "Q80889",
+  "name": "Sigrid Undset",
+  "fullName": "Sigrid Undset",
+  "profileSummary": "Sigrid Undset was a Danish-born Norwegian novelist. She was awarded the Nobel Prize for Literature in 1928.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sigrid_Undset_1928.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sigrid_Undset",
+  "dateOfBirth": "1882-05-20",
+  "birthDateParsed": "1882-05-20",
+  "dateOfDeath": "1949-06-10",
+  "deathDateParsed": "1949-06-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.681388888",
+  "birthCoordinatesLng": "11.085",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "novelist",
+    "translator",
+    "writer",
+    "screenwriter",
+    "prose writer",
+    "poet"
+  ],
+  "qid": "Q80889",
+  "birthPlace": "Kalundborg",
+  "fetchedAt": "2026-08-06T07:42:41.223Z"
+}

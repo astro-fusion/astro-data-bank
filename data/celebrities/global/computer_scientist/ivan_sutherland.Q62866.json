@@ -1,0 +1,36 @@
+{
+  "publicId": "bc9bd62c",
+  "wikipediaSlug": "Ivan_Sutherland",
+  "wikipediaId": "Q62866",
+  "name": "Ivan Sutherland",
+  "fullName": "Ivan Sutherland",
+  "profileSummary": "Ivan Edward Sutherland is an American computer scientist, widely regarded as a pioneer of computer graphics. His early work in computer graphics, as well as his teaching with David C. Evans in that subject at the University of Utah in the 1970s, was pioneering in the field. Sutherland, Evans, and their students from that era developed several foundations of modern computer graphics. He received the 1988 ACM Turing Award for the invention of the Sketchpad, an early predecessor to the sort of graphical user interface that has become ubiquitous in personal computers, and his contributions to computer graphics. He is a member of the National Academy of Engineering, as well as the National Academy of Sciences among many other major awards. In 2012, he was awarded the Kyoto Prize in Advanced Technology for \"pioneering achievements in the development of computer graphics and interactive interfaces\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ivan_Sutherland_at_CHM.jpg/330px-Ivan_Sutherland_at_CHM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Sutherland",
+  "dateOfBirth": "1938-05-16",
+  "birthDateParsed": "1938-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.589166666",
+  "birthCoordinatesLng": "-98.391666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "inventor",
+    "programmer",
+    "university teacher",
+    "engineer",
+    "electrical engineer"
+  ],
+  "qid": "Q62866",
+  "birthPlace": "Hastings",
+  "fetchedAt": "2026-08-10T04:29:10.137Z"
+}

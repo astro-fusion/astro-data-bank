@@ -1,0 +1,32 @@
+{
+  "publicId": "8d63028c",
+  "wikipediaSlug": "George_Minot",
+  "wikipediaId": "Q245000",
+  "name": "George Minot",
+  "fullName": "George Minot",
+  "profileSummary": "George Richards Minot was an American medical researcher who shared the 1934 Nobel Prize in Physiology or Medicine with George Hoyt Whipple and William P. Murphy for their pioneering work on pernicious anemia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/George_Minot_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Minot",
+  "dateOfBirth": "1885-12-02",
+  "birthDateParsed": "1885-12-02",
+  "dateOfDeath": "1950-02-25",
+  "deathDateParsed": "1950-02-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "internist"
+  ],
+  "qid": "Q245000",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T03:15:16.885Z"
+}

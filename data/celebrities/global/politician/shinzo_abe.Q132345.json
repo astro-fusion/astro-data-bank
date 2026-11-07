@@ -1,0 +1,31 @@
+{
+  "publicId": "608271b7",
+  "wikipediaSlug": "Shinzo_Abe",
+  "wikipediaId": "Q132345",
+  "name": "Shinzo Abe",
+  "fullName": "Shinzo Abe",
+  "profileSummary": "Shinzo Abe was a Japanese statesman and politician who served as Prime Minister of Japan and President of the Liberal Democratic Party (LDP) from 2006 to 2007 and again from 2012 to 2020. He was the longest-serving prime minister in Japanese history, serving for nearly nine years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shinz%C5%8D_Abe_20120501.jpg/330px-Shinz%C5%8D_Abe_20120501.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shinzo_Abe",
+  "dateOfBirth": "1954-09-21",
+  "birthDateParsed": "1954-09-21",
+  "dateOfDeath": "2022-07-08",
+  "deathDateParsed": "2022-07-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.693888888",
+  "birthCoordinatesLng": "139.703416666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q132345",
+  "birthPlace": "Shinjuku",
+  "fetchedAt": "2026-08-03T15:53:23.816Z"
+}

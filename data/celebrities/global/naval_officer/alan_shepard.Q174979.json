@@ -1,0 +1,34 @@
+{
+  "publicId": "2aca61bf",
+  "wikipediaSlug": "Alan_Shepard",
+  "wikipediaId": "Q174979",
+  "name": "Alan Shepard",
+  "fullName": "Alan Shepard",
+  "profileSummary": "Alan Bartlett Shepard Jr. was an American astronaut. In 1961, he became the second person and the first American to travel into space and, in 1971, he became the fifth and oldest person to walk on the Moon, at age 47.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Business_suit_portrait_of_Al_Shepard.jpg/330px-Business_suit_portrait_of_Al_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Shepard",
+  "dateOfBirth": "1923-11-18",
+  "birthDateParsed": "1923-11-18",
+  "dateOfDeath": "1998-07-21",
+  "deathDateParsed": "1998-07-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.880555555",
+  "birthCoordinatesLng": "-71.327222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "naval officer",
+    "astronaut",
+    "aircraft pilot",
+    "entrepreneur"
+  ],
+  "qid": "Q174979",
+  "birthPlace": "Derry",
+  "fetchedAt": "2026-08-10T06:03:14.047Z"
+}

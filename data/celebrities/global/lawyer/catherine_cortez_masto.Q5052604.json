@@ -1,0 +1,34 @@
+{
+  "publicId": "fcc1a2f4",
+  "wikipediaSlug": "Catherine_Cortez_Masto",
+  "wikipediaId": "Q5052604",
+  "name": "Catherine Cortez Masto",
+  "fullName": "Catherine Cortez Masto",
+  "profileSummary": "Catherine Marie Cortez Masto is an American lawyer and politician serving as the senior United States senator from Nevada, a seat she has held since 2017. A member of the Democratic Party, Cortez Masto served as the 32nd attorney general of Nevada from 2007 to 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%28D-NV%29_Senator_Catherine_Cortez_Masto_Official_Portrait.jpg/330px-%28D-NV%29_Senator_Catherine_Cortez_Masto_Official_Portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catherine_Cortez_Masto",
+  "dateOfBirth": "1964-03-29",
+  "birthDateParsed": "1964-03-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.167222222",
+  "birthCoordinatesLng": "-115.148611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "prosecutor",
+    "jurist"
+  ],
+  "qid": "Q5052604",
+  "birthPlace": "Las Vegas",
+  "fetchedAt": "2026-08-02T02:16:22.179Z"
+}

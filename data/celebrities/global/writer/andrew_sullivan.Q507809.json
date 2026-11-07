@@ -1,0 +1,38 @@
+{
+  "publicId": "651333a5",
+  "wikipediaSlug": "Andrew_Sullivan",
+  "wikipediaId": "Q507809",
+  "name": "Andrew Sullivan",
+  "fullName": "Andrew Sullivan",
+  "profileSummary": "Andrew Michael Sullivan is a British-American conservative political commentator. Sullivan is a former editor of The New Republic, and the author or editor of six books. He started a political blog, The Daily Dish, in 2000, and eventually moved his blog to platforms, including Time, The Atlantic, The Daily Beast, and finally an independent subscription-based format. He retired from blogging in 2015. From 2016 to 2020, Sullivan was a writer-at-large at New York. He launched his newsletter The Weekly Dish in July 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Andrew_Sullivan_cropped.jpg/330px-Andrew_Sullivan_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Sullivan",
+  "dateOfBirth": "1963-08-10",
+  "birthDateParsed": "1963-08-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.2479",
+  "birthCoordinatesLng": "-0.0644",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "editor-in-chief",
+    "blogger",
+    "editor",
+    "pundit",
+    "journalist",
+    "columnist",
+    "essayist"
+  ],
+  "qid": "Q507809",
+  "birthPlace": "Godstone",
+  "fetchedAt": "2026-08-05T02:43:16.106Z"
+}

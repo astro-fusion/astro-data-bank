@@ -1,0 +1,31 @@
+{
+  "publicId": "5aae8509",
+  "wikipediaSlug": "Andre_Adams",
+  "wikipediaId": "Q4754721",
+  "name": "Andre Adams",
+  "fullName": "Andre Adams",
+  "profileSummary": "Andre Ryan Adams is a New Zealand cricket coach and former cricketer of Caribbean descent. He played international cricket for New Zealand and is noted for playing in New Zealand's first T20I against Australia in 2005 where he was awarded cap number 1.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Andre_Adams.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andre_Adams",
+  "dateOfBirth": "1975-07-17",
+  "birthDateParsed": "1975-07-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4754721",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:01:48.136Z"
+}

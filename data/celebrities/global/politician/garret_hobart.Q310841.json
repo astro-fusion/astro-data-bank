@@ -1,0 +1,32 @@
+{
+  "publicId": "8b7a9d5c",
+  "wikipediaSlug": "Garret_Hobart",
+  "wikipediaId": "Q310841",
+  "name": "Garret Hobart",
+  "fullName": "Garret Hobart",
+  "profileSummary": "Garret Augustus Hobart was the 24th vice president of the United States, serving from 1897 until his death in 1899, under President William McKinley. A member of the Republican Party, Hobart was an influential New Jersey businessman and political operative prior to his vice presidency.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/24_Garret_Hobart_3x4.jpg/330px-24_Garret_Hobart_3x4.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Garret_Hobart",
+  "dateOfBirth": "1844-06-03",
+  "birthDateParsed": "1844-06-03",
+  "dateOfDeath": "1899-11-21",
+  "deathDateParsed": "1899-11-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.2954",
+  "birthCoordinatesLng": "-73.9899",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q310841",
+  "birthPlace": "Long Branch",
+  "fetchedAt": "2026-08-01T18:07:53.398Z"
+}

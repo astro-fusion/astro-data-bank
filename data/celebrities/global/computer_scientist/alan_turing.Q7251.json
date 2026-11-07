@@ -1,0 +1,38 @@
+{
+  "publicId": "f7e2baff",
+  "wikipediaSlug": "Alan_Turing",
+  "wikipediaId": "Q7251",
+  "name": "Alan Turing",
+  "fullName": "Alan Turing",
+  "profileSummary": "Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alan_turing_header.jpg/330px-Alan_turing_header.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "dateOfBirth": "1912-06-23",
+  "birthDateParsed": "1912-06-23",
+  "dateOfDeath": "1954-06-07",
+  "deathDateParsed": "1954-06-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5274",
+  "birthCoordinatesLng": "-0.1899",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "mathematician",
+    "university teacher",
+    "cryptographer",
+    "logician",
+    "statistician",
+    "marathon runner",
+    "artificial intelligence researcher"
+  ],
+  "qid": "Q7251",
+  "birthPlace": "Maida Vale",
+  "fetchedAt": "2026-08-10T04:28:17.130Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "1759f594",
+  "wikipediaSlug": "Emiliano_Martínez",
+  "wikipediaId": "Q3275904",
+  "name": "Emiliano Martínez",
+  "fullName": "Emiliano Martínez",
+  "profileSummary": "Damián Emiliano Martínez Romero, also known as Dibu Martínez, is an Argentine professional footballer who plays as a goalkeeper for Premier League club Aston Villa and the Argentina national team. Known as a specialist in saving penalty kicks, he is often regarded as one of the best goalkeepers in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emiliano_Martinez_Argentina_v_Egypt_7_July_2026-093_%28cropped%29.jpg/330px-Emiliano_Martinez_Argentina_v_Egypt_7_July_2026-093_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez",
+  "dateOfBirth": "1992-09-02",
+  "birthDateParsed": "1992-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-38",
+  "birthCoordinatesLng": "-57.55",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q3275904",
+  "birthPlace": "Mar del Plata",
+  "fetchedAt": "2026-08-10T11:28:05.891Z"
+}

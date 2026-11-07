@@ -1,0 +1,39 @@
+{
+  "publicId": "469e21c8",
+  "wikipediaSlug": "Bridgit_Mendler",
+  "wikipediaId": "Q213736",
+  "name": "Bridgit Mendler",
+  "fullName": "Bridgit Mendler",
+  "profileSummary": "Bridgit Claire Mendler is an American entrepreneur and former actress and singer-songwriter. She first became known as a child actress and continued acting into adulthood, which overlapped with a musical career in the 2010s. After enrolling at MIT and Harvard from 2017 to 2024, she co-founded Northwood Space, a satellite data startup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TechCrunch_Disrupt2024_Bridgit_Mendler1_%28cropped_2%29.jpg/330px-TechCrunch_Disrupt2024_Bridgit_Mendler1_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bridgit_Mendler",
+  "dateOfBirth": "1992-12-18",
+  "birthDateParsed": "1992-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "television actor",
+    "voice actor",
+    "recording artist",
+    "business executive",
+    "composer",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q213736",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-05T03:16:22.129Z"
+}

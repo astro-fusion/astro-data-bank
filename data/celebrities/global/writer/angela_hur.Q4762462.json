@@ -1,0 +1,31 @@
+{
+  "publicId": "2bbee5c7",
+  "wikipediaSlug": "Angela_Hur",
+  "wikipediaId": "Q4762462",
+  "name": "Angela Hur",
+  "fullName": "Angela Hur",
+  "profileSummary": "Angela Mi Young Hur is an American writer based in Sweden. Her debut novel, The Queens of K-Town, was published in 2007 by MacAdam/Cage. Her second novel, Folklorn, is forthcoming from Erewhon in 2021.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angela_Hur",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer"
+  ],
+  "qid": "Q4762462",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-05T02:43:03.476Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "ad4979ca",
+  "wikipediaSlug": "Paul_Henri_Balluet_d'Estournelles_de_Constant",
+  "wikipediaId": "Q238731",
+  "name": "Paul Henri Balluet d'Estournelles de Constant",
+  "fullName": "Paul Henri Balluet d'Estournelles de Constant",
+  "profileSummary": "Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque, was a French diplomat and politician, advocate of international arbitration and winner of the 1909 Nobel Peace Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Paul_Balluet_nobel.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Henri_Balluet_d'Estournelles_de_Constant",
+  "dateOfBirth": "1852-01-22",
+  "birthDateParsed": "1852-01-22",
+  "dateOfDeath": "1924-05-15",
+  "deathDateParsed": "1924-05-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.699722222",
+  "birthCoordinatesLng": "-0.076111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "essayist"
+  ],
+  "qid": "Q238731",
+  "birthPlace": "La Flèche",
+  "fetchedAt": "2026-08-04T02:06:48.054Z"
+}

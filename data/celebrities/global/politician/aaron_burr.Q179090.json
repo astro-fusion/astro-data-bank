@@ -1,0 +1,36 @@
+{
+  "publicId": "ce6303d4",
+  "wikipediaSlug": "Aaron_Burr",
+  "wikipediaId": "Q179090",
+  "name": "Aaron Burr",
+  "fullName": "Aaron Burr",
+  "profileSummary": "Aaron Burr Jr. was an American politician, businessman, and lawyer who served as the third vice president of the United States from 1801 to 1805, during Thomas Jefferson's first presidential term. A member of the Democratic-Republican Party, he is primarily remembered for the killing of Founding Father Alexander Hamilton in a duel, as well as his conspiracy to take parts of the United States or the Spanish Empire to form an independent country.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aaron_Burr_post-failure_%28cropped%29.jpg/330px-Aaron_Burr_post-failure_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Burr",
+  "dateOfBirth": "1756-02-06",
+  "birthDateParsed": "1756-02-06",
+  "dateOfDeath": "1836-09-14",
+  "deathDateParsed": "1836-09-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.735555555",
+  "birthCoordinatesLng": "-74.172222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "military officer",
+    "bretteur",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q179090",
+  "birthPlace": "Newark",
+  "fetchedAt": "2026-08-01T18:07:23.507Z"
+}

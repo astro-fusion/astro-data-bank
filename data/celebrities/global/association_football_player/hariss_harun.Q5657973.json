@@ -1,0 +1,31 @@
+{
+  "publicId": "746ff9cf",
+  "wikipediaSlug": "Hariss_Harun",
+  "wikipediaId": "Q5657973",
+  "name": "Hariss Harun",
+  "fullName": "Hariss Harun",
+  "profileSummary": "Hariss bin Harun is a Singaporean professional footballer who plays as a defensive-midfielder or a centre-back and captains both the Singapore Premier League club Lion City Sailors and the Singapore national team. He is Singapore's youngest debutant, making his first international appearance at the age of 16 and 217 days. Hariss is also the current vice-president of Football Association of Singapore.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hariss_Harun.jpg/330px-Hariss_Harun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hariss_Harun",
+  "dateOfBirth": "1990-11-19",
+  "birthDateParsed": "1990-11-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q5657973",
+  "birthPlace": "Singapore",
+  "fetchedAt": "2026-08-06T09:08:50.275Z"
+}

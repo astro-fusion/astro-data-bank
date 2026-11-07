@@ -1,0 +1,32 @@
+{
+  "publicId": "51b9b8da",
+  "wikipediaSlug": "Gary_Ruvkun",
+  "wikipediaId": "Q504021",
+  "name": "Gary Ruvkun",
+  "fullName": "Gary Ruvkun",
+  "profileSummary": "Gary Bruce Ruvkun is an American molecular biologist at Massachusetts General Hospital and professor of genetics at Harvard Medical School in Boston.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/330px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Ruvkun",
+  "dateOfBirth": "1952-03-26",
+  "birthDateParsed": "1952-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.870277777",
+  "birthCoordinatesLng": "-122.268055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "geneticist",
+    "university teacher"
+  ],
+  "qid": "Q504021",
+  "birthPlace": "Berkeley",
+  "fetchedAt": "2026-08-10T03:15:27.637Z"
+}

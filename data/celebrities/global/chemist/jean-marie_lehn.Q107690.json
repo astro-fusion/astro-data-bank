@@ -1,0 +1,34 @@
+{
+  "publicId": "eab3a316",
+  "wikipediaSlug": "Jean-Marie_Lehn",
+  "wikipediaId": "Q107690",
+  "name": "Jean-Marie Lehn",
+  "fullName": "Jean-Marie Lehn",
+  "profileSummary": "Jean-Marie Pierre Lehn is a French chemist who received the Nobel Prize in Chemistry together with Donald Cram and Charles Pedersen in 1987 for his synthesis of cryptands. Lehn was an early innovator in the field of supramolecular chemistry, i.e., the chemistry of host–guest molecular assemblies created by intermolecular interactions, and continues to innovate in this field. He described the process by which molecules recognize each other. Drugs, for example, \"know\" which cell to destroy and which to let live. According to information provided by Lehn to the Nobel Foundation in January 2006, his group had published 790 peer-reviewed articles in chemistry literature by then.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jean-Marie_Lehn_par_Claude_Truong-Ngoc_octobre_2018.jpg/330px-Jean-Marie_Lehn_par_Claude_Truong-Ngoc_octobre_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Marie_Lehn",
+  "dateOfBirth": "1939-09-30",
+  "birthDateParsed": "1939-09-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.496666666",
+  "birthCoordinatesLng": "7.469444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "professor",
+    "university teacher",
+    "researcher"
+  ],
+  "qid": "Q107690",
+  "birthPlace": "Rosheim",
+  "fetchedAt": "2026-08-10T02:04:38.657Z"
+}

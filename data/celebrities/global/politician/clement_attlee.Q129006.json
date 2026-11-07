@@ -1,0 +1,33 @@
+{
+  "publicId": "e7eca22f",
+  "wikipediaSlug": "Clement_Attlee",
+  "wikipediaId": "Q129006",
+  "name": "Clement Attlee",
+  "fullName": "Clement Attlee",
+  "profileSummary": "Clement Richard Attlee, 1st Earl Attlee was a British statesman who was Prime Minister of the United Kingdom from 1945 to 1951 and Leader of the Labour Party from 1935 to 1955. Attlee was deputy prime minister during the wartime coalition government under Winston Churchill, and Leader of the Opposition on three occasions: from 1935 to 1940, briefly in 1945 and from 1951 to 1955. He remains the longest-serving Labour leader.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Person_attlee2.jpg/330px-Person_attlee2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clement_Attlee",
+  "dateOfBirth": "1883-01-03",
+  "birthDateParsed": "1883-01-03",
+  "dateOfDeath": "1967-10-08",
+  "deathDateParsed": "1967-10-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4649",
+  "birthCoordinatesLng": "-0.2211",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "professor"
+  ],
+  "qid": "Q129006",
+  "birthPlace": "Putney",
+  "fetchedAt": "2026-08-02T05:21:31.490Z"
+}

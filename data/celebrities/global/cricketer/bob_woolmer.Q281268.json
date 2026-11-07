@@ -1,0 +1,31 @@
+{
+  "publicId": "34ba426e",
+  "wikipediaSlug": "Bob_Woolmer",
+  "wikipediaId": "Q281268",
+  "name": "Bob Woolmer",
+  "fullName": "Bob Woolmer",
+  "profileSummary": "Robert Andrew Woolmer was an English cricket coach, cricketer, and a commentator. He played in 19 Test matches and six One Day Internationals for the England cricket team and later coached South Africa, Warwickshire and Pakistan. During his coaching career with South Africa, he led the team to being the winners of the 1998 ICC KnockOut Trophy, first of the only two ICC titles the country has won to date.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bob_Woolmer.JPG/330px-Bob_Woolmer.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Woolmer",
+  "dateOfBirth": "1948-05-14",
+  "birthDateParsed": "1948-05-14",
+  "dateOfDeath": "2007-03-18",
+  "deathDateParsed": "2007-03-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.4725",
+  "birthCoordinatesLng": "80.331111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q281268",
+  "birthPlace": "Kanpur",
+  "fetchedAt": "2026-07-31T20:09:31.839Z"
+}

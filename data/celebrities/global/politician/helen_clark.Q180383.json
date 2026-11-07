@@ -1,0 +1,33 @@
+{
+  "publicId": "8acd19cb",
+  "wikipediaSlug": "Helen_Clark",
+  "wikipediaId": "Q180383",
+  "name": "Helen Clark",
+  "fullName": "Helen Clark",
+  "profileSummary": "Helen Elizabeth Clark is a New Zealand politician who served as the 37th prime minister of New Zealand from 1999 to 2008 and was the administrator of the United Nations Development Programme from 2009 to 2017. She was New Zealand's fifth-longest-serving prime minister, and the second woman to hold that office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Helen_Clark_official_photo_%28cropped%29.jpg/330px-Helen_Clark_official_photo_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helen_Clark",
+  "dateOfBirth": "1950-02-26",
+  "birthDateParsed": "1950-02-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.919",
+  "birthCoordinatesLng": "175.136",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "university teacher",
+    "political scientist"
+  ],
+  "qid": "Q180383",
+  "birthPlace": "Te Pahu",
+  "fetchedAt": "2026-08-04T00:56:19.947Z"
+}

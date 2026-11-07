@@ -1,0 +1,34 @@
+{
+  "publicId": "1e4a6edf",
+  "wikipediaSlug": "R._B._Bennett",
+  "wikipediaId": "Q128641",
+  "name": "R. B. Bennett",
+  "fullName": "R. B. Bennett",
+  "profileSummary": "Richard Bedford Bennett, 1st Viscount Bennett was a Canadian lawyer, businessman, philanthropist, and politician who served as the 11th prime minister of Canada from 1930 to 1935.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Richard_Bedford_Bennett_%28cropped%29.jpg/330px-Richard_Bedford_Bennett_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/R._B._Bennett",
+  "dateOfBirth": "1870-07-03",
+  "birthDateParsed": "1870-07-03",
+  "dateOfDeath": "1947-06-26",
+  "deathDateParsed": "1947-06-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.764",
+  "birthCoordinatesLng": "-64.6835",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "teacher"
+  ],
+  "qid": "Q128641",
+  "birthPlace": "Hopewell Hill",
+  "fetchedAt": "2026-08-03T10:59:36.797Z"
+}

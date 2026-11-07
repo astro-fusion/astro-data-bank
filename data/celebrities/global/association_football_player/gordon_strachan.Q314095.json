@@ -1,0 +1,32 @@
+{
+  "publicId": "c79d3098",
+  "wikipediaSlug": "Gordon_Strachan",
+  "wikipediaId": "Q314095",
+  "name": "Gordon Strachan",
+  "fullName": "Gordon Strachan",
+  "profileSummary": "Gordon David Strachan is a Scottish former football coach and player who is currently Technical Director of Dundee. He played for Dundee, Aberdeen, Manchester United, Leeds United and Coventry City, as well as the Scotland national team. He has since managed Coventry City, Southampton, Celtic, Middlesbrough and Scotland.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gordon_David_Strachan.jpg/330px-Gordon_David_Strachan.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Strachan",
+  "dateOfBirth": "1957-02-09",
+  "birthDateParsed": "1957-02-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q314095",
+  "birthPlace": "Edinburgh",
+  "fetchedAt": "2026-08-01T05:21:21.376Z"
+}

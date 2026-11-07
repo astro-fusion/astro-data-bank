@@ -1,0 +1,39 @@
+{
+  "publicId": "d5b9c884",
+  "wikipediaSlug": "Pope_Benedict_XVI",
+  "wikipediaId": "Q2494",
+  "name": "Pope Benedict XVI",
+  "fullName": "Pope Benedict XVI",
+  "profileSummary": "Pope Benedict XVI was the head of the Catholic Church and sovereign of Vatican City from 2005 until his resignation in 2013. Following his resignation, he chose to be known as \"pope emeritus\", a title he held until his death on 31 December 2022. In addition to this, he was an important philosopher and theologian of the 20th and early 21st centuries.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Benedykt_XVI_%282010-10-17%29_2.jpg/330px-Benedykt_XVI_%282010-10-17%29_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Benedict_XVI",
+  "dateOfBirth": "1927-04-16",
+  "birthDateParsed": "1927-04-16",
+  "dateOfDeath": "2022-12-31",
+  "deathDateParsed": "2022-12-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.253333333",
+  "birthCoordinatesLng": "12.843055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Latin Catholic priest",
+    "religious writer",
+    "university teacher",
+    "philosopher",
+    "transitional deacon",
+    "Latin Catholic bishop",
+    "Catholic theologian",
+    "archbishop",
+    "theologian"
+  ],
+  "qid": "Q2494",
+  "birthPlace": "Marktl",
+  "fetchedAt": "2026-08-03T15:53:00.873Z"
+}

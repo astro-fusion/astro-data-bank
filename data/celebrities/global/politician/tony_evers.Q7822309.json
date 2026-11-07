@@ -1,0 +1,34 @@
+{
+  "publicId": "e0c6e890",
+  "wikipediaSlug": "Tony_Evers",
+  "wikipediaId": "Q7822309",
+  "name": "Tony Evers",
+  "fullName": "Tony Evers",
+  "profileSummary": "Anthony Steven Evers is an American politician and educator serving since 2019 as the 46th governor of Wisconsin. A member of the Democratic Party, he served from 2009 to 2019 as Wisconsin's 26th superintendent of public instruction.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Tony_Evers_-_2022_%28a%29.jpg/330px-Tony_Evers_-_2022_%28a%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Evers",
+  "dateOfBirth": "1951-11-05",
+  "birthDateParsed": "1951-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.749166666",
+  "birthCoordinatesLng": "-87.976666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "school teacher",
+    "head teacher",
+    "governor"
+  ],
+  "qid": "Q7822309",
+  "birthPlace": "Plymouth",
+  "fetchedAt": "2026-08-02T03:29:13.319Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "6f2b393d",
+  "wikipediaSlug": "T._Sasitharan",
+  "wikipediaId": "Q7668698",
+  "name": "T. Sasitharan",
+  "fullName": "T. Sasitharan",
+  "profileSummary": "Thirunalan Sasitharan is a Singaporean theatre educator and the co-founder and director of Intercultural Theatre Institute (ITI), formerly known as the Theatre Training & Research Programme (TTRP).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sasi_AIC_27Nov.jpg/330px-Sasi_AIC_27Nov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/T._Sasitharan",
+  "dateOfBirth": "1958-02-23",
+  "birthDateParsed": "1958-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "theatre director"
+  ],
+  "qid": "Q7668698",
+  "birthPlace": "Singapore",
+  "fetchedAt": "2026-08-06T09:09:12.930Z"
+}

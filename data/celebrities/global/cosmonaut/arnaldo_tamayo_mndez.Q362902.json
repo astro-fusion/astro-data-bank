@@ -1,0 +1,35 @@
+{
+  "publicId": "49647308",
+  "wikipediaSlug": "Arnaldo_Tamayo_Méndez",
+  "wikipediaId": "Q362902",
+  "name": "Arnaldo Tamayo Méndez",
+  "fullName": "Arnaldo Tamayo Méndez",
+  "profileSummary": "Arnaldo Tamayo Méndez is a Cuban military officer, legislator, and former cosmonaut. In 1980, as a member of the crew of Soyuz 38, he became the first Cuban citizen, the first Latin American, the first person of African descent, and the first person from a country in the Western Hemisphere other than the United States to travel into Earth orbit.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Arnaldo_Tamayo_Berlin_2018_-_2.jpg/330px-Arnaldo_Tamayo_Berlin_2018_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnaldo_Tamayo_M%C3%A9ndez",
+  "dateOfBirth": "1942-01-29",
+  "birthDateParsed": "1942-01-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.138333",
+  "birthCoordinatesLng": "-75.206111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cosmonaut",
+    "aircraft pilot",
+    "military personnel",
+    "politician",
+    "astronaut"
+  ],
+  "qid": "Q362902",
+  "birthPlace": "Guantánamo",
+  "fetchedAt": "2026-08-10T06:03:46.304Z"
+}

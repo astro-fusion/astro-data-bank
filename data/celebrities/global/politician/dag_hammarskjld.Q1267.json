@@ -1,0 +1,36 @@
+{
+  "publicId": "ab98f218",
+  "wikipediaSlug": "Dag_Hammarskjöld",
+  "wikipediaId": "Q1267",
+  "name": "Dag Hammarskjöld",
+  "fullName": "Dag Hammarskjöld",
+  "profileSummary": "Dag Hjalmar Agne Carl Hammarskjöld was a Swedish economist and diplomat who served as the second Secretary-General of the United Nations from April 1953 until his death in a plane crash in September 1961. As of 2026, he remains the youngest person to have held the post, having been only 47 years old when he was elected. He was a son of Hjalmar Hammarskjöld, who served as Prime Minister of Sweden from 1914 to 1917.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dag_Hammarskj%C3%B6ld.jpg/330px-Dag_Hammarskj%C3%B6ld.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld",
+  "dateOfBirth": "1905-07-29",
+  "birthDateParsed": "1905-07-29",
+  "dateOfDeath": "1961-09-18",
+  "deathDateParsed": "1961-09-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "57.783333333",
+  "birthCoordinatesLng": "14.166666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "economist",
+    "poet",
+    "writer",
+    "philosopher"
+  ],
+  "qid": "Q1267",
+  "birthPlace": "Jönköping",
+  "fetchedAt": "2026-08-04T02:13:04.496Z"
+}

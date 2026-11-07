@@ -1,0 +1,33 @@
+{
+  "publicId": "676956a8",
+  "wikipediaSlug": "Sheldon_Adelson",
+  "wikipediaId": "Q319137",
+  "name": "Sheldon Adelson",
+  "fullName": "Sheldon Adelson",
+  "profileSummary": "Sheldon Gary Adelson was an American businessman, investor, and political donor. He was the founder, chairman and chief executive officer of Las Vegas Sands Corporation, which founded the Marina Bay Sands luxury resort in Singapore, and the parent company of Venetian Macao Limited, which operated The Venetian Las Vegas and the Sands Expo and Convention Center. He owned the Israeli free daily newspaper Israel Hayom, the Israeli weekly newspaper Makor Rishon, and the American daily newspaper the Las Vegas Review-Journal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sheldon_Adelson_crop.jpg/330px-Sheldon_Adelson_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheldon_Adelson",
+  "dateOfBirth": "1933-08-04",
+  "birthDateParsed": "1933-08-04",
+  "dateOfDeath": "2021-01-11",
+  "deathDateParsed": "2021-01-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "financier",
+    "businessperson"
+  ],
+  "qid": "Q319137",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-04T03:35:28.966Z"
+}

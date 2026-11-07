@@ -1,0 +1,31 @@
+{
+  "publicId": "16965909",
+  "wikipediaSlug": "Gerald_Patterson",
+  "wikipediaId": "Q730856",
+  "name": "Gerald Patterson",
+  "fullName": "Gerald Patterson",
+  "profileSummary": "Gerald Leighton Patterson MC was an Australian tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gerald_Patterson_%28cropped%29.jpg/330px-Gerald_Patterson_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerald_Patterson",
+  "dateOfBirth": "1895-12-17",
+  "birthDateParsed": "1895-12-17",
+  "dateOfDeath": "1967-06-13",
+  "deathDateParsed": "1967-06-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q730856",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-01T13:11:14.210Z"
+}

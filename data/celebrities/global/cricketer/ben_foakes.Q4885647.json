@@ -1,0 +1,31 @@
+{
+  "publicId": "a7cef0c8",
+  "wikipediaSlug": "Ben_Foakes",
+  "wikipediaId": "Q4885647",
+  "name": "Ben Foakes",
+  "fullName": "Ben Foakes",
+  "profileSummary": "Benjamin Thomas Foakes is an English professional cricketer who plays internationally for the England Test cricket team. In domestic cricket, he represents Surrey, having previously played for Essex.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ben_Foakes_Cricketer.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Foakes",
+  "dateOfBirth": "1993-02-15",
+  "birthDateParsed": "1993-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.888611",
+  "birthCoordinatesLng": "0.903611",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4885647",
+  "birthPlace": "Colchester",
+  "fetchedAt": "2026-07-31T20:08:36.680Z"
+}

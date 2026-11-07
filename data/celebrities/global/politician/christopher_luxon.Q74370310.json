@@ -1,0 +1,33 @@
+{
+  "publicId": "cb32706e",
+  "wikipediaSlug": "Christopher_Luxon",
+  "wikipediaId": "Q74370310",
+  "name": "Christopher Luxon",
+  "fullName": "Christopher Luxon",
+  "profileSummary": "Christopher Mark Luxon is a New Zealand politician and businessman who has served as the 42nd prime minister of New Zealand since 2023. A member of the National Party, he has been the member of Parliament (MP) for Botany since 2020 and previously served as leader of the Opposition from 2021 to 2023. Prior to entering politics, he was the chief executive officer (CEO) of Air New Zealand from 2013 to 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LUXON%2C_Christopher_-_Botany_%28cropped%29.png/330px-LUXON%2C_Christopher_-_Botany_%28cropped%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Luxon",
+  "dateOfBirth": "1970-07-19",
+  "birthDateParsed": "1970-07-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "chief executive officer",
+    "political candidate"
+  ],
+  "qid": "Q74370310",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-08-03T16:50:21.207Z"
+}

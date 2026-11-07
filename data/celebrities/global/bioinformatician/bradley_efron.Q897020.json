@@ -1,0 +1,36 @@
+{
+  "publicId": "ab1bba80",
+  "wikipediaSlug": "Bradley_Efron",
+  "wikipediaId": "Q897020",
+  "name": "Bradley Efron",
+  "fullName": "Bradley Efron",
+  "profileSummary": "Bradley Efron is an American statistician. Efron has been president of the American Statistical Association (2004) and of the Institute of Mathematical Statistics (1987–1988). He is a past editor of the Journal of the American Statistical Association, and he is the founding editor of the Annals of Applied Statistics. Efron is also the recipient of many awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bradley_Efron_National_Medal_of_Science_2007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bradley_Efron",
+  "dateOfBirth": "1938-05-24",
+  "birthDateParsed": "1938-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.944166666",
+  "birthCoordinatesLng": "-93.093611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "bioinformatician",
+    "mathematician",
+    "statistician",
+    "university teacher",
+    "academic",
+    "editor"
+  ],
+  "qid": "Q897020",
+  "birthPlace": "Saint Paul",
+  "fetchedAt": "2026-08-04T15:05:15.576Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "cb72e164",
+  "wikipediaSlug": "Eric_Marx",
+  "wikipediaId": "Q5387055",
+  "name": "Eric Marx",
+  "fullName": "Eric Marx",
+  "profileSummary": "Waldemar Frederick Eric Marx was a South African cricketer who played in three Tests in 1921.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/WFE_Marx.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Marx",
+  "dateOfBirth": "1895-07-04",
+  "birthDateParsed": "1895-07-04",
+  "dateOfDeath": "1974-06-02",
+  "deathDateParsed": "1974-06-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5387055",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:22:17.926Z"
+}

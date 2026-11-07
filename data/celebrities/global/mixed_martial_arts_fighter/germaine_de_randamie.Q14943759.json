@@ -1,0 +1,33 @@
+{
+  "publicId": "8e55bd06",
+  "wikipediaSlug": "Germaine_de_Randamie",
+  "wikipediaId": "Q14943759",
+  "name": "Germaine de Randamie",
+  "fullName": "Germaine de Randamie",
+  "profileSummary": "Germaine de Randamie is a Dutch former mixed martial artist and former Muay Thai kickboxer. As a mixed martial artist, she most notably competed in the Women’s Bantamweight and Featherweight divisions of the Ultimate Fighting Championship (UFC) and was the inaugural UFC Women's Featherweight Champion. de Randamie formerly competed in Strikeforce. As a kickboxer, she was undefeated in 46 sanctioned bouts, and was a four-time world champion in between kickboxing and Muay Thai.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Germaine_de_Randamie_at_UFC_Copenhagen.jpg/330px-Germaine_de_Randamie_at_UFC_Copenhagen.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Germaine_de_Randamie",
+  "dateOfBirth": "1984-04-24",
+  "birthDateParsed": "1984-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.090833333",
+  "birthCoordinatesLng": "5.121666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "kickboxer",
+    "Thai boxer"
+  ],
+  "qid": "Q14943759",
+  "birthPlace": "Utrecht",
+  "fetchedAt": "2026-08-01T17:05:50.379Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "02df3418",
+  "wikipediaSlug": "Emilio_Butragueño",
+  "wikipediaId": "Q41235",
+  "name": "Emilio Butragueño",
+  "fullName": "Emilio Butragueño",
+  "profileSummary": "Emilio Butragueño Santos is a Spanish former professional footballer who played as a striker.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Emilio_Butrague%C3%B1o_-_240422_191751-2_%28cropped%29.jpg/330px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Emilio_Butrague%C3%B1o_-_240422_191751-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emilio_Butrague%C3%B1o",
+  "dateOfBirth": "1963-07-22",
+  "birthDateParsed": "1963-07-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "beach soccer player"
+  ],
+  "qid": "Q41235",
+  "birthPlace": "Madrid",
+  "fetchedAt": "2026-08-10T11:27:57.458Z"
+}

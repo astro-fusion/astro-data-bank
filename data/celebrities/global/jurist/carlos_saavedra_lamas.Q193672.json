@@ -1,0 +1,35 @@
+{
+  "publicId": "a7014016",
+  "wikipediaSlug": "Carlos_Saavedra_Lamas",
+  "wikipediaId": "Q193672",
+  "name": "Carlos Saavedra Lamas",
+  "fullName": "Carlos Saavedra Lamas",
+  "profileSummary": "Carlos Saavedra Lamas was an Argentine academic and politician who served as Argentina's foreign minister from 1932 to 1938. A legal scholar specializing in labor legislation and international law, he also served as rector of the University of Buenos Aires. As foreign minister, he drafted the 1933 Treaty of Nonaggression and Conciliation and helped mediate an end to the Chaco War between Bolivia and Paraguay, work for which he was awarded the 1936 Nobel Peace Prize, becoming the first Latin American recipient of the prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Carlos_Saavedra_Lamas.jpg/330px-Carlos_Saavedra_Lamas.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Saavedra_Lamas",
+  "dateOfBirth": "1878-11-01",
+  "birthDateParsed": "1878-11-01",
+  "dateOfDeath": "1959-05-05",
+  "deathDateParsed": "1959-05-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jurist",
+    "lawyer",
+    "diplomat",
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q193672",
+  "birthPlace": "Buenos Aires",
+  "fetchedAt": "2026-08-04T02:12:42.186Z"
+}

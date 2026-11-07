@@ -1,0 +1,31 @@
+{
+  "publicId": "c768a56a",
+  "wikipediaSlug": "Chris_Harris_(cricketer)",
+  "wikipediaId": "Q5106801",
+  "name": "Chris Harris (cricketer)",
+  "fullName": "Chris Harris (cricketer)",
+  "profileSummary": "Chris Zinzan Harris is a former New Zealand cricketer who became, over the course of the 1990s, a folk-hero in New Zealand cricket. Harris was a member of the New Zealand team that won the 2000 ICC KnockOut Trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Chris_Harris_%28crop%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Harris_(cricketer)",
+  "dateOfBirth": "1969-11-20",
+  "birthDateParsed": "1969-11-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5106801",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-07-31T21:02:39.225Z"
+}

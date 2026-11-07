@@ -1,0 +1,32 @@
+{
+  "publicId": "d16e78aa",
+  "wikipediaSlug": "Rudy_Tomjanovich",
+  "wikipediaId": "Q557526",
+  "name": "Rudy Tomjanovich",
+  "fullName": "Rudy Tomjanovich",
+  "profileSummary": "Rudolph Tomjanovich Jr. is an American former professional basketball player and coach. He won two NBA Championships with the Houston Rockets and coached Team USA to the gold medal in men's basketball at the 2000 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rudy_T_Space_and_Missile_Center_Feb_26%2C_2009.jpg/330px-Rudy_T_Space_and_Missile_Center_Feb_26%2C_2009.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rudy_Tomjanovich",
+  "dateOfBirth": "1948-11-24",
+  "birthDateParsed": "1948-11-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.397777777",
+  "birthCoordinatesLng": "-83.057222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q557526",
+  "birthPlace": "Hamtramck",
+  "fetchedAt": "2026-08-01T15:38:28.771Z"
+}

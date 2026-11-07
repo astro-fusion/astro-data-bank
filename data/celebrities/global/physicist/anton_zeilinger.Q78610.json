@@ -1,0 +1,34 @@
+{
+  "publicId": "1ac836d7",
+  "wikipediaSlug": "Anton_Zeilinger",
+  "wikipediaId": "Q78610",
+  "name": "Anton Zeilinger",
+  "fullName": "Anton Zeilinger",
+  "profileSummary": "Anton Zeilinger is an Austrian quantum physicist and Nobel laureate in physics of 2022. Zeilinger is professor of physics emeritus at the University of Vienna and senior scientist at the Institute for Quantum Optics and Quantum Information of the Austrian Academy of Sciences. Most of his research concerns the fundamental aspects and applications of quantum entanglement.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Anton_Zeilinger%2C_2019_%2849085194786%29_%28cropped%29.jpg/330px-Anton_Zeilinger%2C_2019_%2849085194786%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Zeilinger",
+  "dateOfBirth": "1945-05-20",
+  "birthDateParsed": "1945-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "quantum physicist",
+    "university teacher",
+    "nuclear physicist"
+  ],
+  "qid": "Q78610",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T05:00:55.430Z"
+}

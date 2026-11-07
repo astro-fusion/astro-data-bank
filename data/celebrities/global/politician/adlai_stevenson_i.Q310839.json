@@ -1,0 +1,34 @@
+{
+  "publicId": "b9b9749d",
+  "wikipediaSlug": "Adlai_Stevenson_I",
+  "wikipediaId": "Q310839",
+  "name": "Adlai Stevenson I",
+  "fullName": "Adlai Stevenson I",
+  "profileSummary": "Adlai Ewing Stevenson I was an American politician and diplomat who served as the 23rd vice president of the United States from 1893 to 1897 under President Grover Cleveland. A member of the Democratic Party, Stevenson served as a U.S. Representative for Illinois in the late 1870s and early 1880s. He was the founder of the Stevenson political family.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adlai_Stevenson_I_cph.3a00784.jpg/330px-Adlai_Stevenson_I_cph.3a00784.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adlai_Stevenson_I",
+  "dateOfBirth": "1835-10-23",
+  "birthDateParsed": "1835-10-23",
+  "dateOfDeath": "1914-06-14",
+  "deathDateParsed": "1914-06-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.9",
+  "birthCoordinatesLng": "-87.49",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist",
+    "prosecutor"
+  ],
+  "qid": "Q310839",
+  "birthPlace": "Christian County",
+  "fetchedAt": "2026-08-01T18:07:26.845Z"
+}

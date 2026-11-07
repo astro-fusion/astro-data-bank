@@ -1,0 +1,34 @@
+{
+  "publicId": "18f33943",
+  "wikipediaSlug": "Bruce_McCandless_II",
+  "wikipediaId": "Q433608",
+  "name": "Bruce McCandless II",
+  "fullName": "Bruce McCandless II",
+  "profileSummary": "Bruce McCandless II was an American Navy officer and aviator, electrical engineer, and NASA astronaut. In 1984, during the first of his two Space Shuttle missions, he completed the first untethered spacewalk by using the Manned Maneuvering Unit.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bruce_McCandless_II.jpg/330px-Bruce_McCandless_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_McCandless_II",
+  "dateOfBirth": "1937-06-08",
+  "birthDateParsed": "1937-06-08",
+  "dateOfDeath": "2017-12-21",
+  "deathDateParsed": "2017-12-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot",
+    "engineer"
+  ],
+  "qid": "Q433608",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T06:03:48.762Z"
+}

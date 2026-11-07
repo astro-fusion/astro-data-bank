@@ -1,0 +1,34 @@
+{
+  "publicId": "05a7f4c8",
+  "wikipediaSlug": "Alfred_Kastler",
+  "wikipediaId": "Q71023",
+  "name": "Alfred Kastler",
+  "fullName": "Alfred Kastler",
+  "profileSummary": "Alfred Kastler was a German-born French physicist and Nobel laureate in Physics. He is known for the development of optical pumping.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kastler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Kastler",
+  "dateOfBirth": "1902-05-03",
+  "birthDateParsed": "1902-05-03",
+  "dateOfDeath": "1984-01-07",
+  "deathDateParsed": "1984-01-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.9075",
+  "birthCoordinatesLng": "7.210277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "poet",
+    "university teacher",
+    "researcher"
+  ],
+  "qid": "Q71023",
+  "birthPlace": "Guebwiller",
+  "fetchedAt": "2026-08-06T05:00:44.405Z"
+}

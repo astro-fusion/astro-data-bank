@@ -1,0 +1,32 @@
+{
+  "publicId": "2c88e822",
+  "wikipediaSlug": "Alan_Kotok",
+  "wikipediaId": "Q92925",
+  "name": "Alan Kotok",
+  "fullName": "Alan Kotok",
+  "profileSummary": "Alan Kotok was an American computer scientist known for his work at Digital Equipment Corporation and at the World Wide Web Consortium (W3C). Steven Levy, in his book Hackers: Heroes of the Computer Revolution, describes Kotok and his classmates at the Massachusetts Institute of Technology (MIT) as the first true hackers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alan_Kotok-20060510.jpg/330px-Alan_Kotok-20060510.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Kotok",
+  "dateOfBirth": "1941-11-09",
+  "birthDateParsed": "1941-11-09",
+  "dateOfDeath": "2006-05-26",
+  "deathDateParsed": "2006-05-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "computer scientist"
+  ],
+  "qid": "Q92925",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-05T03:15:00.103Z"
+}

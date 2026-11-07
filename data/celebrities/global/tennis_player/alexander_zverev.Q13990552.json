@@ -1,0 +1,31 @@
+{
+  "publicId": "b7daff7e",
+  "wikipediaSlug": "Alexander_Zverev",
+  "wikipediaId": "Q13990552",
+  "name": "Alexander Zverev",
+  "fullName": "Alexander Zverev",
+  "profileSummary": "Alexander \"Sascha\" Zverev is a German professional tennis player. He has a career-high singles ranking of world No. 2 by the ATP achieved in June 2022.\nZverev has won 25 ATP Tour singles titles, including the 2026 French Open, a gold medal at the 2020 Tokyo Olympics, and the 2018 and 2021 ATP Finals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alexander_Zverev.jpg/330px-Alexander_Zverev.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Zverev",
+  "dateOfBirth": "1997-04-20",
+  "birthDateParsed": "1997-04-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q13990552",
+  "birthPlace": "Hamburg",
+  "fetchedAt": "2026-08-01T13:10:27.331Z"
+}

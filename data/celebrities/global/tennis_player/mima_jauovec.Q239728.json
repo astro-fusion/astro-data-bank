@@ -1,0 +1,33 @@
+{
+  "publicId": "a8fb7495",
+  "wikipediaSlug": "Mima_Jaušovec",
+  "wikipediaId": "Q239728",
+  "name": "Mima Jaušovec",
+  "fullName": "Mima Jaušovec",
+  "profileSummary": "Mima Jaušovec is a Slovenian former professional tennis player. Competing for Yugoslavia, she won the 1977 French Open singles championship.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mima_Jau%C5%A1ovec",
+  "dateOfBirth": "1956-07-20",
+  "birthDateParsed": "1956-07-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.55",
+  "birthCoordinatesLng": "15.633333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach",
+    "politician"
+  ],
+  "qid": "Q239728",
+  "birthPlace": "Maribor",
+  "fetchedAt": "2026-08-01T15:00:20.024Z"
+}

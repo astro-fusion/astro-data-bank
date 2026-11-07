@@ -1,0 +1,33 @@
+{
+  "publicId": "ed249fd1",
+  "wikipediaSlug": "Kofi_Annan",
+  "wikipediaId": "Q1254",
+  "name": "Kofi Annan",
+  "fullName": "Kofi Annan",
+  "profileSummary": "Kofi Atta Annan was a Ghanaian diplomat and statesman who served as the seventh secretary-general of the United Nations from 1997 to 2006. Annan and the UN were the co-recipients of the 2001 Nobel Peace Prize. He was the founder and chairman of the Kofi Annan Foundation, as well as chairman of The Elders, an international organisation founded by Nelson Mandela.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kofi_Annan_2012_%28cropped%29.jpg/330px-Kofi_Annan_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kofi_Annan",
+  "dateOfBirth": "1938-04-08",
+  "birthDateParsed": "1938-04-08",
+  "dateOfDeath": "2018-08-18",
+  "deathDateParsed": "2018-08-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.7",
+  "birthCoordinatesLng": "-1.625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "economist",
+    "politician"
+  ],
+  "qid": "Q1254",
+  "birthPlace": "Kumasi",
+  "fetchedAt": "2026-08-04T02:13:35.720Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "7815184b",
+  "wikipediaSlug": "Andy_Beshear",
+  "wikipediaId": "Q21572825",
+  "name": "Andy Beshear",
+  "fullName": "Andy Beshear",
+  "profileSummary": " Andrew Graham Beshear is an American politician and attorney serving since 2019 as the 63rd governor of Kentucky. A member of the Democratic Party, he served from 2016 to 2019 as the 50th attorney general of Kentucky. He is the son of former Kentucky governor Steve Beshear, who served from 2007 to 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Andy_Beshear_in_April_2026_%28cropped_2%29.jpg/330px-Andy_Beshear_in_April_2026_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Beshear",
+  "dateOfBirth": "1977-11-29",
+  "birthDateParsed": "1977-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.256111111",
+  "birthCoordinatesLng": "-85.751388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "governor",
+    "jurist"
+  ],
+  "qid": "Q21572825",
+  "birthPlace": "Louisville",
+  "fetchedAt": "2026-08-02T03:27:53.395Z"
+}

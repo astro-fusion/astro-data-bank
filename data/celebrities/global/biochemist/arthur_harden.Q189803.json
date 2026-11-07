@@ -1,0 +1,33 @@
+{
+  "publicId": "785302e3",
+  "wikipediaSlug": "Arthur_Harden",
+  "wikipediaId": "Q189803",
+  "name": "Arthur Harden",
+  "fullName": "Arthur Harden",
+  "profileSummary": "Sir Arthur Harden, FRS was a British biochemist. He shared the Nobel Prize in Chemistry in 1929 with Hans Karl August Simon von Euler-Chelpin for their investigations into the fermentation of sugar and fermentative enzymes. He was a founding member of the Biochemical Society and editor of the Biochemical Journal for 25 years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/ArthurHarden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Harden",
+  "dateOfBirth": "1865-10-12",
+  "birthDateParsed": "1865-10-12",
+  "dateOfDeath": "1940-06-17",
+  "deathDateParsed": "1940-06-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.466666666",
+  "birthCoordinatesLng": "-2.233333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q189803",
+  "birthPlace": "Manchester",
+  "fetchedAt": "2026-08-10T02:03:10.575Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "d017a15a",
+  "wikipediaSlug": "Derek_Walcott",
+  "wikipediaId": "Q132701",
+  "name": "Derek Walcott",
+  "fullName": "Derek Walcott",
+  "profileSummary": "Sir Derek Alton Walcott was a Saint Lucian poet and playwright.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Derek_Walcott.jpg/330px-Derek_Walcott.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Derek_Walcott",
+  "dateOfBirth": "1930-01-23",
+  "birthDateParsed": "1930-01-23",
+  "dateOfDeath": "2017-03-17",
+  "deathDateParsed": "2017-03-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "14.010833333",
+  "birthCoordinatesLng": "-60.989444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "playwright",
+    "writer",
+    "prose writer",
+    "director",
+    "librettist"
+  ],
+  "qid": "Q132701",
+  "birthPlace": "Castries",
+  "fetchedAt": "2026-08-06T07:41:11.879Z"
+}

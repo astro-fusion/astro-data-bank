@@ -1,0 +1,32 @@
+{
+  "publicId": "75825018",
+  "wikipediaSlug": "Jon_Kyl",
+  "wikipediaId": "Q371031",
+  "name": "Jon Kyl",
+  "fullName": "Jon Kyl",
+  "profileSummary": "Jon Llewellyn Kyl is an American politician and lobbyist who served as a United States Senator for Arizona from 1995 to 2013. Following the death of John McCain in 2018, Kyl briefly returned to the Senate; his resignation led to the appointment of Martha McSally in 2019. A Republican, he held both of Arizona's Senate seats at different times, serving alongside McCain during his first stint. Kyl was Senate Minority Whip from 2007 until 2013. He first joined the lobbying firm Covington & Burling after retiring in 2013, then rejoined in 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sen._Jon_Kyl_%28R-AZ%29%2C_Official_Portrait%2C_115th_Congress.jpg/330px-Sen._Jon_Kyl_%28R-AZ%29%2C_Official_Portrait%2C_115th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jon_Kyl",
+  "dateOfBirth": "1942-04-25",
+  "birthDateParsed": "1942-04-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.835",
+  "birthCoordinatesLng": "-96.466111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q371031",
+  "birthPlace": "Oakland",
+  "fetchedAt": "2026-08-02T02:17:29.500Z"
+}

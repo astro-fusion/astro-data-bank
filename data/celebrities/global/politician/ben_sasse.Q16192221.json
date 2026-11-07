@@ -1,0 +1,33 @@
+{
+  "publicId": "dd00668b",
+  "wikipediaSlug": "Ben_Sasse",
+  "wikipediaId": "Q16192221",
+  "name": "Ben Sasse",
+  "fullName": "Ben Sasse",
+  "profileSummary": "Benjamin Eric Sasse is an American politician and academic administrator. He represented Nebraska in the United States Senate from 2015 to 2023, resigning to become the president of the University of Florida. He is a member of the Republican Party. A critic of Donald Trump, Sasse is one of seven Republican senators who voted to convict Trump of incitement of insurrection in his second impeachment trial.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ben_Sasse_Official_photo_114th_congress.jpg/330px-Ben_Sasse_Official_photo_114th_congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Sasse",
+  "dateOfBirth": "1972-02-22",
+  "birthDateParsed": "1972-02-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.352777777",
+  "birthCoordinatesLng": "-97.787222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "management consultant",
+    "university teacher"
+  ],
+  "qid": "Q16192221",
+  "birthPlace": "Plainview",
+  "fetchedAt": "2026-08-02T02:16:12.609Z"
+}

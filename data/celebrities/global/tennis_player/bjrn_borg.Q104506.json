@@ -1,0 +1,31 @@
+{
+  "publicId": "29d6fce1",
+  "wikipediaSlug": "Björn_Borg",
+  "wikipediaId": "Q104506",
+  "name": "Björn Borg",
+  "fullName": "Björn Borg",
+  "profileSummary": "Björn Rune Borg is a Swedish former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 109 weeks. Borg won 66 singles titles during his career, including eleven majors: six at the French Open and five consecutively at Wimbledon. Borg was ATP Player of the Year from 1976 to 1980, the year-end No. 1 in the ATP rankings in 1979 and 1980, and the ITF World Champion from 1978 to 1980.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bjorn_Borg_en_2014.jpg/330px-Bjorn_Borg_en_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Borg",
+  "dateOfBirth": "1956-06-06",
+  "birthDateParsed": "1956-06-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.329444444",
+  "birthCoordinatesLng": "18.068611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q104506",
+  "birthPlace": "Stockholm",
+  "fetchedAt": "2026-08-01T13:10:23.164Z"
+}

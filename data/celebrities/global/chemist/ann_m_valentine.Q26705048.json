@@ -1,0 +1,32 @@
+{
+  "publicId": "d716565e",
+  "wikipediaSlug": "Ann_M._Valentine",
+  "wikipediaId": "Q26705048",
+  "name": "Ann M. Valentine",
+  "fullName": "Ann M. Valentine",
+  "profileSummary": "Ann M. Valentine is an American bioinorganic chemist whose research focuses on biomineralization, the uptake and transport of metals, and their medical applications in areas such as cancer research. She has received numerous awards including the 2014 AICChemical Pioneer Award \"for her outstanding contributions towards advancing the science of chemistry and impacting the chemical profession\" and the 2009 Paul D. Saltman Award for Metals in Biology for \"outstanding contributions to the field of metals in biology\" and \"groundbreaking work on the structures and reactions of complexes containing titanium.\"",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ann_M._Valentine",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "bioinorganic chemist"
+  ],
+  "qid": "Q26705048",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:54.456Z"
+}

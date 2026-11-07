@@ -1,0 +1,34 @@
+{
+  "publicId": "c3527187",
+  "wikipediaSlug": "Akira_Yoshino",
+  "wikipediaId": "Q4701206",
+  "name": "Akira Yoshino",
+  "fullName": "Akira Yoshino",
+  "profileSummary": "Akira Yoshino  is a Japanese chemist. He is a fellow of Asahi Kasei Corporation and a professor at Meijo University in Nagoya. He created the first safe, production-viable lithium-ion battery, which became used widely in cellular phones and notebook computers. Yoshino was awarded the Nobel Prize in Chemistry in 2019 alongside M. Stanley Whittingham and John B. Goodenough.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Akira_Yoshino_20170920_%28cropped_2%29.jpg/330px-Akira_Yoshino_20170920_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akira_Yoshino",
+  "dateOfBirth": "1948-01-30",
+  "birthDateParsed": "1948-01-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.759472222",
+  "birthCoordinatesLng": "135.516833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "engineer",
+    "inventor",
+    "researcher"
+  ],
+  "qid": "Q4701206",
+  "birthPlace": "Suita",
+  "fetchedAt": "2026-08-10T02:03:28.657Z"
+}

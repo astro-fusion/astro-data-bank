@@ -1,0 +1,35 @@
+{
+  "publicId": "05b069fd",
+  "wikipediaSlug": "Paul_Hasluck",
+  "wikipediaId": "Q1382174",
+  "name": "Paul Hasluck",
+  "fullName": "Paul Hasluck",
+  "profileSummary": "Sir Paul Meernaa Caedwalla Hasluck was an Australian statesman who served as the 17th governor-general of Australia, in office from 1969 to 1974. Prior to that, he was a Liberal Party politician, holding ministerial office continuously from 1951 to 1969.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Paul_Hasluck_1971_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Hasluck",
+  "dateOfBirth": "1905-04-01",
+  "birthDateParsed": "1905-04-01",
+  "dateOfDeath": "1993-01-09",
+  "deathDateParsed": "1993-01-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.054166666",
+  "birthCoordinatesLng": "115.7475",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "diplomat",
+    "politician",
+    "governor",
+    "journalist"
+  ],
+  "qid": "Q1382174",
+  "birthPlace": "Fremantle",
+  "fetchedAt": "2026-08-03T12:58:57.023Z"
+}

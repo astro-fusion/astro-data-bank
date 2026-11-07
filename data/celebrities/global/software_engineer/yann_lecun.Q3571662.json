@@ -1,0 +1,35 @@
+{
+  "publicId": "48cfe162",
+  "wikipediaSlug": "Yann_LeCun",
+  "wikipediaId": "Q3571662",
+  "name": "Yann LeCun",
+  "fullName": "Yann LeCun",
+  "profileSummary": "Yann André Le Cun is a French-American computer scientist working in the fields of artificial intelligence, machine learning, computer vision, robotics and image compression. He is the Jacob T. Schwartz Professor of Computer Science at the Courant Institute of Mathematical Sciences at New York University. He served as Chief AI Scientist at Meta Platforms before co-founding Advanced Machine Intelligence Labs in December 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Laura_Chaubard_%26_Yann_Le_Cun_-_2024_%2853814052697%29_%28cropped%29.jpg/330px-Laura_Chaubard_%26_Yann_Le_Cun_-_2024_%2853814052697%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yann_LeCun",
+  "dateOfBirth": "1960-07-08",
+  "birthDateParsed": "1960-07-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.987777777",
+  "birthCoordinatesLng": "2.299722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "software engineer",
+    "electrical engineer",
+    "artificial intelligence researcher",
+    "professor",
+    "computer scientist"
+  ],
+  "qid": "Q3571662",
+  "birthPlace": "Soisy-sous-Montmorency",
+  "fetchedAt": "2026-08-10T04:29:47.580Z"
+}

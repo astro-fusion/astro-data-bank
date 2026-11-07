@@ -1,0 +1,31 @@
+{
+  "publicId": "1da365d4",
+  "wikipediaSlug": "Bill_Lundie",
+  "wikipediaId": "Q4909976",
+  "name": "Bill Lundie",
+  "fullName": "Bill Lundie",
+  "profileSummary": "Eric Balfour \"Bill\" Lundie was a South African cricketer who played in one Test in 1914.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bill_Lundie.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Lundie",
+  "dateOfBirth": "1888-03-15",
+  "birthDateParsed": "1888-03-15",
+  "dateOfDeath": "1917-09-12",
+  "deathDateParsed": "1917-09-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.266",
+  "birthCoordinatesLng": "28.516",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4909976",
+  "birthPlace": "Willowvale, Eastern Cape",
+  "fetchedAt": "2026-07-31T20:20:19.258Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "bd476a1e",
+  "wikipediaSlug": "Alan_Mulally",
+  "wikipediaId": "Q348874",
+  "name": "Alan Mulally",
+  "fullName": "Alan Mulally",
+  "profileSummary": "Alan Roger Mulally is an American aerospace engineer and manufacturing executive. He was the CEO of Boeing Commercial Airplanes from 1998 to 2006, and later as president and chief executive officer of the Ford Motor Company from 2006 to 2014.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alan_Mulally_2013-01-30_001.jpg/330px-Alan_Mulally_2013-01-30_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Mulally",
+  "dateOfBirth": "1945-08-04",
+  "birthDateParsed": "1945-08-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.8",
+  "birthCoordinatesLng": "-122.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chief executive officer",
+    "engineer",
+    "businessperson",
+    "military flight engineer"
+  ],
+  "qid": "Q348874",
+  "birthPlace": "Oakland",
+  "fetchedAt": "2026-08-05T03:15:01.088Z"
+}

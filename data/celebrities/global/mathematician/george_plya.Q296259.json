@@ -1,0 +1,32 @@
+{
+  "publicId": "46690627",
+  "wikipediaSlug": "George_Pólya",
+  "wikipediaId": "Q296259",
+  "name": "George Pólya",
+  "fullName": "George Pólya",
+  "profileSummary": "George Pólya was a Hungarian-American mathematician. He was a professor of mathematics from 1914 to 1940 at ETH Zürich and from 1940 to 1953 at Stanford University. He made fundamental contributions to combinatorics, number theory, numerical analysis and probability theory. He is also noted for his work in heuristics and mathematics education. He has been described as one of The Martians, an informal category of Hungarian-American scientists that also included one of his most-famous students at ETH Zurich, John von Neumann.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ETH-BIB-Polya%2C_Georg_%281887-1985%29-Portrait-Portr_13887-19-AL.tif/lossy-page1-330px-ETH-BIB-Polya%2C_Georg_%281887-1985%29-Portrait-Portr_13887-19-AL.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_P%C3%B3lya",
+  "dateOfBirth": "1887-12-13",
+  "birthDateParsed": "1887-12-13",
+  "dateOfDeath": "1985-09-08",
+  "deathDateParsed": "1985-09-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q296259",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-04T15:06:54.919Z"
+}

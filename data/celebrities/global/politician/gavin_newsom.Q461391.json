@@ -1,0 +1,37 @@
+{
+  "publicId": "920b4f1d",
+  "wikipediaSlug": "Gavin_Newsom",
+  "wikipediaId": "Q461391",
+  "name": "Gavin Newsom",
+  "fullName": "Gavin Newsom",
+  "profileSummary": "Gavin Christopher Newsom is an American politician and businessman serving as the governor of California since 2019. A member of the Democratic Party, he served as the lieutenant governor of California from 2011 to 2019 and as the mayor of San Francisco from 2004 to 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg/330px-Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gavin_Newsom",
+  "dateOfBirth": "1967-10-10",
+  "birthDateParsed": "1967-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "restaurateur",
+    "businessperson",
+    "television presenter",
+    "writer",
+    "governor",
+    "mayor"
+  ],
+  "qid": "Q461391",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-02T03:27:58.738Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "71152dad",
+  "wikipediaSlug": "Michael_Spence",
+  "wikipediaId": "Q157245",
+  "name": "Michael Spence",
+  "fullName": "Michael Spence",
+  "profileSummary": "Andrew Michael Spence is a Canadian-American economist and Nobel laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/A_Michael_Spence.jpg/330px-A_Michael_Spence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Spence",
+  "dateOfBirth": "1943-11-07",
+  "birthDateParsed": "1943-11-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.8244",
+  "birthCoordinatesLng": "-74.2123",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "scientist",
+    "professor"
+  ],
+  "qid": "Q157245",
+  "birthPlace": "Montclair",
+  "fetchedAt": "2026-08-10T09:43:47.548Z"
+}

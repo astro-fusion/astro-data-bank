@@ -1,0 +1,31 @@
+{
+  "publicId": "09bc5722",
+  "wikipediaSlug": "Joseph_Chamberlain",
+  "wikipediaId": "Q315999",
+  "name": "Joseph Chamberlain",
+  "fullName": "Joseph Chamberlain",
+  "profileSummary": "Joseph Chamberlain was a British statesman who was first a radical Liberal, then a Liberal Unionist after opposing home rule for Ireland, and eventually was a leading imperialist in coalition with the Conservatives. He split both major British parties in the course of his career. He was the father, by different marriages, of Nobel Peace Prize winner Austen Chamberlain and of Prime Minister Neville Chamberlain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Joseph_Chamberlain_MP.png/330px-Joseph_Chamberlain_MP.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Chamberlain",
+  "dateOfBirth": "1836-07-08",
+  "birthDateParsed": "1836-07-08",
+  "dateOfDeath": "1914-07-02",
+  "deathDateParsed": "1914-07-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q315999",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:22:21.461Z"
+}

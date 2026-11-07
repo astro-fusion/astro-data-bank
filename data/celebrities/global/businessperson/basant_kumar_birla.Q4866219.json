@@ -1,0 +1,32 @@
+{
+  "publicId": "dbed1604",
+  "wikipediaSlug": "Basant_Kumar_Birla",
+  "wikipediaId": "Q4866219",
+  "name": "Basant Kumar Birla",
+  "fullName": "Basant Kumar Birla",
+  "profileSummary": "Basant Kumar Birla was an Indian industrialist and philanthropist of the Birla family. He was chairman of the Krishnarpan Charity Trust, BK Birla Institute of Engineering & Technology (BKBIET) and various educational trusts and institutes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Basant_Kumar_Birla_-_Kolkata_2009-05-02_0066.jpg/330px-Basant_Kumar_Birla_-_Kolkata_2009-05-02_0066.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Basant_Kumar_Birla",
+  "dateOfBirth": "1921-01-12",
+  "birthDateParsed": "1921-01-12",
+  "dateOfDeath": "2019-07-03",
+  "deathDateParsed": "2019-07-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.5675",
+  "birthCoordinatesLng": "88.37",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "autobiographer"
+  ],
+  "qid": "Q4866219",
+  "birthPlace": "Kolkata",
+  "fetchedAt": "2026-08-05T03:16:06.823Z"
+}

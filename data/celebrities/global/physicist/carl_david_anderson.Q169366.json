@@ -1,0 +1,32 @@
+{
+  "publicId": "bcccf338",
+  "wikipediaSlug": "Carl_David_Anderson",
+  "wikipediaId": "Q169366",
+  "name": "Carl David Anderson",
+  "fullName": "Carl David Anderson",
+  "profileSummary": "Carl David Anderson was an American experimental physicist who shared the 1936 Nobel Prize in Physics with Victor Hess for his discovery of the positron, which confirmed the existence of antimatter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Carl_David_Anderson.jpg/330px-Carl_David_Anderson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_David_Anderson",
+  "dateOfBirth": "1905-09-03",
+  "birthDateParsed": "1905-09-03",
+  "dateOfDeath": "1991-01-11",
+  "deathDateParsed": "1991-01-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q169366",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-06T05:01:09.262Z"
+}

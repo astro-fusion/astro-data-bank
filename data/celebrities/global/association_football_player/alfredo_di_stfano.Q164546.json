@@ -1,0 +1,32 @@
+{
+  "publicId": "7c957dae",
+  "wikipediaSlug": "Alfredo_Di_Stéfano",
+  "wikipediaId": "Q164546",
+  "name": "Alfredo Di Stéfano",
+  "fullName": "Alfredo Di Stéfano",
+  "profileSummary": "Alfredo Stéfano Di Stéfano Laulhé was an Argentine and naturalised Spanish professional footballer and manager who played as a forward, widely regarded as one of the greatest players of all time and the greatest Real Madrid player ever. Nicknamed \"Saeta Rubia\", he is best known for his achievements with the club, where he was instrumental in the club's domination of the European Cup and La Liga during the 1950s and 1960s. Along with Francisco Gento and José María Zárraga, he was one of only three players to play a part in all five European Cup victories, scoring goals in each of the five finals. Di Stéfano played international football mostly for Spain after moving to Madrid and becoming a naturalised citizen, but he also played for Argentina and Colombia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Di_stefano_argentina_%28cropped%29.jpg/330px-Di_stefano_argentina_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano",
+  "dateOfBirth": "1926-07-04",
+  "birthDateParsed": "1926-07-04",
+  "dateOfDeath": "2014-07-07",
+  "deathDateParsed": "2014-07-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q164546",
+  "birthPlace": "Buenos Aires",
+  "fetchedAt": "2026-08-10T11:27:16.062Z"
+}

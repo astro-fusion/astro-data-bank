@@ -1,0 +1,32 @@
+{
+  "publicId": "6b182637",
+  "wikipediaSlug": "Akira_Suzuki",
+  "wikipediaId": "Q105949",
+  "name": "Akira Suzuki",
+  "fullName": "Akira Suzuki",
+  "profileSummary": "Akira Suzuki  is a Japanese chemist and Nobel Prize Laureate (2010), who first published the Suzuki reaction, the organic reaction of an aryl- or vinyl-boronic acid with an aryl- or vinyl-halide catalyzed by a palladium(0) complex, in 1979.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nobel_Prize_2010-Press_Conference_KVA-DSC_7383.jpg/330px-Nobel_Prize_2010-Press_Conference_KVA-DSC_7383.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akira_Suzuki",
+  "dateOfBirth": "1930-09-12",
+  "birthDateParsed": "1930-09-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.57475",
+  "birthCoordinatesLng": "141.92675",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "professor"
+  ],
+  "qid": "Q105949",
+  "birthPlace": "Mukawa",
+  "fetchedAt": "2026-08-10T02:03:21.990Z"
+}

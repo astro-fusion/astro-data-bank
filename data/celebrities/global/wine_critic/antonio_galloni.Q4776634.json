@@ -1,0 +1,31 @@
+{
+  "publicId": "34fee495",
+  "wikipediaSlug": "Antonio_Galloni",
+  "wikipediaId": "Q4776634",
+  "name": "Antonio Galloni",
+  "fullName": "Antonio Galloni",
+  "profileSummary": "Antonio Galloni is an American wine critic. He is the founder and chief executive officer (CEO) of Vinous for which he is also the lead critic covering the wines of Bordeaux, California, Italy, and Champagne.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Galloni",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "wine critic"
+  ],
+  "qid": "Q4776634",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:41.730Z"
+}

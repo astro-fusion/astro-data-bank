@@ -1,0 +1,32 @@
+{
+  "publicId": "59454612",
+  "wikipediaSlug": "Colin_Adams_(mathematician)",
+  "wikipediaId": "Q5144840",
+  "name": "Colin Adams (mathematician)",
+  "fullName": "Colin Adams (mathematician)",
+  "profileSummary": "Colin Conrad Adams is an American mathematician primarily working in the areas of hyperbolic 3-manifolds and knot theory. His book, The Knot Book, has been praised for its accessible approach to advanced topics in knot theory. He is currently Francis Christopher Oakley Third Century Professor of Mathematics at Williams College, where he has been since 1985. He writes \"Mathematically Bent\", a column of math for the Mathematical Intelligencer. His nephew is popular American singer Still Woozy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ColinAdamsphoto.jpg/330px-ColinAdamsphoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colin_Adams_(mathematician)",
+  "dateOfBirth": "1956-10-13",
+  "birthDateParsed": "1956-10-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "topologist"
+  ],
+  "qid": "Q5144840",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:16:44.005Z"
+}

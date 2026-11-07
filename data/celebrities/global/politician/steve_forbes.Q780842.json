@@ -1,0 +1,37 @@
+{
+  "publicId": "498278c4",
+  "wikipediaSlug": "Steve_Forbes",
+  "wikipediaId": "Q780842",
+  "name": "Steve Forbes",
+  "fullName": "Steve Forbes",
+  "profileSummary": "Malcolm Stevenson Forbes Jr. is an American publisher, businessman, and politician who is the chairman and editor-in-chief of Forbes, the business magazine. The son of longtime Forbes publisher Malcolm Forbes and the grandson of that publication's founder B.C. Forbes, he is an adviser at the Forbes School of Business & Technology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Steve_Forbes_%2853863467262%29_%28cropped%29.jpg/330px-Steve_Forbes_%2853863467262%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Forbes",
+  "dateOfBirth": "1947-07-18",
+  "birthDateParsed": "1947-07-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.7966",
+  "birthCoordinatesLng": "-74.4773",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "publisher",
+    "journalist",
+    "editor-in-chief",
+    "businessperson",
+    "film editor",
+    "economic journalist"
+  ],
+  "qid": "Q780842",
+  "birthPlace": "Morristown",
+  "fetchedAt": "2026-08-04T03:35:37.357Z"
+}

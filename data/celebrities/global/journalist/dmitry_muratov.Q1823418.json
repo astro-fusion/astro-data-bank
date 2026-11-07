@@ -1,0 +1,37 @@
+{
+  "publicId": "2bc50dc7",
+  "wikipediaSlug": "Dmitry_Muratov",
+  "wikipediaId": "Q1823418",
+  "name": "Dmitry Muratov",
+  "fullName": "Dmitry Muratov",
+  "profileSummary": "Dmitry Andreyevich Muratov is a Russian journalist, television presenter and the former editor-in-chief of the Russian newspaper Novaya Gazeta. He was awarded the 2021 Nobel Peace Prize jointly with Maria Ressa for \"their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2018-06-20_Boris_Nemzow_Preis_2018-9831_%28cropped%29.jpg/330px-2018-06-20_Boris_Nemzow_Preis_2018-9831_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dmitry_Muratov",
+  "dateOfBirth": "1961-10-29",
+  "birthDateParsed": "1961-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.183333333",
+  "birthCoordinatesLng": "50.116666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "television presenter",
+    "editing staff",
+    "presenter",
+    "editor-in-chief",
+    "human rights defender",
+    "media manager"
+  ],
+  "qid": "Q1823418",
+  "birthPlace": "Samara",
+  "fetchedAt": "2026-08-04T02:13:14.839Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "b1d26e81",
+  "wikipediaSlug": "Jeff_Bezos",
+  "wikipediaId": "Q312556",
+  "name": "Jeff Bezos",
+  "fullName": "Jeff Bezos",
+  "profileSummary": "Jeffrey Preston Bezos is an American businessman, and the founder, executive chairman, and former president and CEO of Amazon, the world's largest e-commerce and cloud computing company. According to the Bloomberg Billionaires Index and Forbes, he was the world's wealthiest person from 2017 to 2021, and in 2026 his net worth was approximately US$284 billion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/330px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+  "dateOfBirth": "1964-01-12",
+  "birthDateParsed": "1964-01-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.084444444",
+  "birthCoordinatesLng": "-106.650277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "entrepreneur",
+    "commercial astronaut",
+    "business oligarch",
+    "programmer"
+  ],
+  "qid": "Q312556",
+  "birthPlace": "Albuquerque",
+  "fetchedAt": "2026-08-04T03:34:26.048Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "292a4527",
+  "wikipediaSlug": "Aafia_Siddiqui",
+  "wikipediaId": "Q300786",
+  "name": "Aafia Siddiqui",
+  "fullName": "Aafia Siddiqui",
+  "profileSummary": "Aafia Siddiqui is a Pakistani neuroscientist and educator who gained international attention following her conviction in the United States and is currently serving an 86-year sentence for attempted murder and other felonies at the Federal Medical Center, Carswell, in Fort Worth, Texas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Afia-grad-01a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aafia_Siddiqui",
+  "dateOfBirth": "1972-03-02",
+  "birthDateParsed": "1972-03-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.86",
+  "birthCoordinatesLng": "67.01",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "neuroscientist"
+  ],
+  "qid": "Q300786",
+  "birthPlace": "Karachi",
+  "fetchedAt": "2026-08-05T03:15:00.698Z"
+}

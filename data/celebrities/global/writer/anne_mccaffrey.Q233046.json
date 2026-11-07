@@ -1,0 +1,34 @@
+{
+  "publicId": "5c815b6a",
+  "wikipediaSlug": "Anne_McCaffrey",
+  "wikipediaId": "Q233046",
+  "name": "Anne McCaffrey",
+  "fullName": "Anne McCaffrey",
+  "profileSummary": "Anne Inez McCaffrey was an American writer known for the Dragonriders of Pern science fiction series. She was the first woman to win a Hugo Award for fiction and the first to win a Nebula Award. Her 1978 novel The White Dragon became one of the first science-fiction books to appear on the New York Times Best Seller list.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Author_photo_of_Anne_McCaffrey_%281986%29.png/330px-Author_photo_of_Anne_McCaffrey_%281986%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne_McCaffrey",
+  "dateOfBirth": "1926-04-01",
+  "birthDateParsed": "1926-04-01",
+  "dateOfDeath": "2011-11-21",
+  "deathDateParsed": "2011-11-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.375",
+  "birthCoordinatesLng": "-71.106111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "science fiction writer",
+    "children's writer"
+  ],
+  "qid": "Q233046",
+  "birthPlace": "Cambridge",
+  "fetchedAt": "2026-08-05T02:42:45.492Z"
+}

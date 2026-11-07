@@ -1,0 +1,32 @@
+{
+  "publicId": "e4d97faa",
+  "wikipediaSlug": "James_S._Sherman",
+  "wikipediaId": "Q310831",
+  "name": "James S. Sherman",
+  "fullName": "James S. Sherman",
+  "profileSummary": "James Schoolcraft Sherman was the 27th vice president of the United States, serving from 1909 until his death in 1912, under President William Howard Taft. A member of the Republican Party, Sherman was previously a United States representative from New York from 1887 to 1891 and 1893 to 1909. He was a member of the interrelated Baldwin, Hoar, and Sherman families, prominent lawyers and politicians of New England and New York.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/James_S._Sherman_LCCN2008679450_%28cropped%29.jpg/330px-James_S._Sherman_LCCN2008679450_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_S._Sherman",
+  "dateOfBirth": "1855-10-24",
+  "birthDateParsed": "1855-10-24",
+  "dateOfDeath": "1912-10-30",
+  "deathDateParsed": "1912-10-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.100833333",
+  "birthCoordinatesLng": "-75.2325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q310831",
+  "birthPlace": "Utica",
+  "fetchedAt": "2026-08-01T18:08:26.780Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "6fd5c774",
+  "wikipediaSlug": "Joe_Mazzulla",
+  "wikipediaId": "Q96100106",
+  "name": "Joe Mazzulla",
+  "fullName": "Joe Mazzulla",
+  "profileSummary": "Joseph Arthur Mazzulla is an American professional basketball coach who is the head coach for the Boston Celtics of the National Basketball Association (NBA). He played college basketball for the West Virginia Mountaineers as a point guard.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Celtics_at_Wizards_2024-12-046_%28cropped%29_%28cropped%29.jpg/330px-Celtics_at_Wizards_2024-12-046_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Mazzulla",
+  "dateOfBirth": "1988-06-30",
+  "birthDateParsed": "1988-06-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.816666666",
+  "birthCoordinatesLng": "-71.483333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q96100106",
+  "birthPlace": "Johnston",
+  "fetchedAt": "2026-08-01T15:37:54.109Z"
+}

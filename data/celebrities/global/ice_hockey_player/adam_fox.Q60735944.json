@@ -1,0 +1,31 @@
+{
+  "publicId": "7aabd9aa",
+  "wikipediaSlug": "Adam_Fox",
+  "wikipediaId": "Q60735944",
+  "name": "Adam Fox",
+  "fullName": "Adam Fox",
+  "profileSummary": "Adam Hunter Fox is an American professional ice hockey player who is a defenseman and alternate captain for the New York Rangers of the National Hockey League (NHL). Fox was selected by the Calgary Flames, 66th overall, in the 2016 NHL entry draft. In 2021, Fox won the James Norris Memorial Trophy as the NHL's best defenseman, joining Bobby Orr as the only two players in NHL history to win the award before their third NHL season.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adam_Fox.jpg/330px-Adam_Fox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Fox",
+  "dateOfBirth": "1998-02-17",
+  "birthDateParsed": "1998-02-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.7867",
+  "birthCoordinatesLng": "-73.5367",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "ice hockey player"
+  ],
+  "qid": "Q60735944",
+  "birthPlace": "Jericho",
+  "fetchedAt": "2026-08-05T02:42:11.706Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "5c080e55",
+  "wikipediaSlug": "Klas_Pontus_Arnoldson",
+  "wikipediaId": "Q192618",
+  "name": "Klas Pontus Arnoldson",
+  "fullName": "Klas Pontus Arnoldson",
+  "profileSummary": "Klas Pontus Arnoldson was a Swedish author, journalist, politician, and committed pacifist who received the Nobel Peace Prize in 1908 with Fredrik Bajer. He was a founding member of the Swedish Peace and Arbitration Society and a Member of Parliament in the second Chamber of 1882–1887.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KP_Arnoldson_signed.jpg/330px-KP_Arnoldson_signed.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Klas_Pontus_Arnoldson",
+  "dateOfBirth": "1844-10-27",
+  "birthDateParsed": "1844-10-27",
+  "dateOfDeath": "1916-02-20",
+  "deathDateParsed": "1916-02-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "57.704530555",
+  "birthCoordinatesLng": "11.965291666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "opinion journalist"
+  ],
+  "qid": "Q192618",
+  "birthPlace": "Domkyrkoförsamlingen in Göteborg",
+  "fetchedAt": "2026-08-04T02:13:38.069Z"
+}

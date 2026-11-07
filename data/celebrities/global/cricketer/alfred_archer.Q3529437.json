@@ -1,0 +1,31 @@
+{
+  "publicId": "5daf55f1",
+  "wikipediaSlug": "Alfred_Archer",
+  "wikipediaId": "Q3529437",
+  "name": "Alfred Archer",
+  "fullName": "Alfred Archer",
+  "profileSummary": "Alfred German Archer was a cricketer who played for Worcestershire in 1900 and 1901. Archer also played one Test match for Lord Hawke's XI England on their 1898–99 tour to South Africa: this was his first appearance in first-class cricket. He also played for Incogniti (1897–1900), and I Zingari (1903).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Archer",
+  "dateOfBirth": "1871-12-06",
+  "birthDateParsed": "1871-12-06",
+  "dateOfDeath": "1935-07-15",
+  "deathDateParsed": "1935-07-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.456",
+  "birthCoordinatesLng": "-0.301",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3529437",
+  "birthPlace": "Richmond",
+  "fetchedAt": "2026-07-31T20:08:17.035Z"
+}

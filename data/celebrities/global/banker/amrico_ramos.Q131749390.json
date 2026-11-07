@@ -1,0 +1,32 @@
+{
+  "publicId": "1d5c6d2f",
+  "wikipediaSlug": "Américo_Ramos",
+  "wikipediaId": "Q131749390",
+  "name": "Américo Ramos",
+  "fullName": "Américo Ramos",
+  "profileSummary": "Américo d'Oliveira dos Ramos is a São Toméan banker and politician who has served as the prime minister of São Tomé and Príncipe since 12 January 2025. He previously served as the governor of the Central Bank of São Tomé and Príncipe, and he has also worked for the Ministry of Finance.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Am%C3%A9rico_Ramos_%2814-01-2025%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Am%C3%A9rico_Ramos",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "banker",
+    "politician"
+  ],
+  "qid": "Q131749390",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-03T16:49:47.937Z"
+}

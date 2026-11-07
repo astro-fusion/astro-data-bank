@@ -1,0 +1,34 @@
+{
+  "publicId": "f9804ad8",
+  "wikipediaSlug": "Mikie_Sherrill",
+  "wikipediaId": "Q47087146",
+  "name": "Mikie Sherrill",
+  "fullName": "Mikie Sherrill",
+  "profileSummary": "Rebecca Michelle \"Mikie\" Sherrill is an American politician, former naval officer, and former federal prosecutor serving since 2026 as the 57th governor of New Jersey. She is a member of the Democratic Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Governor_of_New_Jersey_Rebecca_Michelle_%22Mikie%22_Sherrill.jpg/330px-Governor_of_New_Jersey_Rebecca_Michelle_%22Mikie%22_Sherrill.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikie_Sherrill",
+  "dateOfBirth": "1972-01-19",
+  "birthDateParsed": "1972-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.804722222",
+  "birthCoordinatesLng": "-77.047222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "naval officer",
+    "helicopter pilot",
+    "prosecutor"
+  ],
+  "qid": "Q47087146",
+  "birthPlace": "Alexandria",
+  "fetchedAt": "2026-08-02T03:28:36.253Z"
+}

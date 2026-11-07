@@ -1,0 +1,32 @@
+{
+  "publicId": "524787b2",
+  "wikipediaSlug": "Ilya_Frank",
+  "wikipediaId": "Q192703",
+  "name": "Ilya Frank",
+  "fullName": "Ilya Frank",
+  "profileSummary": "Ilya Mikhailovich Frank was a Soviet physicist who received the 1958 Nobel Prize in Physics, jointly with Pavel Cherenkov and Igor Tamm, also of the Soviet Union. He received the award for his work in explaining the phenomenon of Cherenkov radiation. He received the Stalin prize in 1946 and 1953 and the USSR state prize in 1971.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ilya_Frank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilya_Frank",
+  "dateOfBirth": "1908-10-23",
+  "birthDateParsed": "1908-10-23",
+  "dateOfDeath": "1990-06-22",
+  "deathDateParsed": "1990-06-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q192703",
+  "birthPlace": "Saint Petersburg",
+  "fetchedAt": "2026-08-06T05:02:13.945Z"
+}

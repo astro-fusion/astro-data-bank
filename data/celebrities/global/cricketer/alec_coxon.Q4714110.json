@@ -1,0 +1,31 @@
+{
+  "publicId": "02e8bd67",
+  "wikipediaSlug": "Alec_Coxon",
+  "wikipediaId": "Q4714110",
+  "name": "Alec Coxon",
+  "fullName": "Alec Coxon",
+  "profileSummary": "Alexander Coxon was an English cricketer who played for Yorkshire. He also played one Test match for the England cricket team in 1948.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Aleccoxon.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alec_Coxon",
+  "dateOfBirth": "1916-01-18",
+  "birthDateParsed": "1916-01-18",
+  "dateOfDeath": "2006-01-22",
+  "deathDateParsed": "2006-01-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.645",
+  "birthCoordinatesLng": "-1.779722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4714110",
+  "birthPlace": "Huddersfield",
+  "fetchedAt": "2026-07-31T20:07:32.374Z"
+}

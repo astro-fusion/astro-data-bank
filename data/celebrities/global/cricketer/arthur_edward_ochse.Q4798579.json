@@ -1,0 +1,31 @@
+{
+  "publicId": "e93078b1",
+  "wikipediaSlug": "Arthur_Edward_Ochse",
+  "wikipediaId": "Q4798579",
+  "name": "Arthur Edward Ochse",
+  "fullName": "Arthur Edward Ochse",
+  "profileSummary": "Arthur Edward \"Okey\" Ochse was a South African cricketer who played Test cricket in the first matches played by South Africa in 1888–89. He died in action in World War I.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Okey_Ochse_in_1891.jpeg/330px-Okey_Ochse_in_1891.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Edward_Ochse",
+  "dateOfBirth": "1870-03-11",
+  "birthDateParsed": "1870-03-11",
+  "dateOfDeath": "1918-04-11",
+  "deathDateParsed": "1918-04-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.252222222",
+  "birthCoordinatesLng": "24.540555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4798579",
+  "birthPlace": "Graaff-Reinet",
+  "fetchedAt": "2026-07-31T20:20:29.347Z"
+}

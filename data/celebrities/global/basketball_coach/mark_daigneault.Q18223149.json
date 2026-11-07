@@ -1,0 +1,31 @@
+{
+  "publicId": "e59ae9e0",
+  "wikipediaSlug": "Mark_Daigneault",
+  "wikipediaId": "Q18223149",
+  "name": "Mark Daigneault",
+  "fullName": "Mark Daigneault",
+  "profileSummary": "Mark Francis Daigneault is an American professional basketball coach who is the head coach for the Oklahoma City Thunder of the National Basketball Association (NBA).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mark_Daigneault.png/330px-Mark_Daigneault.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Daigneault",
+  "dateOfBirth": "1985-02-23",
+  "birthDateParsed": "1985-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.525",
+  "birthCoordinatesLng": "-71.760277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach"
+  ],
+  "qid": "Q18223149",
+  "birthPlace": "Leominster",
+  "fetchedAt": "2026-08-01T15:38:07.887Z"
+}

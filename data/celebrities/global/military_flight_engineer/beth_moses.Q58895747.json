@@ -1,0 +1,32 @@
+{
+  "publicId": "6750742b",
+  "wikipediaSlug": "Beth_Moses",
+  "wikipediaId": "Q58895747",
+  "name": "Beth Moses",
+  "fullName": "Beth Moses",
+  "profileSummary": "Beth Moses is a commercial astronaut, former interiors program manager, and former chief astronaut instructor for Virgin Galactic's SpaceShipTwo program. She was the first woman to make a spaceflight on a commercially launched vehicle, the VSS Unity VF-01 flight of 22 February 2019. She was also part of the six-member crew that flew in the first fully-crewed test flight to space on July 11, 2021, aboard VSS Unity.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/US_-_FAA_Astronaut_Wings_version_2.png/330px-US_-_FAA_Astronaut_Wings_version_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beth_Moses",
+  "dateOfBirth": "1969-05-29",
+  "birthDateParsed": "1969-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "commercial astronaut"
+  ],
+  "qid": "Q58895747",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-10T06:04:27.674Z"
+}

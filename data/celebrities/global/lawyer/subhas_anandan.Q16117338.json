@@ -1,0 +1,32 @@
+{
+  "publicId": "cf86aaec",
+  "wikipediaSlug": "Subhas_Anandan",
+  "wikipediaId": "Q16117338",
+  "name": "Subhas Anandan",
+  "fullName": "Subhas Anandan",
+  "profileSummary": "Subhas Anandan was a Singaporean criminal lawyer, who was known to have represented criminals in many high-profile cases that occurred in Singapore.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Subhas_Anandan_lawyer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subhas_Anandan",
+  "dateOfBirth": "1947-12-25",
+  "birthDateParsed": "1947-12-25",
+  "dateOfDeath": "2015-01-07",
+  "deathDateParsed": "2015-01-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10",
+  "birthCoordinatesLng": "76.3",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "criminal defense lawyer"
+  ],
+  "qid": "Q16117338",
+  "birthPlace": "Kerala",
+  "fetchedAt": "2026-08-06T09:09:20.222Z"
+}

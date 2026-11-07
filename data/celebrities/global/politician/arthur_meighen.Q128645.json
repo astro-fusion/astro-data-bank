@@ -1,0 +1,33 @@
+{
+  "publicId": "3723a739",
+  "wikipediaSlug": "Arthur_Meighen",
+  "wikipediaId": "Q128645",
+  "name": "Arthur Meighen",
+  "fullName": "Arthur Meighen",
+  "profileSummary": "Arthur Meighen was a Canadian lawyer and politician who served as the ninth prime minister of Canada from 1920 to 1921 and from June to September 1926. He led the Conservative Party from 1920 to 1926 and from 1941 to 1942.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Former_PM_Arthur_Meighen.jpg/330px-Former_PM_Arthur_Meighen.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Meighen",
+  "dateOfBirth": "1874-06-16",
+  "birthDateParsed": "1874-06-16",
+  "dateOfDeath": "1960-08-05",
+  "deathDateParsed": "1960-08-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.3",
+  "birthCoordinatesLng": "-81.15",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat"
+  ],
+  "qid": "Q128645",
+  "birthPlace": "Perth South",
+  "fetchedAt": "2026-08-03T10:59:10.654Z"
+}

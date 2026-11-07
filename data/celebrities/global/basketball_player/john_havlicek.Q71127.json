@@ -1,0 +1,31 @@
+{
+  "publicId": "527a7050",
+  "wikipediaSlug": "John_Havlicek",
+  "wikipediaId": "Q71127",
+  "name": "John Havlicek",
+  "fullName": "John Havlicek",
+  "profileSummary": "John Joseph Havlicek, often nicknamed Hondo, was an American professional basketball player who spent his entire 16-year career with the Boston Celtics of the National Basketball Association (NBA). Havlicek won eight NBA championships — one of three NBA players with an unsurpassed 8–0 record in the NBA Finals series — and was voted the NBA Finals MVP in 1974.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/John_Havliceck%2C_Boston_Celtics%2C_1960s.jpg/330px-John_Havliceck%2C_Boston_Celtics%2C_1960s.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Havlicek",
+  "dateOfBirth": "1940-04-08",
+  "birthDateParsed": "1940-04-08",
+  "dateOfDeath": "2019-04-25",
+  "deathDateParsed": "2019-04-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.09889",
+  "birthCoordinatesLng": "-80.725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q71127",
+  "birthPlace": "Martins Ferry",
+  "fetchedAt": "2026-08-01T15:37:28.088Z"
+}

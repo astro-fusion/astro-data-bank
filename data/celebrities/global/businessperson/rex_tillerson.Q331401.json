@@ -1,0 +1,37 @@
+{
+  "publicId": "b43dd706",
+  "wikipediaSlug": "Rex_Tillerson",
+  "wikipediaId": "Q331401",
+  "name": "Rex Tillerson",
+  "fullName": "Rex Tillerson",
+  "profileSummary": "Rex Wayne Tillerson is an American energy executive and former diplomat who served as the 69th United States secretary of state from 2017 to 2018 in the first administration of Donald Trump. From 2006 to 2016, he was chairman and chief executive officer (CEO) of ExxonMobil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rex_Tillerson_official_portrait.jpg/330px-Rex_Tillerson_official_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rex_Tillerson",
+  "dateOfBirth": "1952-03-23",
+  "birthDateParsed": "1952-03-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.896944444",
+  "birthCoordinatesLng": "-98.515",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "politician",
+    "engineer",
+    "civil engineer",
+    "merchant",
+    "general manager",
+    "foreign minister"
+  ],
+  "qid": "Q331401",
+  "birthPlace": "Wichita Falls",
+  "fetchedAt": "2026-08-03T15:53:23.317Z"
+}

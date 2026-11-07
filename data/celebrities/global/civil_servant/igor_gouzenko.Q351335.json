@@ -1,0 +1,32 @@
+{
+  "publicId": "c3075300",
+  "wikipediaSlug": "Igor_Gouzenko",
+  "wikipediaId": "Q351335",
+  "name": "Igor Gouzenko",
+  "fullName": "Igor Gouzenko",
+  "profileSummary": "Igor Sergeyevich Gouzenko was a cipher clerk for the Soviet embassy to Canada in Ottawa, Ontario, and a lieutenant of the Soviet Main Intelligence Directorate (GRU). He defected on September 5, 1945, three days after the end of World War II, with 109 documents on the USSR's espionage activities in the West. In response, Canada's Prime Minister, Mackenzie King, called a royal commission to investigate espionage in Canada.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Igor_Gouzenko_1946.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Gouzenko",
+  "dateOfBirth": "1919-01-26",
+  "birthDateParsed": "1919-01-26",
+  "dateOfDeath": "1982-06-25",
+  "deathDateParsed": "1982-06-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.433333333",
+  "birthCoordinatesLng": "37.166666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "civil servant",
+    "writer"
+  ],
+  "qid": "Q351335",
+  "birthPlace": "Rogachevo",
+  "fetchedAt": "2026-08-03T10:59:12.683Z"
+}

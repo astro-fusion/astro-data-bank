@@ -1,0 +1,31 @@
+{
+  "publicId": "fe3e6be9",
+  "wikipediaSlug": "Andy_Jassy",
+  "wikipediaId": "Q41812531",
+  "name": "Andy Jassy",
+  "fullName": "Andy Jassy",
+  "profileSummary": "Andrew R. Jassy is an American business executive who is the president and chief executive officer of Amazon since July 2021, succeeding founder Jeff Bezos, who remains executive chairman. Jassy founded and led Amazon Web Services (AWS) from its inception and served as its CEO from April 2016 until July 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Andy_Jassy.jpg/330px-Andy_Jassy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Jassy",
+  "dateOfBirth": "1968-01-13",
+  "birthDateParsed": "1968-01-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.992222222",
+  "birthCoordinatesLng": "-73.786944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "business executive"
+  ],
+  "qid": "Q41812531",
+  "birthPlace": "Scarsdale",
+  "fetchedAt": "2026-08-05T02:43:38.559Z"
+}

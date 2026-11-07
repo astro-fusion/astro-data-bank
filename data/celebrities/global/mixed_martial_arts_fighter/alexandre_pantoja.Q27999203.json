@@ -1,0 +1,31 @@
+{
+  "publicId": "79c4d544",
+  "wikipediaSlug": "Alexandre_Pantoja",
+  "wikipediaId": "Q27999203",
+  "name": "Alexandre Pantoja",
+  "fullName": "Alexandre Pantoja",
+  "profileSummary": "Alexandre Pantoja Passidomo is a Brazilian professional mixed martial artist. He currently competes in the flyweight division of the Ultimate Fighting Championship (UFC), where he is the former UFC Flyweight Champion. He is considered one of the greatest flyweights of all time. As of December 9, 2025, he is #1 in the Meta UFC flyweight rankings and as of June 16, 2026, he is #13 in the UFC men's pound-for-pound rankings.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pantoja_2025.jpg/330px-Pantoja_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Pantoja",
+  "dateOfBirth": "1990-04-16",
+  "birthDateParsed": "1990-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q27999203",
+  "birthPlace": "Rio de Janeiro",
+  "fetchedAt": "2026-08-01T17:04:00.156Z"
+}

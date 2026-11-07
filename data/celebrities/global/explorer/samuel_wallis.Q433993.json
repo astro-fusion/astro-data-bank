@@ -1,0 +1,33 @@
+{
+  "publicId": "d90e1473",
+  "wikipediaSlug": "Samuel_Wallis",
+  "wikipediaId": "Q433993",
+  "name": "Samuel Wallis",
+  "fullName": "Samuel Wallis",
+  "profileSummary": "Captain Samuel Wallis was a Royal Navy officer and explorer who made the first recorded visit by a European navigator to Tahiti.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Samuel_Wallis.jpg/330px-Portrait_of_Samuel_Wallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Wallis",
+  "dateOfBirth": "1728-04-23",
+  "birthDateParsed": "1728-04-23",
+  "dateOfDeath": "1795-01-21",
+  "deathDateParsed": "1795-01-21",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer"
+  ],
+  "qid": "Q433993",
+  "placeOfBirth": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-21T07:59:33.028Z"
+}

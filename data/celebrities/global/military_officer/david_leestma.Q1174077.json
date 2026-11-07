@@ -1,0 +1,33 @@
+{
+  "publicId": "e65e0fa5",
+  "wikipediaSlug": "David_Leestma",
+  "wikipediaId": "Q1174077",
+  "name": "David Leestma",
+  "fullName": "David Leestma",
+  "profileSummary": "David Cornell Leestma is a former American astronaut and retired Captain in the United States Navy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/David_Leestma.jpg/330px-David_Leestma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Leestma",
+  "dateOfBirth": "1949-05-06",
+  "birthDateParsed": "1949-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.234166666",
+  "birthCoordinatesLng": "-86.248333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q1174077",
+  "birthPlace": "Muskegon",
+  "fetchedAt": "2026-08-10T06:04:41.777Z"
+}

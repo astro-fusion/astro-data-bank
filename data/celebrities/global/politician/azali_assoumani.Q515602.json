@@ -1,0 +1,32 @@
+{
+  "publicId": "f28d650e",
+  "wikipediaSlug": "Azali_Assoumani",
+  "wikipediaId": "Q515602",
+  "name": "Azali Assoumani",
+  "fullName": "Azali Assoumani",
+  "profileSummary": "Azali Assoumani is a Comorian politician and military officer who has served as the seventh President of the Comoros from 2002 to 2006 and again since 2016, except for a brief period in 2019. He became head of state after staging a coup d'état in 1999 and was elected president in 2002, 2016, 2019 and 2024. He also served as Chairperson of the African Union from February 2023 to February 2024. Assoumani's current presidency has been described as increasingly authoritarian.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Azali_Assoumani_in_New_York_City_on_September_19%2C_2023_-_53199606411_%28cropped%29.jpg/330px-Azali_Assoumani_in_New_York_City_on_September_19%2C_2023_-_53199606411_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Azali_Assoumani",
+  "dateOfBirth": "1959-01-01",
+  "birthDateParsed": "1959-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-11.816667",
+  "birthCoordinatesLng": "43.266667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q515602",
+  "birthPlace": "Mitsoudjé",
+  "fetchedAt": "2026-08-03T16:49:57.223Z"
+}

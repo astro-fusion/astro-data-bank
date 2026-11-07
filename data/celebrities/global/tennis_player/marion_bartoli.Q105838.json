@@ -1,0 +1,32 @@
+{
+  "publicId": "84264fce",
+  "wikipediaSlug": "Marion_Bartoli",
+  "wikipediaId": "Q105838",
+  "name": "Marion Bartoli",
+  "fullName": "Marion Bartoli",
+  "profileSummary": "Marion Bartoli is a French former professional tennis player. Bartoli won the 2013 Wimbledon Championships singles title, after previously being runner-up in 2007, and was a semifinalist at the 2011 French Open. She also won seven singles and three doubles titles on the WTA Tour.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Marion_Bartoli.jpg/330px-Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Marion_Bartoli.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marion_Bartoli",
+  "dateOfBirth": "1984-10-02",
+  "birthDateParsed": "1984-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.043333333",
+  "birthCoordinatesLng": "3.885",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "sports commentator"
+  ],
+  "qid": "Q105838",
+  "birthPlace": "Le Puy-en-Velay",
+  "fetchedAt": "2026-08-01T15:00:33.758Z"
+}

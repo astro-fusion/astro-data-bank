@@ -1,0 +1,33 @@
+{
+  "publicId": "94560e89",
+  "wikipediaSlug": "Bill_Sharman",
+  "wikipediaId": "Q505336",
+  "name": "Bill Sharman",
+  "fullName": "Bill Sharman",
+  "profileSummary": "William Walton Sharman, also known as \"Battling Bill\", was an American professional basketball player and coach. He is mostly known for his time with the Boston Celtics in the 1950s, partnering with Bob Cousy in what was then considered the greatest backcourt duo of all time. As a coach, Sharman won titles in the ABL, ABA, and NBA, and is credited with introducing the now-ubiquitous morning shootaround.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SharmanatUSCjpeg.jpeg/330px-SharmanatUSCjpeg.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Sharman",
+  "dateOfBirth": "1926-05-25",
+  "birthDateParsed": "1926-05-25",
+  "dateOfDeath": "2013-10-25",
+  "deathDateParsed": "2013-10-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.446388888",
+  "birthCoordinatesLng": "-99.745555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "coach",
+    "basketball coach"
+  ],
+  "qid": "Q505336",
+  "birthPlace": "Abilene",
+  "fetchedAt": "2026-08-01T15:36:55.522Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "5237973a",
+  "wikipediaSlug": "John_Diefenbaker",
+  "wikipediaId": "Q128614",
+  "name": "John Diefenbaker",
+  "fullName": "John Diefenbaker",
+  "profileSummary": "John George Diefenbaker was the 13th prime minister of Canada, serving from 1957 to 1963. He was the only Progressive Conservative party leader between 1935 and 1979 to lead the party to an election victory, doing so three times, although only once with a majority of the seats in the House of Commons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/John_G._Diefenbaker.jpg/330px-John_G._Diefenbaker.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Diefenbaker",
+  "dateOfBirth": "1895-09-18",
+  "birthDateParsed": "1895-09-18",
+  "dateOfDeath": "1979-08-16",
+  "deathDateParsed": "1979-08-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.08",
+  "birthCoordinatesLng": "-81",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat"
+  ],
+  "qid": "Q128614",
+  "birthPlace": "Neustadt",
+  "fetchedAt": "2026-08-03T10:59:24.055Z"
+}

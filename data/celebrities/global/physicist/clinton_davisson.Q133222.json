@@ -1,0 +1,32 @@
+{
+  "publicId": "0c894dc8",
+  "wikipediaSlug": "Clinton_Davisson",
+  "wikipediaId": "Q133222",
+  "name": "Clinton Davisson",
+  "fullName": "Clinton Davisson",
+  "profileSummary": "Clinton Joseph Davisson was an American experimental physicist who shared the 1937 Nobel Prize in Physics with George Paget Thomson \"for their experimental discovery of the diffraction of electrons by crystals.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Clinton_Davisson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clinton_Davisson",
+  "dateOfBirth": "1881-10-22",
+  "birthDateParsed": "1881-10-22",
+  "dateOfDeath": "1958-02-01",
+  "deathDateParsed": "1958-02-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.484166666",
+  "birthCoordinatesLng": "-88.993611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q133222",
+  "birthPlace": "Bloomington",
+  "fetchedAt": "2026-08-06T05:01:31.322Z"
+}

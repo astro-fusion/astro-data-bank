@@ -1,0 +1,37 @@
+{
+  "publicId": "8cc261df",
+  "wikipediaSlug": "Mother_Teresa",
+  "wikipediaId": "Q30547",
+  "name": "Mother Teresa",
+  "fullName": "Mother Teresa",
+  "profileSummary": "Anjezë Gonxhe Bojaxhiu, better known as Mother Teresa or Saint Mother Teresa of Calcutta, was an Albanian-Indian Catholic nun, founder of the Missionaries of Charity and a Catholic saint.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/330px-Mother_Teresa_1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mother_Teresa",
+  "dateOfBirth": "1910-08-26",
+  "birthDateParsed": "1910-08-26",
+  "dateOfDeath": "1997-09-05",
+  "deathDateParsed": "1997-09-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.996111111",
+  "birthCoordinatesLng": "21.431666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "religious sister",
+    "missionary",
+    "nun",
+    "founder of Catholic religious community",
+    "Christian nun",
+    "musician",
+    "librettist"
+  ],
+  "qid": "Q30547",
+  "birthPlace": "Skopje",
+  "fetchedAt": "2026-08-04T02:13:46.666Z"
+}

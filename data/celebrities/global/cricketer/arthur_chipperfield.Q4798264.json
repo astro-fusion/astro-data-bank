@@ -1,0 +1,31 @@
+{
+  "publicId": "8556eeea",
+  "wikipediaSlug": "Arthur_Chipperfield",
+  "wikipediaId": "Q4798264",
+  "name": "Arthur Chipperfield",
+  "fullName": "Arthur Chipperfield",
+  "profileSummary": "Arthur Gordon Chipperfield was an Australian cricketer who played in 14 test matches between 1934 and 1938. He is one of three players to make a score of 99 runs on his Test match debut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arthur_Chipperfield.jpg/330px-Arthur_Chipperfield.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Chipperfield",
+  "dateOfBirth": "1905-11-17",
+  "birthDateParsed": "1905-11-17",
+  "dateOfDeath": "1987-07-29",
+  "deathDateParsed": "1987-07-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.889166666",
+  "birthCoordinatesLng": "151.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4798264",
+  "birthPlace": "Ashfield",
+  "fetchedAt": "2026-07-31T19:43:56.584Z"
+}

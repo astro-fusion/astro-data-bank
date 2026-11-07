@@ -1,0 +1,32 @@
+{
+  "publicId": "4e54d0ec",
+  "wikipediaSlug": "Adolf_Windaus",
+  "wikipediaId": "Q77142",
+  "name": "Adolf Windaus",
+  "fullName": "Adolf Windaus",
+  "profileSummary": "Adolf Otto Reinhold Windaus was a German chemist who won a Nobel Prize in Chemistry in 1928 for his work on sterols and their relation to vitamins. He was the doctoral advisor of Adolf Butenandt who also won a Nobel Prize in Chemistry in 1939.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Windaus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolf_Windaus",
+  "dateOfBirth": "1876-12-25",
+  "birthDateParsed": "1876-12-25",
+  "dateOfDeath": "1959-06-09",
+  "deathDateParsed": "1959-06-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q77142",
+  "birthPlace": "Berlin",
+  "fetchedAt": "2026-08-10T02:03:07.687Z"
+}

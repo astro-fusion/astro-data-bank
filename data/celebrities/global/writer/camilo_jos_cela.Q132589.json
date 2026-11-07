@@ -1,0 +1,38 @@
+{
+  "publicId": "49b7a5c8",
+  "wikipediaSlug": "Camilo_José_Cela",
+  "wikipediaId": "Q132589",
+  "name": "Camilo José Cela",
+  "fullName": "Camilo José Cela",
+  "profileSummary": "Camilo José Cela y Trulock, 1st Marquess of Iria Flavia was a Spanish novelist, poet, story writer and essayist associated with the Generation of '36 movement.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Camilo_Jos%C3%A9_Cela._Fototeca._Biblioteca_Virtual_del_Patrimonio_Bibliogr%C3%A1fico.jpg/330px-Camilo_Jos%C3%A9_Cela._Fototeca._Biblioteca_Virtual_del_Patrimonio_Bibliogr%C3%A1fico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Camilo_Jos%C3%A9_Cela",
+  "dateOfBirth": "1916-05-11",
+  "birthDateParsed": "1916-05-11",
+  "dateOfDeath": "2002-01-17",
+  "deathDateParsed": "2002-01-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.745949",
+  "birthCoordinatesLng": "-8.655603",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "novelist",
+    "politician",
+    "journalist",
+    "essayist",
+    "university teacher",
+    "film actor"
+  ],
+  "qid": "Q132589",
+  "birthPlace": "Iria Flavia",
+  "fetchedAt": "2026-08-06T07:41:31.542Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "fb6a41a7",
+  "wikipediaSlug": "William_McKinley",
+  "wikipediaId": "Q35041",
+  "name": "William McKinley",
+  "fullName": "William McKinley",
+  "profileSummary": "William McKinley was the 25th president of the United States, serving from 1897 until his assassination in 1901. A member of the Republican Party, he led a realignment that made Republicans largely dominant in the industrial states and nationwide for decades. McKinley successfully led the U.S. in the Spanish–American War and oversaw a period of American expansionism, with the annexations of Hawaii, Puerto Rico, Guam, the Philippines, and American Samoa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/McKinley_%28cropped%29.jpg/330px-McKinley_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_McKinley",
+  "dateOfBirth": "1843-01-29",
+  "birthDateParsed": "1843-01-29",
+  "dateOfDeath": "1901-09-14",
+  "deathDateParsed": "1901-09-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.185277777",
+  "birthCoordinatesLng": "-80.757222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "statesperson",
+    "governor"
+  ],
+  "qid": "Q35041",
+  "birthPlace": "Niles",
+  "fetchedAt": "2026-08-01T18:09:26.081Z"
+}

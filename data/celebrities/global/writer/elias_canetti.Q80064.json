@@ -1,0 +1,38 @@
+{
+  "publicId": "1b080992",
+  "wikipediaSlug": "Elias_Canetti",
+  "wikipediaId": "Q80064",
+  "name": "Elias Canetti",
+  "fullName": "Elias Canetti",
+  "profileSummary": "Elias Canetti was a German-language writer, known as a modernist novelist, playwright, memoirist, and nonfiction writer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Elias_Canetti_2.jpg/330px-Elias_Canetti_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elias_Canetti",
+  "dateOfBirth": "1905-07-25",
+  "birthDateParsed": "1905-07-25",
+  "dateOfDeath": "1994-08-14",
+  "deathDateParsed": "1994-08-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.844532",
+  "birthCoordinatesLng": "25.953907",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "aphorist",
+    "playwright",
+    "chemist",
+    "essayist",
+    "novelist",
+    "psychologist",
+    "philosopher"
+  ],
+  "qid": "Q80064",
+  "birthPlace": "Ruse",
+  "fetchedAt": "2026-08-06T07:41:22.212Z"
+}

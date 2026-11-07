@@ -1,0 +1,31 @@
+{
+  "publicId": "1c18a678",
+  "wikipediaSlug": "Giff_Vivian",
+  "wikipediaId": "Q5559889",
+  "name": "Giff Vivian",
+  "fullName": "Giff Vivian",
+  "profileSummary": "Henry Gifford Vivian was a New Zealand cricketer who played in seven Test matches between 1931 and 1937.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Giff_Vivian_1937.jpg/330px-Giff_Vivian_1937.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giff_Vivian",
+  "dateOfBirth": "1912-11-04",
+  "birthDateParsed": "1912-11-04",
+  "dateOfDeath": "1983-08-12",
+  "deathDateParsed": "1983-08-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5559889",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:03:39.351Z"
+}

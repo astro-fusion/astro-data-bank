@@ -1,0 +1,31 @@
+{
+  "publicId": "9a686571",
+  "wikipediaSlug": "Charles_Hime",
+  "wikipediaId": "Q5079055",
+  "name": "Charles Hime",
+  "fullName": "Charles Hime",
+  "profileSummary": "Charles Frederick William Hime was a South African cricketer who played in one Test match in 1896. He later became a magistrate in Natal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Charles_Hime_of_SAf.jpeg/330px-Charles_Hime_of_SAf.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Hime",
+  "dateOfBirth": "1869-10-24",
+  "birthDateParsed": "1869-10-24",
+  "dateOfDeath": "1940-12-06",
+  "deathDateParsed": "1940-12-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.32",
+  "birthCoordinatesLng": "-64.74",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5079055",
+  "birthPlace": "Bermuda",
+  "fetchedAt": "2026-07-31T20:20:59.752Z"
+}

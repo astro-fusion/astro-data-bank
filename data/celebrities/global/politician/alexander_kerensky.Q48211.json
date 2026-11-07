@@ -1,0 +1,38 @@
+{
+  "publicId": "7e80dde3",
+  "wikipediaSlug": "Alexander_Kerensky",
+  "wikipediaId": "Q48211",
+  "name": "Alexander Kerensky",
+  "fullName": "Alexander Kerensky",
+  "profileSummary": "Alexander Fyodorovich Kerensky was a Russian politician, lawyer and revolutionary who led the Russian Provisional Government and the short-lived Russian Republic for three months from late July to early November 1917 (N.S.).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alexander_Kerensky_1917_Crop.jpg/330px-Alexander_Kerensky_1917_Crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Kerensky",
+  "dateOfBirth": "1881-05-02",
+  "birthDateParsed": "1881-05-02",
+  "dateOfDeath": "1970-06-11",
+  "deathDateParsed": "1970-06-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.316666666",
+  "birthCoordinatesLng": "48.366666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "revolutionary",
+    "jurist",
+    "head of government",
+    "author",
+    "member of parliament",
+    "law firm"
+  ],
+  "qid": "Q48211",
+  "birthPlace": "Ulyanovsk",
+  "fetchedAt": "2026-08-04T15:04:41.654Z"
+}

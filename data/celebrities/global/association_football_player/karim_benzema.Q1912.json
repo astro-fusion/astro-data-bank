@@ -1,0 +1,31 @@
+{
+  "publicId": "9481ee3f",
+  "wikipediaSlug": "Karim_Benzema",
+  "wikipediaId": "Q1912",
+  "name": "Karim Benzema",
+  "fullName": "Karim Benzema",
+  "profileSummary": "Karim Mostafa Benzema is a French professional footballer who plays as a striker for Saudi Pro League club Al-Hilal. Regarded as one of the greatest strikers of all time, Benzema is a creative forward known for his technical skills, vision and versatility on the field. He won 25 trophies with Real Madrid, including four La Liga, three Copa del Rey, and five UEFA Champions League titles. He has scored over 500 career goals for club and country, and is Real Madrid's second-highest goalscorer after Cristiano Ronaldo and third-highest assist provider after Míchel and Paco Gento. In the Champions League, he is both the all-time French top goalscorer (90) and assist provider (29). He is also one of the few players in football history with 1,000 or more official appearances.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Karim_Benzema_Pick.jpg/330px-Karim_Benzema_Pick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karim_Benzema",
+  "dateOfBirth": "1987-12-19",
+  "birthDateParsed": "1987-12-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.7675",
+  "birthCoordinatesLng": "4.835",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q1912",
+  "birthPlace": "Lyon",
+  "fetchedAt": "2026-08-10T11:29:05.001Z"
+}

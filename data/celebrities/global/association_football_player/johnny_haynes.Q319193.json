@@ -1,0 +1,32 @@
+{
+  "publicId": "3e8b0fc1",
+  "wikipediaSlug": "Johnny_Haynes",
+  "wikipediaId": "Q319193",
+  "name": "Johnny Haynes",
+  "fullName": "Johnny Haynes",
+  "profileSummary": "John Norman Haynes was an English association footballer who played as an inside forward. He made 56 appearances for his country including 22 as captain. He was selected for three World Cup finals squads playing in the latter two of those. Nicknamed \"the Maestro\", his attacking play was noted for two-footed passing ability, vision and deftness of touch. Haynes is widely regarded as Fulham's greatest ever player, remaining loyal there for twenty years despite coming no nearer to a major trophy win than two FA Cup semi-final appearances. Immediately following the abolition of the £20 maximum wage in 1961, he became the first player to be paid £100 a week. He also had a spell on loan with Toronto City in 1961 and ended his playing days at Durban City, winning there the only trophy he won in his football career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Johnny_Haynes_crop.jpg/330px-Johnny_Haynes_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnny_Haynes",
+  "dateOfBirth": "1934-10-17",
+  "birthDateParsed": "1934-10-17",
+  "dateOfDeath": "2005-10-18",
+  "deathDateParsed": "2005-10-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q319193",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-10T11:28:29.424Z"
+}

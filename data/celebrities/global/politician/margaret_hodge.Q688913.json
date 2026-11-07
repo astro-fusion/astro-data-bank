@@ -1,0 +1,32 @@
+{
+  "publicId": "2e12a557",
+  "wikipediaSlug": "Margaret_Hodge",
+  "wikipediaId": "Q688913",
+  "name": "Margaret Hodge",
+  "fullName": "Margaret Hodge",
+  "profileSummary": "Margaret Eve Hodge, Baroness Hodge of Barking, is a British politician and life peer, who served as Member of Parliament (MP) for Barking from 1994 to 2024. A member of the Labour Party, she was previously Leader of Islington London Borough Council from 1982 to 1992. She has held a number of ministerial roles and served as chair of the Public Accounts Committee from 2010 to 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Official_portrait_of_Rt_Hon_Dame_Margaret_Hodge_MP_crop_2.jpg/330px-Official_portrait_of_Rt_Hon_Dame_Margaret_Hodge_MP_crop_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Hodge",
+  "dateOfBirth": "1944-09-08",
+  "birthDateParsed": "1944-09-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.044444444",
+  "birthCoordinatesLng": "31.235833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "council member"
+  ],
+  "qid": "Q688913",
+  "birthPlace": "Cairo",
+  "fetchedAt": "2026-08-03T14:11:06.922Z"
+}

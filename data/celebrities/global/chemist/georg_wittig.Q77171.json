@@ -1,0 +1,33 @@
+{
+  "publicId": "93a9446f",
+  "wikipediaSlug": "Georg_Wittig",
+  "wikipediaId": "Q77171",
+  "name": "Georg Wittig",
+  "fullName": "Georg Wittig",
+  "profileSummary": "Georg Wittig was a German chemist who reported a method for synthesis of alkenes from aldehydes and ketones using compounds called phosphonium ylides in the Wittig reaction. He shared the Nobel Prize in Chemistry with Herbert C. Brown in 1979.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea/Georg_Wittig.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georg_Wittig",
+  "dateOfBirth": "1897-06-16",
+  "birthDateParsed": "1897-06-16",
+  "dateOfDeath": "1987-08-26",
+  "deathDateParsed": "1987-08-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q77171",
+  "birthPlace": "Berlin",
+  "fetchedAt": "2026-08-10T02:03:51.996Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "8d95739c",
+  "wikipediaSlug": "Carl_Spitteler",
+  "wikipediaId": "Q226525",
+  "name": "Carl Spitteler",
+  "fullName": "Carl Spitteler",
+  "profileSummary": "Carl Friedrich Georg Spitteler was a Swiss poet who was awarded the Nobel Prize for Literature in 1919 \"in special appreciation of his epic Olympian Spring\". His work includes both pessimistic and heroic poems.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Carl_Spitteler_1919.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Spitteler",
+  "dateOfBirth": "1845-04-24",
+  "birthDateParsed": "1845-04-24",
+  "dateOfDeath": "1924-12-29",
+  "deathDateParsed": "1924-12-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.483888888",
+  "birthCoordinatesLng": "7.735",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "theologian"
+  ],
+  "qid": "Q226525",
+  "birthPlace": "Liestal",
+  "fetchedAt": "2026-08-06T07:41:25.175Z"
+}

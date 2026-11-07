@@ -1,0 +1,32 @@
+{
+  "publicId": "863a6d6b",
+  "wikipediaSlug": "Arno_Allan_Penzias",
+  "wikipediaId": "Q172877",
+  "name": "Arno Allan Penzias",
+  "fullName": "Arno Allan Penzias",
+  "profileSummary": "Arno Allan Penzias was an American physicist and radio astronomer. He shared the 1978 Nobel Prize in Physics with Robert Woodrow Wilson \"for their discovery of cosmic microwave background radiation\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/32._Tagung_1982_Physiker%3B_Beim_Studentenabend_Arno_A._Penzias_-_W134Nr.119142_-_Willy_Pragher_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arno_Allan_Penzias",
+  "dateOfBirth": "1933-04-26",
+  "birthDateParsed": "1933-04-26",
+  "dateOfDeath": "2024-01-22",
+  "deathDateParsed": "2024-01-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "physicist"
+  ],
+  "qid": "Q172877",
+  "birthPlace": "Munich",
+  "fetchedAt": "2026-08-06T05:00:43.736Z"
+}

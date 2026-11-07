@@ -1,0 +1,39 @@
+{
+  "publicId": "8a3cd53b",
+  "wikipediaSlug": "Hannibal_Hamlin",
+  "wikipediaId": "Q273546",
+  "name": "Hannibal Hamlin",
+  "fullName": "Hannibal Hamlin",
+  "profileSummary": "Hannibal Hamlin was an American politician and diplomat who was the 15th vice president of the United States, serving from 1861 to 1865, during President Abraham Lincoln's first term. He was the first Republican vice president.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hannibal_Hamlin%2C_photo_portrait_seated%2C_c1860-65_%28cropped%29.jpg/330px-Hannibal_Hamlin%2C_photo_portrait_seated%2C_c1860-65_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannibal_Hamlin",
+  "dateOfBirth": "1809-08-27",
+  "birthDateParsed": "1809-08-27",
+  "dateOfDeath": "1891-07-04",
+  "deathDateParsed": "1891-07-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.259722222",
+  "birthCoordinatesLng": "-70.500555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer",
+    "military officer",
+    "ambassador",
+    "governor",
+    "jurist",
+    "vice president",
+    "jurisprudence"
+  ],
+  "qid": "Q273546",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-01T18:08:07.475Z"
+}

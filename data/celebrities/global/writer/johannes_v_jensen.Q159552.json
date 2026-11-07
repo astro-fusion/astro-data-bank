@@ -1,0 +1,42 @@
+{
+  "publicId": "c01adee7",
+  "wikipediaSlug": "Johannes_V._Jensen",
+  "wikipediaId": "Q159552",
+  "name": "Johannes V. Jensen",
+  "fullName": "Johannes V. Jensen",
+  "profileSummary": "Johannes Vilhelm Jensen was a Danish author, known as one of the great Danish writers of the first half of 20th century. He was awarded the 1944 Nobel Prize in Literature \"for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style\". One of his sisters, Thit Jensen, was also a well-known writer and a very vocal, and occasionally controversial, early feminist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Johannes_Vilhelm_Jensen_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johannes_V._Jensen",
+  "dateOfBirth": "1873-01-20",
+  "birthDateParsed": "1873-01-20",
+  "dateOfDeath": "1950-11-25",
+  "deathDateParsed": "1950-11-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.772222222",
+  "birthCoordinatesLng": "9.339722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "novelist",
+    "essayist",
+    "translator-interpreter",
+    "journalist",
+    "columnist",
+    "correspondent",
+    "sculptor",
+    "translator",
+    "docent",
+    "wood engraver"
+  ],
+  "qid": "Q159552",
+  "birthPlace": "Farsø",
+  "fetchedAt": "2026-08-06T07:42:06.116Z"
+}

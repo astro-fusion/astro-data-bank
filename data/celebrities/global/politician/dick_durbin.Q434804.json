@@ -1,0 +1,33 @@
+{
+  "publicId": "ddc66db8",
+  "wikipediaSlug": "Dick_Durbin",
+  "wikipediaId": "Q434804",
+  "name": "Dick Durbin",
+  "fullName": "Dick Durbin",
+  "profileSummary": "Richard Joseph Durbin is an American politician and attorney serving as the senior United States senator from Illinois, a seat he has held since 1997. A member of the Democratic Party, Durbin is in his fifth Senate term and has served since 2005 as the Senate Democratic Whip and since 2025 as the Senate minority whip. He is the longest-serving Democratic whip since the position was established in 1913.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dick_Durbin_2022_official_portrait_%28cropped%29.jpg/330px-Dick_Durbin_2022_official_portrait_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick_Durbin",
+  "dateOfBirth": "1944-11-21",
+  "birthDateParsed": "1944-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.625",
+  "birthCoordinatesLng": "-90.1575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "professor"
+  ],
+  "qid": "Q434804",
+  "birthPlace": "East St. Louis",
+  "fetchedAt": "2026-08-02T02:16:36.799Z"
+}

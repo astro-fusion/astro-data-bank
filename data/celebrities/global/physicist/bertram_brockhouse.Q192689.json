@@ -1,0 +1,33 @@
+{
+  "publicId": "5640e755",
+  "wikipediaSlug": "Bertram_Brockhouse",
+  "wikipediaId": "Q192689",
+  "name": "Bertram Brockhouse",
+  "fullName": "Bertram Brockhouse",
+  "profileSummary": "Bertram Neville Brockhouse, was a Canadian physicist. He was awarded the Nobel Prize in Physics \"for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter\", in particular \"for the development of neutron spectroscopy\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bertram_Brockhouse.jpg/330px-Bertram_Brockhouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bertram_Brockhouse",
+  "dateOfBirth": "1918-07-15",
+  "birthDateParsed": "1918-07-15",
+  "dateOfDeath": "2003-10-13",
+  "deathDateParsed": "2003-10-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.694167",
+  "birthCoordinatesLng": "-112.832778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "nuclear physicist"
+  ],
+  "qid": "Q192689",
+  "birthPlace": "Lethbridge",
+  "fetchedAt": "2026-08-06T05:01:06.709Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "3a21cd98",
+  "wikipediaSlug": "Alan_Jones_(racing_driver)",
+  "wikipediaId": "Q172753",
+  "name": "Alan Jones (racing driver)",
+  "fullName": "Alan Jones (racing driver)",
+  "profileSummary": "Alan Stanley Jones is an Australian former racing driver and broadcaster, who competed in Formula One between 1975 and 1986. Jones won the Formula One World Drivers' Championship in 1980 with Williams, and won 12 Grands Prix across ten seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jones_alan.JPG/330px-Jones_alan.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver)",
+  "dateOfBirth": "1946-11-02",
+  "birthDateParsed": "1946-11-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "racing automobile driver",
+    "Formula One driver"
+  ],
+  "qid": "Q172753",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-01T16:01:17.156Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "780d0847",
+  "wikipediaSlug": "Ken_Livingstone",
+  "wikipediaId": "Q220723",
+  "name": "Ken Livingstone",
+  "fullName": "Ken Livingstone",
+  "profileSummary": "Kenneth Robert Livingstone is an English politician who served as the Leader of the Greater London Council (GLC) from 1981 until the council was abolished in 1986, and as the first mayor of London from the creation of the office in 2000 until 2008. He also served as the Member of Parliament (MP) for Brent East from 1987 to 2001. He is a former member of the Labour Party, ideologically identifying as a socialist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ken_Livingstone.jpg/330px-Ken_Livingstone.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ken_Livingstone",
+  "dateOfBirth": "1945-06-17",
+  "birthDateParsed": "1945-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4903",
+  "birthCoordinatesLng": "-0.1193",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "autobiographer",
+    "broadcaster"
+  ],
+  "qid": "Q220723",
+  "birthPlace": "Lambeth",
+  "fetchedAt": "2026-08-03T14:11:05.584Z"
+}

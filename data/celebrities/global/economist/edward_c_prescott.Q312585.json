@@ -1,0 +1,32 @@
+{
+  "publicId": "576a778d",
+  "wikipediaSlug": "Edward_C._Prescott",
+  "wikipediaId": "Q312585",
+  "name": "Edward C. Prescott",
+  "fullName": "Edward C. Prescott",
+  "profileSummary": "Edward Christian Prescott was an American economist. He received the Nobel Memorial Prize in Economics in 2004, sharing the award with Finn E. Kydland, \"for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles\". This research was primarily conducted while both Kydland and Prescott were affiliated with the Graduate School of Industrial Administration at Carnegie Mellon University. According to the IDEAS/RePEc rankings, he was the 19th most widely cited economist in the world in 2013. In August 2014, Prescott was appointed an Adjunct Distinguished Economic Professor at the Australian National University (ANU) in Canberra, Australia. Prescott died of cancer on November 6, 2022, at the age of 81.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Edward_C_Prescott_2015.jpg/330px-Edward_C_Prescott_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_C._Prescott",
+  "dateOfBirth": "1940-12-26",
+  "birthDateParsed": "1940-12-26",
+  "dateOfDeath": "2022-11-06",
+  "deathDateParsed": "2022-11-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.312222222",
+  "birthCoordinatesLng": "-73.648333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q312585",
+  "birthPlace": "Glens Falls",
+  "fetchedAt": "2026-08-10T09:43:11.909Z"
+}

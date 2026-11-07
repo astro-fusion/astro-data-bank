@@ -1,0 +1,32 @@
+{
+  "publicId": "5ab0ef5c",
+  "wikipediaSlug": "Frank_Hearne",
+  "wikipediaId": "Q3527213",
+  "name": "Frank Hearne",
+  "fullName": "Frank Hearne",
+  "profileSummary": "Frank Hearne was an English born cricketer. One of the few men to play Test cricket for more than one country, he played for both England and South Africa. He was a member of the Hearne family of cricketers who played first-class cricket between 1879 and 1904 for Kent County Cricket Club and Western Province.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Frank_Hearne_c1895.jpg/330px-Frank_Hearne_c1895.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Hearne",
+  "dateOfBirth": "1858-11-23",
+  "birthDateParsed": "1858-11-23",
+  "dateOfDeath": "1949-07-14",
+  "deathDateParsed": "1949-07-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5111",
+  "birthCoordinatesLng": "-0.3058",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire"
+  ],
+  "qid": "Q3527213",
+  "birthPlace": "Ealing",
+  "fetchedAt": "2026-07-31T20:22:22.134Z"
+}

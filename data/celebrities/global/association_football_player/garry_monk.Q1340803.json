@@ -1,0 +1,32 @@
+{
+  "publicId": "b960d0bd",
+  "wikipediaSlug": "Garry_Monk",
+  "wikipediaId": "Q1340803",
+  "name": "Garry Monk",
+  "fullName": "Garry Monk",
+  "profileSummary": "Garry Alan Monk is an English football manager and former professional player who was most recently the head coach of EFL League One club Cambridge United.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Garry_Monk_Leeds_United_2017_%28cropped%29.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Garry_Monk",
+  "dateOfBirth": "1979-03-06",
+  "birthDateParsed": "1979-03-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.134444444",
+  "birthCoordinatesLng": "-0.463055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1340803",
+  "birthPlace": "Bedford",
+  "fetchedAt": "2026-08-01T05:21:32.162Z"
+}

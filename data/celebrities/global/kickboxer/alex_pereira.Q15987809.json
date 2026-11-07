@@ -1,0 +1,32 @@
+{
+  "publicId": "46655a46",
+  "wikipediaSlug": "Alex_Pereira",
+  "wikipediaId": "Q15987809",
+  "name": "Alex Pereira",
+  "fullName": "Alex Pereira",
+  "profileSummary": "Alex Sandro Silva Pereira is a Brazilian professional mixed martial artist and former professional kickboxer. He currently competes in the Heavyweight division of the Ultimate Fighting Championship (UFC), he is the former two-time UFC Light Heavyweight Champion and former UFC Middleweight Champion. As of 20 June 2026, he is #1 in the Meta UFC light heavyweight rankings, #4 in the Meta UFC heavyweight rankings and as of 14 July 2026, he is #9 in the UFC men's pound-for-pound rankings.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alex_Pereira_in_the_Oval_Office_%28while_President_Donald_J._Trump_is_holding_a_meeting_with_UFC_fighters%29.jpg/330px-Alex_Pereira_in_the_Oval_Office_%28while_President_Donald_J._Trump_is_holding_a_meeting_with_UFC_fighters%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Pereira",
+  "dateOfBirth": "1987-07-07",
+  "birthDateParsed": "1987-07-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.693888888",
+  "birthCoordinatesLng": "-46.565",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "kickboxer",
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q15987809",
+  "birthPlace": "São Bernardo do Campo",
+  "fetchedAt": "2026-08-01T17:04:00.809Z"
+}

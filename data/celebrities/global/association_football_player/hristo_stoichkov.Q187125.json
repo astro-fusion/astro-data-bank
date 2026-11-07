@@ -1,0 +1,32 @@
+{
+  "publicId": "97259d6b",
+  "wikipediaSlug": "Hristo_Stoichkov",
+  "wikipediaId": "Q187125",
+  "name": "Hristo Stoichkov",
+  "fullName": "Hristo Stoichkov",
+  "profileSummary": "Hristo Stoichkov Stoichkov is a Bulgarian former professional footballer and current football commentator for TUDN. A prolific forward, he is widely regarded as the greatest Bulgarian footballer of all time. He was the runner-up for the FIFA World Player of the Year award in 1992 and 1994 and received the Ballon d'Or in 1994. He was also named the BTA Best Balkan Athlete of the Year in 1994. In 2004, Stoichkov was named by Pelé in the FIFA 100 list of the world's greatest living players.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Stoichkov_in_2016.jpg/330px-Stoichkov_in_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hristo_Stoichkov",
+  "dateOfBirth": "1966-02-08",
+  "birthDateParsed": "1966-02-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.142086",
+  "birthCoordinatesLng": "24.741454",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q187125",
+  "birthPlace": "Plovdiv",
+  "fetchedAt": "2026-08-10T11:28:29.851Z"
+}

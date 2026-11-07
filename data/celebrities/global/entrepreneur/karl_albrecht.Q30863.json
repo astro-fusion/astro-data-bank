@@ -1,0 +1,31 @@
+{
+  "publicId": "2c65e76f",
+  "wikipediaSlug": "Karl_Albrecht",
+  "wikipediaId": "Q30863",
+  "name": "Karl Albrecht",
+  "fullName": "Karl Albrecht",
+  "profileSummary": "Karl Hans Albrecht was a German entrepreneur who founded the discount supermarket chain Aldi with his brother Theo. He was the richest person in Germany for many years. In February 2014, he was ranked the 21st-richest person in the world by Hurun Report.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Albrecht",
+  "dateOfBirth": "1920-02-20",
+  "birthDateParsed": "1920-02-20",
+  "dateOfDeath": "2014-07-16",
+  "deathDateParsed": "2014-07-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.450833333",
+  "birthCoordinatesLng": "7.013055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur"
+  ],
+  "qid": "Q30863",
+  "birthPlace": "Essen",
+  "fetchedAt": "2026-08-04T03:34:25.137Z"
+}

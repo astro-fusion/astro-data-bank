@@ -1,0 +1,32 @@
+{
+  "publicId": "4b86990e",
+  "wikipediaSlug": "Red_Holzman",
+  "wikipediaId": "Q961660",
+  "name": "Red Holzman",
+  "fullName": "Red Holzman",
+  "profileSummary": "William \"Red\" Holzman was an American professional basketball player and coach. He is best known as the head coach of the New York Knicks of the National Basketball Association (NBA) from 1967 to 1977, and again from 1978 to 1982. Holzman helped lead the Knicks to two NBA championships in 1970 and 1973, and was inducted into the Basketball Hall of Fame in 1986.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Knicks_coach_Red_Holzman.jpg/330px-Knicks_coach_Red_Holzman.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Holzman",
+  "dateOfBirth": "1920-08-10",
+  "birthDateParsed": "1920-08-10",
+  "dateOfDeath": "1998-11-13",
+  "deathDateParsed": "1998-11-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q961660",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-01T15:38:17.210Z"
+}

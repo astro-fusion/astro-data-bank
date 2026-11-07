@@ -1,0 +1,32 @@
+{
+  "publicId": "fdcaee7c",
+  "wikipediaSlug": "Dick_Advocaat",
+  "wikipediaId": "Q11949",
+  "name": "Dick Advocaat",
+  "fullName": "Dick Advocaat",
+  "profileSummary": "Dirk Nicolaas \"Dick\" Advocaat is a Dutch professional football coach and former player who is the manager of the Curaçao national team. A successful player and manager, he is nicknamed \"The Little General\", a reference to his mentor Rinus Michels.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Dick_Advocaat_2021.jpg/330px-Dick_Advocaat_2021.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick_Advocaat",
+  "dateOfBirth": "1947-09-27",
+  "birthDateParsed": "1947-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.08",
+  "birthCoordinatesLng": "4.31",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q11949",
+  "birthPlace": "The Hague",
+  "fetchedAt": "2026-08-01T05:20:34.433Z"
+}

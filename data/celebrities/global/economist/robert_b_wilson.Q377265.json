@@ -1,0 +1,32 @@
+{
+  "publicId": "1ee1c304",
+  "wikipediaSlug": "Robert_B._Wilson",
+  "wikipediaId": "Q377265",
+  "name": "Robert B. Wilson",
+  "fullName": "Robert B. Wilson",
+  "profileSummary": "Robert Butler \"Bob\" Wilson, Jr. is an American economist who is the Adams Distinguished Professor of Management, Emeritus at Stanford University. He was jointly awarded the 2020 Nobel Memorial Prize in Economic Sciences, together with his Stanford colleague and former student Paul R. Milgrom, \"for improvements to auction theory and inventions of new auction formats\". Two more of his students, Alvin E. Roth and Bengt Holmström, are also Nobel Laureates in their own right.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_B._Wilson",
+  "dateOfBirth": "1937-05-16",
+  "birthDateParsed": "1937-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.526388888",
+  "birthCoordinatesLng": "-97.601944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q377265",
+  "birthPlace": "Geneva",
+  "fetchedAt": "2026-08-10T09:44:17.992Z"
+}

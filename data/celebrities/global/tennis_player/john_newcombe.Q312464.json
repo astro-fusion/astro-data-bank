@@ -1,0 +1,32 @@
+{
+  "publicId": "d580d1c3",
+  "wikipediaSlug": "John_Newcombe",
+  "wikipediaId": "Q312464",
+  "name": "John Newcombe",
+  "fullName": "John Newcombe",
+  "profileSummary": "John David Newcombe AO OBE is an Australian former professional tennis player. He was ranked as the world No. 1 in both men's singles and men's doubles. Newcombe won a combined 26 major titles: seven in singles, a former record 17 in men's doubles, and two in mixed doubles. He also contributed to five Davis Cup titles for Australia during an age when the Davis Cup was deemed as significant as the majors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Newcombe_1968.jpg/330px-John_Newcombe_1968.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Newcombe",
+  "dateOfBirth": "1944-05-23",
+  "birthDateParsed": "1944-05-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach"
+  ],
+  "qid": "Q312464",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-01T13:11:54.775Z"
+}

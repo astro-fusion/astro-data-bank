@@ -1,0 +1,36 @@
+{
+  "publicId": "e834a904",
+  "wikipediaSlug": "Justin_Trudeau",
+  "wikipediaId": "Q3099714",
+  "name": "Justin Trudeau",
+  "fullName": "Justin Trudeau",
+  "profileSummary": "Justin Pierre James Trudeau is a Canadian politician who served as the 23rd prime minister of Canada from 2015 to 2025. He led the Liberal Party from 2013 until his resignation in 2025 and was the member of Parliament (MP) for Papineau from 2008 until 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg/330px-Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Trudeau",
+  "dateOfBirth": "1971-12-25",
+  "birthDateParsed": "1971-12-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.424722222",
+  "birthCoordinatesLng": "-75.695",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "minister",
+    "lawyer",
+    "jurist",
+    "politician",
+    "actor",
+    "teacher"
+  ],
+  "qid": "Q3099714",
+  "birthPlace": "Ottawa",
+  "fetchedAt": "2026-08-03T15:52:18.164Z"
+}

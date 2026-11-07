@@ -1,0 +1,33 @@
+{
+  "publicId": "cd681e21",
+  "wikipediaSlug": "Freddie_Ljungberg",
+  "wikipediaId": "Q10560",
+  "name": "Freddie Ljungberg",
+  "fullName": "Freddie Ljungberg",
+  "profileSummary": "Karl Fredrik Ljungberg is a Swedish professional football manager and former player who played as a winger. He was most recently an assistant coach, and interim head coach of Premier League club Arsenal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Football_against_poverty_2014_-_Fredrik_Ljungberg.jpg/330px-Football_against_poverty_2014_-_Fredrik_Ljungberg.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Freddie_Ljungberg",
+  "dateOfBirth": "1977-04-16",
+  "birthDateParsed": "1977-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.334723471",
+  "birthCoordinatesLng": "13.659961824",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "model",
+    "association football coach"
+  ],
+  "qid": "Q10560",
+  "birthPlace": "Vittsjö",
+  "fetchedAt": "2026-08-01T05:21:05.147Z"
+}

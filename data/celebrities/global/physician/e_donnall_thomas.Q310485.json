@@ -1,0 +1,34 @@
+{
+  "publicId": "aad22344",
+  "wikipediaSlug": "E._Donnall_Thomas",
+  "wikipediaId": "Q310485",
+  "name": "E. Donnall Thomas",
+  "fullName": "E. Donnall Thomas",
+  "profileSummary": "Edward Donnall \"Don\" Thomas was an American physician, professor emeritus at the University of Washington, and director emeritus of the clinical research division at the Fred Hutchinson Cancer Research Center. In 1990 he shared the Nobel Prize in Physiology or Medicine with Joseph E. Murray for the development of cell and organ transplantation. Thomas and his wife and research partner Dottie Thomas developed bone marrow transplantation as a treatment for leukemia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Edward_Donnall_%22Don%22_Thomas.jpg/330px-Edward_Donnall_%22Don%22_Thomas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/E._Donnall_Thomas",
+  "dateOfBirth": "1920-03-15",
+  "birthDateParsed": "1920-03-15",
+  "dateOfDeath": "2012-10-20",
+  "deathDateParsed": "2012-10-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.5425",
+  "birthCoordinatesLng": "-96.83111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "university teacher",
+    "hematologist",
+    "physicist"
+  ],
+  "qid": "Q310485",
+  "birthPlace": "Mart",
+  "fetchedAt": "2026-08-10T03:14:50.999Z"
+}

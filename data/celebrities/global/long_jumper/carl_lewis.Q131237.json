@@ -1,0 +1,35 @@
+{
+  "publicId": "8444a627",
+  "wikipediaSlug": "Carl_Lewis",
+  "wikipediaId": "Q131237",
+  "name": "Carl Lewis",
+  "fullName": "Carl Lewis",
+  "profileSummary": "Frederick Carlton Lewis is an American former track and field athlete who won nine Olympic gold medals, one Olympic silver medal, and 10 World Championships medals, including eight gold. Lewis was a dominant sprinter and long jumper whose career spanned from 1979 to 1996, when he last won the Olympic long jump. He is one of six athletes to win gold in the same individual event in four consecutive Olympic Games, and is one of two people to win gold in the same individual athletics event in four Olympic Games, along with USA discus thrower Al Oerter. He is the head track and field coach for the University of Houston.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Carl_Lewis_%28cropped%29.jpg/330px-Carl_Lewis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Lewis",
+  "dateOfBirth": "1961-07-01",
+  "birthDateParsed": "1961-07-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.5175",
+  "birthCoordinatesLng": "-86.809444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "long jumper",
+    "sprinter",
+    "poet",
+    "athletics competitor",
+    "basketball player"
+  ],
+  "qid": "Q131237",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-08-10T12:58:39.699Z"
+}

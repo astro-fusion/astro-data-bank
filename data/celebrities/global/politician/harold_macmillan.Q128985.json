@@ -1,0 +1,34 @@
+{
+  "publicId": "f59fc89f",
+  "wikipediaSlug": "Harold_Macmillan",
+  "wikipediaId": "Q128985",
+  "name": "Harold Macmillan",
+  "fullName": "Harold Macmillan",
+  "profileSummary": "Maurice Harold Macmillan, 1st Earl of Stockton was a British statesman and Conservative politician who was Prime Minister of the United Kingdom from 1957 to 1963. Nicknamed \"Supermac\", he was known for his pragmatism, wit, and unflappability.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Harold_Macmillan.jpg/330px-Harold_Macmillan.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harold_Macmillan",
+  "dateOfBirth": "1894-02-10",
+  "birthDateParsed": "1894-02-10",
+  "dateOfDeath": "1986-12-29",
+  "deathDateParsed": "1986-12-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4875",
+  "birthCoordinatesLng": "-0.1684",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military personnel",
+    "leader"
+  ],
+  "qid": "Q128985",
+  "birthPlace": "Chelsea",
+  "fetchedAt": "2026-08-02T05:21:59.557Z"
+}

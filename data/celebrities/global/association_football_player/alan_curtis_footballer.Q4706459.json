@@ -1,0 +1,32 @@
+{
+  "publicId": "5da7344f",
+  "wikipediaSlug": "Alan_Curtis_(footballer)",
+  "wikipediaId": "Q4706459",
+  "name": "Alan Curtis (footballer)",
+  "fullName": "Alan Curtis (footballer)",
+  "profileSummary": "Alan Thomas Curtis is a former Wales international footballer, who played as a forward; he is currently the honorary club president of Swansea City.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alan_Curtis.png/330px-Alan_Curtis.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Curtis_(footballer)",
+  "dateOfBirth": "1954-04-16",
+  "birthDateParsed": "1954-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.6547",
+  "birthCoordinatesLng": "-3.49227",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q4706459",
+  "birthPlace": "Pentre",
+  "fetchedAt": "2026-08-01T05:20:05.365Z"
+}

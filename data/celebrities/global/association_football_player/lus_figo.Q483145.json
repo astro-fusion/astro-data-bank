@@ -1,0 +1,31 @@
+{
+  "publicId": "3de77c46",
+  "wikipediaSlug": "Luís_Figo",
+  "wikipediaId": "Q483145",
+  "name": "Luís Figo",
+  "fullName": "Luís Figo",
+  "profileSummary": "Luís Filipe Madeira Caeiro Figo is a Portuguese former professional footballer who played as a winger for Sporting CP, Barcelona, Real Madrid, and Inter Milan. He won 127 caps for the Portugal national team, a one-time record. Figo is widely regarded as one of the best players of his generation and one of the greatest wingers in the history of the sport. He ranks second for the all-time Portuguese top assist providers in the UEFA Champions League (15).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Luis_Figo_2023.jpg/330px-Luis_Figo_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+  "dateOfBirth": "1972-11-04",
+  "birthDateParsed": "1972-11-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.68027778",
+  "birthCoordinatesLng": "-9.15833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q483145",
+  "birthPlace": "Almada",
+  "fetchedAt": "2026-08-10T11:29:05.638Z"
+}

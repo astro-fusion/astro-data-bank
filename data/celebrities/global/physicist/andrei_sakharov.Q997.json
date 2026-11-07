@@ -1,0 +1,34 @@
+{
+  "publicId": "7bbb9234",
+  "wikipediaSlug": "Andrei_Sakharov",
+  "wikipediaId": "Q997",
+  "name": "Andrei Sakharov",
+  "fullName": "Andrei Sakharov",
+  "profileSummary": "Andrei Dmitrievich Sakharov was a Soviet physicist and a Nobel Peace Prize laureate, which he was awarded in 1975 for emphasizing human rights around the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/RIAN_archive_25981_Academician_Sakharov.jpg/330px-RIAN_archive_25981_Academician_Sakharov.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrei_Sakharov",
+  "dateOfBirth": "1921-05-21",
+  "birthDateParsed": "1921-05-21",
+  "dateOfDeath": "1989-12-14",
+  "deathDateParsed": "1989-12-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "human rights defender",
+    "nuclear physicist",
+    "politician"
+  ],
+  "qid": "Q997",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-04T02:12:32.897Z"
+}

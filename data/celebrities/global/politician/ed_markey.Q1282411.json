@@ -1,0 +1,33 @@
+{
+  "publicId": "0e4d8815",
+  "wikipediaSlug": "Ed_Markey",
+  "wikipediaId": "Q1282411",
+  "name": "Ed Markey",
+  "fullName": "Ed Markey",
+  "profileSummary": "Edward John Markey is an American politician serving as the junior United States senator from the state of Massachusetts, a seat he has held since 2013. A member of the Democratic Party, he served 20 terms as the U.S. representative for Massachusetts's 7th congressional district from 1976 to 2013. Before that, he was a member of the Massachusetts House of Representatives from 1973 to 1976. He has been the dean of the Massachusetts's congressional delegation since 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Edward_Markey%2C_official_portrait%2C_114th_Congress.jpg/330px-Edward_Markey%2C_official_portrait%2C_114th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ed_Markey",
+  "dateOfBirth": "1946-07-11",
+  "birthDateParsed": "1946-07-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.425",
+  "birthCoordinatesLng": "-71.066666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q1282411",
+  "birthPlace": "Malden",
+  "fetchedAt": "2026-08-02T02:16:39.585Z"
+}

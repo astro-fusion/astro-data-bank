@@ -1,0 +1,36 @@
+{
+  "publicId": "45da58c7",
+  "wikipediaSlug": "Albert_II,_Prince_of_Monaco",
+  "wikipediaId": "Q3910",
+  "name": "Albert II, Prince of Monaco",
+  "fullName": "Albert II, Prince of Monaco",
+  "profileSummary": "Albert II is Prince of Monaco, reigning since 2005.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Albert_II_-_08.06.2025_-_Encontro_com_Sua_Alteza_o_Pr%C3%ADncipe_de_M%C3%B4naco%2C_Alberto_II_%2854574973880%29.jpg/330px-Albert_II_-_08.06.2025_-_Encontro_com_Sua_Alteza_o_Pr%C3%ADncipe_de_M%C3%B4naco%2C_Alberto_II_%2854574973880%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_II%2C_Prince_of_Monaco",
+  "dateOfBirth": "1958-03-14",
+  "birthDateParsed": "1958-03-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.731416666",
+  "birthCoordinatesLng": "7.420275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "bobsledder",
+    "politician",
+    "racing automobile driver",
+    "environmentalist",
+    "aristocrat",
+    "film actor"
+  ],
+  "qid": "Q3910",
+  "birthPlace": "Prince's Palace",
+  "fetchedAt": "2026-08-03T16:49:23.504Z"
+}

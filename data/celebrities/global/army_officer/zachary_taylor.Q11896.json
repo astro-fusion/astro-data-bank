@@ -1,0 +1,34 @@
+{
+  "publicId": "d4fd06d9",
+  "wikipediaSlug": "Zachary_Taylor",
+  "wikipediaId": "Q11896",
+  "name": "Zachary Taylor",
+  "fullName": "Zachary Taylor",
+  "profileSummary": "Zachary Taylor was the 12th president of the United States, serving from 1849 until his death in 1850. Before his presidency, Taylor was a career officer in the United States Army, rising to the rank of major general and becoming a national hero for his victories in the Mexican–American War. As a result, he won election to the White House despite his vague political beliefs. His top priority as president was to preserve the Union. He died 16 months into his term from a stomach disease. Taylor had the third-shortest presidential term in U.S. history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zachary_Taylor_restored_and_cropped_%283.5x4.5_cropped%29_%282%29.jpg/330px-Zachary_Taylor_restored_and_cropped_%283.5x4.5_cropped%29_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+  "dateOfBirth": "1784-11-24",
+  "birthDateParsed": "1784-11-24",
+  "dateOfDeath": "1850-07-09",
+  "deathDateParsed": "1850-07-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.1708",
+  "birthCoordinatesLng": "-78.2817",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "army officer",
+    "statesperson",
+    "military officer",
+    "politician"
+  ],
+  "qid": "Q11896",
+  "birthPlace": "Barboursville",
+  "fetchedAt": "2026-08-01T18:09:06.861Z"
+}

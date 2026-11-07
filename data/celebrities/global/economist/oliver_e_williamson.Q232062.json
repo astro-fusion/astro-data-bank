@@ -1,0 +1,32 @@
+{
+  "publicId": "23344e50",
+  "wikipediaSlug": "Oliver_E._Williamson",
+  "wikipediaId": "Q232062",
+  "name": "Oliver E. Williamson",
+  "fullName": "Oliver E. Williamson",
+  "profileSummary": "Oliver Eaton Williamson was an American economist, a professor at the University of California, Berkeley, and recipient of the 2009 Nobel Memorial Prize in Economic Sciences, which he shared with Elinor Ostrom.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nobel_Prize_2009-Press_Conference_KVA-42.jpg/330px-Nobel_Prize_2009-Press_Conference_KVA-42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oliver_E._Williamson",
+  "dateOfBirth": "1932-09-27",
+  "birthDateParsed": "1932-09-27",
+  "dateOfDeath": "2020-05-21",
+  "deathDateParsed": "2020-05-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.720555555",
+  "birthCoordinatesLng": "-92.103888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q232062",
+  "birthPlace": "Superior",
+  "fetchedAt": "2026-08-10T09:43:54.755Z"
+}

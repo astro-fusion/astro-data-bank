@@ -1,0 +1,32 @@
+{
+  "publicId": "1d853a0d",
+  "wikipediaSlug": "Jeff_Van_Gundy",
+  "wikipediaId": "Q2607858",
+  "name": "Jeff Van Gundy",
+  "fullName": "Jeff Van Gundy",
+  "profileSummary": "Jeffrey William Van Gundy is an American basketball coach and former commentator who is the lead assistant coach for the Los Angeles Clippers of the National Basketball Association (NBA). Van Gundy previously served as head coach in the NBA for the New York Knicks and the Houston Rockets. During his tenure with the Knicks, he led the team to the 1999 NBA Finals, where they ultimately fell to the San Antonio Spurs in five games. Van Gundy won an NBA championship in 2024 with the Boston Celtics, where he served as a senior consultant in the front office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jeff_Van_Gundy_%28cropped%29.jpg/330px-Jeff_Van_Gundy_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeff_Van_Gundy",
+  "dateOfBirth": "1962-01-19",
+  "birthDateParsed": "1962-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.741944444",
+  "birthCoordinatesLng": "-116.983055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q2607858",
+  "birthPlace": "Hemet",
+  "fetchedAt": "2026-08-01T15:37:44.189Z"
+}

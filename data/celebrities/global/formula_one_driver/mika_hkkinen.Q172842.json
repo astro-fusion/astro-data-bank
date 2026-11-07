@@ -1,0 +1,32 @@
+{
+  "publicId": "52d5098e",
+  "wikipediaSlug": "Mika_Häkkinen",
+  "wikipediaId": "Q172842",
+  "name": "Mika Häkkinen",
+  "fullName": "Mika Häkkinen",
+  "profileSummary": "Mika Pauli Häkkinen is a Finnish former racing driver who competed in Formula One from 1991 to 2001. Nicknamed \"the Flying Finn\", Häkkinen won two Formula One World Drivers' Championship titles, which he won in 1998 and 1999 with McLaren, and won 20 Grands Prix across 11 seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mika_H%C3%A4kkinen_Champions_for_Charity_2016-07-27.jpg/330px-Mika_H%C3%A4kkinen_Champions_for_Charity_2016-07-27.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
+  "dateOfBirth": "1968-09-28",
+  "birthDateParsed": "1968-09-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.294444444",
+  "birthCoordinatesLng": "25.040277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q172842",
+  "birthPlace": "Vantaa",
+  "fetchedAt": "2026-08-01T16:01:54.255Z"
+}

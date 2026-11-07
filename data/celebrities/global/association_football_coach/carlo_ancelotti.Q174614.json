@@ -1,0 +1,33 @@
+{
+  "publicId": "7006137a",
+  "wikipediaSlug": "Carlo_Ancelotti",
+  "wikipediaId": "Q174614",
+  "name": "Carlo Ancelotti",
+  "fullName": "Carlo Ancelotti",
+  "profileSummary": "Carlo Ancelotti is an Italian professional football manager and former player who is the head coach of the Brazil national team. Nicknamed Carletto in Italy and Don Carlo in Spain, he is regarded as one of the greatest football managers of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg/330px-Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlo_Ancelotti",
+  "dateOfBirth": "1959-06-10",
+  "birthDateParsed": "1959-06-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.916666666",
+  "birthCoordinatesLng": "10.816666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football coach",
+    "association football player",
+    "film actor"
+  ],
+  "qid": "Q174614",
+  "birthPlace": "Reggiolo",
+  "fetchedAt": "2026-08-10T11:27:44.157Z"
+}

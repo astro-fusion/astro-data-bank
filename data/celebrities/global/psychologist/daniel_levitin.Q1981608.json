@@ -1,0 +1,37 @@
+{
+  "publicId": "c0424fe2",
+  "wikipediaSlug": "Daniel_Levitin",
+  "wikipediaId": "Q1981608",
+  "name": "Daniel Levitin",
+  "fullName": "Daniel Levitin",
+  "profileSummary": "Daniel Joseph Levitin, FRSC is an American-Canadian polymath, cognitive psychologist, neuroscientist, writer, musician, and record producer. He is the author of four New York Times best-selling books, including This Is Your Brain on Music: The Science of a Human Obsession, which has sold more than 1.5 million copies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Daniel_J._Levitin_%28cropped%29.jpg/330px-Daniel_J._Levitin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Levitin",
+  "dateOfBirth": "1957-12-27",
+  "birthDateParsed": "1957-12-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "psychologist",
+    "music journalist",
+    "record producer",
+    "composer",
+    "journalist",
+    "neuroscientist",
+    "neurologist"
+  ],
+  "qid": "Q1981608",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-05T03:16:53.931Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "aac9b971",
+  "wikipediaSlug": "Dan_McKee",
+  "wikipediaId": "Q5218111",
+  "name": "Dan McKee",
+  "fullName": "Dan McKee",
+  "profileSummary": "Daniel J. McKee is an American politician and businessman serving, since 2021, as the 76th governor of Rhode Island. A member of the Democratic Party, he also served as Rhode Island's 69th lieutenant governor from 2015 to 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RI_Governor_Daniel_McKee.jpg/330px-RI_Governor_Daniel_McKee.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_McKee",
+  "dateOfBirth": "1951-06-16",
+  "birthDateParsed": "1951-06-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.966666666",
+  "birthCoordinatesLng": "-71.432777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q5218111",
+  "birthPlace": "Cumberland",
+  "fetchedAt": "2026-08-02T03:27:54.072Z"
+}

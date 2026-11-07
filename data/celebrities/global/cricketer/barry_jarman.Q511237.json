@@ -1,0 +1,31 @@
+{
+  "publicId": "3a62a1e1",
+  "wikipediaSlug": "Barry_Jarman",
+  "wikipediaId": "Q511237",
+  "name": "Barry Jarman",
+  "fullName": "Barry Jarman",
+  "profileSummary": "Barrington Noel Jarman was an Australian Test cricketer and International Cricket Council (ICC) match referee. Jarman played in 19 Test matches for the Australian cricket team between 1959 and 1969, including one match as captain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Barry_Jarman_1957.jpg/330px-Barry_Jarman_1957.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Jarman",
+  "dateOfBirth": "1936-02-17",
+  "birthDateParsed": "1936-02-17",
+  "dateOfDeath": "2020-07-17",
+  "deathDateParsed": "2020-07-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.9275",
+  "birthCoordinatesLng": "138.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q511237",
+  "birthPlace": "Adelaide",
+  "fetchedAt": "2026-07-31T19:44:30.913Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "e44156f5",
+  "wikipediaSlug": "Jacky_Rosen",
+  "wikipediaId": "Q27825033",
+  "name": "Jacky Rosen",
+  "fullName": "Jacky Rosen",
+  "profileSummary": "Jacklyn Sheryl Rosen is an American politician serving as the junior United States senator from Nevada since 2019. A member of the Democratic Party, she was the U.S. representative for Nevada's 3rd congressional district from 2017 to 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Senator_Jacky_Rosen_Official_Portrait_%282022%29.jpg/330px-Senator_Jacky_Rosen_Official_Portrait_%282022%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacky_Rosen",
+  "dateOfBirth": "1957-08-02",
+  "birthDateParsed": "1957-08-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "software developer",
+    "business executive"
+  ],
+  "qid": "Q27825033",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-02T02:16:54.253Z"
+}

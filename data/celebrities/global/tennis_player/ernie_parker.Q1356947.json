@@ -1,0 +1,32 @@
+{
+  "publicId": "f9a0d334",
+  "wikipediaSlug": "Ernie_Parker",
+  "wikipediaId": "Q1356947",
+  "name": "Ernie Parker",
+  "fullName": "Ernie Parker",
+  "profileSummary": "Ernest Frederick Parker was an Australian tennis player and cricketer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/EF_Parker_Western_Mail_24_May_1918.png/330px-EF_Parker_Western_Mail_24_May_1918.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernie_Parker",
+  "dateOfBirth": "1883-11-05",
+  "birthDateParsed": "1883-11-05",
+  "dateOfDeath": "1918-05-03",
+  "deathDateParsed": "1918-05-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.955833333",
+  "birthCoordinatesLng": "115.859722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "cricketer"
+  ],
+  "qid": "Q1356947",
+  "birthPlace": "Perth",
+  "fetchedAt": "2026-08-01T13:11:15.615Z"
+}

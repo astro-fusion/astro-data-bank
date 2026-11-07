@@ -1,0 +1,31 @@
+{
+  "publicId": "c564a69a",
+  "wikipediaSlug": "Barry_Milburn",
+  "wikipediaId": "Q4864513",
+  "name": "Barry Milburn",
+  "fullName": "Barry Milburn",
+  "profileSummary": "Barry Douglas Milburn is a former New Zealand cricketer who played three Test matches for New Zealand in 1969.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Milburn",
+  "dateOfBirth": "1943-11-24",
+  "birthDateParsed": "1943-11-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-45.874166666",
+  "birthCoordinatesLng": "170.503611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4864513",
+  "birthPlace": "Dunedin",
+  "fetchedAt": "2026-07-31T21:01:25.734Z"
+}

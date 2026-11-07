@@ -1,0 +1,32 @@
+{
+  "publicId": "cd507f86",
+  "wikipediaSlug": "Alain_Giresse",
+  "wikipediaId": "Q312170",
+  "name": "Alain Giresse",
+  "fullName": "Alain Giresse",
+  "profileSummary": "Alain Jean Giresse is a French football coach and former player who last managed Kosovo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Alain_Giresse.jpg/330px-Alain_Giresse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alain_Giresse",
+  "dateOfBirth": "1952-08-02",
+  "birthDateParsed": "1952-08-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.707916666",
+  "birthCoordinatesLng": "-0.40075",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q312170",
+  "birthPlace": "Langoiran",
+  "fetchedAt": "2026-08-10T11:27:21.504Z"
+}

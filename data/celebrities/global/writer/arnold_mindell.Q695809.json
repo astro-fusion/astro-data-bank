@@ -1,0 +1,33 @@
+{
+  "publicId": "dbe55544",
+  "wikipediaSlug": "Arnold_Mindell",
+  "wikipediaId": "Q695809",
+  "name": "Arnold Mindell",
+  "fullName": "Arnold Mindell",
+  "profileSummary": "Arnold Mindell was an American author, therapist, and teacher in the fields of transpersonal psychology, body psychotherapy, social change, and spirituality. He is known for extending Jungian dream analysis to body symptoms, promoting ideas of 'deep democracy,'\n and interpreting concepts from physics and mathematics in psychological terms. Mindell is the founder of process oriented psychology, or process work, a development of Jungian psychology influenced by Taoism, shamanism, and physics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Arnold_Mindell_in_Denver.jpg/330px-Arnold_Mindell_in_Denver.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnold_Mindell",
+  "dateOfBirth": "1940-01-01",
+  "birthDateParsed": "1940-01-01",
+  "dateOfDeath": "2024-06-10",
+  "deathDateParsed": "2024-06-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.804166666",
+  "birthCoordinatesLng": "-73.929166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "psychotherapist",
+    "psychologist"
+  ],
+  "qid": "Q695809",
+  "birthPlace": "Schenectady",
+  "fetchedAt": "2026-08-05T03:15:37.133Z"
+}

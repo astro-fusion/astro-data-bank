@@ -1,0 +1,31 @@
+{
+  "publicId": "51cff978",
+  "wikipediaSlug": "Anastasiya_Yermakova",
+  "wikipediaId": "Q238755",
+  "name": "Anastasiya Yermakova",
+  "fullName": "Anastasiya Yermakova",
+  "profileSummary": "Anastasiya Nikolayevna Yermakova is a Russian competitor in synchronised swimming and four-time Olympic champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Anastsiya_Ermakova.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anastasiya_Yermakova",
+  "dateOfBirth": "1983-04-08",
+  "birthDateParsed": "1983-04-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "synchronized swimmer"
+  ],
+  "qid": "Q238755",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-10T12:58:30.546Z"
+}

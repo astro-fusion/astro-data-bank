@@ -1,0 +1,35 @@
+{
+  "publicId": "0e40a084",
+  "wikipediaSlug": "John_Boyd_Orr",
+  "wikipediaId": "Q315143",
+  "name": "John Boyd Orr",
+  "fullName": "John Boyd Orr",
+  "profileSummary": "John Boyd Orr, 1st Baron Boyd-Orr,, styled Sir John Boyd Orr from 1935 to 1949, was a British teacher, medical doctor, biologist, nutritional physiologist, politician, businessman and farmer who was awarded the Nobel Peace Prize for his scientific research into nutrition and his work as the first Director-General of the United Nations Food and Agriculture Organization (FAO).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/John_Boyd_Orr_nobel.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Boyd_Orr",
+  "dateOfBirth": "1880-09-23",
+  "birthDateParsed": "1880-09-23",
+  "dateOfDeath": "1971-06-25",
+  "deathDateParsed": "1971-06-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.6394",
+  "birthCoordinatesLng": "-4.53028",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "physician",
+    "politician",
+    "university teacher",
+    "director general"
+  ],
+  "qid": "Q315143",
+  "birthPlace": "Kilmaurs",
+  "fetchedAt": "2026-08-04T02:13:34.240Z"
+}

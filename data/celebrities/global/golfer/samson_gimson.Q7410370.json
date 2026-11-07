@@ -1,0 +1,31 @@
+{
+  "publicId": "53259f05",
+  "wikipediaSlug": "Samson_Gimson",
+  "wikipediaId": "Q7410370",
+  "name": "Samson Gimson",
+  "fullName": "Samson Gimson",
+  "profileSummary": "Samson Gimson is a Singaporean professional golfer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Samson_Gimson",
+  "dateOfBirth": "1964-01-22",
+  "birthDateParsed": "1964-01-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "golfer"
+  ],
+  "qid": "Q7410370",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T09:09:23.870Z"
+}

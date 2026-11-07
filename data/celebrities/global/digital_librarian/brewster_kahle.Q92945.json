@@ -1,0 +1,36 @@
+{
+  "publicId": "483c0ec8",
+  "wikipediaSlug": "Brewster_Kahle",
+  "wikipediaId": "Q92945",
+  "name": "Brewster Kahle",
+  "fullName": "Brewster Kahle",
+  "profileSummary": "Brewster Lurton Kahle is an American digital librarian, computer engineer, and internet entrepreneur. He graduated from the Massachusetts Institute of Technology in 1982 with a Bachelor of Science degree in computer science and engineering. Kahle founded the Internet Archive and co-founded Alexa Internet in 1996. He was inducted into the Internet Hall of Fame in 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Brewster_Kahle_%28cropped%29.jpg/330px-Brewster_Kahle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brewster_Kahle",
+  "dateOfBirth": "1960-10-22",
+  "birthDateParsed": "1960-10-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43",
+  "birthCoordinatesLng": "-75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "digital librarian",
+    "entrepreneur",
+    "computer scientist",
+    "archivist",
+    "librarian",
+    "author"
+  ],
+  "qid": "Q92945",
+  "birthPlace": "New York",
+  "fetchedAt": "2026-08-05T03:16:19.878Z"
+}

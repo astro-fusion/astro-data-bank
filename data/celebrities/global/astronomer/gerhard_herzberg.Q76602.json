@@ -1,0 +1,35 @@
+{
+  "publicId": "7c530908",
+  "wikipediaSlug": "Gerhard_Herzberg",
+  "wikipediaId": "Q76602",
+  "name": "Gerhard Herzberg",
+  "fullName": "Gerhard Herzberg",
+  "profileSummary": "Gerhard Heinrich Friedrich Otto Julius Herzberg, was a German-Canadian pioneering physicist and physical chemist, who won the Nobel Prize for Chemistry in 1971, \"for his contributions to the knowledge of electronic structure and geometry of molecules, particularly free radicals\". Herzberg's main work concerned atomic and molecular spectroscopy. He is well known for using these techniques that determine the structures of diatomic and polyatomic molecules, including free radicals which are difficult to investigate in any other way, and for the chemical analysis of astronomical objects. Herzberg served as Chancellor of Carleton University in Ottawa, Canada from 1973 to 1980.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Herzberg%2CGerhard_1952_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhard_Herzberg",
+  "dateOfBirth": "1904-12-25",
+  "birthDateParsed": "1904-12-25",
+  "dateOfDeath": "1999-03-03",
+  "deathDateParsed": "1999-03-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "physicist",
+    "chemist",
+    "university teacher",
+    "physical chemist"
+  ],
+  "qid": "Q76602",
+  "birthPlace": "Hamburg",
+  "fetchedAt": "2026-08-10T02:03:40.461Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "a4aa1339",
+  "wikipediaSlug": "Quentin_Bryce",
+  "wikipediaId": "Q229300",
+  "name": "Quentin Bryce",
+  "fullName": "Quentin Bryce",
+  "profileSummary": "Dame Quentin Alice Louise Bryce is an Australian academic who served as the 25th governor-general of Australia from 2008 to 2014. She is the first woman to have held the position. She was previously the 24th governor of Queensland from 2003 to 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Estonian_Ambassador_H.E._Mr_Andres_Unga_presents_his_credentials_to_the_Governor-General_of_Australia_H.E._Ms_Quentin_Alice_Louise_Bryce._28.03.2013_%288596664099%29_%28cropped%29.jpg/330px-thumbnail.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Quentin_Bryce",
+  "dateOfBirth": "1942-12-23",
+  "birthDateParsed": "1942-12-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.467777777",
+  "birthCoordinatesLng": "153.027777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "teacher",
+    "lawyer",
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q229300",
+  "birthPlace": "Brisbane",
+  "fetchedAt": "2026-08-03T12:58:49.624Z"
+}

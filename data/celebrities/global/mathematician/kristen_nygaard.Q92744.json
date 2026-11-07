@@ -1,0 +1,34 @@
+{
+  "publicId": "d16b4fa4",
+  "wikipediaSlug": "Kristen_Nygaard",
+  "wikipediaId": "Q92744",
+  "name": "Kristen Nygaard",
+  "fullName": "Kristen Nygaard",
+  "profileSummary": "Kristen Nygaard was a Norwegian computer scientist, programming language pioneer, and politician. Internationally, Nygaard is acknowledged as the co-inventor of object-oriented programming and the programming language Simula with Ole-Johan Dahl in the 1960s. Nygaard and Dahl received the 2001 A. M. Turing Award for their contribution to computer science.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kristen-Nygaard-SBLP-1997-head.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristen_Nygaard",
+  "dateOfBirth": "1926-08-27",
+  "birthDateParsed": "1926-08-27",
+  "dateOfDeath": "2002-08-10",
+  "deathDateParsed": "2002-08-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.913333333",
+  "birthCoordinatesLng": "10.738888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "university teacher",
+    "politician"
+  ],
+  "qid": "Q92744",
+  "birthPlace": "Oslo",
+  "fetchedAt": "2026-08-10T04:28:59.060Z"
+}

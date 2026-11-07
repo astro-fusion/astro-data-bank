@@ -1,0 +1,33 @@
+{
+  "publicId": "8ded1ba6",
+  "wikipediaSlug": "Anatole_Collinet_Makosso",
+  "wikipediaId": "Q4752077",
+  "name": "Anatole Collinet Makosso",
+  "fullName": "Anatole Collinet Makosso",
+  "profileSummary": "Anatole Collinet Makosso is a Congolese politician who has served as the prime minister of the Republic of the Congo since 2021. A member of the Congolese Party of Labour, he previously served as Minister of Primary and Secondary Education from 2015 to 2021, and as Minister of Youth and Civic Instruction from 2011 to 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Anatole_Collinet_Makosso_-_2023_%28cropped%29.jpg/330px-Anatole_Collinet_Makosso_-_2023_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anatole_Collinet_Makosso",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-4.7975",
+  "birthCoordinatesLng": "11.850277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "minister"
+  ],
+  "qid": "Q4752077",
+  "birthPlace": "Pointe-Noire",
+  "fetchedAt": "2026-08-03T16:49:13.688Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "19fdfa43",
+  "wikipediaSlug": "Alfred_Shaw",
+  "wikipediaId": "Q2835462",
+  "name": "Alfred Shaw",
+  "fullName": "Alfred Shaw",
+  "profileSummary": "Alfred Shaw was a Victorian cricketer and rugby footballer, who bowled the first ball in Test cricket and was the first to take five wickets in a Test innings (5/35). He made two trips to North America and four to Australia, captaining the English cricket team in four Test matches on the all-professional tour of Australia in 1881/82, where his team lost and drew two each. He was also, along with James Lillywhite and Arthur Shrewsbury, co-promoter of the tour. He also organised the first British Isles rugby tour to Australasia in 1888.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alfred_Shaw_c1895.jpg/330px-Alfred_Shaw_c1895.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Shaw",
+  "dateOfBirth": "1842-08-29",
+  "birthDateParsed": "1842-08-29",
+  "dateOfDeath": "1907-01-16",
+  "deathDateParsed": "1907-01-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.987",
+  "birthCoordinatesLng": "-1.037",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire",
+    "rugby union player"
+  ],
+  "qid": "Q2835462",
+  "birthPlace": "Burton Joyce",
+  "fetchedAt": "2026-07-31T20:08:05.602Z"
+}

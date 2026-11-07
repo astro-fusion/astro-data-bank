@@ -1,0 +1,33 @@
+{
+  "publicId": "cb23f775",
+  "wikipediaSlug": "Reed_Hastings",
+  "wikipediaId": "Q7306657",
+  "name": "Reed Hastings",
+  "fullName": "Reed Hastings",
+  "profileSummary": "Wilmot Reed Hastings Jr. is an American billionaire businessman. He is the co-founder of Netflix, which provides the eponymous streaming service. Hastings serves on a number of boards and works with various non-profit organizations. A former president of the California State Board of Education, Hastings is also an advocate for charter schools.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Re_publica_2015_-_Tag_1_%2817381870955%29_%28cropped%29.jpg/330px-Re_publica_2015_-_Tag_1_%2817381870955%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Reed_Hastings",
+  "dateOfBirth": "1960-10-08",
+  "birthDateParsed": "1960-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "chief executive officer",
+    "philanthropist"
+  ],
+  "qid": "Q7306657",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-03T15:53:14.642Z"
+}

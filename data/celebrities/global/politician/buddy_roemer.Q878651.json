@@ -1,0 +1,33 @@
+{
+  "publicId": "188d7073",
+  "wikipediaSlug": "Buddy_Roemer",
+  "wikipediaId": "Q878651",
+  "name": "Buddy Roemer",
+  "fullName": "Buddy Roemer",
+  "profileSummary": "Charles Elson \"Buddy\" Roemer III was an American politician, investor, and banker who served as the 52nd governor of Louisiana from 1988 to 1992, and as a member of the United States House of Representatives from 1981 to 1988. In March 1991, while serving as governor, Roemer switched affiliation from the Democratic Party to the Republican Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buddy_Roemer_by_Gage_Skidmore_2.jpg/330px-Buddy_Roemer_by_Gage_Skidmore_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buddy_Roemer",
+  "dateOfBirth": "1943-10-04",
+  "birthDateParsed": "1943-10-04",
+  "dateOfDeath": "2021-05-17",
+  "deathDateParsed": "2021-05-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.508055555",
+  "birthCoordinatesLng": "-93.762777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "banker",
+    "governor"
+  ],
+  "qid": "Q878651",
+  "birthPlace": "Shreveport",
+  "fetchedAt": "2026-08-02T02:16:08.955Z"
+}

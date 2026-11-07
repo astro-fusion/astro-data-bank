@@ -1,0 +1,33 @@
+{
+  "publicId": "81314ada",
+  "wikipediaSlug": "Brewster_H._Shaw",
+  "wikipediaId": "Q497530",
+  "name": "Brewster H. Shaw",
+  "fullName": "Brewster H. Shaw",
+  "profileSummary": "Brewster Hopkinson Shaw Jr. is a retired NASA astronaut, colonel of the U.S. Air Force, and former Boeing executive. Shaw was inducted into the U.S. Astronaut Hall of Fame on May 6, 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Shaw-b.jpg/330px-Shaw-b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brewster_H._Shaw",
+  "dateOfBirth": "1945-05-16",
+  "birthDateParsed": "1945-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.600833333",
+  "birthCoordinatesLng": "-83.174722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q497530",
+  "birthPlace": "Cass City",
+  "fetchedAt": "2026-08-10T06:03:50.072Z"
+}

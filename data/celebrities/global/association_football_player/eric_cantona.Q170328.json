@@ -1,0 +1,39 @@
+{
+  "publicId": "76ed6278",
+  "wikipediaSlug": "Eric_Cantona",
+  "wikipediaId": "Q170328",
+  "name": "Eric Cantona",
+  "fullName": "Eric Cantona",
+  "profileSummary": "Éric Daniel Pierre Cantona is a French actor and former professional footballer. In his football career, Cantona was a physically strong and technically skilful player with both creative and goalscoring ability. Mostly utilised as a deep-lying forward, he was also capable of playing as a centre-forward, a dedicated striker, an attacking midfielder, or a central midfielder. Regarded as one of the greatest players of his generation, he was named by Pelé in the FIFA 100 list of the world's greatest living players in 2004.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eric_Cantona_Cannes_2009.jpg/330px-Eric_Cantona_Cannes_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Cantona",
+  "dateOfBirth": "1966-05-24",
+  "birthDateParsed": "1966-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.296666666",
+  "birthCoordinatesLng": "5.376388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "actor",
+    "stage actor",
+    "film actor",
+    "executive producer",
+    "television actor",
+    "singer",
+    "singer-songwriter",
+    "beach soccer player"
+  ],
+  "qid": "Q170328",
+  "birthPlace": "Marseille",
+  "fetchedAt": "2026-08-10T11:27:57.964Z"
+}

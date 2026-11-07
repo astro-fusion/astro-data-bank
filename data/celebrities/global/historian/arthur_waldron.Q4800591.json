@@ -1,0 +1,31 @@
+{
+  "publicId": "31482a08",
+  "wikipediaSlug": "Arthur_Waldron",
+  "wikipediaId": "Q4800591",
+  "name": "Arthur Waldron",
+  "fullName": "Arthur Waldron",
+  "profileSummary": "Arthur Waldron is an American historian. Since 1997, Waldron has been the Lauder Professor of International Relations in the department of history at the University of Pennsylvania. He works chiefly on Asia, China in particular, often with a focus on the origins and development of nationalism, and the study of war and violence in general.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Arthur_Waldron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Waldron",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian"
+  ],
+  "qid": "Q4800591",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-05T02:43:53.717Z"
+}

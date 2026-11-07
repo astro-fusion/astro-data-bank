@@ -1,0 +1,32 @@
+{
+  "publicId": "e1f32356",
+  "wikipediaSlug": "Denis_Sassou_Nguesso",
+  "wikipediaId": "Q57418",
+  "name": "Denis Sassou Nguesso",
+  "fullName": "Denis Sassou Nguesso",
+  "profileSummary": "Denis Sassou Nguesso is a Congolese politician and former military officer who has served as president of the Republic of the Congo since 1997. He also previously served as president of the People's Republic of the Congo from 1979 to 1992.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Denis_Sassou_Nguesso%2C_2026_%28cropped%29.jpg/330px-Denis_Sassou_Nguesso%2C_2026_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Sassou_Nguesso",
+  "dateOfBirth": "1943-11-23",
+  "birthDateParsed": "1943-11-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-1.114166666",
+  "birthCoordinatesLng": "15.957777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "minister"
+  ],
+  "qid": "Q57418",
+  "birthPlace": "Edou",
+  "fetchedAt": "2026-08-03T16:50:25.871Z"
+}

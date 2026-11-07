@@ -1,0 +1,33 @@
+{
+  "publicId": "b492a172",
+  "wikipediaSlug": "Austin_Matthews",
+  "wikipediaId": "Q4823193",
+  "name": "Austin Matthews",
+  "fullName": "Austin Matthews",
+  "profileSummary": "Austin Matthews was a cricketer who played for Northamptonshire, Glamorgan and England.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Austin_Matthews",
+  "dateOfBirth": "1904-05-03",
+  "birthDateParsed": "1904-05-03",
+  "dateOfDeath": "1977-07-29",
+  "deathDateParsed": "1977-07-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "rugby union player",
+    "table tennis player"
+  ],
+  "qid": "Q4823193",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:09:27.175Z"
+}

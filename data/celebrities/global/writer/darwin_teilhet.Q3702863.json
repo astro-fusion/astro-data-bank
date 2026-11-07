@@ -1,0 +1,34 @@
+{
+  "publicId": "1dfae9ca",
+  "wikipediaSlug": "Darwin_Teilhet",
+  "wikipediaId": "Q3702863",
+  "name": "Darwin Teilhet",
+  "fullName": "Darwin Teilhet",
+  "profileSummary": "Darwin LeOra Teilhet was an American mystery novelist, advertising executive, journalist and a film screenwriter and consultant.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Darwin_Teilhet",
+  "dateOfBirth": "1904-05-20",
+  "birthDateParsed": "1904-05-20",
+  "dateOfDeath": "1964-04-18",
+  "deathDateParsed": "1964-04-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.3614",
+  "birthCoordinatesLng": "-89.5828",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "screenwriter",
+    "children's writer"
+  ],
+  "qid": "Q3702863",
+  "birthPlace": "Wyanet",
+  "fetchedAt": "2026-08-04T15:06:23.830Z"
+}

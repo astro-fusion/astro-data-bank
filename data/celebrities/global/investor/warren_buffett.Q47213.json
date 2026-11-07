@@ -1,0 +1,37 @@
+{
+  "publicId": "fb9b3424",
+  "wikipediaSlug": "Warren_Buffett",
+  "wikipediaId": "Q47213",
+  "name": "Warren Buffett",
+  "fullName": "Warren Buffett",
+  "profileSummary": "Warren Edward Buffett is an American investor and philanthropist who is the chairman and former CEO of the conglomerate Berkshire Hathaway. As a result of his success, Buffett is one of the best-known investors in the world. According to Forbes, as of January 2026, Buffett's estimated net worth stood at US$148.9 billion, making him the ninth-richest person in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg/330px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Warren_Buffett",
+  "dateOfBirth": "1930-08-30",
+  "birthDateParsed": "1930-08-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.258611111",
+  "birthCoordinatesLng": "-95.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "investor",
+    "entrepreneur",
+    "shareholder",
+    "financier",
+    "economist",
+    "broker-dealer",
+    "chief executive officer"
+  ],
+  "qid": "Q47213",
+  "birthPlace": "Omaha",
+  "fetchedAt": "2026-08-04T03:35:39.195Z"
+}

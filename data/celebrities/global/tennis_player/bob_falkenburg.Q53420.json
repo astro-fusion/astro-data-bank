@@ -1,0 +1,32 @@
+{
+  "publicId": "00b554d5",
+  "wikipediaSlug": "Bob_Falkenburg",
+  "wikipediaId": "Q53420",
+  "name": "Bob Falkenburg",
+  "fullName": "Bob Falkenburg",
+  "profileSummary": "Robert Falkenburg was a Brazilian-American tennis player and entrepreneur. He is best known for winning the Men's Singles at the 1948 Wimbledon Championships and introducing soft ice cream and American fast food to Brazil in 1952. He founded the Brazilian fast food chain Bob's.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BOB_FALKENBRUG_1952.jpg/330px-BOB_FALKENBRUG_1952.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Falkenburg",
+  "dateOfBirth": "1926-01-29",
+  "birthDateParsed": "1926-01-29",
+  "dateOfDeath": "2022-01-06",
+  "deathDateParsed": "2022-01-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "entrepreneur"
+  ],
+  "qid": "Q53420",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-01T13:10:39.371Z"
+}

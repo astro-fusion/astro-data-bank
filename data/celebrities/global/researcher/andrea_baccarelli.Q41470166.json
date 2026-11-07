@@ -1,0 +1,31 @@
+{
+  "publicId": "d12736ac",
+  "wikipediaSlug": "Andrea_Baccarelli",
+  "wikipediaId": "Q41470166",
+  "name": "Andrea Baccarelli",
+  "fullName": "Andrea Baccarelli",
+  "profileSummary": "Andrea Baccarelli is an Italian American epigeneticist and clinical endocrinologist, best known for his academic contributions in the field of epigenetics, mitochondriomics, and computational epigenomics, with a research focus on investigating the impact of environmental exposures on human health. He serves as the 10th dean of the Harvard T.H. Chan School of Public Health.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baccarelli-Andrea.jpg/330px-Baccarelli-Andrea.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Baccarelli",
+  "dateOfBirth": "1970-12-06",
+  "birthDateParsed": "1970-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.5",
+  "birthCoordinatesLng": "12.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "researcher"
+  ],
+  "qid": "Q41470166",
+  "birthPlace": "Italy",
+  "fetchedAt": "2026-08-05T02:43:17.278Z"
+}

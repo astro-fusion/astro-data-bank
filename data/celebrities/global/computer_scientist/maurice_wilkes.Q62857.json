@@ -1,0 +1,35 @@
+{
+  "publicId": "59f1aabf",
+  "wikipediaSlug": "Maurice_Wilkes",
+  "wikipediaId": "Q62857",
+  "name": "Maurice Wilkes",
+  "fullName": "Maurice Wilkes",
+  "profileSummary": "Sir Maurice Vincent Wilkes was an English computer scientist who designed and helped build the Electronic Delay Storage Automatic Calculator (EDSAC), one of the earliest stored-program computers, and who invented microprogramming, a method for using stored-program logic to operate the control unit of a central processing unit's circuits. In 1967 he won the ACM Turing Award. At the time of his death, Wilkes was an Emeritus Professor at the University of Cambridge.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Maurice_Vincent_Wilkes_1980_%283%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Wilkes",
+  "dateOfBirth": "1913-06-26",
+  "birthDateParsed": "1913-06-26",
+  "dateOfDeath": "2010-11-29",
+  "deathDateParsed": "2010-11-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "-2.1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "physicist",
+    "university teacher",
+    "mathematician"
+  ],
+  "qid": "Q62857",
+  "birthPlace": "Dudley",
+  "fetchedAt": "2026-08-10T04:29:30.045Z"
+}

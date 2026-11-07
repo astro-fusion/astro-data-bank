@@ -1,0 +1,32 @@
+{
+  "publicId": "b1602d13",
+  "wikipediaSlug": "Gerd_Müller",
+  "wikipediaId": "Q43744",
+  "name": "Gerd Müller",
+  "fullName": "Gerd Müller",
+  "profileSummary": "Gerhard Müller was a German professional footballer. A prolific striker, especially in and around the six-yard box, he is widely regarded as one of the greatest goalscorers and players in the history of the sport. With success at both the club level and the international level, he is one of eleven players to have won the FIFA World Cup, the UEFA Champions League and the Ballon d'Or.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gerd_M%C3%BCller_c1973_%28cropped%29.jpg/330px-Gerd_M%C3%BCller_c1973_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerd_M%C3%BCller",
+  "dateOfBirth": "1945-11-03",
+  "birthDateParsed": "1945-11-03",
+  "dateOfDeath": "2021-08-15",
+  "deathDateParsed": "2021-08-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.85",
+  "birthCoordinatesLng": "10.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q43744",
+  "birthPlace": "Nördlingen",
+  "fetchedAt": "2026-08-10T11:28:26.452Z"
+}

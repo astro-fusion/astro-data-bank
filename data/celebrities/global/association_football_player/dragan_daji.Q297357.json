@@ -1,0 +1,31 @@
+{
+  "publicId": "5dcb2b00",
+  "wikipediaSlug": "Dragan_Džajić",
+  "wikipediaId": "Q297357",
+  "name": "Dragan Džajić",
+  "fullName": "Dragan Džajić",
+  "profileSummary": "Dragan Džajić is a Serbian football administrator and former player who is the current president of the Football Association of Serbia from 14 March 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dragan_D%C5%BEaji%C4%87_%28cropped%29.jpg/330px-Dragan_D%C5%BEaji%C4%87_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dragan_D%C5%BEaji%C4%87",
+  "dateOfBirth": "1946-05-30",
+  "birthDateParsed": "1946-05-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.45",
+  "birthCoordinatesLng": "20.066666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q297357",
+  "birthPlace": "Ub",
+  "fetchedAt": "2026-08-10T11:27:53.954Z"
+}

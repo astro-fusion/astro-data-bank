@@ -1,0 +1,35 @@
+{
+  "publicId": "c2fadd3f",
+  "wikipediaSlug": "Corneille_Heymans",
+  "wikipediaId": "Q156482",
+  "name": "Corneille Heymans",
+  "fullName": "Corneille Heymans",
+  "profileSummary": "Corneille Jean François Heymans was a Belgian physiologist. He studied at the Jesuit College of Saint Barbara and then at Ghent University, where he obtained a doctor's degree in 1920.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Corneille_Heymans_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Corneille_Heymans",
+  "dateOfBirth": "1892-03-28",
+  "birthDateParsed": "1892-03-28",
+  "dateOfDeath": "1968-07-18",
+  "deathDateParsed": "1968-07-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.053611111",
+  "birthCoordinatesLng": "3.725277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "university teacher",
+    "pharmacologist",
+    "physiologist",
+    "toxicologist"
+  ],
+  "qid": "Q156482",
+  "birthPlace": "Ghent",
+  "fetchedAt": "2026-08-10T03:14:23.436Z"
+}

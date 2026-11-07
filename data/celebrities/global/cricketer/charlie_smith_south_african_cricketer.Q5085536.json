@@ -1,0 +1,31 @@
+{
+  "publicId": "42ec604d",
+  "wikipediaSlug": "Charlie_Smith_(South_African_cricketer)",
+  "wikipediaId": "Q5085536",
+  "name": "Charlie Smith (South African cricketer)",
+  "fullName": "Charlie Smith (South African cricketer)",
+  "profileSummary": "Charles James Edward Smith was a South African cricketer who played in three Tests in 1902.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Smith_(South_African_cricketer)",
+  "dateOfBirth": "1872-12-25",
+  "birthDateParsed": "1872-12-25",
+  "dateOfDeath": "1947-03-27",
+  "deathDateParsed": "1947-03-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.969097222",
+  "birthCoordinatesLng": "25.0328",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5085536",
+  "birthPlace": "Gamtoos River",
+  "fetchedAt": "2026-07-31T20:22:00.991Z"
+}

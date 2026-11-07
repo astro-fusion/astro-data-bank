@@ -1,0 +1,39 @@
+{
+  "publicId": "e7f2f157",
+  "wikipediaSlug": "B._J._Novak",
+  "wikipediaId": "Q459925",
+  "name": "B. J. Novak",
+  "fullName": "B. J. Novak",
+  "profileSummary": "Benjamin Joseph Manaly Novak is an American actor, comedian, screenwriter, author, and producer. He gained traction as a comedian during the early 2000s before becoming an actor for the MTV reality prank show Punk'd (2003).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BJNovak-byPhilipRomano.jpg/330px-BJNovak-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/B._J._Novak",
+  "dateOfBirth": "1979-07-30",
+  "birthDateParsed": "1979-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.336944444",
+  "birthCoordinatesLng": "-71.209722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "comedian",
+    "television actor",
+    "writer",
+    "film actor",
+    "film director",
+    "actor",
+    "film producer",
+    "director"
+  ],
+  "qid": "Q459925",
+  "birthPlace": "Newton",
+  "fetchedAt": "2026-08-05T02:43:50.936Z"
+}

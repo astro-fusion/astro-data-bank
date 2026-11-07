@@ -1,0 +1,35 @@
+{
+  "publicId": "b3f9a660",
+  "wikipediaSlug": "John_Howard",
+  "wikipediaId": "Q51330",
+  "name": "John Howard",
+  "fullName": "John Howard",
+  "profileSummary": "John Winston Howard is an Australian former politician who served as the 25th prime minister of Australia from 1996 to 2007, holding office as leader of the Liberal Party of Australia. His eleven-year tenure as prime minister is the second-longest in Australian history, after that of Robert Menzies. Since the death of Bob Hawke in 2019, he is the oldest living Australian prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Howard_John_BANNER.jpg/330px-Howard_John_BANNER.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Howard",
+  "dateOfBirth": "1939-07-26",
+  "birthDateParsed": "1939-07-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.924722222",
+  "birthCoordinatesLng": "151.1313889",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "autobiographer",
+    "lawyer",
+    "solicitor",
+    "historian"
+  ],
+  "qid": "Q51330",
+  "birthPlace": "Earlwood",
+  "fetchedAt": "2026-08-03T12:58:36.409Z"
+}

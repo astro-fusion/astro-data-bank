@@ -1,0 +1,35 @@
+{
+  "publicId": "c10e61ab",
+  "wikipediaSlug": "Janet_Mills",
+  "wikipediaId": "Q6153618",
+  "name": "Janet Mills",
+  "fullName": "Janet Mills",
+  "profileSummary": "Janet Trafton Mills is an American politician and attorney serving since 2019 as the 75th governor of Maine. She previously served as the 55th and 57th attorney general of Maine and as a member of the Maine House of Representatives. She is a member of the Democratic Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Maine_congressional_delegation_meets_with_Gov_Janet_Mills_%28cropped%29.jpg/330px-Maine_congressional_delegation_meets_with_Gov_Janet_Mills_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Janet_Mills",
+  "dateOfBirth": "1947-12-30",
+  "birthDateParsed": "1947-12-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.665555555",
+  "birthCoordinatesLng": "-70.146944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "jurist",
+    "jurisprudence",
+    "prosecutor"
+  ],
+  "qid": "Q6153618",
+  "birthPlace": "Farmington",
+  "fetchedAt": "2026-08-02T03:28:31.293Z"
+}

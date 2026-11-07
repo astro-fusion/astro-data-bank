@@ -1,0 +1,31 @@
+{
+  "publicId": "073c5efb",
+  "wikipediaSlug": "Deng_Yaping",
+  "wikipediaId": "Q270661",
+  "name": "Deng Yaping",
+  "fullName": "Deng Yaping",
+  "profileSummary": "Deng Yaping is a Chinese table tennis player who won eighteen world championships including four Olympic championships between 1989 and 1997. She is regarded as one of the greatest players in the history of the sport.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%E9%82%93%E4%BA%9A%E8%90%8D%E5%A5%B3%E5%A3%AB.png/330px-%E9%82%93%E4%BA%9A%E8%90%8D%E5%A5%B3%E5%A3%AB.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deng_Yaping",
+  "dateOfBirth": "1973-02-06",
+  "birthDateParsed": "1973-02-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.74919",
+  "birthCoordinatesLng": "113.66051",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "table tennis player"
+  ],
+  "qid": "Q270661",
+  "birthPlace": "Zhengzhou",
+  "fetchedAt": "2026-08-10T12:58:58.019Z"
+}

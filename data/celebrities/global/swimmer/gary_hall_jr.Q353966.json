@@ -1,0 +1,31 @@
+{
+  "publicId": "f4070294",
+  "wikipediaSlug": "Gary_Hall_Jr.",
+  "wikipediaId": "Q353966",
+  "name": "Gary Hall Jr.",
+  "fullName": "Gary Hall Jr.",
+  "profileSummary": "Gary Wayne Hall Jr. is an American former competition swimmer who represented the United States at the 1996, 2000, and 2004 Olympics and won ten Olympic medals. He is a former world record-holder in two relay events. Hall is well known for his \"pro-wrestling-like\" antics before a competition, frequently strutting onto the pool deck in boxing shorts and robe, shadow boxing and flexing for the audience.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Hall_Jr.",
+  "dateOfBirth": "1974-09-26",
+  "birthDateParsed": "1974-09-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.1",
+  "birthCoordinatesLng": "-84.5125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q353966",
+  "birthPlace": "Cincinnati",
+  "fetchedAt": "2026-08-10T13:00:04.185Z"
+}

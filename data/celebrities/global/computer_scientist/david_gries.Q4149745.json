@@ -1,0 +1,32 @@
+{
+  "publicId": "ee9bec07",
+  "wikipediaSlug": "David_Gries",
+  "wikipediaId": "Q4149745",
+  "name": "David Gries",
+  "fullName": "David Gries",
+  "profileSummary": "David Gries is an American computer scientist at Cornell University, mainly known for his books The Science of Programming (1981) and A Logical Approach to Discrete Math.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Image_of_David_Gries.jpg/330px-Image_of_David_Gries.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Gries",
+  "dateOfBirth": "1939-04-26",
+  "birthDateParsed": "1939-04-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer"
+  ],
+  "qid": "Q4149745",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-04T15:06:16.496Z"
+}

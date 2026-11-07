@@ -1,0 +1,34 @@
+{
+  "publicId": "a2e2dab6",
+  "wikipediaSlug": "Jim_Yong_Kim",
+  "wikipediaId": "Q313297",
+  "name": "Jim Yong Kim",
+  "fullName": "Jim Yong Kim",
+  "profileSummary": "Jim Yong Kim, also known as Kim Yong, is an American physician and anthropologist who was the president of the World Bank from 2012 to 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/20th_Anniversary_Schwab_Foundation_Gala_Dinner_%2844887783461%29_%28cropped%29.jpg/330px-20th_Anniversary_Schwab_Foundation_Gala_Dinner_%2844887783461%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Yong_Kim",
+  "dateOfBirth": "1959-12-08",
+  "birthDateParsed": "1959-12-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.56",
+  "birthCoordinatesLng": "126.99",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "anthropologist",
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q313297",
+  "birthPlace": "Seoul",
+  "fetchedAt": "2026-08-03T15:52:24.708Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "184c5b13",
+  "wikipediaSlug": "Eddie_Niedzwiecki",
+  "wikipediaId": "Q1282921",
+  "name": "Eddie Niedzwiecki",
+  "fullName": "Eddie Niedzwiecki",
+  "profileSummary": "Andrzej Edward Niedzwiecki is a Welsh football coach and former footballer who played as a goalkeeper.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_Niedzwiecki",
+  "dateOfBirth": "1959-05-03",
+  "birthDateParsed": "1959-05-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.228",
+  "birthCoordinatesLng": "-4.128",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1282921",
+  "birthPlace": "Bangor",
+  "fetchedAt": "2026-08-01T05:21:34.305Z"
+}

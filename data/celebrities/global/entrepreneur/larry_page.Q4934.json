@@ -1,0 +1,33 @@
+{
+  "publicId": "f6d9cffe",
+  "wikipediaSlug": "Larry_Page",
+  "wikipediaId": "Q4934",
+  "name": "Larry Page",
+  "fullName": "Larry Page",
+  "profileSummary": "Lawrence Edward Page is an American businessman and computer scientist who co-founded Google with Sergey Brin. Page is a centibillionaire and among the richest people in the world. As of 2026, Bloomberg Billionaires Index and Forbes estimated his net worth at US$334.1 billion, positioning him as the second-wealthiest individual in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped_2%29.jpg/330px-Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Larry_Page",
+  "dateOfBirth": "1973-03-26",
+  "birthDateParsed": "1973-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.7348",
+  "birthCoordinatesLng": "-84.4808",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "computer scientist",
+    "engineer"
+  ],
+  "qid": "Q4934",
+  "birthPlace": "East Lansing",
+  "fetchedAt": "2026-08-04T03:34:53.309Z"
+}

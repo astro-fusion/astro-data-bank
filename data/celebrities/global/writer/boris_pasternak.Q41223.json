@@ -1,0 +1,41 @@
+{
+  "publicId": "44b35adb",
+  "wikipediaSlug": "Boris_Pasternak",
+  "wikipediaId": "Q41223",
+  "name": "Boris Pasternak",
+  "fullName": "Boris Pasternak",
+  "profileSummary": "Boris Leonidovich Pasternak was a Russian and Soviet poet, novelist, and literary translator.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boris_Pasternak_1958_photo.jpg/330px-Boris_Pasternak_1958_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Pasternak",
+  "dateOfBirth": "1890-02-10",
+  "birthDateParsed": "1890-02-10",
+  "dateOfDeath": "1960-05-30",
+  "deathDateParsed": "1960-05-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "translator",
+    "novelist",
+    "playwright",
+    "pianist",
+    "prose writer",
+    "translator of William Shakespeare",
+    "screenwriter",
+    "composer",
+    "librettist"
+  ],
+  "qid": "Q41223",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-06T07:40:59.724Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "e037ad0e",
+  "wikipediaSlug": "Gerhart_Hauptmann",
+  "wikipediaId": "Q43523",
+  "name": "Gerhart Hauptmann",
+  "fullName": "Gerhart Hauptmann",
+  "profileSummary": "Gerhart Johann Robert Hauptmann was a German dramatist and novelist. He is counted among the most important promoters of literary naturalism, though he integrated other styles into his work as well. He received the Nobel Prize in Literature in 1912.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Gerhart_Hauptmann_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhart_Hauptmann",
+  "dateOfBirth": "1862-11-15",
+  "birthDateParsed": "1862-11-15",
+  "dateOfDeath": "1946-06-06",
+  "deathDateParsed": "1946-06-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.80352",
+  "birthCoordinatesLng": "16.25655",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "poet",
+    "lyricist",
+    "novelist",
+    "autobiographer",
+    "screenwriter",
+    "writer"
+  ],
+  "qid": "Q43523",
+  "birthPlace": "Szczawno-Zdrój",
+  "fetchedAt": "2026-08-06T07:41:33.548Z"
+}

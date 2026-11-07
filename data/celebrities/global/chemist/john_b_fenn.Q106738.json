@@ -1,0 +1,32 @@
+{
+  "publicId": "467c85aa",
+  "wikipediaSlug": "John_B._Fenn",
+  "wikipediaId": "Q106738",
+  "name": "John B. Fenn",
+  "fullName": "John B. Fenn",
+  "profileSummary": "John Bennett Fenn was an American analytical chemist who was awarded a share of the Nobel Prize in Chemistry in 2002, sharing half of the award with Koichi Tanaka for their work in mass spectrometry. His contributions related to the development of electrospray ionization, now a commonly used technique for large molecules and routine liquid chromatography-tandem mass spectrometry. Early in his career, he studied the field of jet propulsion at Project SQUID and focused on molecular beams. He finished his career with more than 100 publications, including one book.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_B_Fenn01.jpg/330px-John_B_Fenn01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_B._Fenn",
+  "dateOfBirth": "1917-06-15",
+  "birthDateParsed": "1917-06-15",
+  "dateOfDeath": "2010-12-10",
+  "deathDateParsed": "2010-12-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q106738",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T02:04:09.294Z"
+}

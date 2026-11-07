@@ -1,0 +1,31 @@
+{
+  "publicId": "df64b7a4",
+  "wikipediaSlug": "George_Helmy",
+  "wikipediaId": "Q129127964",
+  "name": "George Helmy",
+  "fullName": "George Helmy",
+  "profileSummary": "George Samir Helmy is an American politician who served as a United States senator from New Jersey from August to December 2024. A member of the Democratic Party, he was appointed by governor Phil Murphy after Senator Bob Menendez resigned. He served as Murphy's chief of staff from 2019 to 2023. Helmy is the first Coptic American U.S. senator. As of 2025, Helmy serves on the Rutgers University Board of Governors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Senator_George_Helmy_118th.jpg/330px-Senator_George_Helmy_118th.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Helmy",
+  "dateOfBirth": "1979-10-27",
+  "birthDateParsed": "1979-10-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.71",
+  "birthCoordinatesLng": "-74.06",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q129127964",
+  "birthPlace": "Jersey City",
+  "fetchedAt": "2026-08-02T02:16:53.711Z"
+}

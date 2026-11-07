@@ -1,0 +1,33 @@
+{
+  "publicId": "fff2f76b",
+  "wikipediaSlug": "Chiaki_Mukai",
+  "wikipediaId": "Q234306",
+  "name": "Chiaki Mukai",
+  "fullName": "Chiaki Mukai",
+  "profileSummary": "Chiaki Mukai  is a Japanese physician and JAXA astronaut. She was the first Japanese woman in space, the first Japanese citizen to have two spaceflights, and the first Asian woman in space. Both were Space Shuttle missions; her first was STS-65 aboard Space Shuttle Columbia in July 1994, which was a Spacelab mission. Her second spaceflight was STS-95 aboard Space Shuttle Discovery in 1998. In total she has spent 23 days in space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chiaki_Mukai.jpg/330px-Chiaki_Mukai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chiaki_Mukai",
+  "dateOfBirth": "1952-05-06",
+  "birthDateParsed": "1952-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.244833333",
+  "birthCoordinatesLng": "139.542111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "physician",
+    "surgeon"
+  ],
+  "qid": "Q234306",
+  "birthPlace": "Tatebayashi",
+  "fetchedAt": "2026-08-10T06:04:13.145Z"
+}

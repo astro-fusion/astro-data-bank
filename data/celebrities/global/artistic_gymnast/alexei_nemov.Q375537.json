@@ -1,0 +1,31 @@
+{
+  "publicId": "c2f88b20",
+  "wikipediaSlug": "Alexei_Nemov",
+  "wikipediaId": "Q375537",
+  "name": "Alexei Nemov",
+  "fullName": "Alexei Nemov",
+  "profileSummary": "Alexei Yuryevich Nemov is a Russian retired artistic gymnast. During his career, he won five world championships, three European championships and twelve Olympic medals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Alexei_Nemov_%282022-02-03%29.jpg/330px-Alexei_Nemov_%282022-02-03%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexei_Nemov",
+  "dateOfBirth": "1976-05-28",
+  "birthDateParsed": "1976-05-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.536055",
+  "birthCoordinatesLng": "42.882654",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artistic gymnast"
+  ],
+  "qid": "Q375537",
+  "birthPlace": "Barashevo",
+  "fetchedAt": "2026-08-10T12:58:28.495Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "96a384da",
+  "wikipediaSlug": "William_Bligh",
+  "wikipediaId": "Q294147",
+  "name": "William Bligh",
+  "fullName": "William Bligh",
+  "profileSummary": "Vice-Admiral of the Blue William Bligh was a Royal Navy officer and colonial administrator who served as the governor of New South Wales from 1806 to 1808. He is best known for his role in the mutiny on HMS Bounty, which occurred in 1789 when the ship was under his command. The reasons behind the mutiny continue to be debated. After being set adrift in Bounty's launch by the mutineers, Bligh and those loyal to him stopped for supplies on Tofua, losing one man to native attacks. Bligh and his men reached Timor alive, after a journey of 3,618 nautical miles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/WilliamBligh.jpeg/330px-WilliamBligh.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Bligh",
+  "dateOfBirth": "1754-09-09",
+  "birthDateParsed": "1754-09-09",
+  "dateOfDeath": "1817-12-07",
+  "deathDateParsed": "1817-12-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.371388888",
+  "birthCoordinatesLng": "-4.142222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "sailor",
+    "politician",
+    "governor",
+    "admiral"
+  ],
+  "qid": "Q294147",
+  "birthPlace": "Plymouth",
+  "fetchedAt": "2026-08-07T04:27:36.002Z"
+}

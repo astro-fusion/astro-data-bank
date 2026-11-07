@@ -1,0 +1,33 @@
+{
+  "publicId": "e20cd5dd",
+  "wikipediaSlug": "Larry_Bird",
+  "wikipediaId": "Q190152",
+  "name": "Larry Bird",
+  "fullName": "Larry Bird",
+  "profileSummary": "Larry Joe Bird is an American former professional basketball player, coach, and executive in the National Basketball Association (NBA). Nicknamed \"the Hick from French Lick\" and \"Larry Legend\", Bird is widely regarded as one of the greatest basketball players of all time. He is the only person in NBA history to be named Rookie of the Year, Most Valuable Player, Finals MVP, All-Star MVP, Coach of the Year, and Executive of the Year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Larrybird.jpg/330px-Larrybird.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Larry_Bird",
+  "dateOfBirth": "1956-12-07",
+  "birthDateParsed": "1956-12-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.566944444",
+  "birthCoordinatesLng": "-86.611666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "coach"
+  ],
+  "qid": "Q190152",
+  "birthPlace": "West Baden Springs",
+  "fetchedAt": "2026-08-01T15:37:05.755Z"
+}

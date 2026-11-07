@@ -1,0 +1,33 @@
+{
+  "publicId": "636f4055",
+  "wikipediaSlug": "Brian_McDermott_(footballer)",
+  "wikipediaId": "Q316345",
+  "name": "Brian McDermott (footballer)",
+  "fullName": "Brian McDermott (footballer)",
+  "profileSummary": "Brian James McDermott is a former professional football player and coach. He is currently a consultant at Major League Soccer club Charlotte.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brian_McDermott_Leeds_2014.jpg/330px-Brian_McDermott_Leeds_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_McDermott_(footballer)",
+  "dateOfBirth": "1961-04-08",
+  "birthDateParsed": "1961-04-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.509722222",
+  "birthCoordinatesLng": "-0.593055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "scout"
+  ],
+  "qid": "Q316345",
+  "birthPlace": "Slough",
+  "fetchedAt": "2026-08-01T05:20:49.185Z"
+}

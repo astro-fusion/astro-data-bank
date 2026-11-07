@@ -1,0 +1,33 @@
+{
+  "publicId": "4b84afc7",
+  "wikipediaSlug": "Edmond_H._Fischer",
+  "wikipediaId": "Q109726",
+  "name": "Edmond H. Fischer",
+  "fullName": "Edmond H. Fischer",
+  "profileSummary": "Edmond Henri Fischer was a Swiss-American biochemist. He and his collaborator Edwin G. Krebs were awarded the Nobel Prize in Physiology or Medicine in 1992 for describing how reversible phosphorylation works as a switch to activate proteins and regulate various cellular processes. From 2007 until 2014, he was the Honorary President of the World Cultural Council. At the time of his death at age 101 in 2021, he was the oldest living Nobel Prize laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Edmond_Fischer_Nobel_Laureate_1992.jpg/330px-Edmond_Fischer_Nobel_Laureate_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edmond_H._Fischer",
+  "dateOfBirth": "1920-04-06",
+  "birthDateParsed": "1920-04-06",
+  "dateOfDeath": "2021-08-27",
+  "deathDateParsed": "2021-08-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.223",
+  "birthCoordinatesLng": "121.469",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "university teacher",
+    "chemist"
+  ],
+  "qid": "Q109726",
+  "birthPlace": "Shanghai French Concession",
+  "fetchedAt": "2026-08-10T03:14:54.149Z"
+}

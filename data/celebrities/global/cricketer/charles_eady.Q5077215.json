@@ -1,0 +1,32 @@
+{
+  "publicId": "aaaf9f9d",
+  "wikipediaSlug": "Charles_Eady",
+  "wikipediaId": "Q5077215",
+  "name": "Charles Eady",
+  "fullName": "Charles Eady",
+  "profileSummary": "Charles John Eady was an Australian sportsman, lawyer and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Charles_Eady.jpg/330px-Charles_Eady.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Eady",
+  "dateOfBirth": "1870-10-29",
+  "birthDateParsed": "1870-10-29",
+  "dateOfDeath": "1945-12-20",
+  "deathDateParsed": "1945-12-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-42.883333333",
+  "birthCoordinatesLng": "147.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "politician"
+  ],
+  "qid": "Q5077215",
+  "birthPlace": "Hobart",
+  "fetchedAt": "2026-07-31T19:45:37.192Z"
+}

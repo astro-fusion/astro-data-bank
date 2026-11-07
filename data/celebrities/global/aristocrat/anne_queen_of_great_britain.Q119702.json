@@ -1,0 +1,36 @@
+{
+  "publicId": "e49ba4d1",
+  "wikipediaSlug": "Anne,_Queen_of_Great_Britain",
+  "wikipediaId": "Q119702",
+  "name": "Anne, Queen of Great Britain",
+  "fullName": "Anne, Queen of Great Britain",
+  "profileSummary": "Anne was Queen of England, Scotland, and Ireland from 8 March 1702, and Queen of Great Britain and Ireland following the ratification of the Acts of Union 1707 merging the kingdoms of England and Scotland, until her death in 1714.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg/330px-Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne%2C_Queen_of_Great_Britain",
+  "dateOfBirth": "1665-02-06",
+  "birthDateParsed": "1665-02-06",
+  "dateOfDeath": "1714-08-01",
+  "deathDateParsed": "1714-08-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.504722222",
+  "birthCoordinatesLng": "-0.137777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aristocrat",
+    "politician",
+    "queen regnant",
+    "ruler",
+    "statesperson",
+    "monarch"
+  ],
+  "qid": "Q119702",
+  "birthPlace": "St James's Palace",
+  "fetchedAt": "2026-08-02T05:21:19.209Z"
+}

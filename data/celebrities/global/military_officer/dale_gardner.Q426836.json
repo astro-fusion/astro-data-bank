@@ -1,0 +1,33 @@
+{
+  "publicId": "62b038e8",
+  "wikipediaSlug": "Dale_Gardner",
+  "wikipediaId": "Q426836",
+  "name": "Dale Gardner",
+  "fullName": "Dale Gardner",
+  "profileSummary": "Dale Allan Gardner was a NASA astronaut, and naval flight officer who flew two Space Shuttle missions during the mid 1980s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gardner-d.jpg/330px-Gardner-d.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dale_Gardner",
+  "dateOfBirth": "1948-11-08",
+  "birthDateParsed": "1948-11-08",
+  "dateOfDeath": "2014-02-19",
+  "deathDateParsed": "2014-02-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.652222222",
+  "birthCoordinatesLng": "-94.461111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot"
+  ],
+  "qid": "Q426836",
+  "birthPlace": "Fairmont",
+  "fetchedAt": "2026-08-10T06:04:44.670Z"
+}

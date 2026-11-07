@@ -1,0 +1,33 @@
+{
+  "publicId": "b5a40610",
+  "wikipediaSlug": "Ivo_Viktor",
+  "wikipediaId": "Q374824",
+  "name": "Ivo Viktor",
+  "fullName": "Ivo Viktor",
+  "profileSummary": "Ivo Viktor is a Czech former footballer who played as a goalkeeper. He played for Czechoslovakia, representing his country on 63 occasions between 1966 and 1977, taking part in the 1970 FIFA World Cup and winning the 1976 European Championship. Regarded as one of the best goalkeepers of his generation in Europe in his prime, he placed third in the 1976 Ballon d'Or, and was a five-time winner of the Czechoslovak Footballer of the Year award, and a two-time winner of the European Goalkeeper of the Year award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Viktor_panini_card.jpg/330px-Viktor_panini_card.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivo_Viktor",
+  "dateOfBirth": "1942-05-21",
+  "birthDateParsed": "1942-05-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.6142",
+  "birthCoordinatesLng": "17.2033",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "coach"
+  ],
+  "qid": "Q374824",
+  "birthPlace": "Křelov",
+  "fetchedAt": "2026-08-10T11:28:41.471Z"
+}

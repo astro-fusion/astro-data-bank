@@ -1,0 +1,31 @@
+{
+  "publicId": "104cee44",
+  "wikipediaSlug": "A._Charles_Baillie",
+  "wikipediaId": "Q4647642",
+  "name": "A. Charles Baillie",
+  "fullName": "A. Charles Baillie",
+  "profileSummary": "Alexander Charles Baillie Jr. is a Canadian banker that was the former CEO of TD Bank Financial Group; he served in this role until December, 2002. He was the 12th Chancellor and is Chancellor Emeritus of Queen's University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A._Charles_Baillie.png/330px-A._Charles_Baillie.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._Charles_Baillie",
+  "dateOfBirth": "1939-12-20",
+  "birthDateParsed": "1939-12-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q4647642",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T02:42:00.967Z"
+}

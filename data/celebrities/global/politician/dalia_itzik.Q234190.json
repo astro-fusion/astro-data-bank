@@ -1,0 +1,33 @@
+{
+  "publicId": "7de3ef46",
+  "wikipediaSlug": "Dalia_Itzik",
+  "wikipediaId": "Q234190",
+  "name": "Dalia Itzik",
+  "fullName": "Dalia Itzik",
+  "profileSummary": "Dalia Itzik is an Israeli former politician who last served as a member of the Knesset for Kadima. She has previously served in several ministerial positions, and on 4 May 2006 became the first female speaker of the Knesset, and served as President of Israel in an interim capacity in July 2007. She was briefly the first woman in Israel's history to be president.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dalya_Itzik_1.png/330px-Dalya_Itzik_1.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dalia_Itzik",
+  "dateOfBirth": "1952-10-20",
+  "birthDateParsed": "1952-10-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.776679",
+  "birthCoordinatesLng": "35.234156",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "trade unionist",
+    "educator"
+  ],
+  "qid": "Q234190",
+  "birthPlace": "Jerusalem",
+  "fetchedAt": "2026-08-04T00:55:09.951Z"
+}

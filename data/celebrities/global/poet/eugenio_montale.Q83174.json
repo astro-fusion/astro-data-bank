@@ -1,0 +1,39 @@
+{
+  "publicId": "8e9975c2",
+  "wikipediaSlug": "Eugenio_Montale",
+  "wikipediaId": "Q83174",
+  "name": "Eugenio Montale",
+  "fullName": "Eugenio Montale",
+  "profileSummary": "Eugenio Montale was an Italian poet, prose writer, editor and translator. In 1975, he was awarded the Nobel Prize in Literature \"for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eugenio_Montale.jpg/330px-Eugenio_Montale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugenio_Montale",
+  "dateOfBirth": "1896-10-12",
+  "birthDateParsed": "1896-10-12",
+  "dateOfDeath": "1981-09-12",
+  "deathDateParsed": "1981-09-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.407186111",
+  "birthCoordinatesLng": "8.933983333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "journalist",
+    "translator",
+    "politician",
+    "librarian",
+    "prose writer",
+    "editor",
+    "music critic",
+    "literary critic"
+  ],
+  "qid": "Q83174",
+  "birthPlace": "Genoa",
+  "fetchedAt": "2026-08-06T07:41:25.877Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "ae01756e",
+  "wikipediaSlug": "Ewa_Pajor",
+  "wikipediaId": "Q14436798",
+  "name": "Ewa Pajor",
+  "fullName": "Ewa Pajor",
+  "profileSummary": "Ewa Barbara Pajor is a Polish professional footballer who plays as a striker for Liga F club Barcelona and captains the Poland national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/UWCL_2025-26_Final_A26.jpg/330px-UWCL_2025-26_Final_A26.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ewa_Pajor",
+  "dateOfBirth": "1996-12-03",
+  "birthDateParsed": "1996-12-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.97428",
+  "birthCoordinatesLng": "18.79308",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q14436798",
+  "birthPlace": "Uniejów",
+  "fetchedAt": "2026-08-10T11:28:16.216Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "3a9d7c19",
+  "wikipediaSlug": "Chen_Ruolin",
+  "wikipediaId": "Q270677",
+  "name": "Chen Ruolin",
+  "fullName": "Chen Ruolin",
+  "profileSummary": "Chen Ruolin is a Chinese platform diver and coach. She is a five-time Olympic gold medalist, ten-time World championship medalist, nine-time World Cup medalist, four-time Asian Games medalist and two-time Universiade gold medalist, making her one of the most accomplished female divers in history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chen_Ruolin_01.png/330px-Chen_Ruolin_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Ruolin",
+  "dateOfBirth": "1992-12-12",
+  "birthDateParsed": "1992-12-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.98288",
+  "birthCoordinatesLng": "120.8873",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "competitive diver",
+    "politician",
+    "swimmer"
+  ],
+  "qid": "Q270677",
+  "birthPlace": "Nantong",
+  "fetchedAt": "2026-08-10T12:59:42.410Z"
+}

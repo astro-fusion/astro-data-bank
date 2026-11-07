@@ -1,0 +1,31 @@
+{
+  "publicId": "f74124bf",
+  "wikipediaSlug": "Garrincha",
+  "wikipediaId": "Q180642",
+  "name": "Garrincha",
+  "fullName": "Garrincha",
+  "profileSummary": "Manuel Francisco dos Santos, nicknamed Mané Garrincha, best known as simply Garrincha, was a Brazilian professional footballer who played as a right winger. He is widely regarded as one of the greatest players of all time, and by many, one of the greatest dribblers ever.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Manoel_Francisco_dos_Santos-Garrincha.jpg/330px-Manoel_Francisco_dos_Santos-Garrincha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Garrincha",
+  "dateOfBirth": "1933-10-28",
+  "birthDateParsed": "1933-10-28",
+  "dateOfDeath": "1983-01-20",
+  "deathDateParsed": "1983-01-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-22.652777777",
+  "birthCoordinatesLng": "-43.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q180642",
+  "birthPlace": "Magé",
+  "fetchedAt": "2026-08-10T11:28:28.070Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "dc3a1efa",
+  "wikipediaSlug": "Denny_Hulme",
+  "wikipediaId": "Q3166",
+  "name": "Denny Hulme",
+  "fullName": "Denny Hulme",
+  "profileSummary": "Denis Clive Hulme was a New Zealand racing driver, who competed in Formula One from 1965 to 1974. Nicknamed \"the Bear\", Hulme won the Formula One World Drivers' Championship in 1967 with Brabham, becoming the only New Zealander to do so, and won eight Grands Prix across 10 seasons. He is the World Champion with the fewest pole positions in his career, with only 1 career pole at the 1973 South African Grand Prix.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/HulmeDenis196508_%28cropped%29.jpg/330px-HulmeDenis196508_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denny_Hulme",
+  "dateOfBirth": "1936-06-18",
+  "birthDateParsed": "1936-06-18",
+  "dateOfDeath": "1992-10-04",
+  "deathDateParsed": "1992-10-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.123333333",
+  "birthCoordinatesLng": "173.014722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q3166",
+  "birthPlace": "Motueka",
+  "fetchedAt": "2026-08-01T16:01:20.572Z"
+}

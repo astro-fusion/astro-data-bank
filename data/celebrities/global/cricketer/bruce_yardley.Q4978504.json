@@ -1,0 +1,31 @@
+{
+  "publicId": "ab599fec",
+  "wikipediaSlug": "Bruce_Yardley",
+  "wikipediaId": "Q4978504",
+  "name": "Bruce Yardley",
+  "fullName": "Bruce Yardley",
+  "profileSummary": "Bruce Yardley was an Australian cricketer who played in 33 Test matches and seven One Day Internationals between 1978 and 1983, taking 126 Test wickets.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Yardley",
+  "dateOfBirth": "1947-09-05",
+  "birthDateParsed": "1947-09-05",
+  "dateOfDeath": "2019-03-27",
+  "deathDateParsed": "2019-03-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.888",
+  "birthCoordinatesLng": "116.01",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4978504",
+  "birthPlace": "Midland",
+  "fetchedAt": "2026-07-31T19:45:23.375Z"
+}

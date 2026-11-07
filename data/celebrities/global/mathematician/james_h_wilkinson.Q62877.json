@@ -1,0 +1,32 @@
+{
+  "publicId": "5723c6c8",
+  "wikipediaSlug": "James_H._Wilkinson",
+  "wikipediaId": "Q62877",
+  "name": "James H. Wilkinson",
+  "fullName": "James H. Wilkinson",
+  "profileSummary": "James Hardy Wilkinson FRS was a prominent figure in the field of numerical analysis, a field at the boundary of applied mathematics and computer science particularly useful to physics and engineering. In 1970 he won the ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/James_H._Wilkinson.jpg/330px-James_H._Wilkinson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_H._Wilkinson",
+  "dateOfBirth": "1919-09-27",
+  "birthDateParsed": "1919-09-27",
+  "dateOfDeath": "1986-10-05",
+  "deathDateParsed": "1986-10-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.393",
+  "birthCoordinatesLng": "0.478",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist"
+  ],
+  "qid": "Q62877",
+  "birthPlace": "Strood",
+  "fetchedAt": "2026-08-10T04:29:10.793Z"
+}

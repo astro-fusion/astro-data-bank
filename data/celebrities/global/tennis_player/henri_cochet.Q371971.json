@@ -1,0 +1,31 @@
+{
+  "publicId": "4102d837",
+  "wikipediaSlug": "Henri_Cochet",
+  "wikipediaId": "Q371971",
+  "name": "Henri Cochet",
+  "fullName": "Henri Cochet",
+  "profileSummary": "Henri Jean Cochet was a French tennis player. He was a world No. 1 ranked player, and a member of the famous \"Four Musketeers\" from France who dominated tennis in the late 1920s and early 1930s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Henri_Cochet_1924.jpg/330px-Henri_Cochet_1924.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Cochet",
+  "dateOfBirth": "1901-12-14",
+  "birthDateParsed": "1901-12-14",
+  "dateOfDeath": "1987-04-02",
+  "deathDateParsed": "1987-04-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.766111111",
+  "birthCoordinatesLng": "4.879444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q371971",
+  "birthPlace": "Villeurbanne",
+  "fetchedAt": "2026-08-01T13:11:04.877Z"
+}

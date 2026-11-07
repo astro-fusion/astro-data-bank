@@ -1,0 +1,32 @@
+{
+  "publicId": "1f62bb0f",
+  "wikipediaSlug": "Fred_Schaus",
+  "wikipediaId": "Q776019",
+  "name": "Fred Schaus",
+  "fullName": "Fred Schaus",
+  "profileSummary": "Frederick Appleton Schaus was an American basketball player, head coach and athletic director for the West Virginia University Mountaineers, player for the National Basketball Association's Fort Wayne Pistons and New York Knicks, general manager and head coach for the Los Angeles Lakers, head coach of Purdue University basketball, and a member of the NCAA Basketball Committee. He was born in Newark, Ohio.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Fred_Schaus.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Schaus",
+  "dateOfBirth": "1925-06-30",
+  "birthDateParsed": "1925-06-30",
+  "dateOfDeath": "2010-02-10",
+  "deathDateParsed": "2010-02-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.735555555",
+  "birthCoordinatesLng": "-74.172222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q776019",
+  "birthPlace": "Newark",
+  "fetchedAt": "2026-08-01T15:37:42.833Z"
+}

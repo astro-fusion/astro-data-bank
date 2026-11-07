@@ -1,0 +1,34 @@
+{
+  "publicId": "a3ef749e",
+  "wikipediaSlug": "Ivar_Giaever",
+  "wikipediaId": "Q192688",
+  "name": "Ivar Giaever",
+  "fullName": "Ivar Giaever",
+  "profileSummary": "Ivar Giaever was a Norwegian–American experimental physicist who shared the 1973 Nobel Prize in Physics with Leo Esaki and Brian Josephson. One half of the prize was jointly awarded to Esaki and Giaever \"for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ivar_Giaever_1973.jpg/330px-Ivar_Giaever_1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivar_Giaever",
+  "dateOfBirth": "1929-04-05",
+  "birthDateParsed": "1929-04-05",
+  "dateOfDeath": "2025-06-20",
+  "deathDateParsed": "2025-06-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.3925",
+  "birthCoordinatesLng": "5.323333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "engineer",
+    "scientist",
+    "university teacher"
+  ],
+  "qid": "Q192688",
+  "birthPlace": "Bergen",
+  "fetchedAt": "2026-08-06T05:02:19.064Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "5a686f61",
+  "wikipediaSlug": "Anastasiya_Kuzmina",
+  "wikipediaId": "Q229640",
+  "name": "Anastasiya Kuzmina",
+  "fullName": "Anastasiya Kuzmina",
+  "profileSummary": "Anastasíya Vladímirovna Kuzminá is a Russian-born Slovak biathlete.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kuzmina_A._%E2%80%93_Biathlon_WCh_2024_Nove_Mesto_1976.jpg/330px-Kuzmina_A._%E2%80%93_Biathlon_WCh_2024_Nove_Mesto_1976.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anastasiya_Kuzmina",
+  "dateOfBirth": "1984-08-28",
+  "birthDateParsed": "1984-08-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "57.15",
+  "birthCoordinatesLng": "65.533333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biathlete"
+  ],
+  "qid": "Q229640",
+  "birthPlace": "Tyumen",
+  "fetchedAt": "2026-08-10T12:58:33.169Z"
+}

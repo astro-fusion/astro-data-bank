@@ -1,0 +1,31 @@
+{
+  "publicId": "5ac356a7",
+  "wikipediaSlug": "Daniel_Chester_French",
+  "wikipediaId": "Q720910",
+  "name": "Daniel Chester French",
+  "fullName": "Daniel Chester French",
+  "profileSummary": "Daniel Chester French was an American sculptor in the late 19th and early 20th centuries. His works include The Minute Man, an 1874 statue in Concord, Massachusetts, and his 1920 monumental statue of Abraham Lincoln at the Lincoln Memorial in Washington, D.C.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Daniel_Chester_French_1902_crop.jpg/330px-Daniel_Chester_French_1902_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Chester_French",
+  "dateOfBirth": "1850-04-20",
+  "birthDateParsed": "1850-04-20",
+  "dateOfDeath": "1931-10-07",
+  "deathDateParsed": "1931-10-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sculptor"
+  ],
+  "qid": "Q720910",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:16:58.550Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "6698fffd",
+  "wikipediaSlug": "Eric_Betzig",
+  "wikipediaId": "Q1351105",
+  "name": "Eric Betzig",
+  "fullName": "Eric Betzig",
+  "profileSummary": "Robert Eric Betzig is an American physicist who works as a professor of physics and professor of molecular and cell biology at the University of California, Berkeley. He is also a senior fellow at the Janelia Farm Research Campus in Ashburn, Virginia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eric_Betzig_%28cropped%29.jpg/330px-Eric_Betzig_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Betzig",
+  "dateOfBirth": "1960-01-13",
+  "birthDateParsed": "1960-01-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.281388888",
+  "birthCoordinatesLng": "-83.748333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "chemist"
+  ],
+  "qid": "Q1351105",
+  "birthPlace": "Ann Arbor",
+  "fetchedAt": "2026-08-10T02:04:19.394Z"
+}

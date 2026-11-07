@@ -1,0 +1,33 @@
+{
+  "publicId": "e141f8e3",
+  "wikipediaSlug": "Andrew_Sledd",
+  "wikipediaId": "Q4758596",
+  "name": "Andrew Sledd",
+  "fullName": "Andrew Sledd",
+  "profileSummary": "Andrew Warren Sledd was an American theologian, university professor and university president. A native of Virginia, he was the son of a prominent Methodist minister, and was himself ordained as a minister after earning his bachelor's and master's degrees. He later earned a second master's degree and his doctorate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Andrew_Sledd_%28UF00031408%29.jpg/330px-Andrew_Sledd_%28UF00031408%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Sledd",
+  "dateOfBirth": "1870-11-07",
+  "birthDateParsed": "1870-11-07",
+  "dateOfDeath": "1939-03-16",
+  "deathDateParsed": "1939-03-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.403672",
+  "birthCoordinatesLng": "-79.170205",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "theologian",
+    "Christian minister"
+  ],
+  "qid": "Q4758596",
+  "birthPlace": "Lynchburg",
+  "fetchedAt": "2026-08-05T02:43:13.324Z"
+}

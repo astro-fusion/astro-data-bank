@@ -1,0 +1,32 @@
+{
+  "publicId": "2ea79d01",
+  "wikipediaSlug": "Henry_Taube",
+  "wikipediaId": "Q235983",
+  "name": "Henry Taube",
+  "fullName": "Henry Taube",
+  "profileSummary": "Henry Taube was a Canadian-born American chemist who was awarded the 1983 Nobel Prize in Chemistry for \"his work in the mechanisms of electron-transfer reactions, especially in metal complexes.\" He was the second Canadian-born chemist to win the Nobel Prize, and remains the only Saskatchewanian-born Nobel laureate. Taube completed his undergraduate and master's degrees at the University of Saskatchewan, and his PhD from the University of California, Berkeley. After finishing graduate school, Taube worked at Cornell University, the University of Chicago and Stanford University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Henry_Taube_-_HD.3F.005_%2811086397086%29.jpg/330px-Henry_Taube_-_HD.3F.005_%2811086397086%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Taube",
+  "dateOfBirth": "1915-11-30",
+  "birthDateParsed": "1915-11-30",
+  "dateOfDeath": "2005-11-16",
+  "deathDateParsed": "2005-11-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.7097",
+  "birthCoordinatesLng": "-103.014",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q235983",
+  "birthPlace": "Neudorf",
+  "fetchedAt": "2026-08-10T02:04:41.330Z"
+}

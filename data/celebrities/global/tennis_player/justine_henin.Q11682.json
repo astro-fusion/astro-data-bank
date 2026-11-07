@@ -1,0 +1,32 @@
+{
+  "publicId": "e47b9675",
+  "wikipediaSlug": "Justine_Henin",
+  "wikipediaId": "Q11682",
+  "name": "Justine Henin",
+  "fullName": "Justine Henin",
+  "profileSummary": "Justine Henin is a Belgian former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 117 weeks, including as the year-end No. 1 in 2003, 2006 and 2007. Henin won 43 WTA Tour-level singles titles, including seven majors, as well as an Olympic gold medal at the 2004 Athens Games and two Tour Finals titles. Coming from a country with little success in the sport, Henin helped establish Belgium as a leading force in women's tennis, leading the country to its first Fed Cup crown in 2001. As of 2026, she is still the most recent female player to have reached the finals of all four grand slam tournaments within the same calendar year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Justine_Henin.JPG/330px-Justine_Henin.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Justine_Henin",
+  "dateOfBirth": "1982-06-01",
+  "birthDateParsed": "1982-06-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.639722222",
+  "birthCoordinatesLng": "5.570555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "sports commentator"
+  ],
+  "qid": "Q11682",
+  "birthPlace": "Liège",
+  "fetchedAt": "2026-08-01T14:59:09.274Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "59485264",
+  "wikipediaSlug": "John_Bardeen",
+  "wikipediaId": "Q949",
+  "name": "John Bardeen",
+  "fullName": "John Bardeen",
+  "profileSummary": "John Bardeen was an American physicist. He is the only person to be awarded the Nobel Prize in Physics twice: first in 1956 with William Shockley and Walter Brattain for their invention of the transistor; and again in 1972 with Leon Cooper and John Robert Schrieffer for their microscopic theory of superconductivity, known as the BCS theory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bardeen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Bardeen",
+  "dateOfBirth": "1908-05-23",
+  "birthDateParsed": "1908-05-23",
+  "dateOfDeath": "1991-01-30",
+  "deathDateParsed": "1991-01-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.074722222",
+  "birthCoordinatesLng": "-89.384166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "inventor",
+    "university teacher",
+    "electrical engineer"
+  ],
+  "qid": "Q949",
+  "birthPlace": "Madison",
+  "fetchedAt": "2026-08-10T02:04:39.551Z"
+}

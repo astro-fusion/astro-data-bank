@@ -1,0 +1,34 @@
+{
+  "publicId": "1d8ea2ab",
+  "wikipediaSlug": "Aleksey_Ovchinin",
+  "wikipediaId": "Q4715991",
+  "name": "Aleksey Ovchinin",
+  "fullName": "Aleksey Ovchinin",
+  "profileSummary": "Aleksey Nikolayevich Ovchinin is a Russian cosmonaut and holds the rank of Podpolkovnik in the Russian Air Force Reserve. He was selected as a cosmonaut in 2006 and made his first spaceflight in 2016 on Soyuz TMA-20M, where he also served as commander.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aleksey_Ovchinin_during_ISS_Habitat_Equalization_%26_Process_22105_training_%28Jsc2014e084151%29.jpg/330px-Aleksey_Ovchinin_during_ISS_Habitat_Equalization_%26_Process_22105_training_%28Jsc2014e084151%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksey_Ovchinin",
+  "dateOfBirth": "1971-09-28",
+  "birthDateParsed": "1971-09-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.05",
+  "birthCoordinatesLng": "38.833333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "astronaut",
+    "aircraft pilot",
+    "test cosmonaut"
+  ],
+  "qid": "Q4715991",
+  "birthPlace": "Rybinsk",
+  "fetchedAt": "2026-08-10T06:03:26.847Z"
+}

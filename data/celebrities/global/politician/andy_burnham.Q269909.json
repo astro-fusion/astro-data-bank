@@ -1,0 +1,34 @@
+{
+  "publicId": "5971589f",
+  "wikipediaSlug": "Andy_Burnham",
+  "wikipediaId": "Q269909",
+  "name": "Andy Burnham",
+  "fullName": "Andy Burnham",
+  "profileSummary": "Andrew Murray Burnham is a British politician who has served as Prime Minister of the United Kingdom and Leader of the Labour Party since July 2026. He has been Member of Parliament (MP) for Makerfield in Greater Manchester since June 2026, and was Mayor of Greater Manchester from 2017 to 2026; before that he was MP for Leigh from 2001 to 2017 and held several Cabinet positions. Burnham identifies as a socialist and is associated with the Labour Party's soft left; he is also a member of the Co-operative Party, which is allied with Labour. His political ideology has been called \"Manchesterism\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29_2.jpg/330px-Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Burnham",
+  "dateOfBirth": "1970-01-07",
+  "birthDateParsed": "1970-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.4793",
+  "birthCoordinatesLng": "-2.9373",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "researcher",
+    "administrator",
+    "special adviser"
+  ],
+  "qid": "Q269909",
+  "birthPlace": "Aintree",
+  "fetchedAt": "2026-08-03T16:49:24.171Z"
+}

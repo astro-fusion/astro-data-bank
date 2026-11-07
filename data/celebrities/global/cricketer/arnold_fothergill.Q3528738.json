@@ -1,0 +1,31 @@
+{
+  "publicId": "c7101bd0",
+  "wikipediaSlug": "Arnold_Fothergill",
+  "wikipediaId": "Q3528738",
+  "name": "Arnold Fothergill",
+  "fullName": "Arnold Fothergill",
+  "profileSummary": "Arnold James Fothergill was an English professional cricketer who played first-class cricket for Somerset County Cricket Club and the MCC in a career which spanned from 1870 until 1892. A left-arm fast-medium pace bowler, he appeared for England in two Test matches in 1889.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/AJFothergill.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnold_Fothergill",
+  "dateOfBirth": "1854-08-26",
+  "birthDateParsed": "1854-08-26",
+  "dateOfDeath": "1932-08-01",
+  "deathDateParsed": "1932-08-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.977777777",
+  "birthCoordinatesLng": "-1.613333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3528738",
+  "birthPlace": "Newcastle upon Tyne",
+  "fetchedAt": "2026-07-31T20:08:43.744Z"
+}

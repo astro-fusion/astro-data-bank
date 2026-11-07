@@ -1,0 +1,32 @@
+{
+  "publicId": "398d997b",
+  "wikipediaSlug": "Andrea_Pirlo",
+  "wikipediaId": "Q43926",
+  "name": "Andrea Pirlo",
+  "fullName": "Andrea Pirlo",
+  "profileSummary": "Andrea Pirlo is an Italian football manager and former player who is currently the head coach of UAE Pro League club Dubai United. Widely considered one of the greatest midfielders of all time, Pirlo was known for his vision, technique, creativity, passing, and free kick ability. He is the all-time Italian top assist provider in the UEFA Champions League (15).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Andrea_Pirlo_%28cropped%29.jpg/330px-20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Andrea_Pirlo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Pirlo",
+  "dateOfBirth": "1979-05-19",
+  "birthDateParsed": "1979-05-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.4835",
+  "birthCoordinatesLng": "10.1745",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q43926",
+  "birthPlace": "Flero",
+  "fetchedAt": "2026-08-10T11:27:16.740Z"
+}

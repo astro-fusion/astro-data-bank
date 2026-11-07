@@ -1,0 +1,36 @@
+{
+  "publicId": "bd43a8b1",
+  "wikipediaSlug": "Andrew_Johnson",
+  "wikipediaId": "Q8612",
+  "name": "Andrew Johnson",
+  "fullName": "Andrew Johnson",
+  "profileSummary": "Andrew Johnson was the 17th president of the United States, serving from 1865 to 1869. The 16th vice president, he assumed the presidency following the assassination of Abraham Lincoln. Johnson was a War Democrat who ran with Lincoln on the National Union Party ticket in the 1864 presidential election, coming to office as the American Civil War concluded. Johnson favored quick restoration of the seceded states to the Union without protection for the newly freed people who were formerly enslaved, as well as pardoning ex-Confederates. This led to conflict with the Republican Party-dominated U.S. Congress, culminating in his impeachment by the House of Representatives in 1868. He was acquitted in the Senate by one vote.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/330px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Johnson",
+  "dateOfBirth": "1808-12-29",
+  "birthDateParsed": "1808-12-29",
+  "dateOfDeath": "1875-07-31",
+  "deathDateParsed": "1875-07-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.78",
+  "birthCoordinatesLng": "-78.64",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "statesperson",
+    "tailor",
+    "governor",
+    "mayor"
+  ],
+  "qid": "Q8612",
+  "birthPlace": "Raleigh",
+  "fetchedAt": "2026-08-01T18:07:25.359Z"
+}

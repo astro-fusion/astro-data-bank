@@ -1,0 +1,31 @@
+{
+  "publicId": "267979e2",
+  "wikipediaSlug": "Jamie_Dimon",
+  "wikipediaId": "Q922169",
+  "name": "Jamie Dimon",
+  "fullName": "Jamie Dimon",
+  "profileSummary": "James Dimon is an American businessman who has been the chairman and chief executive officer (CEO) of JPMorgan Chase since 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Chancellor_Rachel_Reeves_meets_Jamie_Dimon_%2854838700663%29_%28cropped%29_%28cropped%29.jpg/330px-Chancellor_Rachel_Reeves_meets_Jamie_Dimon_%2854838700663%29_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamie_Dimon",
+  "dateOfBirth": "1956-03-13",
+  "birthDateParsed": "1956-03-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "banker"
+  ],
+  "qid": "Q922169",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-03T15:52:17.692Z"
+}

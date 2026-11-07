@@ -1,0 +1,35 @@
+{
+  "publicId": "b65d5e71",
+  "wikipediaSlug": "Wassily_Leontief",
+  "wikipediaId": "Q44061",
+  "name": "Wassily Leontief",
+  "fullName": "Wassily Leontief",
+  "profileSummary": "Wassily Wassilyevich Leontief was a Russian-American economist known for his research on input–output analysis and how changes in one economic sector may affect other sectors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wassily_Leontief_1973.jpg/330px-Wassily_Leontief_1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wassily_Leontief",
+  "dateOfBirth": "1905-08-05",
+  "birthDateParsed": "1905-08-05",
+  "dateOfDeath": "1999-02-05",
+  "deathDateParsed": "1999-02-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician",
+    "pedagogue",
+    "policy advisor",
+    "university teacher"
+  ],
+  "qid": "Q44061",
+  "birthPlace": "Munich",
+  "fetchedAt": "2026-08-10T09:44:32.188Z"
+}

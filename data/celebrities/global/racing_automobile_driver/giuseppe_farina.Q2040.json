@@ -1,0 +1,32 @@
+{
+  "publicId": "74598746",
+  "wikipediaSlug": "Giuseppe_Farina",
+  "wikipediaId": "Q2040",
+  "name": "Giuseppe Farina",
+  "fullName": "Giuseppe Farina",
+  "profileSummary": "Emilio Giuseppe \"Nino\" Farina was an Italian racing driver, who competed in Formula One from 1950 to 1956. Farina won the Formula One World Drivers' Championship in its inaugural 1950 season with Alfa Romeo, and won five Grands Prix across seven seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg/330px-Giuseppe_Farina_-_El_Gr%C3%A1fico_1750.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giuseppe_Farina",
+  "dateOfBirth": "1906-10-30",
+  "birthDateParsed": "1906-10-30",
+  "dateOfDeath": "1966-06-30",
+  "deathDateParsed": "1966-06-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.079166666",
+  "birthCoordinatesLng": "7.676111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing automobile driver",
+    "Formula One driver"
+  ],
+  "qid": "Q2040",
+  "birthPlace": "Turin",
+  "fetchedAt": "2026-08-01T16:01:23.259Z"
+}

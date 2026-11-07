@@ -1,0 +1,35 @@
+{
+  "publicId": "a9ddffb1",
+  "wikipediaSlug": "Adam_Riess",
+  "wikipediaId": "Q106454",
+  "name": "Adam Riess",
+  "fullName": "Adam Riess",
+  "profileSummary": "Adam Guy Riess is an American astrophysicist and Bloomberg Distinguished Professor at Johns Hopkins University and the Space Telescope Science Institute. He is known for his research in using supernovae as cosmological probes. Riess shared both the 2006 Shaw Prize in Astronomy and the 2011 Nobel Prize in Physics with Saul Perlmutter and Brian Schmidt for providing evidence that the expansion of the universe is accelerating.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nobel_Prize_2011-Press_Conference_KVA-DSC_7764.jpg/330px-Nobel_Prize_2011-Press_Conference_KVA-DSC_7764.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Riess",
+  "dateOfBirth": "1969-12-16",
+  "birthDateParsed": "1969-12-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "professor",
+    "physicist",
+    "astrophysicist",
+    "researcher"
+  ],
+  "qid": "Q106454",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-06T05:00:56.075Z"
+}

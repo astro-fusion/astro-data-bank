@@ -1,0 +1,32 @@
+{
+  "publicId": "ef3039a7",
+  "wikipediaSlug": "Alper_Gezeravcı",
+  "wikipediaId": "Q118093594",
+  "name": "Alper Gezeravcı",
+  "fullName": "Alper Gezeravcı",
+  "profileSummary": "Alper Gezeravcı is a military pilot and the first Turkish astronaut. He flew to International Space Station by taking part in a special space flight on 18 January 2024 with the Axiom Mission 3 mission.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Axiom_Mission_3_at_the_ISS%2C_Alper_Gezeravc%C4%B1_%28cropped%29.jpg/330px-Axiom_Mission_3_at_the_ISS%2C_Alper_Gezeravc%C4%B1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alper_Gezeravc%C4%B1",
+  "dateOfBirth": "1979-12-02",
+  "birthDateParsed": "1979-12-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.8",
+  "birthCoordinatesLng": "34.616666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "fighter pilot",
+    "astronaut"
+  ],
+  "qid": "Q118093594",
+  "birthPlace": "Mersin",
+  "fetchedAt": "2026-08-10T06:03:26.167Z"
+}

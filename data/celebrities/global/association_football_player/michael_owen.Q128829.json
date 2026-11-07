@@ -1,0 +1,31 @@
+{
+  "publicId": "c2e78ce5",
+  "wikipediaSlug": "Michael_Owen",
+  "wikipediaId": "Q128829",
+  "name": "Michael Owen",
+  "fullName": "Michael Owen",
+  "profileSummary": "Michael James Owen is an English former professional footballer who played as a striker for Liverpool, Real Madrid, Newcastle United, Manchester United, and Stoke City, as well as the England national team. Since retiring from football in 2013, he has become a racehorse breeder and owner and regularly features as a sports pundit and commentator. Regarded as one of the best strikers of his generation, in 2001, Owen was the recipient of the Ballon d'Or. In 2004, he was named by Pelé in the FIFA 100 list of the world's greatest living players.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Michael_Owen.jpg/330px-Michael_Owen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Owen",
+  "dateOfBirth": "1976-12-14",
+  "birthDateParsed": "1976-12-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.2",
+  "birthCoordinatesLng": "-2.883333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q128829",
+  "birthPlace": "Chester",
+  "fetchedAt": "2026-08-10T11:29:03.697Z"
+}

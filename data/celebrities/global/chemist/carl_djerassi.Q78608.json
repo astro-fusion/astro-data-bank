@@ -1,0 +1,37 @@
+{
+  "publicId": "4a0e4950",
+  "wikipediaSlug": "Carl_Djerassi",
+  "wikipediaId": "Q78608",
+  "name": "Carl Djerassi",
+  "fullName": "Carl Djerassi",
+  "profileSummary": "Carl Djerassi was a Viennese-born Bulgarian-American pharmaceutical chemist, novelist, playwright and co-founder of Djerassi Resident Artists Program with Diane Wood Middlebrook. He is best known for his contribution to the development of oral contraceptive pills, nicknamed the \"father of the pill\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carl_Djerassi_HD2004_AIC_Gold_Medal_crop.JPG/330px-Carl_Djerassi_HD2004_AIC_Gold_Medal_crop.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Djerassi",
+  "dateOfBirth": "1923-10-29",
+  "birthDateParsed": "1923-10-29",
+  "dateOfDeath": "2015-01-30",
+  "deathDateParsed": "2015-01-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "writer",
+    "university teacher",
+    "science fiction writer",
+    "scientist",
+    "collector",
+    "playwright"
+  ],
+  "qid": "Q78608",
+  "birthPlace": "Vienna",
+  "fetchedAt": "2026-08-04T15:05:14.859Z"
+}

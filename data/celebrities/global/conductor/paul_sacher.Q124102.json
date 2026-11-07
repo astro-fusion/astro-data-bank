@@ -1,0 +1,36 @@
+{
+  "publicId": "8a1647cc",
+  "wikipediaSlug": "Paul_Sacher",
+  "wikipediaId": "Q124102",
+  "name": "Paul Sacher",
+  "fullName": "Paul Sacher",
+  "profileSummary": "Paul Sacher was a Swiss conductor, patron and billionaire businessman. At the time of his death, Sacher was the majority shareholder of the Hoffmann-La Roche pharmaceutical company and was considered the third richest person in the world, with an estimated net worth of US$13 billion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Beck_Stravinsky_Sacher_%28cropped-Sacher%29.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Sacher",
+  "dateOfBirth": "1906-04-28",
+  "birthDateParsed": "1906-04-28",
+  "dateOfDeath": "1999-05-26",
+  "deathDateParsed": "1999-05-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.560555555",
+  "birthCoordinatesLng": "7.590555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "conductor",
+    "composer",
+    "music educator",
+    "choir director",
+    "patron of the arts",
+    "musician"
+  ],
+  "qid": "Q124102",
+  "birthPlace": "Basel",
+  "fetchedAt": "2026-08-04T03:35:07.990Z"
+}

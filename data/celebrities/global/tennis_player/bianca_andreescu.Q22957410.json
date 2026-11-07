@@ -1,0 +1,31 @@
+{
+  "publicId": "c9740d00",
+  "wikipediaSlug": "Bianca_Andreescu",
+  "wikipediaId": "Q22957410",
+  "name": "Bianca Andreescu",
+  "fullName": "Bianca Andreescu",
+  "profileSummary": "Bianca Vanessa Andreescu is a Canadian professional tennis player. She has been ranked world No. 4 in women's singles by the WTA. Andreescu has won three WTA Tour–level singles titles: the 2019 Indian Wells Open, the 2019 Canadian Open, and a major title at the 2019 US Open. She is the first Canadian, male or female, to win a major singles title, and the first to win the Canadian Open in 50 years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Andreescu_Rosmalen_%28cropped%29.jpg/330px-Andreescu_Rosmalen_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bianca_Andreescu",
+  "dateOfBirth": "2000-06-16",
+  "birthDateParsed": "2000-06-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.6",
+  "birthCoordinatesLng": "-79.65",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q22957410",
+  "birthPlace": "Mississauga",
+  "fetchedAt": "2026-08-01T14:59:35.080Z"
+}

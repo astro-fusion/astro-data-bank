@@ -1,0 +1,36 @@
+{
+  "publicId": "18775529",
+  "wikipediaSlug": "Ferenc_Krausz",
+  "wikipediaId": "Q86970",
+  "name": "Ferenc Krausz",
+  "fullName": "Ferenc Krausz",
+  "profileSummary": "Ferenc Krausz is a Hungarian physicist working in attosecond science. He was a director at the Max Planck Institute of Quantum Optics and a professor of experimental physics at LMU Munich in Germany. His research team generated and measured the first attosecond light pulse and used it for capturing electrons' motion inside atoms, marking the birth of attophysics. In 2023, jointly with Pierre Agostini and Anne L'Huillier, he was awarded the Nobel Prize in Physics. Since November 2025, he has been Chair Professor at Department of Physics in The University of Hong Kong, Pokfulam, Hong Kong.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ferenc_Krausz_%28cropped%29.jpg/330px-Ferenc_Krausz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferenc_Krausz",
+  "dateOfBirth": "1962-05-17",
+  "birthDateParsed": "1962-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.371666666",
+  "birthCoordinatesLng": "18.208611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "theoretical physicist",
+    "nuclear physicist",
+    "laser physicist",
+    "electrical engineer"
+  ],
+  "qid": "Q86970",
+  "birthPlace": "Mór",
+  "fetchedAt": "2026-08-06T05:02:04.383Z"
+}

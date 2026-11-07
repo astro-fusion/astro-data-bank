@@ -1,0 +1,34 @@
+{
+  "publicId": "c3a6b720",
+  "wikipediaSlug": "Auguste_Beernaert",
+  "wikipediaId": "Q202049",
+  "name": "Auguste Beernaert",
+  "fullName": "Auguste Beernaert",
+  "profileSummary": "Auguste Marie François Beernaert was the prime minister of Belgium from October 1884 to March 1894, and the 1909 Nobel Peace Prize laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Auguste_Beernaert%2803%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Auguste_Beernaert",
+  "dateOfBirth": "1829-07-26",
+  "birthDateParsed": "1829-07-26",
+  "dateOfDeath": "1912-10-06",
+  "deathDateParsed": "1912-10-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.225833333",
+  "birthCoordinatesLng": "2.919444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q202049",
+  "birthPlace": "Ostend",
+  "fetchedAt": "2026-08-04T02:12:44.804Z"
+}

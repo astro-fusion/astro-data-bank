@@ -1,0 +1,32 @@
+{
+  "publicId": "e3a74090",
+  "wikipediaSlug": "Alex_Inglethorpe",
+  "wikipediaId": "Q4717218",
+  "name": "Alex Inglethorpe",
+  "fullName": "Alex Inglethorpe",
+  "profileSummary": "Alexander Matthew Inglethorpe is an English former footballer who played as a forward for Watford, Leyton Orient, Exeter City and Barnet. He is now the Academy Director at Liverpool FC.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Inglethorpe",
+  "dateOfBirth": "1971-11-14",
+  "birthDateParsed": "1971-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.336111111",
+  "birthCoordinatesLng": "-0.2675",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q4717218",
+  "birthPlace": "Epsom",
+  "fetchedAt": "2026-08-01T05:19:45.333Z"
+}

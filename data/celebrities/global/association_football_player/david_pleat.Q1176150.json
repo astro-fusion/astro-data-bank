@@ -1,0 +1,34 @@
+{
+  "publicId": "2ac64c51",
+  "wikipediaSlug": "David_Pleat",
+  "wikipediaId": "Q1176150",
+  "name": "David Pleat",
+  "fullName": "David Pleat",
+  "profileSummary": "David John Pleat is an English football player turned manager, and sports commentator. Pleat made 185 Football League appearances for five clubs, scoring 26 goals. He had two spells as manager of Luton Town, and four as manager of Tottenham Hotspur.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Pleat",
+  "dateOfBirth": "1945-01-15",
+  "birthDateParsed": "1945-01-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.955",
+  "birthCoordinatesLng": "-1.149166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "television presenter",
+    "association football coach",
+    "sports commentator"
+  ],
+  "qid": "Q1176150",
+  "birthPlace": "Nottingham",
+  "fetchedAt": "2026-08-01T05:21:32.900Z"
+}

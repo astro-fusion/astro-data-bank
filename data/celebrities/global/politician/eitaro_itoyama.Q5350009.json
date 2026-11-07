@@ -1,0 +1,34 @@
+{
+  "publicId": "af159d38",
+  "wikipediaSlug": "Eitaro_Itoyama",
+  "wikipediaId": "Q5350009",
+  "name": "Eitaro Itoyama",
+  "fullName": "Eitaro Itoyama",
+  "profileSummary": "Eitaro Itoyama  is one of Japan's wealthiest citizens with a fortune estimated to exceed $500 million. He is a controversial figure in Japanese political and commercial life.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eitaro_Itoyama",
+  "dateOfBirth": "1942-06-04",
+  "birthDateParsed": "1942-06-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.689444444",
+  "birthCoordinatesLng": "139.691666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lyricist",
+    "writer",
+    "businessperson"
+  ],
+  "qid": "Q5350009",
+  "birthPlace": "Tokyo",
+  "fetchedAt": "2026-08-04T03:34:10.669Z"
+}

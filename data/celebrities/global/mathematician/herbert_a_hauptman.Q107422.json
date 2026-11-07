@@ -1,0 +1,35 @@
+{
+  "publicId": "e30755e8",
+  "wikipediaSlug": "Herbert_A._Hauptman",
+  "wikipediaId": "Q107422",
+  "name": "Herbert A. Hauptman",
+  "fullName": "Herbert A. Hauptman",
+  "profileSummary": "Herbert Aaron Hauptman was an American mathematician and Nobel laureate. He pioneered and developed a mathematical method that has changed the whole field of chemistry and opened a new era in research in determination of molecular structures of crystallized materials. Today, Hauptman's direct methods, which he continued to improve and refine, are routinely used to solve complicated structures. It was the application of this mathematical method to a wide variety of chemical structures that led the Royal Swedish Academy of Sciences to name Hauptman and Jerome Karle recipients of the 1985 Nobel Prize in Chemistry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Herbert_Hauptman_-_UB_2009.jpg/330px-Herbert_Hauptman_-_UB_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herbert_A._Hauptman",
+  "dateOfBirth": "1917-02-14",
+  "birthDateParsed": "1917-02-14",
+  "dateOfDeath": "2011-10-23",
+  "deathDateParsed": "2011-10-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "chemist",
+    "university teacher",
+    "crystallographer",
+    "philosopher"
+  ],
+  "qid": "Q107422",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T02:04:28.171Z"
+}

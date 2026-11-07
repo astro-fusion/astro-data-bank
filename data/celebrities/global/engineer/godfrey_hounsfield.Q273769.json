@@ -1,0 +1,32 @@
+{
+  "publicId": "4157b484",
+  "wikipediaSlug": "Godfrey_Hounsfield",
+  "wikipediaId": "Q273769",
+  "name": "Godfrey Hounsfield",
+  "fullName": "Godfrey Hounsfield",
+  "profileSummary": "Sir Godfrey Newbold Hounsfield was a British electrical engineer who shared the 1979 Nobel Prize for Physiology or Medicine with Allan MacLeod Cormack for his part in developing the diagnostic technique of X-ray computed tomography (CT).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Godfrey_Hounsfield.jpg/330px-Godfrey_Hounsfield.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Godfrey_Hounsfield",
+  "dateOfBirth": "1919-08-28",
+  "birthDateParsed": "1919-08-28",
+  "dateOfDeath": "2004-08-12",
+  "deathDateParsed": "2004-08-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.18",
+  "birthCoordinatesLng": "-0.82",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "physicist"
+  ],
+  "qid": "Q273769",
+  "birthPlace": "Sutton on Trent",
+  "fetchedAt": "2026-08-10T03:15:29.500Z"
+}

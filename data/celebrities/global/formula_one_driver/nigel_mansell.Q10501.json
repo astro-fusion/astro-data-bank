@@ -1,0 +1,32 @@
+{
+  "publicId": "6f9c01a7",
+  "wikipediaSlug": "Nigel_Mansell",
+  "wikipediaId": "Q10501",
+  "name": "Nigel Mansell",
+  "fullName": "Nigel Mansell",
+  "profileSummary": "Nigel Ernest James Mansell is a British former racing driver who competed in Formula One from 1980 to 1995. Mansell won the Formula One World Drivers' Championship in 1992 with Williams, and won 31 Grands Prix across 15 seasons. In American open-wheel racing, Mansell won the IndyCar World Series in 1993 with Newman/Haas Racing, and remains the only driver to have simultaneously held both the World Drivers' Championship and the American open-wheel National Championship.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nigel_Mansell_-_Mexican_Grand_Prix_01_%28cropped%29.jpeg/330px-Nigel_Mansell_-_Mexican_Grand_Prix_01_%28cropped%29.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nigel_Mansell",
+  "dateOfBirth": "1953-08-08",
+  "birthDateParsed": "1953-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.0625",
+  "birthCoordinatesLng": "-2.215",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q10501",
+  "birthPlace": "Upton upon Severn",
+  "fetchedAt": "2026-08-01T16:01:56.110Z"
+}

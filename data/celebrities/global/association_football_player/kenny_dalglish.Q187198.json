@@ -1,0 +1,32 @@
+{
+  "publicId": "23096efe",
+  "wikipediaSlug": "Kenny_Dalglish",
+  "wikipediaId": "Q187198",
+  "name": "Kenny Dalglish",
+  "fullName": "Kenny Dalglish",
+  "profileSummary": "Sir Kenneth Mathieson Dalglish is a Scottish former football player and manager. During his career, he made 338 appearances for Celtic and 515 for Liverpool, playing as a forward, and earned a record 102 caps for the Scotland national team, scoring 30 goals, also a joint record. He is regarded as one of the greatest players of all time. Dalglish won the Ballon d'Or Silver Award in 1983, the PFA Players' Player of the Year in 1983, and the FWA Footballer of the Year in 1979 and 1983. In 2009, FourFourTwo magazine named Dalglish the greatest striker in post-war British football, and he has been inducted into both the Scottish and English Football Halls of Fame. He is highly regarded by Liverpool fans, who still affectionately refer to him as \"King Kenny\", and in 2006 voted him top of the fans' poll \"100 Players Who Shook the Kop\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kenny_Dalglish_2009_Singapore.jpg/330px-Kenny_Dalglish_2009_Singapore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenny_Dalglish",
+  "dateOfBirth": "1951-03-04",
+  "birthDateParsed": "1951-03-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q187198",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-10T11:28:38.938Z"
+}

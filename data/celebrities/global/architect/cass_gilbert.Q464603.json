@@ -1,0 +1,32 @@
+{
+  "publicId": "fc2008d9",
+  "wikipediaSlug": "Cass_Gilbert",
+  "wikipediaId": "Q464603",
+  "name": "Cass Gilbert",
+  "fullName": "Cass Gilbert",
+  "profileSummary": "Cass Gilbert was an American architect. An early proponent of skyscrapers, his works include the Woolworth Building, the United States Supreme Court Building, the state capitols of Minnesota, Arkansas, and West Virginia, the Detroit Public Library, and the Saint Louis Art Museum and Public Library. His public buildings in the Beaux Arts style reflect the optimistic American sense that the nation was heir to Greek democracy, Roman law and Renaissance humanism. Gilbert's achievements were recognized in his lifetime; he served as president of the American Institute of Architects in 1908–09.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cass_Gilbert_1907.jpg/330px-Cass_Gilbert_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cass_Gilbert",
+  "dateOfBirth": "1859-11-29",
+  "birthDateParsed": "1859-11-29",
+  "dateOfDeath": "1934-05-17",
+  "deathDateParsed": "1934-05-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.9461",
+  "birthCoordinatesLng": "-82.0122",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architect",
+    "painter"
+  ],
+  "qid": "Q464603",
+  "birthPlace": "Zanesville",
+  "fetchedAt": "2026-08-05T03:16:21.070Z"
+}

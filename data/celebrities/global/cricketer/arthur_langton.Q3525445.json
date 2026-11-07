@@ -1,0 +1,31 @@
+{
+  "publicId": "de2f0611",
+  "wikipediaSlug": "Arthur_Langton",
+  "wikipediaId": "Q3525445",
+  "name": "Arthur Langton",
+  "fullName": "Arthur Langton",
+  "profileSummary": "Arthur Chudleigh Beaumont \"Chud\" Langton was a South African cricketer who played in 15 Tests from 1935 to 1939. Jack Fingleton rated him amongst the best medium-paced bowlers he ever saw.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arthur_Langton_c1935.jpg/330px-Arthur_Langton_c1935.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Langton",
+  "dateOfBirth": "1912-03-02",
+  "birthDateParsed": "1912-03-02",
+  "dateOfDeath": "1942-11-27",
+  "deathDateParsed": "1942-11-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.6009",
+  "birthCoordinatesLng": "30.3796",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525445",
+  "birthPlace": "Pietermaritzburg",
+  "fetchedAt": "2026-07-31T20:20:14.324Z"
+}

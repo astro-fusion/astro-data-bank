@@ -1,0 +1,32 @@
+{
+  "publicId": "835f04c1",
+  "wikipediaSlug": "Bill_Edrich",
+  "wikipediaId": "Q3528662",
+  "name": "Bill Edrich",
+  "fullName": "Bill Edrich",
+  "profileSummary": "William John Edrich was a first-class cricketer who played for Middlesex, Marylebone Cricket Club (MCC), Norfolk and England.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bill_Edrich_1937.jpg/330px-Bill_Edrich_1937.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Edrich",
+  "dateOfBirth": "1916-03-26",
+  "birthDateParsed": "1916-03-26",
+  "dateOfDeath": "1986-04-24",
+  "deathDateParsed": "1986-04-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.625",
+  "birthCoordinatesLng": "1.491",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "association football player"
+  ],
+  "qid": "Q3528662",
+  "birthPlace": "Lingwood and Burlingham",
+  "fetchedAt": "2026-07-31T20:09:12.216Z"
+}

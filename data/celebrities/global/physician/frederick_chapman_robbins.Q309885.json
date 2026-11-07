@@ -1,0 +1,36 @@
+{
+  "publicId": "ab625857",
+  "wikipediaSlug": "Frederick_Chapman_Robbins",
+  "wikipediaId": "Q309885",
+  "name": "Frederick Chapman Robbins",
+  "fullName": "Frederick Chapman Robbins",
+  "profileSummary": "Frederick Chapman Robbins was an American pediatrician and virologist. He was born in Auburn, Alabama, and grew up in Columbia, Missouri, attending David H. Hickman High School.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Frederick_Chapman_Robbins_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Chapman_Robbins",
+  "dateOfBirth": "1916-08-25",
+  "birthDateParsed": "1916-08-25",
+  "dateOfDeath": "2003-08-04",
+  "deathDateParsed": "2003-08-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.597684",
+  "birthCoordinatesLng": "-85.480823",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "university teacher",
+    "virologist",
+    "physiologist",
+    "pediatrician",
+    "microbiologist"
+  ],
+  "qid": "Q309885",
+  "birthPlace": "Auburn",
+  "fetchedAt": "2026-08-10T03:15:25.684Z"
+}

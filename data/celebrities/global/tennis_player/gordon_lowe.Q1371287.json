@@ -1,0 +1,31 @@
+{
+  "publicId": "b0415dc2",
+  "wikipediaSlug": "Gordon_Lowe",
+  "wikipediaId": "Q1371287",
+  "name": "Gordon Lowe",
+  "fullName": "Gordon Lowe",
+  "profileSummary": "Sir Francis Gordon Lowe, 2nd Baronet was a British male tennis player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/F_G_Lowe.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Lowe",
+  "dateOfBirth": "1884-06-21",
+  "birthDateParsed": "1884-06-21",
+  "dateOfDeath": "1972-05-17",
+  "deathDateParsed": "1972-05-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.45805",
+  "birthCoordinatesLng": "-1.919047222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q1371287",
+  "birthPlace": "Edgbaston",
+  "fetchedAt": "2026-08-01T13:11:44.950Z"
+}

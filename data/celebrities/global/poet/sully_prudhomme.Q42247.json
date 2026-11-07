@@ -1,0 +1,35 @@
+{
+  "publicId": "8862fabe",
+  "wikipediaSlug": "Sully_Prudhomme",
+  "wikipediaId": "Q42247",
+  "name": "Sully Prudhomme",
+  "fullName": "Sully Prudhomme",
+  "profileSummary": "René François Armand \"Sully\" Prudhomme was a French poet and essayist. He was the first winner of the Nobel Prize in Literature, in 1901.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sully_Prudhomme%2C_Ren%C3%A9-Fran%C3%A7ois-Armand%2C_BNF_Gallica.jpg/330px-Sully_Prudhomme%2C_Ren%C3%A9-Fran%C3%A7ois-Armand%2C_BNF_Gallica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sully_Prudhomme",
+  "dateOfBirth": "1839-03-16",
+  "birthDateParsed": "1839-03-16",
+  "dateOfDeath": "1907-09-06",
+  "deathDateParsed": "1907-09-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.875508333",
+  "birthCoordinatesLng": "2.357852777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "essayist",
+    "diarist",
+    "philosopher"
+  ],
+  "qid": "Q42247",
+  "birthPlace": "10ᵗʰ arrondissement of Paris",
+  "fetchedAt": "2026-08-06T07:42:41.673Z"
+}

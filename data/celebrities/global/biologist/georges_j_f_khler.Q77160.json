@@ -1,0 +1,34 @@
+{
+  "publicId": "0bde0008",
+  "wikipediaSlug": "Georges_J._F._Köhler",
+  "wikipediaId": "Q77160",
+  "name": "Georges J. F. Köhler",
+  "fullName": "Georges J. F. Köhler",
+  "profileSummary": "Georges Jean Franz Köhler(German pronunciation: [ˈʒɔʁʃ ˈkøːlɐ] ; 17 April 1946 – 1 March 1995) was a German biologist and immunologist who shared the 1984 Nobel Prize in Physiology or Medicine with César Milstein and Niels Kaj Jerne \"for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies\". Köhler and Milstein developed the hybridoma technique, a method for producing monoclonal antibodies of predefined specificity by fusing antibody-producing B cells with immortal myeloma cells.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Georges_J._F._K%C3%B6hler.jpg/330px-Georges_J._F._K%C3%B6hler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_J._F._K%C3%B6hler",
+  "dateOfBirth": "1946-04-17",
+  "birthDateParsed": "1946-04-17",
+  "dateOfDeath": "1995-03-01",
+  "deathDateParsed": "1995-03-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "immunologist",
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q77160",
+  "birthPlace": "Munich",
+  "fetchedAt": "2026-08-10T03:15:17.837Z"
+}

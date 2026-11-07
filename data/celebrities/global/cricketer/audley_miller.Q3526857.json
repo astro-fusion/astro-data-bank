@@ -1,0 +1,32 @@
+{
+  "publicId": "7658ec6f",
+  "wikipediaSlug": "Audley_Miller",
+  "wikipediaId": "Q3526857",
+  "name": "Audley Miller",
+  "fullName": "Audley Miller",
+  "profileSummary": "Audley Montague Miller was an amateur cricketer who played one Test match for England in 1896, and stood as an umpire in two Tests, also in 1896.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Audley_Montague_Miller.png/330px-Audley_Montague_Miller.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Audley_Miller",
+  "dateOfBirth": "1869-10-19",
+  "birthDateParsed": "1869-10-19",
+  "dateOfDeath": "1959-06-26",
+  "deathDateParsed": "1959-06-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.51",
+  "birthCoordinatesLng": "-2.61",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire"
+  ],
+  "qid": "Q3526857",
+  "birthPlace": "Brentry",
+  "fetchedAt": "2026-07-31T20:08:57.380Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "9fcc0f43",
+  "wikipediaSlug": "Heike_Kamerlingh_Onnes",
+  "wikipediaId": "Q62891",
+  "name": "Heike Kamerlingh Onnes",
+  "fullName": "Heike Kamerlingh Onnes",
+  "profileSummary": "Heike Kamerlingh Onnes was a Dutch experimental physicist who became the first to liquefy helium, cooling it to near 1.5 kelvin (K). For this work, he was awarded the Nobel Prize in Physics in 1913.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kamerlingh_portret.jpg/330px-Kamerlingh_portret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes",
+  "dateOfBirth": "1853-09-21",
+  "birthDateParsed": "1853-09-21",
+  "dateOfDeath": "1926-02-21",
+  "deathDateParsed": "1926-02-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.218888888",
+  "birthCoordinatesLng": "6.5675",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "inventor",
+    "university teacher",
+    "scientist"
+  ],
+  "qid": "Q62891",
+  "birthPlace": "Groningen",
+  "fetchedAt": "2026-08-06T05:02:14.407Z"
+}

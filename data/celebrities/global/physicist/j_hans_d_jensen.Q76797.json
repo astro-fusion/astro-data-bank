@@ -1,0 +1,33 @@
+{
+  "publicId": "69ec420b",
+  "wikipediaSlug": "J._Hans_D._Jensen",
+  "wikipediaId": "Q76797",
+  "name": "J. Hans D. Jensen",
+  "fullName": "J. Hans D. Jensen",
+  "profileSummary": "Johannes Hans Daniel Jensen was a German theoretical physicist. During World War II, Jensen worked on the German nuclear energy project, known as the Uranium Club, where he contributed to the separation of uranium isotopes. After the war, Jensen was a professor at the University of Heidelberg. He was a visiting professor at the University of Wisconsin–Madison, the Institute for Advanced Study, University of California, Berkeley, Indiana University, and the California Institute of Technology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Johannes_Hans_Daniel_Jensen_%281907%E2%80%931973%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J._Hans_D._Jensen",
+  "dateOfBirth": "1907-06-25",
+  "birthDateParsed": "1907-06-25",
+  "dateOfDeath": "1973-02-11",
+  "deathDateParsed": "1973-02-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "nuclear physicist"
+  ],
+  "qid": "Q76797",
+  "birthPlace": "Hamburg",
+  "fetchedAt": "2026-08-06T05:02:17.972Z"
+}

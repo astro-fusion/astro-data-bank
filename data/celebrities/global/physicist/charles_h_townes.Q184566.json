@@ -1,0 +1,34 @@
+{
+  "publicId": "31df14b2",
+  "wikipediaSlug": "Charles_H._Townes",
+  "wikipediaId": "Q184566",
+  "name": "Charles H. Townes",
+  "fullName": "Charles H. Townes",
+  "profileSummary": "Charles Hard Townes was an American physicist. Townes worked on the theory and application of the maser, for which he obtained the fundamental patent, and other work in quantum electronics associated with both maser and laser devices. He shared the 1964 Nobel Prize in Physics with Nikolay Basov and Alexander Prokhorov. Townes was an adviser to the U.S. Government, meeting every President from Harry S. Truman (1945) to Bill Clinton (1999).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Charles_Townes.jpg/330px-Charles_Townes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_H._Townes",
+  "dateOfBirth": "1915-07-28",
+  "birthDateParsed": "1915-07-28",
+  "dateOfDeath": "2015-01-27",
+  "deathDateParsed": "2015-01-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.844444444",
+  "birthCoordinatesLng": "-82.385555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "nuclear physicist",
+    "university teacher",
+    "inventor"
+  ],
+  "qid": "Q184566",
+  "birthPlace": "Greenville",
+  "fetchedAt": "2026-08-06T05:01:20.578Z"
+}

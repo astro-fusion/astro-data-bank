@@ -1,0 +1,34 @@
+{
+  "publicId": "84b2ab72",
+  "wikipediaSlug": "Robin_Milner",
+  "wikipediaId": "Q92643",
+  "name": "Robin Milner",
+  "fullName": "Robin Milner",
+  "profileSummary": "Arthur John Robin Gorell Milner was a British computer scientist, and he won the 1991 ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Robin_Milner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robin_Milner",
+  "dateOfBirth": "1934-01-13",
+  "birthDateParsed": "1934-01-13",
+  "dateOfDeath": "2010-03-20",
+  "deathDateParsed": "2010-03-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.371388888",
+  "birthCoordinatesLng": "-4.142222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "university teacher",
+    "information scientist"
+  ],
+  "qid": "Q92643",
+  "birthPlace": "Plymouth",
+  "fetchedAt": "2026-08-10T04:29:35.467Z"
+}

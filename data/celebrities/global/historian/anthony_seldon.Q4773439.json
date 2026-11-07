@@ -1,0 +1,33 @@
+{
+  "publicId": "ecb18b8d",
+  "wikipediaSlug": "Anthony_Seldon",
+  "wikipediaId": "Q4773439",
+  "name": "Anthony Seldon",
+  "fullName": "Anthony Seldon",
+  "profileSummary": "Sir Anthony Francis Seldon is a British contemporary historian and educator. As an author, he is known for his political biographies of consecutive British Prime Ministers, John Major, Tony Blair, Gordon Brown, David Cameron, Theresa May, Boris Johnson, and Liz Truss, and as an educator, the Master of Wellington College, in Berkshire. Seldon is the author or editor of more than 50 books on contemporary history, politics, and education.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Anthony_Seldon.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Seldon",
+  "dateOfBirth": "1953-08-02",
+  "birthDateParsed": "1953-08-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5152",
+  "birthCoordinatesLng": "-0.0462",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "biographer",
+    "teacher"
+  ],
+  "qid": "Q4773439",
+  "birthPlace": "Stepney",
+  "fetchedAt": "2026-08-02T05:21:23.856Z"
+}

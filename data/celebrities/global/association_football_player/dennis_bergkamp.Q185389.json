@@ -1,0 +1,32 @@
+{
+  "publicId": "382c1730",
+  "wikipediaSlug": "Dennis_Bergkamp",
+  "wikipediaId": "Q185389",
+  "name": "Dennis Bergkamp",
+  "fullName": "Dennis Bergkamp",
+  "profileSummary": "Dennis Nicolaas Maria Bergkamp is a Dutch professional football coach and former player. Originally a wide midfielder, Bergkamp was moved to main striker while still a teenager and then played as a deeper lying forward for the remainder of his career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dennis_Bergkamp_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Bergkamp",
+  "dateOfBirth": "1969-05-10",
+  "birthDateParsed": "1969-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.366666666",
+  "birthCoordinatesLng": "4.883333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q185389",
+  "birthPlace": "Amsterdam",
+  "fetchedAt": "2026-08-10T11:27:32.342Z"
+}

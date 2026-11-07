@@ -1,0 +1,37 @@
+{
+  "publicId": "8b06740b",
+  "wikipediaSlug": "Marvin_Minsky",
+  "wikipediaId": "Q204815",
+  "name": "Marvin Minsky",
+  "fullName": "Marvin Minsky",
+  "profileSummary": "Marvin Lee Minsky was an American mathematician who conducted research in the cognitive and computer science aspects of artificial intelligence (AI). After three years as a Junior Fellow of the Harvard Society of Fellows, Minsky joined the faculty at the Massachusetts Institute of Technology (MIT) in 1958 and spent the rest of his career at that institution. There, he co-founded MIT's AI laboratory, among other initiatives, and wrote extensively about AI and philosophy. Minsky, Claude Shannon, Nathaniel Rochester, and John McCarthy have been called the \"fathers of AI\" due to their participation in the Dartmouth workshop. At the time he was made emeritus, Minsky was the Toshiba Professor of Media Art & Sciences at MIT.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Marvin_Minsky_at_OLPCb_%283x4_cropped%29.jpg/330px-Marvin_Minsky_at_OLPCb_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marvin_Minsky",
+  "dateOfBirth": "1927-08-09",
+  "birthDateParsed": "1927-08-09",
+  "dateOfDeath": "2016-01-24",
+  "deathDateParsed": "2016-01-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "university teacher",
+    "artificial intelligence researcher",
+    "naturalist",
+    "docent",
+    "philosopher"
+  ],
+  "qid": "Q204815",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T04:29:19.871Z"
+}

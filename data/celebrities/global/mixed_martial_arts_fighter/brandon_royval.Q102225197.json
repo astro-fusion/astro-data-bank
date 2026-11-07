@@ -1,0 +1,31 @@
+{
+  "publicId": "f1ae7a48",
+  "wikipediaSlug": "Brandon_Royval",
+  "wikipediaId": "Q102225197",
+  "name": "Brandon Royval",
+  "fullName": "Brandon Royval",
+  "profileSummary": "Brandon Matthew Royval is an American professional mixed martial artist. He currently competes in the Flyweight division of the Ultimate Fighting Championship (UFC). A professional since 2012, Royval has also formerly competed for Legacy Fighting Alliance, where he is a former Legacy Fighting Alliance Flyweight Champion. As of July 11, 2026, he is #3 in the Meta UFC flyweight rankings.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brandon_Royval",
+  "dateOfBirth": "1992-08-06",
+  "birthDateParsed": "1992-08-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.739166666",
+  "birthCoordinatesLng": "-104.984722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q102225197",
+  "birthPlace": "Denver",
+  "fetchedAt": "2026-08-01T17:04:23.443Z"
+}

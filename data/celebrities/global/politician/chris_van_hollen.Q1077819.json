@@ -1,0 +1,32 @@
+{
+  "publicId": "07a7de51",
+  "wikipediaSlug": "Chris_Van_Hollen",
+  "wikipediaId": "Q1077819",
+  "name": "Chris Van Hollen",
+  "fullName": "Chris Van Hollen",
+  "profileSummary": "Christopher Van Hollen Jr. is an American attorney and politician serving as the senior United States senator from Maryland, a seat he has held since 2017. A member of the Democratic Party, he served as the U.S. representative for Maryland's 8th congressional district from 2003 to 2017 and as a Maryland state senator from 1995 to 2003.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Chris_Van_Hollen_official_portrait_115th_Congress.jpg/330px-Chris_Van_Hollen_official_portrait_115th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Van_Hollen",
+  "dateOfBirth": "1959-01-10",
+  "birthDateParsed": "1959-01-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.86",
+  "birthCoordinatesLng": "67.01",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q1077819",
+  "birthPlace": "Karachi",
+  "fetchedAt": "2026-08-02T02:16:02.324Z"
+}

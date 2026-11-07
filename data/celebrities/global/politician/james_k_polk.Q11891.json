@@ -1,0 +1,36 @@
+{
+  "publicId": "65e291d1",
+  "wikipediaSlug": "James_K._Polk",
+  "wikipediaId": "Q11891",
+  "name": "James K. Polk",
+  "fullName": "James K. Polk",
+  "profileSummary": "James Knox Polk was the 11th president of the United States, serving from 1845 to 1849. A protégé of Andrew Jackson and a member of the Democratic Party, he was an advocate of American expansionism and Jacksonian democracy. Polk saw Texas join the Union in his first year in office, one of the precipitating causes that soon led the U.S. into the Mexican–American War. The settlement of that war expanded American territory to the Pacific Ocean. During his term, the dispute over the Oregon Territory with the United Kingdom was resolved as well, creating the present U.S.-Canadian boundary.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Polk_crop.jpg/330px-Polk_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_K._Polk",
+  "dateOfBirth": "1795-11-02",
+  "birthDateParsed": "1795-11-02",
+  "dateOfDeath": "1849-06-15",
+  "deathDateParsed": "1849-06-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.085737",
+  "birthCoordinatesLng": "-80.888167",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "statesperson",
+    "planter class",
+    "governor",
+    "jurist"
+  ],
+  "qid": "Q11891",
+  "birthPlace": "Pineville",
+  "fetchedAt": "2026-08-01T18:08:20.737Z"
+}

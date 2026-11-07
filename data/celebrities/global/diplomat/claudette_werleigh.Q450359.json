@@ -1,0 +1,31 @@
+{
+  "publicId": "6768f6d2",
+  "wikipediaSlug": "Claudette_Werleigh",
+  "wikipediaId": "Q450359",
+  "name": "Claudette Werleigh",
+  "fullName": "Claudette Werleigh",
+  "profileSummary": "Claudette Werleigh  is a Haitian politician who served as the prime minister of Haiti from 1995 to 1996. She was Haiti's first female prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Claudette_Werleigh_1993_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudette_Werleigh",
+  "dateOfBirth": "1946-09-26",
+  "birthDateParsed": "1946-09-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.75",
+  "birthCoordinatesLng": "-72.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat"
+  ],
+  "qid": "Q450359",
+  "birthPlace": "Cap-Haïtien",
+  "fetchedAt": "2026-08-04T00:55:19.375Z"
+}

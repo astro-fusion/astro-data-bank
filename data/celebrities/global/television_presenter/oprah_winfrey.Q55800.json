@@ -1,0 +1,43 @@
+{
+  "publicId": "9792723e",
+  "wikipediaSlug": "Oprah_Winfrey",
+  "wikipediaId": "Q55800",
+  "name": "Oprah Winfrey",
+  "fullName": "Oprah Winfrey",
+  "profileSummary": "Oprah Gail Winfrey is an American talk show host, television producer, actress, author, and media proprietor. She is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, which ran in national syndication for 25 years, from 1986 to 2011. Globally, she is the richest Black woman and the wealthiest female celebrity. Dubbed the \"Queen of All Media\", she was the richest African-American of the 20th century and was once the world's only Black billionaire. By 2007, she was often ranked as the most influential woman in the world and in 2026 was named the greatest living self-made American.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oprah_Winfrey_2016.jpg/330px-Oprah_Winfrey_2016.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oprah_Winfrey",
+  "dateOfBirth": "1954-01-29",
+  "birthDateParsed": "1954-01-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.0581",
+  "birthCoordinatesLng": "-89.5883",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "patron of the arts",
+    "television producer",
+    "film producer",
+    "businessperson",
+    "actor",
+    "voice actor",
+    "writer",
+    "talk show host",
+    "autobiographer",
+    "journalist",
+    "presenter",
+    "podcaster"
+  ],
+  "qid": "Q55800",
+  "birthPlace": "Kosciusko",
+  "fetchedAt": "2026-08-04T03:35:26.955Z"
+}

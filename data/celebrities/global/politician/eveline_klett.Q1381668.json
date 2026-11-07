@@ -1,0 +1,31 @@
+{
+  "publicId": "afb29e7d",
+  "wikipediaSlug": "Eveline_Klett",
+  "wikipediaId": "Q1381668",
+  "name": "Eveline Klett",
+  "fullName": "Eveline Klett",
+  "profileSummary": "Eveline Klett is a German former politician who was a member of the State Council of East Germany, the country's collective head of state, from 1986 until 1989.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eveline_Klett",
+  "dateOfBirth": "1949-10-09",
+  "birthDateParsed": "1949-10-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.6975",
+  "birthCoordinatesLng": "12.558888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q1381668",
+  "birthPlace": "Reinsdorf",
+  "fetchedAt": "2026-08-04T00:56:07.007Z"
+}

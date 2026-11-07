@@ -1,0 +1,36 @@
+{
+  "publicId": "7e896f7f",
+  "wikipediaSlug": "Bernie_Sanders",
+  "wikipediaId": "Q359442",
+  "name": "Bernie Sanders",
+  "fullName": "Bernie Sanders",
+  "profileSummary": "Bernard Sanders is an American politician and activist serving as the senior United States senator from Vermont, a seat he has held since 2007. He is the longest-serving independent in U.S. congressional history, but maintains a close relationship with the Democratic Party, having caucused with House and Senate Democrats for most of his congressional career and sought the party's presidential nomination in 2016 and 2020. A self-described democratic socialist, Sanders is regarded as one of the main leaders of the 21st-century American progressive movement.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg/330px-Bernie_Sanders_February_2026_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+  "dateOfBirth": "1941-09-08",
+  "birthDateParsed": "1941-09-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "journalist",
+    "carpenter",
+    "university teacher",
+    "writer",
+    "television producer"
+  ],
+  "qid": "Q359442",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-02T02:15:57.387Z"
+}

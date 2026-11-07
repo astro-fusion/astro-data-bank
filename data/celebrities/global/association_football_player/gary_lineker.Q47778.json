@@ -1,0 +1,34 @@
+{
+  "publicId": "e2d3bacc",
+  "wikipediaSlug": "Gary_Lineker",
+  "wikipediaId": "Q47778",
+  "name": "Gary Lineker",
+  "fullName": "Gary Lineker",
+  "profileSummary": "Gary Winston Lineker is an English sports broadcaster, businessman, and former professional footballer who played as a striker. Regarded as one of the best players of his generation and one of England's greatest players, Lineker is the only player to have been the top goalscorer in England with three clubs: Leicester City, Everton, and Tottenham Hotspur. He also played for Barcelona in Spain, and won 80 caps for England.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Prime_Minister_Keir_Starmer_hosts_St_George%27s_Day_Reception_%2854470857860%29_%28cropped%29.jpg/330px-Prime_Minister_Keir_Starmer_hosts_St_George%27s_Day_Reception_%2854470857860%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Lineker",
+  "dateOfBirth": "1960-11-30",
+  "birthDateParsed": "1960-11-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.636111111",
+  "birthCoordinatesLng": "-1.133055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "sports commentator",
+    "journalist",
+    "broadcaster"
+  ],
+  "qid": "Q47778",
+  "birthPlace": "Leicester",
+  "fetchedAt": "2026-08-10T11:28:08.123Z"
+}

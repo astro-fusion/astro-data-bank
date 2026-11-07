@@ -1,0 +1,31 @@
+{
+  "publicId": "f1b4a552",
+  "wikipediaSlug": "Artie_Dick",
+  "wikipediaId": "Q4800982",
+  "name": "Artie Dick",
+  "fullName": "Artie Dick",
+  "profileSummary": "Arthur Edward Dick is a former cricketer who played 17 Test matches for New Zealand as a batsman and wicket-keeper between 1961 and 1965.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artie_Dick",
+  "dateOfBirth": "1936-10-10",
+  "birthDateParsed": "1936-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-45.508",
+  "birthCoordinatesLng": "170.121",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4800982",
+  "birthPlace": "Middlemarch",
+  "fetchedAt": "2026-07-31T21:01:33.588Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "88eec2ab",
+  "wikipediaSlug": "Michael_Dell",
+  "wikipediaId": "Q218630",
+  "name": "Michael Dell",
+  "fullName": "Michael Dell",
+  "profileSummary": "Michael Saul Dell is an American billionaire businessman and investor. He is the founder, chairman, and CEO of Dell Technologies, one of the world's largest technology infrastructure companies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Michael_Dell_%2852548152888%29_%28cropped%29.jpg/330px-Michael_Dell_%2852548152888%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Dell",
+  "dateOfBirth": "1965-02-23",
+  "birthDateParsed": "1965-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.762777777",
+  "birthCoordinatesLng": "-95.383055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "financier",
+    "computer scientist",
+    "businessperson",
+    "investor",
+    "philanthropist",
+    "chief executive officer"
+  ],
+  "qid": "Q218630",
+  "birthPlace": "Houston",
+  "fetchedAt": "2026-08-04T03:35:05.451Z"
+}

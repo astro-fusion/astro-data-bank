@@ -1,0 +1,35 @@
+{
+  "publicId": "0da71380",
+  "wikipediaSlug": "Andrew_Fisher",
+  "wikipediaId": "Q314016",
+  "name": "Andrew Fisher",
+  "fullName": "Andrew Fisher",
+  "profileSummary": "Andrew Fisher was an Australian politician and trade unionist who served as the fifth prime minister of Australia from 1908 to 1909, 1910 to 1913 and 1914 to 1915. He held office as the leader of the Australian Labor Party (ALP), and was particularly notable for leading the party to its first federal election victory and first majority government at the 1910 federal election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Andrew_Fisher_1912_%28b%26w%29.jpg/330px-Andrew_Fisher_1912_%28b%26w%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Fisher",
+  "dateOfBirth": "1862-08-29",
+  "birthDateParsed": "1862-08-29",
+  "dateOfDeath": "1928-10-22",
+  "deathDateParsed": "1928-10-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.6122",
+  "birthCoordinatesLng": "-4.55278",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "trade unionist",
+    "head of government",
+    "miner"
+  ],
+  "qid": "Q314016",
+  "birthPlace": "Crosshouse",
+  "fetchedAt": "2026-08-03T12:58:02.522Z"
+}

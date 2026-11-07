@@ -1,0 +1,33 @@
+{
+  "publicId": "1022c109",
+  "wikipediaSlug": "Artemas_Ward",
+  "wikipediaId": "Q321887",
+  "name": "Artemas Ward",
+  "fullName": "Artemas Ward",
+  "profileSummary": "Artemas Ward was an American major general in the American Revolutionary War and a Congressman from Massachusetts. He was considered an effective political leader, President John Adams describing him as \"universally esteemed, beloved, and confided in by his army and his country\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Raphaelle_Peale_-_Artemas_Ward_%281727-1800%29_-_H835_-_Harvard_Art_Museums.jpg/330px-Raphaelle_Peale_-_Artemas_Ward_%281727-1800%29_-_H835_-_Harvard_Art_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artemas_Ward",
+  "dateOfBirth": "1727-11-26",
+  "birthDateParsed": "1727-11-26",
+  "dateOfDeath": "1800-10-28",
+  "deathDateParsed": "1800-10-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.29593",
+  "birthCoordinatesLng": "-71.71285",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "judge"
+  ],
+  "qid": "Q321887",
+  "birthPlace": "Shrewsbury",
+  "fetchedAt": "2026-08-05T02:43:51.946Z"
+}

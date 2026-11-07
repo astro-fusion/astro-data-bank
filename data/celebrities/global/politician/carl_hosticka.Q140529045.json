@@ -1,0 +1,32 @@
+{
+  "publicId": "daa06874",
+  "wikipediaSlug": "Carl_Hosticka",
+  "wikipediaId": "Q140529045",
+  "name": "Carl Hosticka",
+  "fullName": "Carl Hosticka",
+  "profileSummary": "Carl Hosticka is an American politician who served as a state legislator and metro counselor in Oregon. He represented Lane County in the legislature for 11 years and served as a metro counselor for 11 years. He is currently an Associate Professor Emeritus of Public Policy at the University of Oregon. In 2012, he ran against Republican Julie Parrish to represent the 37th district, which includes Tualatin and West Linn, in the legislature and lost.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Hosticka",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q140529045",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:16:34.413Z"
+}

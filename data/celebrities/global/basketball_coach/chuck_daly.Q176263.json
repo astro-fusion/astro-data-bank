@@ -1,0 +1,32 @@
+{
+  "publicId": "a61232b7",
+  "wikipediaSlug": "Chuck_Daly",
+  "wikipediaId": "Q176263",
+  "name": "Chuck Daly",
+  "fullName": "Chuck Daly",
+  "profileSummary": "Charles Jerome Daly was an American basketball head coach. He led the Detroit Pistons to two consecutive National Basketball Association (NBA) championships in 1989 and 1990—during the team's \"Bad Boys\" era—and the 1992 United States men's Olympic basketball team to the gold medal at the 1992 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Chuck_Daly_%28cropped%29.jpg/330px-Chuck_Daly_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chuck_Daly",
+  "dateOfBirth": "1930-07-20",
+  "birthDateParsed": "1930-07-20",
+  "dateOfDeath": "2009-05-09",
+  "deathDateParsed": "2009-05-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.427777777",
+  "birthCoordinatesLng": "-78.560833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q176263",
+  "birthPlace": "St. Marys",
+  "fetchedAt": "2026-08-01T15:36:57.493Z"
+}

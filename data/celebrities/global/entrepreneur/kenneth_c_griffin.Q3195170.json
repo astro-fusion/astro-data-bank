@@ -1,0 +1,33 @@
+{
+  "publicId": "c3bb876e",
+  "wikipediaSlug": "Kenneth_C._Griffin",
+  "wikipediaId": "Q3195170",
+  "name": "Kenneth C. Griffin",
+  "fullName": "Kenneth C. Griffin",
+  "profileSummary": "Kenneth Cordele Griffin is an American hedge fund manager, entrepreneur and investor. He is the founder, chief executive officer, co-chief investment officer, and 80% owner of Citadel LLC, a multinational hedge fund. He also owns Citadel Securities, one of the largest market makers in the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kenneth_C._Griffin_photo.jpg/330px-Kenneth_C._Griffin_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenneth_C._Griffin",
+  "dateOfBirth": "1968-10-15",
+  "birthDateParsed": "1968-10-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.210833333",
+  "birthCoordinatesLng": "-81.022777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "businessperson",
+    "hedge fund manager"
+  ],
+  "qid": "Q3195170",
+  "birthPlace": "Daytona Beach",
+  "fetchedAt": "2026-08-04T03:00:35.719Z"
+}

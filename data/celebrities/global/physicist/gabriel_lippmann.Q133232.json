@@ -1,0 +1,34 @@
+{
+  "publicId": "e477e5a7",
+  "wikipediaSlug": "Gabriel_Lippmann",
+  "wikipediaId": "Q133232",
+  "name": "Gabriel Lippmann",
+  "fullName": "Gabriel Lippmann",
+  "profileSummary": "Jonas Ferdinand Gabriel Lippmann was a French applied physicist who received the Nobel Prize in Physics in 1908 for his invention of the Lippmann plate, a method of photographically reproducing colours based on the interference phenomenon.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Gabriel_Lippmann2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Lippmann",
+  "dateOfBirth": "1845-08-16",
+  "birthDateParsed": "1845-08-16",
+  "dateOfDeath": "1921-07-13",
+  "deathDateParsed": "1921-07-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.594722222",
+  "birthCoordinatesLng": "6.139444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "inventor",
+    "photographer",
+    "professor"
+  ],
+  "qid": "Q133232",
+  "birthPlace": "Bonnevoie",
+  "fetchedAt": "2026-08-06T05:02:05.945Z"
+}

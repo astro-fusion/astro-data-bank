@@ -1,0 +1,31 @@
+{
+  "publicId": "ff686613",
+  "wikipediaSlug": "Alex_Moir",
+  "wikipediaId": "Q4717514",
+  "name": "Alex Moir",
+  "fullName": "Alex Moir",
+  "profileSummary": "Alexander McKenzie Moir was a New Zealand cricketer. He played 17 Test matches for New Zealand in the 1950s as a leg-spinner and lower-order batsman.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/AM_Moir_1959.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Moir",
+  "dateOfBirth": "1919-07-17",
+  "birthDateParsed": "1919-07-17",
+  "dateOfDeath": "2000-06-17",
+  "deathDateParsed": "2000-06-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-45.874166666",
+  "birthCoordinatesLng": "170.503611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4717514",
+  "birthPlace": "Dunedin",
+  "fetchedAt": "2026-07-31T21:01:25.046Z"
+}

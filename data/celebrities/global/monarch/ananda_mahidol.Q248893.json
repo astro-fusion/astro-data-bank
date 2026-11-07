@@ -1,0 +1,33 @@
+{
+  "publicId": "70415aa7",
+  "wikipediaSlug": "Ananda_Mahidol",
+  "wikipediaId": "Q248893",
+  "name": "Ananda Mahidol",
+  "fullName": "Ananda Mahidol",
+  "profileSummary": "Ananda Mahidol was the eighth king of Siam from the Chakri dynasty, titled Rama VIII. At the time he was recognised as king by the National Assembly in March 1935, he went to Switzerland when he was nine years-old. He returned to Thailand in December 1945, but six months later, in June 1946, he was found shot dead in his bed. Although at first thought to have been an accident, his death was ruled a murder by medical examiners, and three royal aides were later executed following irregular trials. The mysterious circumstances surrounding his death have been the subject of much controversy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/King_Ananda_Mahidol_portrait_photograph.jpg/330px-King_Ananda_Mahidol_portrait_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ananda_Mahidol",
+  "dateOfBirth": "1925-09-20",
+  "birthDateParsed": "1925-09-20",
+  "dateOfDeath": "1946-06-09",
+  "deathDateParsed": "1946-06-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.412222222",
+  "birthCoordinatesLng": "8.71",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "social worker",
+    "military officer"
+  ],
+  "qid": "Q248893",
+  "birthPlace": "Heidelberg",
+  "fetchedAt": "2026-08-05T02:43:05.656Z"
+}

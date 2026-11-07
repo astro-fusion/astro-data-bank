@@ -1,0 +1,33 @@
+{
+  "publicId": "b5382281",
+  "wikipediaSlug": "Catherine_Tizard",
+  "wikipediaId": "Q644212",
+  "name": "Catherine Tizard",
+  "fullName": "Catherine Tizard",
+  "profileSummary": "Dame Catherine Anne Tizard was a New Zealand politician who served as mayor of Auckland City from 1983 to 1990, and the 16th governor-general of New Zealand from 1990 to 1996. She was the first woman to hold either office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Governor-General_Catherine_Tizard.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catherine_Tizard",
+  "dateOfBirth": "1931-04-04",
+  "birthDateParsed": "1931-04-04",
+  "dateOfDeath": "2021-10-31",
+  "deathDateParsed": "2021-10-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "activist",
+    "university teacher"
+  ],
+  "qid": "Q644212",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-08-04T00:55:17.364Z"
+}

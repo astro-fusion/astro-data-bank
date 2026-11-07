@@ -1,0 +1,34 @@
+{
+  "publicId": "677c0ed4",
+  "wikipediaSlug": "Brian_Mulroney",
+  "wikipediaId": "Q128563",
+  "name": "Brian Mulroney",
+  "fullName": "Brian Mulroney",
+  "profileSummary": "Martin Brian Mulroney was a Canadian lawyer, businessman, and politician who served as the 18th prime minister of Canada from 1984 to 1993. He led the Progressive Conservative Party of Canada and served as a member of Parliament (MP) from 1983 to 1993.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brian_Mulroney_1984_%28cropped%29%282%29.jpg/330px-Brian_Mulroney_1984_%28cropped%29%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Mulroney",
+  "dateOfBirth": "1939-03-20",
+  "birthDateParsed": "1939-03-20",
+  "dateOfDeath": "2024-02-29",
+  "deathDateParsed": "2024-02-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.216666666",
+  "birthCoordinatesLng": "-68.15",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "business executive",
+    "writer"
+  ],
+  "qid": "Q128563",
+  "birthPlace": "Baie-Comeau",
+  "fetchedAt": "2026-08-03T10:59:09.681Z"
+}

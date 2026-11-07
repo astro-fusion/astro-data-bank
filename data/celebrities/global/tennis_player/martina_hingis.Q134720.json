@@ -1,0 +1,32 @@
+{
+  "publicId": "63038965",
+  "wikipediaSlug": "Martina_Hingis",
+  "wikipediaId": "Q134720",
+  "name": "Martina Hingis",
+  "fullName": "Martina Hingis",
+  "profileSummary": "Martina Hingis is a Swiss former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 209 weeks and as the world No. 1 in women's doubles for 90 weeks, holding both No. 1 rankings simultaneously for 29 weeks. Hingis won 43 WTA Tour-level singles titles and 64 doubles titles, including a total of 25 major titles: five in singles, 13 in women's doubles, and seven in mixed doubles. In addition, she won the season-ending Tour Finals two times in singles and three in doubles, an Olympic silver medal in doubles, and a record 17 Tier I singles titles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hingis_RG16_%2810%29_%2827331857371%29.jpg/330px-Hingis_RG16_%2810%29_%2827331857371%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Martina_Hingis",
+  "dateOfBirth": "1980-09-30",
+  "birthDateParsed": "1980-09-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach"
+  ],
+  "qid": "Q134720",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-01T15:00:35.164Z"
+}

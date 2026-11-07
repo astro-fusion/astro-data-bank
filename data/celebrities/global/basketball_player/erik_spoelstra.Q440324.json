@@ -1,0 +1,32 @@
+{
+  "publicId": "a915ce53",
+  "wikipediaSlug": "Erik_Spoelstra",
+  "wikipediaId": "Q440324",
+  "name": "Erik Spoelstra",
+  "fullName": "Erik Spoelstra",
+  "profileSummary": "Erik Jon Spoelstra, is an American professional basketball coach who is the head coach for the Miami Heat of the National Basketball Association (NBA) and the U.S. national team. Widely regarded as one of the greatest coaches of all time, he has won three NBA championships with the Heat, including two as the team's head coach. Following the retirement of Gregg Popovich as head coach of the San Antonio Spurs in 2025, and the resignation of head coach Mike Tomlin of the NFL's Pittsburgh Steelers, Spoelstra is currently the longest-tenured active NBA head coach with a single team, and the longest-tenured active head coach in the four major North American sports leagues.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Erik_Spoelstra_2022_%28cropped%29.jpg/330px-Erik_Spoelstra_2022_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Spoelstra",
+  "dateOfBirth": "1970-11-01",
+  "birthDateParsed": "1970-11-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.047222222",
+  "birthCoordinatesLng": "-87.685",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q440324",
+  "birthPlace": "Evanston",
+  "fetchedAt": "2026-08-01T15:37:53.372Z"
+}

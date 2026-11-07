@@ -1,0 +1,32 @@
+{
+  "publicId": "0d290545",
+  "wikipediaSlug": "Jim_Banks",
+  "wikipediaId": "Q16146788",
+  "name": "Jim Banks",
+  "fullName": "Jim Banks",
+  "profileSummary": "James Edward Banks is an American politician and naval officer serving since 2025 as the junior United States senator from Indiana. A member of the Republican Party, he was the U.S. representative for Indiana's 3rd congressional district from 2017 to 2025 and an Indiana state senator from 2010 to 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Senator_Banks_Official_Portrait.jpg/330px-Senator_Banks_Official_Portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Banks",
+  "dateOfBirth": "1979-07-16",
+  "birthDateParsed": "1979-07-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.1586",
+  "birthCoordinatesLng": "-85.4878",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "real estate agent"
+  ],
+  "qid": "Q16146788",
+  "birthPlace": "Columbia City",
+  "fetchedAt": "2026-08-02T02:17:30.991Z"
+}

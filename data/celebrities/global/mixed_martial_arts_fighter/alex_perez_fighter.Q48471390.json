@@ -1,0 +1,35 @@
+{
+  "publicId": "a4fa02ef",
+  "wikipediaSlug": "Alex_Perez_(fighter)",
+  "wikipediaId": "Q48471390",
+  "name": "Alex Perez (fighter)",
+  "fullName": "Alex Perez (fighter)",
+  "profileSummary": "Alexander Salvador Perez is an American professional mixed martial artist who currently competes in the Flyweight division of the Ultimate Fighting Championship (UFC). As of July 25, 2026, he is #15 in the Meta UFC flyweight rankings.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Perez_(fighter)",
+  "dateOfBirth": "1992-03-21",
+  "birthDateParsed": "1992-03-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.3275",
+  "birthCoordinatesLng": "-119.645555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "Brazilian jiu-jitsu practitioner",
+    "wrestling coach",
+    "amateur wrestler",
+    "wrestler"
+  ],
+  "qid": "Q48471390",
+  "birthPlace": "Hanford",
+  "fetchedAt": "2026-08-01T17:04:04.022Z"
+}

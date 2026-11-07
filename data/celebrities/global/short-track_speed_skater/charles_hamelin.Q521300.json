@@ -1,0 +1,32 @@
+{
+  "publicId": "cae485e7",
+  "wikipediaSlug": "Charles_Hamelin",
+  "wikipediaId": "Q521300",
+  "name": "Charles Hamelin",
+  "fullName": "Charles Hamelin",
+  "profileSummary": "Charles Hamelin is a Canadian retired short-track speed skater. In a competitive career that spanned nearly twenty years on the international circuit, Hamelin participated in five Winter Olympic Games and won six Olympic medals, including a national-best four gold medals. Competing in all distances, he won thirty-eight medals at the World Championships, including fourteen gold medals, and also led Canada to five world relay titles. Hamelin was also the 2014 Overall World Cup season winner and the 2018 Overall World Champion, giving him all the achievements available in the sport.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Charleshamelin.png/330px-Charleshamelin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Hamelin",
+  "dateOfBirth": "1984-04-14",
+  "birthDateParsed": "1984-04-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.8",
+  "birthCoordinatesLng": "-71.1833",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "short-track speed skater",
+    "reality television participant"
+  ],
+  "qid": "Q521300",
+  "birthPlace": "Lévis",
+  "fetchedAt": "2026-08-10T12:59:21.402Z"
+}

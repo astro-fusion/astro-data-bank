@@ -1,0 +1,33 @@
+{
+  "publicId": "e24153b9",
+  "wikipediaSlug": "Jim_Pillen",
+  "wikipediaId": "Q111961602",
+  "name": "Jim Pillen",
+  "fullName": "Jim Pillen",
+  "profileSummary": "James Douglas Pillen is an American politician, veterinarian, and livestock producer serving as the 41st and current governor of Nebraska since 2023. A member of the Republican Party, Pillen served on the University of Nebraska Board of Regents from 2013 to 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jim_Pillen_SelectUSA_%2855251574792%29.jpg/330px-Jim_Pillen_SelectUSA_%2855251574792%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Pillen",
+  "dateOfBirth": "1955-12-31",
+  "birthDateParsed": "1955-12-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.429305555",
+  "birthCoordinatesLng": "-97.358138888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson",
+    "American football player"
+  ],
+  "qid": "Q111961602",
+  "birthPlace": "Columbus",
+  "fetchedAt": "2026-08-02T03:28:32.781Z"
+}

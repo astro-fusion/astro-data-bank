@@ -1,0 +1,32 @@
+{
+  "publicId": "594d89b5",
+  "wikipediaSlug": "Franco_Baresi",
+  "wikipediaId": "Q189984",
+  "name": "Franco Baresi",
+  "fullName": "Franco Baresi",
+  "profileSummary": "Franco Baresi was an Italian football player and manager. He mainly played as a central defender, and spent his entire 20-year career with Serie A club AC Milan, captaining the club for 15 seasons. Widely regarded as one of the greatest defenders of all time, he was ranked 9th in World Soccer magazine's list of the 100 greatest players of the 20th century. With Milan, he won three European Cup/UEFA Champions League titles, six Serie A trophies, four Supercoppa Italiana titles, two European Super Cups, and two Intercontinental Cups.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Franco_baresi_panini_card_1979.jpg/330px-Franco_baresi_panini_card_1979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franco_Baresi",
+  "dateOfBirth": "1960-05-08",
+  "birthDateParsed": "1960-05-08",
+  "dateOfDeath": "2026-07-31",
+  "deathDateParsed": "2026-07-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.523972222",
+  "birthCoordinatesLng": "10.079722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q189984",
+  "birthPlace": "Travagliato",
+  "fetchedAt": "2026-08-10T11:27:58.413Z"
+}

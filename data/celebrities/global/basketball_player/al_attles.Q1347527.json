@@ -1,0 +1,32 @@
+{
+  "publicId": "0205bca5",
+  "wikipediaSlug": "Al_Attles",
+  "wikipediaId": "Q1347527",
+  "name": "Al Attles",
+  "fullName": "Al Attles",
+  "profileSummary": "Alvin Austin Attles Jr. was an American professional basketball player, coach, and executive who spent his entire career with the Golden State Warriors of the National Basketball Association (NBA). Nicknamed the \"Destroyer\", he played the point guard position.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Al_Attles_1970_%28cropped%29.JPG/330px-Al_Attles_1970_%28cropped%29.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Al_Attles",
+  "dateOfBirth": "1936-11-07",
+  "birthDateParsed": "1936-11-07",
+  "dateOfDeath": "2024-08-20",
+  "deathDateParsed": "2024-08-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.735555555",
+  "birthCoordinatesLng": "-74.172222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q1347527",
+  "birthPlace": "Newark",
+  "fetchedAt": "2026-08-01T15:36:46.609Z"
+}

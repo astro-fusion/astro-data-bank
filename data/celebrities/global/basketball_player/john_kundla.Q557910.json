@@ -1,0 +1,32 @@
+{
+  "publicId": "b8ec5fdd",
+  "wikipediaSlug": "John_Kundla",
+  "wikipediaId": "Q557910",
+  "name": "John Kundla",
+  "fullName": "John Kundla",
+  "profileSummary": "John Albert Kundla was an American college and professional basketball coach. He was the first head coach for the Minneapolis Lakers of the National Basketball Association (NBA) and its predecessors, the Basketball Association of America (BAA) and the National Basketball League (NBL), serving 12 seasons, from 1947 to 1959. His teams won six league championships, one in the NBL, one in the BAA, and four in the NBA. Kundla was the head basketball coach at the University of St. Thomas in Saint Paul for one season in 1946–47, and at the University of Minnesota for ten seasons, from 1959 to 1968. He was inducted into the Naismith Memorial Basketball Hall of Fame in 1995 and the College Basketball Hall of Fame in 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/John_Kundla.jpg/330px-John_Kundla.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Kundla",
+  "dateOfBirth": "1916-07-03",
+  "birthDateParsed": "1916-07-03",
+  "dateOfDeath": "2017-07-23",
+  "deathDateParsed": "2017-07-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.061667",
+  "birthCoordinatesLng": "-79.761944",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q557910",
+  "birthPlace": "Star Junction",
+  "fetchedAt": "2026-08-01T15:37:42.378Z"
+}

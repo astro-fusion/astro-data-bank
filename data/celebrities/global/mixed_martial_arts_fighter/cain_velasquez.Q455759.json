@@ -1,0 +1,33 @@
+{
+  "publicId": "6f4f248c",
+  "wikipediaSlug": "Cain_Velasquez",
+  "wikipediaId": "Q455759",
+  "name": "Cain Velasquez",
+  "fullName": "Cain Velasquez",
+  "profileSummary": "Cain Ramírez Velásquez is an American former professional wrestler and mixed martial artist. He is widely known for his time in the Ultimate Fighting Championship, where he competed in the heavyweight division and became a two-time UFC Heavyweight Champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cain_Velasquez.jpg/330px-Cain_Velasquez.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cain_Velasquez",
+  "dateOfBirth": "1982-07-28",
+  "birthDateParsed": "1982-07-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.677777777",
+  "birthCoordinatesLng": "-121.655555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "amateur wrestler",
+    "professional wrestler"
+  ],
+  "qid": "Q455759",
+  "birthPlace": "Salinas",
+  "fetchedAt": "2026-08-01T17:04:48.604Z"
+}

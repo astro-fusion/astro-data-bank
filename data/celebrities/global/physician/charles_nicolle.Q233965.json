@@ -1,0 +1,36 @@
+{
+  "publicId": "df9badc6",
+  "wikipediaSlug": "Charles_Nicolle",
+  "wikipediaId": "Q233965",
+  "name": "Charles Nicolle",
+  "fullName": "Charles Nicolle",
+  "profileSummary": "Charles Jules Henri Nicolle was a French bacteriologist who received the Nobel Prize in Medicine for his identification of lice as the transmitter of epidemic typhus.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Charles_Nicolle_at_microscope.jpg/330px-Charles_Nicolle_at_microscope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Nicolle",
+  "dateOfBirth": "1866-09-21",
+  "birthDateParsed": "1866-09-21",
+  "dateOfDeath": "1936-02-28",
+  "deathDateParsed": "1936-02-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.443055555",
+  "birthCoordinatesLng": "1.1025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "professor",
+    "bacteriologist",
+    "microbiologist",
+    "botanist",
+    "writer"
+  ],
+  "qid": "Q233965",
+  "birthPlace": "Rouen",
+  "fetchedAt": "2026-08-10T03:14:14.682Z"
+}

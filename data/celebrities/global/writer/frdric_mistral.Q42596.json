@@ -1,0 +1,33 @@
+{
+  "publicId": "eb0ebff2",
+  "wikipediaSlug": "Frédéric_Mistral",
+  "wikipediaId": "Q42596",
+  "name": "Frédéric Mistral",
+  "fullName": "Frédéric Mistral",
+  "profileSummary": "Joseph Étienne Frédéric Mistral was an Occitan writer and lexicographer of the Provençal form of the language. He received the 1904 Nobel Prize in Literature \"in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Provençal philologist\". Mistral was a founding member of the Félibrige and member of the Académie de Marseille.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Frederic_Mistral_portrait_photo.jpg/330px-Frederic_Mistral_portrait_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Mistral",
+  "dateOfBirth": "1830-09-08",
+  "birthDateParsed": "1830-09-08",
+  "dateOfDeath": "1914-03-25",
+  "deathDateParsed": "1914-03-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.832777777",
+  "birthCoordinatesLng": "4.781944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "lexicographer"
+  ],
+  "qid": "Q42596",
+  "birthPlace": "Maillane",
+  "fetchedAt": "2026-08-06T07:41:24.282Z"
+}

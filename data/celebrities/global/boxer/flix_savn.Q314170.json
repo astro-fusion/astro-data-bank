@@ -1,0 +1,31 @@
+{
+  "publicId": "111fcee7",
+  "wikipediaSlug": "Félix_Savón",
+  "wikipediaId": "Q314170",
+  "name": "Félix Savón",
+  "fullName": "Félix Savón",
+  "profileSummary": "Félix Savón Fabre is a Cuban former amateur boxer who competed from 1980 to 2000. Considered one of the all-time greatest amateurs, he became three-time Olympic gold medalist, and the World Champion six times in a row, all in the heavyweight division. In 1988, when he was favored by many to win the gold medal at the 1988 Summer Olympics, the Cuban government boycotted the event. Savón is particularly known for having rejected numerous multimillion-dollar offers to defect and leave Cuba permanently to fight Mike Tyson as a professional.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bundesarchiv_Bild_183-1987-0319-022%2C_Michael_Ernsz%2C_Felix_Savon.jpg/330px-Bundesarchiv_Bild_183-1987-0319-022%2C_Michael_Ernsz%2C_Felix_Savon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/F%C3%A9lix_Sav%C3%B3n",
+  "dateOfBirth": "1967-09-22",
+  "birthDateParsed": "1967-09-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.1333",
+  "birthCoordinatesLng": "-75.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer"
+  ],
+  "qid": "Q314170",
+  "birthPlace": "Guantánamo Province",
+  "fetchedAt": "2026-08-10T12:59:46.304Z"
+}

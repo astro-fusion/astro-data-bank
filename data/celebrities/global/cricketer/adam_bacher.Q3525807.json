@@ -1,0 +1,31 @@
+{
+  "publicId": "4dd42c23",
+  "wikipediaSlug": "Adam_Bacher",
+  "wikipediaId": "Q3525807",
+  "name": "Adam Bacher",
+  "fullName": "Adam Bacher",
+  "profileSummary": "Adam Marc Bacher is a former South African cricketer. He was a right-handed batsman and a right-arm medium-pace bowler. He is the nephew of former South African captain and cricket chief Ali Bacher.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Bacher",
+  "dateOfBirth": "1973-10-29",
+  "birthDateParsed": "1973-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525807",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:19:49.491Z"
+}

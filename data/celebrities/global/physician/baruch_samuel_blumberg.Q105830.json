@@ -1,0 +1,37 @@
+{
+  "publicId": "2c859469",
+  "wikipediaSlug": "Baruch_Samuel_Blumberg",
+  "wikipediaId": "Q105830",
+  "name": "Baruch Samuel Blumberg",
+  "fullName": "Baruch Samuel Blumberg",
+  "profileSummary": "Baruch Samuel Blumberg, known as Barry Blumberg, was an American physician, geneticist, and co-recipient of the 1976 Nobel Prize in Physiology or Medicine, for his work on the hepatitis B virus while an investigator at the NIH and at the Fox Chase Cancer Center. He was president of the American Philosophical Society from 2005 until his death.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Baruch_Samuel_Blumberg_by_Tom_Trower_%28NASA%29.jpg/330px-Baruch_Samuel_Blumberg_by_Tom_Trower_%28NASA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baruch_Samuel_Blumberg",
+  "dateOfBirth": "1925-07-28",
+  "birthDateParsed": "1925-07-28",
+  "dateOfDeath": "2011-04-05",
+  "deathDateParsed": "2011-04-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "anthropologist",
+    "virologist",
+    "university teacher",
+    "inventor",
+    "biochemist",
+    "geneticist"
+  ],
+  "qid": "Q105830",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-10T03:14:13.800Z"
+}

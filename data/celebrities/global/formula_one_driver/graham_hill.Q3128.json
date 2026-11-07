@@ -1,0 +1,35 @@
+{
+  "publicId": "e75f5300",
+  "wikipediaSlug": "Graham_Hill",
+  "wikipediaId": "Q3128",
+  "name": "Graham Hill",
+  "fullName": "Graham Hill",
+  "profileSummary": "Norman Graham Hill was a British racing driver, rower and motorsport executive, who competed in Formula One from 1958 to 1975. Nicknamed \"Mr. Monaco\", Hill won two Formula One World Drivers' Championship titles and, at the time of his retirement, held the record for most podium finishes (36); he won 14 Grands Prix across 18 seasons. In American open-wheel racing, Hill won the Indianapolis 500 in 1966 with Mecom. Upon winning the 24 Hours of Le Mans in 1972 with Matra, Hill became the first—and as of 2026, only—driver to complete the Triple Crown of Motorsport.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Graham_Hill_Bestanddeelnr_924-6564.jpg/330px-Graham_Hill_Bestanddeelnr_924-6564.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Graham_Hill",
+  "dateOfBirth": "1929-02-15",
+  "birthDateParsed": "1929-02-15",
+  "dateOfDeath": "1975-11-29",
+  "deathDateParsed": "1975-11-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5541",
+  "birthCoordinatesLng": "-0.1744",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "engineer",
+    "sailor",
+    "author",
+    "racing automobile driver"
+  ],
+  "qid": "Q3128",
+  "birthPlace": "Hampstead",
+  "fetchedAt": "2026-08-01T16:01:34.404Z"
+}

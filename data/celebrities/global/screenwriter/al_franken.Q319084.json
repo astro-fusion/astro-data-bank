@@ -1,0 +1,39 @@
+{
+  "publicId": "24d0b75e",
+  "wikipediaSlug": "Al_Franken",
+  "wikipediaId": "Q319084",
+  "name": "Al Franken",
+  "fullName": "Al Franken",
+  "profileSummary": "Alan Stuart Franken is an American politician, comedian, screenwriter, and actor who served from 2009 until his resignation in 2018 as a United States senator from Minnesota. A member of the Democratic Party, before entering politics, he worked as an entertainer, appearing on television and in film.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Al_Franken%2C_official_portrait%2C_114th_Congress_%28cropped%29.jpg/330px-Al_Franken%2C_official_portrait%2C_114th_Congress_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Al_Franken",
+  "dateOfBirth": "1951-05-21",
+  "birthDateParsed": "1951-05-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.728333333",
+  "birthCoordinatesLng": "-73.994166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "politician",
+    "radio personality",
+    "television actor",
+    "writer",
+    "journalist",
+    "film actor",
+    "comedian",
+    "television producer"
+  ],
+  "qid": "Q319084",
+  "birthPlace": "Manhattan",
+  "fetchedAt": "2026-08-05T02:42:24.797Z"
+}

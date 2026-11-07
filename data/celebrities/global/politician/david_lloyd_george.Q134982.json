@@ -1,0 +1,41 @@
+{
+  "publicId": "2c7ea6ce",
+  "wikipediaSlug": "David_Lloyd_George",
+  "wikipediaId": "Q134982",
+  "name": "David Lloyd George",
+  "fullName": "David Lloyd George",
+  "profileSummary": "David Lloyd George, 1st Earl Lloyd-George of Dwyfor, was Prime Minister of the United Kingdom from 1916 to 1922. A Liberal Party politician from Wales, he was known for leading the United Kingdom during the First World War, for social-reform policies, for his role in the Paris Peace Conference, and for negotiating the establishment of the Irish Free State.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Lloyd_George.jpg/330px-David_Lloyd_George.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Lloyd_George",
+  "dateOfBirth": "1863-01-17",
+  "birthDateParsed": "1863-01-17",
+  "dateOfDeath": "1945-03-26",
+  "deathDateParsed": "1945-03-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.466666666",
+  "birthCoordinatesLng": "-2.233333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "solicitor",
+    "civil servant",
+    "writer",
+    "official",
+    "jurist",
+    "head of government",
+    "author",
+    "member of parliament",
+    "minister"
+  ],
+  "qid": "Q134982",
+  "birthPlace": "Manchester",
+  "fetchedAt": "2026-08-02T05:21:21.981Z"
+}

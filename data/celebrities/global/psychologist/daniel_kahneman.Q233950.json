@@ -1,0 +1,35 @@
+{
+  "publicId": "7e601eeb",
+  "wikipediaSlug": "Daniel_Kahneman",
+  "wikipediaId": "Q233950",
+  "name": "Daniel Kahneman",
+  "fullName": "Daniel Kahneman",
+  "profileSummary": "Daniel Kahneman was an Israeli-American psychologist best known for his work on the psychology of judgment and decision-making as well as behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences together with Vernon L. Smith. Kahneman's published empirical findings challenge the assumption of human rationality prevailing in modern economic theory. Kahneman became known as the \"grandfather of behavioral economics.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Daniel_Kahneman_%283283955327%29_%28cropped%29.jpg/330px-Daniel_Kahneman_%283283955327%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Kahneman",
+  "dateOfBirth": "1934-03-05",
+  "birthDateParsed": "1934-03-05",
+  "dateOfDeath": "2024-03-27",
+  "deathDateParsed": "2024-03-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.08",
+  "birthCoordinatesLng": "34.78",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "psychologist",
+    "economist",
+    "university teacher",
+    "essayist",
+    "author"
+  ],
+  "qid": "Q233950",
+  "birthPlace": "Tel Aviv",
+  "fetchedAt": "2026-08-10T09:42:57.766Z"
+}

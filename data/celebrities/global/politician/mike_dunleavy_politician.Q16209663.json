@@ -1,0 +1,35 @@
+{
+  "publicId": "28825be7",
+  "wikipediaSlug": "Mike_Dunleavy_(politician)",
+  "wikipediaId": "Q16209663",
+  "name": "Mike Dunleavy (politician)",
+  "fullName": "Mike Dunleavy (politician)",
+  "profileSummary": "Michael James Dunleavy is an American politician and educator serving since 2018 as the 12th governor of Alaska. A member of the Republican Party, he served from 2013 to 2018 as a member of the Alaska Senate. He defeated former U.S. senator Mark Begich in the 2018 gubernatorial election after incumbent governor Bill Walker dropped out of the race, and was reelected in 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Governor_Mike_J._Dunleavy_-_Official_Portrait.jpg/330px-Governor_Mike_J._Dunleavy_-_Official_Portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Dunleavy_(politician)",
+  "dateOfBirth": "1961-05-05",
+  "birthDateParsed": "1961-05-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.408969",
+  "birthCoordinatesLng": "-75.6624122",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "school teacher",
+    "school superintendent",
+    "governor",
+    "historian"
+  ],
+  "qid": "Q16209663",
+  "birthPlace": "Scranton",
+  "fetchedAt": "2026-08-02T03:28:57.247Z"
+}

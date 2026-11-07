@@ -1,0 +1,33 @@
+{
+  "publicId": "6c362e44",
+  "wikipediaSlug": "Buster_Farrer",
+  "wikipediaId": "Q3525664",
+  "name": "Buster Farrer",
+  "fullName": "Buster Farrer",
+  "profileSummary": "William Stephen \"Buster\" Farrer was a South African cricketer who played in six Test matches between 1962 and 1964. He also played tennis and field hockey at international level, and represented Border in six sports.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buster_Farrer",
+  "dateOfBirth": "1936-12-08",
+  "birthDateParsed": "1936-12-08",
+  "dateOfDeath": "2025-01-31",
+  "deathDateParsed": "2025-01-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.883333333",
+  "birthCoordinatesLng": "27.4",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "cricketer",
+    "squash player"
+  ],
+  "qid": "Q3525664",
+  "birthPlace": "Qonce",
+  "fetchedAt": "2026-07-31T20:21:50.123Z"
+}

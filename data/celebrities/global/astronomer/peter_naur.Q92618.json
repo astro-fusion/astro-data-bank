@@ -1,0 +1,34 @@
+{
+  "publicId": "b23e0f94",
+  "wikipediaSlug": "Peter_Naur",
+  "wikipediaId": "Q92618",
+  "name": "Peter Naur",
+  "fullName": "Peter Naur",
+  "profileSummary": "Peter Naur was a Danish computer science pioneer and 2005 Turing Award winner. He is best remembered as a contributor, with John Backus, to the Backus–Naur form (BNF) notation used in describing the syntax for most programming languages. He also contributed to creating the language ALGOL 60.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Peternaur.JPG/330px-Peternaur.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Naur",
+  "dateOfBirth": "1928-10-25",
+  "birthDateParsed": "1928-10-25",
+  "dateOfDeath": "2016-01-03",
+  "deathDateParsed": "2016-01-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.6779",
+  "birthCoordinatesLng": "12.5327",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "computer scientist",
+    "university teacher",
+    "programmer"
+  ],
+  "qid": "Q92618",
+  "birthPlace": "Frederiksberg",
+  "fetchedAt": "2026-08-10T04:29:22.288Z"
+}

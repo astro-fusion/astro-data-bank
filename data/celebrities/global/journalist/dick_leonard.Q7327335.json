@@ -1,0 +1,33 @@
+{
+  "publicId": "8159bd8a",
+  "wikipediaSlug": "Dick_Leonard",
+  "wikipediaId": "Q7327335",
+  "name": "Dick Leonard",
+  "fullName": "Dick Leonard",
+  "profileSummary": "Richard Lawrence Leonard was a British writer, journalist and Labour politician who served as Member of Parliament (MP) for Romford from 1970 to 1974. He was a pro-European social democrat and had been a supporter of the late Labour foreign secretary Anthony Crosland, who championed Gaitskellism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dick_Leonard_1.jpg/330px-Dick_Leonard_1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick_Leonard",
+  "dateOfBirth": "1930-12-12",
+  "birthDateParsed": "1930-12-12",
+  "dateOfDeath": "2021-06-24",
+  "deathDateParsed": "2021-06-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5932",
+  "birthCoordinatesLng": "-0.3894",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "politician",
+    "writer"
+  ],
+  "qid": "Q7327335",
+  "birthPlace": "Pinner",
+  "fetchedAt": "2026-08-02T05:22:12.772Z"
+}

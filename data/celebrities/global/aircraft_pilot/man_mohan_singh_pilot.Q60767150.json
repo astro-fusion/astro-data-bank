@@ -1,0 +1,31 @@
+{
+  "publicId": "2fceddd6",
+  "wikipediaSlug": "Man_Mohan_Singh_(pilot)",
+  "wikipediaId": "Q60767150",
+  "name": "Man Mohan Singh (pilot)",
+  "fullName": "Man Mohan Singh (pilot)",
+  "profileSummary": "Man Mohan Singh, also spelled Manmohan Singh, was an early Indian aircraft pilot who, in 1930, was the first Indian to fly solo from Croydon Airport, England, to Karachi, India.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Man_Mohan_Singh_%28died_1942%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Man_Mohan_Singh_(pilot)",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": "1942-03-03",
+  "deathDateParsed": "1942-03-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.6007",
+  "birthCoordinatesLng": "73.0679",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aircraft pilot"
+  ],
+  "qid": "Q60767150",
+  "birthPlace": "Rawalpindi",
+  "fetchedAt": "2026-08-06T01:38:09.135Z"
+}

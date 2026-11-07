@@ -1,0 +1,32 @@
+{
+  "publicId": "ae1f62bd",
+  "wikipediaSlug": "Arthur_S._Obermayer",
+  "wikipediaId": "Q15784132",
+  "name": "Arthur S. Obermayer",
+  "fullName": "Arthur S. Obermayer",
+  "profileSummary": "Arthur S. Obermayer was an American chemist, entrepreneur and philanthropist. After selling Moleculon Research Corporation in Cambridge, Mass., \"which he founded in the 1960s, [he and his wife Judith] became influential philanthropists and activists for a variety of causes, from state politics, where the couple helped to elect the first Roman Catholic priest to the US House of Representatives, to entrepreneurship. The Obermayers were inducted into the Small Business Innovation Research Hall of Fame in 2015.\". In 2000, he co-founded the Obermayer German Jewish History Awards, \"see how they might call attention to non-Jewish Germans’ work, affirming their mission while demonstrating to Jews abroad just how much had changed.... co-sponsored by JewishGen, a nonprofit resource for Jewish genealogy; the Berlin state parliament; LBI; and the Obermayer Foundation.\" (Ibid).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Arthur_S_Obermayer.jpg/330px-Arthur_S_Obermayer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_S._Obermayer",
+  "dateOfBirth": "1931-07-17",
+  "birthDateParsed": "1931-07-17",
+  "dateOfDeath": "2016-01-10",
+  "deathDateParsed": "2016-01-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "chemist"
+  ],
+  "qid": "Q15784132",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-05T03:15:42.322Z"
+}

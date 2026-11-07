@@ -1,0 +1,33 @@
+{
+  "publicId": "9392088a",
+  "wikipediaSlug": "Robert_Solow",
+  "wikipediaId": "Q157268",
+  "name": "Robert Solow",
+  "fullName": "Robert Solow",
+  "profileSummary": "Robert Merton Solow, GCIH was an American economist known for his studies of economic growth and the development of the Solow–Swan model, for which he won the 1987 Nobel Memorial Prize in Economic Sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Robert_Solow_by_Olaf_Storbeck_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Solow",
+  "dateOfBirth": "1924-08-23",
+  "birthDateParsed": "1924-08-23",
+  "dateOfDeath": "2023-12-21",
+  "deathDateParsed": "2023-12-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "professor"
+  ],
+  "qid": "Q157268",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-10T09:44:10.202Z"
+}

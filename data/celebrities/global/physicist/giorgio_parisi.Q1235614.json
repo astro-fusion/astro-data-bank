@@ -1,0 +1,34 @@
+{
+  "publicId": "02ad391a",
+  "wikipediaSlug": "Giorgio_Parisi",
+  "wikipediaId": "Q1235614",
+  "name": "Giorgio Parisi",
+  "fullName": "Giorgio Parisi",
+  "profileSummary": "Giorgio Parisi is an Italian theoretical physicist, whose research has focused on quantum field theory, statistical mechanics and complex systems. His best known contributions are the QCD evolution equations for parton densities, obtained with Guido Altarelli, known as the Altarelli–Parisi or DGLAP equations, the exact solution of the Sherrington–Kirkpatrick model of spin glasses, the Kardar–Parisi–Zhang equation describing dynamic scaling of growing interfaces, and the study of whirling flocks of birds. He was awarded the 2021 Nobel Prize in Physics jointly with Klaus Hasselmann and Syukuro Manabe for groundbreaking contributions to theory of complex systems, in particular \"for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Parisi_giorgio.jpg/330px-Parisi_giorgio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgio_Parisi",
+  "dateOfBirth": "1948-08-04",
+  "birthDateParsed": "1948-08-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.893055555",
+  "birthCoordinatesLng": "12.482777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "theoretical physicist",
+    "scientist"
+  ],
+  "qid": "Q1235614",
+  "birthPlace": "Rome",
+  "fetchedAt": "2026-08-06T05:01:56.092Z"
+}

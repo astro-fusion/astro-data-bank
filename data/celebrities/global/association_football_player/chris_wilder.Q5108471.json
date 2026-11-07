@@ -1,0 +1,32 @@
+{
+  "publicId": "cd90f587",
+  "wikipediaSlug": "Chris_Wilder",
+  "wikipediaId": "Q5108471",
+  "name": "Chris Wilder",
+  "fullName": "Chris Wilder",
+  "profileSummary": "Christopher John Wilder is an English professional football manager who formerly played as a right-back. He is the manager of EFL Championship club Sheffield United.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chris_Wilder.png/330px-Chris_Wilder.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Wilder",
+  "dateOfBirth": "1967-09-23",
+  "birthDateParsed": "1967-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.478",
+  "birthCoordinatesLng": "-1.588",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q5108471",
+  "birthPlace": "Stocksbridge",
+  "fetchedAt": "2026-08-01T05:21:00.753Z"
+}

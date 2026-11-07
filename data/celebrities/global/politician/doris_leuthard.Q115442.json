@@ -1,0 +1,32 @@
+{
+  "publicId": "f07b9897",
+  "wikipediaSlug": "Doris_Leuthard",
+  "wikipediaId": "Q115442",
+  "name": "Doris Leuthard",
+  "fullName": "Doris Leuthard",
+  "profileSummary": "Doris Leuthard is a Swiss politician and lawyer who served as a Member of the Swiss Federal Council from 2006 to 2018. A member of the Christian Democratic People's Party (CVP/PDC), she was elected as President of the Swiss Confederation for 2010 and 2017. Leuthard headed the Federal Department of Economic Affairs until 2010, when she became head of the Federal Department of Environment, Transport, Energy and Communications. As of 19 December 2019 she is a member of the board of the Kofi Annan Foundation and Stadler Rail.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Doris_Leuthard_an_der_DV_der_CVP_Schweiz_%28cropped%29.jpg/330px-Doris_Leuthard_an_der_DV_der_CVP_Schweiz_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+  "dateOfBirth": "1963-04-10",
+  "birthDateParsed": "1963-04-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.262222222",
+  "birthCoordinatesLng": "8.3775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q115442",
+  "birthPlace": "Merenschwand",
+  "fetchedAt": "2026-08-04T00:55:51.023Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "55dca29d",
+  "wikipediaSlug": "Andris_Kulbergs",
+  "wikipediaId": "Q115604300",
+  "name": "Andris Kulbergs",
+  "fullName": "Andris Kulbergs",
+  "profileSummary": "Andris Kulbergs is a Latvian businessman and politician serving as the prime minister of Latvia since 2026. Before being elected to the Saeima as a non-party member of the United List ticket in 2022, he worked in a number of roles in the private sector. He also serves as the president of the Latvian Authorised Automobile Dealers Association. Following the resignation of Prime Minister Evika Siliņa on 14 May 2026, he was tasked by Latvian President Edgars Rinkēvičs to form a governing coalition for the five months before the 2026 Latvian parliamentary election. He was able to successfully form a coalition of the United List, New Unity, National Alliance, and Union of Greens and Farmers parties, and was confirmed as prime minister on 28 May 2026 with 66 votes in parliament. As prime minister he has called for budgetary reform as well as stricter oversight of the Air Baltic airline and the Rail Baltica infrastructure project, while continuing the pro-Ukraine foreign policy of his predecessors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andris_Kulbergs_%282026%29.jpg/330px-Andris_Kulbergs_%282026%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andris_Kulbergs",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.9475",
+  "birthCoordinatesLng": "24.106944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson",
+    "racing automobile driver"
+  ],
+  "qid": "Q115604300",
+  "birthPlace": "Riga",
+  "fetchedAt": "2026-08-03T16:49:26.290Z"
+}

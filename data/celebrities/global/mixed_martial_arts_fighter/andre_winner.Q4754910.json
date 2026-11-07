@@ -1,0 +1,32 @@
+{
+  "publicId": "94abe248",
+  "wikipediaSlug": "Andre_Winner",
+  "wikipediaId": "Q4754910",
+  "name": "Andre Winner",
+  "fullName": "Andre Winner",
+  "profileSummary": "Andre Badi Winner is a Grenadian-born British mixed martial artist. He was a cast member of Spike TV's The Ultimate Fighter: United States vs. United Kingdom, reaching the final. Winner is also a member of Team Rough House.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andre_Winner",
+  "dateOfBirth": "1981-11-09",
+  "birthDateParsed": "1981-11-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.0525",
+  "birthCoordinatesLng": "-61.753055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "karateka"
+  ],
+  "qid": "Q4754910",
+  "birthPlace": "St. George's",
+  "fetchedAt": "2026-08-01T17:04:25.451Z"
+}

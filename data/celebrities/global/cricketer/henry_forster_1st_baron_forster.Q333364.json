@@ -1,0 +1,32 @@
+{
+  "publicId": "5bfcb24d",
+  "wikipediaSlug": "Henry_Forster,_1st_Baron_Forster",
+  "wikipediaId": "Q333364",
+  "name": "Henry Forster, 1st Baron Forster",
+  "fullName": "Henry Forster, 1st Baron Forster",
+  "profileSummary": "Henry William Forster, 1st Baron Forster, was a British politician and first-class cricketer who served as the seventh Governor-General of Australia from 1920 to 1925. He was previously a government minister under Arthur Balfour, Herbert Asquith, and David Lloyd George.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Henry_Forster%2C_1st_Baron_Forster_circa_1925.jpg/330px-Henry_Forster%2C_1st_Baron_Forster_circa_1925.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Forster%2C_1st_Baron_Forster",
+  "dateOfBirth": "1866-01-31",
+  "birthDateParsed": "1866-01-31",
+  "dateOfDeath": "1936-01-15",
+  "deathDateParsed": "1936-01-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.19",
+  "birthCoordinatesLng": "0.73",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "politician"
+  ],
+  "qid": "Q333364",
+  "birthPlace": "Kent",
+  "fetchedAt": "2026-08-03T12:58:21.778Z"
+}

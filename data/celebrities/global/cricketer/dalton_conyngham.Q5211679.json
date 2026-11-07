@@ -1,0 +1,31 @@
+{
+  "publicId": "1cbf70a0",
+  "wikipediaSlug": "Dalton_Conyngham",
+  "wikipediaId": "Q5211679",
+  "name": "Dalton Conyngham",
+  "fullName": "Dalton Conyngham",
+  "profileSummary": "Dalton Parry \"Conky\" Conyngham was a South African cricketer who played in one Test match in the 1922–23 season. He played first-class cricket in South Africa from 1921–22 to 1930–31.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/DP_Conyngham.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dalton_Conyngham",
+  "dateOfBirth": "1897-05-10",
+  "birthDateParsed": "1897-05-10",
+  "dateOfDeath": "1979-07-07",
+  "deathDateParsed": "1979-07-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.858333333",
+  "birthCoordinatesLng": "31.025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5211679",
+  "birthPlace": "Durban",
+  "fetchedAt": "2026-07-31T20:21:26.235Z"
+}

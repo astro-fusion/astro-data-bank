@@ -1,0 +1,31 @@
+{
+  "publicId": "a94663d3",
+  "wikipediaSlug": "Andrew_Armacost",
+  "wikipediaId": "Q51524771",
+  "name": "Andrew Armacost",
+  "fullName": "Andrew Armacost",
+  "profileSummary": "Andrew Armacost is the 13th and current president of the University of North Dakota, and a retired brigadier general in the United States Air Force. He previously served as the dean of the faculty of the United States Air Force Academy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Brigadier_General_Andrew_Armacost.jpg/330px-Brigadier_General_Andrew_Armacost.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Armacost",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel"
+  ],
+  "qid": "Q51524771",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:56.168Z"
+}

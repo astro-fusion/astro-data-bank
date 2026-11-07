@@ -1,0 +1,36 @@
+{
+  "publicId": "9872ae54",
+  "wikipediaSlug": "Patrick_White",
+  "wikipediaId": "Q129187",
+  "name": "Patrick White",
+  "fullName": "Patrick White",
+  "profileSummary": "Patrick Victor Martindale White was an Australian novelist and playwright who explored themes of religious experience, personal identity and the conflict between visionary individuals and a materialistic, conformist society. Influenced by the modernism of James Joyce, D. H. Lawrence and Virginia Woolf, he developed a complex literary style and a body of work that challenged the dominant realist prose tradition of his home country, was satirical of Australian society, and sharply divided local critics. He was awarded the Nobel Prize in Literature in 1973 and is the only Australian to have been awarded it.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Patrick_White_writer.jpg/330px-Patrick_White_writer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_White",
+  "dateOfBirth": "1912-05-28",
+  "birthDateParsed": "1912-05-28",
+  "dateOfDeath": "1990-09-29",
+  "deathDateParsed": "1990-09-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "playwright",
+    "poet",
+    "screenwriter",
+    "autobiographer"
+  ],
+  "qid": "Q129187",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-06T07:42:20.885Z"
+}

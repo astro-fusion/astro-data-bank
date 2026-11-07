@@ -1,0 +1,32 @@
+{
+  "publicId": "9eaded16",
+  "wikipediaSlug": "Albert_Powell_(South_African_sportsman)",
+  "wikipediaId": "Q4711034",
+  "name": "Albert Powell (South African sportsman)",
+  "fullName": "Albert Powell (South African sportsman)",
+  "profileSummary": "Albert \"Bertie\" William Powell was a South African sportsman who played both international cricket and rugby union for South Africa.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Powell_(South_African_sportsman)",
+  "dateOfBirth": "1873-07-18",
+  "birthDateParsed": "1873-07-18",
+  "dateOfDeath": "1948-09-11",
+  "deathDateParsed": "1948-09-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rugby union player",
+    "cricketer"
+  ],
+  "qid": "Q4711034",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:20:34.276Z"
+}

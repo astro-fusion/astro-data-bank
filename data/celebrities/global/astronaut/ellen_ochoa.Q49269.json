@@ -1,0 +1,32 @@
+{
+  "publicId": "a56620ca",
+  "wikipediaSlug": "Ellen_Ochoa",
+  "wikipediaId": "Q49269",
+  "name": "Ellen Ochoa",
+  "fullName": "Ellen Ochoa",
+  "profileSummary": "Ellen Ochoa is an American engineer, former astronaut and former director of the Johnson Space Center. In 1993, Ochoa became the first Latina to go to space when she served on a nine-day mission aboard the Space Shuttle Discovery. Ochoa became director of the center upon the retirement of the previous director, Michael Coats, on December 31, 2012. She was the first Latina director and the second female director of Johnson Space Center.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ellen_Ochoa.jpg/330px-Ellen_Ochoa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_Ochoa",
+  "dateOfBirth": "1958-05-10",
+  "birthDateParsed": "1958-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q49269",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-10T06:04:59.104Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "70b18a78",
+  "wikipediaSlug": "George_Karl",
+  "wikipediaId": "Q930865",
+  "name": "George Karl",
+  "fullName": "George Karl",
+  "profileSummary": "George Matthew Karl is an American former professional basketball coach and player. After spending five years as a player for the San Antonio Spurs, he became an assistant with the team before being appointed as a head coach in 1980 with the Montana Golden Nuggets of the Continental Basketball Association (CBA). Three years later, Karl became one of the youngest National Basketball Association (NBA) head coaches in history when he was named coach of the Cleveland Cavaliers at age 33. By the time his coaching career came to an end in 2016, Karl coached nine different teams in three different leagues, which included being named Coach of the Year three combined times with one championship roster in the FIBA Saporta Cup. He is one of nine coaches in NBA history to have won 1,000 NBA games and was named NBA Coach of the Year for the 2012–13 season. While he never won an NBA championship, Karl made the postseason 22 times with five different teams, which included a trip to the 1996 NBA Finals with the Seattle SuperSonics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/George_Karl.jpg/330px-George_Karl.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Karl",
+  "dateOfBirth": "1951-05-12",
+  "birthDateParsed": "1951-05-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.471826",
+  "birthCoordinatesLng": "-79.819502",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q930865",
+  "birthPlace": "Penn Hills",
+  "fetchedAt": "2026-08-01T15:37:31.384Z"
+}

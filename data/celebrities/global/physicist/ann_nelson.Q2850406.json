@@ -1,0 +1,32 @@
+{
+  "publicId": "3828ba64",
+  "wikipediaSlug": "Ann_Nelson",
+  "wikipediaId": "Q2850406",
+  "name": "Ann Nelson",
+  "fullName": "Ann Nelson",
+  "profileSummary": "Ann Elizabeth Nelson was an American particle physicist and professor of physics in the Particle Theory Group at the University of Washington from 1994 until her death. Nelson received a Guggenheim Fellowship in 2004, and she was elected to the American Academy of Arts and Sciences in 2011 and the National Academy of Sciences in 2012. She was a recipient of the 2018 J. J. Sakurai Prize for Theoretical Particle Physics, presented annually by the American Physical Society and considered one of the most prestigious prizes in physics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/%22Ann_Nelson%2C_photo_from_University_of_Washington.jpg%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ann_Nelson",
+  "dateOfBirth": "1958-04-29",
+  "birthDateParsed": "1958-04-29",
+  "dateOfDeath": "2019-08-04",
+  "deathDateParsed": "2019-08-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.4475",
+  "birthCoordinatesLng": "-91.178611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q2850406",
+  "birthPlace": "Baton Rouge",
+  "fetchedAt": "2026-08-04T15:04:33.957Z"
+}

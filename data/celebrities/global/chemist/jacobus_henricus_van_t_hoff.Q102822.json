@@ -1,0 +1,36 @@
+{
+  "publicId": "f8d4b011",
+  "wikipediaSlug": "Jacobus_Henricus_van_'t_Hoff",
+  "wikipediaId": "Q102822",
+  "name": "Jacobus Henricus van 't Hoff",
+  "fullName": "Jacobus Henricus van 't Hoff",
+  "profileSummary": "Jacobus Henricus van 't Hoff Jr. was a Dutch physical chemist. A highly influential theoretical chemist, in 1901 Van 't Hoff won the first Nobel Prize in Chemistry \"[for his] discovery of the laws of chemical dynamics and osmotic pressure in solutions\". His pioneering work helped found the modern theory of chemical affinity, chemical equilibrium, chemical kinetics, and chemical thermodynamics. In his 1874 pamphlet, Van 't Hoff formulated the theory of the tetrahedral carbon atom and laid the foundations of stereochemistry. In 1875, he predicted the correct structures of allenes and cumulenes as well as their axial chirality. He is also widely considered one of the three co-founders of physical chemistry as the discipline is known today. The Zeitschrift für physikalische Chemie was founded in 1887 by Van ’t Hoff, Svante Arrhenius and Wilhelm Ostwald, at Leipzig University as the first dedicated scientific journal for the discipline.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jacobus_van_%27t_Hoff_by_Perscheid_1904.jpg/330px-Jacobus_van_%27t_Hoff_by_Perscheid_1904.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_'t_Hoff",
+  "dateOfBirth": "1852-08-30",
+  "birthDateParsed": "1852-08-30",
+  "dateOfDeath": "1911-03-01",
+  "deathDateParsed": "1911-03-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.92",
+  "birthCoordinatesLng": "4.48",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "physicist",
+    "engineer",
+    "geologist",
+    "university teacher",
+    "stereochemist"
+  ],
+  "qid": "Q102822",
+  "birthPlace": "Rotterdam",
+  "fetchedAt": "2026-08-10T02:04:18.103Z"
+}

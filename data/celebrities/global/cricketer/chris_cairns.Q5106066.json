@@ -1,0 +1,31 @@
+{
+  "publicId": "997adc7d",
+  "wikipediaSlug": "Chris_Cairns",
+  "wikipediaId": "Q5106066",
+  "name": "Chris Cairns",
+  "fullName": "Chris Cairns",
+  "profileSummary": "Christopher Lance Cairns is a former New Zealand cricketer who played as a right-arm fast bowler and right-handed batter. He is regarded as one of the greatest all-rounders of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chris_Cairns_from_side.jpg/330px-Chris_Cairns_from_side.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Cairns",
+  "dateOfBirth": "1970-06-13",
+  "birthDateParsed": "1970-06-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.291666666",
+  "birthCoordinatesLng": "174.005555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5106066",
+  "birthPlace": "Picton",
+  "fetchedAt": "2026-07-31T21:03:10.308Z"
+}

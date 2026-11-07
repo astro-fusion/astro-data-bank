@@ -1,0 +1,32 @@
+{
+  "publicId": "6e0bf6bd",
+  "wikipediaSlug": "Robert_Walpole",
+  "wikipediaId": "Q104190",
+  "name": "Robert Walpole",
+  "fullName": "Robert Walpole",
+  "profileSummary": "Robert Walpole, 1st Earl of Orford, known between 1725 and 1742 as Sir Robert Walpole, was a British Whig statesman who is generally regarded as the de facto first Prime Minister of Great Britain, serving from 1721 to 1742. His formal titles included First Lord of the Treasury, Chancellor of the Exchequer, and Leader of the House of Commons. He is the longest serving prime minister in UK history, with a tenure of over 20 years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Robert-Walpole-1st-Earl-of-Orford.jpg/330px-Robert-Walpole-1st-Earl-of-Orford.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Walpole",
+  "dateOfBirth": "1676-09-05",
+  "birthDateParsed": "1676-09-05",
+  "dateOfDeath": "1745-03-29",
+  "deathDateParsed": "1745-03-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.827402777",
+  "birthCoordinatesLng": "0.654202777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "art collector"
+  ],
+  "qid": "Q104190",
+  "birthPlace": "Houghton",
+  "fetchedAt": "2026-08-02T05:23:00.474Z"
+}

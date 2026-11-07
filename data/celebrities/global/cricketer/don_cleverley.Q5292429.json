@@ -1,0 +1,31 @@
+{
+  "publicId": "d5555ce5",
+  "wikipediaSlug": "Don_Cleverley",
+  "wikipediaId": "Q5292429",
+  "name": "Don Cleverley",
+  "fullName": "Don Cleverley",
+  "profileSummary": "Donald Charles Cleverley was a New Zealand Test cricketer. Cleverley played in two Tests for the New Zealand national cricket team, 14 years apart, but failed to take a wicket in either match.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1e/Don_Cleverley_in_1931.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_Cleverley",
+  "dateOfBirth": "1909-12-23",
+  "birthDateParsed": "1909-12-23",
+  "dateOfDeath": "2004-02-16",
+  "deathDateParsed": "2004-02-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-45.880555555",
+  "birthCoordinatesLng": "170.496111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5292429",
+  "birthPlace": "Otago Region",
+  "fetchedAt": "2026-07-31T21:03:07.863Z"
+}

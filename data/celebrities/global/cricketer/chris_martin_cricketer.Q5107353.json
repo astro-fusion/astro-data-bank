@@ -1,0 +1,31 @@
+{
+  "publicId": "1b985ec4",
+  "wikipediaSlug": "Chris_Martin_(cricketer)",
+  "wikipediaId": "Q5107353",
+  "name": "Chris Martin (cricketer)",
+  "fullName": "Chris Martin (cricketer)",
+  "profileSummary": "Christopher Stewart Martin is a former New Zealand cricketer. A right-arm fast-medium bowler, Martin played provincial cricket for Auckland, having formerly played for the Canterbury Wizards.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Martin_(cricketer)",
+  "dateOfBirth": "1974-12-10",
+  "birthDateParsed": "1974-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5107353",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-07-31T21:02:39.961Z"
+}

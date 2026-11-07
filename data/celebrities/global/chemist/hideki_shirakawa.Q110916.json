@@ -1,0 +1,34 @@
+{
+  "publicId": "c6e7a18f",
+  "wikipediaSlug": "Hideki_Shirakawa",
+  "wikipediaId": "Q110916",
+  "name": "Hideki Shirakawa",
+  "fullName": "Hideki Shirakawa",
+  "profileSummary": "Hideki Shirakawa  is a Japanese chemist, engineer, and Professor Emeritus at the University of Tsukuba and Zhejiang University. He is best known for his discovery of conductive polymers. He was co-recipient of the 2000 Nobel Prize in Chemistry jointly with Alan MacDiarmid and Alan Heeger.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hideki_Shirakawa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hideki_Shirakawa",
+  "dateOfBirth": "1936-08-20",
+  "birthDateParsed": "1936-08-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.689444444",
+  "birthCoordinatesLng": "139.691666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "engineer",
+    "professor",
+    "academic"
+  ],
+  "qid": "Q110916",
+  "birthPlace": "Tokyo",
+  "fetchedAt": "2026-08-10T02:04:30.674Z"
+}

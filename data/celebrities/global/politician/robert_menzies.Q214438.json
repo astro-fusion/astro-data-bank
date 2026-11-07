@@ -1,0 +1,34 @@
+{
+  "publicId": "b68075ca",
+  "wikipediaSlug": "Robert_Menzies",
+  "wikipediaId": "Q214438",
+  "name": "Robert Menzies",
+  "fullName": "Robert Menzies",
+  "profileSummary": "Sir Robert Gordon Menzies was an Australian politician and lawyer who served as the 12th prime minister of Australia from 1939 to 1941 and from 1949 to 1966. He held office as the leader of the United Australia Party (UAP) in his first term, and subsequently as the inaugural leader of the Liberal Party of Australia in his second. He was the member of parliament (MP) for the Victorian division of Kooyong from 1934 to 1966. He is the longest-serving prime minister in Australian history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Portrait_Menzies_1950s.jpg/330px-Portrait_Menzies_1950s.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Menzies",
+  "dateOfBirth": "1894-12-20",
+  "birthDateParsed": "1894-12-20",
+  "dateOfDeath": "1978-05-15",
+  "deathDateParsed": "1978-05-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.1333",
+  "birthCoordinatesLng": "141.983",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer",
+    "preface author"
+  ],
+  "qid": "Q214438",
+  "birthPlace": "Jeparit",
+  "fetchedAt": "2026-08-03T12:58:35.709Z"
+}

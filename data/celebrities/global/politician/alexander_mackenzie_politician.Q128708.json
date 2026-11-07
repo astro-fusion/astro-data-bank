@@ -1,0 +1,37 @@
+{
+  "publicId": "05ddb8ab",
+  "wikipediaSlug": "Alexander_Mackenzie_(politician)",
+  "wikipediaId": "Q128708",
+  "name": "Alexander Mackenzie (politician)",
+  "fullName": "Alexander Mackenzie (politician)",
+  "profileSummary": "Alexander Mackenzie was a Scottish-Canadian stonemason and politician who served as the second prime minister of Canada from 1873 to 1878. He led the Liberal Party from 1873 to 1880 and was the first Liberal prime minister. He was also a member of Parliament (MP) from 1867 to 1892.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Alexander_MacKenzie_-_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Mackenzie_(politician)",
+  "dateOfBirth": "1822-01-28",
+  "birthDateParsed": "1822-01-28",
+  "dateOfDeath": "1892-04-17",
+  "deathDateParsed": "1892-04-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.6476",
+  "birthCoordinatesLng": "-3.67971",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "journalist",
+    "entrepreneur",
+    "writer",
+    "stonemason",
+    "editor",
+    "businessperson"
+  ],
+  "qid": "Q128708",
+  "birthPlace": "Logierait",
+  "fetchedAt": "2026-08-03T10:59:08.982Z"
+}

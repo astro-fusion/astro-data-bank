@@ -1,0 +1,33 @@
+{
+  "publicId": "03de1bc4",
+  "wikipediaSlug": "Kirsten_Gillibrand",
+  "wikipediaId": "Q22222",
+  "name": "Kirsten Gillibrand",
+  "fullName": "Kirsten Gillibrand",
+  "profileSummary": "Kirsten Elizabeth Gillibrand is an American lawyer and politician serving as the junior United States senator from New York since 2009. A member of the Democratic Party, she served as a member of the U.S. House of Representatives from 2007 to 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress.jpg/330px-Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kirsten_Gillibrand",
+  "dateOfBirth": "1966-12-09",
+  "birthDateParsed": "1966-12-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.65",
+  "birthCoordinatesLng": "-73.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "writer"
+  ],
+  "qid": "Q22222",
+  "birthPlace": "Albany",
+  "fetchedAt": "2026-08-02T02:17:45.067Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "e3725f88",
+  "wikipediaSlug": "Charles_Bannerman",
+  "wikipediaId": "Q2742270",
+  "name": "Charles Bannerman",
+  "fullName": "Charles Bannerman",
+  "profileSummary": "Charles Bannerman was an English-born Australian cricketer. A right-handed batsman, he represented Australia in three Test matches between 1877 and 1879. At the domestic level, he played for the New South Wales cricket team. Later, he became an umpire.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cricketer_Charles_Bannerman_SLNSW_FL3269748.jpg/330px-Cricketer_Charles_Bannerman_SLNSW_FL3269748.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Bannerman",
+  "dateOfBirth": "1851-07-03",
+  "birthDateParsed": "1851-07-03",
+  "dateOfDeath": "1930-08-20",
+  "deathDateParsed": "1930-08-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.491666666",
+  "birthCoordinatesLng": "0.066666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire"
+  ],
+  "qid": "Q2742270",
+  "birthPlace": "Woolwich",
+  "fetchedAt": "2026-07-31T19:44:53.630Z"
+}

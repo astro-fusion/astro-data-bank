@@ -1,0 +1,34 @@
+{
+  "publicId": "c1ed6c5f",
+  "wikipediaSlug": "Edward_VII",
+  "wikipediaId": "Q20875",
+  "name": "Edward VII",
+  "fullName": "Edward VII",
+  "profileSummary": "Edward VII was King of the United Kingdom and the British Dominions, and Emperor of India, from 22 January 1901 until his death in 1910.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/King-Edward-VII_%28cropped%29_%28b%29.jpg/330px-King-Edward-VII_%28cropped%29_%28b%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_VII",
+  "dateOfBirth": "1841-11-09",
+  "birthDateParsed": "1841-11-09",
+  "dateOfDeath": "1910-05-06",
+  "deathDateParsed": "1910-05-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.501",
+  "birthCoordinatesLng": "-0.142",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aristocrat",
+    "art collector",
+    "monarch",
+    "politician"
+  ],
+  "qid": "Q20875",
+  "birthPlace": "Buckingham Palace",
+  "fetchedAt": "2026-08-03T12:58:12.400Z"
+}

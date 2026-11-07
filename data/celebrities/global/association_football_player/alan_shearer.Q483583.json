@@ -1,0 +1,33 @@
+{
+  "publicId": "71eac09e",
+  "wikipediaSlug": "Alan_Shearer",
+  "wikipediaId": "Q483583",
+  "name": "Alan Shearer",
+  "fullName": "Alan Shearer",
+  "profileSummary": "Alan Shearer is an English football pundit and former professional player who played as a striker. Widely regarded as one of the greatest strikers of all time and one of the greatest players in Premier League history, he is the league's record goalscorer with 260 goals. He was named Football Writers' Association Player of the Year in 1994 and won the PFA Player of the Year award in 1995. In 1996, he came third in both Ballon d'Or and FIFA World Player of the Year awards. In 2004, he was named by Pelé in the FIFA 100 list of the world's greatest living players. Shearer was one of the first two players inducted into the Premier League Hall of Fame in 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Alan_Shearer_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Shearer",
+  "dateOfBirth": "1970-08-13",
+  "birthDateParsed": "1970-08-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.977777777",
+  "birthCoordinatesLng": "-1.613333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "sports commentator"
+  ],
+  "qid": "Q483583",
+  "birthPlace": "Newcastle upon Tyne",
+  "fetchedAt": "2026-08-10T11:27:22.183Z"
+}

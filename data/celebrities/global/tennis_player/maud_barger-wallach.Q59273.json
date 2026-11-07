@@ -1,0 +1,31 @@
+{
+  "publicId": "c53187ba",
+  "wikipediaSlug": "Maud_Barger-Wallach",
+  "wikipediaId": "Q59273",
+  "name": "Maud Barger-Wallach",
+  "fullName": "Maud Barger-Wallach",
+  "profileSummary": "Maud Barger-Wallach was an American tennis player of the early 1900s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mrs_Barger_Wallach.jpg/330px-Mrs_Barger_Wallach.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maud_Barger-Wallach",
+  "dateOfBirth": "1870-06-15",
+  "birthDateParsed": "1870-06-15",
+  "dateOfDeath": "1959-04-02",
+  "deathDateParsed": "1959-04-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q59273",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-01T15:00:14.289Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "89baabe4",
+  "wikipediaSlug": "Guido_Imbens",
+  "wikipediaId": "Q16730042",
+  "name": "Guido Imbens",
+  "fullName": "Guido Imbens",
+  "profileSummary": "Guido Wilhelmus Imbens is a Dutch-American economist whose research concerns econometrics and statistics. He holds the Applied Econometrics Professorship in Economics at the Stanford Graduate School of Business at Stanford University, where he has taught since 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Guido_Imbens_in_2025_by_Christopher_Michel.jpg/330px-Guido_Imbens_in_2025_by_Christopher_Michel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guido_Imbens",
+  "dateOfBirth": "1963-09-03",
+  "birthDateParsed": "1963-09-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4222",
+  "birthCoordinatesLng": "5.5578",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "academic",
+    "university teacher",
+    "business administration scholar",
+    "econometrician"
+  ],
+  "qid": "Q16730042",
+  "birthPlace": "Geldrop",
+  "fetchedAt": "2026-08-10T09:43:22.751Z"
+}

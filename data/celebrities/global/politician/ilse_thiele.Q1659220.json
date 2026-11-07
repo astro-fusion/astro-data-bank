@@ -1,0 +1,33 @@
+{
+  "publicId": "e7878994",
+  "wikipediaSlug": "Ilse_Thiele",
+  "wikipediaId": "Q1659220",
+  "name": "Ilse Thiele",
+  "fullName": "Ilse Thiele",
+  "profileSummary": "Ilse Thiele was an East German politician. She was a member of the powerful Central Committee of the country's ruling SED (party) between 1954 and 1989. She served as the chair of the national Democratic Women's League from 1953 to 1989.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_Bild_183-1987-0305-114%2C_Berlin%2C_XII._DFD-Kongress.jpg/330px-Bundesarchiv_Bild_183-1987-0305-114%2C_Berlin%2C_XII._DFD-Kongress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilse_Thiele",
+  "dateOfBirth": "1920-11-04",
+  "birthDateParsed": "1920-11-04",
+  "dateOfDeath": "2010-01-10",
+  "deathDateParsed": "2010-01-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "stenotypist",
+    "feminist"
+  ],
+  "qid": "Q1659220",
+  "birthPlace": "Berlin",
+  "fetchedAt": "2026-08-04T00:56:28.553Z"
+}

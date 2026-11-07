@@ -1,0 +1,33 @@
+{
+  "publicId": "f39110a6",
+  "wikipediaSlug": "Donald_Tresidder",
+  "wikipediaId": "Q1240416",
+  "name": "Donald Tresidder",
+  "fullName": "Donald Tresidder",
+  "profileSummary": "Donald Bertrand Tresidder was the fourth president of Stanford University, serving from 1943 until his sudden death in 1948. He also had a longstanding association with Yosemite National Park.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Donald_Bertrand_Tresidder.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Tresidder",
+  "dateOfBirth": "1894-04-07",
+  "birthDateParsed": "1894-04-07",
+  "dateOfDeath": "1948-01-28",
+  "deathDateParsed": "1948-01-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.285",
+  "birthCoordinatesLng": "-86.0403",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "manager",
+    "author"
+  ],
+  "qid": "Q1240416",
+  "birthPlace": "Tipton",
+  "fetchedAt": "2026-08-04T15:05:50.426Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "8c2007fe",
+  "wikipediaSlug": "Emmanuel_Macron",
+  "wikipediaId": "Q3052772",
+  "name": "Emmanuel Macron",
+  "fullName": "Emmanuel Macron",
+  "profileSummary": "Emmanuel Jean-Michel Frédéric Macron is a French politician who has served as President of France since 2017. He has been a member of Renaissance since founding the party in 2016. Macron previously served as Deputy Secretary-General to the President from 2012 to 2014 and Minister of Economics and Finance from 2014 to 2016 under President François Hollande.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/330px-Emmanuel_Macron_2025_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+  "dateOfBirth": "1977-12-21",
+  "birthDateParsed": "1977-12-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.891944444",
+  "birthCoordinatesLng": "2.297777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "investment banker",
+    "statesperson",
+    "official",
+    "politician",
+    "banker",
+    "political scientist",
+    "philosopher"
+  ],
+  "qid": "Q3052772",
+  "birthPlace": "Amiens",
+  "fetchedAt": "2026-08-04T00:56:07.651Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "59fb8fea",
+  "wikipediaSlug": "Douglas_Diamond",
+  "wikipediaId": "Q185871",
+  "name": "Douglas Diamond",
+  "fullName": "Douglas Diamond",
+  "profileSummary": "Douglas Warren Diamond is an American economist. He is the Merton H. Miller Distinguished Service Professor of Finance at the University of Chicago Booth School of Business, where he has taught since 1979. Diamond specializes in the study of financial intermediaries, financial crises, and liquidity. He is a former president of the American Finance Association (2003) and the Western Finance Association (2001–02).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Douglas_Diamond.jpg/330px-Douglas_Diamond.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Douglas_Diamond",
+  "dateOfBirth": "1953-10-25",
+  "birthDateParsed": "1953-10-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q185871",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-10T09:43:00.877Z"
+}

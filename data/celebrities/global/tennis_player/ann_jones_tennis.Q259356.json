@@ -1,0 +1,32 @@
+{
+  "publicId": "79b9558b",
+  "wikipediaSlug": "Ann_Jones_(tennis)",
+  "wikipediaId": "Q259356",
+  "name": "Ann Jones (tennis)",
+  "fullName": "Ann Jones (tennis)",
+  "profileSummary": "Ann Shirley Jones, also known as Ann Haydon-Jones, is an English former tennis and table tennis champion. She won eight Grand Slam tennis championships in her career: three in singles, three in women's doubles and two in mixed doubles. In 2023, she served as a vice president of the All England Lawn Tennis and Croquet Club.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ann_Haydon-Jones_1969c.jpg/330px-Ann_Haydon-Jones_1969c.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ann_Jones_(tennis)",
+  "dateOfBirth": "1938-10-07",
+  "birthDateParsed": "1938-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "table tennis player"
+  ],
+  "qid": "Q259356",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-08-01T14:58:43.545Z"
+}

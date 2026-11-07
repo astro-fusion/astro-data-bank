@@ -1,0 +1,37 @@
+{
+  "publicId": "39e1be6e",
+  "wikipediaSlug": "David_Beckham",
+  "wikipediaId": "Q10520",
+  "name": "David Beckham",
+  "fullName": "David Beckham",
+  "profileSummary": "Sir David Robert Joseph Beckham is an English former professional footballer, the president and co-owner of Inter Miami CF and co-owner of Salford City F.C.. Primarily a right midfielder and known for his range of passing, crossing ability and set-piece taking, Beckham is considered one of the best players of his generation and one of the greatest set-piece specialists of all time. He won 19 major trophies in his career, and is the only English player to have won a league title in four different countries: England, France, Spain, and the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg/330px-David_Beckham_UNICEF_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Beckham",
+  "dateOfBirth": "1975-05-02",
+  "birthDateParsed": "1975-05-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.569",
+  "birthCoordinatesLng": "0.01",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "model",
+    "blogger",
+    "actor",
+    "entrepreneur",
+    "businessperson",
+    "sports executive"
+  ],
+  "qid": "Q10520",
+  "birthPlace": "Leytonstone",
+  "fetchedAt": "2026-08-10T11:27:31.690Z"
+}

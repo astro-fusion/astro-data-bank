@@ -1,0 +1,33 @@
+{
+  "publicId": "42f54dcd",
+  "wikipediaSlug": "Daron_Acemoglu",
+  "wikipediaId": "Q718581",
+  "name": "Daron Acemoglu",
+  "fullName": "Daron Acemoglu",
+  "profileSummary": "Kamer Daron Acemoğlu is a Turkish-American economist of Armenian descent who has taught at the Massachusetts Institute of Technology since 1993, where he is currently the Elizabeth and James Killian Professor of Economics, and was named an Institute Professor at MIT in 2019. His primary research fields include political economy, development economics, and labor economics. He received the John Bates Clark Medal in 2005, and the Nobel Memorial Prize in Economic Sciences in 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Acemoglu_2016_%283x4_cropped%29.png/330px-Acemoglu_2016_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daron_Acemoglu",
+  "dateOfBirth": "1967-09-03",
+  "birthDateParsed": "1967-09-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.01",
+  "birthCoordinatesLng": "28.960277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "author"
+  ],
+  "qid": "Q718581",
+  "birthPlace": "Istanbul",
+  "fetchedAt": "2026-08-10T09:42:59.100Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "0c631e62",
+  "wikipediaSlug": "Chris_Drum",
+  "wikipediaId": "Q5106434",
+  "name": "Chris Drum",
+  "fullName": "Chris Drum",
+  "profileSummary": "Christopher James Drum is a former New Zealand cricketer who played in five Test matches and five One Day Internationals from 1999 to 2002. Drum attended Rosmini College in Auckland.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Drum",
+  "dateOfBirth": "1974-07-10",
+  "birthDateParsed": "1974-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5106434",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-31T21:02:23.151Z"
+}

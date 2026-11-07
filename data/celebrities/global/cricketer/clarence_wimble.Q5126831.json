@@ -1,0 +1,31 @@
+{
+  "publicId": "cbb55dec",
+  "wikipediaSlug": "Clarence_Wimble",
+  "wikipediaId": "Q5126831",
+  "name": "Clarence Wimble",
+  "fullName": "Clarence Wimble",
+  "profileSummary": "Clarence Skelton Wimble was a South African cricketer who played one Test match in 1892.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clarence_Wimble",
+  "dateOfBirth": "1861-04-22",
+  "birthDateParsed": "1861-04-22",
+  "dateOfDeath": "1930-01-28",
+  "deathDateParsed": "1930-01-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.252222222",
+  "birthCoordinatesLng": "24.540555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5126831",
+  "birthPlace": "Graaff-Reinet",
+  "fetchedAt": "2026-07-31T20:21:49.424Z"
+}

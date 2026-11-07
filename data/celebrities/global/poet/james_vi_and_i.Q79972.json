@@ -1,0 +1,34 @@
+{
+  "publicId": "7a4fbe1c",
+  "wikipediaSlug": "James_VI_and_I",
+  "wikipediaId": "Q79972",
+  "name": "James VI and I",
+  "fullName": "James VI and I",
+  "profileSummary": "James VI and I was King of Scotland as James VI from 24 July 1567, and King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603, until his death in 1625. Though he long attempted to get both countries to adopt a closer political union, the kingdoms of Scotland and England remained sovereign states ruled by James in personal union, with their own parliaments, judiciaries and laws.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JamesIEngland.jpg/330px-JamesIEngland.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_VI_and_I",
+  "dateOfBirth": "1566-06-29",
+  "birthDateParsed": "1566-06-29",
+  "dateOfDeath": "1625-04-06",
+  "deathDateParsed": "1625-04-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.9487",
+  "birthCoordinatesLng": "-3.20073",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "monarch",
+    "aristocrat"
+  ],
+  "qid": "Q79972",
+  "birthPlace": "Edinburgh Castle",
+  "fetchedAt": "2026-08-02T05:22:34.936Z"
+}

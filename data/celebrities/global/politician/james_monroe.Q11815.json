@@ -1,0 +1,37 @@
+{
+  "publicId": "013da614",
+  "wikipediaSlug": "James_Monroe",
+  "wikipediaId": "Q11815",
+  "name": "James Monroe",
+  "fullName": "James Monroe",
+  "profileSummary": "James Monroe was a Founding Father and the fifth president of the United States, serving from 1817 to 1825. He was the last Founding Father to serve as president, as well as the last president of the Virginia dynasty. A member of the Democratic-Republican Party, Monroe's presidency coincided with the Era of Good Feelings, in which the First Party System era of American politics concluded. He issued the Monroe Doctrine, a policy aimed at limiting European colonialism in the Americas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg/330px-James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Monroe",
+  "dateOfBirth": "1758-04-28",
+  "birthDateParsed": "1758-04-28",
+  "dateOfDeath": "1831-07-04",
+  "deathDateParsed": "1831-07-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.2397",
+  "birthCoordinatesLng": "-76.9922",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "farmer",
+    "statesperson",
+    "writer",
+    "governor"
+  ],
+  "qid": "Q11815",
+  "birthPlace": "Monroe Hall",
+  "fetchedAt": "2026-08-01T18:08:14.418Z"
+}

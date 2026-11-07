@@ -1,0 +1,32 @@
+{
+  "publicId": "43a3d047",
+  "wikipediaSlug": "George_Akerlof",
+  "wikipediaId": "Q222541",
+  "name": "George Akerlof",
+  "fullName": "George Akerlof",
+  "profileSummary": "George Arthur Akerlof is an American economist and a university professor at the McCourt School of Public Policy at Georgetown University and Koshland Professor of Economics Emeritus at the University of California, Berkeley. Akerlof was awarded the 2001 Nobel Memorial Prize in Economic Sciences, jointly with Michael Spence and Joseph Stiglitz, \"for their analyses of markets with asymmetric information.\" He is the husband of former United States Secretary of the Treasury Janet Yellen.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/George_Akerlof_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Akerlof",
+  "dateOfBirth": "1940-06-17",
+  "birthDateParsed": "1940-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.308333333",
+  "birthCoordinatesLng": "-72.925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "professor"
+  ],
+  "qid": "Q222541",
+  "birthPlace": "New Haven",
+  "fetchedAt": "2026-08-10T09:43:10.009Z"
+}

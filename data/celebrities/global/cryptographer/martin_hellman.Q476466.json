@@ -1,0 +1,36 @@
+{
+  "publicId": "47b58ce9",
+  "wikipediaSlug": "Martin_Hellman",
+  "wikipediaId": "Q476466",
+  "name": "Martin Hellman",
+  "fullName": "Martin Hellman",
+  "profileSummary": "Martin Edward Hellman is an American cryptologist and mathematician, best known for his invention of public-key cryptography in cooperation with Whitfield Diffie and Ralph Merkle. Hellman is a longtime contributor to the computer privacy debate, and has applied risk analysis to a potential failure of nuclear deterrence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Martin-Hellman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Hellman",
+  "dateOfBirth": "1945-10-02",
+  "birthDateParsed": "1945-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cryptographer",
+    "mathematician",
+    "computer scientist",
+    "academic",
+    "university teacher",
+    "electrical engineer"
+  ],
+  "qid": "Q476466",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-10T04:29:22.974Z"
+}

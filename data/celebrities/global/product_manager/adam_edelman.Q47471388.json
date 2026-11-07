@@ -1,0 +1,33 @@
+{
+  "publicId": "0f5ae89c",
+  "wikipediaSlug": "Adam_Edelman",
+  "wikipediaId": "Q47471388",
+  "name": "Adam Edelman",
+  "fullName": "Adam Edelman",
+  "profileSummary": "Adam Jeremy \"A. J.\" Edelman  is an American-born Israeli sliding sports athlete. He is the first Israeli to qualify for the Olympics in two different sports, and the first Orthodox Jew to compete in the Winter Olympics. Edelman competed for Israel in the skeleton competition at the 2018 Winter Olympics in Pyeongchang, South Korea, and competed at the Milano Cortina 2026 Olympics in the bobsleigh.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Edelman",
+  "dateOfBirth": "1991-03-14",
+  "birthDateParsed": "1991-03-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "product manager",
+    "skeleton racer",
+    "bobsledder"
+  ],
+  "qid": "Q47471388",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-05T03:15:12.155Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "bde70a11",
+  "wikipediaSlug": "Carl_von_Ossietzky",
+  "wikipediaId": "Q76358",
+  "name": "Carl von Ossietzky",
+  "fullName": "Carl von Ossietzky",
+  "profileSummary": "Carl von Ossietzky was a German journalist and pacifist. He was the recipient of the 1935 Nobel Peace Prize for his work in exposing the clandestine German rearmament.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Carl_von_Ossietzky.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_von_Ossietzky",
+  "dateOfBirth": "1889-10-03",
+  "birthDateParsed": "1889-10-03",
+  "dateOfDeath": "1938-05-04",
+  "deathDateParsed": "1938-05-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "writer",
+    "opinion journalist",
+    "editor",
+    "Nobel Prize winner",
+    "editing staff"
+  ],
+  "qid": "Q76358",
+  "birthPlace": "Hamburg",
+  "fetchedAt": "2026-08-04T02:12:40.658Z"
+}

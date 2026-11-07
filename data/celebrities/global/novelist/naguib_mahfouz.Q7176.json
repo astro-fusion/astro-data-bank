@@ -1,0 +1,42 @@
+{
+  "publicId": "19ce4809",
+  "wikipediaSlug": "Naguib_Mahfouz",
+  "wikipediaId": "Q7176",
+  "name": "Naguib Mahfouz",
+  "fullName": "Naguib Mahfouz",
+  "profileSummary": "Naguib Mahfouz Abdelaziz Ibrahim Ahmed Al-Basha was an Egyptian writer who won the 1988 Nobel Prize in Literature. In awarding the prize, the Swedish Academy described him as a writer \"who, through works rich in nuance – now clear-sightedly realistic, now evocatively ambiguous – has formed an Egyptian narrative art that applies to all mankind\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nagib_Mahfouz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Naguib_Mahfouz",
+  "dateOfBirth": "1911-12-11",
+  "birthDateParsed": "1911-12-11",
+  "dateOfDeath": "2006-08-30",
+  "deathDateParsed": "2006-08-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.05105",
+  "birthCoordinatesLng": "31.26486",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "novelist",
+    "screenwriter",
+    "translator",
+    "playwright",
+    "writer",
+    "intellectual",
+    "journalist",
+    "short story writer",
+    "autobiographer",
+    "author",
+    "editing staff",
+    "film screenwriter"
+  ],
+  "qid": "Q7176",
+  "birthPlace": "Al-Jamāliyah",
+  "fetchedAt": "2026-08-06T07:42:19.987Z"
+}

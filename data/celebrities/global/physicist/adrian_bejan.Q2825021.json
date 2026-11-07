@@ -1,0 +1,35 @@
+{
+  "publicId": "d30afce1",
+  "wikipediaSlug": "Adrian_Bejan",
+  "wikipediaId": "Q2825021",
+  "name": "Adrian Bejan",
+  "fullName": "Adrian Bejan",
+  "profileSummary": "Adrian Bejan is a Romanian-American professor who has made contributions to modern thermodynamics and developed the constructal law. He is J. A. Jones Distinguished Professor of Mechanical Engineering at Duke University and author of the books Design in Nature, The Physics of Life , Freedom and Evolution and Time And Beauty. He is an Honorary Member of the American Society of Mechanical Engineers and was awarded the Benjamin Franklin Medal and the ASME Medal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Photo_Adrian_Bejan_at_The_Franklin_Institute_2018.jpg/330px-Photo_Adrian_Bejan_at_The_Franklin_Institute_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrian_Bejan",
+  "dateOfBirth": "1948-09-24",
+  "birthDateParsed": "1948-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.433611111",
+  "birthCoordinatesLng": "28.055277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "engineer",
+    "university teacher",
+    "researcher",
+    "mechanical engineer"
+  ],
+  "qid": "Q2825021",
+  "birthPlace": "Galați",
+  "fetchedAt": "2026-08-05T03:15:02.112Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "9874dbb1",
+  "wikipediaSlug": "William_Vickrey",
+  "wikipediaId": "Q295673",
+  "name": "William Vickrey",
+  "fullName": "William Vickrey",
+  "profileSummary": "William Spencer Vickrey was a Canadian-American economist. He was a lifelong faculty member at Columbia University. A theorist who worked on public economics and mechanism design, Vickrey primarily discussed public policy problems. He originated the Vickrey auction, introduced the concept of congestion pricing in networks, formalized arguments for marginal cost pricing, and contributed to optimal income taxation. James Tobin described him as \"an applied economist's theorist, as well as a theorist's applied economist.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/William_Vickrey.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Vickrey",
+  "dateOfBirth": "1914-06-21",
+  "birthDateParsed": "1914-06-21",
+  "dateOfDeath": "1996-10-11",
+  "deathDateParsed": "1996-10-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.422151",
+  "birthCoordinatesLng": "-123.3657",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "researcher",
+    "university teacher"
+  ],
+  "qid": "Q295673",
+  "birthPlace": "Victoria",
+  "fetchedAt": "2026-08-10T09:44:32.857Z"
+}

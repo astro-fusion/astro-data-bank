@@ -1,0 +1,33 @@
+{
+  "publicId": "f3ddffbe",
+  "wikipediaSlug": "Thomas_J._Sargent",
+  "wikipediaId": "Q107964",
+  "name": "Thomas J. Sargent",
+  "fullName": "Thomas J. Sargent",
+  "profileSummary": "Thomas John Sargent is an American economist and a Rowan Distinguished Professor of Finance at the Wharton School of the University of Pennsylvania. He specializes in the fields of macroeconomics, monetary economics, and time series econometrics. He was awarded the Nobel Memorial Prize in Economics in 2011 together with Christopher A. Sims for their \"empirical research on cause and effect in the macroeconomy\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nobel_Prize_2011-Press_Conference_KVA-DSC_7770.jpg/330px-Nobel_Prize_2011-Press_Conference_KVA-DSC_7770.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_J._Sargent",
+  "dateOfBirth": "1943-07-19",
+  "birthDateParsed": "1943-07-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.1475",
+  "birthCoordinatesLng": "-118.143888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher",
+    "professor"
+  ],
+  "qid": "Q107964",
+  "birthPlace": "Pasadena",
+  "fetchedAt": "2026-08-10T09:44:24.008Z"
+}

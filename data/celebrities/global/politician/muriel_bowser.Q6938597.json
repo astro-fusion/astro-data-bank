@@ -1,0 +1,32 @@
+{
+  "publicId": "1b35f573",
+  "wikipediaSlug": "Muriel_Bowser",
+  "wikipediaId": "Q6938597",
+  "name": "Muriel Bowser",
+  "fullName": "Muriel Bowser",
+  "profileSummary": "Muriel Elizabeth Bowser is an American politician who has served as the mayor of the District of Columbia since 2015. A member of the Democratic Party, she previously represented the 4th ward as a member of the Council of the District of Columbia from 2007 to 2015. She is the second female mayor of the District of Columbia after Sharon Pratt. Since taking office in 2015, she has secured three consecutive mayoral victories—the first African‑American woman to do so.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mayor_Bowser_Headshot_hi_%28cropped%29_%28cropped%29.jpg/330px-Mayor_Bowser_Headshot_hi_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Muriel_Bowser",
+  "dateOfBirth": "1972-08-02",
+  "birthDateParsed": "1972-08-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "mayor"
+  ],
+  "qid": "Q6938597",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-08-02T03:28:34.716Z"
+}

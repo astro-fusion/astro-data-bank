@@ -1,0 +1,34 @@
+{
+  "publicId": "fee12b3e",
+  "wikipediaSlug": "Albert_Luthuli",
+  "wikipediaId": "Q212955",
+  "name": "Albert Luthuli",
+  "fullName": "Albert Luthuli",
+  "profileSummary": "Albert John Luthuli was a South African anti-apartheid activist, traditional leader, and politician who served as the President-General of the African National Congress from 1952 until his murder in 1967.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Albert_Lutuli_Anefo.jpg/330px-Albert_Lutuli_Anefo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Luthuli",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": "1967-07-21",
+  "deathDateParsed": "1967-07-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-20.166666666",
+  "birthCoordinatesLng": "28.566666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "autobiographer",
+    "teacher",
+    "anti-apartheid activist"
+  ],
+  "qid": "Q212955",
+  "birthPlace": "Bulawayo",
+  "fetchedAt": "2026-08-04T02:12:31.479Z"
+}

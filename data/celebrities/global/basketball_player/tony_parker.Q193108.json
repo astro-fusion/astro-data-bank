@@ -1,0 +1,32 @@
+{
+  "publicId": "e389d9e8",
+  "wikipediaSlug": "Tony_Parker",
+  "wikipediaId": "Q193108",
+  "name": "Tony Parker",
+  "fullName": "Tony Parker",
+  "profileSummary": "William Anthony Parker Jr. is a French-American professional basketball coach and former player who currently serves as the head coach of LDLC ASVEL of the French LNB Élite and the EuroLeague. The son of a basketball pro, Parker started his career at PSG-Racing Basket in the French basketball league before joining the San Antonio Spurs of the National Basketball Association (NBA). He was selected by the Spurs with the 28th overall pick in the 2001 NBA draft, and quickly became their starting point guard. Parker won four NBA championships, all of which were with the Spurs. He also played for ASVEL Basket in France during the 2011 NBA lockout, and finished his playing career after one season with the Charlotte Hornets. He retired as the ninth leading scorer and ranks fifth in career assists in NBA playoffs history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tony_Parker_France_20260704_%282%29.jpg/330px-Tony_Parker_France_20260704_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Parker",
+  "dateOfBirth": "1982-05-17",
+  "birthDateParsed": "1982-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.208888888",
+  "birthCoordinatesLng": "3.224166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "radio personality"
+  ],
+  "qid": "Q193108",
+  "birthPlace": "Bruges",
+  "fetchedAt": "2026-08-01T15:38:17.894Z"
+}

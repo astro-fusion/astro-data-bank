@@ -1,0 +1,33 @@
+{
+  "publicId": "6d70924d",
+  "wikipediaSlug": "Aage_Bohr",
+  "wikipediaId": "Q103854",
+  "name": "Aage Bohr",
+  "fullName": "Aage Bohr",
+  "profileSummary": "Aage Niels Bohr was a Danish nuclear physicist who shared the Nobel Prize in Physics in 1975 with Ben Roy Mottelson and James Rainwater \"for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection\". His father was Niels Bohr.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aage_Bohr.jpg/330px-Aage_Bohr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aage_Bohr",
+  "dateOfBirth": "1922-06-19",
+  "birthDateParsed": "1922-06-19",
+  "dateOfDeath": "2009-09-08",
+  "deathDateParsed": "2009-09-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.676111111",
+  "birthCoordinatesLng": "12.568888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "pedagogue",
+    "nuclear physicist"
+  ],
+  "qid": "Q103854",
+  "birthPlace": "Copenhagen",
+  "fetchedAt": "2026-08-06T05:00:42.766Z"
+}

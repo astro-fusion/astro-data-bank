@@ -1,0 +1,34 @@
+{
+  "publicId": "9f9d4378",
+  "wikipediaSlug": "Susan_Hall",
+  "wikipediaId": "Q31391024",
+  "name": "Susan Hall",
+  "fullName": "Susan Hall",
+  "profileSummary": "Susan Mary Hall is a British politician. A member of the London Assembly since 2017, she has served as Leader of the London Conservatives in the Assembly since May 2025, having previously held the same position between 2019 and 2023. She was the Conservative Party candidate for the 2024 London mayoral election, finishing in second place behind incumbent mayor Sadiq Khan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Susan_Hall_2023.png/330px-Susan_Hall_2023.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Susan_Hall",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "council member",
+    "mechanic",
+    "proprietor"
+  ],
+  "qid": "Q31391024",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-03T14:11:14.734Z"
+}

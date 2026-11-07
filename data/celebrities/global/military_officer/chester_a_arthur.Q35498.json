@@ -1,0 +1,35 @@
+{
+  "publicId": "6006eb42",
+  "wikipediaSlug": "Chester_A._Arthur",
+  "wikipediaId": "Q35498",
+  "name": "Chester A. Arthur",
+  "fullName": "Chester A. Arthur",
+  "profileSummary": "Chester Alan Arthur was the 21st president of the United States, serving from 1881 to 1885. A Republican from New York, he served as the 20th vice president under President James A. Garfield in 1881, assuming the presidency after Garfield's assassination. Arthur's administration saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg/330px-Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+  "dateOfBirth": "1829-10-05",
+  "birthDateParsed": "1829-10-05",
+  "dateOfDeath": "1886-11-18",
+  "deathDateParsed": "1886-11-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.814444444",
+  "birthCoordinatesLng": "-72.926388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "lawyer",
+    "politician",
+    "statesperson",
+    "educator"
+  ],
+  "qid": "Q35498",
+  "birthPlace": "Fairfield",
+  "fetchedAt": "2026-08-01T18:07:37.975Z"
+}

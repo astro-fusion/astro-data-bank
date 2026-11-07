@@ -1,0 +1,33 @@
+{
+  "publicId": "6d969844",
+  "wikipediaSlug": "Albert_Bandura",
+  "wikipediaId": "Q153753",
+  "name": "Albert Bandura",
+  "fullName": "Albert Bandura",
+  "profileSummary": "Albert Bandura was a Canadian-American psychologist and professor of social science in psychology at Stanford University, who contributed to the fields of education and to the fields of psychology, and influenced the transition between behaviorism and cognitive psychology. Bandura also is known as the originator of social learning theory, social cognitive theory, and the theoretical construct of self-efficacy. He was responsible for the theoretically influential Bobo doll experiment (1961), which demonstrated the conceptual validity of observational learning, wherein children would observe an adult act either aggressively or neutrally toward a doll, and, having learned through observation, were more likely to also beat the doll if they had witnessed the aggressive behavior.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albert_Bandura_Psychologist.jpg/330px-Albert_Bandura_Psychologist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Bandura",
+  "dateOfBirth": "1925-12-04",
+  "birthDateParsed": "1925-12-04",
+  "dateOfDeath": "2021-07-26",
+  "deathDateParsed": "2021-07-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.5911",
+  "birthCoordinatesLng": "-112.336",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "psychologist",
+    "university teacher",
+    "educator"
+  ],
+  "qid": "Q153753",
+  "birthPlace": "Mundare",
+  "fetchedAt": "2026-08-04T15:04:47.503Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "e3d1eec0",
+  "wikipediaSlug": "Craig_Matthews",
+  "wikipediaId": "Q3525432",
+  "name": "Craig Matthews",
+  "fullName": "Craig Matthews",
+  "profileSummary": "Craig Russell Matthews (born 15 February 1965 is a former South African cricketer who played in 18 Test matches and 56 One Day Internationals between 1991 and 1997.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Craig_Matthews",
+  "dateOfBirth": "1965-02-15",
+  "birthDateParsed": "1965-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.925277777",
+  "birthCoordinatesLng": "18.423888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525432",
+  "birthPlace": "Cape Town",
+  "fetchedAt": "2026-07-31T20:20:48.610Z"
+}

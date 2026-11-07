@@ -1,0 +1,31 @@
+{
+  "publicId": "79000b3d",
+  "wikipediaSlug": "Alan_Mullally",
+  "wikipediaId": "Q3526560",
+  "name": "Alan Mullally",
+  "fullName": "Alan Mullally",
+  "profileSummary": "Alan Mullally is an English former first-class cricketer, who played Tests and ODIs. Mullally grew up in Western Australia, and played for the Australian Under-19 side against their West Indian counterparts in 1987/88.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Mullally",
+  "dateOfBirth": "1969-07-12",
+  "birthDateParsed": "1969-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.53789",
+  "birthCoordinatesLng": "0.71377",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526560",
+  "birthPlace": "Southend-on-Sea",
+  "fetchedAt": "2026-07-31T20:07:37.757Z"
+}

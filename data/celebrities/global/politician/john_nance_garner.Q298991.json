@@ -1,0 +1,35 @@
+{
+  "publicId": "2558ef54",
+  "wikipediaSlug": "John_Nance_Garner",
+  "wikipediaId": "Q298991",
+  "name": "John Nance Garner",
+  "fullName": "John Nance Garner",
+  "profileSummary": "John Nance Garner III, known among his contemporaries as \"Cactus Jack\", was the 32nd vice president of the United States, serving from 1933 to 1941 under President Franklin D. Roosevelt. A member of the Democratic Party, Garner served as the 39th speaker of the U.S. House of Representatives from 1931 to 1933, having been a U.S. representative from Texas from 1903 to 1933. Garner and Schuyler Colfax are the only politicians to have served as presiding officers of both chambers of the U.S. Congress as speaker of the House and vice president of the United States. He was the longest-lived vice president in U.S. history, dying at the age of 98.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GARNER%2C_JOHN_NANCE._HONORABLE_LOC_hec.14879_%28cropped%29%28b%29.jpg/330px-GARNER%2C_JOHN_NANCE._HONORABLE_LOC_hec.14879_%28cropped%29%28b%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Nance_Garner",
+  "dateOfBirth": "1868-11-22",
+  "birthDateParsed": "1868-11-22",
+  "dateOfDeath": "1967-11-07",
+  "deathDateParsed": "1967-11-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.62",
+  "birthCoordinatesLng": "-95.05",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "judge",
+    "lawyer",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q298991",
+  "birthPlace": "Red River County",
+  "fetchedAt": "2026-08-01T18:08:06.736Z"
+}

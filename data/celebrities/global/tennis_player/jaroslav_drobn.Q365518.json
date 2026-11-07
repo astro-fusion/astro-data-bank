@@ -1,0 +1,32 @@
+{
+  "publicId": "1fdaef1e",
+  "wikipediaSlug": "Jaroslav_Drobný",
+  "wikipediaId": "Q365518",
+  "name": "Jaroslav Drobný",
+  "fullName": "Jaroslav Drobný",
+  "profileSummary": "Jaroslav Drobný was a world No. 1 amateur tennis and ice hockey champion. He left Czechoslovakia in 1949 and travelled as an Egyptian citizen before becoming a citizen of the United Kingdom in 1959, where he died in 2001. In 1951, he became the first and, to date, only Egyptian to win the French Open, while doing likewise at the Wimbledon Championships in 1954. He was inducted into the International Tennis Hall of Fame in 1983. He played internationally for the Czechoslovakia men's national ice hockey team, and was inducted in the International Ice Hockey Federation Hall of Fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jaroslav_Drobn%C3%BD_tennis_player_%28cropped%29.jpg/330px-Jaroslav_Drobn%C3%BD_tennis_player_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaroslav_Drobn%C3%BD",
+  "dateOfBirth": "1921-10-12",
+  "birthDateParsed": "1921-10-12",
+  "dateOfDeath": "2001-09-13",
+  "deathDateParsed": "2001-09-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0875",
+  "birthCoordinatesLng": "14.421388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "ice hockey player"
+  ],
+  "qid": "Q365518",
+  "birthPlace": "Prague",
+  "fetchedAt": "2026-08-01T13:11:54.067Z"
+}

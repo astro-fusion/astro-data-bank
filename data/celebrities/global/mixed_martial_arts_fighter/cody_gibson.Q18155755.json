@@ -1,0 +1,31 @@
+{
+  "publicId": "7adcaafe",
+  "wikipediaSlug": "Cody_Gibson",
+  "wikipediaId": "Q18155755",
+  "name": "Cody Gibson",
+  "fullName": "Cody Gibson",
+  "profileSummary": "Cody Gibson is an American mixed martial artist who competes in the Bantamweight division in the Ultimate Fighting Championship (UFC).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gibson_in_2026.jpg/330px-Gibson_in_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cody_Gibson",
+  "dateOfBirth": "1987-09-11",
+  "birthDateParsed": "1987-09-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.801666666",
+  "birthCoordinatesLng": "-97.289722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q18155755",
+  "birthPlace": "Blackwell",
+  "fetchedAt": "2026-08-01T17:05:47.101Z"
+}

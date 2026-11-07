@@ -1,0 +1,31 @@
+{
+  "publicId": "bc6e11ae",
+  "wikipediaSlug": "Kate_Gillou",
+  "wikipediaId": "Q257306",
+  "name": "Kate Gillou",
+  "fullName": "Kate Gillou",
+  "profileSummary": "Catherine Marie Blanche \"Katie\" Gillou was a French tennis player in the first decade of the 20th century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Katie_Gillou_1904_%28cropped%29.png/330px-Katie_Gillou_1904_%28cropped%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kate_Gillou",
+  "dateOfBirth": "1887-02-19",
+  "birthDateParsed": "1887-02-19",
+  "dateOfDeath": "1964-02-16",
+  "deathDateParsed": "1964-02-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.874166666",
+  "birthCoordinatesLng": "2.311111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q257306",
+  "birthPlace": "8th arrondissement of Paris",
+  "fetchedAt": "2026-08-01T15:00:09.770Z"
+}

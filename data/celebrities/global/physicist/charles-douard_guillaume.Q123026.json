@@ -1,0 +1,32 @@
+{
+  "publicId": "e0149480",
+  "wikipediaSlug": "Charles-Édouard_Guillaume",
+  "wikipediaId": "Q123026",
+  "name": "Charles-Édouard Guillaume",
+  "fullName": "Charles-Édouard Guillaume",
+  "profileSummary": "Charles-Édouard Guillaume was a Swiss physicist who received the Nobel Prize in Physics in 1920 \"for the service he had rendered to precision measurements in physics by his discovery of anomalies in nickel steel alloys.\" In 1919, he gave the fifth Guthrie Lecture at the Institute of Physics in London with the title \"The Anomaly of the Nickel-Steels.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Guillaume_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles-%C3%89douard_Guillaume",
+  "dateOfBirth": "1861-02-15",
+  "birthDateParsed": "1861-02-15",
+  "dateOfDeath": "1938-05-13",
+  "deathDateParsed": "1938-05-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.9",
+  "birthCoordinatesLng": "6.58333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "researcher"
+  ],
+  "qid": "Q123026",
+  "birthPlace": "Fleurier",
+  "fetchedAt": "2026-08-06T05:01:19.922Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "7b9b1007",
+  "wikipediaSlug": "Elaine_Thompson-Herah",
+  "wikipediaId": "Q20035636",
+  "name": "Elaine Thompson-Herah",
+  "fullName": "Elaine Thompson-Herah",
+  "profileSummary": "Elaine Sandra-Lee Thompson-Herah, née Thompson, is a Jamaican sprinter who competes in the 60 metres, 100 metres and 200 metres. Regarded as one of the greatest female sprinters of all time, she is a five-time Olympic champion, the fastest woman alive in the 100 m, and the third fastest ever in the 200 m.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Elaine_Thompson_Herah_at_the_2019_Pan_American_Games.jpg/330px-Elaine_Thompson_Herah_at_the_2019_Pan_American_Games.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elaine_Thompson-Herah",
+  "dateOfBirth": "1992-06-28",
+  "birthDateParsed": "1992-06-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.080119909",
+  "birthCoordinatesLng": "-77.431016575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "athletics competitor",
+    "sprinter"
+  ],
+  "qid": "Q20035636",
+  "birthPlace": "Banana Ground",
+  "fetchedAt": "2026-08-10T12:59:49.733Z"
+}

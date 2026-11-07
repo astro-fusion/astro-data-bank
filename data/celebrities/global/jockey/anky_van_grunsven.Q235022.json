@@ -1,0 +1,32 @@
+{
+  "publicId": "6eb6425e",
+  "wikipediaSlug": "Anky_van_Grunsven",
+  "wikipediaId": "Q235022",
+  "name": "Anky van Grunsven",
+  "fullName": "Anky van Grunsven",
+  "profileSummary": "Theodora Elisabeth Gerarda \"Anky\" van Grunsven is a Dutch dressage champion who is the only rider to record three successive Olympic wins in the same event. Along with her Olympic successes, she has won numerous medals at the World Equestrian Games (WEG), and is the only rider to have competed at every WEG since they began in 1990. Between 1990 and 2006, she competed at the Games in dressage, but in 2010 she was named as part of the Dutch reining team, marking a major change in discipline.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Anky_van_Grunsven_%282008-08-25%29.jpg/330px-Anky_van_Grunsven_%282008-08-25%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anky_van_Grunsven",
+  "dateOfBirth": "1968-01-02",
+  "birthDateParsed": "1968-01-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.6003",
+  "birthCoordinatesLng": "5.6053",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jockey",
+    "dressage rider"
+  ],
+  "qid": "Q235022",
+  "birthPlace": "Erp",
+  "fetchedAt": "2026-08-10T12:58:23.577Z"
+}

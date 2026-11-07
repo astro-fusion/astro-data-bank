@@ -1,0 +1,37 @@
+{
+  "publicId": "b7aeb68c",
+  "wikipediaSlug": "Alexander_Dalrymple",
+  "wikipediaId": "Q550966",
+  "name": "Alexander Dalrymple",
+  "fullName": "Alexander Dalrymple",
+  "profileSummary": "Alexander Dalrymple was a Scottish geographer, hydrographer, and publisher. He spent the greater part of his career with the British East India Company, starting as a writer in Madras at the age of 16. He studied the old records of the company, and soon became sufficiently knowledgeable to advise on shipping routes in the East Indies. He spent several years travelling, investigating possibilities of expanding the company's trade, and carried out extensive surveys around Borneo, the Philippines, and Indo-China. Returning to England, he published a range of works including charts, histories of past voyages, and proposals for exploration. He was one of the main proponents of the theory that there existed a great undiscovered continent in the South Pacific, Terra Australis Incognita. He was The Royal Society's first choice as leader of the exploration to observe the transit of Venus in 1769, a position taken by James Cook as the Navy would not accept a non-naval man in command. A large part of Cook's first two voyages was in search of the conjectured southern land, leading to the conclusion that, if it did exist, it was further south than the 65° line of latitude. He became Hydrographer to the East India Company, and then the first Hydrographer of the British Admiralty. He produced large numbers of nautical charts and sailing directions many of which remained in print long after his death, contributing significantly to the safety of shipping.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alexander_Dalrymple_SLNSW_FL8779231.jpg/330px-Alexander_Dalrymple_SLNSW_FL8779231.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Dalrymple",
+  "dateOfBirth": "1737-07-24",
+  "birthDateParsed": "1737-07-24",
+  "dateOfDeath": "1808-06-19",
+  "deathDateParsed": "1808-06-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "birthTimezone": "Europe/London",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "geographer",
+    "cartographer",
+    "botanist",
+    "hydrographer"
+  ],
+  "qid": "Q550966",
+  "placeOfBirth": "Edinburgh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-21T07:59:29.607Z"
+}

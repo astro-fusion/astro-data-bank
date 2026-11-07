@@ -1,0 +1,39 @@
+{
+  "publicId": "ed400eac",
+  "wikipediaSlug": "Donald_Knuth",
+  "wikipediaId": "Q17457",
+  "name": "Donald Knuth",
+  "fullName": "Donald Knuth",
+  "profileSummary": "Donald Ervin Knuth is an American computer scientist and mathematician. He is a professor emeritus at Stanford University. He is the 1974 recipient of the ACM Turing Award, informally considered the Nobel Prize of computer science. Knuth has been called the \"father of the analysis of algorithms\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Donald_Ervin_Knuth_%28cropped%29.jpg/330px-Donald_Ervin_Knuth_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Knuth",
+  "dateOfBirth": "1938-01-10",
+  "birthDateParsed": "1938-01-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.05",
+  "birthCoordinatesLng": "-87.95",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "historian of mathematics",
+    "writer",
+    "programmer",
+    "university teacher",
+    "engineer",
+    "academic",
+    "type designer"
+  ],
+  "qid": "Q17457",
+  "birthPlace": "Milwaukee",
+  "fetchedAt": "2026-08-10T04:28:31.949Z"
+}

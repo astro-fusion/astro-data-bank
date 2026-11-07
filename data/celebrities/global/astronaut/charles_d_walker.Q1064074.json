@@ -1,0 +1,32 @@
+{
+  "publicId": "e236470f",
+  "wikipediaSlug": "Charles_D._Walker",
+  "wikipediaId": "Q1064074",
+  "name": "Charles D. Walker",
+  "fullName": "Charles D. Walker",
+  "profileSummary": "Charles David Walker is an American engineer and astronaut who flew on three Space Shuttle missions in 1984 and 1985 as a Payload Specialist for the McDonnell Douglas Corporation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CharlesDWalker.jpg/330px-CharlesDWalker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_D._Walker",
+  "dateOfBirth": "1948-08-29",
+  "birthDateParsed": "1948-08-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.8628",
+  "birthCoordinatesLng": "-86.4922",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q1064074",
+  "birthPlace": "Bedford",
+  "fetchedAt": "2026-08-10T06:03:59.151Z"
+}

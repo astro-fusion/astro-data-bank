@@ -1,0 +1,34 @@
+{
+  "publicId": "1b576ab6",
+  "wikipediaSlug": "Elizabeth_Blackburn",
+  "wikipediaId": "Q26321",
+  "name": "Elizabeth Blackburn",
+  "fullName": "Elizabeth Blackburn",
+  "profileSummary": "Elizabeth Helen Blackburn is an Australian–American Nobel laureate who is the former president of the Salk Institute for Biological Studies. In 1984, Blackburn co-discovered telomerase, the enzyme that replenishes the telomere, with Carol W. Greider. For this work, she was awarded the 2009 Nobel Prize in Physiology or Medicine, sharing it with Carol W. Greider and Jack W. Szostak, becoming the first Australian woman Nobel laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Elizabeth_Blackburn_in_2024_by_Christopher_Michel.jpg/330px-Elizabeth_Blackburn_in_2024_by_Christopher_Michel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Blackburn",
+  "dateOfBirth": "1948-11-26",
+  "birthDateParsed": "1948-11-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-42.883333333",
+  "birthCoordinatesLng": "147.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "molecular biologist",
+    "biochemist",
+    "university teacher"
+  ],
+  "qid": "Q26321",
+  "birthPlace": "Hobart",
+  "fetchedAt": "2026-08-10T03:14:38.925Z"
+}

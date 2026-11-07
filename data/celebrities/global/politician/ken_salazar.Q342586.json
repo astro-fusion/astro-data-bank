@@ -1,0 +1,32 @@
+{
+  "publicId": "1afdd7e2",
+  "wikipediaSlug": "Ken_Salazar",
+  "wikipediaId": "Q342586",
+  "name": "Ken Salazar",
+  "fullName": "Ken Salazar",
+  "profileSummary": "Kenneth Lee Salazar is an American lawyer, politician, and diplomat who served as United States ambassador to Mexico from 2021 to 2025. A member of the Democratic Party, he previously served as the 50th United States secretary of the interior in the administration of President Barack Obama from 2009 to 2013 and as a United States senator from Colorado from 2005 to 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ken_Salazar%2C_U.S._Ambassador.jpg/330px-Ken_Salazar%2C_U.S._Ambassador.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ken_Salazar",
+  "dateOfBirth": "1955-03-02",
+  "birthDateParsed": "1955-03-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.46861",
+  "birthCoordinatesLng": "-105.87361",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q342586",
+  "birthPlace": "Alamosa",
+  "fetchedAt": "2026-08-02T02:17:45.756Z"
+}

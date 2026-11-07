@@ -1,0 +1,38 @@
+{
+  "publicId": "1981ecf9",
+  "wikipediaSlug": "Georg_von_Békésy",
+  "wikipediaId": "Q238716",
+  "name": "Georg von Békésy",
+  "fullName": "Georg von Békésy",
+  "profileSummary": "Georg von Békésy was a Hungarian-American biophysicist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/Georg_von_B%C3%A9k%C3%A9sy_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georg_von_B%C3%A9k%C3%A9sy",
+  "dateOfBirth": "1899-06-03",
+  "birthDateParsed": "1899-06-03",
+  "dateOfDeath": "1972-06-13",
+  "deathDateParsed": "1972-06-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "neuroscientist",
+    "chemist",
+    "autobiographer",
+    "university teacher",
+    "physiologist",
+    "biophysicist",
+    "engineer"
+  ],
+  "qid": "Q238716",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-10T03:15:23.841Z"
+}

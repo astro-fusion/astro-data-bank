@@ -1,0 +1,34 @@
+{
+  "publicId": "954f6a62",
+  "wikipediaSlug": "António_Costa",
+  "wikipediaId": "Q610788",
+  "name": "António Costa",
+  "fullName": "António Costa",
+  "profileSummary": "António Luís Santos da Costa is a Portuguese lawyer and politician who has served as president of the European Council since 2024. He previously served as prime minister of Portugal from 2015 to 2024 and secretary-general of the Socialist Party from 2014 to 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Antonio_Costa_Portrait_2024_%28cropped%29.jpg/330px-Antonio_Costa_Portrait_2024_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa",
+  "dateOfBirth": "1961-07-17",
+  "birthDateParsed": "1961-07-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.708042",
+  "birthCoordinatesLng": "-9.139016",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "jurist",
+    "mayor"
+  ],
+  "qid": "Q610788",
+  "birthPlace": "Lisbon",
+  "fetchedAt": "2026-08-03T16:49:09.451Z"
+}

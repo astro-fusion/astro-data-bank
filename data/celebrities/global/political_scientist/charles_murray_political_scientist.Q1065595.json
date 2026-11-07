@@ -1,0 +1,35 @@
+{
+  "publicId": "33332d5c",
+  "wikipediaSlug": "Charles_Murray_(political_scientist)",
+  "wikipediaId": "Q1065595",
+  "name": "Charles Murray (political scientist)",
+  "fullName": "Charles Murray (political scientist)",
+  "profileSummary": "Charles Alan Murray is an American political scientist. He is the W.H. Brady Scholar at the American Enterprise Institute, a conservative think tank in Washington, D.C.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Charles_Murray_Speaking_at_FreedomFest.jpeg/330px-Charles_Murray_Speaking_at_FreedomFest.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Murray_(political_scientist)",
+  "dateOfBirth": "1943-01-08",
+  "birthDateParsed": "1943-01-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.698611111",
+  "birthCoordinatesLng": "-93.046944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "political scientist",
+    "sociologist",
+    "author",
+    "writer",
+    "Peace Corps"
+  ],
+  "qid": "Q1065595",
+  "birthPlace": "Newton",
+  "fetchedAt": "2026-08-05T03:16:42.809Z"
+}

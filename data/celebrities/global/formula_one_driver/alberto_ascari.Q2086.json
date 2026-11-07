@@ -1,0 +1,32 @@
+{
+  "publicId": "1721ff4c",
+  "wikipediaSlug": "Alberto_Ascari",
+  "wikipediaId": "Q2086",
+  "name": "Alberto Ascari",
+  "fullName": "Alberto Ascari",
+  "profileSummary": "Alberto Ascari was an Italian racing driver, who competed in Formula One from 1950 to 1955. Ascari won two Formula One World Drivers' Championship titles, which he won in 1952 and 1953 with Ferrari, and won 13 Grands Prix across six seasons. In endurance racing, Ascari won the Mille Miglia in 1954 with Lancia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ascari_last_photo_in_car.jpg/330px-Ascari_last_photo_in_car.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Ascari",
+  "dateOfBirth": "1918-07-13",
+  "birthDateParsed": "1918-07-13",
+  "dateOfDeath": "1955-05-26",
+  "deathDateParsed": "1955-05-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.466944444",
+  "birthCoordinatesLng": "9.19",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "motorcycle racer"
+  ],
+  "qid": "Q2086",
+  "birthPlace": "Milan",
+  "fetchedAt": "2026-08-01T16:01:18.993Z"
+}

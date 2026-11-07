@@ -1,0 +1,31 @@
+{
+  "publicId": "60dd4083",
+  "wikipediaSlug": "Ernest_Halliwell",
+  "wikipediaId": "Q5393212",
+  "name": "Ernest Halliwell",
+  "fullName": "Ernest Halliwell",
+  "profileSummary": "Ernest Austin \"Barberton\" Halliwell was a first-class cricketer, who played eight Test matches for South Africa between 1892 and 1902, including three as captain. He played as a wicket-keeper, and was the first to put raw steaks inside his gloves to protect his hands. At his peak, he was considered one of the best wicket-keepers in the world, and was named one of the Wisden Cricketers of the Year in 1905. He was particularly praised for standing close to the wickets, even against fast bowlers.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernest_Halliwell",
+  "dateOfBirth": "1864-09-07",
+  "birthDateParsed": "1864-09-07",
+  "dateOfDeath": "1919-10-02",
+  "deathDateParsed": "1919-10-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5111",
+  "birthCoordinatesLng": "-0.3058",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5393212",
+  "birthPlace": "Ealing",
+  "fetchedAt": "2026-07-31T20:22:22.793Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "0a784962",
+  "wikipediaSlug": "Abigail_Spanberger",
+  "wikipediaId": "Q55603085",
+  "name": "Abigail Spanberger",
+  "fullName": "Abigail Spanberger",
+  "profileSummary": "Abigail Anne Spanberger is an American politician and former intelligence officer serving since 2026 as the 75th governor of Virginia. A member of the Democratic Party, she served from 2019 to 2025 as the U.S. representative for Virginia's 7th congressional district.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rep._Abigail_Spanberger_-_118th_Congress.jpg/330px-Rep._Abigail_Spanberger_-_118th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abigail_Spanberger",
+  "dateOfBirth": "1979-08-07",
+  "birthDateParsed": "1979-08-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.3487",
+  "birthCoordinatesLng": "-74.0665",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "postal inspector",
+    "intelligence officer",
+    "consultant"
+  ],
+  "qid": "Q55603085",
+  "birthPlace": "Red Bank",
+  "fetchedAt": "2026-08-02T03:27:54.804Z"
+}

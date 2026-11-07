@@ -1,0 +1,32 @@
+{
+  "publicId": "6ec9b09a",
+  "wikipediaSlug": "Merton_Miller",
+  "wikipediaId": "Q157255",
+  "name": "Merton Miller",
+  "fullName": "Merton Miller",
+  "profileSummary": "Merton Howard Miller was an American economist, and the co-author of the Modigliani–Miller theorem (1958), which proposed the irrelevance of debt-equity structure. He shared the Nobel Memorial Prize in Economic Sciences in 1990, along with Harry Markowitz and William F. Sharpe. Miller spent most of his academic career at the University of Chicago's Booth School of Business.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/Merton_Miller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Merton_Miller",
+  "dateOfBirth": "1923-05-16",
+  "birthDateParsed": "1923-05-16",
+  "dateOfDeath": "2000-06-03",
+  "deathDateParsed": "2000-06-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "writer"
+  ],
+  "qid": "Q157255",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T09:43:45.557Z"
+}

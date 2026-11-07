@@ -1,0 +1,33 @@
+{
+  "publicId": "3d683703",
+  "wikipediaSlug": "Barbara_Prammer",
+  "wikipediaId": "Q114286",
+  "name": "Barbara Prammer",
+  "fullName": "Barbara Prammer",
+  "profileSummary": "Barbara Prammer was an Austrian politician and member of the Social Democratic Party of Austria (SPÖ). In 2006 she was the first woman to become President of the National Council of Austria, an office she held until her death.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mag.a._Barbara_Prammer_%2814316641697%29.jpg/330px-Mag.a._Barbara_Prammer_%2814316641697%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barbara_Prammer",
+  "dateOfBirth": "1954-01-11",
+  "birthDateParsed": "1954-01-11",
+  "dateOfDeath": "2014-08-02",
+  "deathDateParsed": "2014-08-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.095555555",
+  "birthCoordinatesLng": "13.661388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "wedding officiant",
+    "civil servant"
+  ],
+  "qid": "Q114286",
+  "birthPlace": "Ottnang am Hausruck",
+  "fetchedAt": "2026-08-04T00:55:08.140Z"
+}

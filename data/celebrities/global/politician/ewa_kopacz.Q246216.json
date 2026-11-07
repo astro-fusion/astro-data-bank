@@ -1,0 +1,33 @@
+{
+  "publicId": "bee214c6",
+  "wikipediaSlug": "Ewa_Kopacz",
+  "wikipediaId": "Q246216",
+  "name": "Ewa Kopacz",
+  "fullName": "Ewa Kopacz",
+  "profileSummary": "Ewa Bożena Kopacz is a Polish politician who has served as a Vice-President of the European Parliament since 2019. She previously was Marshal of the Sejm from 2011 to 2014, the first woman to hold the office, as well as Prime Minister of Poland from 2014 to 2015. In addition, Kopacz was Minister of Health from 2007 until 2011. Since 2001, she has been a member of Civic Platform, which she chaired from 2014 to 2016. Kopacz succeeded Donald Tusk as prime minister, becoming the second woman to hold the office after Hanna Suchocka (1992–1993). Her term as prime minister ended on 16 November 2015, when she was succeeded by Beata Szydło.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Official_portrait_of_Ewa_Kopacz_4_%28cropped%29.jpg/330px-Official_portrait_of_Ewa_Kopacz_4_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ewa_Kopacz",
+  "dateOfBirth": "1956-12-03",
+  "birthDateParsed": "1956-12-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.308888888",
+  "birthCoordinatesLng": "21.248611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physician",
+    "pediatrician"
+  ],
+  "qid": "Q246216",
+  "birthPlace": "Skaryszew",
+  "fetchedAt": "2026-08-04T00:55:53.495Z"
+}

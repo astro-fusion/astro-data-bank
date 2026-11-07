@@ -1,0 +1,35 @@
+{
+  "publicId": "8989f57a",
+  "wikipediaSlug": "Jaroslav_Heyrovský",
+  "wikipediaId": "Q157701",
+  "name": "Jaroslav Heyrovský",
+  "fullName": "Jaroslav Heyrovský",
+  "profileSummary": "Jaroslav Heyrovský was a Czech chemist and inventor who received the Nobel Prize in Chemistry in 1959 for his invention of polarography.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heyrovsky_Jaroslav.jpg/330px-Heyrovsky_Jaroslav.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaroslav_Heyrovsk%C3%BD",
+  "dateOfBirth": "1890-12-20",
+  "birthDateParsed": "1890-12-20",
+  "dateOfDeath": "1967-03-27",
+  "deathDateParsed": "1967-03-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.0875",
+  "birthCoordinatesLng": "14.421388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "physicist",
+    "inventor",
+    "teacher",
+    "scientist"
+  ],
+  "qid": "Q157701",
+  "birthPlace": "Prague",
+  "fetchedAt": "2026-08-10T02:04:10.162Z"
+}

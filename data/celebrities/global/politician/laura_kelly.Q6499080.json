@@ -1,0 +1,32 @@
+{
+  "publicId": "3513c3ca",
+  "wikipediaSlug": "Laura_Kelly",
+  "wikipediaId": "Q6499080",
+  "name": "Laura Kelly",
+  "fullName": "Laura Kelly",
+  "profileSummary": "Laura Jeanne Kelly is an American politician serving since 2019 as the 48th governor of Kansas. A member of the Democratic Party, she represented the 18th district in the Kansas Senate from 2005 to 2019. Kelly was elected governor in 2018 and reelected in 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Laura_Kelly_official_photo.jpg/330px-Laura_Kelly_official_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laura_Kelly",
+  "dateOfBirth": "1950-01-24",
+  "birthDateParsed": "1950-01-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "psychologist"
+  ],
+  "qid": "Q6499080",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-02T03:28:09.887Z"
+}

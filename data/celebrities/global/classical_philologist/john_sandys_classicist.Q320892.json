@@ -1,0 +1,34 @@
+{
+  "publicId": "b2602e44",
+  "wikipediaSlug": "John_Sandys_(classicist)",
+  "wikipediaId": "Q320892",
+  "name": "John Sandys (classicist)",
+  "fullName": "John Sandys (classicist)",
+  "profileSummary": "Sir John Edwin Sandys was an English classical scholar.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Sir_John_Edwin_Sandys.jpg/330px-Sir_John_Edwin_Sandys.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Sandys_(classicist)",
+  "dateOfBirth": "1844-05-19",
+  "birthDateParsed": "1844-05-19",
+  "dateOfDeath": "1922-07-06",
+  "deathDateParsed": "1922-07-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.636111111",
+  "birthCoordinatesLng": "-1.133055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "classical philologist",
+    "academic staff",
+    "literary historian",
+    "philologist"
+  ],
+  "qid": "Q320892",
+  "birthPlace": "Leicester",
+  "fetchedAt": "2026-08-02T05:22:25.592Z"
+}

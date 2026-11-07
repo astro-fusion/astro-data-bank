@@ -1,0 +1,32 @@
+{
+  "publicId": "7248106c",
+  "wikipediaSlug": "Bengt_Holmström",
+  "wikipediaId": "Q354897",
+  "name": "Bengt Holmström",
+  "fullName": "Bengt Holmström",
+  "profileSummary": "Bengt Robert Holmström is a Finnish economist who is currently Paul A. Samuelson Professor of Economics (Emeritus) at the Massachusetts Institute of Technology. Together with Oliver Hart, he received the Central Bank of Sweden Nobel Memorial Prize in Economic Sciences in 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nobel_Laureates_0889_%2830679343193%29.jpg/330px-Nobel_Laureates_0889_%2830679343193%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bengt_Holmstr%C3%B6m",
+  "dateOfBirth": "1949-04-18",
+  "birthDateParsed": "1949-04-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.170833333",
+  "birthCoordinatesLng": "24.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q354897",
+  "birthPlace": "Helsinki",
+  "fetchedAt": "2026-08-10T09:42:50.590Z"
+}

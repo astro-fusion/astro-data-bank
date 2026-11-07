@@ -1,0 +1,32 @@
+{
+  "publicId": "f7f36ae2",
+  "wikipediaSlug": "Fabio_Cannavaro",
+  "wikipediaId": "Q102027",
+  "name": "Fabio Cannavaro",
+  "fullName": "Fabio Cannavaro",
+  "profileSummary": "Fabio Cannavaro is an Italian professional football coach and former player who is the head coach of the Uzbekistan national team. He is regarded as one of the greatest defenders of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fabio_Cannavaro_2011.jpg/330px-Fabio_Cannavaro_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+  "dateOfBirth": "1973-09-13",
+  "birthDateParsed": "1973-09-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.835833333",
+  "birthCoordinatesLng": "14.248611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q102027",
+  "birthPlace": "Naples",
+  "fetchedAt": "2026-08-10T11:28:05.445Z"
+}

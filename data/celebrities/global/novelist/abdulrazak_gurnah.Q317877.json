@@ -1,0 +1,36 @@
+{
+  "publicId": "f1b8c654",
+  "wikipediaSlug": "Abdulrazak_Gurnah",
+  "wikipediaId": "Q317877",
+  "name": "Abdulrazak Gurnah",
+  "fullName": "Abdulrazak Gurnah",
+  "profileSummary": "Abdulrazak Gurnah is a Tanzanian novelist and academic of Yemeni origin. He was born in the Sultanate of Zanzibar and moved to the United Kingdom in the 1960s as a refugee during the Zanzibar Revolution. His novels include Paradise (1994), which was shortlisted for both the Booker and the Whitbread Prize; By the Sea (2001), which was longlisted for the Booker and shortlisted for the Los Angeles Times Book Prize; and Desertion (2005), shortlisted for the Commonwealth Writers' Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Abdulrazak_Gurnah_2024_%28cropped%29.jpg/330px-Abdulrazak_Gurnah_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulrazak_Gurnah",
+  "dateOfBirth": "1948-12-20",
+  "birthDateParsed": "1948-12-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-6.166666666",
+  "birthCoordinatesLng": "39.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "novelist",
+    "university teacher",
+    "prose writer",
+    "editing staff",
+    "writer",
+    "philologist"
+  ],
+  "qid": "Q317877",
+  "birthPlace": "Zanzibar City",
+  "fetchedAt": "2026-08-06T07:41:01.672Z"
+}

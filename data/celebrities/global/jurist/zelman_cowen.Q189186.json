@@ -1,0 +1,34 @@
+{
+  "publicId": "dfbbb21d",
+  "wikipediaSlug": "Zelman_Cowen",
+  "wikipediaId": "Q189186",
+  "name": "Zelman Cowen",
+  "fullName": "Zelman Cowen",
+  "profileSummary": "Sir Zelman Cowen was an Australian legal scholar and university administrator who served as the 19th governor-general of Australia, in office from 1977 to 1982.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Zelman_Cowen.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zelman_Cowen",
+  "dateOfBirth": "1919-10-07",
+  "birthDateParsed": "1919-10-07",
+  "dateOfDeath": "2011-12-08",
+  "deathDateParsed": "2011-12-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jurist",
+    "politician",
+    "university teacher",
+    "lawyer"
+  ],
+  "qid": "Q189186",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-03T12:59:00.334Z"
+}

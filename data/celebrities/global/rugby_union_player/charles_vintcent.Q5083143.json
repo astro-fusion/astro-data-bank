@@ -1,0 +1,33 @@
+{
+  "publicId": "b3d9c397",
+  "wikipediaSlug": "Charles_Vintcent",
+  "wikipediaId": "Q5083143",
+  "name": "Charles Vintcent",
+  "fullName": "Charles Vintcent",
+  "profileSummary": "Charles Henry Vintcent was a South African cricketer who played in three Test matches from 1889 to 1892.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/South_Africa_cricket_team_1888-9.jpg/330px-South_Africa_cricket_team_1888-9.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Vintcent",
+  "dateOfBirth": "1866-09-02",
+  "birthDateParsed": "1866-09-02",
+  "dateOfDeath": "1943-09-28",
+  "deathDateParsed": "1943-09-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.183333333",
+  "birthCoordinatesLng": "22.133333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rugby union player",
+    "cricketer",
+    "association football player"
+  ],
+  "qid": "Q5083143",
+  "birthPlace": "Mossel Bay",
+  "fetchedAt": "2026-07-31T20:21:46.428Z"
+}

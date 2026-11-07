@@ -1,0 +1,34 @@
+{
+  "publicId": "8a991a4f",
+  "wikipediaSlug": "Arthur_Balfour",
+  "wikipediaId": "Q19008",
+  "name": "Arthur Balfour",
+  "fullName": "Arthur Balfour",
+  "profileSummary": "Arthur James Balfour, 1st Earl of Balfour, was a British statesman and Conservative politician who served as Prime Minister of the United Kingdom from 1902 to 1905. He also later served as foreign secretary in the Lloyd George ministry, from 1916 to 1919.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/A.J._Balfour_LCCN2014682753_%28cropped%29.jpg/330px-A.J._Balfour_LCCN2014682753_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Balfour",
+  "dateOfBirth": "1848-07-25",
+  "birthDateParsed": "1848-07-25",
+  "dateOfDeath": "1930-03-19",
+  "deathDateParsed": "1930-03-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.95",
+  "birthCoordinatesLng": "-2.63333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "philosopher",
+    "head of government"
+  ],
+  "qid": "Q19008",
+  "birthPlace": "Whittingehame",
+  "fetchedAt": "2026-08-02T05:21:29.414Z"
+}

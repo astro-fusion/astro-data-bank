@@ -1,0 +1,32 @@
+{
+  "publicId": "8f7e8594",
+  "wikipediaSlug": "Ellsworth_Vines",
+  "wikipediaId": "Q54690",
+  "name": "Ellsworth Vines",
+  "fullName": "Ellsworth Vines",
+  "profileSummary": "Henry Ellsworth Vines Jr. was an American tennis champion of the 1930s, the World No. 1 player or the co-No. 1 in 1932 as an amateur, and in 1934, 1935, 1936 and 1937 as a professional. He won three Grand Slam titles, the U.S. National Championships in 1931 and 1932 and the Wimbledon Championships in 1932. Vines also was able to win Pro Slam titles on three different surfaces. He later became a professional golfer and reached the semifinals of the PGA Championship in 1951.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EllsworthVinesTen.jpg/330px-EllsworthVinesTen.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellsworth_Vines",
+  "dateOfBirth": "1911-09-28",
+  "birthDateParsed": "1911-09-28",
+  "dateOfDeath": "1994-03-17",
+  "deathDateParsed": "1994-03-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "golfer"
+  ],
+  "qid": "Q54690",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-01T13:11:03.366Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "00691c92",
+  "wikipediaSlug": "Chris_Watson",
+  "wikipediaId": "Q23347",
+  "name": "Chris Watson",
+  "fullName": "Chris Watson",
+  "profileSummary": "John Christian Watson was an Australian politician who served as the third prime minister of Australia from April to August 1904. He held office as the inaugural federal leader of the Australian Labor Party (ALP) from 1901 to 1907 and was the first member of the party to serve as prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ChrisWatsonSepia_crop.jpg/330px-ChrisWatsonSepia_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Watson",
+  "dateOfBirth": "1867-04-09",
+  "birthDateParsed": "1867-04-09",
+  "dateOfDeath": "1941-11-18",
+  "deathDateParsed": "1941-11-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.046111111",
+  "birthCoordinatesLng": "-71.619722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "trade unionist",
+    "head of government"
+  ],
+  "qid": "Q23347",
+  "birthPlace": "Valparaíso",
+  "fetchedAt": "2026-08-03T12:58:01.413Z"
+}

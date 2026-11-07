@@ -1,0 +1,35 @@
+{
+  "publicId": "5c33035a",
+  "wikipediaSlug": "Alan_Garber",
+  "wikipediaId": "Q18686278",
+  "name": "Alan Garber",
+  "fullName": "Alan Garber",
+  "profileSummary": "Alan Michael Garber is an American physician and health economist who has been the 31st president of Harvard University since August 2, 2024. Previously, he served as provost of Harvard University from 2011 to March 2024. Prior to joining Harvard, Garber was a faculty member at Stanford University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Harvard_Alumni_Day_2025_-_Alan_Garber_28_%28cropped%29.jpg/330px-Harvard_Alumni_Day_2025_-_Alan_Garber_28_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Garber",
+  "dateOfBirth": "1955-05-07",
+  "birthDateParsed": "1955-05-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "university teacher",
+    "health economist",
+    "science administrator",
+    "economist"
+  ],
+  "qid": "Q18686278",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T02:42:54.258Z"
+}

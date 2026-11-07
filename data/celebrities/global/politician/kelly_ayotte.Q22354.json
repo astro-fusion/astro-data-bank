@@ -1,0 +1,35 @@
+{
+  "publicId": "082b036d",
+  "wikipediaSlug": "Kelly_Ayotte",
+  "wikipediaId": "Q22354",
+  "name": "Kelly Ayotte",
+  "fullName": "Kelly Ayotte",
+  "profileSummary": "Kelly Ann Ayotte is an American attorney and politician serving since 2025 as the 83rd governor of New Hampshire. A member of the Republican Party, she served from 2011 to 2017 as a United States senator from New Hampshire and from 2004 to 2009 as the 27th attorney general of New Hampshire.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Governor_Kelly_Ayotte_receives_a_briefing_from_National_Guard_cyber_operators_%28cropped%29_%28cropped%29.jpg/330px-Governor_Kelly_Ayotte_receives_a_briefing_from_National_Guard_cyber_operators_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kelly_Ayotte",
+  "dateOfBirth": "1968-06-27",
+  "birthDateParsed": "1968-06-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.7575",
+  "birthCoordinatesLng": "-71.464444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "law clerk",
+    "prosecutor",
+    "adviser"
+  ],
+  "qid": "Q22354",
+  "birthPlace": "Nashua",
+  "fetchedAt": "2026-08-02T03:28:22.213Z"
+}

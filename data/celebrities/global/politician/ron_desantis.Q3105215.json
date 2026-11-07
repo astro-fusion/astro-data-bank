@@ -1,0 +1,37 @@
+{
+  "publicId": "4f7ba707",
+  "wikipediaSlug": "Ron_DeSantis",
+  "wikipediaId": "Q3105215",
+  "name": "Ron DeSantis",
+  "fullName": "Ron DeSantis",
+  "profileSummary": "Ronald Dion DeSantis is an American politician, attorney, and former naval officer serving as the 46th governor of Florida since 2019. A member of the Republican Party, he served from 2013 to 2018 as the U.S. representative from Florida's 6th congressional district. DeSantis was a candidate for the 2024 Republican presidential nomination, withdrawing his candidacy in January 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ron_DeSantis_official_photo.jpg/330px-Ron_DeSantis_official_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+  "dateOfBirth": "1978-09-14",
+  "birthDateParsed": "1978-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.316666666",
+  "birthCoordinatesLng": "-81.65",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "naval officer",
+    "judge advocate",
+    "writer",
+    "governor",
+    "jurist",
+    "prosecutor"
+  ],
+  "qid": "Q3105215",
+  "birthPlace": "Jacksonville",
+  "fetchedAt": "2026-08-02T03:29:00.916Z"
+}

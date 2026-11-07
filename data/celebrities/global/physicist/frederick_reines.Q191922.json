@@ -1,0 +1,32 @@
+{
+  "publicId": "905939e2",
+  "wikipediaSlug": "Frederick_Reines",
+  "wikipediaId": "Q191922",
+  "name": "Frederick Reines",
+  "fullName": "Frederick Reines",
+  "profileSummary": "Frederick Reines was an American physicist. He was awarded the 1995 Nobel Prize in Physics for his co-detection of the neutrino with Clyde Cowan in the neutrino experiment. He may be the only scientist in history \"so intimately associated with the discovery of an elementary particle and the subsequent thorough investigation of its fundamental properties.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frederick_Reines%2C_early_1950s.jpg/330px-Frederick_Reines%2C_early_1950s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Reines",
+  "dateOfBirth": "1918-03-16",
+  "birthDateParsed": "1918-03-16",
+  "dateOfDeath": "1998-08-26",
+  "deathDateParsed": "1998-08-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.916666666",
+  "birthCoordinatesLng": "-74.172222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q191922",
+  "birthPlace": "Paterson",
+  "fetchedAt": "2026-08-06T05:01:55.402Z"
+}

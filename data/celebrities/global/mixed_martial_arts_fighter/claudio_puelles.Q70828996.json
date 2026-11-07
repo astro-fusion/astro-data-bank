@@ -1,0 +1,31 @@
+{
+  "publicId": "0ae63579",
+  "wikipediaSlug": "Claudio_Puelles",
+  "wikipediaId": "Q70828996",
+  "name": "Claudio Puelles",
+  "fullName": "Claudio Puelles",
+  "profileSummary": "Claudio Puelles Martinez is a Peruvian professional mixed martial artist, he currently competes in the Lightweight division of the Ultimate Fighting Championship.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudio_Puelles",
+  "dateOfBirth": "1996-04-21",
+  "birthDateParsed": "1996-04-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-12.06",
+  "birthCoordinatesLng": "-77.0375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q70828996",
+  "birthPlace": "Lima",
+  "fetchedAt": "2026-08-01T17:05:01.047Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "be9c9b95",
+  "wikipediaSlug": "Bob_Bradley",
+  "wikipediaId": "Q442325",
+  "name": "Bob Bradley",
+  "fullName": "Bob Bradley",
+  "profileSummary": "Robert Frank Bradley is an American soccer coach, who most recently managed Norwegian football team Stabæk.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bob-bradley-07-04-09.jpg/330px-Bob-bradley-07-04-09.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Bradley",
+  "dateOfBirth": "1958-03-03",
+  "birthDateParsed": "1958-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.8244",
+  "birthCoordinatesLng": "-74.2123",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football coach",
+    "sporting director"
+  ],
+  "qid": "Q442325",
+  "birthPlace": "Montclair",
+  "fetchedAt": "2026-08-01T05:19:52.127Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "f54eb9c0",
+  "wikipediaSlug": "André_Michel_Lwoff",
+  "wikipediaId": "Q223309",
+  "name": "André Michel Lwoff",
+  "fullName": "André Michel Lwoff",
+  "profileSummary": "André Michel Lwoff was a French microbiologist and Nobel laureate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Andr%C3%A9_Lwoff_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Michel_Lwoff",
+  "dateOfBirth": "1902-05-08",
+  "birthDateParsed": "1902-05-08",
+  "dateOfDeath": "1994-09-30",
+  "deathDateParsed": "1994-09-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.711388888",
+  "birthCoordinatesLng": "2.6925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "virologist",
+    "physician",
+    "researcher",
+    "botanist",
+    "microbiologist"
+  ],
+  "qid": "Q223309",
+  "birthPlace": "Ainay-le-Château",
+  "fetchedAt": "2026-08-10T03:14:00.691Z"
+}

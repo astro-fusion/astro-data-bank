@@ -1,0 +1,35 @@
+{
+  "publicId": "4e5bd298",
+  "wikipediaSlug": "Odysseas_Elytis",
+  "wikipediaId": "Q160478",
+  "name": "Odysseas Elytis",
+  "fullName": "Odysseas Elytis",
+  "profileSummary": "Odysseas Elytis was a Greek poet, man of letters, essayist and translator, regarded as the definitive exponent of romantic modernism in Greece and the world. He is one of the most praised poets of the second half of the twentieth century, with his Axion Esti \"regarded as a monument of contemporary poetry\". In 1979, he was awarded the Nobel Prize in Literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Odysseas_Elytis_1974.jpg/330px-Odysseas_Elytis_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Odysseas_Elytis",
+  "dateOfBirth": "1911-11-02",
+  "birthDateParsed": "1911-11-02",
+  "dateOfDeath": "1996-03-18",
+  "deathDateParsed": "1996-03-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.340277777",
+  "birthCoordinatesLng": "25.134444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "translator",
+    "poet",
+    "art critic",
+    "writer",
+    "librettist"
+  ],
+  "qid": "Q160478",
+  "birthPlace": "Heraklion",
+  "fetchedAt": "2026-08-06T07:42:27.445Z"
+}

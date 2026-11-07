@@ -1,0 +1,35 @@
+{
+  "publicId": "88f4ba5c",
+  "wikipediaSlug": "Dan_Quayle",
+  "wikipediaId": "Q49214",
+  "name": "Dan Quayle",
+  "fullName": "Dan Quayle",
+  "profileSummary": "James Danforth Quayle is an American retired politician and Indiana National Guard veteran who served as the 44th vice president of the United States from 1989 to 1993 under President George H. W. Bush. A member of the Republican Party, Quayle represented Indiana in the U.S. House of Representatives from 1977 to 1981 and in the Senate from 1981 to 1989.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dan_Quayle_crop.jpg/330px-Dan_Quayle_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Quayle",
+  "dateOfBirth": "1947-02-04",
+  "birthDateParsed": "1947-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.768611111",
+  "birthCoordinatesLng": "-86.158055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "businessperson",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q49214",
+  "birthPlace": "Indianapolis",
+  "fetchedAt": "2026-08-02T02:16:27.793Z"
+}

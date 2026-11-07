@@ -1,0 +1,36 @@
+{
+  "publicId": "83c80f27",
+  "wikipediaSlug": "Alan_Bean",
+  "wikipediaId": "Q310924",
+  "name": "Alan Bean",
+  "fullName": "Alan Bean",
+  "profileSummary": "Alan LaVern Bean was an American naval officer and aviator, aeronautical engineer, test pilot, NASA astronaut and painter. He was selected to become an astronaut by NASA in 1963 as part of Astronaut Group 3, and was the fourth person to walk on the Moon.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alan_Bean_NASA_portrait_%28S69-38859%29.jpg/330px-Alan_Bean_NASA_portrait_%28S69-38859%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Bean",
+  "dateOfBirth": "1932-03-15",
+  "birthDateParsed": "1932-03-15",
+  "dateOfDeath": "2018-05-26",
+  "deathDateParsed": "2018-05-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.4425",
+  "birthCoordinatesLng": "-100.274",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "test pilot",
+    "astronaut",
+    "painter",
+    "aircraft pilot",
+    "military flight engineer"
+  ],
+  "qid": "Q310924",
+  "birthPlace": "Wheeler",
+  "fetchedAt": "2026-08-10T06:03:10.885Z"
+}

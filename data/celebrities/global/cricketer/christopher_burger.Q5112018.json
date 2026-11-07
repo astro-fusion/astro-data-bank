@@ -1,0 +1,31 @@
+{
+  "publicId": "88af6629",
+  "wikipediaSlug": "Christopher_Burger",
+  "wikipediaId": "Q5112018",
+  "name": "Christopher Burger",
+  "fullName": "Christopher Burger",
+  "profileSummary": "Christopher George de Villiers Burger was a South African cricketer who played in two Tests in 1958.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Burger",
+  "dateOfBirth": "1935-07-12",
+  "birthDateParsed": "1935-07-12",
+  "dateOfDeath": "2014-06-05",
+  "deathDateParsed": "2014-06-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.179722222",
+  "birthCoordinatesLng": "27.704166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5112018",
+  "birthPlace": "Randfontein",
+  "fetchedAt": "2026-07-31T20:21:48.042Z"
+}

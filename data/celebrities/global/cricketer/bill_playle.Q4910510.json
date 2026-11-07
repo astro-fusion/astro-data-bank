@@ -1,0 +1,31 @@
+{
+  "publicId": "2230dc3e",
+  "wikipediaSlug": "Bill_Playle",
+  "wikipediaId": "Q4910510",
+  "name": "Bill Playle",
+  "fullName": "Bill Playle",
+  "profileSummary": "William Rodger Playle was a New Zealand cricketer who played eight Test matches for the national team between 1958 and 1963, making 151 runs as a specialist batsman.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Playle",
+  "dateOfBirth": "1938-12-01",
+  "birthDateParsed": "1938-12-01",
+  "dateOfDeath": "2019-02-27",
+  "deathDateParsed": "2019-02-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-40.354911",
+  "birthCoordinatesLng": "175.609511",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4910510",
+  "birthPlace": "Palmerston North",
+  "fetchedAt": "2026-07-31T21:01:39.223Z"
+}

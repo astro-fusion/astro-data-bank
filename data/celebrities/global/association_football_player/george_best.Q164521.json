@@ -1,0 +1,33 @@
+{
+  "publicId": "5cc4cf8e",
+  "wikipediaSlug": "George_Best",
+  "wikipediaId": "Q164521",
+  "name": "George Best",
+  "fullName": "George Best",
+  "profileSummary": "George Best was a Northern Irish professional footballer who played as a right winger, spending most of his club career at Manchester United. A skillful dribbler, he is considered one of the greatest players of all time, along with being considered one of the most talented to play. He was named European Footballer of the Year in 1968 and came fifth in the FIFA Player of the Century vote. Best received plaudits for his playing style, which combined pace, skill, balance, feints, the ability to get past defenders and goalscoring. In 1999 he was on the six-man shortlist for the BBC's Sports Personality of the Century. He was an inaugural inductee into the English Football Hall of Fame in 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/George_best_1976.jpg/330px-George_best_1976.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Best",
+  "dateOfBirth": "1946-05-22",
+  "birthDateParsed": "1946-05-22",
+  "dateOfDeath": "2005-11-25",
+  "deathDateParsed": "2005-11-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.596666666",
+  "birthCoordinatesLng": "-5.93",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "sports commentator",
+    "athlete"
+  ],
+  "qid": "Q164521",
+  "birthPlace": "Belfast",
+  "fetchedAt": "2026-08-10T11:28:18.712Z"
+}

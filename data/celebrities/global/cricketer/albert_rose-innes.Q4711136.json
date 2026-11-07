@@ -1,0 +1,31 @@
+{
+  "publicId": "8d65c922",
+  "wikipediaSlug": "Albert_Rose-Innes",
+  "wikipediaId": "Q4711136",
+  "name": "Albert Rose-Innes",
+  "fullName": "Albert Rose-Innes",
+  "profileSummary": "Albert Rose-Innes was a South African cricketer who played in South Africa's first two Test matches.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Albert_Rose-Innes.jpg/330px-Albert_Rose-Innes.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Rose-Innes",
+  "dateOfBirth": "1868-02-16",
+  "birthDateParsed": "1868-02-16",
+  "dateOfDeath": "1946-11-22",
+  "deathDateParsed": "1946-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.958055555",
+  "birthCoordinatesLng": "25.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4711136",
+  "birthPlace": "Gqeberha",
+  "fetchedAt": "2026-07-31T20:20:01.409Z"
+}

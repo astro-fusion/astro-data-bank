@@ -1,0 +1,34 @@
+{
+  "publicId": "fd938011",
+  "wikipediaSlug": "Dino_Zoff",
+  "wikipediaId": "Q180661",
+  "name": "Dino Zoff",
+  "fullName": "Dino Zoff",
+  "profileSummary": "Dino Zoff is an Italian former professional footballer who played as a goalkeeper. Regarded as one of the greatest goalkeepers of all time, he is the oldest ever winner of the World Cup, which he lifted as captain of the Italy national team in the 1982 tournament, at the age of 40 years, 4 months and 13 days. He also won the award for best goalkeeper of the tournament and was elected to the team of the tournament for his performances, keeping two clean-sheets, an honour he also received after winning the 1968 European Championship on home soil. Zoff is the only Italian player to have won both the World Cup and the European Championship. He also achieved great club success with Juventus, winning six Serie A titles, two Coppa Italia titles, and a UEFA Cup, also reaching two European Champions' Cup finals in the 1972–73 and 1982–83 seasons, as well as finishing second in the 1973 Intercontinental Cup final.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dino_Zoff_%281974%29.jpg/330px-Dino_Zoff_%281974%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dino_Zoff",
+  "dateOfBirth": "1942-02-28",
+  "birthDateParsed": "1942-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.916666666",
+  "birthCoordinatesLng": "13.466666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "sports executive",
+    "goalkeeper"
+  ],
+  "qid": "Q180661",
+  "birthPlace": "Mariano del Friuli",
+  "fetchedAt": "2026-08-10T11:27:34.225Z"
+}

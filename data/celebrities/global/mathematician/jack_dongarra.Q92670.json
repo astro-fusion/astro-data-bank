@@ -1,0 +1,34 @@
+{
+  "publicId": "0d358c2d",
+  "wikipediaSlug": "Jack_Dongarra",
+  "wikipediaId": "Q92670",
+  "name": "Jack Dongarra",
+  "fullName": "Jack Dongarra",
+  "profileSummary": "Jack Joseph Dongarra is an American computer scientist and mathematician. He is a University Distinguished Professor Emeritus of Computer Science in the Electrical Engineering and Computer Science Department at the University of Tennessee. He holds the position Turing Fellowship in the School of Mathematics at the University of Manchester, and is an adjunct professor in the Computer Science Department at Rice University. He served as a faculty fellow at the Texas A&M University Institute for Advanced Study (2014–2018). Dongarra is the founding director of the Innovative Computing Laboratory at the University of Tennessee. He was the recipient of the Turing Award in 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jack-dongarra-2022.jpg/330px-Jack-dongarra-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Dongarra",
+  "dateOfBirth": "1950-07-18",
+  "birthDateParsed": "1950-07-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q92670",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-10T04:28:59.749Z"
+}

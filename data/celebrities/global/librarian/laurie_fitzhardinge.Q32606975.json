@@ -1,0 +1,34 @@
+{
+  "publicId": "ece3430b",
+  "wikipediaSlug": "Laurie_Fitzhardinge",
+  "wikipediaId": "Q32606975",
+  "name": "Laurie Fitzhardinge",
+  "fullName": "Laurie Fitzhardinge",
+  "profileSummary": "Laurence Frederic Fitzhardinge was an Australian historian and librarian. He was known as a pioneer of the Australian Dictionary of Biography, and also as the official biographer of Billy Hughes.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laurie_Fitzhardinge",
+  "dateOfBirth": "1908-07-07",
+  "birthDateParsed": "1908-07-07",
+  "dateOfDeath": "1993-10-31",
+  "deathDateParsed": "1993-10-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.796666666",
+  "birthCoordinatesLng": "151.181388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "librarian",
+    "historian",
+    "biographer",
+    "classical scholar"
+  ],
+  "qid": "Q32606975",
+  "birthPlace": "Chatswood",
+  "fetchedAt": "2026-08-03T12:58:45.926Z"
+}

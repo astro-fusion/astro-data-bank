@@ -1,0 +1,37 @@
+{
+  "publicId": "245dc2bb",
+  "wikipediaSlug": "Eavan_Boland",
+  "wikipediaId": "Q5331464",
+  "name": "Eavan Boland",
+  "fullName": "Eavan Boland",
+  "profileSummary": "Eavan Aisling Boland was an Irish poet, author, and professor. She was a professor at Stanford University, where she had taught from 1996. Her work deals with the Irish national identity, and the role of women in Irish history. A number of poems from Boland's poetry career are studied by Irish students who take the Leaving Certificate. She was a recipient of the Lannan Literary Award for Poetry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Eavan_Boland_in_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eavan_Boland",
+  "dateOfBirth": "1944-09-24",
+  "birthDateParsed": "1944-09-24",
+  "dateOfDeath": "2020-04-27",
+  "deathDateParsed": "2020-04-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "academic",
+    "university teacher",
+    "literary scholar",
+    "essayist",
+    "literary critic"
+  ],
+  "qid": "Q5331464",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-08-04T15:05:39.739Z"
+}

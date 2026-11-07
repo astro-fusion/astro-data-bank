@@ -1,0 +1,39 @@
+{
+  "publicId": "f27361b0",
+  "wikipediaSlug": "Herbert_Hoover",
+  "wikipediaId": "Q35236",
+  "name": "Herbert Hoover",
+  "fullName": "Herbert Hoover",
+  "profileSummary": "Herbert Clark Hoover was the 31st president of the United States, serving from 1929 to 1933. As a member of the Republican Party, he served as the third United States secretary of commerce from 1921 to 1928 before being elected president in 1928. His presidency was dominated by the Great Depression, and his policies and methods to combat it were seen as inadequate and overly conservative. Amid his unpopularity, he decisively lost re-election to Franklin D. Roosevelt in 1932.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/330px-President_Hoover_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herbert_Hoover",
+  "dateOfBirth": "1874-08-10",
+  "birthDateParsed": "1874-08-10",
+  "dateOfDeath": "1964-10-20",
+  "deathDateParsed": "1964-10-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.673055555",
+  "birthCoordinatesLng": "-91.345833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "engineer",
+    "writer",
+    "mining engineer",
+    "geologist",
+    "businessperson",
+    "statesperson",
+    "author",
+    "minister"
+  ],
+  "qid": "Q35236",
+  "birthPlace": "West Branch",
+  "fetchedAt": "2026-08-01T18:08:01.378Z"
+}

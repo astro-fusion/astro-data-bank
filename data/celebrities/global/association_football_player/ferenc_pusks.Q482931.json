@@ -1,0 +1,32 @@
+{
+  "publicId": "e1ebf4cb",
+  "wikipediaSlug": "Ferenc_Puskás",
+  "wikipediaId": "Q482931",
+  "name": "Ferenc Puskás",
+  "fullName": "Ferenc Puskás",
+  "profileSummary": "Ferenc Puskás was a Hungarian footballer and manager, widely regarded as one of the greatest players of all time, the greatest Hungarian footballer of all time, and the sport's first international superstar. A forward and an attacking midfielder, he scored 84 goals in 85 international matches for Hungary and later played four international matches for Spain as well. He is the European all-time top assist provider in international football (53). He became an Olympic champion in 1952 and led his nation to the final of the 1954 World Cup. He won three European Cups, ten national championships and eight top individual scoring honors. Known as the \"Galloping Major\", in 1995, he was recognized as the greatest top division scorer of the 20th century by the IFFHS. Scoring 802 goals in 792 official games during his career, he is the seventh top goal scorer of all time by the RSSSF.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ferenc_Puskas_en_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s",
+  "dateOfBirth": "1927-04-01",
+  "birthDateParsed": "1927-04-01",
+  "dateOfDeath": "2006-11-17",
+  "deathDateParsed": "2006-11-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q482931",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-10T11:27:56.802Z"
+}

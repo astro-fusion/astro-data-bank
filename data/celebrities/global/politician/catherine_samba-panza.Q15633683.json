@@ -1,0 +1,33 @@
+{
+  "publicId": "00d3d01c",
+  "wikipediaSlug": "Catherine_Samba-Panza",
+  "wikipediaId": "Q15633683",
+  "name": "Catherine Samba-Panza",
+  "fullName": "Catherine Samba-Panza",
+  "profileSummary": "Catherine Samba-Panza is a Central African politician who served as Transitional President of the Central African Republic from 2014 to 2016. She was the first woman to serve as head of state in the Central African Republic. Prior to her tenure as acting president, she was the Mayor of Bangui from 2013 to 2014.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Catherine_Samba-Panza_2014-09-26.jpg/330px-Catherine_Samba-Panza_2014-09-26.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catherine_Samba-Panza",
+  "dateOfBirth": "1954-06-26",
+  "birthDateParsed": "1954-06-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "12.11",
+  "birthCoordinatesLng": "15.05",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q15633683",
+  "birthPlace": "N'Djamena",
+  "fetchedAt": "2026-08-04T00:55:32.326Z"
+}

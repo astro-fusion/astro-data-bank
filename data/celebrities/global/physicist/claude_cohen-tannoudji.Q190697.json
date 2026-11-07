@@ -1,0 +1,33 @@
+{
+  "publicId": "db943bef",
+  "wikipediaSlug": "Claude_Cohen-Tannoudji",
+  "wikipediaId": "Q190697",
+  "name": "Claude Cohen-Tannoudji",
+  "fullName": "Claude Cohen-Tannoudji",
+  "profileSummary": "Claude Cohen-Tannoudji is a French physicist at the École normale supérieure in Paris. He is known for his experiments in laser cooling. He was the first to show that it is possible to cool far beyond the limit expected by sub-Doppler cooling, below the recoil temperature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Claude_Cohen-Tannoudji_%28cropped%29.JPG/330px-Claude_Cohen-Tannoudji_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Cohen-Tannoudji",
+  "dateOfBirth": "1933-04-01",
+  "birthDateParsed": "1933-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.365",
+  "birthCoordinatesLng": "6.614722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "researcher"
+  ],
+  "qid": "Q190697",
+  "birthPlace": "Constantine",
+  "fetchedAt": "2026-08-06T05:01:30.673Z"
+}

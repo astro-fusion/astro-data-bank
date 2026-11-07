@@ -1,0 +1,33 @@
+{
+  "publicId": "e275bf61",
+  "wikipediaSlug": "George_Paget_Thomson",
+  "wikipediaId": "Q133846",
+  "name": "George Paget Thomson",
+  "fullName": "George Paget Thomson",
+  "profileSummary": "Sir George Paget Thomson was a British experimental physicist who shared the 1937 Nobel Prize in Physics with Clinton Davisson \"for their experimental discovery of the diffraction of electrons by crystals.\" His father, J. J. Thomson, won the Nobel Prize in 1906 \"for his theoretical and experimental investigations on the conduction of electricity by gases\". It has been said that the elder Thomson won the Nobel for showing the electron is a particle, the younger for showing it is a wave.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/George_Paget_Thomson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Paget_Thomson",
+  "dateOfBirth": "1892-05-03",
+  "birthDateParsed": "1892-05-03",
+  "dateOfDeath": "1975-09-10",
+  "deathDateParsed": "1975-09-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.208055555",
+  "birthCoordinatesLng": "0.1225",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "nuclear physicist",
+    "university teacher"
+  ],
+  "qid": "Q133846",
+  "birthPlace": "Cambridge",
+  "fetchedAt": "2026-08-06T05:02:03.042Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "f9b7b245",
+  "wikipediaSlug": "Golda_Meir",
+  "wikipediaId": "Q42992",
+  "name": "Golda Meir",
+  "fullName": "Golda Meir",
+  "profileSummary": "Golda Meir was the prime minister of Israel from 1969 to 1974. She was Israel's first and, to date, only female head of government.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dan_Hadani_collection_%28990044371930205171%29.jpg/330px-Dan_Hadani_collection_%28990044371930205171%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Golda_Meir",
+  "dateOfBirth": "1898-05-03",
+  "birthDateParsed": "1898-05-03",
+  "dateOfDeath": "1978-12-08",
+  "deathDateParsed": "1978-12-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.65",
+  "birthCoordinatesLng": "70.1167",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "teacher",
+    "politician",
+    "librarian"
+  ],
+  "qid": "Q42992",
+  "birthPlace": "Russian Empire",
+  "fetchedAt": "2026-08-04T00:55:43.800Z"
+}

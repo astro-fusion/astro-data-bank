@@ -1,0 +1,37 @@
+{
+  "publicId": "e13e3e59",
+  "wikipediaSlug": "Gustaf_Dalén",
+  "wikipediaId": "Q160518",
+  "name": "Gustaf Dalén",
+  "fullName": "Gustaf Dalén",
+  "profileSummary": "Nils Gustaf Dalén was a Swedish engineer and inventor who received the Nobel Prize in Physics in 1912 \"for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nils_Gustaf_Dal%C3%A9n.jpg/330px-Nils_Gustaf_Dal%C3%A9n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustaf_Dal%C3%A9n",
+  "dateOfBirth": "1869-11-30",
+  "birthDateParsed": "1869-11-30",
+  "dateOfDeath": "1937-12-09",
+  "deathDateParsed": "1937-12-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "engineer",
+    "inventor",
+    "entrepreneur",
+    "business executive",
+    "chemist",
+    "industrialist"
+  ],
+  "qid": "Q160518",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-06T05:02:29.669Z"
+}

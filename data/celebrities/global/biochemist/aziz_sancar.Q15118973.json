@@ -1,0 +1,36 @@
+{
+  "publicId": "3f528db0",
+  "wikipediaSlug": "Aziz_Sancar",
+  "wikipediaId": "Q15118973",
+  "name": "Aziz Sancar",
+  "fullName": "Aziz Sancar",
+  "profileSummary": "Aziz Sancar is a Turkish-American molecular biologist specializing in DNA repair, cell cycle checkpoints, and circadian clock. In 2015, he was awarded the Nobel Prize in Chemistry along with Tomas Lindahl and Paul L. Modrich for their mechanistic studies of DNA repair. He has made contributions on photolyase and nucleotide excision repair in bacteria that have changed his field.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aziz_Sancar_0060.jpg/330px-Aziz_Sancar_0060.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aziz_Sancar",
+  "dateOfBirth": "1946-09-08",
+  "birthDateParsed": "1946-09-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.5375",
+  "birthCoordinatesLng": "40.889166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "molecular biologist",
+    "university teacher",
+    "geneticist",
+    "scientist",
+    "researcher"
+  ],
+  "qid": "Q15118973",
+  "birthPlace": "Savur district",
+  "fetchedAt": "2026-08-10T02:03:29.567Z"
+}

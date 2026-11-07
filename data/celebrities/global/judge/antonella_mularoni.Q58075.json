@@ -1,0 +1,33 @@
+{
+  "publicId": "ba07ba2d",
+  "wikipediaSlug": "Antonella_Mularoni",
+  "wikipediaId": "Q58075",
+  "name": "Antonella Mularoni",
+  "fullName": "Antonella Mularoni",
+  "profileSummary": "Antonella Mularoni is a Sammarinese jurist and politician who served as Captain Regent from April to October 2013, alongside Denis Amici. A member of Future Republic, she previously served as Secretary of State for Foreign and Political Affairs from 2008 to 2012 and as the Sammarinese judge for the European Court of Human Rights between 2001 and 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Antonella_Mularoni.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonella_Mularoni",
+  "dateOfBirth": "1961-09-27",
+  "birthDateParsed": "1961-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.932011111",
+  "birthCoordinatesLng": "12.44845",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "diplomat",
+    "politician"
+  ],
+  "qid": "Q58075",
+  "birthPlace": "San Marino",
+  "fetchedAt": "2026-08-04T00:54:56.724Z"
+}

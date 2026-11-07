@@ -1,0 +1,33 @@
+{
+  "publicId": "d4d9f426",
+  "wikipediaSlug": "Henry_A._Wallace",
+  "wikipediaId": "Q251666",
+  "name": "Henry A. Wallace",
+  "fullName": "Henry A. Wallace",
+  "profileSummary": "Henry Agard Wallace was the 33rd vice president of the United States, serving from 1941 to 1945, under President Franklin D. Roosevelt. He served as the 11th U.S. secretary of agriculture and the 10th U.S. secretary of commerce. He was the nominee of the new Progressive Party in the 1948 presidential election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Henry-A.-Wallace-Townsend_%28cropped%29.jpeg/330px-Henry-A.-Wallace-Townsend_%28cropped%29.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_A._Wallace",
+  "dateOfBirth": "1888-10-07",
+  "birthDateParsed": "1888-10-07",
+  "dateOfDeath": "1965-11-18",
+  "deathDateParsed": "1965-11-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.202777777",
+  "birthCoordinatesLng": "-94.418888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "horticulturist"
+  ],
+  "qid": "Q251666",
+  "birthPlace": "Orient",
+  "fetchedAt": "2026-08-01T18:08:19.338Z"
+}

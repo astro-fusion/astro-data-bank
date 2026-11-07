@@ -1,0 +1,34 @@
+{
+  "publicId": "99655fbd",
+  "wikipediaSlug": "JB_Pritzker",
+  "wikipediaId": "Q6103950",
+  "name": "JB Pritzker",
+  "fullName": "JB Pritzker",
+  "profileSummary": "Jay Robert Pritzker is an American politician, philanthropist, and businessman serving since 2019 as the 43rd governor of Illinois. He is a member of the Democratic Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Governor_JB_Pritzker_official_portrait_2019_%28crop%29.jpg/330px-Governor_JB_Pritzker_official_portrait_2019_%28crop%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/JB_Pritzker",
+  "dateOfBirth": "1965-01-19",
+  "birthDateParsed": "1965-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.458611111",
+  "birthCoordinatesLng": "-122.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson",
+    "lawyer",
+    "governor"
+  ],
+  "qid": "Q6103950",
+  "birthPlace": "Atherton",
+  "fetchedAt": "2026-08-02T03:28:30.771Z"
+}

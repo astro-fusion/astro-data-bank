@@ -1,0 +1,33 @@
+{
+  "publicId": "26824a6d",
+  "wikipediaSlug": "Dudley_R._Herschbach",
+  "wikipediaId": "Q243196",
+  "name": "Dudley R. Herschbach",
+  "fullName": "Dudley R. Herschbach",
+  "profileSummary": "Dudley Robert Herschbach is an American chemist at Harvard University. He won the 1986 Nobel Prize in Chemistry jointly with Yuan T. Lee and John C. Polanyi \"for their contributions concerning the dynamics of chemical elementary processes\". Herschbach and Lee specifically worked with molecular beams, performing crossed molecular beam experiments that enabled a detailed molecular-level understanding of many elementary reaction processes. Herschbach is a member of the Board of Sponsors of the Bulletin of the Atomic Scientists.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dudley_R._Herschbach_in_Lindau.jpg/330px-Dudley_R._Herschbach_in_Lindau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dudley_R._Herschbach",
+  "dateOfBirth": "1932-06-18",
+  "birthDateParsed": "1932-06-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.304166666",
+  "birthCoordinatesLng": "-121.872777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "physicist",
+    "mathematician"
+  ],
+  "qid": "Q243196",
+  "birthPlace": "San Jose",
+  "fetchedAt": "2026-08-10T02:03:38.252Z"
+}

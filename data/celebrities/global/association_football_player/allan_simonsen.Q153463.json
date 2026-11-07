@@ -1,0 +1,32 @@
+{
+  "publicId": "c466ee0c",
+  "wikipediaSlug": "Allan_Simonsen",
+  "wikipediaId": "Q153463",
+  "name": "Allan Simonsen",
+  "fullName": "Allan Simonsen",
+  "profileSummary": "Allan Rodenkam Simonsen is a Danish former footballer and manager. He most prominently played as a striker for German Bundesliga club Borussia Mönchengladbach, winning the 1975 and 1979 UEFA Cups, as well as for Barcelona in Spain, winning the 1982 Cup Winners' Cup. Simonsen is the only footballer to have scored in the European Cup, UEFA Cup, and Cup Winners' Cup finals. Simonsen was named 1977 European Footballer of the Year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Allan_Simonsen_20121027.JPG/330px-Allan_Simonsen_20121027.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_Simonsen",
+  "dateOfBirth": "1952-12-15",
+  "birthDateParsed": "1952-12-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.708333333",
+  "birthCoordinatesLng": "9.533333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q153463",
+  "birthPlace": "Vejle",
+  "fetchedAt": "2026-08-10T11:27:18.157Z"
+}

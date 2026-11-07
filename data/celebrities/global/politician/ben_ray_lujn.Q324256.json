@@ -1,0 +1,31 @@
+{
+  "publicId": "68defd0a",
+  "wikipediaSlug": "Ben_Ray_Luján",
+  "wikipediaId": "Q324256",
+  "name": "Ben Ray Luján",
+  "fullName": "Ben Ray Luján",
+  "profileSummary": "Ben Ray Luján is an American politician serving since 2021 as the junior United States senator from New Mexico. From 2009 to 2021, he represented New Mexico's 3rd congressional district in the U.S. House of Representatives; he served as assistant speaker from 2019 to 2021. Luján is a self-described progressive Democrat.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ben_Ray_Luj%C3%A1n%2C_official_portrait_%28119th_Congress%29.jpg/330px-Ben_Ray_Luj%C3%A1n%2C_official_portrait_%28119th_Congress%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n",
+  "dateOfBirth": "1972-06-07",
+  "birthDateParsed": "1972-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.666666666",
+  "birthCoordinatesLng": "-105.966666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q324256",
+  "birthPlace": "Santa Fe",
+  "fetchedAt": "2026-08-02T02:16:09.797Z"
+}

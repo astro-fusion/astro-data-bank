@@ -1,0 +1,32 @@
+{
+  "publicId": "858a25a7",
+  "wikipediaSlug": "Dave_Bassett",
+  "wikipediaId": "Q1173108",
+  "name": "Dave Bassett",
+  "fullName": "Dave Bassett",
+  "profileSummary": "David Thomas Bassett is an English football manager and a former player. Bassett won a total of seven promotions and is one of a select number of managers who took charge of over 1,000 matches.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Bassett",
+  "dateOfBirth": "1944-09-04",
+  "birthDateParsed": "1944-09-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.617",
+  "birthCoordinatesLng": "-0.325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1173108",
+  "birthPlace": "Stanmore",
+  "fetchedAt": "2026-08-01T05:21:04.044Z"
+}

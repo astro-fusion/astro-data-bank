@@ -1,0 +1,33 @@
+{
+  "publicId": "e95bfa07",
+  "wikipediaSlug": "Michael_Schumacher",
+  "wikipediaId": "Q9671",
+  "name": "Michael Schumacher",
+  "fullName": "Michael Schumacher",
+  "profileSummary": "Michael Schumacher is a German former racing driver who competed in Formula One from 1991 to 2006 and from 2010 to 2012. Schumacher won a record-setting seven Formula One World Drivers' Championship titles, tied by Lewis Hamilton in 2020, and—at the time of his retirement—held the records for most wins (91), pole positions (68), and podium finishes (155), while he maintains the record for most fastest laps (77), among others.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Michael_Schumacher%2C_September_2005.jpg/330px-Michael_Schumacher%2C_September_2005.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Schumacher",
+  "dateOfBirth": "1969-01-03",
+  "birthDateParsed": "1969-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.8775",
+  "birthCoordinatesLng": "6.876111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "diplomat",
+    "motorcycle racer"
+  ],
+  "qid": "Q9671",
+  "birthPlace": "Hürth",
+  "fetchedAt": "2026-08-01T16:01:28.810Z"
+}

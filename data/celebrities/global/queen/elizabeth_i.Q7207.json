@@ -1,0 +1,31 @@
+{
+  "publicId": "aea1ccae",
+  "wikipediaSlug": "Elizabeth_I",
+  "wikipediaId": "Q7207",
+  "name": "Elizabeth I",
+  "fullName": "Elizabeth I",
+  "profileSummary": "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/330px-Darnley_stage_3.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+  "dateOfBirth": "1533-09-17",
+  "birthDateParsed": "1533-09-17",
+  "dateOfDeath": "1603-04-03",
+  "deathDateParsed": "1603-04-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.482222222",
+  "birthCoordinatesLng": "-0.006666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "queen"
+  ],
+  "qid": "Q7207",
+  "birthPlace": "Palace of Placentia",
+  "fetchedAt": "2026-08-02T05:21:43.912Z"
+}

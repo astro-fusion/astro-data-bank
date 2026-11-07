@@ -1,0 +1,33 @@
+{
+  "publicId": "c24720fd",
+  "wikipediaSlug": "Alan_S._Armstrong",
+  "wikipediaId": "Q138781196",
+  "name": "Alan S. Armstrong",
+  "fullName": "Alan S. Armstrong",
+  "profileSummary": "Alan Stuart Armstrong is an American businessman and politician serving since 2026 as the junior United States senator from Oklahoma. A member of the Republican Party, he was the CEO of the oil and gas company Williams from 2011 to 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alan_S_Armstrong_official_portrait_%28cropped_2%29.jpg/330px-Alan_S_Armstrong_official_portrait_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_S._Armstrong",
+  "dateOfBirth": "1962-07-11",
+  "birthDateParsed": "1962-07-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.55",
+  "birthCoordinatesLng": "-97.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "engineer",
+    "politician"
+  ],
+  "qid": "Q138781196",
+  "birthPlace": "McLennan County",
+  "fetchedAt": "2026-08-02T02:15:59.219Z"
+}

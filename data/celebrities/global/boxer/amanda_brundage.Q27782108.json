@@ -1,0 +1,32 @@
+{
+  "publicId": "a1c470d7",
+  "wikipediaSlug": "Amanda_Brundage",
+  "wikipediaId": "Q27782108",
+  "name": "Amanda Brundage",
+  "fullName": "Amanda Brundage",
+  "profileSummary": "Amanda Bobby Brundage is an American former professional mixed martial artist who competed in the Strawweight division of the Invicta Fighting Championships and Ultimate Fighting Championship (UFC).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanda_Brundage",
+  "dateOfBirth": "1991-10-11",
+  "birthDateParsed": "1991-10-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.818611111",
+  "birthCoordinatesLng": "-84.448611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer",
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q27782108",
+  "birthPlace": "Bath",
+  "fetchedAt": "2026-08-01T17:04:11.181Z"
+}

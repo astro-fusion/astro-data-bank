@@ -1,0 +1,31 @@
+{
+  "publicId": "4bc47c67",
+  "wikipediaSlug": "Colin_Munro",
+  "wikipediaId": "Q5145435",
+  "name": "Colin Munro",
+  "fullName": "Colin Munro",
+  "profileSummary": "Colin Munro is a South African born former New Zealand international cricketer, who played for New Zealand cricket team. He was a member of the New Zealand Under-19 team and is currently a member of the Auckland cricket team. He was a part of the New Zealand squad to finish as runners-up at the 2019 Cricket World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Colin_Munro_with_the_Sydney_Sixers.jpg/330px-Colin_Munro_with_the_Sydney_Sixers.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colin_Munro",
+  "dateOfBirth": "1987-03-11",
+  "birthDateParsed": "1987-03-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.858333333",
+  "birthCoordinatesLng": "31.025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5145435",
+  "birthPlace": "Durban",
+  "fetchedAt": "2026-07-31T21:02:35.543Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "198cfb96",
+  "wikipediaSlug": "Boris_Yegorov",
+  "wikipediaId": "Q352137",
+  "name": "Boris Yegorov",
+  "fullName": "Boris Yegorov",
+  "profileSummary": "Boris Borisovich Yegorov was a Soviet and Russian physician and cosmonaut who became the first physician to travel to space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Image_of_Boris_Yegorov.jpg/330px-Image_of_Boris_Yegorov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Yegorov",
+  "dateOfBirth": "1937-11-26",
+  "birthDateParsed": "1937-11-26",
+  "dateOfDeath": "1994-09-12",
+  "deathDateParsed": "1994-09-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "astronaut",
+    "science astronaut"
+  ],
+  "qid": "Q352137",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-10T06:03:49.416Z"
+}

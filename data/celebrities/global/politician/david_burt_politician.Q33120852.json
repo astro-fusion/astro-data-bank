@@ -1,0 +1,31 @@
+{
+  "publicId": "bfc5d706",
+  "wikipediaSlug": "David_Burt_(politician)",
+  "wikipediaId": "Q33120852",
+  "name": "David Burt (politician)",
+  "fullName": "David Burt (politician)",
+  "profileSummary": "Edward David Burt is a Bermudian politician who has been the 13th Premier of Bermuda since 2017, and a member of the House of Assembly of Bermuda from Pembroke West Central since 2012. He was Leader of the Opposition from 2016 to 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Edward_David_Burt_2017.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Burt_(politician)",
+  "dateOfBirth": "1978-11-23",
+  "birthDateParsed": "1978-11-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.32",
+  "birthCoordinatesLng": "-64.74",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q33120852",
+  "birthPlace": "Bermuda",
+  "fetchedAt": "2026-08-03T16:50:35.605Z"
+}

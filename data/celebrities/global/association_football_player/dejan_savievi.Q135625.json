@@ -1,0 +1,32 @@
+{
+  "publicId": "c6203bfd",
+  "wikipediaSlug": "Dejan_Savićević",
+  "wikipediaId": "Q135625",
+  "name": "Dejan Savićević",
+  "fullName": "Dejan Savićević",
+  "profileSummary": "Dejan Savićević is a Montenegrin former professional footballer who played as an attacking midfielder. Since 2001, he has been the president of the Montenegrin Football Association (FSCG), currently in his fifth term at the post.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dejan_Savi%C4%87evi%C4%87.jpg/330px-Dejan_Savi%C4%87evi%C4%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dejan_Savi%C4%87evi%C4%87",
+  "dateOfBirth": "1966-09-15",
+  "birthDateParsed": "1966-09-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.441388888",
+  "birthCoordinatesLng": "19.262777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q135625",
+  "birthPlace": "Podgorica",
+  "fetchedAt": "2026-08-10T11:27:45.255Z"
+}

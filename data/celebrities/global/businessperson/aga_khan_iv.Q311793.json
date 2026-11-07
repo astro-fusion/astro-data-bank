@@ -1,0 +1,38 @@
+{
+  "publicId": "7c6c6a36",
+  "wikipediaSlug": "Aga_Khan_IV",
+  "wikipediaId": "Q311793",
+  "name": "Aga Khan IV",
+  "fullName": "Aga Khan IV",
+  "profileSummary": "Prince Shah Karim al-Hussaini, known simply as Aga Khan IV, was the 49th Imam of Nizari Isma'ili Shia Islam from 1957 until his death in 2025. He inherited the Nizari imamate and the title of Aga Khan at the age of 20 upon the death of his grandfather, Sultan Muhammad Shah. During his Imamate, he was also known by the religious title Mawlānā Hazar Imam by his Isma'ili followers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aga_Khan_01_%28crop2%29.jpg/330px-Aga_Khan_01_%28crop2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aga_Khan_IV",
+  "dateOfBirth": "1936-12-13",
+  "birthDateParsed": "1936-12-13",
+  "dateOfDeath": "2025-02-04",
+  "deathDateParsed": "2025-02-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.266666666",
+  "birthCoordinatesLng": "6.15",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "alpine skier",
+    "business magnate",
+    "philanthropist",
+    "imam",
+    "racehorse owner and breeder",
+    "merchant",
+    "religious leader"
+  ],
+  "qid": "Q311793",
+  "birthPlace": "Genthod",
+  "fetchedAt": "2026-08-05T02:42:32.828Z"
+}

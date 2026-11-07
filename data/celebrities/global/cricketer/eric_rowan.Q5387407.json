@@ -1,0 +1,31 @@
+{
+  "publicId": "b236b949",
+  "wikipediaSlug": "Eric_Rowan",
+  "wikipediaId": "Q5387407",
+  "name": "Eric Rowan",
+  "fullName": "Eric Rowan",
+  "profileSummary": "Eric Alfred Burchell Rowan was a South African cricketer who played for Transvaal, Eastern Province and South Africa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Eric_Rowan_1935.jpg/330px-Eric_Rowan_1935.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Rowan",
+  "dateOfBirth": "1909-07-20",
+  "birthDateParsed": "1909-07-20",
+  "dateOfDeath": "1993-04-30",
+  "deathDateParsed": "1993-04-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5387407",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:22:18.625Z"
+}

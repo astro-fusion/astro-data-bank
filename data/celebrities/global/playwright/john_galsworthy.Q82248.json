@@ -1,0 +1,35 @@
+{
+  "publicId": "072b4608",
+  "wikipediaSlug": "John_Galsworthy",
+  "wikipediaId": "Q82248",
+  "name": "John Galsworthy",
+  "fullName": "John Galsworthy",
+  "profileSummary": "John Galsworthy was an English novelist and playwright. He is best known for his trilogy of novels collectively called The Forsyte Saga, and two later trilogies, A Modern Comedy and End of the Chapter. He was awarded the 1932 Nobel Prize in Literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/John_galsworthy.jpg/330px-John_galsworthy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Galsworthy",
+  "dateOfBirth": "1867-08-14",
+  "birthDateParsed": "1867-08-14",
+  "dateOfDeath": "1933-01-31",
+  "deathDateParsed": "1933-01-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4103",
+  "birthCoordinatesLng": "-0.2995",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "writer",
+    "novelist",
+    "screenwriter",
+    "prose writer"
+  ],
+  "qid": "Q82248",
+  "birthPlace": "Kingston upon Thames",
+  "fetchedAt": "2026-08-06T07:41:42.551Z"
+}

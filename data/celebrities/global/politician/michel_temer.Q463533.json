@@ -1,0 +1,33 @@
+{
+  "publicId": "9d468deb",
+  "wikipediaSlug": "Michel_Temer",
+  "wikipediaId": "Q463533",
+  "name": "Michel Temer",
+  "fullName": "Michel Temer",
+  "profileSummary": "Michel Miguel Elias Temer Lulia is a Brazilian politician, lawyer, poet and writer who served as the 37th president of Brazil from 31 August 2016 to 1 January 2019. He took office after the impeachment and removal from office of his predecessor Dilma Rousseff. He had been the 24th vice president since 2011 and acting president since 12 May 2016, when Rousseff's powers and duties were suspended pending an impeachment trial.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Michel_Temer_%28foto_oficial%29_%28cropped_2%29.jpg/330px-Michel_Temer_%28foto_oficial%29_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Temer",
+  "dateOfBirth": "1940-09-23",
+  "birthDateParsed": "1940-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.101944444",
+  "birthCoordinatesLng": "-47.715",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "poet"
+  ],
+  "qid": "Q463533",
+  "birthPlace": "Tietê",
+  "fetchedAt": "2026-08-03T15:53:12.245Z"
+}

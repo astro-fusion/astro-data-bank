@@ -1,0 +1,33 @@
+{
+  "publicId": "d750c768",
+  "wikipediaSlug": "Emil_Theodor_Kocher",
+  "wikipediaId": "Q115478",
+  "name": "Emil Theodor Kocher",
+  "fullName": "Emil Theodor Kocher",
+  "profileSummary": "Emil Theodor Kocher was a Swiss physician and medical researcher who received the 1909 Nobel Prize in Physiology or Medicine for his work in the physiology, pathology and surgery of the thyroid. Among his many accomplishments are the introduction and promotion of aseptic surgery and scientific methods in surgery, specifically reducing the mortality of thyroidectomies below 1% in his operations.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Emil_Theodor_Kocher_%28slight_3x4_crop%29.jpg/330px-Emil_Theodor_Kocher_%28slight_3x4_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Theodor_Kocher",
+  "dateOfBirth": "1841-08-25",
+  "birthDateParsed": "1841-08-25",
+  "dateOfDeath": "1917-07-27",
+  "deathDateParsed": "1917-07-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.94798",
+  "birthCoordinatesLng": "7.44743",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "surgeon",
+    "university teacher",
+    "physiologist"
+  ],
+  "qid": "Q115478",
+  "birthPlace": "Bern",
+  "fetchedAt": "2026-08-10T03:14:16.935Z"
+}

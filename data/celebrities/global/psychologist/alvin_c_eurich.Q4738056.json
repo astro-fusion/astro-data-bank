@@ -1,0 +1,33 @@
+{
+  "publicId": "1eb94f18",
+  "wikipediaSlug": "Alvin_C._Eurich",
+  "wikipediaId": "Q4738056",
+  "name": "Alvin C. Eurich",
+  "fullName": "Alvin C. Eurich",
+  "profileSummary": "Alvin Christian Eurich was a 20th-century American educator. He was the first president of the State University of New York, and served as president from 1949 to 1951.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alvin_C._Eurich",
+  "dateOfBirth": "1902-06-14",
+  "birthDateParsed": "1902-06-14",
+  "dateOfDeath": "1987-05-27",
+  "deathDateParsed": "1987-05-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.59505",
+  "birthCoordinatesLng": "-83.888639",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "psychologist",
+    "pedagogue",
+    "university teacher"
+  ],
+  "qid": "Q4738056",
+  "birthPlace": "Bay City",
+  "fetchedAt": "2026-08-04T15:04:46.321Z"
+}

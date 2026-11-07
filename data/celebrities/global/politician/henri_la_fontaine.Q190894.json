@@ -1,0 +1,38 @@
+{
+  "publicId": "e8c6378e",
+  "wikipediaSlug": "Henri_La_Fontaine",
+  "wikipediaId": "Q190894",
+  "name": "Henri La Fontaine",
+  "fullName": "Henri La Fontaine",
+  "profileSummary": "Henri La Fontaine, was a Belgian international lawyer and president of the International Peace Bureau. He received the Nobel Peace Prize in 1913 because \"he was the effective leader of the peace movement in Europe.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/HenriLaFontaine.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_La_Fontaine",
+  "dateOfBirth": "1854-04-22",
+  "birthDateParsed": "1854-04-22",
+  "dateOfDeath": "1943-05-14",
+  "deathDateParsed": "1943-05-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.846666666",
+  "birthCoordinatesLng": "4.351666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "bibliographer",
+    "pacifist",
+    "women's rights activist",
+    "jurist",
+    "socialist",
+    "author"
+  ],
+  "qid": "Q190894",
+  "birthPlace": "Brussels",
+  "fetchedAt": "2026-08-04T02:13:24.297Z"
+}

@@ -1,0 +1,43 @@
+{
+  "publicId": "4a65ffb5",
+  "wikipediaSlug": "Albert_Schweitzer",
+  "wikipediaId": "Q49325",
+  "name": "Albert Schweitzer",
+  "fullName": "Albert Schweitzer",
+  "profileSummary": "Ludwig Philipp Albert Schweitzer was a German polymath from Alsace. He was a theologian, organist, musicologist, writer, humanitarian, philosopher, and physician. As a Lutheran minister, Schweitzer challenged both the secular view of the historical Jesus as depicted by the historical-critical method current at this time, as well as the traditional Christian view. His contributions to the interpretation of Pauline Christianity concern the role of Paul's mysticism of \"being in Christ\" as primary and the doctrine of justification by faith as secondary.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesarchiv_Bild_183-D0116-0041-019%2C_Albert_Schweitzer.jpg/330px-Bundesarchiv_Bild_183-D0116-0041-019%2C_Albert_Schweitzer.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Schweitzer",
+  "dateOfBirth": "1875-01-14",
+  "birthDateParsed": "1875-01-14",
+  "dateOfDeath": "1965-09-04",
+  "deathDateParsed": "1965-09-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.139166666",
+  "birthCoordinatesLng": "7.260833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "theologian",
+    "philosopher",
+    "physician",
+    "organist",
+    "physician writer",
+    "university teacher",
+    "musicologist",
+    "music historian",
+    "composer",
+    "missionary",
+    "pacifist",
+    "author",
+    "musician"
+  ],
+  "qid": "Q49325",
+  "birthPlace": "Kaysersberg",
+  "fetchedAt": "2026-08-04T02:12:31.046Z"
+}

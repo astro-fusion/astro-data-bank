@@ -1,0 +1,31 @@
+{
+  "publicId": "be5f7057",
+  "wikipediaSlug": "Ellen_Hansell",
+  "wikipediaId": "Q273594",
+  "name": "Ellen Hansell",
+  "fullName": "Ellen Hansell",
+  "profileSummary": "Ellen Forde Hansell Allerdice was an American female tennis player. She was the first women's singles champion of the U.S. Championships in 1887. She was a losing finalist to Bertha Townsend the next year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ellen_Hansell.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_Hansell",
+  "dateOfBirth": "1869-09-18",
+  "birthDateParsed": "1869-09-18",
+  "dateOfDeath": "1937-05-11",
+  "deathDateParsed": "1937-05-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q273594",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-01T14:59:05.532Z"
+}

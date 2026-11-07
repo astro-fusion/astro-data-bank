@@ -1,0 +1,31 @@
+{
+  "publicId": "494de1c4",
+  "wikipediaSlug": "Joan_Hartigan",
+  "wikipediaId": "Q434867",
+  "name": "Joan Hartigan",
+  "fullName": "Joan Hartigan",
+  "profileSummary": "Joan Marcia Bathurst was an Australian Champion tennis player who was active from the early 1930s until the late 1940s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Joan_Bathurst_1935_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Hartigan",
+  "dateOfBirth": "1912-06-06",
+  "birthDateParsed": "1912-06-06",
+  "dateOfDeath": "2000-08-31",
+  "deathDateParsed": "2000-08-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q434867",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-01T15:00:07.590Z"
+}

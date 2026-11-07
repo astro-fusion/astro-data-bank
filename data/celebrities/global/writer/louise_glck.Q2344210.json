@@ -1,0 +1,33 @@
+{
+  "publicId": "0de41a83",
+  "wikipediaSlug": "Louise_Glück",
+  "wikipediaId": "Q2344210",
+  "name": "Louise Glück",
+  "fullName": "Louise Glück",
+  "profileSummary": "Louise Elisabeth Glück was an American poet and essayist. She won the 2020 Nobel Prize in Literature, whose judges praised \"her unmistakable poetic voice that with austere beauty makes individual existence universal\". Her other awards include the Pulitzer Prize, National Humanities Medal, National Book Award, National Book Critics Circle Award, and Bollingen Prize. From 2003 to 2004, she was Poet Laureate of the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Louise_Gl%C3%BCck_circa_1977.jpg/330px-Louise_Gl%C3%BCck_circa_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck",
+  "dateOfBirth": "1943-04-22",
+  "birthDateParsed": "1943-04-22",
+  "dateOfDeath": "2023-10-13",
+  "deathDateParsed": "2023-10-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "poet",
+    "essayist"
+  ],
+  "qid": "Q2344210",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-06T07:42:18.169Z"
+}

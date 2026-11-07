@@ -1,0 +1,33 @@
+{
+  "publicId": "9b5c43fd",
+  "wikipediaSlug": "John_Curtin",
+  "wikipediaId": "Q23375",
+  "name": "John Curtin",
+  "fullName": "John Curtin",
+  "profileSummary": "John Curtin was an Australian politician, trade unionist and journalist who served as the 14th prime minister of Australia from 1941 until his death in 1945. He held office as the leader of the Australian Labor Party (ALP), and is notable for leading the country through the majority of World War II, including all but the last few weeks of the Pacific War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/JohnCurtin.jpg/330px-JohnCurtin.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Curtin",
+  "dateOfBirth": "1885-01-08",
+  "birthDateParsed": "1885-01-08",
+  "dateOfDeath": "1945-07-05",
+  "deathDateParsed": "1945-07-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.4333",
+  "birthCoordinatesLng": "143.9",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "Australian rules football player",
+    "head of government"
+  ],
+  "qid": "Q23375",
+  "birthPlace": "Creswick",
+  "fetchedAt": "2026-08-03T12:58:26.325Z"
+}

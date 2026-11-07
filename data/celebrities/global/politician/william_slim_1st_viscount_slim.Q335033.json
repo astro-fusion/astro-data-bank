@@ -1,0 +1,33 @@
+{
+  "publicId": "fe3d9168",
+  "wikipediaSlug": "William_Slim,_1st_Viscount_Slim",
+  "wikipediaId": "Q335033",
+  "name": "William Slim, 1st Viscount Slim",
+  "fullName": "William Slim, 1st Viscount Slim",
+  "profileSummary": "Field Marshal William Joseph Slim, 1st Viscount Slim, usually known as Bill Slim, was a British military commander and the 13th governor-general of Australia from 1953 to 1960.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/British_Generals_1939-1945_IND3595.jpg/330px-British_Generals_1939-1945_IND3595.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Slim%2C_1st_Viscount_Slim",
+  "dateOfBirth": "1891-08-06",
+  "birthDateParsed": "1891-08-06",
+  "dateOfDeath": "1970-12-14",
+  "deathDateParsed": "1970-12-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.453611111",
+  "birthCoordinatesLng": "-2.5975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "soldier"
+  ],
+  "qid": "Q335033",
+  "birthPlace": "Bristol",
+  "fetchedAt": "2026-08-03T12:59:10.175Z"
+}

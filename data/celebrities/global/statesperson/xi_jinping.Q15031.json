@@ -1,0 +1,32 @@
+{
+  "publicId": "00427c56",
+  "wikipediaSlug": "Xi_Jinping",
+  "wikipediaId": "Q15031",
+  "name": "Xi Jinping",
+  "fullName": "Xi Jinping",
+  "profileSummary": "Xi Jinping is a Chinese politician who is the paramount leader of China. He has served as the general secretary of the Chinese Communist Party (CCP) and chairman of the Party Central Military Commission (CMC) since 2012, and as the president of China and chairman of the State Central Military Commission since 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Xi_Jinping_meets_Putin_May_2026.jpg/330px-Xi_Jinping_meets_Putin_May_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Xi_Jinping",
+  "dateOfBirth": "1953-06-15",
+  "birthDateParsed": "1953-06-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "statesperson",
+    "politician"
+  ],
+  "qid": "Q15031",
+  "birthPlace": "Beijing",
+  "fetchedAt": "2026-08-03T15:53:25.337Z"
+}

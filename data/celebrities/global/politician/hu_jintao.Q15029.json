@@ -1,0 +1,32 @@
+{
+  "publicId": "00a12985",
+  "wikipediaSlug": "Hu_Jintao",
+  "wikipediaId": "Q15029",
+  "name": "Hu Jintao",
+  "fullName": "Hu Jintao",
+  "profileSummary": "Hu Jintao is a Chinese retired politician who served as the general secretary of the Chinese Communist Party (CCP) from 2002 to 2012, president of China from 2003 to 2013, chairman of the Party Central Military Commission (CMC) from 2004 to 2012 and chairman of the State Central Military Commission from 2005 to 2013. He was a member of the CCP Politburo Standing Committee, China's top decision-making body, from 1992 to 2012, and served as the paramount leader of China from 2002 to 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chinese_President_Hu_Jintao_in_2011.jpg/330px-Chinese_President_Hu_Jintao_in_2011.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hu_Jintao",
+  "dateOfBirth": "1942-12-21",
+  "birthDateParsed": "1942-12-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.51028",
+  "birthCoordinatesLng": "120.13536",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "engineer"
+  ],
+  "qid": "Q15029",
+  "birthPlace": "Jiangyan District",
+  "fetchedAt": "2026-08-03T15:52:28.882Z"
+}

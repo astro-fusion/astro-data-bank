@@ -1,0 +1,35 @@
+{
+  "publicId": "deb487bc",
+  "wikipediaSlug": "Arvid_Carlsson",
+  "wikipediaId": "Q298045",
+  "name": "Arvid Carlsson",
+  "fullName": "Arvid Carlsson",
+  "profileSummary": "Arvid Carlsson was a Swedish neuropharmacologist who is best known for his work with the neurotransmitter dopamine and its effects in Parkinson's disease. For his work on dopamine, Carlsson was awarded the Nobel Prize in Physiology or Medicine in 2000, together with Eric Kandel and Paul Greengard.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Arvid_Carlsson_2011a_%283x4_cropped%29.jpg/330px-Arvid_Carlsson_2011a_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arvid_Carlsson",
+  "dateOfBirth": "1923-01-25",
+  "birthDateParsed": "1923-01-25",
+  "dateOfDeath": "2018-06-29",
+  "deathDateParsed": "2018-06-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.849760548",
+  "birthCoordinatesLng": "17.638946597",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "neuroscientist",
+    "pharmacologist",
+    "pharmacist",
+    "university teacher"
+  ],
+  "qid": "Q298045",
+  "birthPlace": "Uppsala",
+  "fetchedAt": "2026-08-10T03:13:39.586Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "cba181f9",
+  "wikipediaSlug": "Colin_Wesley",
+  "wikipediaId": "Q5145671",
+  "name": "Colin Wesley",
+  "fullName": "Colin Wesley",
+  "profileSummary": "Colin \"Tich\" Wesley was a South African cricketer who played in three Test matches in 1960.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Colin_Wesley.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Colin_Wesley",
+  "dateOfBirth": "1937-09-05",
+  "birthDateParsed": "1937-09-05",
+  "dateOfDeath": "2022-03-05",
+  "deathDateParsed": "2022-03-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.858333333",
+  "birthCoordinatesLng": "31.025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "businessperson"
+  ],
+  "qid": "Q5145671",
+  "birthPlace": "Durban",
+  "fetchedAt": "2026-07-31T20:21:24.525Z"
+}

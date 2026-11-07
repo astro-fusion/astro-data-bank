@@ -1,0 +1,34 @@
+{
+  "publicId": "912789a8",
+  "wikipediaSlug": "Christopher_Ferguson",
+  "wikipediaId": "Q447057",
+  "name": "Christopher Ferguson",
+  "fullName": "Christopher Ferguson",
+  "profileSummary": "Christopher J. \"Fergy\" Ferguson is a commercial astronaut and a retired United States Navy captain and NASA astronaut. He was the pilot of Space Shuttle Atlantis on his first mission to space, STS-115, which launched on September 9, 2006, and returned to Earth on September 21, 2006. He then commanded STS-126 aboard Space Shuttle Endeavour. In 2011, he was assigned as commander of STS-135, which was the final mission of the space shuttle program.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Christopher_Ferguson_in_2018_%28cropped%29_2.jpg/330px-Christopher_Ferguson_in_2018_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Ferguson",
+  "dateOfBirth": "1961-09-01",
+  "birthDateParsed": "1961-09-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "engineer",
+    "commercial astronaut"
+  ],
+  "qid": "Q447057",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-10T06:04:28.902Z"
+}

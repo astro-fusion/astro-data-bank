@@ -1,0 +1,31 @@
+{
+  "publicId": "2383fa38",
+  "wikipediaSlug": "Dick_Westcott",
+  "wikipediaId": "Q3524977",
+  "name": "Dick Westcott",
+  "fullName": "Dick Westcott",
+  "profileSummary": "Richard John Westcott was a South African cricketer who played in five Tests from 1954 to 1958. He was the first Test cricketer to have been born in Portugal. Australian Moises Henriques is the only other Portuguese-born Test cricketer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick_Westcott",
+  "dateOfBirth": "1927-09-19",
+  "birthDateParsed": "1927-09-19",
+  "dateOfDeath": "2013-01-16",
+  "deathDateParsed": "2013-01-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.708042",
+  "birthCoordinatesLng": "-9.139016",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3524977",
+  "birthPlace": "Lisbon",
+  "fetchedAt": "2026-07-31T20:22:21.428Z"
+}

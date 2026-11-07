@@ -1,0 +1,34 @@
+{
+  "publicId": "dfbf1ee5",
+  "wikipediaSlug": "António_Guterres",
+  "wikipediaId": "Q311440",
+  "name": "António Guterres",
+  "fullName": "António Guterres",
+  "profileSummary": "António Manuel de Oliveira Guterres is a Portuguese politician and diplomat who, since 2017, has served as the ninth Secretary-General of the United Nations. A member of the Portuguese Socialist Party, Guterres served as the prime minister of Portugal from 1995 to 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.N._Secretary_General_Antonio_Guterres_%283x4_cropped_b%29.jpg/330px-U.N._Secretary_General_Antonio_Guterres_%283x4_cropped_b%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Guterres",
+  "dateOfBirth": "1949-04-30",
+  "birthDateParsed": "1949-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.708042",
+  "birthCoordinatesLng": "-9.139016",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "engineer",
+    "assistant professor",
+    "diplomat"
+  ],
+  "qid": "Q311440",
+  "birthPlace": "Lisbon",
+  "fetchedAt": "2026-08-03T16:49:03.177Z"
+}

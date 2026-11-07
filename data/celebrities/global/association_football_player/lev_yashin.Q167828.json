@@ -1,0 +1,34 @@
+{
+  "publicId": "86819b22",
+  "wikipediaSlug": "Lev_Yashin",
+  "wikipediaId": "Q167828",
+  "name": "Lev Yashin",
+  "fullName": "Lev Yashin",
+  "profileSummary": "Lev Ivanovich Yashin was a Soviet professional footballer. He is widely regarded as one of the greatest footballers of all time and the best goalkeeper in the history of the sport. He is the only goalkeeper to win the Ballon d'Or. He was known for his athleticism, positioning, imposing presence in goal, and acrobatic reflex saves. He was also deputy chairman of the Football Federation of the Soviet Union.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/LevYashin.JPG/330px-LevYashin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lev_Yashin",
+  "dateOfBirth": "1929-10-22",
+  "birthDateParsed": "1929-10-22",
+  "dateOfDeath": "1990-03-20",
+  "deathDateParsed": "1990-03-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "ice hockey player",
+    "goalkeeper",
+    "athlete"
+  ],
+  "qid": "Q167828",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-10T11:28:49.535Z"
+}

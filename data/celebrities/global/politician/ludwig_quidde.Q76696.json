@@ -1,0 +1,37 @@
+{
+  "publicId": "bc5f786c",
+  "wikipediaSlug": "Ludwig_Quidde",
+  "wikipediaId": "Q76696",
+  "name": "Ludwig Quidde",
+  "fullName": "Ludwig Quidde",
+  "profileSummary": "Ludwig Quidde was a German politician and pacifist who is mainly remembered today for his acerbic criticism of German Emperor Wilhelm II. Quidde's long career spanned four different eras of German history: Otto von Bismarck, the Hohenzollern Empire under Wilhelm II (1888–1918), the Weimar Republic (1918–1933); and Nazi Germany. In 1927, Quidde was awarded the Nobel Peace Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ludwig_Quidde_nobel.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludwig_Quidde",
+  "dateOfBirth": "1858-03-23",
+  "birthDateParsed": "1858-03-23",
+  "dateOfDeath": "1941-03-05",
+  "deathDateParsed": "1941-03-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.075833333",
+  "birthCoordinatesLng": "8.807222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "medievalist",
+    "historian",
+    "pacifist",
+    "editor",
+    "member of parliament",
+    "opinion journalist"
+  ],
+  "qid": "Q76696",
+  "birthPlace": "Bremen",
+  "fetchedAt": "2026-08-04T02:13:48.075Z"
+}

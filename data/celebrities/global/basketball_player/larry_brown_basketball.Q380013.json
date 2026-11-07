@@ -1,0 +1,33 @@
+{
+  "publicId": "87cad3b1",
+  "wikipediaSlug": "Larry_Brown_(basketball)",
+  "wikipediaId": "Q380013",
+  "name": "Larry Brown (basketball)",
+  "fullName": "Larry Brown (basketball)",
+  "profileSummary": "Lawrence Harvey Brown is an American basketball coach and former player who last served as an assistant coach for the Memphis Tigers. Brown is the only coach in basketball history to win both an NCAA national championship and an NBA title. He has a 1,275–965 lifetime professional coaching record in the American Basketball Association (ABA) and the National Basketball Association (NBA) and is the only coach in NBA history to lead eight teams to the playoffs. He also won an ABA championship as a player with the Oakland Oaks in the 1968–69 season, and an Olympic gold medal in 1964. He is also the only person ever to coach two NBA franchises in the same season. Before coaching, Brown played collegiately at the University of North Carolina and professionally in the ABA.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Larry_Brown_2014.png/330px-Larry_Brown_2014.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Larry_Brown_(basketball)",
+  "dateOfBirth": "1940-09-14",
+  "birthDateParsed": "1940-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "head coach"
+  ],
+  "qid": "Q380013",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-01T15:37:27.431Z"
+}

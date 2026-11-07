@@ -1,0 +1,34 @@
+{
+  "publicId": "763f7a58",
+  "wikipediaSlug": "Joseph_Lyons",
+  "wikipediaId": "Q370966",
+  "name": "Joseph Lyons",
+  "fullName": "Joseph Lyons",
+  "profileSummary": "Joseph Aloysius Lyons was an Australian politician who served as the tenth prime minister of Australia, from 1932 until his death in 1939. He held office as the inaugural leader of the United Australia Party (UAP), having previously led the Tasmanian branch of the Australian Labor Party (ALP) before the Australian Labor Party split of 1931. He served as the 26th premier of Tasmania from 1923 to 1928.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Joseph_Aloysius_Lyons_%28cropped%29.jpg/330px-Joseph_Aloysius_Lyons_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Lyons",
+  "dateOfBirth": "1879-09-15",
+  "birthDateParsed": "1879-09-15",
+  "dateOfDeath": "1939-04-07",
+  "deathDateParsed": "1939-04-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-40.7625",
+  "birthCoordinatesLng": "145.291666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "teacher",
+    "trade unionist",
+    "civil servant"
+  ],
+  "qid": "Q370966",
+  "birthPlace": "Stanley",
+  "fetchedAt": "2026-08-03T12:58:34.990Z"
+}

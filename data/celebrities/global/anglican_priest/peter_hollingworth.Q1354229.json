@@ -1,0 +1,32 @@
+{
+  "publicId": "71beda25",
+  "wikipediaSlug": "Peter_Hollingworth",
+  "wikipediaId": "Q1354229",
+  "name": "Peter Hollingworth",
+  "fullName": "Peter Hollingworth",
+  "profileSummary": "Peter John Hollingworth was an Australian bishop who served as Governor-General of Australia from 2001 until his resignation in 2003. He had previously held the position of Anglican Archbishop of Brisbane from 1989 to 2001.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dr_Peter_Hollingworth.jpg/330px-Dr_Peter_Hollingworth.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Hollingworth",
+  "dateOfBirth": "1935-04-10",
+  "birthDateParsed": "1935-04-10",
+  "dateOfDeath": "2026-05-19",
+  "deathDateParsed": "2026-05-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.9275",
+  "birthCoordinatesLng": "138.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Anglican priest",
+    "viceroy"
+  ],
+  "qid": "Q1354229",
+  "birthPlace": "Adelaide",
+  "fetchedAt": "2026-08-03T12:58:48.920Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "825550d2",
+  "wikipediaSlug": "Don_E._Fehrenbacher",
+  "wikipediaId": "Q3713511",
+  "name": "Don E. Fehrenbacher",
+  "fullName": "Don E. Fehrenbacher",
+  "profileSummary": "Don Edward Fehrenbacher was an American historian. He wrote on politics, slavery, and Abraham Lincoln. He won the 1979 Pulitzer Prize for History for The Dred Scott Case: Its Significance in American Law and Politics, his book about the Dred Scott Decision. In 1977 David M. Potter's The Impending Crisis, 1848-1861, which he edited and completed, won the Pulitzer Prize. In 1997 he won the Lincoln Prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Don_Fehrenbacher.jpg/330px-Don_Fehrenbacher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_E._Fehrenbacher",
+  "dateOfBirth": "1920-08-21",
+  "birthDateParsed": "1920-08-21",
+  "dateOfDeath": "1997-12-13",
+  "deathDateParsed": "1997-12-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.7996137",
+  "birthCoordinatesLng": "-89.6954816",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian of Modern Age",
+    "historian",
+    "university teacher"
+  ],
+  "qid": "Q3713511",
+  "birthPlace": "Sterling",
+  "fetchedAt": "2026-08-04T15:06:27.239Z"
+}

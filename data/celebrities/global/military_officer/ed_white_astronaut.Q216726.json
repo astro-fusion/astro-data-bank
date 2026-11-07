@@ -1,0 +1,35 @@
+{
+  "publicId": "8cd17a79",
+  "wikipediaSlug": "Ed_White_(astronaut)",
+  "wikipediaId": "Q216726",
+  "name": "Ed White (astronaut)",
+  "fullName": "Ed White (astronaut)",
+  "profileSummary": "Edward Higgins White II was an American aeronautical engineer, United States Air Force officer, test pilot, and NASA astronaut. He was a member of the crews of Gemini 4 and Apollo 1.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Edward_White_1966_%284x5_cropped%29.jpeg/330px-Edward_White_1966_%284x5_cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ed_White_(astronaut)",
+  "dateOfBirth": "1930-11-14",
+  "birthDateParsed": "1930-11-14",
+  "dateOfDeath": "1967-01-27",
+  "deathDateParsed": "1967-01-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.425",
+  "birthCoordinatesLng": "-98.493888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "test pilot",
+    "astronaut",
+    "military flight engineer",
+    "athletics competitor"
+  ],
+  "qid": "Q216726",
+  "birthPlace": "San Antonio",
+  "fetchedAt": "2026-08-10T06:04:53.070Z"
+}

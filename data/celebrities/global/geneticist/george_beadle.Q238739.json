@@ -1,0 +1,33 @@
+{
+  "publicId": "aa5ab0ca",
+  "wikipediaSlug": "George_Beadle",
+  "wikipediaId": "Q238739",
+  "name": "George Beadle",
+  "fullName": "George Beadle",
+  "profileSummary": "George Wells Beadle was an American geneticist. In 1958 he shared one-half of the Nobel Prize in Physiology or Medicine with Edward Tatum for their discovery of the role of genes in regulating biochemical events within cells. He served as the 7th president of the University of Chicago from 1961 to 1968.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/24/George_Wells_Beadle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Beadle",
+  "dateOfBirth": "1903-10-22",
+  "birthDateParsed": "1903-10-22",
+  "dateOfDeath": "1989-06-09",
+  "deathDateParsed": "1989-06-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.211111111",
+  "birthCoordinatesLng": "-96.619805555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "geneticist",
+    "university teacher",
+    "biologist"
+  ],
+  "qid": "Q238739",
+  "birthPlace": "Wahoo",
+  "fetchedAt": "2026-08-10T03:15:28.866Z"
+}

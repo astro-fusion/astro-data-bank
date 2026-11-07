@@ -1,0 +1,32 @@
+{
+  "publicId": "1a25503b",
+  "wikipediaSlug": "Don_McRae_(cricketer)",
+  "wikipediaId": "Q5293128",
+  "name": "Don McRae (cricketer)",
+  "fullName": "Don McRae (cricketer)",
+  "profileSummary": "Donald Alexander Noel McRae was a double international sportsman, representing New Zealand in cricket and in soccer. His last first-class cricket match was in New Zealand's first Test match against Australia in 1946.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/D._A._N._McRae_in_1946.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_McRae_(cricketer)",
+  "dateOfBirth": "1914-12-25",
+  "birthDateParsed": "1914-12-25",
+  "dateOfDeath": "1986-08-10",
+  "deathDateParsed": "1986-08-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "association football player"
+  ],
+  "qid": "Q5293128",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-07-31T21:02:50.634Z"
+}

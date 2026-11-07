@@ -1,0 +1,33 @@
+{
+  "publicId": "1d810a57",
+  "wikipediaSlug": "F._W._de_Klerk",
+  "wikipediaId": "Q151813",
+  "name": "F. W. de Klerk",
+  "fullName": "F. W. de Klerk",
+  "profileSummary": "Frederik Willem de Klerk was a South African politician who served as the final state president of South Africa from 1989 to 1994 and as deputy president from 1994 to 1996. As South Africa's last head of state from the era of white-minority rule, he and his government dismantled the apartheid system and introduced universal suffrage. Ideologically a social conservative and an economic liberal, he led the National Party (NP) from 1989 to 1997.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/F.W._de_Klerk_wait_to_speak_in_Philadelphia%2C_Pennsylvania_LCCN2011634246_%28cropped%29.tif/lossy-page1-330px-F.W._de_Klerk_wait_to_speak_in_Philadelphia%2C_Pennsylvania_LCCN2011634246_%28cropped%29.tif.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/F._W._de_Klerk",
+  "dateOfBirth": "1936-03-18",
+  "birthDateParsed": "1936-03-18",
+  "dateOfDeath": "2021-11-11",
+  "deathDateParsed": "2021-11-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "minister"
+  ],
+  "qid": "Q151813",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-08-04T02:12:54.803Z"
+}

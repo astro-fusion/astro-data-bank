@@ -1,0 +1,32 @@
+{
+  "publicId": "8cd118bf",
+  "wikipediaSlug": "Larry_Rhoden",
+  "wikipediaId": "Q16193325",
+  "name": "Larry Rhoden",
+  "fullName": "Larry Rhoden",
+  "profileSummary": "Larry Robert Rhoden is an American politician and businessman serving since 2025 as the 34th governor of South Dakota.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Larry_Rhoden_2025_%28cropped%29.jpg/330px-Larry_Rhoden_2025_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Larry_Rhoden",
+  "dateOfBirth": "1959-02-05",
+  "birthDateParsed": "1959-02-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.410277777",
+  "birthCoordinatesLng": "-103.518611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "rancher"
+  ],
+  "qid": "Q16193325",
+  "birthPlace": "Sturgis",
+  "fetchedAt": "2026-08-02T03:28:23.615Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "9e7e97b1",
+  "wikipediaSlug": "Anne_McClain",
+  "wikipediaId": "Q13500570",
+  "name": "Anne McClain",
+  "fullName": "Anne McClain",
+  "profileSummary": "Anne Charlotte McClain is a colonel in the United States Army, engineer, and a NASA astronaut. Her call sign, \"Annimal\", dates back to her rugby career; she also uses the call sign in her X handle, AstroAnnimal. She was a flight engineer for Expedition 58/59 and Expedition 72/73 to the International Space Station.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NASA_astronaut_Anne_McClain%2C_SpaceX_Crew-10_Commander_and_Expedition_73_Flight_Engineer_%28jsc2024e066730_alt%29.jpg/330px-NASA_astronaut_Anne_McClain%2C_SpaceX_Crew-10_Commander_and_Expedition_73_Flight_Engineer_%28jsc2024e066730_alt%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne_McClain",
+  "dateOfBirth": "1979-06-07",
+  "birthDateParsed": "1979-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.657194444",
+  "birthCoordinatesLng": "-117.4235",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "helicopter pilot",
+    "test pilot",
+    "military flight engineer",
+    "rugby union player"
+  ],
+  "qid": "Q13500570",
+  "birthPlace": "Spokane",
+  "fetchedAt": "2026-08-10T06:03:45.787Z"
+}

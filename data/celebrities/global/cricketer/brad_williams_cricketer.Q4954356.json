@@ -1,0 +1,31 @@
+{
+  "publicId": "a42c7450",
+  "wikipediaSlug": "Brad_Williams_(cricketer)",
+  "wikipediaId": "Q4954356",
+  "name": "Brad Williams (cricketer)",
+  "fullName": "Brad Williams (cricketer)",
+  "profileSummary": "Brad Andrew Williams is an Australian former cricketer, who played Tests and ODIs.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brad_Williams_(cricketer)",
+  "dateOfBirth": "1974-11-20",
+  "birthDateParsed": "1974-11-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-38.158",
+  "birthCoordinatesLng": "145.135",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4954356",
+  "birthPlace": "Frankston",
+  "fetchedAt": "2026-07-31T19:44:57.503Z"
+}

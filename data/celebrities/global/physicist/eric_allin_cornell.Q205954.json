@@ -1,0 +1,32 @@
+{
+  "publicId": "f98d0c12",
+  "wikipediaSlug": "Eric_Allin_Cornell",
+  "wikipediaId": "Q205954",
+  "name": "Eric Allin Cornell",
+  "fullName": "Eric Allin Cornell",
+  "profileSummary": "Eric Allin Cornell is an American physicist who, along with Carl E. Wieman, synthesized the first Bose–Einstein condensate in 1995. Cornell, Wieman and Wolfgang Ketterle shared the 2001 Nobel Prize in Physics “for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates”.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Physics_Nobel_Laureate_Eric_Allin_Cornell%2C_in_June_of_2015.jpg/330px-Physics_Nobel_Laureate_Eric_Allin_Cornell%2C_in_June_of_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Allin_Cornell",
+  "dateOfBirth": "1961-12-19",
+  "birthDateParsed": "1961-12-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.429166666",
+  "birthCoordinatesLng": "-122.138055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q205954",
+  "birthPlace": "Palo Alto",
+  "fetchedAt": "2026-08-06T05:02:05.499Z"
+}

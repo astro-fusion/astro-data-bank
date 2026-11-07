@@ -1,0 +1,31 @@
+{
+  "publicId": "4b81d839",
+  "wikipediaSlug": "Darko_Pančev",
+  "wikipediaId": "Q311362",
+  "name": "Darko Pančev",
+  "fullName": "Darko Pančev",
+  "profileSummary": "Darko Pančev is a Macedonian former professional footballer who played as a forward. He most notably played for FK Vardar and Red Star Belgrade.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%D0%94%D0%B0%D1%80%D0%BA%D0%BE_%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2_2020.png/330px-%D0%94%D0%B0%D1%80%D0%BA%D0%BE_%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2_2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Darko_Pan%C4%8Dev",
+  "dateOfBirth": "1965-09-07",
+  "birthDateParsed": "1965-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.996111111",
+  "birthCoordinatesLng": "21.431666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q311362",
+  "birthPlace": "Skopje",
+  "fetchedAt": "2026-08-10T11:27:43.457Z"
+}

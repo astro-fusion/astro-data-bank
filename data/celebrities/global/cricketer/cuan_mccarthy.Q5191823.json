@@ -1,0 +1,31 @@
+{
+  "publicId": "87681730",
+  "wikipediaSlug": "Cuan_McCarthy",
+  "wikipediaId": "Q5191823",
+  "name": "Cuan McCarthy",
+  "fullName": "Cuan McCarthy",
+  "profileSummary": "Cuan Neil McCarthy was a South African cricketer who played in fifteen Test matches from 1948 to 1951.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Cuan_McCarthy02.jpg/330px-Cuan_McCarthy02.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cuan_McCarthy",
+  "dateOfBirth": "1929-03-24",
+  "birthDateParsed": "1929-03-24",
+  "dateOfDeath": "2000-08-14",
+  "deathDateParsed": "2000-08-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.6009",
+  "birthCoordinatesLng": "30.3796",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5191823",
+  "birthPlace": "Pietermaritzburg",
+  "fetchedAt": "2026-07-31T20:21:34.208Z"
+}

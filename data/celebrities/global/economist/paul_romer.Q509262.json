@@ -1,0 +1,32 @@
+{
+  "publicId": "572f62e0",
+  "wikipediaSlug": "Paul_Romer",
+  "wikipediaId": "Q509262",
+  "name": "Paul Romer",
+  "fullName": "Paul Romer",
+  "profileSummary": "Paul Michael Romer is an American economist and policy entrepreneur who is a Seidner University Professor in Finance at Boston College. Romer is best known as the former Chief Economist of the World Bank and for co-receiving the 2018 Nobel Memorial Prize in Economic Sciences for his work in endogenous growth theory. He also coined the term \"mathiness,\" which he describes as misuse of mathematics in economic research.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paul_Romer_in_2005.jpg/330px-Paul_Romer_in_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Romer",
+  "dateOfBirth": "1955-11-06",
+  "birthDateParsed": "1955-11-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.739166666",
+  "birthCoordinatesLng": "-104.984722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "mathematician"
+  ],
+  "qid": "Q509262",
+  "birthPlace": "Denver",
+  "fetchedAt": "2026-08-10T09:44:10.862Z"
+}

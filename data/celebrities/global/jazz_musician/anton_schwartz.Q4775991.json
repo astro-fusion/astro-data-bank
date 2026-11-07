@@ -1,0 +1,33 @@
+{
+  "publicId": "33feb58c",
+  "wikipediaSlug": "Anton_Schwartz",
+  "wikipediaId": "Q4775991",
+  "name": "Anton Schwartz",
+  "fullName": "Anton Schwartz",
+  "profileSummary": "Anton Schwartz is an American jazz saxophonist and composer based in Seattle, Washington and Oakland, California.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Schwartz",
+  "dateOfBirth": "1967-07-16",
+  "birthDateParsed": "1967-07-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jazz musician",
+    "music educator",
+    "saxophonist"
+  ],
+  "qid": "Q4775991",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T02:43:16.698Z"
+}

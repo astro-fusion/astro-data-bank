@@ -1,0 +1,36 @@
+{
+  "publicId": "1e69a475",
+  "wikipediaSlug": "Frederick_Soddy",
+  "wikipediaId": "Q102830",
+  "name": "Frederick Soddy",
+  "fullName": "Frederick Soddy",
+  "profileSummary": "Frederick Soddy FRS was an English radiochemist who explained, with Ernest Rutherford, that radioactivity is due to the transmutation of elements, now known to involve nuclear reactions. He also proved the existence of isotopes of certain radioactive elements. In 1921, he received the Nobel Prize in Chemistry \"for his contributions to our knowledge of the chemistry of radioactive substances, and his investigations into the origin and nature of isotopes\". Soddy was a polymath who mastered chemistry, nuclear physics, statistical mechanics, finance, and economics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Frederick_Soddy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Soddy",
+  "dateOfBirth": "1877-09-02",
+  "birthDateParsed": "1877-09-02",
+  "dateOfDeath": "1956-09-22",
+  "deathDateParsed": "1956-09-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.766388888",
+  "birthCoordinatesLng": "0.286111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "pharmacist",
+    "physicist",
+    "professor",
+    "chemist",
+    "researcher",
+    "naturalist"
+  ],
+  "qid": "Q102830",
+  "birthPlace": "Eastbourne",
+  "fetchedAt": "2026-08-10T02:03:49.221Z"
+}

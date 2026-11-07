@@ -1,0 +1,31 @@
+{
+  "publicId": "db151e7e",
+  "wikipediaSlug": "Ecaterina_Szabo",
+  "wikipediaId": "Q235750",
+  "name": "Ecaterina Szabo",
+  "fullName": "Ecaterina Szabo",
+  "profileSummary": "Ecaterina Szabo is a former Romanian artistic gymnast who won 20 Olympic, world and continental medals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ecaterina_Szabo_1985cr.jpg/330px-Ecaterina_Szabo_1985cr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ecaterina_Szabo",
+  "dateOfBirth": "1968-01-22",
+  "birthDateParsed": "1968-01-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.766666666",
+  "birthCoordinatesLng": "26.116666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artistic gymnast"
+  ],
+  "qid": "Q235750",
+  "birthPlace": "Zagon",
+  "fetchedAt": "2026-08-10T12:59:19.486Z"
+}

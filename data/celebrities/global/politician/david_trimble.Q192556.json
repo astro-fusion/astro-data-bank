@@ -1,0 +1,33 @@
+{
+  "publicId": "1d445765",
+  "wikipediaSlug": "David_Trimble",
+  "wikipediaId": "Q192556",
+  "name": "David Trimble",
+  "fullName": "David Trimble",
+  "profileSummary": "William David Trimble, Baron Trimble was a Northern Irish statesman and politician who was the inaugural First Minister of Northern Ireland from 1998 to 2002 and leader of the Ulster Unionist Party (UUP) from 1995 to 2005. He was also Member of Parliament (MP) for Upper Bann from 1990 to 2005 and Member of the Legislative Assembly (MLA) for Upper Bann from 1998 to 2007.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_portrait_of_Lord_Trimble_%283x4_cropped%29.jpg/330px-Official_portrait_of_Lord_Trimble_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Trimble",
+  "dateOfBirth": "1944-10-15",
+  "birthDateParsed": "1944-10-15",
+  "dateOfDeath": "2022-07-25",
+  "deathDateParsed": "2022-07-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.596666666",
+  "birthCoordinatesLng": "-5.93",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "university teacher",
+    "barrister"
+  ],
+  "qid": "Q192556",
+  "birthPlace": "Belfast",
+  "fetchedAt": "2026-08-04T02:13:03.638Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "cdfa0fa8",
+  "wikipediaSlug": "Boris_Becker",
+  "wikipediaId": "Q76334",
+  "name": "Boris Becker",
+  "fullName": "Boris Becker",
+  "profileSummary": "Boris Franz Becker is a German former professional tennis player, tennis coach and a commentator. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP). Becker is considered to be one of the greatest players of all time, winning 49 career singles and 15 doubles titles, including six singles majors: three Wimbledon Championships, two Australian Opens and one US Open. He also won 13 Masters titles, three year-end championships, an Olympic gold medal in men's doubles in 1992, and led Germany to two Davis Cup titles in 1988 and 1989. Becker is the youngest-ever winner of the men's singles Wimbledon title, a feat he accomplished aged 17 years, 7 months and 15 days in 1985.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Boris_Becker_-_240422_174721_%28cropped%29.jpg/330px-Boris_Becker_-_240422_174721_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Becker",
+  "dateOfBirth": "1967-11-22",
+  "birthDateParsed": "1967-11-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.348055555",
+  "birthCoordinatesLng": "8.691111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "businessperson",
+    "sports commentator",
+    "chess player",
+    "poker player"
+  ],
+  "qid": "Q76334",
+  "birthPlace": "Leimen",
+  "fetchedAt": "2026-08-01T13:10:39.844Z"
+}

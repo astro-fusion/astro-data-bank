@@ -1,0 +1,35 @@
+{
+  "publicId": "e363a681",
+  "wikipediaSlug": "Bert_Sakmann",
+  "wikipediaId": "Q77081",
+  "name": "Bert Sakmann",
+  "fullName": "Bert Sakmann",
+  "profileSummary": "Bert Sakmann is a German cell physiologist. He shared the Nobel Prize in Physiology or Medicine with Erwin Neher in 1991 for their work on \"the function of single ion channels in cells,\" and the invention of the patch clamp. Bert Sakmann was Professor at Heidelberg University and is an Emeritus Scientific Member of the Max Planck Institute for Medical Research in Heidelberg, Germany. Since 2008 he leads an emeritus research group at the Max Planck Institute of Neurobiology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sakmann.jpg/330px-Sakmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bert_Sakmann",
+  "dateOfBirth": "1942-06-12",
+  "birthDateParsed": "1942-06-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.7775",
+  "birthCoordinatesLng": "9.18",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biophysicist",
+    "university teacher",
+    "physician",
+    "physiologist",
+    "neurophysiologist"
+  ],
+  "qid": "Q77081",
+  "birthPlace": "Stuttgart",
+  "fetchedAt": "2026-08-10T03:14:05.095Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "bf5842a8",
+  "wikipediaSlug": "Bernard_Katz",
+  "wikipediaId": "Q4517",
+  "name": "Bernard Katz",
+  "fullName": "Bernard Katz",
+  "profileSummary": "Sir Bernard Katz, FRS was a German-born British physician and biophysicist, noted for his work on nerve physiology; specifically, for his work on synaptic transmission at the nerve-muscle junction. He shared the Nobel Prize in physiology or medicine in 1970 with Julius Axelrod and Ulf von Euler. He was made a Knight Bachelor in 1969.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sir_Bernard_Katz.jpg/330px-Sir_Bernard_Katz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_Katz",
+  "dateOfBirth": "1911-03-26",
+  "birthDateParsed": "1911-03-26",
+  "dateOfDeath": "2003-04-20",
+  "deathDateParsed": "2003-04-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.3406321",
+  "birthCoordinatesLng": "12.3747329",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "neuroscientist",
+    "university teacher",
+    "physicist",
+    "chemist",
+    "biochemist",
+    "biophysicist"
+  ],
+  "qid": "Q4517",
+  "birthPlace": "Leipzig",
+  "fetchedAt": "2026-08-10T03:14:13.044Z"
+}

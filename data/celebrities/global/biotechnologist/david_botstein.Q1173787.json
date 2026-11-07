@@ -1,0 +1,35 @@
+{
+  "publicId": "d1373d72",
+  "wikipediaSlug": "David_Botstein",
+  "wikipediaId": "Q1173787",
+  "name": "David Botstein",
+  "fullName": "David Botstein",
+  "profileSummary": "David Botstein was an American biologist. He was the director of the Lewis-Sigler Institute for Integrative Genomics at Princeton University from 2003 to 2013 and was the Anthony B. Evnin Professor of Genomics. From 2013 to 2023, he was the founding Chief Science Officer of Calico, a biotechnology company with a focus on the biology of aging to devise interventions to enable people to lead longer and healthier lives.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Plos_botstein.jpg/330px-Plos_botstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Botstein",
+  "dateOfBirth": "1942-09-08",
+  "birthDateParsed": "1942-09-08",
+  "dateOfDeath": "2026-02-27",
+  "deathDateParsed": "2026-02-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.374444444",
+  "birthCoordinatesLng": "8.541111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biotechnologist",
+    "geneticist",
+    "university teacher",
+    "microbiologist",
+    "biologist"
+  ],
+  "qid": "Q1173787",
+  "birthPlace": "Zurich",
+  "fetchedAt": "2026-08-04T15:06:15.099Z"
+}

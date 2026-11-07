@@ -1,0 +1,31 @@
+{
+  "publicId": "fd64bd7d",
+  "wikipediaSlug": "Pieter_Nuyts",
+  "wikipediaId": "Q709043",
+  "name": "Pieter Nuyts",
+  "fullName": "Pieter Nuyts",
+  "profileSummary": "Pieter Nuyts or Nuijts was a Dutch explorer, diplomat and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pieter_Nuyts_in_1629.jpg/330px-Pieter_Nuyts_in_1629.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pieter_Nuyts",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": "1655-12-11",
+  "deathDateParsed": "1655-12-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.499722222",
+  "birthCoordinatesLng": "3.613611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer"
+  ],
+  "qid": "Q709043",
+  "birthPlace": "Middelburg",
+  "fetchedAt": "2026-08-06T01:38:09.556Z"
+}

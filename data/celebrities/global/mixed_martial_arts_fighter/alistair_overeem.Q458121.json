@@ -1,0 +1,35 @@
+{
+  "publicId": "05f9ee60",
+  "wikipediaSlug": "Alistair_Overeem",
+  "wikipediaId": "Q458121",
+  "name": "Alistair Overeem",
+  "fullName": "Alistair Overeem",
+  "profileSummary": "Alistair Cees Overeem is a Dutch former professional mixed martial artist and kickboxer. He is a former Strikeforce Heavyweight Champion, Dream Heavyweight Champion, K-1 World Grand Prix Champion, and was the first fighter to hold world titles in MMA and K-1 kickboxing at the same time. Overeem is also a one-time challenger for the UFC Heavyweight Championship.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alistair_Overeem.png/330px-Alistair_Overeem.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alistair_Overeem",
+  "dateOfBirth": "1980-05-17",
+  "birthDateParsed": "1980-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4668",
+  "birthCoordinatesLng": "-0.3507",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "kickboxer",
+    "Thai boxer",
+    "grappler",
+    "politician"
+  ],
+  "qid": "Q458121",
+  "birthPlace": "Hounslow",
+  "fetchedAt": "2026-08-01T17:04:11.866Z"
+}

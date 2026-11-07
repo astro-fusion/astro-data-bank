@@ -1,0 +1,36 @@
+{
+  "publicId": "43f8c460",
+  "wikipediaSlug": "Alan_Hodgkin",
+  "wikipediaId": "Q193650",
+  "name": "Alan Hodgkin",
+  "fullName": "Alan Hodgkin",
+  "profileSummary": " Sir Alan Lloyd Hodgkin was an English physiologist and biophysicist who shared the 1963 Nobel Prize in Physiology or Medicine with Andrew Huxley and John Eccles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Alan_Lloyd_Hodgkin_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Hodgkin",
+  "dateOfBirth": "1914-02-05",
+  "birthDateParsed": "1914-02-05",
+  "dateOfDeath": "1998-12-20",
+  "deathDateParsed": "1998-12-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.061388888",
+  "birthCoordinatesLng": "-1.339166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "neuroscientist",
+    "biochemist",
+    "physician",
+    "neurologist",
+    "physiologist",
+    "biophysicist"
+  ],
+  "qid": "Q193650",
+  "birthPlace": "Banbury",
+  "fetchedAt": "2026-08-10T03:13:50.573Z"
+}

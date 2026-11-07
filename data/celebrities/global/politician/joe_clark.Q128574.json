@@ -1,0 +1,35 @@
+{
+  "publicId": "65c583b7",
+  "wikipediaSlug": "Joe_Clark",
+  "wikipediaId": "Q128574",
+  "name": "Joe Clark",
+  "fullName": "Joe Clark",
+  "profileSummary": "Charles Joseph Clark is a Canadian businessman, writer, and retired politician who served as the 16th prime minister of Canada from 1979 to 1980. He served as leader of the Official Opposition from 1976 to 1979 and from 1980 to 1983 and led the Progressive Conservative Party of Canada from 1976 to 1983, and again from 1998 to 2003.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Joe_Clark_being_interviewed_1979_crop.jpg/330px-Joe_Clark_being_interviewed_1979_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Clark",
+  "dateOfBirth": "1939-06-05",
+  "birthDateParsed": "1939-06-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.5807",
+  "birthCoordinatesLng": "-113.874",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "journalist",
+    "lawyer",
+    "lecturer"
+  ],
+  "qid": "Q128574",
+  "birthPlace": "High River",
+  "fetchedAt": "2026-08-03T10:59:23.311Z"
+}

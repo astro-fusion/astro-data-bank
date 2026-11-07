@@ -1,0 +1,32 @@
+{
+  "publicId": "20d80e4e",
+  "wikipediaSlug": "Brunhilde_Hanke",
+  "wikipediaId": "Q992650",
+  "name": "Brunhilde Hanke",
+  "fullName": "Brunhilde Hanke",
+  "profileSummary": "Brunhilde Hanke was a German politician who was mayor of Potsdam and a member of the State Council of East Germany.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brunhilde_Hanke",
+  "dateOfBirth": "1930-03-23",
+  "birthDateParsed": "1930-03-23",
+  "dateOfDeath": "2024-10-13",
+  "deathDateParsed": "2024-10-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.978055555",
+  "birthCoordinatesLng": "11.028888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "seamstress"
+  ],
+  "qid": "Q992650",
+  "birthPlace": "Erfurt",
+  "fetchedAt": "2026-08-04T00:55:30.264Z"
+}

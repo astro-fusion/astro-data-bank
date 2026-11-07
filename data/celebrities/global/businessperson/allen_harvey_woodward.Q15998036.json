@@ -1,0 +1,31 @@
+{
+  "publicId": "7e27ed7b",
+  "wikipediaSlug": "Allen_Harvey_Woodward",
+  "wikipediaId": "Q15998036",
+  "name": "Allen Harvey Woodward",
+  "fullName": "Allen Harvey Woodward",
+  "profileSummary": "Allan Harvey \"Rick\" Woodward was an American businessman and baseball team owner.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Allen_Harvey_Woodward.jpg/330px-Allen_Harvey_Woodward.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Allen_Harvey_Woodward",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.070277777",
+  "birthCoordinatesLng": "-80.698611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q15998036",
+  "birthPlace": "Wheeling",
+  "fetchedAt": "2026-08-05T03:15:15.288Z"
+}

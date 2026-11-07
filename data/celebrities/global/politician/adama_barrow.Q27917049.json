@@ -1,0 +1,32 @@
+{
+  "publicId": "83fb2338",
+  "wikipediaSlug": "Adama_Barrow",
+  "wikipediaId": "Q27917049",
+  "name": "Adama Barrow",
+  "fullName": "Adama Barrow",
+  "profileSummary": "Adama Barrow is a Gambian politician and real estate developer who has served as third president of the Gambia since 2017. A member of the National People's Party (NPP), he has served as the party's president since its creation in 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Adama_Barrow_at_the_15th_OIC_Summit.jpg/330px-Adama_Barrow_at_the_15th_OIC_Summit.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adama_Barrow",
+  "dateOfBirth": "1965-02-15",
+  "birthDateParsed": "1965-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.29535665",
+  "birthCoordinatesLng": "-14.20958103",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q27917049",
+  "birthPlace": "Mansajang Kunda",
+  "fetchedAt": "2026-08-03T16:48:50.577Z"
+}

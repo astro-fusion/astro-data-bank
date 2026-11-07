@@ -1,0 +1,31 @@
+{
+  "publicId": "65669962",
+  "wikipediaSlug": "Helen_Homans",
+  "wikipediaId": "Q508900",
+  "name": "Helen Homans",
+  "fullName": "Helen Homans",
+  "profileSummary": "Helen Houston Homans McLean was an American tennis champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HelenHHomans1907.tif/lossless-page1-120px-HelenHHomans1907.tif.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helen_Homans",
+  "dateOfBirth": "1877-02-08",
+  "birthDateParsed": "1877-02-08",
+  "dateOfDeath": "1949-03-28",
+  "deathDateParsed": "1949-03-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.893343",
+  "birthCoordinatesLng": "-73.975801",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q508900",
+  "birthPlace": "Englewood",
+  "fetchedAt": "2026-08-01T14:59:58.337Z"
+}

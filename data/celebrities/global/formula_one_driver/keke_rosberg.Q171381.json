@@ -1,0 +1,32 @@
+{
+  "publicId": "04869ec3",
+  "wikipediaSlug": "Keke_Rosberg",
+  "wikipediaId": "Q171381",
+  "name": "Keke Rosberg",
+  "fullName": "Keke Rosberg",
+  "profileSummary": "Keijo Erik \"Keke\" Rosberg is a Finnish former racing driver and motorsport executive, who competed in Formula One from 1978 to 1986. Rosberg won the Formula One World Drivers' Championship in 1982 with Williams, and won five Grands Prix across nine seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Anefo_932-2378_Keke_Rosberg%2C_Zandvoort%2C_03-07-1982_-_Restoration.jpg/330px-Anefo_932-2378_Keke_Rosberg%2C_Zandvoort%2C_03-07-1982_-_Restoration.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Keke_Rosberg",
+  "dateOfBirth": "1948-12-06",
+  "birthDateParsed": "1948-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.366666666",
+  "birthCoordinatesLng": "18.016666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q171381",
+  "birthPlace": "Solna Municipality",
+  "fetchedAt": "2026-08-01T16:01:42.714Z"
+}

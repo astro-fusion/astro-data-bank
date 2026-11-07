@@ -1,0 +1,33 @@
+{
+  "publicId": "a839bb90",
+  "wikipediaSlug": "Richard_M._Karp",
+  "wikipediaId": "Q92612",
+  "name": "Richard M. Karp",
+  "fullName": "Richard M. Karp",
+  "profileSummary": "Richard Manning Karp is an American computer scientist and computational theorist at the University of California, Berkeley. He is most notable for his research in the theory of algorithms, for which he received the 1985 ACM Turing Award, The Benjamin Franklin Medal in Computer and Cognitive Science in 2004, and the Kyoto Prize in 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Karp_mg_7725-b.cr2.jpg/330px-Karp_mg_7725-b.cr2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_M._Karp",
+  "dateOfBirth": "1935-01-03",
+  "birthDateParsed": "1935-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q92612",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T04:29:32.685Z"
+}

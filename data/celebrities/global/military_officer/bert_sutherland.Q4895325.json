@@ -1,0 +1,31 @@
+{
+  "publicId": "3db232d9",
+  "wikipediaSlug": "Bert_Sutherland",
+  "wikipediaId": "Q4895325",
+  "name": "Bert Sutherland",
+  "fullName": "Bert Sutherland",
+  "profileSummary": "William Robert Sutherland was an American computer scientist who was the longtime manager of three prominent research laboratories, including Sun Microsystems Laboratories (1992–1998), the Systems Science Laboratory at Xerox PARC (1975–1981), and the Computer Science Division of Bolt, Beranek and Newman, Inc. which helped develop the ARPANET.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bert_Sutherland_2009.jpg/330px-Bert_Sutherland_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bert_Sutherland",
+  "dateOfBirth": "1936-05-10",
+  "birthDateParsed": "1936-05-10",
+  "dateOfDeath": "2020-02-18",
+  "deathDateParsed": "2020-02-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.589166666",
+  "birthCoordinatesLng": "-98.391666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer"
+  ],
+  "qid": "Q4895325",
+  "birthPlace": "Hastings",
+  "fetchedAt": "2026-08-05T03:15:51.951Z"
+}

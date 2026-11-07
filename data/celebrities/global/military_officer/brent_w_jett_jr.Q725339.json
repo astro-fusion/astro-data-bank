@@ -1,0 +1,34 @@
+{
+  "publicId": "3b40afd5",
+  "wikipediaSlug": "Brent_W._Jett_Jr.",
+  "wikipediaId": "Q725339",
+  "name": "Brent W. Jett Jr.",
+  "fullName": "Brent W. Jett Jr.",
+  "profileSummary": "Brent Ward Jett Jr., , is a retired American naval officer and aviator, test pilot, aerospace and aeronautical engineer, and NASA astronaut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brent_Jett.jpg/330px-Brent_Jett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brent_W._Jett_Jr.",
+  "dateOfBirth": "1958-10-05",
+  "birthDateParsed": "1958-10-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.646111111",
+  "birthCoordinatesLng": "-83.2925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "aircraft pilot",
+    "military flight engineer"
+  ],
+  "qid": "Q725339",
+  "birthPlace": "Pontiac",
+  "fetchedAt": "2026-08-10T06:04:13.849Z"
+}

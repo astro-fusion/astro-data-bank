@@ -1,0 +1,31 @@
+{
+  "publicId": "7bff3377",
+  "wikipediaSlug": "Emily_Hood_Westacott",
+  "wikipediaId": "Q433409",
+  "name": "Emily Hood Westacott",
+  "fullName": "Emily Hood Westacott",
+  "profileSummary": "Emily Hood Westacott, was an Australian female tennis player in the 1930s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Emily_Hood_Westacott_1930.jpeg/330px-Emily_Hood_Westacott_1930.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emily_Hood_Westacott",
+  "dateOfBirth": "1910-05-06",
+  "birthDateParsed": "1910-05-06",
+  "dateOfDeath": "1980-10-09",
+  "deathDateParsed": "1980-10-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.467777777",
+  "birthCoordinatesLng": "153.027777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q433409",
+  "birthPlace": "Brisbane",
+  "fetchedAt": "2026-08-01T14:59:24.860Z"
+}

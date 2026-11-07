@@ -1,0 +1,38 @@
+{
+  "publicId": "37e38fcf",
+  "wikipediaSlug": "Alexander_Stubb",
+  "wikipediaId": "Q503143",
+  "name": "Alexander Stubb",
+  "fullName": "Alexander Stubb",
+  "profileSummary": "Cai-Göran Alexander Stubb is a Finnish politician serving as the president of Finland since 2024. A member of the National Coalition Party, he previously served as prime minister of Finland from 2014 to 2015 and has held several senior ministerial posts since 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Finnish_President_Alexander_Stubb_arrives_to_the_South_Portico_of_the_White_House_for_a_meeting_with_President_Donald_Trump_%2854732037329%29_%28cropped_2%29.jpg/330px-Finnish_President_Alexander_Stubb_arrives_to_the_South_Portico_of_the_White_House_for_a_meeting_with_President_Donald_Trump_%2854732037329%29_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Stubb",
+  "dateOfBirth": "1968-04-01",
+  "birthDateParsed": "1968-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.170833333",
+  "birthCoordinatesLng": "24.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "university teacher",
+    "writer",
+    "political scientist",
+    "athlete",
+    "head of government",
+    "foreign minister"
+  ],
+  "qid": "Q503143",
+  "birthPlace": "Helsinki",
+  "fetchedAt": "2026-08-03T16:49:10.944Z"
+}

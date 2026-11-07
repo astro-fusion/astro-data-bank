@@ -1,0 +1,31 @@
+{
+  "publicId": "bc074e12",
+  "wikipediaSlug": "Billy_Murdoch",
+  "wikipediaId": "Q3527101",
+  "name": "Billy Murdoch",
+  "fullName": "Billy Murdoch",
+  "profileSummary": "William Lloyd Murdoch was an Australian cricketer who captained the Australian national side in 16 Test matches between 1880 and 1890. This included four tours of England, one of which, in 1882, gave rise to The Ashes. In 2019 Murdoch was inducted into the Australian Cricket Hall of Fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Billy_Murdoch3.jpg/330px-Billy_Murdoch3.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Murdoch",
+  "dateOfBirth": "1854-10-18",
+  "birthDateParsed": "1854-10-18",
+  "dateOfDeath": "1911-02-18",
+  "deathDateParsed": "1911-02-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.75",
+  "birthCoordinatesLng": "144.266666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3527101",
+  "birthPlace": "Bendigo",
+  "fetchedAt": "2026-07-31T19:44:31.611Z"
+}

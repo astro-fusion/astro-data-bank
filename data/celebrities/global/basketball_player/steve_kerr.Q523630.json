@@ -1,0 +1,33 @@
+{
+  "publicId": "97d8b963",
+  "wikipediaSlug": "Steve_Kerr",
+  "wikipediaId": "Q523630",
+  "name": "Steve Kerr",
+  "fullName": "Steve Kerr",
+  "profileSummary": "Stephen Douglas Kerr is an American professional basketball coach and former player who is the head coach for the Golden State Warriors of the National Basketball Association (NBA). He was the head coach of the U.S. national team. Kerr is known as one of the most accurate three-point shooters in NBA history and holds the record for highest career three-point percentage. He is also a nine-time NBA champion, having won five titles as a player and four as a head coach. Kerr was named one of the 15 Greatest Coaches in NBA History.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Joe_Biden_Steph_Curry_Steve_Kerr_P20230117AS-1347_%28cropped%29_%28cropped%29.jpg/330px-Joe_Biden_Steph_Curry_Steve_Kerr_P20230117AS-1347_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Kerr",
+  "dateOfBirth": "1965-09-27",
+  "birthDateParsed": "1965-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.886944444",
+  "birthCoordinatesLng": "35.513055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "businessperson"
+  ],
+  "qid": "Q523630",
+  "birthPlace": "Beirut",
+  "fetchedAt": "2026-08-01T15:38:15.160Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "3d81dc2c",
+  "wikipediaSlug": "An_Wang",
+  "wikipediaId": "Q92926",
+  "name": "An Wang",
+  "fullName": "An Wang",
+  "profileSummary": "An Wang was a Chinese-American computer engineer and inventor, and cofounder of computer company Wang Laboratories, which was known primarily for its dedicated word processing machines. An Wang was an important contributor to the development of magnetic-core memory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/An_Wang_in_1979.jpg/330px-An_Wang_in_1979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/An_Wang",
+  "dateOfBirth": "1920-02-07",
+  "birthDateParsed": "1920-02-07",
+  "dateOfDeath": "1990-03-24",
+  "deathDateParsed": "1990-03-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "inventor",
+    "businessperson",
+    "computer scientist",
+    "entrepreneur"
+  ],
+  "qid": "Q92926",
+  "birthPlace": "Shanghai",
+  "fetchedAt": "2026-08-05T02:43:06.281Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "cf828bb8",
+  "wikipediaSlug": "Igor_Belanov",
+  "wikipediaId": "Q311410",
+  "name": "Igor Belanov",
+  "fullName": "Igor Belanov",
+  "profileSummary": "Igor Ivanovich Belanov or Ihor Ivanovych Bielanov is a Soviet and Ukrainian former professional footballer who played as a striker.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ihor_Belanov.jpeg/330px-Ihor_Belanov.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Belanov",
+  "dateOfBirth": "1960-09-25",
+  "birthDateParsed": "1960-09-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.47747",
+  "birthCoordinatesLng": "30.73262",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q311410",
+  "birthPlace": "Odesa",
+  "fetchedAt": "2026-08-10T11:28:17.159Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "f1b1c096",
+  "wikipediaSlug": "Ariarne_Titmus",
+  "wikipediaId": "Q33320896",
+  "name": "Ariarne Titmus",
+  "fullName": "Ariarne Titmus",
+  "profileSummary": "Ariarne Elizabeth Titmus is a retired Australian swimmer. She is the reigning Olympic champion in the women's 400-metre freestyle, having won the event at the 2020 Summer Olympics and the 2024 Summer Olympics and the world record holder in the long course 200-metre freestyle. Titmus is widely considered one of the greatest middle-distance swimmers of all time. In 2019 and 2020, she competed representing the Cali Condors in the International Swimming League.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariarne_Titmus",
+  "dateOfBirth": "2000-09-07",
+  "birthDateParsed": "2000-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.444444444",
+  "birthCoordinatesLng": "147.137777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q33320896",
+  "birthPlace": "Launceston",
+  "fetchedAt": "2026-08-10T12:58:41.732Z"
+}

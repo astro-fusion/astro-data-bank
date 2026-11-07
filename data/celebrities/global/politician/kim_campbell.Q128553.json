@@ -1,0 +1,36 @@
+{
+  "publicId": "061f9d05",
+  "wikipediaSlug": "Kim_Campbell",
+  "wikipediaId": "Q128553",
+  "name": "Kim Campbell",
+  "fullName": "Kim Campbell",
+  "profileSummary": "Avril Phaedra Douglas \"Kim\" Campbell is a Canadian politician who was the 19th prime minister of Canada from June to November 1993. Campbell is the first and only female prime minister of Canada. Prior to becoming the final Progressive Conservative (PC) prime minister, she was also the first woman to serve as minister of justice in Canadian history and the first woman to become minister of defence in a NATO member state.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kim_Campbell.jpg/330px-Kim_Campbell.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Campbell",
+  "dateOfBirth": "1947-03-10",
+  "birthDateParsed": "1947-03-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.2339",
+  "birthCoordinatesLng": "-124.805",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "autobiographer",
+    "political scientist",
+    "lecturer",
+    "consul general"
+  ],
+  "qid": "Q128553",
+  "birthPlace": "Port Alberni",
+  "fetchedAt": "2026-08-03T10:59:26.204Z"
+}

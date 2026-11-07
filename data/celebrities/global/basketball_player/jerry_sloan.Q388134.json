@@ -1,0 +1,32 @@
+{
+  "publicId": "c007ca1d",
+  "wikipediaSlug": "Jerry_Sloan",
+  "wikipediaId": "Q388134",
+  "name": "Jerry Sloan",
+  "fullName": "Jerry Sloan",
+  "profileSummary": "Gerald Eugene Sloan was an American professional basketball player and coach. He played 11 seasons in the National Basketball Association (NBA) before beginning a 30-year coaching career, 23 of which were spent as head coach of the Utah Jazz (1988–2011). NBA commissioner David Stern referred to Sloan as \"one of the greatest and most respected coaches in NBA history\". Sloan was inducted into the Naismith Memorial Basketball Hall of Fame in 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Jerry_Sloan_at_Energy_Solutions_Arena_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerry_Sloan",
+  "dateOfBirth": "1942-03-28",
+  "birthDateParsed": "1942-03-28",
+  "dateOfDeath": "2020-05-22",
+  "deathDateParsed": "2020-05-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.0901838",
+  "birthCoordinatesLng": "-88.5386768",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q388134",
+  "birthPlace": "McLeansboro",
+  "fetchedAt": "2026-08-01T15:37:29.311Z"
+}

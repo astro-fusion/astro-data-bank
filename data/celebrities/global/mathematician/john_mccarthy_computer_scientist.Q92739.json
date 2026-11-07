@@ -1,0 +1,35 @@
+{
+  "publicId": "016a7990",
+  "wikipediaSlug": "John_McCarthy_(computer_scientist)",
+  "wikipediaId": "Q92739",
+  "name": "John McCarthy (computer scientist)",
+  "fullName": "John McCarthy (computer scientist)",
+  "profileSummary": "John McCarthy was an American computer scientist and cognitive scientist. He was one of the founders of the discipline of artificial intelligence, and part of just a small group of artificial intelligence researchers in the 1950s and 1960s. He co-authored the proposal for the Dartmouth workshop which coined the term \"artificial intelligence\" (AI), led the development of the symbolic programming language family Lisp and had a large influence in the language ALGOL, popularized time-sharing, and created garbage collection.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/John_McCarthy_Stanford.jpg/330px-John_McCarthy_Stanford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)",
+  "dateOfBirth": "1927-09-04",
+  "birthDateParsed": "1927-09-04",
+  "dateOfDeath": "2011-10-24",
+  "deathDateParsed": "2011-10-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "engineer",
+    "university teacher",
+    "artificial intelligence researcher"
+  ],
+  "qid": "Q92739",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-10T04:28:58.388Z"
+}

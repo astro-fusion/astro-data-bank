@@ -1,0 +1,33 @@
+{
+  "publicId": "b338a908",
+  "wikipediaSlug": "Charles_E._Brady_Jr.",
+  "wikipediaId": "Q722667",
+  "name": "Charles E. Brady Jr.",
+  "fullName": "Charles E. Brady Jr.",
+  "profileSummary": "Charles Eldon Brady Jr. was an American physician, a captain in the United States Navy and a NASA astronaut. He spent 16 days in space on the Space Shuttle's STS-78 flight in 1996.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Brady_astronaut.jpg/330px-Brady_astronaut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_E._Brady_Jr.",
+  "dateOfBirth": "1951-08-12",
+  "birthDateParsed": "1951-08-12",
+  "dateOfDeath": "2006-07-23",
+  "deathDateParsed": "2006-07-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.196111111",
+  "birthCoordinatesLng": "-79.464166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut",
+    "physician"
+  ],
+  "qid": "Q722667",
+  "birthPlace": "Pinehurst",
+  "fetchedAt": "2026-08-10T06:03:58.182Z"
+}

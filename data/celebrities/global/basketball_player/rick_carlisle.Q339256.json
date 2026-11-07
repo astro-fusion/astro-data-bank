@@ -1,0 +1,33 @@
+{
+  "publicId": "f88e3708",
+  "wikipediaSlug": "Rick_Carlisle",
+  "wikipediaId": "Q339256",
+  "name": "Rick Carlisle",
+  "fullName": "Rick Carlisle",
+  "profileSummary": "Rick Preston Carlisle is an American basketball coach and former player who is the head coach for the Indiana Pacers of the National Basketball Association (NBA). He has previously served as head coach of the Detroit Pistons and Dallas Mavericks, winning the 2011 NBA Finals with the latter. As a player, Carlisle played for the Boston Celtics, New York Knicks, and New Jersey Nets. He is one of only 14 people to win an NBA championship as both a player and a coach, and is one of only 11 head coaches in NBA history to win 1,000 games.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rick_Carlisle_OPHS_Drive_and_Dish_Presser_2023-11-15_%28cropped2%29.jpg/330px-Rick_Carlisle_OPHS_Drive_and_Dish_Presser_2023-11-15_%28cropped2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rick_Carlisle",
+  "dateOfBirth": "1959-10-27",
+  "birthDateParsed": "1959-10-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.7",
+  "birthCoordinatesLng": "-75.483333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "coach"
+  ],
+  "qid": "Q339256",
+  "birthPlace": "Ogdensburg",
+  "fetchedAt": "2026-08-01T15:38:29.716Z"
+}

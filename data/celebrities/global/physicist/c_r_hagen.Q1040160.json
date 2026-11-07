@@ -1,0 +1,33 @@
+{
+  "publicId": "c7eaaab1",
+  "wikipediaSlug": "C._R._Hagen",
+  "wikipediaId": "Q1040160",
+  "name": "C. R. Hagen",
+  "fullName": "C. R. Hagen",
+  "profileSummary": "Carl Richard Hagen is an American physicist and Professor Emeritus of particle physics at the University of Rochester. He is most noted for his contributions to the Standard Model and Symmetry breaking as well as the 1964 co-discovery of the Higgs mechanism and Higgs boson with Gerald Guralnik and Tom Kibble (GHK). As part of Physical Review Letters 50th anniversary celebration, the journal recognized this discovery as one of the milestone papers in PRL history. While widely considered to have authored the most complete of the early papers on the Higgs theory, GHK were controversially not included in the 2013 Nobel Prize in Physics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CR_Hagen-Talking-Large.jpg/330px-CR_Hagen-Talking-Large.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C._R._Hagen",
+  "dateOfBirth": "1937-02-02",
+  "birthDateParsed": "1937-02-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "theoretical physicist"
+  ],
+  "qid": "Q1040160",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-05T03:16:29.595Z"
+}

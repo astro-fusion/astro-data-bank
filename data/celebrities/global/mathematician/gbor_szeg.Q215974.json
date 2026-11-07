@@ -1,0 +1,32 @@
+{
+  "publicId": "af89609b",
+  "wikipediaSlug": "Gábor_Szegő",
+  "wikipediaId": "Q215974",
+  "name": "Gábor Szegő",
+  "fullName": "Gábor Szegő",
+  "profileSummary": "Gábor Szegő was a Hungarian-American mathematician. He was one of the foremost mathematical analysts of his generation and made fundamental contributions to the theory of orthogonal polynomials and Toeplitz matrices building on the work of his contemporary Otto Toeplitz.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gabor_Szego%2C_1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%A1bor_Szeg%C5%91",
+  "dateOfBirth": "1895-01-20",
+  "birthDateParsed": "1895-01-20",
+  "dateOfDeath": "1985-08-07",
+  "deathDateParsed": "1985-08-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.37",
+  "birthCoordinatesLng": "20.630833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q215974",
+  "birthPlace": "Kunhegyes",
+  "fetchedAt": "2026-08-04T15:06:57.485Z"
+}

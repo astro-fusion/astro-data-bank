@@ -1,0 +1,35 @@
+{
+  "publicId": "5f964bab",
+  "wikipediaSlug": "Ilya_Prigogine",
+  "wikipediaId": "Q183509",
+  "name": "Ilya Prigogine",
+  "fullName": "Ilya Prigogine",
+  "profileSummary": "Viscount Ilya Romanovich Prigogine was a Belgian physical chemist of Russian origin, noted for his work on dissipative structures, complex systems, and irreversibility.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ilya_Prigogine_1977c.jpg/330px-Ilya_Prigogine_1977c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilya_Prigogine",
+  "dateOfBirth": "1917-01-25",
+  "birthDateParsed": "1917-01-25",
+  "dateOfDeath": "2003-05-28",
+  "deathDateParsed": "2003-05-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "physicist",
+    "university teacher",
+    "chemist",
+    "non-fiction writer"
+  ],
+  "qid": "Q183509",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-10T02:04:10.609Z"
+}

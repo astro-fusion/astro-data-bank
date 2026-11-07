@@ -1,0 +1,32 @@
+{
+  "publicId": "e63f6f78",
+  "wikipediaSlug": "Danny_Wilson_(footballer,_born_1960)",
+  "wikipediaId": "Q180319",
+  "name": "Danny Wilson (footballer, born 1960)",
+  "fullName": "Danny Wilson (footballer, born 1960)",
+  "profileSummary": "Daniel Joseph Wilson is a former footballer and manager. \nHe has previously coached Sheffield Wednesday, Bristol City, Milton Keynes Dons, Hartlepool United, Swindon Town, Sheffield United, Barnsley and Chesterfield.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Wilson%2C_Danny.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Wilson_(footballer%2C_born_1960)",
+  "dateOfBirth": "1960-01-01",
+  "birthDateParsed": "1960-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.544722222",
+  "birthCoordinatesLng": "-2.631666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q180319",
+  "birthPlace": "Wigan",
+  "fetchedAt": "2026-08-01T05:21:01.505Z"
+}

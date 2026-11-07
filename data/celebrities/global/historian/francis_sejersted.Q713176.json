@@ -1,0 +1,32 @@
+{
+  "publicId": "0814838d",
+  "wikipediaSlug": "Francis_Sejersted",
+  "wikipediaId": "Q713176",
+  "name": "Francis Sejersted",
+  "fullName": "Francis Sejersted",
+  "profileSummary": "Francis Sejersted was a Norwegian history professor and the chairman of the Norwegian Nobel Committee from 1991 until 1995.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Francis_Sejersted_2.jpg/330px-Francis_Sejersted_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Sejersted",
+  "dateOfBirth": "1936-02-08",
+  "birthDateParsed": "1936-02-08",
+  "dateOfDeath": "2015-08-25",
+  "deathDateParsed": "2015-08-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.905466666",
+  "birthCoordinatesLng": "10.759736111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "professor"
+  ],
+  "qid": "Q713176",
+  "birthPlace": "Aker",
+  "fetchedAt": "2026-08-04T02:13:13.790Z"
+}

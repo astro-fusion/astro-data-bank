@@ -1,0 +1,32 @@
+{
+  "publicId": "e711fad5",
+  "wikipediaSlug": "Charlie_Korsmo",
+  "wikipediaId": "Q1066934",
+  "name": "Charlie Korsmo",
+  "fullName": "Charlie Korsmo",
+  "profileSummary": "Charles Randolph Korsmo is an American lawyer, academic, and actor. He first came to prominence as a child actor, portraying the Kid in the film adaptation of Dick Tracy (1990), Sigmund \"Siggy\" Marvin in What About Bob? (1991), and Jack Banning in Hook (1991). After earning degrees from the Massachusetts Institute of Technology and Yale Law School, he became a lawyer for the Environmental Protection Agency and worked as a visiting professor at Brooklyn Law School. He is currently a professor of corporate law and finance at Case Western Reserve University School of Law. He still performs as an actor periodically, with roles in films including Can't Hardly Wait, Chained for Life, and A Different Man.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Charlie_Korsmo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Korsmo",
+  "dateOfBirth": "1978-07-20",
+  "birthDateParsed": "1978-07-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.877222222",
+  "birthCoordinatesLng": "-96.789444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "lawyer"
+  ],
+  "qid": "Q1066934",
+  "birthPlace": "Fargo",
+  "fetchedAt": "2026-08-05T03:16:35.624Z"
+}

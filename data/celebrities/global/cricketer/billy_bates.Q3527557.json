@@ -1,0 +1,31 @@
+{
+  "publicId": "444e0360",
+  "wikipediaSlug": "Billy_Bates",
+  "wikipediaId": "Q3527557",
+  "name": "Billy Bates",
+  "fullName": "Billy Bates",
+  "profileSummary": "Willie Bates, known as Billy Bates, was an English cricketer. Skilled with both bat and ball, Bates scored over 10,000 first-class runs, took more than 870 wickets and was always reliable in the field. A snappy dresser, Bates was also known as \"The Duke\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/WilliamBates1900.jpg/330px-WilliamBates1900.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Bates",
+  "dateOfBirth": "1855-11-19",
+  "birthDateParsed": "1855-11-19",
+  "dateOfDeath": "1900-01-08",
+  "deathDateParsed": "1900-01-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.645",
+  "birthCoordinatesLng": "-1.779722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3527557",
+  "birthPlace": "Huddersfield",
+  "fetchedAt": "2026-07-31T20:09:33.306Z"
+}

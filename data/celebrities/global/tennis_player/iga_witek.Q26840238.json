@@ -1,0 +1,31 @@
+{
+  "publicId": "02f36aab",
+  "wikipediaSlug": "Iga_Świątek",
+  "wikipediaId": "Q26840238",
+  "name": "Iga Świątek",
+  "fullName": "Iga Świątek",
+  "profileSummary": "Iga Natalia Świątek is a Polish professional tennis player. Currently ranked world No. 6 in women's singles by the WTA, she has held the world No. 1 ranking for a total of 125 weeks, seventh-most of all-time. Świątek has won 25\nWTA Tour–level singles titles, including six major titles: four at the French Open, one at Wimbledon, and one at the US Open. She has also won the 2023 WTA Finals and eleven WTA 1000 titles. Świątek is the first Pole to win a major singles title.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Iga_Swiatek_2023_Cropped_%2B_Retouched.jpg/330px-Iga_Swiatek_2023_Cropped_%2B_Retouched.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek",
+  "dateOfBirth": "2001-05-31",
+  "birthDateParsed": "2001-05-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.23",
+  "birthCoordinatesLng": "21.011111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q26840238",
+  "birthPlace": "Warsaw",
+  "fetchedAt": "2026-08-01T14:59:45.702Z"
+}

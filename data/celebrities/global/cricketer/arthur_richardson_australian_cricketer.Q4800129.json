@@ -1,0 +1,32 @@
+{
+  "publicId": "f4a273ff",
+  "wikipediaSlug": "Arthur_Richardson_(Australian_cricketer)",
+  "wikipediaId": "Q4800129",
+  "name": "Arthur Richardson (Australian cricketer)",
+  "fullName": "Arthur Richardson (Australian cricketer)",
+  "profileSummary": "Arthur John Richardson was an Australian Test cricketer who played nine Tests matches for Australia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/AJ_Richardson.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Richardson_(Australian_cricketer)",
+  "dateOfBirth": "1888-07-24",
+  "birthDateParsed": "1888-07-24",
+  "dateOfDeath": "1973-12-23",
+  "deathDateParsed": "1973-12-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.835622675",
+  "birthCoordinatesLng": "138.614009146",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire"
+  ],
+  "qid": "Q4800129",
+  "birthPlace": "Clare",
+  "fetchedAt": "2026-07-31T19:43:59.530Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "b9095e0e",
+  "wikipediaSlug": "Bert_Ironmonger",
+  "wikipediaId": "Q4895147",
+  "name": "Bert Ironmonger",
+  "fullName": "Bert Ironmonger",
+  "profileSummary": "Herbert Ironmonger was an Australian cricketer. He played Test cricket from 1928 to 1933, playing his last Test at the age of 50. He is the second-oldest Test cricketer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/BertIronmonger_headshot.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bert_Ironmonger",
+  "dateOfBirth": "1882-04-07",
+  "birthDateParsed": "1882-04-07",
+  "dateOfDeath": "1971-05-31",
+  "deathDateParsed": "1971-05-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.5333",
+  "birthCoordinatesLng": "152.717",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4895147",
+  "birthPlace": "Pine Mountain",
+  "fetchedAt": "2026-07-31T19:44:50.946Z"
+}

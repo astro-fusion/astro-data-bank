@@ -1,0 +1,32 @@
+{
+  "publicId": "c1086e9e",
+  "wikipediaSlug": "Ange_Postecoglou",
+  "wikipediaId": "Q2849301",
+  "name": "Ange Postecoglou",
+  "fullName": "Ange Postecoglou",
+  "profileSummary": "Angelos Postecoglou is a professional soccer manager and former player who is the head coach of Saudi Pro League club Al-Nassr. He is known for his heavily attacking style of play, dubbed \"Angeball\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ange_Postecoglou_%28cropped%29.jpg/330px-Ange_Postecoglou_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ange_Postecoglou",
+  "dateOfBirth": "1965-08-27",
+  "birthDateParsed": "1965-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.984166666",
+  "birthCoordinatesLng": "23.728055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q2849301",
+  "birthPlace": "Athens",
+  "fetchedAt": "2026-08-01T05:19:30.887Z"
+}

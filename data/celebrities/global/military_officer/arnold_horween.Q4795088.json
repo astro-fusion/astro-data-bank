@@ -1,0 +1,34 @@
+{
+  "publicId": "359bb882",
+  "wikipediaSlug": "Arnold_Horween",
+  "wikipediaId": "Q4795088",
+  "name": "Arnold Horween",
+  "fullName": "Arnold Horween",
+  "profileSummary": "Arnold Horween was an American football player and coach. He played and coached both collegiately for Harvard University and professionally in the National Football League (NFL).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnold_and_Ralph_Horween.jpeg/330px-Arnold_and_Ralph_Horween.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnold_Horween",
+  "dateOfBirth": "1898-07-07",
+  "birthDateParsed": "1898-07-07",
+  "dateOfDeath": "1985-08-05",
+  "deathDateParsed": "1985-08-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "American football player",
+    "American football coach",
+    "businessperson"
+  ],
+  "qid": "Q4795088",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-05T02:43:43.789Z"
+}

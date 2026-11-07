@@ -1,0 +1,31 @@
+{
+  "publicId": "09251a3e",
+  "wikipediaSlug": "Bertha_Townsend",
+  "wikipediaId": "Q453061",
+  "name": "Bertha Townsend",
+  "fullName": "Bertha Townsend",
+  "profileSummary": "Bertha Louise Townsend Toulmin was a female tennis player from the United States. She is best remembered for being the first repeating women's singles champion at the U.S. Championships in 1888 and 1889. She developed the underhand technique.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bertha_Townsend.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bertha_Townsend",
+  "dateOfBirth": "1869-03-07",
+  "birthDateParsed": "1869-03-07",
+  "dateOfDeath": "1909-05-12",
+  "deathDateParsed": "1909-05-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q453061",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-01T14:59:06.215Z"
+}

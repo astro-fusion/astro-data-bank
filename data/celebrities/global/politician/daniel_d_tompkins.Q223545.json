@@ -1,0 +1,36 @@
+{
+  "publicId": "15c2ff00",
+  "wikipediaSlug": "Daniel_D._Tompkins",
+  "wikipediaId": "Q223545",
+  "name": "Daniel D. Tompkins",
+  "fullName": "Daniel D. Tompkins",
+  "profileSummary": "Daniel D. Tompkins was an American politician who served as the sixth vice president of the United States from 1817 to 1825. He previously served as the fourth governor of New York from 1807 to 1817.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Daniel_D_Tompkins_by_John_Wesley_Jarvis_%28cropped%29.jpg/330px-Daniel_D_Tompkins_by_John_Wesley_Jarvis_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_D._Tompkins",
+  "dateOfBirth": "1774-06-21",
+  "birthDateParsed": "1774-06-21",
+  "dateOfDeath": "1825-06-11",
+  "deathDateParsed": "1825-06-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.992222222",
+  "birthCoordinatesLng": "-73.786944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "judge",
+    "governor",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q223545",
+  "birthPlace": "Scarsdale",
+  "fetchedAt": "2026-08-01T18:07:35.923Z"
+}

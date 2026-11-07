@@ -1,0 +1,35 @@
+{
+  "publicId": "e8cf0d2f",
+  "wikipediaSlug": "Amir_Pnueli",
+  "wikipediaId": "Q92649",
+  "name": "Amir Pnueli",
+  "fullName": "Amir Pnueli",
+  "profileSummary": "Amir Pnueli was an Israeli computer scientist and the 1996 Turing Award recipient.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amir_Pnueli.jpg/330px-Amir_Pnueli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amir_Pnueli",
+  "dateOfBirth": "1941-04-22",
+  "birthDateParsed": "1941-04-22",
+  "dateOfDeath": "2009-11-02",
+  "deathDateParsed": "2009-11-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.69",
+  "birthCoordinatesLng": "35.196666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "pedagogue",
+    "university teacher",
+    "mathematician"
+  ],
+  "qid": "Q92649",
+  "birthPlace": "Nahalal",
+  "fetchedAt": "2026-08-10T04:28:17.779Z"
+}

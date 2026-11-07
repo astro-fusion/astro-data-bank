@@ -1,0 +1,32 @@
+{
+  "publicId": "dffac17e",
+  "wikipediaSlug": "John_Hopcroft",
+  "wikipediaId": "Q62874",
+  "name": "John Hopcroft",
+  "fullName": "John Hopcroft",
+  "profileSummary": "John Edward Hopcroft is an American theoretical computer scientist. His textbooks on theory of computation and data structures are regarded as standards in their fields. He is a professor emeritus at Cornell University, co-director of the Center on Frontiers of Computing Studies at Peking University, the director of the John Hopcroft Center for Computer Science at Shanghai Jiao Tong University and Hopcroft Center on Computer Science at Huazhong University of Science and Technology. He and Robert Tarjan won the 1986 ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hopcrofg_%28cropped2%29.jpg/330px-Hopcrofg_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hopcroft",
+  "dateOfBirth": "1939-10-07",
+  "birthDateParsed": "1939-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.605",
+  "birthCoordinatesLng": "-122.33",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q62874",
+  "birthPlace": "Seattle",
+  "fetchedAt": "2026-08-10T04:29:08.824Z"
+}

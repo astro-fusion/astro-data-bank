@@ -1,0 +1,35 @@
+{
+  "publicId": "2dd90afe",
+  "wikipediaSlug": "Fanny_Blankers-Koen",
+  "wikipediaId": "Q229046",
+  "name": "Fanny Blankers-Koen",
+  "fullName": "Fanny Blankers-Koen",
+  "profileSummary": "Francina Elsje \"Fanny\" Blankers-Koen was a Dutch track and field athlete, best known for winning four gold medals at the 1948 Summer Olympics in London. She competed there as a 30-year-old mother of two, earning her the nickname \"the Flying Housewife\", and was the most successful athlete at the event.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Olympische_dag_in_Amsterdam._Fanny_Blankers-Koen%2C_Bestanddeelnr_903-4520.jpg/330px-Olympische_dag_in_Amsterdam._Fanny_Blankers-Koen%2C_Bestanddeelnr_903-4520.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fanny_Blankers-Koen",
+  "dateOfBirth": "1918-04-26",
+  "birthDateParsed": "1918-04-26",
+  "dateOfDeath": "2004-01-25",
+  "deathDateParsed": "2004-01-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.2125",
+  "birthCoordinatesLng": "5.2861",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sprinter",
+    "athletics competitor",
+    "long jumper",
+    "high jumper",
+    "athlete"
+  ],
+  "qid": "Q229046",
+  "birthPlace": "Baarn",
+  "fetchedAt": "2026-08-10T12:59:31.420Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "1d475d61",
+  "wikipediaSlug": "Arthur_O'Hara_Wood",
+  "wikipediaId": "Q710891",
+  "name": "Arthur O'Hara Wood",
+  "fullName": "Arthur O'Hara Wood",
+  "profileSummary": "Major Arthur Holroyd O'Hara Wood was an Australian male tennis player and Royal Air Force pilot who was killed during the First World War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/Arthur_Holroyd_O%27Hara_Wood.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_O'Hara_Wood",
+  "dateOfBirth": "1890-01-01",
+  "birthDateParsed": "1890-01-01",
+  "dateOfDeath": "1918-10-01",
+  "deathDateParsed": "1918-10-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "physician"
+  ],
+  "qid": "Q710891",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-08-01T13:10:35.901Z"
+}

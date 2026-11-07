@@ -1,0 +1,32 @@
+{
+  "publicId": "afd4cdc8",
+  "wikipediaSlug": "Billy_Bonds",
+  "wikipediaId": "Q863022",
+  "name": "Billy Bonds",
+  "fullName": "Billy Bonds",
+  "profileSummary": "William Arthur Bonds was an English professional footballer and manager, who was most often associated with West Ham United with whom he spent 27 years as player and manager. He played 799 first-team games for West Ham in a career spanning 21 seasons, winning two FA Cups with them. He died peacefully on 30 November 2025 whilst sleeping.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BillyBonds.JPG/330px-BillyBonds.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Bonds",
+  "dateOfBirth": "1946-09-17",
+  "birthDateParsed": "1946-09-17",
+  "dateOfDeath": "2025-11-30",
+  "deathDateParsed": "2025-11-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.491666666",
+  "birthCoordinatesLng": "0.066666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q863022",
+  "birthPlace": "Woolwich",
+  "fetchedAt": "2026-08-01T05:19:25.253Z"
+}

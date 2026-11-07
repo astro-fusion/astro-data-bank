@@ -1,0 +1,31 @@
+{
+  "publicId": "6889b68f",
+  "wikipediaSlug": "Dave_Menne",
+  "wikipediaId": "Q2061151",
+  "name": "Dave Menne",
+  "fullName": "Dave Menne",
+  "profileSummary": "David Jeremy Menne is an American retired mixed martial artist. He was the first ever UFC Middleweight Champion and has also competed for Cage Rage, Bellator, Shooto, ADCC and RINGS.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Menne",
+  "dateOfBirth": "1974-07-29",
+  "birthDateParsed": "1974-07-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.981944444",
+  "birthCoordinatesLng": "-93.269166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q2061151",
+  "birthPlace": "Minneapolis",
+  "fetchedAt": "2026-08-01T17:05:10.641Z"
+}

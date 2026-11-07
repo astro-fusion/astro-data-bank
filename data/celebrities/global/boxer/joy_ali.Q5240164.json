@@ -1,0 +1,31 @@
+{
+  "publicId": "a4869f4f",
+  "wikipediaSlug": "Joy_Ali",
+  "wikipediaId": "Q5240164",
+  "name": "Joy Ali",
+  "fullName": "Joy Ali",
+  "profileSummary": "Zulfikar Joy Ali was a Fijian boxer. He had won 31 boxing matches in his career.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joy_Ali",
+  "dateOfBirth": "1978-12-22",
+  "birthDateParsed": "1978-12-22",
+  "dateOfDeath": "2015-01-05",
+  "deathDateParsed": "2015-01-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-18",
+  "birthCoordinatesLng": "178",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer"
+  ],
+  "qid": "Q5240164",
+  "birthPlace": "Fiji",
+  "fetchedAt": "2026-08-07T04:27:04.922Z"
+}

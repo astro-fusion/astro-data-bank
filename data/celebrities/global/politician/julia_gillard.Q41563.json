@@ -1,0 +1,32 @@
+{
+  "publicId": "67d91665",
+  "wikipediaSlug": "Julia_Gillard",
+  "wikipediaId": "Q41563",
+  "name": "Julia Gillard",
+  "fullName": "Julia Gillard",
+  "profileSummary": "Julia Eileen Gillard is an Australian former politician who served as the 27th prime minister of Australia from 2010 to 2013. She held office as the leader of the Labor Party (ALP), having previously served as the 13th deputy prime minister from 2007 to 2010. She is the first and only woman to hold either office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Julia-gillard-official-portrait-pmc.jpg/330px-Julia-gillard-official-portrait-pmc.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julia_Gillard",
+  "dateOfBirth": "1961-09-29",
+  "birthDateParsed": "1961-09-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4064",
+  "birthCoordinatesLng": "-3.2667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q41563",
+  "birthPlace": "Barry",
+  "fetchedAt": "2026-08-03T12:58:37.808Z"
+}

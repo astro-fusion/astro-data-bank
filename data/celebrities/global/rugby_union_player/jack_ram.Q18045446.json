@@ -1,0 +1,31 @@
+{
+  "publicId": "10a5a1cd",
+  "wikipediaSlug": "Jack_Ram",
+  "wikipediaId": "Q18045446",
+  "name": "Jack Ram",
+  "fullName": "Jack Ram",
+  "profileSummary": "Jack Ram is a Tongan professional rugby union footballer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jack_Ram_LQ_2015.jpg/330px-Jack_Ram_LQ_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Ram",
+  "dateOfBirth": "1987-01-14",
+  "birthDateParsed": "1987-01-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rugby union player"
+  ],
+  "qid": "Q18045446",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-07T04:26:46.229Z"
+}

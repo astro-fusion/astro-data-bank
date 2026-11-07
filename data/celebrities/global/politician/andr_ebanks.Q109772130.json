@@ -1,0 +1,31 @@
+{
+  "publicId": "567404ad",
+  "wikipediaSlug": "André_Ebanks",
+  "wikipediaId": "Q109772130",
+  "name": "André Ebanks",
+  "fullName": "André Ebanks",
+  "profileSummary": "André Martin Ebanks is a Caymanian politician and lawyer serving as the Premier of the Cayman Islands since May 2025, and also represents West Bay South as a member of the Parliament of the Cayman Islands. He is the leader of the Caymanian Community Party (TCCP) and leader of the Government coalition consisting of members of the Caymanian Community Party and the Cayman Islands National Party (CINP) called the National Coalition For Caymanians (NCFC).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Andr%C3%A9_Ebanks_2021.jpg/330px-Andr%C3%A9_Ebanks_2021.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Ebanks",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q109772130",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-03T16:49:47.204Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "3a24ed05",
+  "wikipediaSlug": "Christophe_Mirmand",
+  "wikipediaId": "Q29934395",
+  "name": "Christophe Mirmand",
+  "fullName": "Christophe Mirmand",
+  "profileSummary": "Christophe Jacques-Pierre Mirmand is a French government official who was appointed the 26th minister of state of Monaco under Prince Albert II on 21 July 2025. He succeeded Isabelle Berro-Amadeï, who held the office in an acting capacity following the death of Didier Guillaume.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Christophe_Mirmand_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christophe_Mirmand",
+  "dateOfBirth": "1961-07-22",
+  "birthDateParsed": "1961-07-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.365",
+  "birthCoordinatesLng": "6.614722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "official",
+    "politician",
+    "civil servant"
+  ],
+  "qid": "Q29934395",
+  "birthPlace": "Constantine",
+  "fetchedAt": "2026-08-03T16:50:22.487Z"
+}

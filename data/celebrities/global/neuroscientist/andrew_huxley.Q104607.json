@@ -1,0 +1,35 @@
+{
+  "publicId": "51bb20b5",
+  "wikipediaSlug": "Andrew_Huxley",
+  "wikipediaId": "Q104607",
+  "name": "Andrew Huxley",
+  "fullName": "Andrew Huxley",
+  "profileSummary": "Sir Andrew Fielding Huxley was an English physiologist and biophysicist. He was born into the prominent Huxley family. After leaving Westminster School in central London, he went to Trinity College, Cambridge, on a scholarship, after which he joined Alan Hodgkin to study nerve impulses. Their eventual discovery of the basis for propagation of nerve impulses earned them the Nobel Prize in Physiology or Medicine in 1963. They made their discovery from the giant axon of the Atlantic squid. Soon after the outbreak of the Second World War, Huxley was recruited by the British Anti-Aircraft Command and later transferred to the Admiralty. After the war he resumed research at the University of Cambridge, where he developed interference microscopy that would be suitable for studying muscle fibres.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Andrew_Fielding_Huxley_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Huxley",
+  "dateOfBirth": "1917-11-22",
+  "birthDateParsed": "1917-11-22",
+  "dateOfDeath": "2012-05-30",
+  "deathDateParsed": "2012-05-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5541",
+  "birthCoordinatesLng": "-0.1744",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "neuroscientist",
+    "physicist",
+    "physician",
+    "physiologist",
+    "biophysicist"
+  ],
+  "qid": "Q104607",
+  "birthPlace": "Hampstead",
+  "fetchedAt": "2026-08-10T03:13:40.723Z"
+}

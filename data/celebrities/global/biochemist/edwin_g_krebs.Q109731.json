@@ -1,0 +1,34 @@
+{
+  "publicId": "61b51311",
+  "wikipediaSlug": "Edwin_G._Krebs",
+  "wikipediaId": "Q109731",
+  "name": "Edwin G. Krebs",
+  "fullName": "Edwin G. Krebs",
+  "profileSummary": "Edwin Gerhard Krebs was an American biochemist. He received the Albert Lasker Award for Basic Medical Research and the Louisa Gross Horwitz Prize of Columbia University in 1989 together with Alfred Gilman and, together with his collaborator Edmond H. Fischer, was awarded the Nobel Prize in Physiology or Medicine in 1992 for describing how reversible phosphorylation works as a switch to activate proteins and regulate various cellular processes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Edwin_G._Krebs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edwin_G._Krebs",
+  "dateOfBirth": "1918-06-06",
+  "birthDateParsed": "1918-06-06",
+  "dateOfDeath": "2009-12-21",
+  "deathDateParsed": "2009-12-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.361388888",
+  "birthCoordinatesLng": "-91.223333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "university teacher",
+    "physician"
+  ],
+  "qid": "Q109731",
+  "birthPlace": "Lansing",
+  "fetchedAt": "2026-08-10T03:14:50.561Z"
+}

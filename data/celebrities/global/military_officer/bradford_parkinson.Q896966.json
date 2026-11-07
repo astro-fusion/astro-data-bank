@@ -1,0 +1,37 @@
+{
+  "publicId": "d7c749c6",
+  "wikipediaSlug": "Bradford_Parkinson",
+  "wikipediaId": "Q896966",
+  "name": "Bradford Parkinson",
+  "fullName": "Bradford Parkinson",
+  "profileSummary": "Bradford Parkinson is an American engineer and inventor, retired United States Air Force Colonel and Emeritus Professor at Stanford University. He is best known as the lead architect, advocate and developer, with early contributions from Ivan Getting and Roger Easton, of the Air Force NAVSTAR program, better known as Global Positioning System.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Col_Bradford_Parkinson_USAF_official_photo.png/330px-Col_Bradford_Parkinson_USAF_official_photo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bradford_Parkinson",
+  "dateOfBirth": "1935-02-16",
+  "birthDateParsed": "1935-02-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.074722222",
+  "birthCoordinatesLng": "-89.384166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "inventor",
+    "university teacher",
+    "engineer",
+    "military flight engineer",
+    "academic",
+    "aerospace engineer"
+  ],
+  "qid": "Q896966",
+  "birthPlace": "Madison",
+  "fetchedAt": "2026-08-05T03:16:08.014Z"
+}

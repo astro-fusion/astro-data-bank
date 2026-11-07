@@ -1,0 +1,32 @@
+{
+  "publicId": "c9a03341",
+  "wikipediaSlug": "Ali_Reza_Pahlavi_(born_1966)",
+  "wikipediaId": "Q1070829",
+  "name": "Ali Reza Pahlavi (born 1966)",
+  "fullName": "Ali Reza Pahlavi (born 1966)",
+  "profileSummary": "Ali Reza Pahlavi was the heir presumptive to the headship of the deposed Pahlavi dynasty from 1980 until his death in 2011. He was the younger son of Mohammad Reza Pahlavi, the former Shah of Iran and his third wife Farah Diba. He was second in order of succession to the Iranian throne before the 1979 Islamic Revolution.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Alireza_Pahlavi_%28prior_to_1979%29.jpg/330px-Alireza_Pahlavi_%28prior_to_1979%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Reza_Pahlavi_(born_1966)",
+  "dateOfBirth": "1966-04-28",
+  "birthDateParsed": "1966-04-28",
+  "dateOfDeath": "2011-01-04",
+  "deathDateParsed": "2011-01-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.688888888",
+  "birthCoordinatesLng": "51.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "socialite"
+  ],
+  "qid": "Q1070829",
+  "birthPlace": "Tehran",
+  "fetchedAt": "2026-08-05T02:42:24.152Z"
+}

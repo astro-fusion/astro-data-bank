@@ -1,0 +1,35 @@
+{
+  "publicId": "4a12c312",
+  "wikipediaSlug": "Baruj_Benacerraf",
+  "wikipediaId": "Q234701",
+  "name": "Baruj Benacerraf",
+  "fullName": "Baruj Benacerraf",
+  "profileSummary": "Baruj Benacerraf Lasry was a Venezuelan and American immunologist, who shared the 1980 Nobel Prize in Physiology or Medicine for the \"discovery of the major histocompatibility complex genes which encode cell surface protein molecules important for the immune system's distinction between self and non-self.\" His colleagues and shared recipients were Jean Dausset and George Davis Snell.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Baruj_Benacerraf_1969.jpg/330px-Baruj_Benacerraf_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baruj_Benacerraf",
+  "dateOfBirth": "1920-10-29",
+  "birthDateParsed": "1920-10-29",
+  "dateOfDeath": "2011-08-02",
+  "deathDateParsed": "2011-08-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.506111111",
+  "birthCoordinatesLng": "-66.914444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physiologist",
+    "immunologist",
+    "biologist",
+    "physician",
+    "university teacher"
+  ],
+  "qid": "Q234701",
+  "birthPlace": "Caracas",
+  "fetchedAt": "2026-08-10T03:14:17.690Z"
+}

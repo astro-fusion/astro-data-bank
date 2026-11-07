@@ -1,0 +1,33 @@
+{
+  "publicId": "f434f681",
+  "wikipediaSlug": "Eric_F._Wieschaus",
+  "wikipediaId": "Q301438",
+  "name": "Eric F. Wieschaus",
+  "fullName": "Eric F. Wieschaus",
+  "profileSummary": "Eric Francis Wieschaus is an American evolutionary developmental biologist and 1995 Nobel Prize-winner.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wieschaus_ecal2011.jpg/330px-Wieschaus_ecal2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_F._Wieschaus",
+  "dateOfBirth": "1947-06-08",
+  "birthDateParsed": "1947-06-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.676388888",
+  "birthCoordinatesLng": "-86.250277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "geneticist",
+    "university teacher"
+  ],
+  "qid": "Q301438",
+  "birthPlace": "South Bend",
+  "fetchedAt": "2026-08-10T03:14:42.675Z"
+}

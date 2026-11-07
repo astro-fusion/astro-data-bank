@@ -1,0 +1,37 @@
+{
+  "publicId": "ed891aa8",
+  "wikipediaSlug": "Lech_Wałęsa",
+  "wikipediaId": "Q444",
+  "name": "Lech Wałęsa",
+  "fullName": "Lech Wałęsa",
+  "profileSummary": "Lech Wałęsa is a Polish statesman, dissident and Nobel Peace Prize laureate who served as the president of Poland between 1990 and 1995. After winning the 1990 election, Wałęsa became the first democratically elected president of Poland since 1926 and the first-ever Polish president elected by popular vote. An electrician by trade, Wałęsa became the leader of the opposition Solidarity movement and led a successful pro-democratic effort, which in 1989 ended Communist rule in Poland and ushered in the end of the Cold War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg/330px-03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa",
+  "dateOfBirth": "1943-09-29",
+  "birthDateParsed": "1943-09-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.7",
+  "birthCoordinatesLng": "19.4075",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "electrician",
+    "trade unionist",
+    "dissident",
+    "political activist",
+    "activist",
+    "anti-communist"
+  ],
+  "qid": "Q444",
+  "birthPlace": "Popowo",
+  "fetchedAt": "2026-08-04T02:13:45.676Z"
+}

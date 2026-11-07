@@ -1,0 +1,34 @@
+{
+  "publicId": "bc5cdb67",
+  "wikipediaSlug": "Bruce_Lusignan",
+  "wikipediaId": "Q4977904",
+  "name": "Bruce Lusignan",
+  "fullName": "Bruce Lusignan",
+  "profileSummary": "Bruce Lusignan was an emeritus associate professor of electrical engineering at Stanford University\nand a visiting professor at Portland State University.\nHe earned his B.S.E.E ('58), M.S.E.E. ('59) and Ph.D. ('63) degrees from Stanford. In the early 1960s, he worked in radio astronomy at Stanford.\nHe has been director of Stanford's Communication Satellite Planning Center\nand Stanford's Center for International Cooperation in Space. He has also owned a small company designing cellular phones and pagers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brucelusignan.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Lusignan",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": "2025-10-27",
+  "deathDateParsed": "2025-10-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "inventor",
+    "academic",
+    "university teacher",
+    "electrical engineer"
+  ],
+  "qid": "Q4977904",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-04T15:06:10.440Z"
+}

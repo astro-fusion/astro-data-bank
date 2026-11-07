@@ -1,0 +1,33 @@
+{
+  "publicId": "844d9399",
+  "wikipediaSlug": "Charles_D._Gemar",
+  "wikipediaId": "Q1064149",
+  "name": "Charles D. Gemar",
+  "fullName": "Charles D. Gemar",
+  "profileSummary": "Charles Donald \"Sam\" Gemar is an American former astronaut with NASA and a lieutenant colonel in the United States Army. Gemar has flown on three Space Shuttle missions. Gemar has completed 385 orbits of the Earth and over 581 hours in space. He has also served in different positions in NASA, including as a CAPCOM for Shuttle missions. Gemar was the first astronaut to be born in the state of South Dakota.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CharlesDGemar.jpg/330px-CharlesDGemar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_D._Gemar",
+  "dateOfBirth": "1955-08-04",
+  "birthDateParsed": "1955-08-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.871305555",
+  "birthCoordinatesLng": "-97.396694444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "army officer",
+    "aircraft pilot"
+  ],
+  "qid": "Q1064149",
+  "birthPlace": "Yankton",
+  "fetchedAt": "2026-08-10T06:04:14.567Z"
+}

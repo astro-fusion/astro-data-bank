@@ -1,0 +1,36 @@
+{
+  "publicId": "9d305140",
+  "wikipediaSlug": "George_III",
+  "wikipediaId": "Q127318",
+  "name": "George III",
+  "fullName": "George III",
+  "profileSummary": "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. During his reign, the Acts of Union 1800 merged Great Britain and Ireland into the United Kingdom. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814. He was the first monarch of the House of Hanover who was born in Great Britain, spoke English as his first language, and never visited Hanover.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/330px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_III",
+  "dateOfBirth": "1738-06-04",
+  "birthDateParsed": "1738-06-04",
+  "dateOfDeath": "1820-01-29",
+  "deathDateParsed": "1820-01-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5072",
+  "birthCoordinatesLng": "-0.133889",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "art collector",
+    "patron of the arts",
+    "ruler",
+    "politician",
+    "aristocrat",
+    "monarch"
+  ],
+  "qid": "Q127318",
+  "birthPlace": "Norfolk House",
+  "fetchedAt": "2026-08-02T05:22:11.278Z"
+}

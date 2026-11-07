@@ -1,0 +1,32 @@
+{
+  "publicId": "4b6c771d",
+  "wikipediaSlug": "Eddie_Gray_(footballer,_born_1948)",
+  "wikipediaId": "Q111770",
+  "name": "Eddie Gray (footballer, born 1948)",
+  "fullName": "Eddie Gray (footballer, born 1948)",
+  "profileSummary": "Edwin Gray is a Scottish former football player and coach. Gray was a winger, who was an integral member of the legendary Leeds United team of the 1960s and 1970s, later twice becoming the club's manager.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_Gray_(footballer%2C_born_1948)",
+  "dateOfBirth": "1948-01-17",
+  "birthDateParsed": "1948-01-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q111770",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-01T05:20:21.298Z"
+}

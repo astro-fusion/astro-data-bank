@@ -1,0 +1,32 @@
+{
+  "publicId": "af79f599",
+  "wikipediaSlug": "Christian_Stocker",
+  "wikipediaId": "Q64576653",
+  "name": "Christian Stocker",
+  "fullName": "Christian Stocker",
+  "profileSummary": "Christian Stocker is an Austrian politician who has served as chancellor of Austria since March 2025. A member of the People's Party (ÖVP), he has been a member of the National Council since 2019 and Chair of the People's Party since 5 January 2025. He had previously served as general secretary of the party from September 2022 to January 2025. On 5 January 2025, he was elected new acting party leader of the People's Party, following the resignation of Chancellor Karl Nehammer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Christian_Stocker_-_Austrian_World_Summit_2026_BHO-2890.jpg/330px-Christian_Stocker_-_Austrian_World_Summit_2026_BHO-2890.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Stocker",
+  "dateOfBirth": "1960-03-20",
+  "birthDateParsed": "1960-03-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.816666666",
+  "birthCoordinatesLng": "16.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q64576653",
+  "birthPlace": "Wiener Neustadt",
+  "fetchedAt": "2026-08-03T16:50:21.860Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "2bce76ea",
+  "wikipediaSlug": "Chuck_Grassley",
+  "wikipediaId": "Q529294",
+  "name": "Chuck Grassley",
+  "fullName": "Chuck Grassley",
+  "profileSummary": "Charles Ernest Grassley is an American politician serving as the senior U.S. senator from Iowa, a seat he has held since 1981. Since 2025, he has been the president pro tempore of the United States Senate, a position he also held from 2019 to 2021. He is a member of the Republican Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Chuck_Grassley_official_photo_2017.jpg/330px-Chuck_Grassley_official_photo_2017.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chuck_Grassley",
+  "dateOfBirth": "1933-09-17",
+  "birthDateParsed": "1933-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.567222222",
+  "birthCoordinatesLng": "-92.621388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "university teacher",
+    "farmer",
+    "legislator"
+  ],
+  "qid": "Q529294",
+  "birthPlace": "New Hartford",
+  "fetchedAt": "2026-08-02T02:16:11.204Z"
+}

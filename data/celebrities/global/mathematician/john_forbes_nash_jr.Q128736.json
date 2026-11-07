@@ -1,0 +1,33 @@
+{
+  "publicId": "6e6aef68",
+  "wikipediaSlug": "John_Forbes_Nash_Jr.",
+  "wikipediaId": "Q128736",
+  "name": "John Forbes Nash Jr.",
+  "fullName": "John Forbes Nash Jr.",
+  "profileSummary": "John Forbes Nash Jr., known and published as John Nash, was an American mathematician who made fundamental contributions to game theory, real algebraic geometry, differential geometry, and partial differential equations. Nash and fellow game theorists John Harsanyi and Reinhard Selten were awarded the 1994 Nobel Prize in Economics. In 2015, he and Louis Nirenberg were awarded the Abel Prize for their contributions to the field of partial differential equations.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg/330px-John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.",
+  "dateOfBirth": "1928-06-13",
+  "birthDateParsed": "1928-06-13",
+  "dateOfDeath": "2015-05-23",
+  "deathDateParsed": "2015-05-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.262222222",
+  "birthCoordinatesLng": "-81.218611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q128736",
+  "birthPlace": "Bluefield",
+  "fetchedAt": "2026-08-10T09:43:43.571Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "6666160c",
+  "wikipediaSlug": "Darren_Moore",
+  "wikipediaId": "Q725692",
+  "name": "Darren Moore",
+  "fullName": "Darren Moore",
+  "profileSummary": "Darren Mark Moore is a professional football manager and former player who played as a centre-back. He was most recently manager of EFL League One club Port Vale.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Darren_Moore_-_West_Bromwich_Albion_Manager.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Darren_Moore",
+  "dateOfBirth": "1974-04-22",
+  "birthDateParsed": "1974-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q725692",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-08-01T05:20:31.671Z"
+}

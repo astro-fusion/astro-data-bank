@@ -1,0 +1,32 @@
+{
+  "publicId": "b1dd8f0f",
+  "wikipediaSlug": "Arthur_Milton",
+  "wikipediaId": "Q3531556",
+  "name": "Arthur Milton",
+  "fullName": "Arthur Milton",
+  "profileSummary": "Clement Arthur Milton was an English cricketer and footballer; he was a double international. He played County cricket for Gloucestershire from 1948 to 1974, playing six Test matches for England in 1958 and 1959. He also played domestic football for Arsenal between 1951 and 1955, and then for a brief period for Bristol City. He played one match for England in 1951, against Austria at Wembley. He was the last man, and the last survivor, of the twelve people to have played at the highest international level for both England's football and cricket teams.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Arthur_Milton.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Milton",
+  "dateOfBirth": "1928-03-10",
+  "birthDateParsed": "1928-03-10",
+  "dateOfDeath": "2007-04-25",
+  "deathDateParsed": "2007-04-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4397",
+  "birthCoordinatesLng": "-2.6037",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "cricketer"
+  ],
+  "qid": "Q3531556",
+  "birthPlace": "Bedminster",
+  "fetchedAt": "2026-07-31T20:08:47.209Z"
+}

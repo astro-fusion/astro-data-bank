@@ -1,0 +1,37 @@
+{
+  "publicId": "16f22123",
+  "wikipediaSlug": "John_Adams",
+  "wikipediaId": "Q11806",
+  "name": "John Adams",
+  "fullName": "John Adams",
+  "profileSummary": "John Adams was a Founding Father and the second president of the United States from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain. During the latter part of the Revolutionary War and in the early years of the new nation, he served the Continental Congress of the United States as a senior diplomat in Europe. Adams was the first vice president of the United States, serving from 1789 to 1797. He was a dedicated diarist and regularly corresponded with contemporaries, including his wife and advisor Abigail Adams and his friend and rival Thomas Jefferson.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/John_Adams_Portrait.jpg/330px-John_Adams_Portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Adams",
+  "dateOfBirth": "1735-10-30",
+  "birthDateParsed": "1735-10-30",
+  "dateOfDeath": "1826-07-04",
+  "deathDateParsed": "1826-07-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.206",
+  "birthCoordinatesLng": "-71.005",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "diplomat",
+    "political philosopher",
+    "statesperson",
+    "writer",
+    "ambassador"
+  ],
+  "qid": "Q11806",
+  "birthPlace": "Braintree",
+  "fetchedAt": "2026-08-01T18:08:02.822Z"
+}

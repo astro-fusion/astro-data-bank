@@ -1,0 +1,32 @@
+{
+  "publicId": "1fdea06a",
+  "wikipediaSlug": "Enrique_Peña_Nieto",
+  "wikipediaId": "Q296741",
+  "name": "Enrique Peña Nieto",
+  "fullName": "Enrique Peña Nieto",
+  "profileSummary": "Enrique Peña Nieto, commonly referred to by his initials EPN, is a Mexican former politician and lawyer who served as the 64th president of Mexico from 2012 to 2018. A member of the Institutional Revolutionary Party (PRI), he previously was Governor of the State of Mexico from 2005 to 2011, local deputy from 2003 to 2004, and Secretary of Administration from 2000 to 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Enrique_Pena_Nieto.jpg/330px-Enrique_Pena_Nieto.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
+  "dateOfBirth": "1966-07-20",
+  "birthDateParsed": "1966-07-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.80038",
+  "birthCoordinatesLng": "-99.87376",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q296741",
+  "birthPlace": "Atlacomulco de Fabela",
+  "fetchedAt": "2026-08-03T15:52:12.341Z"
+}

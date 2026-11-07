@@ -1,0 +1,31 @@
+{
+  "publicId": "9d68b2dd",
+  "wikipediaSlug": "Doina_Ignat",
+  "wikipediaId": "Q185515",
+  "name": "Doina Ignat",
+  "fullName": "Doina Ignat",
+  "profileSummary": "Doina Ignat is a Romanian rower, who has won six Olympic medals during her career.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Doina_Ignat",
+  "dateOfBirth": "1968-12-20",
+  "birthDateParsed": "1968-12-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.207785",
+  "birthCoordinatesLng": "26.819981",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rower"
+  ],
+  "qid": "Q185515",
+  "birthPlace": "Rădăuți-Prut",
+  "fetchedAt": "2026-08-10T12:59:20.765Z"
+}

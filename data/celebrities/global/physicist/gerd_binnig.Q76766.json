@@ -1,0 +1,31 @@
+{
+  "publicId": "58fa8761",
+  "wikipediaSlug": "Gerd_Binnig",
+  "wikipediaId": "Q76766",
+  "name": "Gerd Binnig",
+  "fullName": "Gerd Binnig",
+  "profileSummary": "Gerd Karl Binnig is a German physicist. He is most famous for having won the Nobel Prize in Physics jointly with Heinrich Rohrer in 1986 for the invention of the scanning tunneling microscope.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gerd_Binnig_at_the_Memorial_Symposium_for_Heinrich_Rohrer_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerd_Binnig",
+  "dateOfBirth": "1947-07-20",
+  "birthDateParsed": "1947-07-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.110555555",
+  "birthCoordinatesLng": "8.682222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist"
+  ],
+  "qid": "Q76766",
+  "birthPlace": "Frankfurt",
+  "fetchedAt": "2026-08-06T05:01:56.715Z"
+}

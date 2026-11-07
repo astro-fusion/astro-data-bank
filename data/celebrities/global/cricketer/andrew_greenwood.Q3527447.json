@@ -1,0 +1,31 @@
+{
+  "publicId": "52271c9c",
+  "wikipediaSlug": "Andrew_Greenwood",
+  "wikipediaId": "Q3527447",
+  "name": "Andrew Greenwood",
+  "fullName": "Andrew Greenwood",
+  "profileSummary": "Andrew Greenwood was an English professional cricketer who played for Yorkshire County Cricket Club from 1869 to 1880. He was born and died in Huddersfield, West Riding of Yorkshire. He was a member of the England team which played in the first two Test matches, retrospectively recognised.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Andrew_Greenwood.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Greenwood",
+  "dateOfBirth": "1847-08-20",
+  "birthDateParsed": "1847-08-20",
+  "dateOfDeath": "1889-02-12",
+  "deathDateParsed": "1889-02-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.645",
+  "birthCoordinatesLng": "-1.779722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3527447",
+  "birthPlace": "Huddersfield",
+  "fetchedAt": "2026-07-31T20:07:31.018Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "2df9e50c",
+  "wikipediaSlug": "Harry_Redknapp",
+  "wikipediaId": "Q221349",
+  "name": "Harry Redknapp",
+  "fullName": "Harry Redknapp",
+  "profileSummary": "Henry James Redknapp is an English former football manager and player. He has previously managed AFC Bournemouth, West Ham United, Portsmouth, Southampton, Tottenham Hotspur, Queens Park Rangers, and Birmingham City.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Harry_Redknapp_2011_%28cropped%29.jpg/330px-Harry_Redknapp_2011_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Redknapp",
+  "dateOfBirth": "1947-03-02",
+  "birthDateParsed": "1947-03-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5066",
+  "birthCoordinatesLng": "-0.0178",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "autobiographer",
+    "association football coach"
+  ],
+  "qid": "Q221349",
+  "birthPlace": "Poplar",
+  "fetchedAt": "2026-08-01T05:21:35.912Z"
+}

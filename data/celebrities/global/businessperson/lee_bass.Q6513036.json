@@ -1,0 +1,31 @@
+{
+  "publicId": "52ebd4db",
+  "wikipediaSlug": "Lee_Bass",
+  "wikipediaId": "Q6513036",
+  "name": "Lee Bass",
+  "fullName": "Lee Bass",
+  "profileSummary": "Lee Marshall Bass is an American heir, businessman and philanthropist.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Bass",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q6513036",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-04T03:35:04.535Z"
+}

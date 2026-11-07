@@ -1,0 +1,33 @@
+{
+  "publicId": "44da3abd",
+  "wikipediaSlug": "James_Scullin",
+  "wikipediaId": "Q23362",
+  "name": "James Scullin",
+  "fullName": "James Scullin",
+  "profileSummary": "James Henry Scullin was an Australian politician and trade unionist who served as the ninth prime minister of Australia from 1929 to 1932. He held office as the leader of the Australian Labor Party (ALP), having briefly served as treasurer of Australia during his time in office from 1930 to 1931. His time in office was primarily categorised by the Wall Street crash of 1929 which transpired just two days after his swearing in, thus heralding the beginning of the Great Depression in Australia. Scullin remained a leading figure in the Labor movement throughout his lifetime, and was an éminence grise in various capacities for the party until his retirement from federal parliament in 1949. He was the first Catholic to serve as prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Portrait_of_James_H._Scullin_%28cropped%29.jpg/330px-Portrait_of_James_H._Scullin_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Scullin",
+  "dateOfBirth": "1876-09-18",
+  "birthDateParsed": "1876-09-18",
+  "dateOfDeath": "1953-01-28",
+  "deathDateParsed": "1953-01-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.4333",
+  "birthCoordinatesLng": "143.467",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "head of government"
+  ],
+  "qid": "Q23362",
+  "birthPlace": "Trawalla",
+  "fetchedAt": "2026-08-03T12:58:23.939Z"
+}

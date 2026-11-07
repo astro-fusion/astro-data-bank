@@ -1,0 +1,37 @@
+{
+  "publicId": "746557f2",
+  "wikipediaSlug": "Buzz_Aldrin",
+  "wikipediaId": "Q2252",
+  "name": "Buzz Aldrin",
+  "fullName": "Buzz Aldrin",
+  "profileSummary": "Buzz Aldrin is an American former astronaut, aeronautical engineer, and fighter pilot. He was the second person to walk on the Moon after mission commander Neil Armstrong. He made three spacewalks as pilot of NASA’s 1966 Gemini 12 mission, and was the Lunar Module Eagle pilot on the 1969 Apollo 11 mission. Following the deaths of Armstrong in 2012 and pilot Michael Collins in 2021, Aldrin is the last surviving Apollo 11 crew member, and the oldest living astronaut.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/330px-Buzz_Aldrin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buzz_Aldrin",
+  "dateOfBirth": "1930-01-20",
+  "birthDateParsed": "1930-01-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.812",
+  "birthCoordinatesLng": "-74.204",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "air force officer",
+    "fighter pilot",
+    "astronaut",
+    "autobiographer",
+    "science fiction writer",
+    "engineer",
+    "businessperson"
+  ],
+  "qid": "Q2252",
+  "birthPlace": "Mountainside Medical Center",
+  "fetchedAt": "2026-08-10T06:03:59.616Z"
+}

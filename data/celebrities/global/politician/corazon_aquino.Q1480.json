@@ -1,0 +1,32 @@
+{
+  "publicId": "516eebde",
+  "wikipediaSlug": "Corazon_Aquino",
+  "wikipediaId": "Q1480",
+  "name": "Corazon Aquino",
+  "fullName": "Corazon Aquino",
+  "profileSummary": "María Corazón \"Cory\" Sumulong Cojuangco-Aquino was a Filipino politician who served as the 11th president of the Philippines, serving from 1986 to 1992. The first female president in Philippine history, Aquino was the most prominent figure of the 1986 People Power Revolution, which ended the two-decade rule of President Ferdinand Marcos and led to the establishment of the current democratic Fifth Philippine Republic. She has been regarded by media outlets as the \"Mother of Democracy\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Corazon_Aquino_1986.jpg/330px-Corazon_Aquino_1986.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Corazon_Aquino",
+  "dateOfBirth": "1933-01-25",
+  "birthDateParsed": "1933-01-25",
+  "dateOfDeath": "2009-08-01",
+  "deathDateParsed": "2009-08-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "15.668055555",
+  "birthCoordinatesLng": "120.578888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "human rights defender"
+  ],
+  "qid": "Q1480",
+  "birthPlace": "Paniqui",
+  "fetchedAt": "2026-08-04T00:55:19.995Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "9a28a2bd",
+  "wikipediaSlug": "Alfred_G._Gilman",
+  "wikipediaId": "Q296423",
+  "name": "Alfred G. Gilman",
+  "fullName": "Alfred G. Gilman",
+  "profileSummary": "Alfred Goodman Gilman was an American pharmacologist and biochemist. He and Martin Rodbell shared the 1994 Nobel Prize in Physiology or Medicine \"for their discovery of G-proteins and the role of these proteins in signal transduction in cells.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Alfred_Goodman_Gilman_%28cropped%29.jpg/330px-Alfred_Goodman_Gilman_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_G._Gilman",
+  "dateOfBirth": "1941-07-01",
+  "birthDateParsed": "1941-07-01",
+  "dateOfDeath": "2015-12-23",
+  "deathDateParsed": "2015-12-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.308333333",
+  "birthCoordinatesLng": "-72.925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "pharmacologist",
+    "pharmacist",
+    "university teacher",
+    "biochemist",
+    "physiologist"
+  ],
+  "qid": "Q296423",
+  "birthPlace": "New Haven",
+  "fetchedAt": "2026-08-10T03:13:54.628Z"
+}

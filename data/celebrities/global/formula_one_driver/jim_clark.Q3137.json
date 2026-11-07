@@ -1,0 +1,34 @@
+{
+  "publicId": "4308c962",
+  "wikipediaSlug": "Jim_Clark",
+  "wikipediaId": "Q3137",
+  "name": "Jim Clark",
+  "fullName": "Jim Clark",
+  "profileSummary": "James Clark was a British racing driver from Scotland who competed in Formula One from 1960 to 1968. Clark won two Formula One World Drivers' Championship titles, which he won in 1963 and 1965 with Lotus, and—at the time of his death—held the records for most wins (25), pole positions (33), and fastest laps (28), among others. In American open-wheel racing, Clark won the Indianapolis 500 in 1965 with Lotus, becoming the first non-American winner of the race in 49 years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jim_Clark_in_1963_%28cropped%29.JPG/330px-Jim_Clark_in_1963_%28cropped%29.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Clark",
+  "dateOfBirth": "1936-03-04",
+  "birthDateParsed": "1936-03-04",
+  "dateOfDeath": "1968-04-07",
+  "deathDateParsed": "1968-04-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.384748",
+  "birthCoordinatesLng": "-2.994556",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "farmer",
+    "film actor",
+    "athlete"
+  ],
+  "qid": "Q3137",
+  "birthPlace": "Kilmany",
+  "fetchedAt": "2026-08-01T16:01:40.358Z"
+}

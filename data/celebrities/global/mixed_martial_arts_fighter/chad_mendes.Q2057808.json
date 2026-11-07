@@ -1,0 +1,32 @@
+{
+  "publicId": "076f2551",
+  "wikipediaSlug": "Chad_Mendes",
+  "wikipediaId": "Q2057808",
+  "name": "Chad Mendes",
+  "fullName": "Chad Mendes",
+  "profileSummary": "Chad Eduardo Mendes is an American professional bare-knuckle boxer, and former mixed martial artist and collegiate wrestler who is currently signed to Bare Knuckle Fighting Championship (BKFC). He gained notoriety competing in the featherweight division of the Ultimate Fighting Championship (UFC), where he was a three-time UFC championship challenger, and had also competed in the World Extreme Cagefighting (WEC).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Chad_Mendes.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chad_Mendes",
+  "dateOfBirth": "1985-05-01",
+  "birthDateParsed": "1985-05-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.3275",
+  "birthCoordinatesLng": "-119.645555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter",
+    "collegiate wrestler"
+  ],
+  "qid": "Q2057808",
+  "birthPlace": "Hanford",
+  "fetchedAt": "2026-08-01T17:05:48.406Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "26f488a5",
+  "wikipediaSlug": "Heinz-Harald_Frentzen",
+  "wikipediaId": "Q76720",
+  "name": "Heinz-Harald Frentzen",
+  "fullName": "Heinz-Harald Frentzen",
+  "profileSummary": "Heinz-Harald Frentzen is a German former racing driver who competed in Formula One from 1994 to 2003. Frentzen was runner-up in the Formula One World Drivers' Championship in 1997 with Williams, and won three Grands Prix across 10 seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heinz-Harald_Frentzen_a_%28cropped%29.jpg/330px-Heinz-Harald_Frentzen_a_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinz-Harald_Frentzen",
+  "dateOfBirth": "1967-05-18",
+  "birthDateParsed": "1967-05-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.2",
+  "birthCoordinatesLng": "6.433333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver"
+  ],
+  "qid": "Q76720",
+  "birthPlace": "Mönchengladbach",
+  "fetchedAt": "2026-08-01T16:01:30.919Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "e52fb0fa",
+  "wikipediaSlug": "Sekhar_Bandyopadhyay",
+  "wikipediaId": "Q105243616",
+  "name": "Sekhar Bandyopadhyay",
+  "fullName": "Sekhar Bandyopadhyay",
+  "profileSummary": "Sekhar Bandyopadhyay is an Indian historian and a Fellow of the Royal Society Te Apārangi. Bandyopadhyay is known for his research on the Dalit caste of Bengal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sekhar_Bandyopadhyay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sekhar_Bandyopadhyay",
+  "dateOfBirth": "1952-07-07",
+  "birthDateParsed": "1952-07-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian"
+  ],
+  "qid": "Q105243616",
+  "placeOfBirth": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-21T07:59:33.455Z"
+}

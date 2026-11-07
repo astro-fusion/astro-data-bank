@@ -1,0 +1,32 @@
+{
+  "publicId": "b50b35c8",
+  "wikipediaSlug": "Antonio_Conte",
+  "wikipediaId": "Q26580",
+  "name": "Antonio Conte",
+  "fullName": "Antonio Conte",
+  "profileSummary": "Antonio Conte is an Italian professional football manager and former player. He has worked in Italy and abroad, with his most recent managerial stint being at Serie A club Napoli. He is widely regarded as one of the best football managers in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20150616_Antonio_Conte.jpg/330px-20150616_Antonio_Conte.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Conte",
+  "dateOfBirth": "1969-07-31",
+  "birthDateParsed": "1969-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.352011111",
+  "birthCoordinatesLng": "18.169138888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q26580",
+  "birthPlace": "Lecce",
+  "fetchedAt": "2026-08-01T05:19:42.375Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "0a4c5479",
+  "wikipediaSlug": "Jalen_Brunson",
+  "wikipediaId": "Q17305725",
+  "name": "Jalen Brunson",
+  "fullName": "Jalen Brunson",
+  "profileSummary": "Jalen Marquis Brunson, nicknamed \"Captain Clutch\", is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA). The son of former NBA guard Rick Brunson, he played college basketball for the Villanova Wildcats, earning national player of the year honors as a junior and winning two national championships. Brunson was selected 33rd overall in the 2018 NBA draft by the Dallas Mavericks and played his first four NBA seasons with them. He signed with the Knicks as a free agent in 2022, subsequently leading the franchise to its first NBA championship in 53 years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jalen_Brunson_2023_%28cropped%29.jpg/330px-Jalen_Brunson_2023_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jalen_Brunson",
+  "dateOfBirth": "1996-08-31",
+  "birthDateParsed": "1996-08-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.486666666",
+  "birthCoordinatesLng": "-74.444444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q17305725",
+  "birthPlace": "New Brunswick",
+  "fetchedAt": "2026-08-01T15:37:40.688Z"
+}

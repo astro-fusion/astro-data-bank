@@ -1,0 +1,35 @@
+{
+  "publicId": "890ecb9d",
+  "wikipediaSlug": "Boris_Volynov",
+  "wikipediaId": "Q448538",
+  "name": "Boris Volynov",
+  "fullName": "Boris Volynov",
+  "profileSummary": "Boris Valentinovich Volynov is a Russian former cosmonaut who flew two space missions of the Soviet Union's Soyuz programme: Soyuz 5, and Soyuz 21. Following the death of Alexei Leonov in October 2019, he is the last surviving member of the original group of cosmonauts. He is also considered to be the first Jew in space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Boris_Volynov_2016.jpg/330px-Boris_Volynov_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Volynov",
+  "dateOfBirth": "1934-12-18",
+  "birthDateParsed": "1934-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.289166666",
+  "birthCoordinatesLng": "104.28",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aircraft pilot",
+    "astronaut",
+    "engineer",
+    "flight instructor",
+    "test pilot"
+  ],
+  "qid": "Q448538",
+  "birthPlace": "Irkutsk",
+  "fetchedAt": "2026-08-10T06:03:57.364Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "ce339a5c",
+  "wikipediaSlug": "Edgar_Moon",
+  "wikipediaId": "Q489908",
+  "name": "Edgar Moon",
+  "fullName": "Edgar Moon",
+  "profileSummary": "Edgar \"Gar\" Moon was a tennis player from Australia who was best known for winning the 1930 Australian Championships – Men's singles title. He also won the 1932 Men's Doubles title with Jack Crawford. He won all three men's titles at the Australian Championships.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Edgar_Moon.jpg/330px-Edgar_Moon.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgar_Moon",
+  "dateOfBirth": "1904-12-03",
+  "birthDateParsed": "1904-12-03",
+  "dateOfDeath": "1976-05-26",
+  "deathDateParsed": "1976-05-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-35.148333333",
+  "birthCoordinatesLng": "147.4677778",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q489908",
+  "birthPlace": "Forest Hill",
+  "fetchedAt": "2026-08-01T13:11:43.459Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "f7c85541",
+  "wikipediaSlug": "Aleksandr_Serebrov",
+  "wikipediaId": "Q362819",
+  "name": "Aleksandr Serebrov",
+  "fullName": "Aleksandr Serebrov",
+  "profileSummary": "Aleksandr Aleksandrovich Serebrov was a Soviet cosmonaut. He graduated from Moscow Institute of Physics and Technology (1967), and was selected as a cosmonaut on 1 December 1978. He retired on 10 May 1995. He was married and had one child.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4e/Aleksandr_Aleksandrovich_Serebrov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Serebrov",
+  "dateOfBirth": "1944-02-15",
+  "birthDateParsed": "1944-02-15",
+  "dateOfDeath": "2013-11-12",
+  "deathDateParsed": "2013-11-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "military flight engineer",
+    "aircraft pilot",
+    "scientist",
+    "aerospace engineer"
+  ],
+  "qid": "Q362819",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-10T06:02:55.718Z"
+}

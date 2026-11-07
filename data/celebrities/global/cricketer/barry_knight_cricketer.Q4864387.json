@@ -1,0 +1,31 @@
+{
+  "publicId": "25a526bc",
+  "wikipediaSlug": "Barry_Knight_(cricketer)",
+  "wikipediaId": "Q4864387",
+  "name": "Barry Knight (cricketer)",
+  "fullName": "Barry Knight (cricketer)",
+  "profileSummary": "Barry Rolfe Knight was an English cricketer, who played in twenty-nine Tests for England from 1961 to 1969.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Knight_(cricketer)",
+  "dateOfBirth": "1938-02-18",
+  "birthDateParsed": "1938-02-18",
+  "dateOfDeath": "2025-11-10",
+  "deathDateParsed": "2025-11-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.235833333",
+  "birthCoordinatesLng": "-1.4275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4864387",
+  "birthPlace": "Chesterfield",
+  "fetchedAt": "2026-07-31T20:08:43.080Z"
+}

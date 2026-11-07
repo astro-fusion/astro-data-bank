@@ -1,0 +1,32 @@
+{
+  "publicId": "5f788d75",
+  "wikipediaSlug": "Dafydd_Williams",
+  "wikipediaId": "Q471380",
+  "name": "Dafydd Williams",
+  "fullName": "Dafydd Williams",
+  "profileSummary": "Dafydd \"Dave\" Rhys Williams is a Canadian physician, public speaker, CEO, author and retired CSA astronaut. Williams was a mission specialist on two Space Shuttle missions. His first spaceflight, STS-90 in 1998, was a 16-day mission aboard Space Shuttle Columbia dedicated to neuroscience research. His second flight, STS-118 in August 2007, was flown by Space Shuttle Endeavour to the International Space Station. During that mission he performed three spacewalks, becoming the third Canadian to perform a spacewalk and setting a Canadian record for total number of spacewalks. These spacewalks combined for a total duration of 17 hours and 47 minutes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dafydd_Williams.jpg/330px-Dafydd_Williams.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dafydd_Williams",
+  "dateOfBirth": "1954-05-16",
+  "birthDateParsed": "1954-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.133333333",
+  "birthCoordinatesLng": "-106.683333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "physician"
+  ],
+  "qid": "Q471380",
+  "birthPlace": "Saskatoon",
+  "fetchedAt": "2026-08-10T06:04:31.053Z"
+}

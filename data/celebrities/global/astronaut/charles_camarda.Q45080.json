@@ -1,0 +1,31 @@
+{
+  "publicId": "aaea226d",
+  "wikipediaSlug": "Charles_Camarda",
+  "wikipediaId": "Q45080",
+  "name": "Charles Camarda",
+  "fullName": "Charles Camarda",
+  "profileSummary": "Charles Joseph Camarda is an American engineer and a NASA astronaut. He flew his first mission into space on board the Space Shuttle mission STS-114 and later served as a senior advisor for engineering development at NASA's Langley Research Center. He was a senior advisor for innovation at the office of the Chief Engineer at NASA's Johnson Space Center.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Charles_J._Camarda.jpg/330px-Charles_J._Camarda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Camarda",
+  "dateOfBirth": "1952-05-08",
+  "birthDateParsed": "1952-05-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.713611111",
+  "birthCoordinatesLng": "-73.828055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut"
+  ],
+  "qid": "Q45080",
+  "birthPlace": "Queens",
+  "fetchedAt": "2026-08-10T06:04:10.267Z"
+}

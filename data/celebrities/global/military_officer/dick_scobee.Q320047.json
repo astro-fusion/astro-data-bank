@@ -1,0 +1,32 @@
+{
+  "publicId": "d91aa480",
+  "wikipediaSlug": "Dick_Scobee",
+  "wikipediaId": "Q320047",
+  "name": "Dick Scobee",
+  "fullName": "Dick Scobee",
+  "profileSummary": "Francis Richard Scobee was an American pilot, engineer, and astronaut. He was killed while commanding the Space Shuttle Challenger in 1986, which suffered catastrophic booster failure during launch of the STS-51-L mission.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Scobee-fr.jpg/330px-Scobee-fr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick_Scobee",
+  "dateOfBirth": "1939-05-19",
+  "birthDateParsed": "1939-05-19",
+  "dateOfDeath": "1986-01-28",
+  "deathDateParsed": "1986-01-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.19525",
+  "birthCoordinatesLng": "-120.940055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut"
+  ],
+  "qid": "Q320047",
+  "birthPlace": "Cle Elum",
+  "fetchedAt": "2026-08-10T06:04:56.490Z"
+}

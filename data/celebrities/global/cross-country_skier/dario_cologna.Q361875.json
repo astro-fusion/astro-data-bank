@@ -1,0 +1,33 @@
+{
+  "publicId": "b4036d9b",
+  "wikipediaSlug": "Dario_Cologna",
+  "wikipediaId": "Q361875",
+  "name": "Dario Cologna",
+  "fullName": "Dario Cologna",
+  "profileSummary": "Dario Cologna is a Swiss retired cross-country skier. He has four overall World Cup victories, four Olympic gold medals, one World Championships gold medal and four Tour de Ski victories in his career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20180128_FIS_NC_WC_Seefeld_Dario_Cologna_850_2445.jpg/330px-20180128_FIS_NC_WC_Seefeld_Dario_Cologna_850_2445.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dario_Cologna",
+  "dateOfBirth": "1986-03-11",
+  "birthDateParsed": "1986-03-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.601666666",
+  "birthCoordinatesLng": "10.424722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cross-country skier",
+    "athletics competitor",
+    "athlete"
+  ],
+  "qid": "Q361875",
+  "birthPlace": "Santa Maria Val Müstair",
+  "fetchedAt": "2026-08-10T12:59:56.190Z"
+}

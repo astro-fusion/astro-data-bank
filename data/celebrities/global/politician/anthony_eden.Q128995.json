@@ -1,0 +1,35 @@
+{
+  "publicId": "c5acaf4f",
+  "wikipediaSlug": "Anthony_Eden",
+  "wikipediaId": "Q128995",
+  "name": "Anthony Eden",
+  "fullName": "Anthony Eden",
+  "profileSummary": "Robert Anthony Eden, 1st Earl of Avon was a British statesman and military officer who served as Prime Minister of the United Kingdom and Leader of the Conservative Party from 1955 until his resignation in 1957.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Georges_Bidault%2C_Anthony_Eden_and_John_Foster_Dulles_%28cropped%29.jpg/330px-Georges_Bidault%2C_Anthony_Eden_and_John_Foster_Dulles_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Eden",
+  "dateOfBirth": "1897-06-12",
+  "birthDateParsed": "1897-06-12",
+  "dateOfDeath": "1977-01-14",
+  "deathDateParsed": "1977-01-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.783333333",
+  "birthCoordinatesLng": "-1.566666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "aristocrat",
+    "head of government",
+    "foreign minister"
+  ],
+  "qid": "Q128995",
+  "birthPlace": "Durham",
+  "fetchedAt": "2026-08-02T05:21:30.131Z"
+}

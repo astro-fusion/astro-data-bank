@@ -1,0 +1,32 @@
+{
+  "publicId": "118bbd53",
+  "wikipediaSlug": "Alex_Padilla",
+  "wikipediaId": "Q4717593",
+  "name": "Alex Padilla",
+  "fullName": "Alex Padilla",
+  "profileSummary": "Alejandro Padilla is an American politician and engineer serving as the senior United States senator from California, a seat he has held since 2021. A member of the Democratic Party, Padilla served as the 29th secretary of state of California from 2015 to 2021 and was a member of the California State Senate and the Los Angeles City Council.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alex_Padilla_117th_Congress_portrait.jpg/330px-Alex_Padilla_117th_Congress_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Padilla",
+  "dateOfBirth": "1973-03-22",
+  "birthDateParsed": "1973-03-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "politician"
+  ],
+  "qid": "Q4717593",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-08-05T03:14:58.893Z"
+}

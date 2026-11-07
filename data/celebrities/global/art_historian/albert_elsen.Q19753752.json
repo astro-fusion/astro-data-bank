@@ -1,0 +1,31 @@
+{
+  "publicId": "e6cec82c",
+  "wikipediaSlug": "Albert_Elsen",
+  "wikipediaId": "Q19753752",
+  "name": "Albert Elsen",
+  "fullName": "Albert Elsen",
+  "profileSummary": "Albert Edward Elsen, Jr. was an American art historian and educator. A scholar of the work of Auguste Rodin, Elsen was the Walter A. Haas Professor in the Humanities at Stanford University.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Elsen",
+  "dateOfBirth": "1927-10-11",
+  "birthDateParsed": "1927-10-11",
+  "dateOfDeath": "1995-02-02",
+  "deathDateParsed": "1995-02-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "art historian"
+  ],
+  "qid": "Q19753752",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-08-04T15:04:49.021Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "4f19f8bd",
+  "wikipediaSlug": "Gao_Xingjian",
+  "wikipediaId": "Q18143",
+  "name": "Gao Xingjian",
+  "fullName": "Gao Xingjian",
+  "profileSummary": "Gao Xingjian is a Chinese émigré and later French naturalized novelist, playwright, critic, painter, photographer, film director, and translator who in 2000 was awarded the Nobel Prize in Literature \"for an oeuvre of universal validity, bitter insights and linguistic ingenuity.\" He is also a noted translator, screenwriter, stage director, and a celebrated painter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gao_Xingjian_%282012%2C_cropped%29.jpg/330px-Gao_Xingjian_%282012%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gao_Xingjian",
+  "dateOfBirth": "1940-01-04",
+  "birthDateParsed": "1940-01-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.840833333",
+  "birthCoordinatesLng": "115.09",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "painter",
+    "translator",
+    "novelist",
+    "playwright",
+    "literary critic",
+    "film director",
+    "screenwriter"
+  ],
+  "qid": "Q18143",
+  "birthPlace": "Ganxian District",
+  "fetchedAt": "2026-08-06T07:41:14.761Z"
+}

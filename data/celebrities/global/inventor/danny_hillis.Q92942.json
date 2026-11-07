@@ -1,0 +1,35 @@
+{
+  "publicId": "3c87fdf3",
+  "wikipediaSlug": "Danny_Hillis",
+  "wikipediaId": "Q92942",
+  "name": "Danny Hillis",
+  "fullName": "Danny Hillis",
+  "profileSummary": "William Daniel Hillis is an American inventor, entrepreneur, and computer scientist, who pioneered parallel computers and their use in artificial intelligence. He founded Thinking Machines Corporation, a parallel supercomputer manufacturer, and subsequently was Vice President of Research and Disney Fellow at Walt Disney Imagineering.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Danny_Hillis%2C_2014_%28crop%29.jpg/330px-Danny_Hillis%2C_2014_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Hillis",
+  "dateOfBirth": "1956-09-25",
+  "birthDateParsed": "1956-09-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.286388888",
+  "birthCoordinatesLng": "-76.615",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "inventor",
+    "computer scientist",
+    "engineer",
+    "entrepreneur",
+    "writer"
+  ],
+  "qid": "Q92942",
+  "birthPlace": "Baltimore",
+  "fetchedAt": "2026-08-05T03:16:55.736Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "636093f6",
+  "wikipediaSlug": "Chris_Evert",
+  "wikipediaId": "Q14286",
+  "name": "Chris Evert",
+  "fullName": "Chris Evert",
+  "profileSummary": "Christine Marie Evert is an American former professional tennis player. One of the most successful players of all time, she was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 260 weeks, and finished as the year-end No. 1 seven times: 1974–1978, 1980 and 1981. Evert won 157 singles titles, including 18 majors. Alongside Martina Navratilova, her greatest rival, Evert dominated women's tennis from the mid-1970s to the mid-1980s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Chris_Evert.jpg/330px-Chris_Evert.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Evert",
+  "dateOfBirth": "1954-12-21",
+  "birthDateParsed": "1954-12-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.135833333",
+  "birthCoordinatesLng": "-80.141944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q14286",
+  "birthPlace": "Fort Lauderdale",
+  "fetchedAt": "2026-08-01T14:59:22.734Z"
+}

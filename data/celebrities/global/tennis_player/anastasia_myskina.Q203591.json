@@ -1,0 +1,31 @@
+{
+  "publicId": "efa8dfc0",
+  "wikipediaSlug": "Anastasia_Myskina",
+  "wikipediaId": "Q203591",
+  "name": "Anastasia Myskina",
+  "fullName": "Anastasia Myskina",
+  "profileSummary": "Anastasia Andreyevna Myskina is a Russian former professional tennis player. Myskina won the 2004 French Open singles title, becoming the first Russian woman to win a major singles title. Due to this victory, she rose to No. 3 in the Women's Tennis Association (WTA) rankings, becoming the first Russian woman to reach the top 3 in the history of the rankings. In September 2004, she reached a career-high ranking of No. 2.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Anastasia_Myskina_in_2008.jpg/330px-Anastasia_Myskina_in_2008.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anastasia_Myskina",
+  "dateOfBirth": "1981-07-08",
+  "birthDateParsed": "1981-07-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q203591",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-08-01T14:58:41.411Z"
+}

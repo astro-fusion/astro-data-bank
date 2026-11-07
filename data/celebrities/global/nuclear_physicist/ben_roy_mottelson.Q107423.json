@@ -1,0 +1,33 @@
+{
+  "publicId": "8e830952",
+  "wikipediaSlug": "Ben_Roy_Mottelson",
+  "wikipediaId": "Q107423",
+  "name": "Ben Roy Mottelson",
+  "fullName": "Ben Roy Mottelson",
+  "profileSummary": "Ben Roy Mottelson was an American-Danish nuclear physicist. He won the 1975 Nobel Prize in Physics for his work on the non-spherical geometry of atomic nuclei.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mottelson%2CBen_1963_Kopenhagen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Roy_Mottelson",
+  "dateOfBirth": "1926-07-09",
+  "birthDateParsed": "1926-07-09",
+  "dateOfDeath": "2022-05-13",
+  "deathDateParsed": "2022-05-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "nuclear physicist",
+    "university teacher",
+    "physicist"
+  ],
+  "qid": "Q107423",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-06T05:01:16.656Z"
+}

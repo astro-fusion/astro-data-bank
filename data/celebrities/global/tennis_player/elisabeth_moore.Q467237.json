@@ -1,0 +1,31 @@
+{
+  "publicId": "ed7f8e9b",
+  "wikipediaSlug": "Elisabeth_Moore",
+  "wikipediaId": "Q467237",
+  "name": "Elisabeth Moore",
+  "fullName": "Elisabeth Moore",
+  "profileSummary": "Elisabeth 'Bessie' Holmes Moore was an American tennis champion who was active at the beginning of the 20th century. Moore won the singles title at the U.S. Championships on four occasions. She was inducted into the International Tennis Hall of Fame in 1971.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Moore_2162906635_5b2a6b4be8_o.jpg/330px-Moore_2162906635_5b2a6b4be8_o.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elisabeth_Moore",
+  "dateOfBirth": "1876-03-05",
+  "birthDateParsed": "1876-03-05",
+  "dateOfDeath": "1959-01-22",
+  "deathDateParsed": "1959-01-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q467237",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-01T14:59:18.790Z"
+}

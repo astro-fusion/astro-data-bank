@@ -1,0 +1,32 @@
+{
+  "publicId": "f8587bb3",
+  "wikipediaSlug": "Jeffrey_Chiesa",
+  "wikipediaId": "Q13420124",
+  "name": "Jeffrey Chiesa",
+  "fullName": "Jeffrey Chiesa",
+  "profileSummary": "Jeffrey Scott Chiesa is an American lawyer and politician who served as a United States senator from New Jersey from June 6 to October 30, 2013. As a member of the Republican Party, he previously served as the 59th attorney general of New Jersey from January 10, 2012, until June 6, 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Jeffrey_Chiesa%2C_official_portrait%2C_113th_Congress.jpg/330px-Jeffrey_Chiesa%2C_official_portrait%2C_113th_Congress.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeffrey_Chiesa",
+  "dateOfBirth": "1965-06-22",
+  "birthDateParsed": "1965-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.568333333",
+  "birthCoordinatesLng": "-74.538333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q13420124",
+  "birthPlace": "Bound Brook",
+  "fetchedAt": "2026-08-02T02:17:30.176Z"
+}

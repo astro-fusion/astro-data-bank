@@ -1,0 +1,31 @@
+{
+  "publicId": "82355600",
+  "wikipediaSlug": "Chris_Holdsworth",
+  "wikipediaId": "Q15243543",
+  "name": "Chris Holdsworth",
+  "fullName": "Chris Holdsworth",
+  "profileSummary": "Chris Holdsworth is an American former mixed martial artist who competed in the Ultimate Fighting Championship. He was the winner of The Ultimate Fighter: Team Rousey vs. Team Tate.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Holdsworth",
+  "dateOfBirth": "1987-10-24",
+  "birthDateParsed": "1987-10-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.1833",
+  "birthCoordinatesLng": "-118.4333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q15243543",
+  "birthPlace": "Van Nuys",
+  "fetchedAt": "2026-08-01T17:05:28.121Z"
+}

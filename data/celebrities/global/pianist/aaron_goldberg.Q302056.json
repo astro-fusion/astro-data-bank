@@ -1,0 +1,33 @@
+{
+  "publicId": "f9c6d406",
+  "wikipediaSlug": "Aaron_Goldberg",
+  "wikipediaId": "Q302056",
+  "name": "Aaron Goldberg",
+  "fullName": "Aaron Goldberg",
+  "profileSummary": "Aaron Goldberg, is an American jazz pianist. Described by The New York Times as a \"post-bop pianist of exemplary taste and range\", Goldberg has released five albums as a solo artist and has performed and collaborated with Joshua Redman, Wynton Marsalis, Kurt Rosenwinkel, and Guillermo Klein, among others.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/RK1912_MG_1666_Aaron_Goldberg.jpg/330px-RK1912_MG_1666_Aaron_Goldberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Goldberg",
+  "dateOfBirth": "1974-04-30",
+  "birthDateParsed": "1974-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "pianist",
+    "jazz musician",
+    "musician"
+  ],
+  "qid": "Q302056",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-05T02:41:57.763Z"
+}

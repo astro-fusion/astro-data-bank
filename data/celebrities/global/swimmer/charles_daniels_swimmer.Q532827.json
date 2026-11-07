@@ -1,0 +1,31 @@
+{
+  "publicId": "b5238cc8",
+  "wikipediaSlug": "Charles_Daniels_(swimmer)",
+  "wikipediaId": "Q532827",
+  "name": "Charles Daniels (swimmer)",
+  "fullName": "Charles Daniels (swimmer)",
+  "profileSummary": "Charles Meldrum Daniels was an American competition swimmer, eight-time Olympic medalist, and world record-holder in two freestyle swimming events. Daniels was an innovator of the front crawl swimming style, helping to develop the \"American crawl\". \n",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Charles_Meldrum_Daniels.jpg/330px-Charles_Meldrum_Daniels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Daniels_(swimmer)",
+  "dateOfBirth": "1885-03-24",
+  "birthDateParsed": "1885-03-24",
+  "dateOfDeath": "1973-08-09",
+  "deathDateParsed": "1973-08-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.766666666",
+  "birthCoordinatesLng": "-84.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q532827",
+  "birthPlace": "Dayton",
+  "fetchedAt": "2026-08-10T12:59:32.312Z"
+}

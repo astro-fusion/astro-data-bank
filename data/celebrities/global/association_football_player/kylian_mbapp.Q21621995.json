@@ -1,0 +1,32 @@
+{
+  "publicId": "4aa5e360",
+  "wikipediaSlug": "Kylian_Mbappé",
+  "wikipediaId": "Q21621995",
+  "name": "Kylian Mbappé",
+  "fullName": "Kylian Mbappé",
+  "profileSummary": "Kylian Mbappé Lottin is a French professional footballer who plays as a forward for La Liga club Real Madrid and captains the France national team. Widely regarded as one of the best players in the world and one of the greatest French players of all time, he is known for his pace, dribbling, and finishing. Mbappé has scored over 400 goals in his senior career, ranking as the all-time top goalscorer for Paris Saint-Germain (256), the France national team (66), and the FIFA World Cup (22).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/330px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+  "dateOfBirth": "1998-12-20",
+  "birthDateParsed": "1998-12-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "athlete"
+  ],
+  "qid": "Q21621995",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-10T11:29:04.364Z"
+}

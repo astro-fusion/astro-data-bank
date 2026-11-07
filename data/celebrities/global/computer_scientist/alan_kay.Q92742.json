@@ -1,0 +1,35 @@
+{
+  "publicId": "146a7a37",
+  "wikipediaSlug": "Alan_Kay",
+  "wikipediaId": "Q92742",
+  "name": "Alan Kay",
+  "fullName": "Alan Kay",
+  "profileSummary": "Alan Curtis Kay is an American computer scientist who pioneered work on object-oriented programming and windowing graphical user interface (GUI) design. At Xerox PARC he led the design and development of the first modern windowed computer desktop interface. There he also led the development of the influential object-oriented programming language Smalltalk, both personally designing most of the early versions of the language and coining the term \"object-oriented.\"\nHe has been elected a Fellow of the American Academy of Arts and Sciences, the National Academy of Engineering, and the Royal Society of Arts. He received the Turing Award in 2003.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Alan_Kay_and_the_prototype_of_the_Dynabook_%283009206205%29.jpg/330px-Alan_Kay_and_the_prototype_of_the_Dynabook_%283009206205%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Kay",
+  "dateOfBirth": "1940-05-17",
+  "birthDateParsed": "1940-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.112411",
+  "birthCoordinatesLng": "-72.547455",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "programmer",
+    "jazz musician",
+    "university teacher",
+    "jazz guitarist"
+  ],
+  "qid": "Q92742",
+  "birthPlace": "Springfield",
+  "fetchedAt": "2026-08-10T04:28:16.392Z"
+}

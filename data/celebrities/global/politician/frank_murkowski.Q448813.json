@@ -1,0 +1,33 @@
+{
+  "publicId": "a703e515",
+  "wikipediaSlug": "Frank_Murkowski",
+  "wikipediaId": "Q448813",
+  "name": "Frank Murkowski",
+  "fullName": "Frank Murkowski",
+  "profileSummary": "Frank Hughes Murkowski is an American politician. A member of the Republican Party, he served as a United States senator representing Alaska from 1981 to 2002 and as the eighth governor of Alaska from 2002 to 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frank_Murkowski_%28R-AK%29_%28cropped%29.jpg/330px-Frank_Murkowski_%28R-AK%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Murkowski",
+  "dateOfBirth": "1933-03-28",
+  "birthDateParsed": "1933-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.605",
+  "birthCoordinatesLng": "-122.33",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "banker",
+    "governor"
+  ],
+  "qid": "Q448813",
+  "birthPlace": "Seattle",
+  "fetchedAt": "2026-08-02T02:16:39.053Z"
+}

@@ -1,0 +1,39 @@
+{
+  "publicId": "ce491a9d",
+  "wikipediaSlug": "Desmond_Tutu",
+  "wikipediaId": "Q43033",
+  "name": "Desmond Tutu",
+  "fullName": "Desmond Tutu",
+  "profileSummary": "Desmond Mpilo Tutu was a South African Anglican bishop and theologian, known for his work as an anti-apartheid and human rights activist. He was Bishop of Johannesburg from 1985 to 1986 and then Archbishop of Cape Town from 1986 to 1996, in both cases being the first black African to hold the position. Theologically, he sought to fuse ideas from black theology with African theology.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Archbishop-Tutu-medium.jpg/330px-Archbishop-Tutu-medium.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Desmond_Tutu",
+  "dateOfBirth": "1931-10-07",
+  "birthDateParsed": "1931-10-07",
+  "dateOfDeath": "2021-12-26",
+  "deathDateParsed": "2021-12-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.075",
+  "birthCoordinatesLng": "27.753",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Anglican priest",
+    "human rights defender",
+    "non-fiction writer",
+    "Protestant theologian",
+    "archbishop",
+    "political activist",
+    "anti-apartheid activist",
+    "Q137178813",
+    "cleric"
+  ],
+  "qid": "Q43033",
+  "birthPlace": "Munsieville",
+  "fetchedAt": "2026-08-04T02:13:16.941Z"
+}

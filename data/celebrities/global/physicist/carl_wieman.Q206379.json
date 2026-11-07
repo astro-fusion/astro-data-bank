@@ -1,0 +1,34 @@
+{
+  "publicId": "a5bacaba",
+  "wikipediaSlug": "Carl_Wieman",
+  "wikipediaId": "Q206379",
+  "name": "Carl Wieman",
+  "fullName": "Carl Wieman",
+  "profileSummary": "Carl Edwin Wieman is an American physicist and educationist at Stanford University, and currently the A. D. White Professor at Large at Cornell University. In 1995, while at the University of Colorado Boulder, he and Eric Allin Cornell produced the first true Bose–Einstein condensate (BEC), an ultracold state of matter using rubidium atoms. In 2001, they shared the Nobel Prize in Physics with Wolfgang Ketterle “for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates”.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Carl_Wieman_in_2024_01.jpg/330px-Carl_Wieman_in_2024_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Wieman",
+  "dateOfBirth": "1951-03-26",
+  "birthDateParsed": "1951-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.570780555",
+  "birthCoordinatesLng": "-123.275997222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher",
+    "academic",
+    "educational theorist"
+  ],
+  "qid": "Q206379",
+  "birthPlace": "Corvallis",
+  "fetchedAt": "2026-08-06T05:01:07.134Z"
+}

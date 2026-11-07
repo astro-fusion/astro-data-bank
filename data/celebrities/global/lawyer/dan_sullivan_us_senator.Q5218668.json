@@ -1,0 +1,33 @@
+{
+  "publicId": "7c3fdea4",
+  "wikipediaSlug": "Dan_Sullivan_(U.S._senator)",
+  "wikipediaId": "Q5218668",
+  "name": "Dan Sullivan (U.S. senator)",
+  "fullName": "Dan Sullivan (U.S. senator)",
+  "profileSummary": "Daniel Scott Sullivan is an American politician, attorney, and Marine Corps veteran serving since 2015 as the junior United States senator from the state of Alaska. A member of the Republican Party, Sullivan served from 2010 to 2013 as commissioner of the Alaska Department of Natural Resources and from 2009 to 2010 as Alaska attorney general.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/330px-Senator_Dan_Sullivan_official.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+  "dateOfBirth": "1964-11-13",
+  "birthDateParsed": "1964-11-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.4417",
+  "birthCoordinatesLng": "-81.8575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "journalist"
+  ],
+  "qid": "Q5218668",
+  "birthPlace": "Fairview Park",
+  "fetchedAt": "2026-08-02T02:16:51.918Z"
+}

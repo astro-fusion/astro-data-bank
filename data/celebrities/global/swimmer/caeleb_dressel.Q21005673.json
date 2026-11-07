@@ -1,0 +1,31 @@
+{
+  "publicId": "b2e4bd26",
+  "wikipediaSlug": "Caeleb_Dressel",
+  "wikipediaId": "Q21005673",
+  "name": "Caeleb Dressel",
+  "fullName": "Caeleb Dressel",
+  "profileSummary": "Caeleb Remel Dressel is an American competitive swimmer who specializes in freestyle, butterfly, and individual medley events. He won a record seven gold medals at the 2017 World Aquatics Championships in Budapest, nine medals, six of which were gold, at the 2018 World Short Course Swimming Championships in Hangzhou, and eight medals, including six gold, at the 2019 World Aquatics Championships in Gwangju. Dressel is a nine-time Olympic gold medalist and holds world records in the 100 meter butterfly, and 100 meter individual medley.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Caeleb_Dressel_before_winning_100_fly_%2842769914221%29_%28cropped%29.jpg/330px-Caeleb_Dressel_before_winning_100_fly_%2842769914221%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caeleb_Dressel",
+  "dateOfBirth": "1996-08-16",
+  "birthDateParsed": "1996-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.168611111",
+  "birthCoordinatesLng": "-81.708611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer"
+  ],
+  "qid": "Q21005673",
+  "birthPlace": "Orange Park",
+  "fetchedAt": "2026-08-10T12:59:08.870Z"
+}

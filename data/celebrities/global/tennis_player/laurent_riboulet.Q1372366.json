@@ -1,0 +1,31 @@
+{
+  "publicId": "e486310a",
+  "wikipediaSlug": "Laurent_Riboulet",
+  "wikipediaId": "Q1372366",
+  "name": "Laurent Riboulet",
+  "fullName": "Laurent Riboulet",
+  "profileSummary": "Laurent Riboulet was a tennis player competing for France. He reached two singles finals at the Amateur French Championships, winning in 1893 over defending champion Jean Schopfer, and losing in 1895 to 1894 winner André Vacherot.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Laurent_Riboulet_%28milieu_du_XIXe_si%C3%A8cle%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laurent_Riboulet",
+  "dateOfBirth": "1871-04-18",
+  "birthDateParsed": "1871-04-18",
+  "dateOfDeath": "1960-09-04",
+  "deathDateParsed": "1960-09-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.631944444",
+  "birthCoordinatesLng": "3.0575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q1372366",
+  "birthPlace": "Lille",
+  "fetchedAt": "2026-08-01T13:11:52.653Z"
+}

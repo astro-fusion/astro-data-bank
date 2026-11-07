@@ -1,0 +1,31 @@
+{
+  "publicId": "41a041f8",
+  "wikipediaSlug": "AB_de_Villiers",
+  "wikipediaId": "Q3011889",
+  "name": "AB de Villiers",
+  "fullName": "AB de Villiers",
+  "profileSummary": "Abraham Benjamin de Villiers is a South African former professional cricketer, widely recognised as one of the greatest batters of all time. While primarily a batter, he also played as a wicket-keeper.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/AB_de_Villiers_2.jpg/330px-AB_de_Villiers_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/AB_de_Villiers",
+  "dateOfBirth": "1984-02-17",
+  "birthDateParsed": "1984-02-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-25.746388888",
+  "birthCoordinatesLng": "28.188055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3011889",
+  "birthPlace": "Pretoria",
+  "fetchedAt": "2026-07-31T20:19:44.115Z"
+}

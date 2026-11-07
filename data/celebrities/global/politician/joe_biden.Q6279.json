@@ -1,0 +1,36 @@
+{
+  "publicId": "c9fc2801",
+  "wikipediaSlug": "Joe_Biden",
+  "wikipediaId": "Q6279",
+  "name": "Joe Biden",
+  "fullName": "Joe Biden",
+  "profileSummary": "Joseph Robinette Biden Jr. is an American former politician who was the 46th president of the United States from 2021 to 2025. A member of the Democratic Party, he represented Delaware in the United States Senate from 1973 to 2009 and also served as the 47th vice president under President Barack Obama from 2009 to 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/330px-Joe_Biden_presidential_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Biden",
+  "dateOfBirth": "1942-11-20",
+  "birthDateParsed": "1942-11-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.408969",
+  "birthCoordinatesLng": "-75.6624122",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "university teacher",
+    "writer",
+    "diplomat",
+    "jurist"
+  ],
+  "qid": "Q6279",
+  "birthPlace": "Scranton",
+  "fetchedAt": "2026-08-02T02:17:32.814Z"
+}

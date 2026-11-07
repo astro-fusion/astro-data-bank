@@ -1,0 +1,37 @@
+{
+  "publicId": "7b3f4765",
+  "wikipediaSlug": "James_A._Garfield",
+  "wikipediaId": "Q34597",
+  "name": "James A. Garfield",
+  "fullName": "James A. Garfield",
+  "profileSummary": "James Abram Garfield was the 20th president of the United States, serving from March 1881 until his death in September that year after being shot in July. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before he ran for president, the Ohio General Assembly had elected him to the U.S. Senate, a position he declined upon becoming president-elect.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/330px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_A._Garfield",
+  "dateOfBirth": "1831-11-19",
+  "birthDateParsed": "1831-11-19",
+  "dateOfDeath": "1881-09-19",
+  "deathDateParsed": "1881-09-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.4406",
+  "birthCoordinatesLng": "-81.4253",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "statesperson",
+    "writer",
+    "military personnel",
+    "major general",
+    "jurist"
+  ],
+  "qid": "Q34597",
+  "birthPlace": "Moreland Hills",
+  "fetchedAt": "2026-08-01T18:08:30.548Z"
+}

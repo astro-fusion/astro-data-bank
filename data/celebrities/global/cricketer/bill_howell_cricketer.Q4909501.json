@@ -1,0 +1,31 @@
+{
+  "publicId": "54c2a4b8",
+  "wikipediaSlug": "Bill_Howell_(cricketer)",
+  "wikipediaId": "Q4909501",
+  "name": "Bill Howell (cricketer)",
+  "fullName": "Bill Howell (cricketer)",
+  "profileSummary": "William Peter Howell was an Australian cricketer who played in 18 Test matches between 1898 and 1904.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bill_Howell_c1899cr.jpg/330px-Bill_Howell_c1899cr.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Howell_(cricketer)",
+  "dateOfBirth": "1869-12-29",
+  "birthDateParsed": "1869-12-29",
+  "dateOfDeath": "1950-01-01",
+  "deathDateParsed": "1950-01-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4909501",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T19:45:06.902Z"
+}

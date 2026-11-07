@@ -1,0 +1,35 @@
+{
+  "publicId": "c060555e",
+  "wikipediaSlug": "Wilt_Chamberlain",
+  "wikipediaId": "Q182455",
+  "name": "Wilt Chamberlain",
+  "fullName": "Wilt Chamberlain",
+  "profileSummary": "Wilton Norman Chamberlain was an American professional basketball player. Standing 7 feet 1 inch (2.16 m) tall, he played center in the National Basketball Association (NBA) for 14 seasons. He was enshrined in the Naismith Memorial Basketball Hall of Fame in 1978, and was elected to the NBA's 35th, 50th, and 75th anniversary teams. Chamberlain is widely considered to be one of the greatest basketball players of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wilt_Chamberlain_1960_%28cropped%29_%28cropped%29.jpg/330px-Wilt_Chamberlain_1960_%28cropped%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilt_Chamberlain",
+  "dateOfBirth": "1936-08-21",
+  "birthDateParsed": "1936-08-21",
+  "dateOfDeath": "1999-10-12",
+  "deathDateParsed": "1999-10-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "screenwriter",
+    "actor",
+    "volleyball player"
+  ],
+  "qid": "Q182455",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-01T15:38:08.426Z"
+}

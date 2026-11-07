@@ -1,0 +1,34 @@
+{
+  "publicId": "4d206428",
+  "wikipediaSlug": "Muhammad_Yunus",
+  "wikipediaId": "Q43969",
+  "name": "Muhammad Yunus",
+  "fullName": "Muhammad Yunus",
+  "profileSummary": "Muhammad Yunus is a Bangladeshi economist and statesman. Yunus pioneered the modern concept of microcredit and microfinance, for which he was awarded the Nobel Peace Prize in 2006. He is the founder of Grameen Bank and the first Bangladeshi to win the Nobel Peace Prize. Following the July Uprising, he was appointed as the 5th chief adviser of Bangladesh, the head of the interim government, serving from 2024 to 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Muhammad_Yunus_speaking_at_Jamuna_State_Guesthouse%2C_Dhaka_2026-02-16_%28cropped%29.jpg/330px-Muhammad_Yunus_speaking_at_Jamuna_State_Guesthouse%2C_Dhaka_2026-02-16_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Yunus",
+  "dateOfBirth": "1940-06-28",
+  "birthDateParsed": "1940-06-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.41666667",
+  "birthCoordinatesLng": "91.86666667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "entrepreneur",
+    "university teacher",
+    "banker"
+  ],
+  "qid": "Q43969",
+  "birthPlace": "Shikarpur Union",
+  "fetchedAt": "2026-08-04T02:13:56.971Z"
+}

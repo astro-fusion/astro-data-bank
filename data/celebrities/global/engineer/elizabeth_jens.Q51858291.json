@@ -1,0 +1,31 @@
+{
+  "publicId": "e8caffa9",
+  "wikipediaSlug": "Elizabeth_Jens",
+  "wikipediaId": "Q51858291",
+  "name": "Elizabeth Jens",
+  "fullName": "Elizabeth Jens",
+  "profileSummary": "Elizabeth Jens is an Australian propulsion engineer who works at the NASA Jet Propulsion Laboratory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Beth_Jens_at_the_NASA_Jet_Propulsion_Laboratory.jpg/330px-Beth_Jens_at_the_NASA_Jet_Propulsion_Laboratory.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Jens",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-38.333333333",
+  "birthCoordinatesLng": "144.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer"
+  ],
+  "qid": "Q51858291",
+  "birthPlace": "Torquay",
+  "fetchedAt": "2026-08-04T15:06:25.789Z"
+}

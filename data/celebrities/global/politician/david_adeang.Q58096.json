@@ -1,0 +1,31 @@
+{
+  "publicId": "6179b3a0",
+  "wikipediaSlug": "David_Adeang",
+  "wikipediaId": "Q58096",
+  "name": "David Adeang",
+  "fullName": "David Adeang",
+  "profileSummary": "David Ranibok Waiau Adeang is a Nauruan politician, currently serving as President of Nauru. Adeang is the former Speaker of the Parliament of Nauru, and Nauru's Minister of Finance and Justice, as well as the Minister Assisting the President of Nauru.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/David_Adeang_%28cropped%29.jpg/330px-David_Adeang_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Adeang",
+  "dateOfBirth": "1969-11-24",
+  "birthDateParsed": "1969-11-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-0.5275",
+  "birthCoordinatesLng": "166.935",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q58096",
+  "birthPlace": "Naoero",
+  "fetchedAt": "2026-08-03T16:50:33.508Z"
+}

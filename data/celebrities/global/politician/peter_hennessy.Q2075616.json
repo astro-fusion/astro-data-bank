@@ -1,0 +1,33 @@
+{
+  "publicId": "e57332ee",
+  "wikipediaSlug": "Peter_Hennessy",
+  "wikipediaId": "Q2075616",
+  "name": "Peter Hennessy",
+  "fullName": "Peter Hennessy",
+  "profileSummary": "Peter John Hennessy, Baron Hennessy of Nympsfield, is an English historian and academic specialising in the history of government. Since 1992, he has been Attlee Professor of Contemporary British History at Queen Mary University of London. In 2026, he was appointed a Knight Companion of the Order of the Garter by King Charles III.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Official_portrait_of_Lord_Hennessy_of_Nympsfield_crop_2%2C_2019.jpg/330px-Official_portrait_of_Lord_Hennessy_of_Nympsfield_crop_2%2C_2019.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Hennessy",
+  "dateOfBirth": "1947-03-28",
+  "birthDateParsed": "1947-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.6154",
+  "birthCoordinatesLng": "-0.0708",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "historian",
+    "journalist"
+  ],
+  "qid": "Q2075616",
+  "birthPlace": "Edmonton",
+  "fetchedAt": "2026-08-02T05:22:53.938Z"
+}

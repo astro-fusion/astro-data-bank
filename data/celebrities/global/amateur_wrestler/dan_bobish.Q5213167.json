@@ -1,0 +1,32 @@
+{
+  "publicId": "afe5ca30",
+  "wikipediaSlug": "Dan_Bobish",
+  "wikipediaId": "Q5213167",
+  "name": "Dan Bobish",
+  "fullName": "Dan Bobish",
+  "profileSummary": "Daniel Emerson Bobish is a retired American mixed martial artist and professional wrestler. He was competing in the Super Heavyweight division. He is a former King of the Cage Super Heavyweight Champion. Bobish has fought in many MMA organizations including PRIDE Fighting Championships, the Ultimate Fighting Championship, Gladiator Challenge and King of the Cage. His fights typically did not go past the first round with the average length of his fights being 2:43.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Bobish",
+  "dateOfBirth": "1970-01-26",
+  "birthDateParsed": "1970-01-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.5",
+  "birthCoordinatesLng": "-82.5",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "amateur wrestler",
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q5213167",
+  "birthPlace": "Ohio",
+  "fetchedAt": "2026-08-01T17:04:59.716Z"
+}

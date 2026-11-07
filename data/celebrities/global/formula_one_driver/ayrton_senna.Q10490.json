@@ -1,0 +1,34 @@
+{
+  "publicId": "16261064",
+  "wikipediaSlug": "Ayrton_Senna",
+  "wikipediaId": "Q10490",
+  "name": "Ayrton Senna",
+  "fullName": "Ayrton Senna",
+  "profileSummary": "Ayrton Senna da Silva was a Brazilian racing driver and philanthropist who competed in Formula One from 1984 to 1994. Senna won three Formula One World Drivers' Championship titles with McLaren, and—at the time of his death—held the record for most pole positions (65), among others; he won 41 Grands Prix across 11 seasons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ayrton_Senna_Pesawat_RC_Cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+  "dateOfBirth": "1960-03-21",
+  "birthDateParsed": "1960-03-21",
+  "dateOfDeath": "1994-05-01",
+  "deathDateParsed": "1994-05-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver",
+    "businessperson",
+    "philanthropist"
+  ],
+  "qid": "Q10490",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-01T16:01:22.596Z"
+}

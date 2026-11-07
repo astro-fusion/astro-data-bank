@@ -1,0 +1,31 @@
+{
+  "publicId": "27ed5a65",
+  "wikipediaSlug": "Mary_Carter_Reitano",
+  "wikipediaId": "Q434596",
+  "name": "Mary Carter Reitano",
+  "fullName": "Mary Carter Reitano",
+  "profileSummary": "Mary Carter Reitano is a former tennis player from Australia.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mary_Carter_Reitano",
+  "dateOfBirth": "1934-11-29",
+  "birthDateParsed": "1934-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q434596",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-01T15:00:39.556Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "14507392",
+  "wikipediaSlug": "Miriam_Adelson",
+  "wikipediaId": "Q55950925",
+  "name": "Miriam Adelson",
+  "fullName": "Miriam Adelson",
+  "profileSummary": "Miriam Adelson is an Israeli-American physician, businesswoman, philanthropist, and conservative political donor. She was married to Sheldon Adelson until his death in 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Miriam_Adelson_2023.jpg/330px-Miriam_Adelson_2023.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miriam_Adelson",
+  "dateOfBirth": "1945-10-10",
+  "birthDateParsed": "1945-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.08",
+  "birthCoordinatesLng": "34.78",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "publisher",
+    "physician"
+  ],
+  "qid": "Q55950925",
+  "birthPlace": "Tel Aviv",
+  "fetchedAt": "2026-08-04T03:00:39.638Z"
+}

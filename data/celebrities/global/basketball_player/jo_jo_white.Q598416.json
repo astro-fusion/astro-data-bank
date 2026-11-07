@@ -1,0 +1,34 @@
+{
+  "publicId": "58103b69",
+  "wikipediaSlug": "Jo_Jo_White",
+  "wikipediaId": "Q598416",
+  "name": "Jo Jo White",
+  "fullName": "Jo Jo White",
+  "profileSummary": "Joseph Henry White was an American professional basketball player. He played college basketball for the Kansas Jayhawks, where he was named a second-team All-American twice. White was part of the U.S. men's basketball team during the 1968 Summer Olympics, winning a gold medal with the team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jojo_white_press_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo_Jo_White",
+  "dateOfBirth": "1946-11-16",
+  "birthDateParsed": "1946-11-16",
+  "dateOfDeath": "2018-01-16",
+  "deathDateParsed": "2018-01-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.626388888",
+  "birthCoordinatesLng": "-90.199444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach",
+    "restaurateur",
+    "actor"
+  ],
+  "qid": "Q598416",
+  "birthPlace": "St. Louis",
+  "fetchedAt": "2026-08-01T15:37:52.635Z"
+}

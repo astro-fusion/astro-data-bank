@@ -1,0 +1,32 @@
+{
+  "publicId": "46052737",
+  "wikipediaSlug": "Scott_Morrison",
+  "wikipediaId": "Q7436908",
+  "name": "Scott Morrison",
+  "fullName": "Scott Morrison",
+  "profileSummary": "Scott John Morrison is an Australian former politician who served as the 30th prime minister of Australia and the leader of the Liberal Party from 2018 to 2022. He was the member of parliament (MP) for the New South Wales division of Cook from 2007 to 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Scott_Morrison_portrait_%283x4_cropped%29.jpg/330px-Scott_Morrison_portrait_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_Morrison",
+  "dateOfBirth": "1968-05-13",
+  "birthDateParsed": "1968-05-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "head of government"
+  ],
+  "qid": "Q7436908",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-03T12:58:47.782Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "a04966b1",
+  "wikipediaSlug": "Michael_O._Rabin",
+  "wikipediaId": "Q357965",
+  "name": "Michael O. Rabin",
+  "fullName": "Michael O. Rabin",
+  "profileSummary": "Michael Oser Rabin was a computer scientist who was co-recipient, with Dana Scott, of the 1976 ACM Turing Award for their work on computational complexity.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/M_O_Rabin.jpg/330px-M_O_Rabin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+  "dateOfBirth": "1931-09-01",
+  "birthDateParsed": "1931-09-01",
+  "dateOfDeath": "2026-04-14",
+  "deathDateParsed": "2026-04-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.11",
+  "birthCoordinatesLng": "17.0325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "mathematician",
+    "cryptographer",
+    "pedagogue",
+    "university teacher"
+  ],
+  "qid": "Q357965",
+  "birthPlace": "Wrocław",
+  "fetchedAt": "2026-08-10T04:29:20.555Z"
+}

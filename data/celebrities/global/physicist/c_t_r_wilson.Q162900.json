@@ -1,0 +1,35 @@
+{
+  "publicId": "5e81e832",
+  "wikipediaSlug": "C._T._R._Wilson",
+  "wikipediaId": "Q162900",
+  "name": "C. T. R. Wilson",
+  "fullName": "C. T. R. Wilson",
+  "profileSummary": "Charles Thomson Rees Wilson was a British meteorologist and physicist who shared the 1927 Nobel Prize in Physics with Arthur Compton for his invention of the cloud chamber.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/CTR_Wilson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C._T._R._Wilson",
+  "dateOfBirth": "1869-02-14",
+  "birthDateParsed": "1869-02-14",
+  "dateOfDeath": "1959-11-15",
+  "deathDateParsed": "1959-11-15",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.8507",
+  "birthCoordinatesLng": "-3.2042",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "meteorologist",
+    "university teacher",
+    "chemist",
+    "scholar"
+  ],
+  "qid": "Q162900",
+  "birthPlace": "Glencorse",
+  "fetchedAt": "2026-08-06T05:01:18.617Z"
+}

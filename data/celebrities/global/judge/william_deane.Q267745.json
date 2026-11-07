@@ -1,0 +1,33 @@
+{
+  "publicId": "a57d8504",
+  "wikipediaSlug": "William_Deane",
+  "wikipediaId": "Q267745",
+  "name": "William Deane",
+  "fullName": "William Deane",
+  "profileSummary": "Sir William Patrick Deane is an Australian barrister and jurist who served as the 22nd governor-general of Australia from 1996 to 2001. He was previously a Justice of the High Court of Australia from 1982 to 1995, during which time he was one of the judges who decided in favour of Eddie Mabo in the Mabo case.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/William_Deane_official_portrait.jpg/330px-William_Deane_official_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Deane",
+  "dateOfBirth": "1931-01-04",
+  "birthDateParsed": "1931-01-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.864",
+  "birthCoordinatesLng": "144.982",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q267745",
+  "birthPlace": "St Kilda",
+  "fetchedAt": "2026-08-03T12:59:09.658Z"
+}

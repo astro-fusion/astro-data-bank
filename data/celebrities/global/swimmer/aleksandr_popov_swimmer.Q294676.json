@@ -1,0 +1,32 @@
+{
+  "publicId": "062a0a83",
+  "wikipediaSlug": "Aleksandr_Popov_(swimmer)",
+  "wikipediaId": "Q294676",
+  "name": "Aleksandr Popov (swimmer)",
+  "fullName": "Aleksandr Popov (swimmer)",
+  "profileSummary": "Aleksandr Vladimirovich Popov, better known as Alexander Popov, is a Russian former swimmer. Widely considered the greatest sprint swimmer in history, Popov won gold in the 50-metre and 100 m freestyle at the 1992 Olympics and repeated the feat at the 1996 Olympics, and is the only male in Olympic games history to defend both titles. He held the world record in the 50 m for eight years, and the 100 m for six. In 2003, aged 31, he won 50 m and 100 m gold at the 2003 World Championships.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Alexander_Popov_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Popov_(swimmer)",
+  "dateOfBirth": "1971-11-16",
+  "birthDateParsed": "1971-11-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "58.633333333",
+  "birthCoordinatesLng": "59.783333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer",
+    "politician"
+  ],
+  "qid": "Q294676",
+  "birthPlace": "Lesnoy",
+  "fetchedAt": "2026-08-10T12:58:15.778Z"
+}

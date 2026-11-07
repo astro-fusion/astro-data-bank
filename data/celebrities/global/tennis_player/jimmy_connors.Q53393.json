@@ -1,0 +1,32 @@
+{
+  "publicId": "3a4fe3fb",
+  "wikipediaSlug": "Jimmy_Connors",
+  "wikipediaId": "Q53393",
+  "name": "Jimmy Connors",
+  "fullName": "Jimmy Connors",
+  "profileSummary": "James Scott Connors is an American former professional tennis player as well as an author, a tennis commentator, and a coach. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 268 weeks, and finished as the year-end No. 1 five times. Known for his fiery competitiveness, Connors holds three prominent Open Era men's singles records: 109 titles, 1,557 matches played, and 1,274 match wins. His titles include eight singles majors and three year-end championships. In 1974, he became the second man in the Open Era to win three major titles in a calendar year; he was not permitted to participate in the fourth, the French Open. His playing career ended in 1996.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Jimmy_Conners_1994.jpg/330px-Jimmy_Conners_1994.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Connors",
+  "dateOfBirth": "1952-09-02",
+  "birthDateParsed": "1952-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.625",
+  "birthCoordinatesLng": "-90.1575",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "tennis coach"
+  ],
+  "qid": "Q53393",
+  "birthPlace": "East St. Louis",
+  "fetchedAt": "2026-08-01T13:11:39.649Z"
+}

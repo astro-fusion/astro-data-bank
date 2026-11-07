@@ -1,0 +1,32 @@
+{
+  "publicId": "324aea20",
+  "wikipediaSlug": "Brian_Horton",
+  "wikipediaId": "Q4964101",
+  "name": "Brian Horton",
+  "fullName": "Brian Horton",
+  "profileSummary": "Brian \"Nobby\" Horton is an English former footballer and manager. He spent 16 years as a professional player and 22 years as a manager, making 690 appearances and managing 1,098 matches. In addition to this, he spent four years as a semi-professional player and around 11 years as a coach and assistant manager.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Horton",
+  "dateOfBirth": "1949-02-04",
+  "birthDateParsed": "1949-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.7115",
+  "birthCoordinatesLng": "-2.0006",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q4964101",
+  "birthPlace": "Hednesford",
+  "fetchedAt": "2026-08-01T05:20:54.480Z"
+}

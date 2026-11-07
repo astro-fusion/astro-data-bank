@@ -1,0 +1,31 @@
+{
+  "publicId": "54b6d965",
+  "wikipediaSlug": "Billy_Frank_(cricketer)",
+  "wikipediaId": "Q4912567",
+  "name": "Billy Frank (cricketer)",
+  "fullName": "Billy Frank (cricketer)",
+  "profileSummary": "William Hughes Bowker Frank was a South African cricketer who played in one Test in 1896.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Frank_(cricketer)",
+  "dateOfBirth": "1872-11-23",
+  "birthDateParsed": "1872-11-23",
+  "dateOfDeath": "1945-02-16",
+  "deathDateParsed": "1945-02-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4912567",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T20:20:43.424Z"
+}

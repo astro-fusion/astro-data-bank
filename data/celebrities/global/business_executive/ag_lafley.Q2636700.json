@@ -1,0 +1,32 @@
+{
+  "publicId": "1b342005",
+  "wikipediaSlug": "A.G._Lafley",
+  "wikipediaId": "Q2636700",
+  "name": "A.G. Lafley",
+  "fullName": "A.G. Lafley",
+  "profileSummary": "Alan George \"A. G.\" Lafley is an American businessman who led consumer goods maker Procter & Gamble (P&G) for two separate stints, from 2000 to 2010 and again from 2013 to 2015, during which he served as chairman, president and CEO. In 2015, he stepped down as CEO to become executive chairman of P&G, eventually retiring in June 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/A.G._Lafley_Company_Photo.jpg/330px-A.G._Lafley_Company_Photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A.G._Lafley",
+  "dateOfBirth": "1947-06-13",
+  "birthDateParsed": "1947-06-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.933611111",
+  "birthCoordinatesLng": "-72.278055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "business executive",
+    "businessperson"
+  ],
+  "qid": "Q2636700",
+  "birthPlace": "Keene",
+  "fetchedAt": "2026-08-05T02:41:59.781Z"
+}

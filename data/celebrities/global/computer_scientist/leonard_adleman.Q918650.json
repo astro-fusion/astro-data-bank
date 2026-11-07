@@ -1,0 +1,36 @@
+{
+  "publicId": "dd6ca5da",
+  "wikipediaSlug": "Leonard_Adleman",
+  "wikipediaId": "Q918650",
+  "name": "Leonard Adleman",
+  "fullName": "Leonard Adleman",
+  "profileSummary": "Leonard Max Adleman is an American computer scientist. He is one of the creators of the RSA encryption algorithm, for which he received the 2002 Turing Award. He is also known for the creation of the field of DNA computing and coining the term computer virus.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Len-mankin-pic.jpg/330px-Len-mankin-pic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonard_Adleman",
+  "dateOfBirth": "1945-12-31",
+  "birthDateParsed": "1945-12-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "mathematician",
+    "cryptographer",
+    "molecular biologist",
+    "programmer",
+    "university teacher"
+  ],
+  "qid": "Q918650",
+  "birthPlace": "San Francisco",
+  "fetchedAt": "2026-08-10T04:28:57.211Z"
+}

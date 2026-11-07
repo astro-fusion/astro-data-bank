@@ -1,0 +1,37 @@
+{
+  "publicId": "9e9b2555",
+  "wikipediaSlug": "Gordon_Brown",
+  "wikipediaId": "Q10648",
+  "name": "Gordon Brown",
+  "fullName": "Gordon Brown",
+  "profileSummary": "James Gordon Brown is a British politician who served as Prime Minister of the United Kingdom and Leader of the Labour Party from 2007 to 2010. Previously, he was Chancellor of the Exchequer from 1997 to 2007 under Tony Blair. Brown was Member of Parliament (MP) for Dunfermline East from 1983 to 2005 and for Kirkcaldy and Cowdenbeath from 2005 to 2015. He has served as United Nations Special Envoy for Global Education since 2012, and he was appointed as World Health Organization Ambassador for Global Health Financing in 2021. In 2026, Prime Minister Keir Starmer appointed Brown as a Special Envoy on Global Finance and Cooperation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gordon_Brown_%282008%29.jpg/330px-Gordon_Brown_%282008%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Brown",
+  "dateOfBirth": "1951-02-20",
+  "birthDateParsed": "1951-02-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.798333333",
+  "birthCoordinatesLng": "-4.290555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "journalist",
+    "biographer",
+    "autobiographer",
+    "historian",
+    "university teacher",
+    "minister"
+  ],
+  "qid": "Q10648",
+  "birthPlace": "Giffnock",
+  "fetchedAt": "2026-08-02T05:22:08.157Z"
+}

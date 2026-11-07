@@ -1,0 +1,31 @@
+{
+  "publicId": "bc940915",
+  "wikipediaSlug": "Alick_Bannerman",
+  "wikipediaId": "Q339119",
+  "name": "Alick Bannerman",
+  "fullName": "Alick Bannerman",
+  "profileSummary": "Alexander Chalmers Bannerman was an Australian cricketer who played in 28 Test matches between 1879 and 1893.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Alick_Bannerman_c1895b.jpg/330px-Alick_Bannerman_c1895b.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alick_Bannerman",
+  "dateOfBirth": "1854-03-21",
+  "birthDateParsed": "1854-03-21",
+  "dateOfDeath": "1924-09-19",
+  "deathDateParsed": "1924-09-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.8848",
+  "birthCoordinatesLng": "151.226",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q339119",
+  "birthPlace": "Paddington",
+  "fetchedAt": "2026-07-31T19:43:49.707Z"
+}

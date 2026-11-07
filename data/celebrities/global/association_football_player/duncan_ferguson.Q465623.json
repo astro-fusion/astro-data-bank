@@ -1,0 +1,32 @@
+{
+  "publicId": "69603361",
+  "wikipediaSlug": "Duncan_Ferguson",
+  "wikipediaId": "Q465623",
+  "name": "Duncan Ferguson",
+  "fullName": "Duncan Ferguson",
+  "profileSummary": "Duncan Cowan Ferguson is a Scottish football manager and former player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duncan_Ferguson%2C_November_2019.jpg/330px-Duncan_Ferguson%2C_November_2019.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Duncan_Ferguson",
+  "dateOfBirth": "1971-12-27",
+  "birthDateParsed": "1971-12-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.1166",
+  "birthCoordinatesLng": "-3.9369",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q465623",
+  "birthPlace": "Stirling",
+  "fetchedAt": "2026-08-01T05:20:47.162Z"
+}

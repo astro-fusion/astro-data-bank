@@ -1,0 +1,32 @@
+{
+  "publicId": "91e19c9a",
+  "wikipediaSlug": "Grahame_Bilby",
+  "wikipediaId": "Q5593405",
+  "name": "Grahame Bilby",
+  "fullName": "Grahame Bilby",
+  "profileSummary": "Grahame Paul Bilby is a former New Zealand cricketer and association football player who represented both the New Zealand national cricket team and the New Zealand national football team.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Grahame_Bilby",
+  "dateOfBirth": "1941-05-07",
+  "birthDateParsed": "1941-05-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.2",
+  "birthCoordinatesLng": "174",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "cricketer"
+  ],
+  "qid": "Q5593405",
+  "birthPlace": "New Zealand",
+  "fetchedAt": "2026-07-31T21:03:24.314Z"
+}

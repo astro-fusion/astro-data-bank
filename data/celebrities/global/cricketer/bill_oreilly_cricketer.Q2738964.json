@@ -1,0 +1,31 @@
+{
+  "publicId": "74ece3a7",
+  "wikipediaSlug": "Bill_O'Reilly_(cricketer)",
+  "wikipediaId": "Q2738964",
+  "name": "Bill O'Reilly (cricketer)",
+  "fullName": "Bill O'Reilly (cricketer)",
+  "profileSummary": "William Joseph O'Reilly was an Australian cricketer, rated as one of the greatest bowlers in the history of the game. Following his retirement from playing, he became a well-respected cricket writer and broadcaster.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bill_O%27Reilly_1934-8_card.jpg/330px-Bill_O%27Reilly_1934-8_card.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_O'Reilly_(cricketer)",
+  "dateOfBirth": "1905-12-20",
+  "birthDateParsed": "1905-12-20",
+  "dateOfDeath": "1992-10-06",
+  "deathDateParsed": "1992-10-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-30.848333333",
+  "birthCoordinatesLng": "143.0844444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q2738964",
+  "birthPlace": "White Cliffs",
+  "fetchedAt": "2026-07-31T19:43:50.163Z"
+}

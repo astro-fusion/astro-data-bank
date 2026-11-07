@@ -1,0 +1,34 @@
+{
+  "publicId": "22b3890d",
+  "wikipediaSlug": "Alan_J._Heeger",
+  "wikipediaId": "Q106751",
+  "name": "Alan J. Heeger",
+  "fullName": "Alan J. Heeger",
+  "profileSummary": "Alan Jay Heeger is an American physicist, academic and Nobel Prize laureate in chemistry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Heeger%2C_Alan_J._%281936%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_J._Heeger",
+  "dateOfBirth": "1936-01-22",
+  "birthDateParsed": "1936-01-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.498055555",
+  "birthCoordinatesLng": "-96.395555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "chemist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q106751",
+  "birthPlace": "Sioux City",
+  "fetchedAt": "2026-08-10T02:03:18.838Z"
+}

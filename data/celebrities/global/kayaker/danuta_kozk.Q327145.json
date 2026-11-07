@@ -1,0 +1,31 @@
+{
+  "publicId": "4bfb8cc5",
+  "wikipediaSlug": "Danuta_Kozák",
+  "wikipediaId": "Q327145",
+  "name": "Danuta Kozák",
+  "fullName": "Danuta Kozák",
+  "profileSummary": "Danuta Kozák is a Hungarian sprint canoeist. She has won one silver, one bronze and six Olympic gold medals, three of which in Rio de Janeiro in 2016, making her the first female to win K1, K2 and K4 at the same Olympics. At the 2020 Summer Olympics, she won a gold medal in Women's K-4 500 metres, and bronze medal in Women's K-2 500 metres.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Koz%C3%A1k_Danuta.jpg/330px-Koz%C3%A1k_Danuta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danuta_Koz%C3%A1k",
+  "dateOfBirth": "1987-01-11",
+  "birthDateParsed": "1987-01-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "kayaker"
+  ],
+  "qid": "Q327145",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-08-10T12:59:28.656Z"
+}

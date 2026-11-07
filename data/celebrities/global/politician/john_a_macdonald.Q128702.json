@@ -1,0 +1,32 @@
+{
+  "publicId": "8c3946d4",
+  "wikipediaSlug": "John_A._Macdonald",
+  "wikipediaId": "Q128702",
+  "name": "John A. Macdonald",
+  "fullName": "John A. Macdonald",
+  "profileSummary": "Sir John Alexander Macdonald was the first prime minister of Canada, serving from 1867 to 1873 and from 1878 until his death in 1891. He was the dominant figure of Canadian Confederation, and had a political career that spanned almost half a century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/John_A_Macdonald_%28ca._1875%29.jpg/330px-John_A_Macdonald_%28ca._1875%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_A._Macdonald",
+  "dateOfBirth": "1815-01-11",
+  "birthDateParsed": "1815-01-11",
+  "dateOfDeath": "1891-06-06",
+  "deathDateParsed": "1891-06-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q128702",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-08-03T10:59:20.626Z"
+}

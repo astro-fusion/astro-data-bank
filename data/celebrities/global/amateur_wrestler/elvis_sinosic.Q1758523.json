@@ -1,0 +1,34 @@
+{
+  "publicId": "60ef5d08",
+  "wikipediaSlug": "Elvis_Sinosic",
+  "wikipediaId": "Q1758523",
+  "name": "Elvis Sinosic",
+  "fullName": "Elvis Sinosic",
+  "profileSummary": "Elvis Sinosic is an Australian retired professional mixed martial artist who competed in the Ultimate Fighting Championship (UFC). He also competed in the Cage Rage Championships, K-1, and Pancrase.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ElvisSinosic2024.png/330px-ElvisSinosic2024.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elvis_Sinosic",
+  "dateOfBirth": "1971-02-13",
+  "birthDateParsed": "1971-02-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-35.293055555",
+  "birthCoordinatesLng": "149.126944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "amateur wrestler",
+    "taekwondo athlete",
+    "Thai boxer",
+    "mixed martial arts fighter"
+  ],
+  "qid": "Q1758523",
+  "birthPlace": "Canberra",
+  "fetchedAt": "2026-08-01T17:05:51.647Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "20b0bb21",
+  "wikipediaSlug": "Jackie_Stewart",
+  "wikipediaId": "Q3188",
+  "name": "Jackie Stewart",
+  "fullName": "Jackie Stewart",
+  "profileSummary": "Sir John Young Stewart is a British former racing driver, broadcaster and motorsport executive from Scotland who competed in Formula One from 1965 to 1973. Nicknamed \"the Flying Scot\", Stewart won three Formula One World Drivers' Championship titles with Tyrrell, and—at the time of his retirement—held the records for most wins (27) and podium finishes (43).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jackie_Stewart_at_the_2014_WEC_Silverstone_round.jpg/330px-Jackie_Stewart_at_the_2014_WEC_Silverstone_round.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackie_Stewart",
+  "dateOfBirth": "1939-06-11",
+  "birthDateParsed": "1939-06-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.948611111",
+  "birthCoordinatesLng": "-4.547222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "sport shooter",
+    "racing automobile driver",
+    "Formula One driver",
+    "manager",
+    "athlete"
+  ],
+  "qid": "Q3188",
+  "birthPlace": "Dumbarton",
+  "fetchedAt": "2026-08-01T16:01:41.061Z"
+}

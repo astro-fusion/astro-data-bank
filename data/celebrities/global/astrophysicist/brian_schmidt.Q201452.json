@@ -1,0 +1,33 @@
+{
+  "publicId": "8b48d835",
+  "wikipediaSlug": "Brian_Schmidt",
+  "wikipediaId": "Q201452",
+  "name": "Brian Schmidt",
+  "fullName": "Brian Schmidt",
+  "profileSummary": "Brian Paul Schmidt is an American Australian astrophysicist at the Australian National University's Mount Stromlo Observatory and Research School of Astronomy and Astrophysics. He was the Vice-Chancellor of the Australian National University (ANU) from January 2016 to January 2024. He is known for his research in using supernovae as cosmological probes. He previously held a Federation Fellowship and a Laureate Fellowship from the Australian Research Council, and was elected a Fellow of the Royal Society (FRS) in 2012. Schmidt shared both the 2006 Shaw Prize in Astronomy and the 2011 Nobel Prize in Physics with Saul Perlmutter and Adam Riess for providing evidence that the expansion of the universe is accelerating.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brian_Schmidt.jpg/330px-Brian_Schmidt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Schmidt",
+  "dateOfBirth": "1967-02-24",
+  "birthDateParsed": "1967-02-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.8625",
+  "birthCoordinatesLng": "-114.011666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astrophysicist",
+    "university teacher",
+    "astronomer"
+  ],
+  "qid": "Q201452",
+  "birthPlace": "Missoula",
+  "fetchedAt": "2026-08-06T05:01:17.958Z"
+}

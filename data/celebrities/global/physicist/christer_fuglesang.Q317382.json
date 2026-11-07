@@ -1,0 +1,34 @@
+{
+  "publicId": "c5a95cef",
+  "wikipediaSlug": "Christer_Fuglesang",
+  "wikipediaId": "Q317382",
+  "name": "Christer Fuglesang",
+  "fullName": "Christer Fuglesang",
+  "profileSummary": "Arne Christer Fuglesang is a Swedish physicist and an ESA astronaut. He was first launched aboard the STS-116 Space Shuttle mission on 10 December 2006, making him the first Swedish citizen in space.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Christer_Fuglesang.jpg/330px-Christer_Fuglesang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christer_Fuglesang",
+  "dateOfBirth": "1957-03-18",
+  "birthDateParsed": "1957-03-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.31",
+  "birthCoordinatesLng": "18.163889",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "astronaut",
+    "blogger",
+    "children's writer"
+  ],
+  "qid": "Q317382",
+  "birthPlace": "Nacka",
+  "fetchedAt": "2026-08-10T06:04:16.204Z"
+}

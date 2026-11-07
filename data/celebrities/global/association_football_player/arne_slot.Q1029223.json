@@ -1,0 +1,32 @@
+{
+  "publicId": "52b8bb12",
+  "wikipediaSlug": "Arne_Slot",
+  "wikipediaId": "Q1029223",
+  "name": "Arne Slot",
+  "fullName": "Arne Slot",
+  "profileSummary": "Arend Martijn \"Arne\" Slot is a Dutch professional football manager and former player who was most recently the head coach of Premier League club Liverpool.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Arne_Slot_in_2024.jpg/330px-Arne_Slot_in_2024.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arne_Slot",
+  "dateOfBirth": "1978-09-17",
+  "birthDateParsed": "1978-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.5264",
+  "birthCoordinatesLng": "6.6139",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1029223",
+  "birthPlace": "Bergentheim",
+  "fetchedAt": "2026-08-01T05:20:04.527Z"
+}

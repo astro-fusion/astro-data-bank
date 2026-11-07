@@ -1,0 +1,32 @@
+{
+  "publicId": "955d2f07",
+  "wikipediaSlug": "Herbert_Kroemer",
+  "wikipediaId": "Q71016",
+  "name": "Herbert Kroemer",
+  "fullName": "Herbert Kroemer",
+  "profileSummary": "Herbert Kroemer was a German–American physicist who, along with Zhores Alferov, received the 2000 Nobel Prize in Physics \"for developing semiconductor heterostructures used in high-speed- and opto-electronics.\" His research into transistors was a stepping stone to the later development of mobile phone technologies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Herbert_Kroemer_%28cropped%29.jpg/330px-Herbert_Kroemer_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herbert_Kroemer",
+  "dateOfBirth": "1928-08-25",
+  "birthDateParsed": "1928-08-25",
+  "dateOfDeath": "2024-03-08",
+  "deathDateParsed": "2024-03-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.981111111",
+  "birthCoordinatesLng": "11.329444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q71016",
+  "birthPlace": "Weimar",
+  "fetchedAt": "2026-08-06T05:02:16.907Z"
+}

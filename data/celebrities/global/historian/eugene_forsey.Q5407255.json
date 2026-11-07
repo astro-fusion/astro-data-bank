@@ -1,0 +1,37 @@
+{
+  "publicId": "d223661c",
+  "wikipediaSlug": "Eugene_Forsey",
+  "wikipediaId": "Q5407255",
+  "name": "Eugene Forsey",
+  "fullName": "Eugene Forsey",
+  "profileSummary": "Eugene Alfred Forsey served in the Senate of Canada from 1970 to 1979. He was considered to be one of Canada's foremost constitutional experts.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Eugene_Alfred_Forsey.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugene_Forsey",
+  "dateOfBirth": "1904-05-29",
+  "birthDateParsed": "1904-05-29",
+  "dateOfDeath": "1991-02-20",
+  "deathDateParsed": "1991-02-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.1",
+  "birthCoordinatesLng": "-55.78333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "politician",
+    "political scientist",
+    "university teacher",
+    "trade unionist",
+    "writer",
+    "principal investigator"
+  ],
+  "qid": "Q5407255",
+  "birthPlace": "Grand Bank",
+  "fetchedAt": "2026-08-03T10:59:13.416Z"
+}

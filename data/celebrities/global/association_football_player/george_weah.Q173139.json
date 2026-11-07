@@ -1,0 +1,32 @@
+{
+  "publicId": "0bb1f715",
+  "wikipediaSlug": "George_Weah",
+  "wikipediaId": "Q173139",
+  "name": "George Weah",
+  "fullName": "George Weah",
+  "profileSummary": "George Manneh Oppong Weah is a Liberian politician and former professional footballer who served as the 25th president of Liberia from 2018 to 2024. Before his election for the presidency, Weah served as senator from Montserrado County. He played as a striker in his prolific 18-year professional football career which ended in 2003. Weah is the first African former professional footballer to become a head of state, and the only African Ballon d'Or and FIFA World Player of the Year winner in history, winning both awards in 1995. He won the African Footballer of the Year three times and is considered one of the greatest strikers ever.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Clar_Weah%2C_George_Weah%2C_Joe_Biden%2C_Jill_Biden_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Weah",
+  "dateOfBirth": "1966-10-01",
+  "birthDateParsed": "1966-10-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.310555555",
+  "birthCoordinatesLng": "-10.804722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "politician"
+  ],
+  "qid": "Q173139",
+  "birthPlace": "Monrovia",
+  "fetchedAt": "2026-08-10T11:28:18.258Z"
+}

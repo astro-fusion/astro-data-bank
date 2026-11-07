@@ -1,0 +1,31 @@
+{
+  "publicId": "eaceb2fb",
+  "wikipediaSlug": "Arthur_Jones_(English_cricketer)",
+  "wikipediaId": "Q3526889",
+  "name": "Arthur Jones (English cricketer)",
+  "fullName": "Arthur Jones (English cricketer)",
+  "profileSummary": "Arthur Owen Jones was an English cricketer, noted as an all-rounder, and former Captain of England. He was also a rugby union player for Leicester at full back or three quarter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arthur_Owen_Jones_c1905b.jpg/330px-Arthur_Owen_Jones_c1905b.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Jones_(English_cricketer)",
+  "dateOfBirth": "1872-08-16",
+  "birthDateParsed": "1872-08-16",
+  "dateOfDeath": "1914-12-21",
+  "deathDateParsed": "1914-12-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53",
+  "birthCoordinatesLng": "-0.84",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3526889",
+  "birthPlace": "Shelton",
+  "fetchedAt": "2026-07-31T20:09:14.490Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "38602e02",
+  "wikipediaSlug": "Dan_Jurafsky",
+  "wikipediaId": "Q5217738",
+  "name": "Dan Jurafsky",
+  "fullName": "Dan Jurafsky",
+  "profileSummary": "Daniel Jurafsky is a professor of linguistics and computer science at Stanford University, and also an author. With Daniel Gildea, he is known for developing the first automatic system for semantic role labeling (SRL). He is the author of The Language of Food: A Linguist Reads the Menu (2014) and a textbook on speech and language processing (2000). For the former, Jurafsky was named a finalist for the James Beard Award. Jurafsky was given a MacArthur Fellowship in 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dan_Jurafsky_at_MOCA_1_%28cropped%29.jpg/330px-Dan_Jurafsky_at_MOCA_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Jurafsky",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.941388888",
+  "birthCoordinatesLng": "-73.864444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "linguist",
+    "academic",
+    "university teacher",
+    "computer scientist"
+  ],
+  "qid": "Q5217738",
+  "birthPlace": "Yonkers",
+  "fetchedAt": "2026-08-04T15:06:37.254Z"
+}

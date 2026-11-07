@@ -1,0 +1,31 @@
+{
+  "publicId": "57ca7f45",
+  "wikipediaSlug": "Adam_Zampa",
+  "wikipediaId": "Q16225921",
+  "name": "Adam Zampa",
+  "fullName": "Adam Zampa",
+  "profileSummary": "Adam Zampa is an Australian cricketer who plays for the Australia national cricket team in both One Day International (ODI) and Twenty20 International (T20I) cricket. He also plays for New South Wales in domestic cricket and the Melbourne Renegades in the Big Bash League. A right-arm leg-break bowler, he is the highest wicket-taker for Australia in T20I.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Adam_Zampa_2023.jpg/330px-Adam_Zampa_2023.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Zampa",
+  "dateOfBirth": "1992-03-31",
+  "birthDateParsed": "1992-03-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.5833",
+  "birthCoordinatesLng": "150.867",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q16225921",
+  "birthPlace": "Shellharbour",
+  "fetchedAt": "2026-07-31T19:43:48.971Z"
+}

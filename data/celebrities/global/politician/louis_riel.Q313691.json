@@ -1,0 +1,33 @@
+{
+  "publicId": "fee03797",
+  "wikipediaSlug": "Louis_Riel",
+  "wikipediaId": "Q313691",
+  "name": "Louis Riel",
+  "fullName": "Louis Riel",
+  "profileSummary": "Louis Riel was a Canadian politician, a founder of the province of Manitoba, and a political leader of the Métis people. He led two resistance movements against the Government of Canada and its first prime minister John A. Macdonald. Riel fought to defend Métis rights and identity as the Northwest Territories came progressively under the Canadian sphere of influence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Louis_Riel.jpg/330px-Louis_Riel.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Riel",
+  "dateOfBirth": "1844-10-22",
+  "birthDateParsed": "1844-10-22",
+  "dateOfDeath": "1885-11-16",
+  "deathDateParsed": "1885-11-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.9",
+  "birthCoordinatesLng": "-97.1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "teacher"
+  ],
+  "qid": "Q313691",
+  "birthPlace": "Saint Boniface",
+  "fetchedAt": "2026-08-03T10:59:34.695Z"
+}

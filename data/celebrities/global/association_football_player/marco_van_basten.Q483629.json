@@ -1,0 +1,32 @@
+{
+  "publicId": "77474e27",
+  "wikipediaSlug": "Marco_van_Basten",
+  "wikipediaId": "Q483629",
+  "name": "Marco van Basten",
+  "fullName": "Marco van Basten",
+  "profileSummary": "Marcel \"Marco\"  van Basten is a Dutch former football manager and player who played as a striker for Ajax and AC Milan, as well as the Netherlands national team. Regarded as one of the greatest attacking players of all time, he scored over 300 goals at the highest club and international levels, but played his last game at the age of 28, followed by an early retirement at just 30, due to a recurring ankle injury and more than two years of unsuccessful treatment. He was later the head coach of Ajax and the Netherlands national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marco_van_Basten_%282%29_%28cropped%29.jpg/330px-Marco_van_Basten_%282%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_van_Basten",
+  "dateOfBirth": "1964-10-31",
+  "birthDateParsed": "1964-10-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.090833333",
+  "birthCoordinatesLng": "5.121666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q483629",
+  "birthPlace": "Utrecht",
+  "fetchedAt": "2026-08-10T11:28:48.834Z"
+}

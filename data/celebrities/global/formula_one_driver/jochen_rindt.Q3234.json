@@ -1,0 +1,32 @@
+{
+  "publicId": "bda94e39",
+  "wikipediaSlug": "Jochen_Rindt",
+  "wikipediaId": "Q3234",
+  "name": "Jochen Rindt",
+  "fullName": "Jochen Rindt",
+  "profileSummary": "Karl Jochen Rindt was a racing driver who competed under the Austrian flag in Formula One from 1964 to 1970. Rindt won the Formula One World Drivers' Championship in 1970 with Lotus, and remains the only driver to have won the World Drivers' Championship posthumously, following his death at the Italian Grand Prix; he won six Grands Prix across seven seasons. In endurance racing, Rindt won the 24 Hours of Le Mans in 1965 with NART.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rindt_at_1970_Dutch_Grand_Prix_%282C%29.jpg/330px-Rindt_at_1970_Dutch_Grand_Prix_%282C%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jochen_Rindt",
+  "dateOfBirth": "1942-04-18",
+  "birthDateParsed": "1942-04-18",
+  "dateOfDeath": "1970-09-05",
+  "deathDateParsed": "1970-09-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.999444444",
+  "birthCoordinatesLng": "8.273611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Formula One driver",
+    "racing automobile driver"
+  ],
+  "qid": "Q3234",
+  "birthPlace": "Mainz",
+  "fetchedAt": "2026-08-01T16:01:30.437Z"
+}

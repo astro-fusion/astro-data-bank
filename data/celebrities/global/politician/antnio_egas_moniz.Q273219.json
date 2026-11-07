@@ -1,0 +1,41 @@
+{
+  "publicId": "65363a33",
+  "wikipediaSlug": "António_Egas_Moniz",
+  "wikipediaId": "Q273219",
+  "name": "António Egas Moniz",
+  "fullName": "António Egas Moniz",
+  "profileSummary": "António Caetano de Abreu Freire Egas Moniz, known as simply Egas Moniz, was a Portuguese neurologist and the developer of cerebral angiography. He is regarded as one of the founders of modern psychosurgery, having developed the surgical procedure leucotomy—​better known today as lobotomy—​for which he became the first Portuguese national to receive a Nobel Prize in 1949.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Moniz.jpg/330px-Moniz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Egas_Moniz",
+  "dateOfBirth": "1874-11-29",
+  "birthDateParsed": "1874-11-29",
+  "dateOfDeath": "1955-12-13",
+  "deathDateParsed": "1955-12-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.80659",
+  "birthCoordinatesLng": "-8.57226",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "neuroscientist",
+    "physician",
+    "neurosurgeon",
+    "university teacher",
+    "psychiatrist",
+    "neurologist",
+    "diplomat",
+    "writer",
+    "author",
+    "foreign minister"
+  ],
+  "qid": "Q273219",
+  "birthPlace": "Avanca",
+  "fetchedAt": "2026-08-10T03:13:51.373Z"
+}

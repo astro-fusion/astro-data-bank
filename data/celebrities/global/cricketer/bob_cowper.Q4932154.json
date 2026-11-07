@@ -1,0 +1,31 @@
+{
+  "publicId": "9ae5f4bd",
+  "wikipediaSlug": "Bob_Cowper",
+  "wikipediaId": "Q4932154",
+  "name": "Bob Cowper",
+  "fullName": "Bob Cowper",
+  "profileSummary": "Robert Maskew Cowper was an Australian cricketer who played Test cricket for Australia from 1964 to 1968, and Sheffield Shield cricket for Victoria and Western Australia from 1960 to 1970. He scored the first Test cricket triple century on Australian soil, a 12-hour 307 against England at the MCG in February 1966.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Cowper",
+  "dateOfBirth": "1940-10-05",
+  "birthDateParsed": "1940-10-05",
+  "dateOfDeath": "2025-05-11",
+  "deathDateParsed": "2025-05-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.805277777",
+  "birthCoordinatesLng": "145.035833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4932154",
+  "birthPlace": "Kew",
+  "fetchedAt": "2026-07-31T19:44:30.167Z"
+}

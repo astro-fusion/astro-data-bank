@@ -1,0 +1,36 @@
+{
+  "publicId": "edfbcd4c",
+  "wikipediaSlug": "Albert_Claude",
+  "wikipediaId": "Q233943",
+  "name": "Albert Claude",
+  "fullName": "Albert Claude",
+  "profileSummary": "Albert Claude was a Belgian-American cell biologist and medical doctor who shared the Nobel Prize in Physiology or Medicine in 1974 with Christian de Duve and George Emil Palade. His elementary education started in a comprehensive primary school at Longlier, his birthplace. He served in the British Intelligence Service during the First World War, and got imprisoned in concentration camps twice. In recognition of his service, he was granted enrolment at the University of Liège in Belgium to study medicine without any formal education required for the course. He earned his Doctor of Medicine degree in 1928. Devoted to medical research, he initially joined German institutes in Berlin. In 1929 he found an opportunity to join the Rockefeller Institute in New York. At Rockefeller University he made his most groundbreaking achievements in cell biology. In 1930 he developed the technique of cell fractionation, by which he discovered the agent of the Rous sarcoma, as well as components of cell organelles such as the mitochondrion, chloroplast, endoplasmic reticulum, Golgi apparatus, ribosome, and lysosome. He was the first to employ the electron microscope in the field of biology. In 1945 he published the first detailed structure of cell. His collective works established the complex functional and structural properties of cells.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Albert_Claude_1974.jpg/330px-Albert_Claude_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Claude",
+  "dateOfBirth": "1899-08-24",
+  "birthDateParsed": "1899-08-24",
+  "dateOfDeath": "1983-05-23",
+  "deathDateParsed": "1983-05-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.841111111",
+  "birthCoordinatesLng": "5.435277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "physician",
+    "university teacher",
+    "biochemist",
+    "chemist",
+    "cell biologist"
+  ],
+  "qid": "Q233943",
+  "birthPlace": "Neufchâteau",
+  "fetchedAt": "2026-08-10T03:14:01.735Z"
+}

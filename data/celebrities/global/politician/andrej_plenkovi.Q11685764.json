@@ -1,0 +1,32 @@
+{
+  "publicId": "06e79e22",
+  "wikipediaSlug": "Andrej_Plenković",
+  "wikipediaId": "Q11685764",
+  "name": "Andrej Plenković",
+  "fullName": "Andrej Plenković",
+  "profileSummary": "Andrej Plenković is a Croatian politician who has served as prime minister of Croatia since 2016. He is the leader of the Croatian Democratic Union (HDZ), serving since 2016. Plenković is the longest-serving Croatian prime minister. He has been the longest-serving head of government in the European Union (EU) since 2026. Plenković is a conservative moderate and has moved the HDZ towards the political centre.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Andrej_Plenkovi%C4%87.jpg/330px-Andrej_Plenkovi%C4%87.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrej_Plenkovi%C4%87",
+  "dateOfBirth": "1970-04-08",
+  "birthDateParsed": "1970-04-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.813055555",
+  "birthCoordinatesLng": "15.977222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat"
+  ],
+  "qid": "Q11685764",
+  "birthPlace": "Zagreb",
+  "fetchedAt": "2026-08-03T16:49:25.538Z"
+}

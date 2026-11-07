@@ -1,0 +1,33 @@
+{
+  "publicId": "e68590b8",
+  "wikipediaSlug": "Lloyd_Blankfein",
+  "wikipediaId": "Q1359151",
+  "name": "Lloyd Blankfein",
+  "fullName": "Lloyd Blankfein",
+  "profileSummary": "Lloyd Craig Blankfein is an American billionaire investment banker who has served as senior chairman of Goldman Sachs since 2019, and chairman and chief executive officer (CEO) from 2006 until the end of 2018. Before leading Goldman Sachs as CEO, he was the company's president and chief operating officer (COO) from 2004 to 2006, serving under then-CEO Henry Paulson.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lloyd_C._Blankfein.jpg/330px-Lloyd_C._Blankfein.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lloyd_Blankfein",
+  "dateOfBirth": "1954-09-20",
+  "birthDateParsed": "1954-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.846666666",
+  "birthCoordinatesLng": "-73.873333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "banker",
+    "jurist"
+  ],
+  "qid": "Q1359151",
+  "birthPlace": "The Bronx",
+  "fetchedAt": "2026-08-03T15:52:25.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "3c45b0c7",
+  "wikipediaSlug": "A._Sivathanu_Pillai",
+  "wikipediaId": "Q4648404",
+  "name": "A. Sivathanu Pillai",
+  "fullName": "A. Sivathanu Pillai",
+  "profileSummary": "A. Sivathanu Pillai is an Indian scientist who was an honorary distinguished professor at Indian Space Research Organisation (2015–2018) and an honorary professor at IIT Delhi in the Department of Mechanical Engineering (2015–2016) and a visiting professor at Indian Institute of Science (2014–2015).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/A._Sivathanu_Pillai_%28cropped%29.jpg/330px-A._Sivathanu_Pillai_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._Sivathanu_Pillai",
+  "dateOfBirth": "1947-07-15",
+  "birthDateParsed": "1947-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "8.1875",
+  "birthCoordinatesLng": "77.429444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "electrical engineer"
+  ],
+  "qid": "Q4648404",
+  "birthPlace": "Nagercoil",
+  "fetchedAt": "2026-08-05T02:42:10.504Z"
+}

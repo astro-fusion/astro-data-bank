@@ -1,0 +1,33 @@
+{
+  "publicId": "5cc639e1",
+  "wikipediaSlug": "John_Stuart,_3rd_Earl_of_Bute",
+  "wikipediaId": "Q294651",
+  "name": "John Stuart, 3rd Earl of Bute",
+  "fullName": "John Stuart, 3rd Earl of Bute",
+  "profileSummary": "John Stuart, 3rd Earl of Bute, styled Lord Mount Stuart between 1713 and 1723, was a British Tory statesman who served as the Prime Minister of Great Britain from 1762 to 1763 under George III. He became the first Tory to hold the position and was arguably the last important royal favourite in British politics. He was the first prime minister from Scotland following the Acts of Union in 1707. He was also elected as the first president of the Society of Antiquaries of Scotland when it was founded in 1780.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/John_Stuart%2C_3rd_Earl_of_Bute%2C_by_Joshua_Reynolds.jpg/330px-John_Stuart%2C_3rd_Earl_of_Bute%2C_by_Joshua_Reynolds.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Stuart%2C_3rd_Earl_of_Bute",
+  "dateOfBirth": "1713-05-25",
+  "birthDateParsed": "1713-05-25",
+  "dateOfDeath": "1792-03-10",
+  "deathDateParsed": "1792-03-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.94953",
+  "birthCoordinatesLng": "-3.19005",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "botanist",
+    "politician",
+    "art collector"
+  ],
+  "qid": "Q294651",
+  "birthPlace": "Parliament Square",
+  "fetchedAt": "2026-08-02T05:22:37.804Z"
+}

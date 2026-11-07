@@ -1,0 +1,33 @@
+{
+  "publicId": "c743416d",
+  "wikipediaSlug": "Robert_Tarjan",
+  "wikipediaId": "Q92638",
+  "name": "Robert Tarjan",
+  "fullName": "Robert Tarjan",
+  "profileSummary": "Robert Endre Tarjan is an American computer scientist and mathematician. He is the discoverer of several graph theory algorithms, including his strongly connected components algorithm, and co-inventor of both splay trees and Fibonacci heaps. Tarjan joined Princeton University as the James S. McDonnell Distinguished University Professor of Computer Science in 1985. He and John Hopcroft won the 1986 ACM Turing Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bob_Tarjan.jpg/330px-Bob_Tarjan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Tarjan",
+  "dateOfBirth": "1948-04-30",
+  "birthDateParsed": "1948-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.060833333",
+  "birthCoordinatesLng": "-117.755833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "computer scientist",
+    "university teacher"
+  ],
+  "qid": "Q92638",
+  "birthPlace": "Pomona",
+  "fetchedAt": "2026-08-10T04:29:42.380Z"
+}

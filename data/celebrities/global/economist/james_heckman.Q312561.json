@@ -1,0 +1,33 @@
+{
+  "publicId": "a751e6aa",
+  "wikipediaSlug": "James_Heckman",
+  "wikipediaId": "Q312561",
+  "name": "James Heckman",
+  "fullName": "James Heckman",
+  "profileSummary": "James Joseph Heckman is an American economist and Nobel laureate who serves as the Henry Schultz Distinguished Service Professor in Economics at the University of Chicago, where he is also a professor at the college, a professor at the Harris School of Public Policy, Director of the Center for the Economics of Human Development (CEHD), and co-director of Human Capital and Economic Opportunity (HCEO) Global Working Group. He is also a professor of law at the Law School, a senior research fellow at the American Bar Foundation, and a research associate at the NBER. He received the John Bates Clark Medal in 1983, and the Nobel Memorial Prize in Economic Sciences in 2000, which he shared with Daniel McFadden. He is known principally for his pioneering work in econometrics and microeconomics.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Heckman",
+  "dateOfBirth": "1944-04-19",
+  "birthDateParsed": "1944-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "statistician",
+    "university teacher"
+  ],
+  "qid": "Q312561",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-08-10T09:43:19.576Z"
+}

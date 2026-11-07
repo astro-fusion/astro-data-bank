@@ -1,0 +1,32 @@
+{
+  "publicId": "fe34955c",
+  "wikipediaSlug": "Jürgen_Klinsmann",
+  "wikipediaId": "Q57079",
+  "name": "Jürgen Klinsmann",
+  "fullName": "Jürgen Klinsmann",
+  "profileSummary": "Jürgen Klinsmann is a German professional football manager and former player. He played for several prominent clubs in Europe including VfB Stuttgart, Inter Milan, Monaco, Tottenham Hotspur, and Bayern Munich. He was part of the West German team that won the 1990 FIFA World Cup and the unified German team that won the UEFA Euro 1996.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg/330px-J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann",
+  "dateOfBirth": "1964-07-30",
+  "birthDateParsed": "1964-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.7025",
+  "birthCoordinatesLng": "9.652777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q57079",
+  "birthPlace": "Göppingen",
+  "fetchedAt": "2026-08-10T11:29:00.343Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "c16a18ff",
+  "wikipediaSlug": "Andrej_Babiš",
+  "wikipediaId": "Q10819807",
+  "name": "Andrej Babiš",
+  "fullName": "Andrej Babiš",
+  "profileSummary": "Andrej Babiš is a Czech politician and businessman who has been the prime minister of the Czech Republic since December 2025, having previously served as prime minister from 2017 to 2021. Prior to that, he was the minister of finance and deputy prime minister from 2014 to 2017. A right-wing populist, Babiš has led the ANO 2011 political party since he founded it in 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cumbre_de_Madrid_8_de_Febrero_-_Andrej_Babi%C5%A1_%283x4_cropped%29.jpg/330px-Cumbre_de_Madrid_8_de_Febrero_-_Andrej_Babi%C5%A1_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrej_Babi%C5%A1",
+  "dateOfBirth": "1954-09-02",
+  "birthDateParsed": "1954-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.1516988",
+  "birthCoordinatesLng": "17.1093063",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "politician",
+    "economist",
+    "entrepreneur",
+    "head of government",
+    "founder",
+    "engineer",
+    "minister"
+  ],
+  "qid": "Q10819807",
+  "birthPlace": "Bratislava",
+  "fetchedAt": "2026-08-03T16:49:26.937Z"
+}

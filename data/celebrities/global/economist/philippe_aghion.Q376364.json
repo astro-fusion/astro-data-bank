@@ -1,0 +1,32 @@
+{
+  "publicId": "1148fd43",
+  "wikipediaSlug": "Philippe_Aghion",
+  "wikipediaId": "Q376364",
+  "name": "Philippe Aghion",
+  "fullName": "Philippe Aghion",
+  "profileSummary": "Philippe Mario Aghion is a French economist who is Chair of Economics of Institutions, Innovation and Growth professor at the Collège de France, Kurt Björklund Chaired Professor in Innovation and Growth at INSEAD, and Visiting Professor of Economics at the London School of Economics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Phillipe_Aghion_-_The_State_of_France_%28cropped%2Boptimised%29.jpg/330px-Phillipe_Aghion_-_The_State_of_France_%28cropped%2Boptimised%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippe_Aghion",
+  "dateOfBirth": "1956-08-17",
+  "birthDateParsed": "1956-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q376364",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-08-10T09:44:07.476Z"
+}

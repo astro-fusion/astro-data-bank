@@ -1,0 +1,31 @@
+{
+  "publicId": "30df9031",
+  "wikipediaSlug": "Ard_Schenk",
+  "wikipediaId": "Q41522",
+  "name": "Ard Schenk",
+  "fullName": "Ard Schenk",
+  "profileSummary": "Adrianus \"Ard\" Schenk is a former speed skater from the Netherlands, who is considered to be one of the best in history. His first Olympic success came in 1968, when he won a silver medal at the 1968 Winter Olympics. Between 1970 and 1972 Winter Olympics, Schenk won three consecutive World Allround Speed Skating Championships. He won three gold medals at the 1972 Winter Olympics, becoming, along with Galina Kulakova of Soviet Union, the most successful athlete there.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ard_Schenk_2006.jpg/330px-Ard_Schenk_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ard_Schenk",
+  "dateOfBirth": "1944-09-16",
+  "birthDateParsed": "1944-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.85",
+  "birthCoordinatesLng": "4.816666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "speed skater"
+  ],
+  "qid": "Q41522",
+  "birthPlace": "Anna Paulowna",
+  "fetchedAt": "2026-08-10T12:58:29.895Z"
+}

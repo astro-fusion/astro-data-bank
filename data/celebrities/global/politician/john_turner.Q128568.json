@@ -1,0 +1,33 @@
+{
+  "publicId": "1b4b7a6f",
+  "wikipediaSlug": "John_Turner",
+  "wikipediaId": "Q128568",
+  "name": "John Turner",
+  "fullName": "John Turner",
+  "profileSummary": "John Napier Wyndham Turner was the 17th prime minister of Canada, serving from June to September 1984. He served as leader of the Liberal Party and leader of the Opposition from 1984 to 1990.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Finance_Minister_John_Turner_speaks_to_reporters_1975_%28cropped%29.jpg/330px-Finance_Minister_John_Turner_speaks_to_reporters_1975_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Turner",
+  "dateOfBirth": "1929-06-07",
+  "birthDateParsed": "1929-06-07",
+  "dateOfDeath": "2020-09-19",
+  "deathDateParsed": "2020-09-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.456",
+  "birthCoordinatesLng": "-0.301",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "athletics competitor"
+  ],
+  "qid": "Q128568",
+  "birthPlace": "Richmond",
+  "fetchedAt": "2026-08-03T10:59:22.578Z"
+}

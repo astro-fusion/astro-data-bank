@@ -1,0 +1,31 @@
+{
+  "publicId": "a9456e9a",
+  "wikipediaSlug": "Anni_Neumann",
+  "wikipediaId": "Q566805",
+  "name": "Anni Neumann",
+  "fullName": "Anni Neumann",
+  "profileSummary": "Anni Neumann is a retired East German politician who served between 1967 and 1971 as a member of the State Council of East Germany.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anni_Neumann",
+  "dateOfBirth": "1926-11-13",
+  "birthDateParsed": "1926-11-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.424722222",
+  "birthCoordinatesLng": "14.555277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q566805",
+  "birthPlace": "Szczecin",
+  "fetchedAt": "2026-08-04T00:54:53.703Z"
+}

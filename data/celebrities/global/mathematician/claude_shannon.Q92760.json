@@ -1,0 +1,37 @@
+{
+  "publicId": "d098b102",
+  "wikipediaSlug": "Claude_Shannon",
+  "wikipediaId": "Q92760",
+  "name": "Claude Shannon",
+  "fullName": "Claude Shannon",
+  "profileSummary": "Claude Elwood Shannon was an American polymath who was a mathematician, electrical engineer, computer scientist, cryptographer, and inventor known as the \"father of information theory\", and the man who laid the foundations of the Information Age.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg/330px-C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Shannon",
+  "dateOfBirth": "1916-04-30",
+  "birthDateParsed": "1916-04-30",
+  "dateOfDeath": "2001-02-24",
+  "deathDateParsed": "2001-02-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.373333333",
+  "birthCoordinatesLng": "-84.955277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "cryptographer",
+    "computer scientist",
+    "inventor",
+    "university teacher",
+    "engineer",
+    "geneticist"
+  ],
+  "qid": "Q92760",
+  "birthPlace": "Petoskey",
+  "fetchedAt": "2026-08-05T03:16:32.650Z"
+}

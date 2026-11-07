@@ -1,0 +1,34 @@
+{
+  "publicId": "06b3d2ae",
+  "wikipediaSlug": "Frederick_Gowland_Hopkins",
+  "wikipediaId": "Q233976",
+  "name": "Frederick Gowland Hopkins",
+  "fullName": "Frederick Gowland Hopkins",
+  "profileSummary": "Sir Frederick Gowland Hopkins was an English biochemist who was awarded the Nobel Prize in Physiology or Medicine in 1929, with Christiaan Eijkman, for the discovery of vitamins. He also discovered the amino acid tryptophan, in 1901. He was President of the Royal Society from 1930 to 1935.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Frederick_Gowland_Hopkins_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Gowland_Hopkins",
+  "dateOfBirth": "1861-06-20",
+  "birthDateParsed": "1861-06-20",
+  "dateOfDeath": "1947-05-16",
+  "deathDateParsed": "1947-05-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.766388888",
+  "birthCoordinatesLng": "0.286111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "physician",
+    "university teacher",
+    "chemist"
+  ],
+  "qid": "Q233976",
+  "birthPlace": "Eastbourne",
+  "fetchedAt": "2026-08-10T03:15:26.408Z"
+}

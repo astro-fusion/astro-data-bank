@@ -1,0 +1,35 @@
+{
+  "publicId": "680a810a",
+  "wikipediaSlug": "Dan_Bricklin",
+  "wikipediaId": "Q92624",
+  "name": "Dan Bricklin",
+  "fullName": "Dan Bricklin",
+  "profileSummary": "Daniel Singer Bricklin is an American businessman and engineer who is the co-creator, with Bob Frankston, of VisiCalc, the first spreadsheet program. He also founded Software Garden, Inc., of which he is currently president, and Trellix, which he left in 2004. He currently serves as the chief technology officer of Alpha Software.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dan_Bricklin_%282010%29_%28cropped%29.jpg/330px-Dan_Bricklin_%282010%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Bricklin",
+  "dateOfBirth": "1951-07-16",
+  "birthDateParsed": "1951-07-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "entrepreneur",
+    "inventor",
+    "programmer",
+    "engineer"
+  ],
+  "qid": "Q92624",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-08-05T03:16:54.525Z"
+}

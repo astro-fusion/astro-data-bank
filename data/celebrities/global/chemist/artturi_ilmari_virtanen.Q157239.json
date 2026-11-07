@@ -1,0 +1,35 @@
+{
+  "publicId": "cda2a9ed",
+  "wikipediaSlug": "Artturi_Ilmari_Virtanen",
+  "wikipediaId": "Q157239",
+  "name": "Artturi Ilmari Virtanen",
+  "fullName": "Artturi Ilmari Virtanen",
+  "profileSummary": "Artturi Ilmari Virtanen was a Finnish chemist and recipient of the 1945 Nobel Prize in Chemistry \"for his research and inventions in agricultural and nutrition chemistry, especially for his fodder preservation method\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Virtanen.jpg/330px-Virtanen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artturi_Ilmari_Virtanen",
+  "dateOfBirth": "1895-01-15",
+  "birthDateParsed": "1895-01-15",
+  "dateOfDeath": "1973-11-11",
+  "deathDateParsed": "1973-11-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.170833333",
+  "birthCoordinatesLng": "24.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "biochemist",
+    "university teacher",
+    "inventor",
+    "agronomist"
+  ],
+  "qid": "Q157239",
+  "birthPlace": "Helsinki",
+  "fetchedAt": "2026-08-10T02:03:09.004Z"
+}

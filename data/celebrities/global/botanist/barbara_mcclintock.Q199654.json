@@ -1,0 +1,36 @@
+{
+  "publicId": "49936e92",
+  "wikipediaSlug": "Barbara_McClintock",
+  "wikipediaId": "Q199654",
+  "name": "Barbara McClintock",
+  "fullName": "Barbara McClintock",
+  "profileSummary": "Barbara McClintock was an American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine. McClintock received her PhD in botany from Cornell University in 1927. There, she started her career as the leader of the development of maize cytogenetics, the focus of her research for the rest of her life. From the late 1920s, McClintock studied chromosomes and how they change during reproduction in maize. She developed the technique for visualizing maize chromosomes and used microscopic analysis to demonstrate many fundamental genetic ideas. One of those ideas was the notion of genetic recombination by crossing-over during meiosis—a mechanism by which chromosomes exchange information. She demonstrated the role of the telomere and centromere, regions of the chromosome that are important in the conservation of genetic information. She was recognized as among the best in the field, awarded prestigious fellowships, and elected a member of the National Academy of Sciences in 1944.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947.jpg/330px-Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barbara_McClintock",
+  "dateOfBirth": "1902-06-16",
+  "birthDateParsed": "1902-06-16",
+  "dateOfDeath": "1992-09-02",
+  "deathDateParsed": "1992-09-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.763333333",
+  "birthCoordinatesLng": "-72.685",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "botanist",
+    "cytogeneticist",
+    "chemist",
+    "university teacher",
+    "geneticist",
+    "cell biologist"
+  ],
+  "qid": "Q199654",
+  "birthPlace": "Hartford",
+  "fetchedAt": "2026-08-10T03:13:41.380Z"
+}

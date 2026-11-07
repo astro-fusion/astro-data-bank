@@ -1,0 +1,31 @@
+{
+  "publicId": "bc1890c1",
+  "wikipediaSlug": "William_Sidney,_1st_Viscount_De_L'Isle",
+  "wikipediaId": "Q333824",
+  "name": "William Sidney, 1st Viscount De L'Isle",
+  "fullName": "William Sidney, 1st Viscount De L'Isle",
+  "profileSummary": "William Philip Sidney, 1st Viscount De L'Isle, known as Lord De L'Isle and Dudley between 1945 and 1956, was a British Army officer, politician and Victoria Cross recipient who served as the 15th governor-general of Australia, in office from 1961 to 1965. He was the last non-Australian to hold the position and the last British national to be appointed Governor-General of any Commonwealth realm.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Portrait_of_Lord_de_L%27Isle_in_dress_uniform%2C_1962_%28cropped%29.jpg/330px-Portrait_of_Lord_de_L%27Isle_in_dress_uniform%2C_1962_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Sidney%2C_1st_Viscount_De_L'Isle",
+  "dateOfBirth": "1909-05-23",
+  "birthDateParsed": "1909-05-23",
+  "dateOfDeath": "1991-04-05",
+  "deathDateParsed": "1991-04-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4875",
+  "birthCoordinatesLng": "-0.1684",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q333824",
+  "birthPlace": "Chelsea",
+  "fetchedAt": "2026-08-03T12:59:09.209Z"
+}

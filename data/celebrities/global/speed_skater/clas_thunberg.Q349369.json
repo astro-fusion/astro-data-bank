@@ -1,0 +1,31 @@
+{
+  "publicId": "0b0e546f",
+  "wikipediaSlug": "Clas_Thunberg",
+  "wikipediaId": "Q349369",
+  "name": "Clas Thunberg",
+  "fullName": "Clas Thunberg",
+  "profileSummary": "Arnold Clas (\"Classe\") Robert Thunberg was a Finnish speed skater who won five Olympic gold medals – three at the inaugural Winter Olympics held in Chamonix in 1924 and two at the 1928 Winter Olympics held in St. Moritz. He was the most successful athlete at both of these Winter Olympics, sharing the honour for 1928 Winter Olympics with Johan Grøttumsbraaten of Norway. \nNo other athlete ever won such a high fraction of all Olympic events at a single Games. \nHe was born and died in Helsinki.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Clas_Thunberg_signed.jpg/330px-Clas_Thunberg_signed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clas_Thunberg",
+  "dateOfBirth": "1893-04-05",
+  "birthDateParsed": "1893-04-05",
+  "dateOfDeath": "1973-04-28",
+  "deathDateParsed": "1973-04-28",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "60.170833333",
+  "birthCoordinatesLng": "24.9375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "speed skater"
+  ],
+  "qid": "Q349369",
+  "birthPlace": "Helsinki",
+  "fetchedAt": "2026-08-10T12:59:10.220Z"
+}

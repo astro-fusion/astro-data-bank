@@ -1,0 +1,35 @@
+{
+  "publicId": "61882950",
+  "wikipediaSlug": "Clifton_Williams",
+  "wikipediaId": "Q709646",
+  "name": "Clifton Williams",
+  "fullName": "Clifton Williams",
+  "profileSummary": "Clifton Curtis Williams Jr., was an American naval aviator, test pilot, mechanical engineer, major in the United States Marine Corps, and NASA astronaut, who was killed in a plane crash; he never went into space. The crash was caused by a mechanical failure in a NASA T-38 jet trainer, which he was piloting to visit his parents in Mobile, Alabama. The failure caused the flight controls to stop responding, and although he activated the ejection seat, it did not save him. He was the fourth astronaut from NASA's Astronaut Group 3 to have died, the first two having been killed in separate T-38 flights, and the third in the Apollo 1 fire earlier that year. The aircraft crashed in Florida near Tallahassee within an hour of departing Patrick AFB.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Williams-c.jpg/330px-Williams-c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clifton_Williams",
+  "dateOfBirth": "1932-09-26",
+  "birthDateParsed": "1932-09-26",
+  "dateOfDeath": "1967-10-05",
+  "deathDateParsed": "1967-10-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.727669444",
+  "birthCoordinatesLng": "-88.052672222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "test pilot",
+    "astronaut",
+    "engineer",
+    "aircraft pilot"
+  ],
+  "qid": "Q709646",
+  "birthPlace": "Mobile",
+  "fetchedAt": "2026-08-10T06:04:34.637Z"
+}

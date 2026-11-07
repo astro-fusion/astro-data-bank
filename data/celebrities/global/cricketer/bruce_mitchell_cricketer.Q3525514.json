@@ -1,0 +1,31 @@
+{
+  "publicId": "03d776f0",
+  "wikipediaSlug": "Bruce_Mitchell_(cricketer)",
+  "wikipediaId": "Q3525514",
+  "name": "Bruce Mitchell (cricketer)",
+  "fullName": "Bruce Mitchell (cricketer)",
+  "profileSummary": "Bruce Mitchell was a South African cricketer who played in 42 Test matches from 1929 to 1949. He was a right-handed opening batsman and played in every Test South Africa played in that period.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bruce_Mitchell_cricketer_1935.jpg/330px-Bruce_Mitchell_cricketer_1935.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Mitchell_(cricketer)",
+  "dateOfBirth": "1909-01-08",
+  "birthDateParsed": "1909-01-08",
+  "dateOfDeath": "1995-07-01",
+  "deathDateParsed": "1995-07-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-26.204361111",
+  "birthCoordinatesLng": "28.041638888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q3525514",
+  "birthPlace": "Johannesburg",
+  "fetchedAt": "2026-07-31T20:21:00.506Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "062c0ee5",
+  "wikipediaSlug": "Andy_Thomas",
+  "wikipediaId": "Q507894",
+  "name": "Andy Thomas",
+  "fullName": "Andy Thomas",
+  "profileSummary": "Andrew Sydney Withiel Thomas, AO is an Australian and American aerospace engineer and a former NASA astronaut. He has dual nationality; he became a U.S. citizen in December 1986, hoping to gain entry to NASA's astronaut program. He is married to fellow NASA astronaut Shannon Walker.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Astronaut_Andy_Thomas.jpg/330px-Astronaut_Andy_Thomas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Thomas",
+  "dateOfBirth": "1951-12-18",
+  "birthDateParsed": "1951-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.9275",
+  "birthCoordinatesLng": "138.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "engineer"
+  ],
+  "qid": "Q507894",
+  "birthPlace": "Adelaide",
+  "fetchedAt": "2026-08-10T06:03:01.044Z"
+}

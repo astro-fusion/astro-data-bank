@@ -1,0 +1,31 @@
+{
+  "publicId": "b447fa69",
+  "wikipediaSlug": "David_Butler_(psephologist)",
+  "wikipediaId": "Q15491632",
+  "name": "David Butler (psephologist)",
+  "fullName": "David Butler (psephologist)",
+  "profileSummary": "Sir David Edgeworth Butler was an English political scientist who specialised in psephology, the study of elections. He has been described as \"the father of modern election science\".",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Butler_(psephologist)",
+  "dateOfBirth": "1924-10-17",
+  "birthDateParsed": "1924-10-17",
+  "dateOfDeath": "2022-11-08",
+  "deathDateParsed": "2022-11-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "political scientist"
+  ],
+  "qid": "Q15491632",
+  "birthPlace": "London",
+  "fetchedAt": "2026-08-02T05:21:35.774Z"
+}

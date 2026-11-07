@@ -1,0 +1,34 @@
+{
+  "publicId": "7f71fedf",
+  "wikipediaSlug": "Ellen_Johnson_Sirleaf",
+  "wikipediaId": "Q43179",
+  "name": "Ellen Johnson Sirleaf",
+  "fullName": "Ellen Johnson Sirleaf",
+  "profileSummary": "Ellen Eugenia Johnson Sirleaf is a Liberian politician who served as the 24th president of Liberia from 2006 to 2018. Sirleaf was the first elected female head of state in Africa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ellen_Johnson-Sirleaf_%282022%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf",
+  "dateOfBirth": "1938-10-29",
+  "birthDateParsed": "1938-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.310555555",
+  "birthCoordinatesLng": "-10.804722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist",
+    "entrepreneur",
+    "writer"
+  ],
+  "qid": "Q43179",
+  "birthPlace": "Monrovia",
+  "fetchedAt": "2026-08-04T02:13:04.058Z"
+}

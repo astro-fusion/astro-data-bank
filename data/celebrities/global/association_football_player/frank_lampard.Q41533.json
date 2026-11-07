@@ -1,0 +1,32 @@
+{
+  "publicId": "9e53ee32",
+  "wikipediaSlug": "Frank_Lampard",
+  "wikipediaId": "Q41533",
+  "name": "Frank Lampard",
+  "fullName": "Frank Lampard",
+  "profileSummary": "Frank James Lampard is an English football manager and former midfielder who is the head coach of Premier League club Coventry City. Widely regarded as one of the greatest midfielders of all time and one of Chelsea's and the Premier League’s greatest ever players, Lampard holds the record of the most Premier League goals (177) by a midfielder in its history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Frank_Lampard_2019.jpg/330px-Frank_Lampard_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Lampard",
+  "dateOfBirth": "1978-06-20",
+  "birthDateParsed": "1978-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5768",
+  "birthCoordinatesLng": "0.1801",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q41533",
+  "birthPlace": "Romford",
+  "fetchedAt": "2026-08-10T11:28:04.359Z"
+}

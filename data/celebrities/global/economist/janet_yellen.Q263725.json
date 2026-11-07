@@ -1,0 +1,35 @@
+{
+  "publicId": "bf2dcf8c",
+  "wikipediaSlug": "Janet_Yellen",
+  "wikipediaId": "Q263725",
+  "name": "Janet Yellen",
+  "fullName": "Janet Yellen",
+  "profileSummary": "Janet Louise Yellen is an American economist who served as the 78th United States secretary of the treasury from 2021 to 2025 and as chair of the Federal Reserve from 2014 to 2018. She was the first woman to hold either position, and has also led the White House Council of Economic Advisers. Yellen is the Eugene E. and Catherine M. Trefethen Professor of Business Administration and Economics at the University of California, Berkeley.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Secretary_Janet_Yellen_portrait.jpg/330px-Secretary_Janet_Yellen_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Janet_Yellen",
+  "dateOfBirth": "1946-08-13",
+  "birthDateParsed": "1946-08-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "professor",
+    "banker",
+    "politician",
+    "finance minister"
+  ],
+  "qid": "Q263725",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-03T15:52:25.193Z"
+}

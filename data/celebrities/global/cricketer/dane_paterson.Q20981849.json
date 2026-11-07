@@ -1,0 +1,31 @@
+{
+  "publicId": "bd2ea2da",
+  "wikipediaSlug": "Dane_Paterson",
+  "wikipediaId": "Q20981849",
+  "name": "Dane Paterson",
+  "fullName": "Dane Paterson",
+  "profileSummary": "Dane Paterson is a South African cricketer. He made his international debut for the South Africa cricket team in 2017. He plays for Western Province in domestic matches.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/3_02_Dane_Paterson.jpg/330px-3_02_Dane_Paterson.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dane_Paterson",
+  "dateOfBirth": "1989-04-04",
+  "birthDateParsed": "1989-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.925277777",
+  "birthCoordinatesLng": "18.423888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q20981849",
+  "birthPlace": "Cape Town",
+  "fetchedAt": "2026-07-31T20:20:59.084Z"
+}

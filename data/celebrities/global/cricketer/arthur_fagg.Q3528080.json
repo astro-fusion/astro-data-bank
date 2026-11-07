@@ -1,0 +1,32 @@
+{
+  "publicId": "4622626b",
+  "wikipediaSlug": "Arthur_Fagg",
+  "wikipediaId": "Q3528080",
+  "name": "Arthur Fagg",
+  "fullName": "Arthur Fagg",
+  "profileSummary": "Arthur Edward Fagg was an English cricketer who played for Kent County Cricket Club and the English cricket team, and became an umpire after retiring as a player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Arthur_Fagg.jpg/330px-Arthur_Fagg.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Fagg",
+  "dateOfBirth": "1915-06-18",
+  "birthDateParsed": "1915-06-18",
+  "dateOfDeath": "1977-09-13",
+  "deathDateParsed": "1977-09-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.255",
+  "birthCoordinatesLng": "1.0205",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer",
+    "cricket umpire"
+  ],
+  "qid": "Q3528080",
+  "birthPlace": "Chartham",
+  "fetchedAt": "2026-07-31T20:08:46.513Z"
+}

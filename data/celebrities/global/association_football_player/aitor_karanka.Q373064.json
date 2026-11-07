@@ -1,0 +1,32 @@
+{
+  "publicId": "686be868",
+  "wikipediaSlug": "Aitor_Karanka",
+  "wikipediaId": "Q373064",
+  "name": "Aitor Karanka",
+  "fullName": "Aitor Karanka",
+  "profileSummary": "Aitor Karanka de la Hoz is a Spanish former professional footballer who played as a central defender, currently a manager.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Aitor_Karanka.jpg/330px-Aitor_Karanka.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aitor_Karanka",
+  "dateOfBirth": "1973-09-18",
+  "birthDateParsed": "1973-09-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.846666666",
+  "birthCoordinatesLng": "-2.673055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q373064",
+  "birthPlace": "Vitoria-Gasteiz",
+  "fetchedAt": "2026-08-01T05:19:38.108Z"
+}

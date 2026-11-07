@@ -1,0 +1,31 @@
+{
+  "publicId": "2b3cc9b5",
+  "wikipediaSlug": "Barry_Sinclair",
+  "wikipediaId": "Q4864748",
+  "name": "Barry Sinclair",
+  "fullName": "Barry Sinclair",
+  "profileSummary": "Barry Whitley Sinclair was a New Zealand cricketer. He played 21 Test matches for New Zealand national team as a specialist batsman from 1962–63 to 1967–68, and captained the team from 1966 to 1968.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Barry_Sinclair_MNZM_%28cropped%29.jpg/330px-Barry_Sinclair_MNZM_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Sinclair",
+  "dateOfBirth": "1936-10-23",
+  "birthDateParsed": "1936-10-23",
+  "dateOfDeath": "2022-07-10",
+  "deathDateParsed": "2022-07-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.288888888",
+  "birthCoordinatesLng": "174.777222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q4864748",
+  "birthPlace": "Wellington",
+  "fetchedAt": "2026-07-31T21:00:59.943Z"
+}

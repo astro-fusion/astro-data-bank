@@ -1,0 +1,33 @@
+{
+  "publicId": "6ae019c1",
+  "wikipediaSlug": "Elisabeth_Kopp",
+  "wikipediaId": "Q122063",
+  "name": "Elisabeth Kopp",
+  "fullName": "Elisabeth Kopp",
+  "profileSummary": "Anna Elisabeth Kopp was a Swiss politician of the Free Democratic Party (FDP). She was the first woman to serve in the Swiss government, the Federal Council. She held that office from 2 October 1984 to 12 January 1989, when she resigned following a scandal over an alleged breach of official secrecy. She previously served as a member of the National Council from 1979 to 1984.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/E.Kopp.Foto.Wenger_3x4_crop.jpg/330px-E.Kopp.Foto.Wenger_3x4_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elisabeth_Kopp",
+  "dateOfBirth": "1936-12-16",
+  "birthDateParsed": "1936-12-16",
+  "dateOfDeath": "2023-04-07",
+  "deathDateParsed": "2023-04-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.374444444",
+  "birthCoordinatesLng": "8.541111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q122063",
+  "birthPlace": "Zurich",
+  "fetchedAt": "2026-08-04T00:55:42.568Z"
+}

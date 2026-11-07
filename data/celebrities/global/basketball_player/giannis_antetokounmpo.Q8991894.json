@@ -1,0 +1,31 @@
+{
+  "publicId": "142d8e60",
+  "wikipediaSlug": "Giannis_Antetokounmpo",
+  "wikipediaId": "Q8991894",
+  "name": "Giannis Antetokounmpo",
+  "fullName": "Giannis Antetokounmpo",
+  "profileSummary": "Giannis Sina Ougko Antetokounmpo is a Greek-Nigerian professional basketball player for the Miami Heat of the National Basketball Association (NBA). His size, speed, and strength have earned him the nickname \"Greek Freak\". He is widely regarded as one of the greatest players and power forwards of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Giannis_Antetokounmpo_%2851915153421%29_%28cropped%29.jpg/330px-Giannis_Antetokounmpo_%2851915153421%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo",
+  "dateOfBirth": "1994-12-06",
+  "birthDateParsed": "1994-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.984166666",
+  "birthCoordinatesLng": "23.728055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q8991894",
+  "birthPlace": "Athens",
+  "fetchedAt": "2026-08-01T15:37:16.597Z"
+}

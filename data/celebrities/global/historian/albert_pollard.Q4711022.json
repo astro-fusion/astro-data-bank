@@ -1,0 +1,31 @@
+{
+  "publicId": "dd68de83",
+  "wikipediaSlug": "Albert_Pollard",
+  "wikipediaId": "Q4711022",
+  "name": "Albert Pollard",
+  "fullName": "Albert Pollard",
+  "profileSummary": "Albert Frederick Pollard was a British historian who specialised in the Tudor period. He was one of the founders of the Historical Association in 1906.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Albert_Pollard.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Pollard",
+  "dateOfBirth": "1869-12-16",
+  "birthDateParsed": "1869-12-16",
+  "dateOfDeath": "1948-08-03",
+  "deathDateParsed": "1948-08-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.7271",
+  "birthCoordinatesLng": "-1.1618",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian"
+  ],
+  "qid": "Q4711022",
+  "birthPlace": "Ryde",
+  "fetchedAt": "2026-08-02T05:21:32.376Z"
+}

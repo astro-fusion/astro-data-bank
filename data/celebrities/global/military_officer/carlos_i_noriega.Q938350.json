@@ -1,0 +1,32 @@
+{
+  "publicId": "f1fddaa8",
+  "wikipediaSlug": "Carlos_I._Noriega",
+  "wikipediaId": "Q938350",
+  "name": "Carlos I. Noriega",
+  "fullName": "Carlos I. Noriega",
+  "profileSummary": "Carlos Ismael Noriega Jiménez is a Peruvian-American NASA employee, a former NASA astronaut and a retired U.S. Marine Corps lieutenant colonel. Carlos became the first Peruvian-born astronaut who went to space. Carlos was born in Lima, Peru and moved to Santa Clara, California in early childhood.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Carlos_Noriega_%2829320023123%29.jpg/330px-Carlos_Noriega_%2829320023123%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_I._Noriega",
+  "dateOfBirth": "1959-10-08",
+  "birthDateParsed": "1959-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-12.06",
+  "birthCoordinatesLng": "-77.0375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "astronaut"
+  ],
+  "qid": "Q938350",
+  "birthPlace": "Lima",
+  "fetchedAt": "2026-08-10T06:04:09.447Z"
+}

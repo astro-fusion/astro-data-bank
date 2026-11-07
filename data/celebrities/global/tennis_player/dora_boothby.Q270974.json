@@ -1,0 +1,32 @@
+{
+  "publicId": "dff1f030",
+  "wikipediaSlug": "Dora_Boothby",
+  "wikipediaId": "Q270974",
+  "name": "Dora Boothby",
+  "fullName": "Dora Boothby",
+  "profileSummary": "Penelope Dora Harvey Boothby was an English tennis and badminton player. She was born in Finchley, Middlesex. She is best remembered for her ladies' singles title at the 1909 Wimbledon Championships. In Badminton, she won the 1909 All England Championships in mixed doubles category.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Dora_boothby.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dora_Boothby",
+  "dateOfBirth": "1881-08-02",
+  "birthDateParsed": "1881-08-02",
+  "dateOfDeath": "1970-02-22",
+  "deathDateParsed": "1970-02-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.599",
+  "birthCoordinatesLng": "-0.187",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player",
+    "badminton player"
+  ],
+  "qid": "Q270974",
+  "birthPlace": "Finchley",
+  "fetchedAt": "2026-08-01T14:59:22.048Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "7a909717",
+  "wikipediaSlug": "Mitch_Johnson",
+  "wikipediaId": "Q100847636",
+  "name": "Mitch Johnson",
+  "fullName": "Mitch Johnson",
+  "profileSummary": "Mitchell Chase Johnson is an American professional basketball coach and former player who is the head coach for the San Antonio Spurs of the National Basketball Association (NBA). He replaced Gregg Popovich, who stepped down after 29 seasons. He previously served as the interim head coach and assistant coach of the Spurs, and served as an assistant coach for the Austin Spurs from 2016 to 2019. He played college basketball for the Stanford Cardinal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mitch_Johnson_%28cropped%29.png/330px-Mitch_Johnson_%28cropped%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitch_Johnson",
+  "dateOfBirth": "1986-11-29",
+  "birthDateParsed": "1986-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.605",
+  "birthCoordinatesLng": "-122.33",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player",
+    "basketball coach"
+  ],
+  "qid": "Q100847636",
+  "birthPlace": "Seattle",
+  "fetchedAt": "2026-08-01T15:37:57.706Z"
+}

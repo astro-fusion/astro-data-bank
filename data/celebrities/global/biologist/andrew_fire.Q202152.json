@@ -1,0 +1,37 @@
+{
+  "publicId": "3277a493",
+  "wikipediaSlug": "Andrew_Fire",
+  "wikipediaId": "Q202152",
+  "name": "Andrew Fire",
+  "fullName": "Andrew Fire",
+  "profileSummary": "Andrew Zachary Fire is an American biologist and professor of pathology and of genetics at the Stanford University School of Medicine. He was awarded the 2006 Nobel Prize in Physiology or Medicine, along with Craig C. Mello, for the discovery of RNA interference (RNAi). This research was conducted at the Carnegie Institution of Washington and published in 1998.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Andrew_Fire%2C_Stanford_University.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Fire",
+  "dateOfBirth": "1959-04-27",
+  "birthDateParsed": "1959-04-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.429166666",
+  "birthCoordinatesLng": "-122.138055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biologist",
+    "geneticist",
+    "physician",
+    "physicist",
+    "pathologist",
+    "academic",
+    "university teacher"
+  ],
+  "qid": "Q202152",
+  "birthPlace": "Palo Alto",
+  "fetchedAt": "2026-08-10T03:13:53.933Z"
+}

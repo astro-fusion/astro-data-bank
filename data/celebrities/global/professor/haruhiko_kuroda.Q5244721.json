@@ -1,0 +1,34 @@
+{
+  "publicId": "e677720c",
+  "wikipediaSlug": "Haruhiko_Kuroda",
+  "wikipediaId": "Q5244721",
+  "name": "Haruhiko Kuroda",
+  "fullName": "Haruhiko Kuroda",
+  "profileSummary": "Haruhiko Kuroda  is a Japanese banker and a former Ministry of Finance government official who served as the 31st governor of the Bank of Japan (BOJ) from March 2013 to April 2023 and is currently a professor at the National Graduate Institute for Policy Studies (GRIPS). From 2003 Mr Kuroda served as special advisor to the Cabinet of Prime Minister Koizumi, while teaching economics and finance as a professor at the Hitotsubashi University Graduate School of Economics. He was formerly the president of the Asian Development Bank from 1 February 2005 to 18 March 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Haruhiko_Kuroda_at_ADB_Philippines_%28crop%29.jpg/330px-Haruhiko_Kuroda_at_ADB_Philippines_%28crop%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Haruhiko_Kuroda",
+  "dateOfBirth": "1944-10-25",
+  "birthDateParsed": "1944-10-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.030277777",
+  "birthCoordinatesLng": "130.445972222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professor",
+    "economist",
+    "banker",
+    "national public employee"
+  ],
+  "qid": "Q5244721",
+  "birthPlace": "Ōmuta-shi",
+  "fetchedAt": "2026-08-03T15:52:57.927Z"
+}

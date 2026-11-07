@@ -1,0 +1,33 @@
+{
+  "publicId": "228e18e4",
+  "wikipediaSlug": "Kaká",
+  "wikipediaId": "Q531814",
+  "name": "Kaká",
+  "fullName": "Kaká",
+  "profileSummary": "Ricardo Izecson dos Santos Leite, commonly known as Kaká or Ricardo Kaká, is a Brazilian former professional footballer who played as an attacking midfielder. Kaká was known for his explosive pace, dribbling, passing, and goalscoring, and is considered one of the greatest players of all time. With success for both club and country, he is one of the eleven players to win the FIFA World Cup, the UEFA Champions League, and the Ballon d'Or.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kak%C3%A1_visited_Stadium_St._Petersburg.jpg/330px-Kak%C3%A1_visited_Stadium_St._Petersburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kak%C3%A1",
+  "dateOfBirth": "1982-04-22",
+  "birthDateParsed": "1982-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-16.019444444",
+  "birthCoordinatesLng": "-48.066944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "diplomat",
+    "writer"
+  ],
+  "qid": "Q531814",
+  "birthPlace": "Gama",
+  "fetchedAt": "2026-08-10T11:29:02.171Z"
+}

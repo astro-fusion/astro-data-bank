@@ -1,0 +1,34 @@
+{
+  "publicId": "9381274c",
+  "wikipediaSlug": "Charles_Pahud_de_Mortanges",
+  "wikipediaId": "Q719559",
+  "name": "Charles Pahud de Mortanges",
+  "fullName": "Charles Pahud de Mortanges",
+  "profileSummary": "Charles Ferdinand Pahud de Mortanges was a Dutch horse rider who competed at the 1924, 1928, 1932 and 1936 Olympics and was the flag bearer for the Netherlands in 1932. He is only one of three equestrians to win two consecutive Olympic titles in the individual three-day event. Besides his riding achievements, de Mortanges was president or vice president of the National Olympic Committee (1946–1961) and a member of the International Olympic Committee (1946–1964). He was also a top commanding officer of the Royal Netherlands Motorized Infantry Brigade in 1944–1945 and later a senior army official overseeing the official ceremonies involving the Dutch royal family.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Charles_Pahud_de_Mortanges_1964_%281%29.jpg/330px-Charles_Pahud_de_Mortanges_1964_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Pahud_de_Mortanges",
+  "dateOfBirth": "1896-05-13",
+  "birthDateParsed": "1896-05-13",
+  "dateOfDeath": "1971-04-08",
+  "deathDateParsed": "1971-04-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.08",
+  "birthCoordinatesLng": "4.31",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "event rider",
+    "Engelandvaarder",
+    "equestrian",
+    "soldier"
+  ],
+  "qid": "Q719559",
+  "birthPlace": "The Hague",
+  "fetchedAt": "2026-08-10T12:59:32.959Z"
+}

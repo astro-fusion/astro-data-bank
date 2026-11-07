@@ -1,0 +1,33 @@
+{
+  "publicId": "dade3a3f",
+  "wikipediaSlug": "John_Polanyi",
+  "wikipediaId": "Q237825",
+  "name": "John Polanyi",
+  "fullName": "John Polanyi",
+  "profileSummary": "John Charles Polanyi is a German-born Canadian chemist. He was awarded the 1986 Nobel Prize in Chemistry for his research in chemical reaction dynamics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/John_Polanyi_01_%28cropped%29.jpg/330px-John_Polanyi_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Polanyi",
+  "dateOfBirth": "1929-01-23",
+  "birthDateParsed": "1929-01-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q237825",
+  "birthPlace": "Berlin",
+  "fetchedAt": "2026-08-10T02:04:41.802Z"
+}

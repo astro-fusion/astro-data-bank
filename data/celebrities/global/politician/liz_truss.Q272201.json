@@ -1,0 +1,32 @@
+{
+  "publicId": "04d00859",
+  "wikipediaSlug": "Liz_Truss",
+  "wikipediaId": "Q272201",
+  "name": "Liz Truss",
+  "fullName": "Liz Truss",
+  "profileSummary": "Mary Elizabeth Truss is a British politician who was Prime Minister of the United Kingdom and Leader of the Conservative Party from September to October 2022. On her fiftieth day in office, she stepped down amid a government crisis, making her the shortest-serving prime minister in British history. The member of Parliament (MP) for South West Norfolk from 2010 to 2024, Truss held various Cabinet positions under three prime ministers – David Cameron, Theresa May and Boris Johnson – lastly as foreign secretary from 2021 to 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Liz_Truss",
+  "dateOfBirth": "1975-07-26",
+  "birthDateParsed": "1975-07-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.751944444",
+  "birthCoordinatesLng": "-1.257777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "accountant"
+  ],
+  "qid": "Q272201",
+  "birthPlace": "Oxford",
+  "fetchedAt": "2026-08-02T05:22:40.461Z"
+}

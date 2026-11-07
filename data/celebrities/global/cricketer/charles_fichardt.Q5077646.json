@@ -1,0 +1,31 @@
+{
+  "publicId": "1fa12848",
+  "wikipediaSlug": "Charles_Fichardt",
+  "wikipediaId": "Q5077646",
+  "name": "Charles Fichardt",
+  "fullName": "Charles Fichardt",
+  "profileSummary": "Charles Gustav Fichardt was a South African cricketer who played in two Test matches in 1892 and 1896. He was also a Boer soldier in the Second Boer War and later a politician and a prominent advocate of Boer independence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/C_G_Fichardt_1902.jpg/330px-C_G_Fichardt_1902.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Fichardt",
+  "dateOfBirth": "1870-03-20",
+  "birthDateParsed": "1870-03-20",
+  "dateOfDeath": "1923-05-30",
+  "deathDateParsed": "1923-05-30",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-29.1",
+  "birthCoordinatesLng": "26.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cricketer"
+  ],
+  "qid": "Q5077646",
+  "birthPlace": "Bloemfontein",
+  "fetchedAt": "2026-07-31T20:21:32.123Z"
+}

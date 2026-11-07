@@ -1,0 +1,36 @@
+{
+  "publicId": "084f7cf3",
+  "wikipediaSlug": "Wes_Moore",
+  "wikipediaId": "Q7983732",
+  "name": "Wes Moore",
+  "fullName": "Wes Moore",
+  "profileSummary": "Westley Watende Omari Moore is an American politician, businessman, author, and former U.S. Army officer, serving as the 63rd governor of Maryland since 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wes_Moore_Official_Governor_Portrait.jpg/330px-Wes_Moore_Official_Governor_Portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wes_Moore",
+  "dateOfBirth": "1978-10-15",
+  "birthDateParsed": "1978-10-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.977777777",
+  "birthCoordinatesLng": "-77.0075",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "soldier",
+    "writer",
+    "politician",
+    "business executive",
+    "investment banker",
+    "television producer"
+  ],
+  "qid": "Q7983732",
+  "birthPlace": "Takoma Park",
+  "fetchedAt": "2026-08-02T03:29:10.324Z"
+}

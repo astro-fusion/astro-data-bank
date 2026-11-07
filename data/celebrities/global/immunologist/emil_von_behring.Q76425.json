@@ -1,0 +1,37 @@
+{
+  "publicId": "803f87bd",
+  "wikipediaSlug": "Emil_von_Behring",
+  "wikipediaId": "Q76425",
+  "name": "Emil von Behring",
+  "fullName": "Emil von Behring",
+  "profileSummary": "Emil von Behring, was a German physiologist. In 1901, he received the first Nobel Prize in Physiology or Medicine \"for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths\". He was widely known as a \"saviour of children\", as diphtheria used to be a major cause of child death. His work with the disease, as well as tetanus, has come to bring him most of his fame and acknowledgment. He was honoured with Prussian nobility in 1901, henceforth being known by the surname \"von Behring\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Emil_von_Behring_sitzend.jpg/330px-Emil_von_Behring_sitzend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_von_Behring",
+  "dateOfBirth": "1854-03-15",
+  "birthDateParsed": "1854-03-15",
+  "dateOfDeath": "1917-03-31",
+  "deathDateParsed": "1917-03-31",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.6",
+  "birthCoordinatesLng": "19.6667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "immunologist",
+    "physician",
+    "non-fiction writer",
+    "university teacher",
+    "physiologist",
+    "bacteriologist",
+    "scientist"
+  ],
+  "qid": "Q76425",
+  "birthPlace": "Ławice",
+  "fetchedAt": "2026-08-10T03:14:24.653Z"
+}

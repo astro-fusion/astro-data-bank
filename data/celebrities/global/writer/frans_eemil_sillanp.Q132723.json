@@ -1,0 +1,33 @@
+{
+  "publicId": "db140a49",
+  "wikipediaSlug": "Frans_Eemil_Sillanpää",
+  "wikipediaId": "Q132723",
+  "name": "Frans Eemil Sillanpää",
+  "fullName": "Frans Eemil Sillanpää",
+  "profileSummary": "Frans Eemil Sillanpää was a Finnish writer. In 1939, he became the first Finnish writer to be awarded the Nobel Prize for Literature \"for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/FransEemilSillanp%C3%A4%C3%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4",
+  "dateOfBirth": "1888-09-16",
+  "birthDateParsed": "1888-09-16",
+  "dateOfDeath": "1964-06-03",
+  "deathDateParsed": "1964-06-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "61.633333333",
+  "birthCoordinatesLng": "23.2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "poet"
+  ],
+  "qid": "Q132723",
+  "birthPlace": "Hämeenkyrö",
+  "fetchedAt": "2026-08-06T07:41:14.050Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "56117da4",
+  "wikipediaSlug": "Beat_Jans",
+  "wikipediaId": "Q813067",
+  "name": "Beat Jans",
+  "fullName": "Beat Jans",
+  "profileSummary": "Beat Anton Jans is a Swiss environmental scientist and politician who serves as a member of the Federal Council, after being elected in 2023 to succeed Alain Berset, assuming office on 1 January 2024. A member of the Social Democratic Party, he previously served on the National Council from 2010 to 2020, and as president of the Executive Council of Basel-Stadt from 2021 to 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Beat_Jans_%282026%29_%28cropped%29.jpg/330px-Beat_Jans_%282026%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beat_Jans",
+  "dateOfBirth": "1964-07-12",
+  "birthDateParsed": "1964-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.560555555",
+  "birthCoordinatesLng": "7.590555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q813067",
+  "birthPlace": "Basel",
+  "fetchedAt": "2026-08-03T16:49:59.940Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "bff2c179",
+  "wikipediaSlug": "Alan_Carlin",
+  "wikipediaId": "Q4706328",
+  "name": "Alan Carlin",
+  "fullName": "Alan Carlin",
+  "profileSummary": "Alan Carlin, is an American economist specializing in cost-benefit analysis and the economics of global climate change control.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Carlin",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist"
+  ],
+  "qid": "Q4706328",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T03:15:17.440Z"
+}

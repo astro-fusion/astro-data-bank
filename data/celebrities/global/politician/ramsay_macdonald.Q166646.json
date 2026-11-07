@@ -1,0 +1,33 @@
+{
+  "publicId": "2e738dce",
+  "wikipediaSlug": "Ramsay_MacDonald",
+  "wikipediaId": "Q166646",
+  "name": "Ramsay MacDonald",
+  "fullName": "Ramsay MacDonald",
+  "profileSummary": "James Ramsay MacDonald was a British statesman and politician who served as Prime Minister of the United Kingdom. The first two of his governments belonged to the Labour Party: a minority Labour government for nine months in 1924, making him the first Labour Prime Minister in British history, and the second between 1929 and 1931. In 1931, MacDonald was expelled from the Labour Party, after he formed a National Government dominated by the Conservative Party and supported by only a few Labour members, his premiership of which lasted until 1935.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/J._Ramsay_MacDonald_LCCN2014715885_%28cropped%29.jpg/330px-J._Ramsay_MacDonald_LCCN2014715885_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramsay_MacDonald",
+  "dateOfBirth": "1866-10-12",
+  "birthDateParsed": "1866-10-12",
+  "dateOfDeath": "1937-11-09",
+  "deathDateParsed": "1937-11-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "57.7167",
+  "birthCoordinatesLng": "-3.28333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "journalist",
+    "diplomat"
+  ],
+  "qid": "Q166646",
+  "birthPlace": "Lossiemouth",
+  "fetchedAt": "2026-08-02T05:23:01.918Z"
+}

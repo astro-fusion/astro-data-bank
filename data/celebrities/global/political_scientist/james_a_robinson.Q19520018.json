@@ -1,0 +1,33 @@
+{
+  "publicId": "e684df9c",
+  "wikipediaSlug": "James_A._Robinson",
+  "wikipediaId": "Q19520018",
+  "name": "James A. Robinson",
+  "fullName": "James A. Robinson",
+  "profileSummary": "James Alan Robinson is a British-American economist and political scientist. He is a university professor at the Harris School of Public Policy of the University of Chicago, where he led the Pearson Institute for the Study and Resolution of Global Conflicts. Robinson taught at Harvard University from 2004 to 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/James_A._Robinson%2C_2024_Nobel_Prize_Laureate_in_Economics_3_%28cropped%29.jpg/330px-James_A._Robinson%2C_2024_Nobel_Prize_Laureate_in_Economics_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_A._Robinson",
+  "dateOfBirth": "1960-02-27",
+  "birthDateParsed": "1960-02-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.7361",
+  "birthCoordinatesLng": "0.4798",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "political scientist",
+    "economist",
+    "university teacher"
+  ],
+  "qid": "Q19520018",
+  "birthPlace": "Chelmsford",
+  "fetchedAt": "2026-08-10T09:43:30.570Z"
+}

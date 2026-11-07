@@ -1,0 +1,34 @@
+{
+  "publicId": "1db8a494",
+  "wikipediaSlug": "Alan_Rath",
+  "wikipediaId": "Q37609978",
+  "name": "Alan Rath",
+  "fullName": "Alan Rath",
+  "profileSummary": "Alan Rath (1959–2020) was an American electronic, kinetic, and robotic sculptor. He was born in Cincinnati, Ohio and graduated from the Massachusetts Institute of Technology in 1982, with a BS electrical engineering. He worked for a Boston engineering firm after graduation, and in 1982, moved to Oakland, California to pursue his artistic interests.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f0/Arecibo_by_Alan_Rath%2C_1992%2C_Honolulu_Museum_of_Art.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Rath",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": "2020-10-27",
+  "deathDateParsed": "2020-10-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.1",
+  "birthCoordinatesLng": "-84.5125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sculptor",
+    "installation artist",
+    "video artist",
+    "roboticist"
+  ],
+  "qid": "Q37609978",
+  "birthPlace": "Cincinnati",
+  "fetchedAt": "2026-08-05T03:15:14.031Z"
+}

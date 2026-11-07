@@ -1,0 +1,33 @@
+{
+  "publicId": "30d71dbb",
+  "wikipediaSlug": "Dina_Boluarte",
+  "wikipediaId": "Q106474688",
+  "name": "Dina Boluarte",
+  "fullName": "Dina Boluarte",
+  "profileSummary": "Dina Ercilia Boluarte Zegarra is a Peruvian politician, civil servant, and lawyer who served as the president of Peru from 7 December 2022 until she was removed from office on 10 October 2025. She had previously served as the first vice president and minister at the Ministry of Development and Social Inclusion under President Pedro Castillo. She served as an officer at the National Registry of Identification and Civil Status (RENIEC) from 2007 until 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dina_Boluarte_2024.jpg/330px-Dina_Boluarte_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dina_Boluarte",
+  "dateOfBirth": "1962-05-31",
+  "birthDateParsed": "1962-05-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-14.295",
+  "birthCoordinatesLng": "-73.24444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q106474688",
+  "birthPlace": "Chalhuanca",
+  "fetchedAt": "2026-08-04T00:55:41.341Z"
+}

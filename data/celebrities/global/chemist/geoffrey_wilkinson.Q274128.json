@@ -1,0 +1,33 @@
+{
+  "publicId": "fa328bf9",
+  "wikipediaSlug": "Geoffrey_Wilkinson",
+  "wikipediaId": "Q274128",
+  "name": "Geoffrey Wilkinson",
+  "fullName": "Geoffrey Wilkinson",
+  "profileSummary": "Sir Geoffrey Wilkinson FRS was a Nobel laureate English chemist who pioneered inorganic chemistry and homogeneous transition metal catalysis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Geoffrey_Wilkinson_ca._1976.png/330px-Geoffrey_Wilkinson_ca._1976.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geoffrey_Wilkinson",
+  "dateOfBirth": "1921-07-14",
+  "birthDateParsed": "1921-07-14",
+  "dateOfDeath": "1996-09-26",
+  "deathDateParsed": "1996-09-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.713",
+  "birthCoordinatesLng": "-2.096",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher",
+    "non-fiction writer"
+  ],
+  "qid": "Q274128",
+  "birthPlace": "Todmorden",
+  "fetchedAt": "2026-08-10T02:04:08.850Z"
+}

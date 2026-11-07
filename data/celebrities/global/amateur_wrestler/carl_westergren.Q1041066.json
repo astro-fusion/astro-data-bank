@@ -1,0 +1,31 @@
+{
+  "publicId": "0d51061a",
+  "wikipediaSlug": "Carl_Westergren",
+  "wikipediaId": "Q1041066",
+  "name": "Carl Westergren",
+  "fullName": "Carl Westergren",
+  "profileSummary": "Carl \"Calle\" Oscar Westergren was a Swedish wrestler who competed in the 1920, 1924, 1928, and 1932 Summer Olympics. He won gold medals in Greco-Roman wrestling in 1920, 1924 and 1932; in 1924 he also finished sixth in freestyle wrestling.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Carl_Westergren_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Westergren",
+  "dateOfBirth": "1895-10-13",
+  "birthDateParsed": "1895-10-13",
+  "dateOfDeath": "1958-08-05",
+  "deathDateParsed": "1958-08-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.583333333",
+  "birthCoordinatesLng": "13",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "amateur wrestler"
+  ],
+  "qid": "Q1041066",
+  "birthPlace": "Malmö",
+  "fetchedAt": "2026-08-10T12:58:56.141Z"
+}

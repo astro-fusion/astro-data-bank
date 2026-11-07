@@ -1,0 +1,34 @@
+{
+  "publicId": "9b21324f",
+  "wikipediaSlug": "Aga_Khan_III",
+  "wikipediaId": "Q366213",
+  "name": "Aga Khan III",
+  "fullName": "Aga Khan III",
+  "profileSummary": "Sir Sultan Muhammad Shah, known as Aga Khan III, was the 48th imam of the Nizari Ism'aili branch of Shia Islam. He is considered one of the founding fathers of Pakistan, and also served as the first permanent president of the All-India Muslim League (AIML).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HH_the_AGA_KHAN_1936_%28cropped%29.jpg/330px-HH_the_AGA_KHAN_1936_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aga_Khan_III",
+  "dateOfBirth": "1877-11-02",
+  "birthDateParsed": "1877-11-02",
+  "dateOfDeath": "1957-07-11",
+  "deathDateParsed": "1957-07-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.86",
+  "birthCoordinatesLng": "67.01",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "imam",
+    "religious leader"
+  ],
+  "qid": "Q366213",
+  "birthPlace": "Karachi",
+  "fetchedAt": "2026-08-05T02:41:59.202Z"
+}

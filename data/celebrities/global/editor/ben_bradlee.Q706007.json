@@ -1,0 +1,32 @@
+{
+  "publicId": "baa4b830",
+  "wikipediaSlug": "Ben_Bradlee",
+  "wikipediaId": "Q706007",
+  "name": "Ben Bradlee",
+  "fullName": "Ben Bradlee",
+  "profileSummary": "Benjamin Crowninshield Bradlee was an American journalist who served as managing editor and later as executive editor of The Washington Post, from 1965 to 1991. He became a public figure when the Post joined The New York Times in publishing the Pentagon Papers and gave the go-ahead for the paper's extensive coverage of the Watergate scandal in the 1970s. He was also criticized for editorial lapses when the Post had to return a Pulitzer Prize in 1981 after it discovered that its award-winning story was false.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ben_Bradllee_1999.jpg/330px-Ben_Bradllee_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Bradlee",
+  "dateOfBirth": "1921-08-26",
+  "birthDateParsed": "1921-08-26",
+  "dateOfDeath": "2014-10-21",
+  "deathDateParsed": "2014-10-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "editor",
+    "journalist"
+  ],
+  "qid": "Q706007",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-08-05T02:43:53.130Z"
+}

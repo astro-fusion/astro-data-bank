@@ -1,0 +1,33 @@
+{
+  "publicId": "8021924d",
+  "wikipediaSlug": "Arne_Tiselius",
+  "wikipediaId": "Q233026",
+  "name": "Arne Tiselius",
+  "fullName": "Arne Tiselius",
+  "profileSummary": "Arne Wilhelm Kaurin Tiselius was a Swedish biochemist who won the Nobel Prize in Chemistry in 1948 \"for his research on electrophoresis and adsorption analysis, especially for his discoveries concerning the complex nature of the serum proteins.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Arne_Tiselius_2.jpg/330px-Arne_Tiselius_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arne_Tiselius",
+  "dateOfBirth": "1902-08-10",
+  "birthDateParsed": "1902-08-10",
+  "dateOfDeath": "1971-10-29",
+  "deathDateParsed": "1971-10-29",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.329444444",
+  "birthCoordinatesLng": "18.068611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q233026",
+  "birthPlace": "Stockholm",
+  "fetchedAt": "2026-08-10T02:03:09.435Z"
+}

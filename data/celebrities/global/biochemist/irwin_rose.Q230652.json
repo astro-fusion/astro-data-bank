@@ -1,0 +1,33 @@
+{
+  "publicId": "638274b0",
+  "wikipediaSlug": "Irwin_Rose",
+  "wikipediaId": "Q230652",
+  "name": "Irwin Rose",
+  "fullName": "Irwin Rose",
+  "profileSummary": "Irwin Allan Rose was an American biologist. Along with Aaron Ciechanover and Avram Hershko, he was awarded the 2004 Nobel Prize in Chemistry for the discovery of ubiquitin-mediated protein degradation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nobel2004chemistrylaurets-Rose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Irwin_Rose",
+  "dateOfBirth": "1926-07-16",
+  "birthDateParsed": "1926-07-16",
+  "dateOfDeath": "2015-06-02",
+  "deathDateParsed": "2015-06-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "biochemist",
+    "university teacher",
+    "chemist"
+  ],
+  "qid": "Q230652",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-08-10T02:04:38.168Z"
+}

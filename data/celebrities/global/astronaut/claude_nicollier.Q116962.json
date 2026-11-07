@@ -1,0 +1,34 @@
+{
+  "publicId": "60d6a3b2",
+  "wikipediaSlug": "Claude_Nicollier",
+  "wikipediaId": "Q116962",
+  "name": "Claude Nicollier",
+  "fullName": "Claude Nicollier",
+  "profileSummary": "Claude Nicollier is the first astronaut from Switzerland. He has flown on four Space Shuttle missions. His first spaceflight (STS-46) was in 1992, and his final spaceflight (STS-103) was in 1999. He took part in two servicing missions to the Hubble Space Telescope. During his final spaceflight he participated in a spacewalk, becoming the first European Space Agency astronaut to do so during a Space Shuttle mission. In 2000 he was assigned to the Astronaut Office Extravehicular Activity Branch, while maintaining a position as Lead ESA Astronaut in Houston. Nicollier retired from ESA in April 2007.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Claude_Nicollier-2.jpg/330px-Claude_Nicollier-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Nicollier",
+  "dateOfBirth": "1944-09-02",
+  "birthDateParsed": "1944-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.466666666",
+  "birthCoordinatesLng": "6.85",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronaut",
+    "aircraft pilot",
+    "physicist",
+    "astrophysicist"
+  ],
+  "qid": "Q116962",
+  "birthPlace": "Vevey",
+  "fetchedAt": "2026-08-10T06:04:33.902Z"
+}

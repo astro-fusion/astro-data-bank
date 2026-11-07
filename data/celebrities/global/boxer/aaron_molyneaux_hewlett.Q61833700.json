@@ -1,0 +1,32 @@
+{
+  "publicId": "7b6708fe",
+  "wikipediaSlug": "Aaron_Molyneaux_Hewlett",
+  "wikipediaId": "Q61833700",
+  "name": "Aaron Molyneaux Hewlett",
+  "fullName": "Aaron Molyneaux Hewlett",
+  "profileSummary": "Aaron Molyneaux Hewlett was an educator who was the first African American instructor at Harvard University where he oversaw the college's gymnasium. He is recognized as the first African American superintendent of physical education in American higher education. Hewlett was instructor and curator of the college gymnasium from its construction in 1859 until his death in 1871 and has been called the \"Father of Boxing\" at Harvard.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Aaron_Molyneaux_Hewlett.jpg/330px-Aaron_Molyneaux_Hewlett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Molyneaux_Hewlett",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer",
+    "physical education teacher"
+  ],
+  "qid": "Q61833700",
+  "birthPlace": null,
+  "fetchedAt": "2026-08-05T02:42:14.229Z"
+}

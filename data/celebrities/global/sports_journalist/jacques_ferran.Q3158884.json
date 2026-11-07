@@ -1,0 +1,35 @@
+{
+  "publicId": "1e94c2e6",
+  "wikipediaSlug": "Jacques_Ferran",
+  "wikipediaId": "Q3158884",
+  "name": "Jacques Ferran",
+  "fullName": "Jacques Ferran",
+  "profileSummary": "Jacques Ferran was a French sports journalist and author. He was the editor-in-chief at L'Equipe and the director of France Football. He contributed to the creation of the European Cup and the Ballon d'Or.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/JacquesFerran.jpg/330px-JacquesFerran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Ferran",
+  "dateOfBirth": "1920-03-30",
+  "birthDateParsed": "1920-03-30",
+  "dateOfDeath": "2019-02-07",
+  "deathDateParsed": "2019-02-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.610919444",
+  "birthCoordinatesLng": "3.877230555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sports journalist",
+    "writer",
+    "editor-in-chief",
+    "theatre critic",
+    "bridge player"
+  ],
+  "qid": "Q3158884",
+  "birthPlace": "Montpellier",
+  "fetchedAt": "2026-08-10T11:28:39.597Z"
+}

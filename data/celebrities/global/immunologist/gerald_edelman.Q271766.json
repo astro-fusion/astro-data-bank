@@ -1,0 +1,37 @@
+{
+  "publicId": "e195bcdb",
+  "wikipediaSlug": "Gerald_Edelman",
+  "wikipediaId": "Q271766",
+  "name": "Gerald Edelman",
+  "fullName": "Gerald Edelman",
+  "profileSummary": "Gerald Maurice Edelman was an American biologist who shared the 1972 Nobel Prize in Physiology or Medicine for work with Rodney Robert Porter on the immune system. Edelman's Nobel Prize-winning research concerned discovery of the structure of antibody molecules. In interviews, he has said that the way the components of the immune system evolve over the life of the individual is analogous to the way the components of the brain evolve in a lifetime. There is a continuity in this way between his work on the immune system, for which he won the Nobel Prize, and his later work in neuroscience and in philosophy of mind.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gerald_Edelman.jpg/330px-Gerald_Edelman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerald_Edelman",
+  "dateOfBirth": "1929-07-01",
+  "birthDateParsed": "1929-07-01",
+  "dateOfDeath": "2014-05-17",
+  "deathDateParsed": "2014-05-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.713611111",
+  "birthCoordinatesLng": "-73.828055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "immunologist",
+    "neuroscientist",
+    "university teacher",
+    "neurologist",
+    "physicist",
+    "chemist",
+    "physician"
+  ],
+  "qid": "Q271766",
+  "birthPlace": "Queens",
+  "fetchedAt": "2026-08-10T03:15:03.761Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "318c2bd5",
+  "wikipediaSlug": "John_Kerr_(governor-general)",
+  "wikipediaId": "Q1354851",
+  "name": "John Kerr (governor-general)",
+  "fullName": "John Kerr (governor-general)",
+  "profileSummary": "Sir John Robert Kerr was an Australian barrister and judge who served as the 18th governor-general of Australia, in office from 1974 to 1977. He is primarily known for his involvement in the 1975 Australian constitutional crisis, which culminated in the dismissal of Prime Minister Gough Whitlam and the appointment of Malcolm Fraser as caretaker prime minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Governor-General_Sir_John_Kerr_%28cropped%29.jpg/330px-Governor-General_Sir_John_Kerr_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Kerr_(governor-general)",
+  "dateOfBirth": "1914-09-24",
+  "birthDateParsed": "1914-09-24",
+  "dateOfDeath": "1991-03-24",
+  "deathDateParsed": "1991-03-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-33.867777777",
+  "birthCoordinatesLng": "151.21",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "judge",
+    "lawyer"
+  ],
+  "qid": "Q1354851",
+  "birthPlace": "Sydney",
+  "fetchedAt": "2026-08-03T12:58:16.257Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "dba59b3e",
+  "wikipediaSlug": "Akinori_Nakayama",
+  "wikipediaId": "Q360661",
+  "name": "Akinori Nakayama",
+  "fullName": "Akinori Nakayama",
+  "profileSummary": "Akinori Nakayama  was a Japanese gymnast and Olympic gold medalist. Nakayama was born in Nagoya, Aichi Prefecture, and is a graduate of Chukyo University in Nagoya. Nakayama is one of only three gymnasts to become an Olympic Champion in rings twice.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Akinori_Nakayama_1966d.jpg/330px-Akinori_Nakayama_1966d.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akinori_Nakayama",
+  "dateOfBirth": "1943-03-01",
+  "birthDateParsed": "1943-03-01",
+  "dateOfDeath": "2025-03-09",
+  "deathDateParsed": "2025-03-09",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.18147",
+  "birthCoordinatesLng": "136.90641",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "artistic gymnast"
+  ],
+  "qid": "Q360661",
+  "birthPlace": "Nagoya",
+  "fetchedAt": "2026-08-10T12:58:33.836Z"
+}
