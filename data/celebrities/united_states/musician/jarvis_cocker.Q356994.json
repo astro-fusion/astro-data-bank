@@ -1,0 +1,37 @@
+{
+  "publicId": "8e48da85",
+  "wikipediaSlug": "Jarvis_Cocker",
+  "wikipediaId": "Q356994",
+  "name": "Jarvis Cocker",
+  "fullName": "Jarvis Cocker",
+  "profileSummary": "Jarvis Branson Cocker is an English musician. As the founder, frontman, lyricist and only consistent member of the band Pulp, he became a reluctant figurehead of the Britpop genre of the mid-1990s. Cocker has also pursued a solo career, and for seven years he presented the BBC Radio 6 Music show Jarvis Cocker's Sunday Service. The Sunday Service returned to Radio 6 in 2026, and the programme will run for a year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PulpEventim290723_%2867_of_130%29_%2853082349174%29_%28cropped%29.jpg/330px-PulpEventim290723_%2867_of_130%29_%2853082349174%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jarvis_Cocker",
+  "dateOfBirth": "1963-09-19",
+  "birthDateParsed": "1963-09-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.380833333",
+  "birthCoordinatesLng": "-1.470277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician",
+    "singer-songwriter",
+    "guitarist",
+    "singer",
+    "composer",
+    "lyricist",
+    "author"
+  ],
+  "qid": "Q356994",
+  "birthPlace": "Sheffield",
+  "fetchedAt": "2026-07-30T02:11:46.615Z"
+}

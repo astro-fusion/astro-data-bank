@@ -1,0 +1,34 @@
+{
+  "publicId": "37da127b",
+  "wikipediaSlug": "Ian_McShane",
+  "wikipediaId": "Q234141",
+  "name": "Ian McShane",
+  "fullName": "Ian McShane",
+  "profileSummary": "Ian David McShane is an English actor. His television performances include the title role in the BBC series Lovejoy, Al Swearengen in Deadwood (2004–2006) and its 2019 film continuation, and Mr. Wednesday in American Gods (2017–2021). For the original series of Deadwood, McShane won the Golden Globe Award for Best Actor – Television Series Drama and received a nomination for the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series. As a producer of the film, he was nominated for the Primetime Emmy Award for Outstanding Television Movie.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/McShaneTamLinRio311022_%281_of_21%29_%2852470810951%29_%28cropped_3%C3%974%29.jpg/330px-McShaneTamLinRio311022_%281_of_21%29_%2852470810951%29_%28cropped_3%C3%974%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ian_McShane",
+  "dateOfBirth": "1942-09-29",
+  "birthDateParsed": "1942-09-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.7449",
+  "birthCoordinatesLng": "-2.4769",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "singer",
+    "voice actor"
+  ],
+  "qid": "Q234141",
+  "birthPlace": "Blackburn",
+  "fetchedAt": "2026-07-30T01:25:25.819Z"
+}

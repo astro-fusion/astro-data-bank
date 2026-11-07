@@ -1,0 +1,31 @@
+{
+  "publicId": "c03e14e7",
+  "wikipediaSlug": "B-Fab",
+  "wikipediaId": "Q108803594",
+  "name": "B-Fab",
+  "fullName": "B-Fab",
+  "profileSummary": "Briana Brandy is an American professional wrestler and musician. She is signed to WWE, where she performs on the SmackDown brand under the ring name B-Fab.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/B-Fab%2C_WrestleMania_XL_2024_%28cropped%29.jpg/330px-B-Fab%2C_WrestleMania_XL_2024_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/B-Fab",
+  "dateOfBirth": "1990-01-01",
+  "birthDateParsed": "1990-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.8",
+  "birthCoordinatesLng": "-81.375",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q108803594",
+  "birthPlace": "Canton",
+  "fetchedAt": "2026-07-31T03:26:21.754Z"
+}

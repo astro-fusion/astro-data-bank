@@ -1,0 +1,35 @@
+{
+  "publicId": "2a94d22b",
+  "wikipediaSlug": "Ian_Kelly_(actor)",
+  "wikipediaId": "Q3147288",
+  "name": "Ian Kelly (actor)",
+  "fullName": "Ian Kelly (actor)",
+  "profileSummary": "Ian Francis Kelly is a British writer and actor. His works include historical biographies, stage and screenplays.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ian_Kelly_(actor)",
+  "dateOfBirth": "1966-01-16",
+  "birthDateParsed": "1966-01-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.208055555",
+  "birthCoordinatesLng": "0.1225",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "biographer",
+    "television actor",
+    "writer",
+    "historian"
+  ],
+  "qid": "Q3147288",
+  "birthPlace": "Cambridge",
+  "fetchedAt": "2026-07-30T02:11:33.564Z"
+}

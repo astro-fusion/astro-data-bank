@@ -1,0 +1,33 @@
+{
+  "publicId": "e2f83329",
+  "wikipediaSlug": "Donald_Sumpter",
+  "wikipediaId": "Q3713649",
+  "name": "Donald Sumpter",
+  "fullName": "Donald Sumpter",
+  "profileSummary": "Donald Sumpter is a British actor who has appeared in film and television since the mid-1960s. His credits include three appearances in Doctor Who, The Black Panther (1977), Bleak House (1985), The Queen's Nose (1995–1998), Great Expectations (1999), Nicholas Nickleby (2001), Enigma (2001), K-19: The Widowmaker (2002), The Constant Gardener (2005), Being Human (2009–2010), Ultramarines: The Movie (2010), Black Mirror (2011), Game of Thrones (2011–2012), Endeavour (2018), Les Misérables (2018), Chernobyl (2019), and The Phoenician Scheme (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Donald_Sumpter.jpg/330px-Donald_Sumpter.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Sumpter",
+  "dateOfBirth": "1943-02-13",
+  "birthDateParsed": "1943-02-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.3",
+  "birthCoordinatesLng": "-0.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q3713649",
+  "birthPlace": "Northamptonshire",
+  "fetchedAt": "2026-07-30T01:24:01.447Z"
+}

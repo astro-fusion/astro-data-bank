@@ -1,0 +1,33 @@
+{
+  "publicId": "21313034",
+  "wikipediaSlug": "Bronson_Webb",
+  "wikipediaId": "Q20870860",
+  "name": "Bronson Webb",
+  "fullName": "Bronson Webb",
+  "profileSummary": "Bronson John Webb is a British actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bronson_Webb",
+  "dateOfBirth": "1983-02-20",
+  "birthDateParsed": "1983-02-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q20870860",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:23:48.873Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "723026e3",
+  "wikipediaSlug": "Cody_Rhodes",
+  "wikipediaId": "Q299222",
+  "name": "Cody Rhodes",
+  "fullName": "Cody Rhodes",
+  "profileSummary": "Cody Garrett Runnels Rhodes is an American professional wrestler. As of April 2022, he is signed to WWE, where he performs on the SmackDown brand. Rhodes co-founded All Elite Wrestling (AEW), where he served as an executive vice president and wrestler from 2019 to 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cody_Rhodes_Fort_Bragg_Army_250_Birthday_Celebration_%28headshot%29.jpg/330px-Cody_Rhodes_Fort_Bragg_Army_250_Birthday_Celebration_%28headshot%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cody_Rhodes",
+  "dateOfBirth": "1985-06-30",
+  "birthDateParsed": "1985-06-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.226944444",
+  "birthCoordinatesLng": "-80.843333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "television actor"
+  ],
+  "qid": "Q299222",
+  "birthPlace": "Charlotte",
+  "fetchedAt": "2026-07-31T03:26:47.648Z"
+}

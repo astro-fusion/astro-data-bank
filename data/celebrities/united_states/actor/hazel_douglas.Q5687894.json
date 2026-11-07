@@ -1,0 +1,32 @@
+{
+  "publicId": "1e9e49b2",
+  "wikipediaSlug": "Hazel_Douglas",
+  "wikipediaId": "Q5687894",
+  "name": "Hazel Douglas",
+  "fullName": "Hazel Douglas",
+  "profileSummary": "Hazel Douglas was an English actress. She portrayed Bathilda Bagshot in Harry Potter and the Deathly Hallows – Part 1.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hazel_Douglas",
+  "dateOfBirth": "1923-11-02",
+  "birthDateParsed": "1923-11-02",
+  "dateOfDeath": "2016-09-08",
+  "deathDateParsed": "2016-09-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4767",
+  "birthCoordinatesLng": "-0.2138",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q5687894",
+  "birthPlace": "Fulham",
+  "fetchedAt": "2026-07-30T02:11:29.042Z"
+}

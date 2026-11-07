@@ -1,0 +1,32 @@
+{
+  "publicId": "88ad9dee",
+  "wikipediaSlug": "Armando_Estrada",
+  "wikipediaId": "Q2069280",
+  "name": "Armando Estrada",
+  "fullName": "Armando Estrada",
+  "profileSummary": "Hazem Ali is a Palestinian American professional wrestler and manager. He is best known by his ring name Armando Alejandro Estrada or Armando Estrada, who works for WWE.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Armandomeetngreet.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Estrada",
+  "dateOfBirth": "1978-12-20",
+  "birthDateParsed": "1978-12-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "manager"
+  ],
+  "qid": "Q2069280",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-07-31T03:25:37.970Z"
+}

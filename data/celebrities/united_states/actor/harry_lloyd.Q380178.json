@@ -1,0 +1,34 @@
+{
+  "publicId": "1d3e3871",
+  "wikipediaSlug": "Harry_Lloyd",
+  "wikipediaId": "Q380178",
+  "name": "Harry Lloyd",
+  "fullName": "Harry Lloyd",
+  "profileSummary": "Harry Charles Salusbury Lloyd is an English actor. His performance in the Channel 4 miniseries The Fear (2012) earned him a British Academy Television Award nomination. He gained prominence through his roles as Will Scarlet in the BBC drama Robin Hood (2006), Jeremy Baines in the Doctor Who episodes \"Human Nature\" and \"The Family of Blood\" (2007), and Viserys Targaryen in the first season of the HBO series Game of Thrones (2011).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Stuttgart_2023_-Comic_Con_Germany-_Harry_Lloyd-_by-RaBoe_034_%28cropped%29.jpg/330px-Stuttgart_2023_-Comic_Con_Germany-_Harry_Lloyd-_by-RaBoe_034_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Lloyd",
+  "dateOfBirth": "1983-11-17",
+  "birthDateParsed": "1983-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q380178",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:24:29.800Z"
+}

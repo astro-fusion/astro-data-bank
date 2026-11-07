@@ -1,0 +1,36 @@
+{
+  "publicId": "89d17d9d",
+  "wikipediaSlug": "Kenny_Rogers",
+  "wikipediaId": "Q217160",
+  "name": "Kenny Rogers",
+  "fullName": "Kenny Rogers",
+  "profileSummary": "Kenneth Donald Ray Rogers was an American singer-songwriter. Rogers was particularly popular with country audiences, but also charted more than 120 hit singles across various genres, topping the country and pop album charts for more than 200 individual weeks in the United States alone. He sold more than 100 million records worldwide during his lifetime, making him one of the best-selling music artists of all time. His fame and career spanned multiple genres—jazz, folk, pop, rock, and country. He remade his career and was one of the most successful cross-over artists of all time. He was inducted into the Country Music Hall of Fame in 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KennyRogers.jpg/330px-KennyRogers.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenny_Rogers",
+  "dateOfBirth": "1938-08-21",
+  "birthDateParsed": "1938-08-21",
+  "dateOfDeath": "2020-03-20",
+  "deathDateParsed": "2020-03-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.762777777",
+  "birthCoordinatesLng": "-95.383055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "singer-songwriter",
+    "record producer",
+    "guitarist",
+    "pianist"
+  ],
+  "qid": "Q217160",
+  "birthPlace": "Houston",
+  "fetchedAt": "2026-07-30T07:25:31.020Z"
+}

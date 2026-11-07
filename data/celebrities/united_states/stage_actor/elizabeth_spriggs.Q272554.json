@@ -1,0 +1,33 @@
+{
+  "publicId": "cfef6f5c",
+  "wikipediaSlug": "Elizabeth_Spriggs",
+  "wikipediaId": "Q272554",
+  "name": "Elizabeth Spriggs",
+  "fullName": "Elizabeth Spriggs",
+  "profileSummary": "Elizabeth Jean Spriggs was an English actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Spriggs",
+  "dateOfBirth": "1929-09-18",
+  "birthDateParsed": "1929-09-18",
+  "dateOfDeath": "2008-07-02",
+  "deathDateParsed": "2008-07-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.259",
+  "birthCoordinatesLng": "-1.911",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q272554",
+  "birthPlace": "Buxton",
+  "fetchedAt": "2026-07-30T02:11:04.396Z"
+}

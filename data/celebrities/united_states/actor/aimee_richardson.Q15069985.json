@@ -1,0 +1,31 @@
+{
+  "publicId": "864ca272",
+  "wikipediaSlug": "Aimee_Richardson",
+  "wikipediaId": "Q15069985",
+  "name": "Aimee Richardson",
+  "fullName": "Aimee Richardson",
+  "profileSummary": "Aimee Richardson is a Northern Irish actress. She is best known for her role as Myrcella Baratheon in the first two seasons of the television series Game of Thrones (2011–2012).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aimee_Richardson_by_Gage_Skidmore.jpg/330px-Aimee_Richardson_by_Gage_Skidmore.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aimee_Richardson",
+  "dateOfBirth": "1997-12-29",
+  "birthDateParsed": "1997-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.6075",
+  "birthCoordinatesLng": "-6.6925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q15069985",
+  "birthPlace": "Northern Ireland",
+  "fetchedAt": "2026-07-30T01:23:18.814Z"
+}

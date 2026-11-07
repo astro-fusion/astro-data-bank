@@ -1,0 +1,35 @@
+{
+  "publicId": "d7654867",
+  "wikipediaSlug": "Philip_Selway",
+  "wikipediaId": "Q842263",
+  "name": "Philip Selway",
+  "fullName": "Philip Selway",
+  "profileSummary": "Philip James Selway is an English musician and the drummer of the rock band Radiohead. He combines rock drumming with electronic percussion. Selway was inducted into the Rock and Roll Hall of Fame as a member of Radiohead in 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/RadioheadO2211125-152_%2854955848039%29_%28cropped%29.jpg/330px-RadioheadO2211125-152_%2854955848039%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philip_Selway",
+  "dateOfBirth": "1967-05-23",
+  "birthDateParsed": "1967-05-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.671666666",
+  "birthCoordinatesLng": "-1.278333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "drummer",
+    "songwriter",
+    "musician",
+    "singer",
+    "composer"
+  ],
+  "qid": "Q842263",
+  "birthPlace": "Abingdon-on-Thames",
+  "fetchedAt": "2026-07-30T02:12:31.392Z"
+}

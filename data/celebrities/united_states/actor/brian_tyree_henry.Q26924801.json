@@ -1,0 +1,31 @@
+{
+  "publicId": "0b058b4f",
+  "wikipediaSlug": "Brian_Tyree_Henry",
+  "wikipediaId": "Q26924801",
+  "name": "Brian Tyree Henry",
+  "fullName": "Brian Tyree Henry",
+  "profileSummary": "Brian Tyree Henry is an American actor. Known for his roles on stage and screen, he has received nominations for an Academy Award, a Tony Award, an Actor Award, two Critics' Choice Awards, and three Primetime Emmy Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Brian_Tyree_Henry_by_Gage_Skidmore_2.jpg/330px-Brian_Tyree_Henry_by_Gage_Skidmore_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Tyree_Henry",
+  "dateOfBirth": "1982-03-31",
+  "birthDateParsed": "1982-03-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.066666666",
+  "birthCoordinatesLng": "-78.9175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q26924801",
+  "birthPlace": "Fayetteville",
+  "fetchedAt": "2026-07-30T00:41:14.045Z"
+}

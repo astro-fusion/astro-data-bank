@@ -1,0 +1,41 @@
+{
+  "publicId": "5c14155d",
+  "wikipediaSlug": "Gloria_Estefan",
+  "wikipediaId": "Q184697",
+  "name": "Gloria Estefan",
+  "fullName": "Gloria Estefan",
+  "profileSummary": "Gloria María Milagrosa Estefan is a Cuban-American singer, songwriter, actress, and businesswoman. Estefan is a five-time Grammy Award winner and a Presidential Medal of Freedom recipient, and has been named one of the Top 100 greatest artists of all time by both VH1 and Billboard. Estefan's record sales exceed 120 million worldwide, making her one of the best-selling music artists of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gloria_Estefan_in_2017.jpg/330px-Gloria_Estefan_in_2017.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloria_Estefan",
+  "dateOfBirth": "1957-09-01",
+  "birthDateParsed": "1957-09-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "23.136666666",
+  "birthCoordinatesLng": "-82.358888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "television actor",
+    "film actor",
+    "recording artist",
+    "film director",
+    "writer",
+    "businessperson",
+    "singer",
+    "actor",
+    "author",
+    "musician"
+  ],
+  "qid": "Q184697",
+  "birthPlace": "Havana",
+  "fetchedAt": "2026-07-30T07:25:25.003Z"
+}

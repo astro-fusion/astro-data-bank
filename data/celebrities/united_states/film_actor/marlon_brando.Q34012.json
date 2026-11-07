@@ -1,0 +1,30 @@
+{
+  "publicId": "bde80d68",
+  "wikipediaSlug": "Marlon_Brando",
+  "wikipediaId": "Q34012",
+  "name": "Marlon Brando",
+  "fullName": "Marlon Brando",
+  "profileSummary": "Marlon Brando Jr. was an American actor. Widely regarded as one of the greatest and most influential performers in the history of cinema, he received numerous accolades, including two Academy Awards, two Golden Globe Awards, three BAFTAs, a Cannes Film Festival Award, and a Primetime Emmy Award. Brando is credited with being one of the first actors to bring the Stanislavski system of acting and method acting to mainstream audiences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marlon_Brando_publicity_for_One-Eyed_Jacks.png/330px-Marlon_Brando_publicity_for_One-Eyed_Jacks.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marlon_Brando",
+  "dateOfBirth": "1924-04-03",
+  "birthDateParsed": "1924-04-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.258611111",
+  "birthCoordinatesLng": "-95.9375",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "television actor",
+    "director",
+    "actor",
+    "activist",
+    "theatre manager",
+    "writer"
+  ],
+  "qid": "Q34012",
+  "birthPlace": "Omaha",
+  "fetchedAt": "2026-07-29T15:24:13.251Z"
+}

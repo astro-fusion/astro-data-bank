@@ -1,0 +1,36 @@
+{
+  "publicId": "d672fd3b",
+  "wikipediaSlug": "The_Weeknd",
+  "wikipediaId": "Q2121062",
+  "name": "The Weeknd",
+  "fullName": "The Weeknd",
+  "profileSummary": "Abel Tesfaye, known professionally as the Weeknd, is a Canadian singer-songwriter, record producer, and actor. Regarded as an influential figure in popular music, he is known for his light-lyric tenor vocal range and falsetto, alternative R&B sound, and dark aesthetics, as well as the cinematic visuals and storytelling of his music videos. His accolades include 4 Grammy Awards, 20 Billboard Music Awards, 22 Juno Awards, 6 American Music Awards, 3 MTV Video Music Awards, and a Latin Grammy Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg/330px-The_Weeknd_Portrait_by_Brian_Ziff.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Weeknd",
+  "dateOfBirth": "1990-02-16",
+  "birthDateParsed": "1990-02-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.7737",
+  "birthCoordinatesLng": "-79.2446",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "record producer",
+    "actor",
+    "lyricist",
+    "composer"
+  ],
+  "qid": "Q2121062",
+  "birthPlace": "Scarborough",
+  "fetchedAt": "2026-07-30T13:08:42.174Z"
+}

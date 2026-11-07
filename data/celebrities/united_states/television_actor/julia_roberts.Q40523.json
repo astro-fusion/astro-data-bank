@@ -1,0 +1,37 @@
+{
+  "publicId": "5b7f1637",
+  "wikipediaSlug": "Julia_Roberts",
+  "wikipediaId": "Q40523",
+  "name": "Julia Roberts",
+  "fullName": "Julia Roberts",
+  "profileSummary": "Julia Fiona Roberts is an American actress. Known for her leading roles across several genres, she has received various accolades, including an Academy Award, a British Academy Film Award, and three Golden Globes. She became known for playing charming and relatable characters in romantic comedies and blockbusters, before expanding into dramas, thrillers, and independent films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/330px-Julia_Roberts_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julia_Roberts",
+  "dateOfBirth": "1967-10-28",
+  "birthDateParsed": "1967-10-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.754444444",
+  "birthCoordinatesLng": "-84.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "film producer",
+    "model",
+    "stage actor",
+    "voice actor",
+    "actor"
+  ],
+  "qid": "Q40523",
+  "birthPlace": "Atlanta",
+  "fetchedAt": "2026-07-30T03:31:01.563Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "dbbbdb66",
+  "wikipediaSlug": "David_Tennant",
+  "wikipediaId": "Q214601",
+  "name": "David Tennant",
+  "fullName": "David Tennant",
+  "profileSummary": "David John Tennant is a Scottish actor. He is best known for portraying the lead character in Doctor Who, headlining the show as the Tenth Doctor from 2005–2010, and returning as the Fourteenth Doctor in 2023. His other notable screen roles include portraying Barty Crouch Jr. in Harry Potter and the Goblet of Fire (2005), DI Alec Hardy in Broadchurch (2013–2017), Crowley in Good Omens (2019–2026), and various fictionalised versions of himself in Staged (2020–2022).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/David_Tennant_-_Los_Angeles_Comic_Con_2025.jpg/330px-David_Tennant_-_Los_Angeles_Comic_Con_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Tennant",
+  "dateOfBirth": "1971-04-18",
+  "birthDateParsed": "1971-04-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.9024",
+  "birthCoordinatesLng": "-3.6431",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "character actor",
+    "stage actor",
+    "film actor",
+    "podcaster",
+    "actor"
+  ],
+  "qid": "Q214601",
+  "birthPlace": "Bathgate",
+  "fetchedAt": "2026-07-30T02:10:50.748Z"
+}

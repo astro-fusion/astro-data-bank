@@ -1,0 +1,30 @@
+{
+  "publicId": "19431819",
+  "wikipediaSlug": "Daniel_Ings",
+  "wikipediaId": "Q5217576",
+  "name": "Daniel Ings",
+  "fullName": "Daniel Ings",
+  "profileSummary": "Daniel Ings is a British actor. He is known for starring in the television series Lovesick (2014–2018), The Gentlemen (2024) and A Knight of the Seven Kingdoms (2026).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Daniel_Ings_2024.jpg/330px-Daniel_Ings_2024.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Ings",
+  "dateOfBirth": "1985-11-30",
+  "birthDateParsed": "1985-11-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.725555555",
+  "birthCoordinatesLng": "-3.526944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q5217576",
+  "birthPlace": "Exeter",
+  "fetchedAt": "2026-07-30T00:41:12.554Z"
+}

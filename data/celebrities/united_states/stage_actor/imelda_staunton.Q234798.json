@@ -1,0 +1,34 @@
+{
+  "publicId": "7072d2bd",
+  "wikipediaSlug": "Imelda_Staunton",
+  "wikipediaId": "Q234798",
+  "name": "Imelda Staunton",
+  "fullName": "Imelda Staunton",
+  "profileSummary": "Dame Imelda Mary Philomena Bernadette Staunton is an English actress and singer. After training at the Royal Academy of Dramatic Art, Staunton began her career in repertory theatre in 1976 and appeared in various stage productions in the West End and across the UK. Throughout her career, she has received numerous accolades including a British Academy Film Award, and five Laurence Olivier Awards as well as nominations for an Academy Award, three British Academy Television Awards, three Golden Globes, and three Primetime Emmy Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Imelda_Staunton%2C_October_2019.jpg/330px-Imelda_Staunton%2C_October_2019.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Imelda_Staunton",
+  "dateOfBirth": "1956-01-09",
+  "birthDateParsed": "1956-01-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.566",
+  "birthCoordinatesLng": "-0.1338",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q234798",
+  "birthPlace": "Archway district",
+  "fetchedAt": "2026-07-30T02:11:43.377Z"
+}

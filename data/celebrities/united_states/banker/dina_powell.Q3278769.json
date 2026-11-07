@@ -1,0 +1,33 @@
+{
+  "publicId": "bbabb54b",
+  "wikipediaSlug": "Dina_Powell",
+  "wikipediaId": "Q3278769",
+  "name": "Dina Powell",
+  "fullName": "Dina Powell",
+  "profileSummary": "Dina Powell, also known as Dina Powell McCormick, is an Egyptian-American financial executive, philanthropist, and political advisor, best known for having been the United States Deputy National Security Advisor for Strategy to President Donald Trump. She is the current president and vice chair of the social media and technology company Meta.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dina_Habib_Powell_at_FT_Spring_Party.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dina_Powell",
+  "dateOfBirth": "1973-06-12",
+  "birthDateParsed": "1973-06-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30.044444444",
+  "birthCoordinatesLng": "31.235833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "banker",
+    "politician",
+    "diplomat"
+  ],
+  "qid": "Q3278769",
+  "birthPlace": "Cairo",
+  "fetchedAt": "2026-07-30T15:26:17.516Z"
+}

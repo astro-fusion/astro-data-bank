@@ -1,0 +1,39 @@
+{
+  "publicId": "938a5e78",
+  "wikipediaSlug": "Jennifer_Aniston",
+  "wikipediaId": "Q32522",
+  "name": "Jennifer Aniston",
+  "fullName": "Jennifer Aniston",
+  "profileSummary": "Jennifer Joanna Aniston is an American actress. Her accolades include a Primetime Emmy Award, a Golden Globe Award, and two Screen Actors Guild Awards. Aniston has consistently ranked among the world's highest-paid actresses, as of 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/330px-JenniferAnistonHWoFFeb2012.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+  "dateOfBirth": "1969-02-11",
+  "birthDateParsed": "1969-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.151111111",
+  "birthCoordinatesLng": "-118.448333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "film producer",
+    "voice actor",
+    "stage actor",
+    "executive producer",
+    "film director",
+    "television director",
+    "actor"
+  ],
+  "qid": "Q32522",
+  "birthPlace": "Sherman Oaks",
+  "fetchedAt": "2026-07-30T03:31:39.978Z"
+}

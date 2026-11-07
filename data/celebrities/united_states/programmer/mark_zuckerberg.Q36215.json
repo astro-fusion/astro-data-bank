@@ -1,0 +1,36 @@
+{
+  "publicId": "08946ae3",
+  "wikipediaSlug": "Mark_Zuckerberg",
+  "wikipediaId": "Q36215",
+  "name": "Mark Zuckerberg",
+  "fullName": "Mark Zuckerberg",
+  "profileSummary": "Mark Elliot Zuckerberg is an American businessman and programmer who co-founded the social media service Facebook and its parent company Meta Platforms. He is its chairman, chief executive officer (CEO), and controlling shareholder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/F20250904AH-2824_%2854778373111%29_%283x4_cropped_on_Zuckerberg_following_the_rule_of_thirds%29.jpg/330px-F20250904AH-2824_%2854778373111%29_%283x4_cropped_on_Zuckerberg_following_the_rule_of_thirds%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+  "dateOfBirth": "1984-05-14",
+  "birthDateParsed": "1984-05-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.0325",
+  "birthCoordinatesLng": "-73.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "programmer",
+    "entrepreneur",
+    "computer scientist",
+    "patron of the arts",
+    "chief executive officer",
+    "philanthropist"
+  ],
+  "qid": "Q36215",
+  "birthPlace": "White Plains",
+  "fetchedAt": "2026-07-30T15:27:07.080Z"
+}

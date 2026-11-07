@@ -1,0 +1,30 @@
+{
+  "publicId": "4aa24910",
+  "wikipediaSlug": "Gregory_Peck",
+  "wikipediaId": "Q108366",
+  "name": "Gregory Peck",
+  "fullName": "Gregory Peck",
+  "profileSummary": "Eldred Gregory Peck was an American actor and one of the most popular film stars from the 1940s to the 1970s. In 1999, the American Film Institute named Peck the 12th-greatest male star of Classic Hollywood Cinema.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gregory_Peck_portrait_1943.jpg/330px-Gregory_Peck_portrait_1943.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gregory_Peck",
+  "dateOfBirth": "1916-04-05",
+  "birthDateParsed": "1916-04-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715",
+  "birthCoordinatesLng": "-117.1625",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "character actor",
+    "film producer",
+    "stage actor",
+    "television actor",
+    "actor",
+    "producer",
+    "activist"
+  ],
+  "qid": "Q108366",
+  "birthPlace": "San Diego",
+  "fetchedAt": "2026-07-29T15:24:03.149Z"
+}

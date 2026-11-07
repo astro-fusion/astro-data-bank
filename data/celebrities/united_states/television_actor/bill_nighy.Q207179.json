@@ -1,0 +1,36 @@
+{
+  "publicId": "c57b845c",
+  "wikipediaSlug": "Bill_Nighy",
+  "wikipediaId": "Q207179",
+  "name": "Bill Nighy",
+  "fullName": "Bill Nighy",
+  "profileSummary": "William Francis Nighy is a British and Irish actor. Known for his work on stage and screen, he has received various accolades including two BAFTA Awards and a Golden Globe Award, in addition to nominations for an Academy Award, a Tony Award, a Laurence Olivier Award and two Screen Actors Guild Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bill_Nighy-3007.jpg/330px-Bill_Nighy-3007.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Nighy",
+  "dateOfBirth": "1949-12-12",
+  "birthDateParsed": "1949-12-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.2803",
+  "birthCoordinatesLng": "-0.0816",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor",
+    "dub actor",
+    "stage actor",
+    "voice actor"
+  ],
+  "qid": "Q207179",
+  "birthPlace": "Caterham",
+  "fetchedAt": "2026-07-30T02:10:26.066Z"
+}

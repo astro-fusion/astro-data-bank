@@ -1,0 +1,31 @@
+{
+  "publicId": "422a7b6c",
+  "wikipediaSlug": "Drake_Maverick",
+  "wikipediaId": "Q3784256",
+  "name": "Drake Maverick",
+  "fullName": "Drake Maverick",
+  "profileSummary": "James Michael Curtin is an English retired professional wrestler. He is signed to WWE as a writer for the Raw brand. During his time as an on-screen performer in the company, he worked under the ring name Drake Maverick. He has also worked for Total Nonstop Action Wrestling, under the ring name Rockstar Spud.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Rockstar_Spud_2014.jpg/330px-Rockstar_Spud_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Drake_Maverick",
+  "dateOfBirth": "1983-01-30",
+  "birthDateParsed": "1983-01-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q3784256",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-07-31T03:26:46.403Z"
+}

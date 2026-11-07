@@ -1,0 +1,36 @@
+{
+  "publicId": "f241f32e",
+  "wikipediaSlug": "Ed_Skrein",
+  "wikipediaId": "Q5335413",
+  "name": "Ed Skrein",
+  "fullName": "Ed Skrein",
+  "profileSummary": "Edward George Skrein is an English actor, filmmaker and rapper. He rose to prominence as the supervillain Francis Freeman / Ajax in the superhero comedy film Deadpool (2016). He also starred in the films The Transporter: Refueled (2015), Alita: Battle Angel (2019), Midway (2019), Rebel Moon – Part One: A Child of Fire (2023), Rebel Moon – Part Two: The Scargiver (2024), and Jurassic World Rebirth (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ed_Skrein_by_Gage_Skidmore.jpg/330px-Ed_Skrein_by_Gage_Skidmore.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ed_Skrein",
+  "dateOfBirth": "1983-03-29",
+  "birthDateParsed": "1983-03-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.542777777",
+  "birthCoordinatesLng": "-0.159444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor",
+    "musician",
+    "rapper",
+    "television actor"
+  ],
+  "qid": "Q5335413",
+  "birthPlace": "London Borough of Camden",
+  "fetchedAt": "2026-07-30T01:24:45.910Z"
+}

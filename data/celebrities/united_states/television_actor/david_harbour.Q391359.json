@@ -1,0 +1,32 @@
+{
+  "publicId": "f08103c8",
+  "wikipediaSlug": "David_Harbour",
+  "wikipediaId": "Q391359",
+  "name": "David Harbour",
+  "fullName": "David Harbour",
+  "profileSummary": "David Kenneth Harbour is an American actor. He gained global recognition for his portrayal of Jim Hopper in the Netflix science fiction series Stranger Things (2016–2025), for which he received two nominations for the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series. His starring film roles include the title character in Hellboy (2019), Santa Claus in Violent Night (2022), and a former racer in the sports film Gran Turismo (2023). Harbour has played Red Guardian in the Marvel Cinematic Universe, including the films Black Widow (2021) and Thunderbolts* (2025). Harbour also voiced Eric Frankenstein in the animated television series Creature Commandos (2024–present).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/David_Harbour_by_Gage_Skidmore_2.jpg/330px-David_Harbour_by_Gage_Skidmore_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Harbour",
+  "dateOfBirth": "1975-04-10",
+  "birthDateParsed": "1975-04-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.0325",
+  "birthCoordinatesLng": "-73.766666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "stage actor",
+    "actor"
+  ],
+  "qid": "Q391359",
+  "birthPlace": "White Plains",
+  "fetchedAt": "2026-07-30T00:41:39.927Z"
+}

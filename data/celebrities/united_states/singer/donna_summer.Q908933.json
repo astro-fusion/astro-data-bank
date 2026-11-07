@@ -1,0 +1,37 @@
+{
+  "publicId": "01c1eb27",
+  "wikipediaSlug": "Donna_Summer",
+  "wikipediaId": "Q908933",
+  "name": "Donna Summer",
+  "fullName": "Donna Summer",
+  "profileSummary": "Donna Adrian Gaines, known professionally as Donna Summer, was an American singer and songwriter. She gained prominence during the disco era of the 1970s and became known as the \"Queen of Disco\", while her music gained a global following.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Donna_Summer_%281977_Casablanca_publicity_headshot%29.jpg/330px-Donna_Summer_%281977_Casablanca_publicity_headshot%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Donna_Summer",
+  "dateOfBirth": "1948-12-31",
+  "birthDateParsed": "1948-12-31",
+  "dateOfDeath": "2012-05-17",
+  "deathDateParsed": "2012-05-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "composer",
+    "recording artist",
+    "musician",
+    "actor",
+    "pop singer"
+  ],
+  "qid": "Q908933",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-07-30T07:25:06.575Z"
+}

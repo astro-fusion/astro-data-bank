@@ -1,0 +1,31 @@
+{
+  "publicId": "ee33e1bf",
+  "wikipediaSlug": "Aigle_Blanc",
+  "wikipediaId": "Q105974495",
+  "name": "Aigle Blanc",
+  "fullName": "Aigle Blanc",
+  "profileSummary": "Cyril Coquerelle is a French professional wrestler. He is signed to WWE where he performs on the NXT brand under the ring name Elio LeFleur. He is a former one-time WWE Speed Champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aigle_Blanc_February_2020.jpg/330px-Aigle_Blanc_February_2020.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aigle_Blanc",
+  "dateOfBirth": "1998-09-13",
+  "birthDateParsed": "1998-09-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q105974495",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-07-31T03:25:37.328Z"
+}

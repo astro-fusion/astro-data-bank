@@ -1,0 +1,35 @@
+{
+  "publicId": "28d5f5b5",
+  "wikipediaSlug": "Will_Liu",
+  "wikipediaId": "Q1014447",
+  "name": "Will Liu",
+  "fullName": "Will Liu",
+  "profileSummary": "Will Liu is a Taiwanese singer, dancer and composer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Will_Liu",
+  "dateOfBirth": "1972-10-07",
+  "birthDateParsed": "1972-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "22.615",
+  "birthCoordinatesLng": "120.2975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "actor",
+    "songwriter",
+    "television actor"
+  ],
+  "qid": "Q1014447",
+  "birthPlace": "Kaohsiung",
+  "fetchedAt": "2026-07-30T16:46:49.277Z"
+}

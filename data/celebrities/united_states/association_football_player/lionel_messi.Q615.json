@@ -1,0 +1,31 @@
+{
+  "publicId": "295d01f8",
+  "wikipediaSlug": "Lionel_Messi",
+  "wikipediaId": "Q615",
+  "name": "Lionel Messi",
+  "fullName": "Lionel Messi",
+  "profileSummary": "Lionel Andrés \"Leo\" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer (MLS) club Inter Miami and the Argentina national team. Widely regarded as one of the greatest players in history, Messi has set numerous records for individual accolades won throughout his professional footballing career, including eight Ballons d'Or, six European Golden Shoes, and being named the world's best player by FIFA eight times. In 2025, he was named the All Time Men's World Best Player by the IFFHS. Messi is the most decorated player in the history of professional football, having won 46 team trophies. His records include most goals in a calendar year (91), most goals for a single club, most goals in La Liga (474), most assists in the FIFA World Cup (12), and most assists in international football (65). Messi has scored over 910 senior career goals and provided over 410 assists for club and country, making him the second-highest goalscorer and the highest assist provider in the history of the sport.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/330px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lionel_Messi",
+  "dateOfBirth": "1987-06-24",
+  "birthDateParsed": "1987-06-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.9575",
+  "birthCoordinatesLng": "-60.639444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q615",
+  "birthPlace": "Rosario",
+  "fetchedAt": "2026-07-30T15:27:07.503Z"
+}

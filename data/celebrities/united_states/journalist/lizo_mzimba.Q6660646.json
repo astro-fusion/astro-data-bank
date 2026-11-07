@@ -1,0 +1,33 @@
+{
+  "publicId": "4070b537",
+  "wikipediaSlug": "Lizo_Mzimba",
+  "wikipediaId": "Q6660646",
+  "name": "Lizo Mzimba",
+  "fullName": "Lizo Mzimba",
+  "profileSummary": "Lizo Mzimba is an English journalist and television presenter. He is best known for being a presenter for Newsround between 1998 and 2008 and is currently the Entertainment Correspondent for BBC News.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lizo_Mzimba_Glastonbury_2011.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lizo_Mzimba",
+  "dateOfBirth": "1968-12-06",
+  "birthDateParsed": "1968-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53",
+  "birthCoordinatesLng": "-1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "presenter",
+    "television presenter"
+  ],
+  "qid": "Q6660646",
+  "birthPlace": "England",
+  "fetchedAt": "2026-07-30T02:11:32.053Z"
+}

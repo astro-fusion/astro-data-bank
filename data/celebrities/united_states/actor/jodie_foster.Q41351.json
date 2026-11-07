@@ -1,0 +1,40 @@
+{
+  "publicId": "51b2ba45",
+  "wikipediaSlug": "Jodie_Foster",
+  "wikipediaId": "Q41351",
+  "name": "Jodie Foster",
+  "fullName": "Jodie Foster",
+  "profileSummary": "Alicia Christian \"Jodie\" Foster is an American actress and filmmaker. Foster started her career as a child actor before establishing herself as a leading actress in film. As a performer, she is known for her versatility. She has received several accolades, including two Academy Awards, three BAFTA Awards, four Golden Globe Awards, a Primetime Emmy Award, the Cecil B. DeMille Award, and the Honorary Palme d'Or.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Jodie_Foster_and_Rebecca_Zlotowski_at_NYFF_2025_02_%28cropped_headshot%29.jpg/330px-Jodie_Foster_and_Rebecca_Zlotowski_at_NYFF_2025_02_%28cropped_headshot%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jodie_Foster",
+  "dateOfBirth": "1962-11-19",
+  "birthDateParsed": "1962-11-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "film director",
+    "film producer",
+    "voice actor",
+    "character actor",
+    "television actor",
+    "theatrical producer",
+    "executive producer",
+    "television producer"
+  ],
+  "qid": "Q41351",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-07-30T03:31:19.838Z"
+}

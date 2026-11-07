@@ -1,0 +1,42 @@
+{
+  "publicId": "d50c0094",
+  "wikipediaSlug": "Gal_Gadot",
+  "wikipediaId": "Q185654",
+  "name": "Gal Gadot",
+  "fullName": "Gal Gadot",
+  "profileSummary": "Gal Gadot is an Israeli actress. She gained recognition for portraying Wonder Woman in the DC Extended Universe films (2016–2023). In 2018, Gadot was named one of Time's 100 most influential people in the world and ranked by Forbes as the tenth–highest-paid actress, later rising to third-highest in 2020. In 2025, she became the first Israeli actor to receive a star on the Hollywood Walk of Fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gal_Gadot_by_Gage_Skidmore_3.jpg/330px-Gal_Gadot_by_Gage_Skidmore_3.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gal_Gadot",
+  "dateOfBirth": "1985-04-30",
+  "birthDateParsed": "1985-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.083333333",
+  "birthCoordinatesLng": "34.883333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "fashion model",
+    "film producer",
+    "television actor",
+    "beauty pageant contestant",
+    "brand ambassador",
+    "film actor",
+    "stage actor",
+    "voice actor",
+    "actor",
+    "runway model",
+    "Israel Defense Forces personnel"
+  ],
+  "qid": "Q185654",
+  "birthPlace": "Petah Tikva",
+  "fetchedAt": "2026-07-30T15:26:52.718Z"
+}

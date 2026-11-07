@@ -1,0 +1,34 @@
+{
+  "publicId": "6d916a64",
+  "wikipediaSlug": "Alexander_Siddig",
+  "wikipediaId": "Q311165",
+  "name": "Alexander Siddig",
+  "fullName": "Alexander Siddig",
+  "profileSummary": "Siddig el-Fadil, known professionally as Alexander Siddig, is a Sudanese-born British actor and director. Siddig is best known for his roles as Dr. Julian Bashir in the television series Star Trek: Deep Space Nine, former terrorist Hamri Al-Assad in the sixth season of the series 24, Doran Martell in Game of Thrones, Ra's al Ghul in Gotham, and Philip Burton in Primeval. He also starred in the films Syriana (2005), Hannibal (2006), A Lost Man (2007), Cairo Time (2009), and Inescapable (2012).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AlexanderSiddig09TIFF.jpg/330px-AlexanderSiddig09TIFF.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Siddig",
+  "dateOfBirth": "1965-11-21",
+  "birthDateParsed": "1965-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "15.683517",
+  "birthCoordinatesLng": "32.462887",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "actor",
+    "director",
+    "film actor"
+  ],
+  "qid": "Q311165",
+  "birthPlace": "Omdurman",
+  "fetchedAt": "2026-07-30T01:23:33.101Z"
+}

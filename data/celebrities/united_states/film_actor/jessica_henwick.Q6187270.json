@@ -1,0 +1,34 @@
+{
+  "publicId": "a6709048",
+  "wikipediaSlug": "Jessica_Henwick",
+  "wikipediaId": "Q6187270",
+  "name": "Jessica Henwick",
+  "fullName": "Jessica Henwick",
+  "profileSummary": "Jessica Henwick is an English actress, writer and director. She began her career in 2010 and may be best known for her roles in Game of Thrones (2015–17), Iron Fist (2017–18), Love and Monsters (2020), Glass Onion: A Knives Out Mystery (2022), The Royal Hotel (2023) and How to Make a Killing (2026). Her directorial debut, the short film Bus Girl (2022), was nominated for a BAFTA.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jessica_Henwick_at_an_interview_for_%27The_Royal_Hotel%27.png/330px-Jessica_Henwick_at_an_interview_for_%27The_Royal_Hotel%27.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jessica_Henwick",
+  "dateOfBirth": "1992-08-30",
+  "birthDateParsed": "1992-08-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.25",
+  "birthCoordinatesLng": "-0.45",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "actor",
+    "film director"
+  ],
+  "qid": "Q6187270",
+  "birthPlace": "Surrey",
+  "fetchedAt": "2026-07-30T01:25:15.271Z"
+}

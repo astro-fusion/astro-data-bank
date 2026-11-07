@@ -1,0 +1,40 @@
+{
+  "publicId": "feefc984",
+  "wikipediaSlug": "Tom_Cruise",
+  "wikipediaId": "Q37079",
+  "name": "Tom Cruise",
+  "fullName": "Tom Cruise",
+  "profileSummary": "Thomas Cruise Mapother IV is an American actor and film producer. Regarded as a Hollywood icon, he has received various accolades, including an Honorary Palme d'Or, an Academy Honorary Award, and three Golden Globes, in addition to nominations for four competitive Academy Awards. As of 2026, his films have grossed more than $13.3 billion worldwide, placing him among the highest-grossing actors of all time. One of Hollywood's most bankable stars, he is consistently one of the world's highest-paid actors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg/330px-Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Cruise",
+  "dateOfBirth": "1962-07-03",
+  "birthDateParsed": "1962-07-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.046899",
+  "birthCoordinatesLng": "-76.144423",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "film producer",
+    "film director",
+    "screenwriter",
+    "aircraft pilot",
+    "stunt performer",
+    "writer",
+    "actor",
+    "director",
+    "musician"
+  ],
+  "qid": "Q37079",
+  "birthPlace": "Syracuse",
+  "fetchedAt": "2026-07-30T03:31:48.578Z"
+}

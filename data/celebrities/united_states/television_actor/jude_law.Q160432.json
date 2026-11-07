@@ -1,0 +1,38 @@
+{
+  "publicId": "40452934",
+  "wikipediaSlug": "Jude_Law",
+  "wikipediaId": "Q160432",
+  "name": "Jude Law",
+  "fullName": "Jude Law",
+  "profileSummary": "David Jude Heyworth Law is an English actor. He began his career in British theatre before landing small roles in various television productions and feature films. Law gained international recognition for his role in Anthony Minghella's The Talented Mr. Ripley (1999), for which he won the BAFTA Award for Best Actor in a Supporting Role and was nominated for the Academy Award in the same category.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jude_Law-7806_%28cropped%29.jpg/330px-Jude_Law-7806_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jude_Law",
+  "dateOfBirth": "1972-12-29",
+  "birthDateParsed": "1972-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.461455555",
+  "birthCoordinatesLng": "-0.005369444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "film producer",
+    "voice actor",
+    "film director",
+    "stage actor",
+    "television director",
+    "actor"
+  ],
+  "qid": "Q160432",
+  "birthPlace": "Lewisham",
+  "fetchedAt": "2026-07-30T02:11:27.598Z"
+}

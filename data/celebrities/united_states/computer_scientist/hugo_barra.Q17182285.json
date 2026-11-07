@@ -1,0 +1,32 @@
+{
+  "publicId": "d7f3b2cb",
+  "wikipediaSlug": "Hugo_Barra",
+  "wikipediaId": "Q17182285",
+  "name": "Hugo Barra",
+  "fullName": "Hugo Barra",
+  "profileSummary": "Hugo Barra is a Brazilian computer scientist, technology executive and entrepreneur. From 2008 to 2013, he worked in a number of product management roles at Google, including vice president and product spokesperson of its Android division. From 2013 to 2017, he worked at Xiaomi as vice president of global operations. From 2017 to 2021, he worked as vice president of Virtual Reality and head of the Oculus division at Meta Platforms. In May 2021, he left Meta to join health technology startup Detect as CEO.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hugo_Barra_001_%28cropped%29.jpg/330px-Hugo_Barra_001_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Barra",
+  "dateOfBirth": "1976-10-28",
+  "birthDateParsed": "1976-10-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-19.928055555",
+  "birthCoordinatesLng": "-43.941944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "businessperson"
+  ],
+  "qid": "Q17182285",
+  "birthPlace": "Belo Horizonte",
+  "fetchedAt": "2026-07-30T15:26:42.529Z"
+}

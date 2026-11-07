@@ -1,0 +1,34 @@
+{
+  "publicId": "f91ebe4c",
+  "wikipediaSlug": "Kenny_G",
+  "wikipediaId": "Q295777",
+  "name": "Kenny G",
+  "fullName": "Kenny G",
+  "profileSummary": "Kenneth Bruce Gorelick is an American smooth jazz saxophonist, composer, and record producer. His 1986 album Duotones brought him commercial success. Kenny G is one of the best-selling artists of all time, with global sales totaling more than 75 million records, making him also the best-selling instrumentalist in history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/KennyGHWOFMay2013.jpg/330px-KennyGHWOFMay2013.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenny_G",
+  "dateOfBirth": "1956-06-05",
+  "birthDateParsed": "1956-06-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.605",
+  "birthCoordinatesLng": "-122.33",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "saxophonist",
+    "composer",
+    "jazz musician",
+    "musician"
+  ],
+  "qid": "Q295777",
+  "birthPlace": "Seattle",
+  "fetchedAt": "2026-07-30T07:25:43.962Z"
+}

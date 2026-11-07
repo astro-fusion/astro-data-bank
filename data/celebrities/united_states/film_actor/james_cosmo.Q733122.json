@@ -1,0 +1,33 @@
+{
+  "publicId": "5b4c4042",
+  "wikipediaSlug": "James_Cosmo",
+  "wikipediaId": "Q733122",
+  "name": "James Cosmo",
+  "fullName": "James Cosmo",
+  "profileSummary": "James Ronald Gordon Copeland, known professionally as James Cosmo, is a Scottish actor. Known for his character work, he has played supporting roles in films such as Highlander (1986), Braveheart (1995), Trainspotting (1996), Troy (2004), The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005), Ben-Hur (2016), and Wonder Woman (2017). On television, he appeared as Father Kellan Ashby on the third season of Sons of Anarchy (2010), Jeor Mormont on HBO's Game of Thrones (2011–2013), Farder Coram in the BBC series His Dark Materials (2019), and Luka Gocharov on the third season of Amazon Prime's Jack Ryan (2022). Cosmo appeared as a contestant on the nineteenth series of Celebrity Big Brother in 2017, finishing in fourth place.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/James_Cosmo_2023.png/330px-James_Cosmo_2023.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Cosmo",
+  "dateOfBirth": "1948-05-24",
+  "birthDateParsed": "1948-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.8997",
+  "birthCoordinatesLng": "-4.4006",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q733122",
+  "birthPlace": "Clydebank",
+  "fetchedAt": "2026-07-30T01:25:27.880Z"
+}

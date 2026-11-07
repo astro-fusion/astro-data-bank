@@ -1,0 +1,32 @@
+{
+  "publicId": "ba81dc63",
+  "wikipediaSlug": "Eline_Powell",
+  "wikipediaId": "Q37005341",
+  "name": "Eline Powell",
+  "fullName": "Eline Powell",
+  "profileSummary": "Eline Powell is a Belgian actress best known for playing the title role on the American TV series Siren.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eline_Powell",
+  "dateOfBirth": "1990-04-12",
+  "birthDateParsed": "1990-04-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.8775",
+  "birthCoordinatesLng": "4.704444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q37005341",
+  "birthPlace": "Leuven",
+  "fetchedAt": "2026-07-30T01:24:44.509Z"
+}

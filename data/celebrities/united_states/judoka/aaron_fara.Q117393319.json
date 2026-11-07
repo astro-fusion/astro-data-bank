@@ -1,0 +1,31 @@
+{
+  "publicId": "87d7f994",
+  "wikipediaSlug": "Aaron_Fara",
+  "wikipediaId": "Q117393319",
+  "name": "Aaron Fara",
+  "fullName": "Aaron Fara",
+  "profileSummary": "Aaron Fara is an Austrian professional wrestler and former judoka. He is signed to American professional wrestling promotion WWE, using the name Viktor Zanov.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Oliver-Sellner-Bundesliga-Final4-2022-25061.jpg/330px-Oliver-Sellner-Bundesliga-Final4-2022-25061.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Fara",
+  "dateOfBirth": "1997-06-21",
+  "birthDateParsed": "1997-06-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.816666666",
+  "birthCoordinatesLng": "16.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judoka"
+  ],
+  "qid": "Q117393319",
+  "birthPlace": "Wiener Neustadt",
+  "fetchedAt": "2026-07-31T03:25:48.871Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "4a27c11f",
+  "wikipediaSlug": "Alicia_Keys",
+  "wikipediaId": "Q121507",
+  "name": "Alicia Keys",
+  "fullName": "Alicia Keys",
+  "profileSummary": "Alicia Augello Cook, known professionally as Alicia Keys, is an American singer, songwriter, and pianist. A classically trained pianist, Keys began composing songs at the age of 12 and was signed by Columbia Records at 15. After disputes with the label, she signed with J Records to release her debut studio album, Songs in A Minor (2001). Met with critical acclaim and commercial success, the album sold over 12 million copies worldwide and won five awards at the 44th Annual Grammy Awards. It contained the Billboard Hot 100-number one single \"Fallin'\". Her second album, The Diary of Alicia Keys (2003), was met with continued success, selling eight million units worldwide and spawning the US top-five singles \"You Don't Know My Name\" and \"If I Ain't Got You\". Its release earned an additional four Grammy Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alicia_Keys_%282025%29.jpg/330px-Alicia_Keys_%282025%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alicia_Keys",
+  "dateOfBirth": "1981-01-01",
+  "birthDateParsed": "1981-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.764166666",
+  "birthCoordinatesLng": "-73.992222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "pianist",
+    "actor",
+    "composer",
+    "singer",
+    "art collector"
+  ],
+  "qid": "Q121507",
+  "birthPlace": "Hell's Kitchen",
+  "fetchedAt": "2026-07-30T07:24:24.283Z"
+}

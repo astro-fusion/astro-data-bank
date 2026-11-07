@@ -1,0 +1,39 @@
+{
+  "publicId": "e215fc2b",
+  "wikipediaSlug": "Cher",
+  "wikipediaId": "Q12003",
+  "name": "Cher",
+  "fullName": "Cher",
+  "profileSummary": "Cher is an American singer and actress. Dubbed the \"Goddess of Pop\", she is known for her androgyny, contralto voice, bold fashion, elaborate stagecraft and multifaceted career. Her screen roles often reflect her public image as a strong-willed, outspoken woman. An influential figure in popular culture, Cher has sustained a career spanning more than six decades through continual reinvention.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cher_in_2019_cropped.jpg/330px-Cher_in_2019_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cher",
+  "dateOfBirth": "1946-05-20",
+  "birthDateParsed": "1946-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.792",
+  "birthCoordinatesLng": "-115.5630514",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "character actor",
+    "television actor",
+    "film actor",
+    "recording artist",
+    "film director",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q12003",
+  "birthPlace": "El Centro",
+  "fetchedAt": "2026-07-30T13:08:31.171Z"
+}

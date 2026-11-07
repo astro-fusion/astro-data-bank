@@ -1,0 +1,33 @@
+{
+  "publicId": "3456b961",
+  "wikipediaSlug": "Zhao_Lusi",
+  "wikipediaId": "Q55697066",
+  "name": "Zhao Lusi",
+  "fullName": "Zhao Lusi",
+  "profileSummary": "Zhao Lusi, also known as Rosy Zhao, is a Chinese actress and singer. She is known for her roles in \nThe Romance of Tiger and Rose (2020), Dating in the Kitchen (2020), The Long Ballad (2021), Who Rules the World (2022), Love Like the Galaxy (2022), Hidden Love (2023), The Story of Pearl Girl (2024), and Love's Ambition (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zhao_Lusi_in_2023_%281%29.jpg/330px-Zhao_Lusi_in_2023_%281%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhao_Lusi",
+  "dateOfBirth": "1998-11-09",
+  "birthDateParsed": "1998-11-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "30",
+  "birthCoordinatesLng": "103",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "model"
+  ],
+  "qid": "Q55697066",
+  "birthPlace": "Sichuan",
+  "fetchedAt": "2026-07-30T16:46:40.120Z"
+}

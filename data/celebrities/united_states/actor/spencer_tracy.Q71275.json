@@ -1,0 +1,25 @@
+{
+  "publicId": "bba53a44",
+  "wikipediaSlug": "Spencer_Tracy",
+  "wikipediaId": "Q71275",
+  "name": "Spencer Tracy",
+  "fullName": "Spencer Tracy",
+  "profileSummary": "Spencer Bonaventure Tracy was an American actor. He was known for his natural performing style and versatility. One of the major stars of Hollywood's Golden Age, Tracy was the first actor to win two consecutive Academy Awards for Best Actor, from nine nominations. During his career, he appeared in 75 films and developed a reputation among his peers as one of the screen's greatest actors. In 1999, the American Film Institute ranked Tracy as the ninth greatest male star of Classic Hollywood Cinema.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Spencer_tracy_state_of_the_union.jpg/330px-Spencer_tracy_state_of_the_union.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Spencer_Tracy",
+  "dateOfBirth": "1900-04-05",
+  "birthDateParsed": "1900-04-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.05",
+  "birthCoordinatesLng": "-87.95",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q71275",
+  "birthPlace": "Milwaukee",
+  "fetchedAt": "2026-07-29T15:24:12.757Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "af4f0486",
+  "wikipediaSlug": "Johnny_Cash",
+  "wikipediaId": "Q42775",
+  "name": "Johnny Cash",
+  "fullName": "Johnny Cash",
+  "profileSummary": "John R. Cash was an American singer-songwriter. Most of his music contains themes of sorrow, moral tribulation, and redemption, especially songs from the later stages of his career. He was known for his deep, calm, bass-baritone voice, the distinctive sound of his backing band, the Tennessee Three, that was characterized by its train-like chugging guitar rhythms, a rebelliousness coupled with an increasingly somber and humble demeanor, and his free prison concerts. Cash wore a trademark all-black stage wardrobe, which earned him the nickname \"Man in Black\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Johnny_Cash_1977.jpg/330px-Johnny_Cash_1977.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnny_Cash",
+  "dateOfBirth": "1932-02-26",
+  "birthDateParsed": "1932-02-26",
+  "dateOfDeath": "2003-09-12",
+  "deathDateParsed": "2003-09-12",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.861388888",
+  "birthCoordinatesLng": "-92.294166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "actor",
+    "guitarist",
+    "singer",
+    "composer",
+    "country musician",
+    "bandleader"
+  ],
+  "qid": "Q42775",
+  "birthPlace": "Kingsland",
+  "fetchedAt": "2026-07-30T07:25:47.611Z"
+}

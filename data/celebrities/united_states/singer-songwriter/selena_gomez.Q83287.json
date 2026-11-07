@@ -1,0 +1,41 @@
+{
+  "publicId": "c57de1b0",
+  "wikipediaSlug": "Selena_Gomez",
+  "wikipediaId": "Q83287",
+  "name": "Selena Gomez",
+  "fullName": "Selena Gomez",
+  "profileSummary": "Selena Marie Gomez is an American actress, singer, songwriter, businesswoman, and producer. Gomez began her career as a child actress on the children's television series Barney & Friends (2002–2004), and emerged as a teen idol for her leading role as Alex Russo on the Disney Channel sitcom Wizards of Waverly Place (2007–2012). She signed with Hollywood Records in 2008 and formed the band Selena Gomez & the Scene, which released three albums: Kiss & Tell (2009), A Year Without Rain (2010), and When the Sun Goes Down (2011).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg/330px-Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Selena_Gomez",
+  "dateOfBirth": "1992-07-22",
+  "birthDateParsed": "1992-07-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715278",
+  "birthCoordinatesLng": "-97.016944",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "record producer",
+    "actor",
+    "voice actor",
+    "model",
+    "fashion designer",
+    "filmmaker",
+    "businessperson",
+    "child actor",
+    "pop singer",
+    "musician"
+  ],
+  "qid": "Q83287",
+  "birthPlace": "Grand Prairie",
+  "fetchedAt": "2026-07-30T16:46:41.493Z"
+}

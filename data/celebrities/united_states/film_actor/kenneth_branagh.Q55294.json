@@ -1,0 +1,41 @@
+{
+  "publicId": "04f5f251",
+  "wikipediaSlug": "Kenneth_Branagh",
+  "wikipediaId": "Q55294",
+  "name": "Kenneth Branagh",
+  "fullName": "Kenneth Branagh",
+  "profileSummary": "Sir Kenneth Charles Branagh is a British actor and filmmaker. Born in Belfast and raised primarily in Reading, Branagh trained at RADA in London and served as its president from 2015 to 2024. His accolades include an Academy Award, four BAFTAs, two Emmy Awards, a Golden Globe Award, and an Olivier Award. He was knighted in 2012, and was given Freedom of the City in his native Belfast in 2018. In 2020, he was ranked in 20th place on The Irish Times's list of Ireland's greatest film actors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kenneth_Branagh_at_diff_2015.jpg/330px-Kenneth_Branagh_at_diff_2015.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenneth_Branagh",
+  "dateOfBirth": "1960-12-10",
+  "birthDateParsed": "1960-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.596666666",
+  "birthCoordinatesLng": "-5.93",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "film director",
+    "screenwriter",
+    "stage actor",
+    "film producer",
+    "actor",
+    "theatre director",
+    "television actor",
+    "television producer",
+    "director",
+    "musician"
+  ],
+  "qid": "Q55294",
+  "birthPlace": "Belfast",
+  "fetchedAt": "2026-07-30T02:11:16.708Z"
+}

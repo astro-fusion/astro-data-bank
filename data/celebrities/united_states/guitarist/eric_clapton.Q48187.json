@@ -1,0 +1,37 @@
+{
+  "publicId": "c5244dfc",
+  "wikipediaSlug": "Eric_Clapton",
+  "wikipediaId": "Q48187",
+  "name": "Eric Clapton",
+  "fullName": "Eric Clapton",
+  "profileSummary": "Eric Patrick Clapton is an English rock and blues guitarist, singer, and songwriter. He is regarded as one of the most successful and influential guitarists in rock music. Clapton ranked second in Rolling Stone's list of the \"100 Greatest Guitarists of All Time\" and fourth in Gibson's \"Top 50 Guitarists of All Time\". He was named number five in Time magazine's list of \"The 10 Best Electric Guitar Players\" in 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ClaptonGingerEventim170220-38_%28cropped%29.jpg/330px-ClaptonGingerEventim170220-38_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Clapton",
+  "dateOfBirth": "1945-03-30",
+  "birthDateParsed": "1945-03-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.297861111",
+  "birthCoordinatesLng": "-0.4881",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guitarist",
+    "singer-songwriter",
+    "composer",
+    "jazz musician",
+    "singer",
+    "recording artist",
+    "musician"
+  ],
+  "qid": "Q48187",
+  "birthPlace": "Ripley",
+  "fetchedAt": "2026-07-30T07:25:23.814Z"
+}

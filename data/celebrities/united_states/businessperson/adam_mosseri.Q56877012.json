@@ -1,0 +1,31 @@
+{
+  "publicId": "6a57a134",
+  "wikipediaSlug": "Adam_Mosseri",
+  "wikipediaId": "Q56877012",
+  "name": "Adam Mosseri",
+  "fullName": "Adam Mosseri",
+  "profileSummary": "Adam Mosseri is an American businessman and the head of Instagram. He formerly was an executive at Facebook, which owns Instagram.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Head_of_Instagram_Adam_Mosseri_META_%2852321290009%29_%28cropped%29.jpg/330px-Head_of_Instagram_Adam_Mosseri_META_%2852321290009%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Mosseri",
+  "dateOfBirth": "1983-01-23",
+  "birthDateParsed": "1983-01-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q56877012",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-07-30T15:25:45.343Z"
+}

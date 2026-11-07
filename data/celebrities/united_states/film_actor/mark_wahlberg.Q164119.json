@@ -1,0 +1,41 @@
+{
+  "publicId": "8662d713",
+  "wikipediaSlug": "Mark_Wahlberg",
+  "wikipediaId": "Q164119",
+  "name": "Mark Wahlberg",
+  "fullName": "Mark Wahlberg",
+  "profileSummary": "Mark Robert Michael Wahlberg, formerly known by his stage name Marky Mark, is an American actor, producer, and former rapper. His work as a leading man spans the comedy, drama, and action genres. He has received multiple accolades, including a BAFTA TV Award and a Sports Emmy Award, and nominations for two Academy Awards, three Golden Globes, and nine Primetime Emmy Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mark_Wahlberg_2021.jpg/330px-Mark_Wahlberg_2021.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Wahlberg",
+  "dateOfBirth": "1971-06-05",
+  "birthDateParsed": "1971-06-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "film producer",
+    "television actor",
+    "record producer",
+    "rapper",
+    "television producer",
+    "musician",
+    "singer",
+    "songwriter",
+    "director"
+  ],
+  "qid": "Q164119",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-07-30T03:31:21.243Z"
+}

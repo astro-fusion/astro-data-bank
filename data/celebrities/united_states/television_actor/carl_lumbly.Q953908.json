@@ -1,0 +1,33 @@
+{
+  "publicId": "615a2b58",
+  "wikipediaSlug": "Carl_Lumbly",
+  "wikipediaId": "Q953908",
+  "name": "Carl Lumbly",
+  "fullName": "Carl Lumbly",
+  "profileSummary": "Carl Winston Lumbly is an American actor. He is best known for M.A.N.T.I.S. (1994–1997) and has also had television roles on Cagney & Lacey (1982–1988) and Alias (2001–2006).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Carl_Lumbly_Photo_Op_GalaxyCon_Richmond_2025.jpg/330px-Carl_Lumbly_Photo_Op_GalaxyCon_Richmond_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Lumbly",
+  "dateOfBirth": "1951-01-01",
+  "birthDateParsed": "1951-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.981944444",
+  "birthCoordinatesLng": "-93.269166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor",
+    "voice actor",
+    "actor"
+  ],
+  "qid": "Q953908",
+  "birthPlace": "Minneapolis",
+  "fetchedAt": "2026-07-30T00:40:43.073Z"
+}

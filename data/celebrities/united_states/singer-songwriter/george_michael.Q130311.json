@@ -1,0 +1,41 @@
+{
+  "publicId": "025ff3c6",
+  "wikipediaSlug": "George_Michael",
+  "wikipediaId": "Q130311",
+  "name": "George Michael",
+  "fullName": "George Michael",
+  "profileSummary": "George Michael was an English singer-songwriter and record producer. Regarded as a pop culture icon, he is one of the best-selling recording artists of all time. Michael was known as a creative force in songwriting, vocal performance, and visual presentation. He was inducted into the Rock and Roll Hall of Fame in 2023. The Radio Academy named him the most played artist on British radio during the period 1984–2004.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/George_Michael.jpeg/330px-George_Michael.jpeg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Michael",
+  "dateOfBirth": "1963-06-25",
+  "birthDateParsed": "1963-06-25",
+  "dateOfDeath": "2016-12-25",
+  "deathDateParsed": "2016-12-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.590161111",
+  "birthCoordinatesLng": "-0.175338888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "multi-instrumentalist",
+    "record producer",
+    "singer",
+    "songwriter",
+    "lyricist",
+    "composer",
+    "recording artist",
+    "television actor",
+    "film director",
+    "musician"
+  ],
+  "qid": "Q130311",
+  "birthPlace": "East Finchley",
+  "fetchedAt": "2026-07-30T07:25:17.144Z"
+}

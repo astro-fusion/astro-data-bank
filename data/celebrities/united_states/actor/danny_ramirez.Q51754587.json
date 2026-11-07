@@ -1,0 +1,31 @@
+{
+  "publicId": "c29865fd",
+  "wikipediaSlug": "Danny_Ramirez",
+  "wikipediaId": "Q51754587",
+  "name": "Danny Ramirez",
+  "fullName": "Danny Ramirez",
+  "profileSummary": "Daniel Ramirez is an American actor. He gained recognition for his role as Joaquin Torres / Falcon in the Marvel Cinematic Universe (MCU) film Captain America: Brave New World (2025) and the Disney+ series The Falcon and the Winter Soldier (2021). He has also had roles in the film Top Gun: Maverick (2022), and the HBO television series The Last of Us (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guests_at_the_2026_Met_Gala_416_%28cropped_2%29.jpg/330px-Guests_at_the_2026_Met_Gala_416_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Ramirez",
+  "dateOfBirth": "1992-01-01",
+  "birthDateParsed": "1992-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "screenwriter"
+  ],
+  "qid": "Q51754587",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-07-30T00:41:02.497Z"
+}

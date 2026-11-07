@@ -1,0 +1,38 @@
+{
+  "publicId": "136fd19d",
+  "wikipediaSlug": "Scarlett_Johansson",
+  "wikipediaId": "Q34436",
+  "name": "Scarlett Johansson",
+  "fullName": "Scarlett Johansson",
+  "profileSummary": "Scarlett Ingrid Johansson is an American actress, singer, producer, and director. Her films as a leading actress have grossed over $15.4 billion worldwide, making her the second-highest-grossing actor in history. Her accolades include a British Academy Film Award and Tony Award, as well as nominations for two Academy Awards and five Golden Globe Awards. She was the world's highest-paid actress in 2018, 2019, and 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/330px-Scarlett_Johansson-8588.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+  "dateOfBirth": "1984-11-22",
+  "birthDateParsed": "1984-11-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.728333333",
+  "birthCoordinatesLng": "-73.994166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "singer",
+    "model",
+    "stage actor",
+    "voice actor",
+    "recording artist",
+    "film director",
+    "actor"
+  ],
+  "qid": "Q34436",
+  "birthPlace": "Manhattan",
+  "fetchedAt": "2026-07-30T03:31:24.427Z"
+}

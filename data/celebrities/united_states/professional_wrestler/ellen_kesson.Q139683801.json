@@ -1,0 +1,33 @@
+{
+  "publicId": "29c615a8",
+  "wikipediaSlug": "Ellen_Åkesson",
+  "wikipediaId": "Q139683801",
+  "name": "Ellen Åkesson",
+  "fullName": "Ellen Åkesson",
+  "profileSummary": "Ellen Brönmark Åkesson is a Swedish powerlifter, arm wrestler, and professional wrestler. She is signed to the American professional wrestling promotion WWE. She has been described as \"Sweden's strongest woman\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ellenbakesson_powerlifting.png/330px-Ellenbakesson_powerlifting.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_%C3%85kesson",
+  "dateOfBirth": "1999-03-20",
+  "birthDateParsed": "1999-03-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.481887177",
+  "birthCoordinatesLng": "13.504013919",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "powerlifter",
+    "arm wrestler"
+  ],
+  "qid": "Q139683801",
+  "birthPlace": "Skurup",
+  "fetchedAt": "2026-07-31T03:26:55.765Z"
+}

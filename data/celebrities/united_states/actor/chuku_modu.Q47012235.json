@@ -1,0 +1,33 @@
+{
+  "publicId": "e5ab72b9",
+  "wikipediaSlug": "Chuku_Modu",
+  "wikipediaId": "Q47012235",
+  "name": "Chuku Modu",
+  "fullName": "Chuku Modu",
+  "profileSummary": "Chukwuma \"Chuku\" Modu is a British actor best known for his roles in Game of Thrones, The Good Doctor and The 100.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chuku_Modu",
+  "dateOfBirth": "1990-06-19",
+  "birthDateParsed": "1990-06-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4925",
+  "birthCoordinatesLng": "-0.2633",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "screenwriter"
+  ],
+  "qid": "Q47012235",
+  "birthPlace": "Chiswick",
+  "fetchedAt": "2026-07-30T01:24:15.432Z"
+}

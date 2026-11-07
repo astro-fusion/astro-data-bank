@@ -1,0 +1,41 @@
+{
+  "publicId": "1abcdd1f",
+  "wikipediaSlug": "Kevin_Hart",
+  "wikipediaId": "Q618352",
+  "name": "Kevin Hart",
+  "fullName": "Kevin Hart",
+  "profileSummary": "Kevin Darnell Hart is an American comedian and actor. After winning several stand-up comedy competitions, Hart had his first breakthrough when Judd Apatow cast him in a recurring role on the TV series Undeclared (2001). Hart's comedic reputation continued to grow with the release of his first stand-up album I'm a Grown Little Man (2009). He has since released four more comedy albums: Seriously Funny (2010), Laugh at My Pain (2011), Let Me Explain (2013), and What Now? (2016).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/330px-Kevin_Hart_2014_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Hart",
+  "dateOfBirth": "1979-07-06",
+  "birthDateParsed": "1979-07-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.952777777",
+  "birthCoordinatesLng": "-75.163611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "actor",
+    "voice actor",
+    "film actor",
+    "author",
+    "film producer",
+    "television producer",
+    "stand-up comedian",
+    "screenwriter",
+    "musician",
+    "writer"
+  ],
+  "qid": "Q618352",
+  "birthPlace": "Philadelphia",
+  "fetchedAt": "2026-07-30T15:26:30.443Z"
+}

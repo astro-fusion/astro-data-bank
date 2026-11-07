@@ -1,0 +1,39 @@
+{
+  "publicId": "f0643b23",
+  "wikipediaSlug": "Celine_Dion",
+  "wikipediaId": "Q5105",
+  "name": "Celine Dion",
+  "fullName": "Celine Dion",
+  "profileSummary": "Céline Marie Claudette Dion is a Canadian singer, entrepreneur and philanthropist. Dubbed the \"Queen of Power Ballads\", she is known for her powerful, technically skilled vocals and commercially successful works, which have had a significant impact on popular music. With over 200 million records sold worldwide, Dion is the best-selling Canadian recording artist, the best-selling French-language artist, and one of the best-selling musical artists.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A9line_Dion_2012.jpg/330px-C%C3%A9line_Dion_2012.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Celine_Dion",
+  "dateOfBirth": "1968-03-30",
+  "birthDateParsed": "1968-03-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.716666666",
+  "birthCoordinatesLng": "-73.483333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "voice actor",
+    "pianist",
+    "restaurateur",
+    "composer",
+    "film actor",
+    "recording artist",
+    "musician"
+  ],
+  "qid": "Q5105",
+  "birthPlace": "Charlemagne",
+  "fetchedAt": "2026-07-30T13:08:29.945Z"
+}

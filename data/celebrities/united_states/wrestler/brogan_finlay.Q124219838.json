@@ -1,0 +1,31 @@
+{
+  "publicId": "4ddac0a4",
+  "wikipediaSlug": "Brogan_Finlay",
+  "wikipediaId": "Q124219838",
+  "name": "Brogan Finlay",
+  "fullName": "Brogan Finlay",
+  "profileSummary": "Brogan Finlay is an American professional wrestler. He is signed to WWE, where he performs on the NXT brand under the ring name Uriah Connors. He is a member of the BirthRight stable.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brogan_Finlay",
+  "dateOfBirth": "2002-09-01",
+  "birthDateParsed": "2002-09-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.754444444",
+  "birthCoordinatesLng": "-84.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "wrestler"
+  ],
+  "qid": "Q124219838",
+  "birthPlace": "Atlanta",
+  "fetchedAt": "2026-07-31T03:26:08.856Z"
+}

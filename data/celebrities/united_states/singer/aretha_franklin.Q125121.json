@@ -1,0 +1,37 @@
+{
+  "publicId": "bd7922b9",
+  "wikipediaSlug": "Aretha_Franklin",
+  "wikipediaId": "Q125121",
+  "name": "Aretha Franklin",
+  "fullName": "Aretha Franklin",
+  "profileSummary": "Aretha Louise Franklin was an American singer, songwriter and pianist. Regarded as the \"Queen of Soul\", she was twice named by Rolling Stone magazine as the greatest singer of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aretha_Franklin_1968.jpg/330px-Aretha_Franklin_1968.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aretha_Franklin",
+  "dateOfBirth": "1942-03-25",
+  "birthDateParsed": "1942-03-25",
+  "dateOfDeath": "2018-08-16",
+  "deathDateParsed": "2018-08-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.146111111",
+  "birthCoordinatesLng": "-90.051944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "activist",
+    "pianist",
+    "composer",
+    "record producer",
+    "soul musician"
+  ],
+  "qid": "Q125121",
+  "birthPlace": "Memphis",
+  "fetchedAt": "2026-07-30T07:24:20.872Z"
+}

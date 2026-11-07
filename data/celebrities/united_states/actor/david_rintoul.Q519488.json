@@ -1,0 +1,33 @@
+{
+  "publicId": "cc3d0401",
+  "wikipediaSlug": "David_Rintoul",
+  "wikipediaId": "Q519488",
+  "name": "David Rintoul",
+  "fullName": "David Rintoul",
+  "profileSummary": "David Rintoul is a Scottish stage and television actor. Rintoul was born in Aberdeen, Scotland. He studied at the University of Edinburgh, and won a scholarship to study at the Royal Academy of Dramatic Art in London.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/David_Rintoul_%287_Avril_2009%29_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Rintoul",
+  "dateOfBirth": "1948-11-29",
+  "birthDateParsed": "1948-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "57.15",
+  "birthCoordinatesLng": "-2.1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q519488",
+  "birthPlace": "Aberdeen",
+  "fetchedAt": "2026-07-30T01:24:04.649Z"
+}

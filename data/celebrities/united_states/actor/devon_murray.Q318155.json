@@ -1,0 +1,33 @@
+{
+  "publicId": "bf9a9e9b",
+  "wikipediaSlug": "Devon_Murray",
+  "wikipediaId": "Q318155",
+  "name": "Devon Murray",
+  "fullName": "Devon Murray",
+  "profileSummary": "Devon Michael Murray is an Irish actor, best known for playing Seamus Finnigan in the Harry Potter film series.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Devon_Murray_%2829291204681%29.jpg/330px-Devon_Murray_%2829291204681%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Devon_Murray",
+  "dateOfBirth": "1988-10-28",
+  "birthDateParsed": "1988-10-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.2",
+  "birthCoordinatesLng": "-6.8",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q318155",
+  "birthPlace": "County Kildare",
+  "fetchedAt": "2026-07-30T02:10:42.196Z"
+}

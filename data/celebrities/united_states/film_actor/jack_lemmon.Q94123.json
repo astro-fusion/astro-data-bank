@@ -1,0 +1,33 @@
+{
+  "publicId": "559b5b7e",
+  "wikipediaSlug": "Jack_Lemmon",
+  "wikipediaId": "Q94123",
+  "name": "Jack Lemmon",
+  "fullName": "Jack Lemmon",
+  "profileSummary": "John Uhler Lemmon III was an American actor. Considered proficient in both dramatic and comic roles, he was known for his anxious, middle-class everyman screen persona in comedy-drama films. He received numerous accolades including two Academy Awards, five Golden Globe Awards, three BAFTA Awards, two Primetime Emmy Awards and one Volpi Cup. He also received the AFI Life Achievement Award in 1988, the Cecil B. DeMille Award in 1991, and the Kennedy Center Honors in 1996. The Guardian labeled him as \"the most successful tragi-comedian of his age\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jack_Lemmon_-_1968.jpg/330px-Jack_Lemmon_-_1968.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Lemmon",
+  "dateOfBirth": "1925-02-08",
+  "birthDateParsed": "1925-02-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.336944444",
+  "birthCoordinatesLng": "-71.209722222",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "character actor",
+    "television actor",
+    "actor",
+    "television presenter",
+    "stage actor",
+    "musician",
+    "film producer",
+    "producer",
+    "comedian",
+    "film director"
+  ],
+  "qid": "Q94123",
+  "birthPlace": "Newton",
+  "fetchedAt": "2026-07-29T15:23:48.842Z"
+}

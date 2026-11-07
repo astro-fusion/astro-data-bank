@@ -1,0 +1,31 @@
+{
+  "publicId": "e92e6827",
+  "wikipediaSlug": "Angelo_Dawkins",
+  "wikipediaId": "Q17161649",
+  "name": "Angelo Dawkins",
+  "fullName": "Angelo Dawkins",
+  "profileSummary": "Gary Gordon is an American professional wrestler. He is signed to WWE, where he performs on the Raw brand under the ring name Angelo Dawkins. He is one-half of the Street Profits with Montez Ford.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angelo_Dawkins%2C_WrestleMania_XL.jpg/330px-Angelo_Dawkins%2C_WrestleMania_XL.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelo_Dawkins",
+  "dateOfBirth": "1990-07-24",
+  "birthDateParsed": "1990-07-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.1",
+  "birthCoordinatesLng": "-84.5125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q17161649",
+  "birthPlace": "Cincinnati",
+  "fetchedAt": "2026-07-31T03:25:41.888Z"
+}

@@ -1,0 +1,41 @@
+{
+  "publicId": "572d658d",
+  "wikipediaSlug": "Will_Ferrell",
+  "wikipediaId": "Q218503",
+  "name": "Will Ferrell",
+  "fullName": "Will Ferrell",
+  "profileSummary": "John William Ferrell is an American actor, comedian, writer, and producer. He is known for his leading man roles in comedy films and for his work as a television producer. Ferrell has received various accolades, including six Primetime Emmy Awards and a British Academy Television Award, in addition to nominations for two Golden Globe Awards and for a Tony Award. In 2011, Ferrell was honored with the Mark Twain Prize for American Humor. In 2015, he received a star on the Hollywood Walk of Fame and was named the year's best comedian in British GQ.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Will_Ferrell_at_the_2024_Toronto_International_Film_Festival_5_%28cropped%29.jpg/330px-Will_Ferrell_at_the_2024_Toronto_International_Film_Festival_5_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Will_Ferrell",
+  "dateOfBirth": "1967-07-16",
+  "birthDateParsed": "1967-07-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.684166666",
+  "birthCoordinatesLng": "-117.7925",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "film producer",
+    "writer",
+    "voice actor",
+    "screenwriter",
+    "character actor",
+    "film actor",
+    "television actor",
+    "television producer",
+    "baseball player",
+    "actor"
+  ],
+  "qid": "Q218503",
+  "birthPlace": "Irvine",
+  "fetchedAt": "2026-07-30T03:31:33.012Z"
+}

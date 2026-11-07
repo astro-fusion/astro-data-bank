@@ -1,0 +1,32 @@
+{
+  "publicId": "dd90870e",
+  "wikipediaSlug": "Chris_Hemsworth",
+  "wikipediaId": "Q54314",
+  "name": "Chris Hemsworth",
+  "fullName": "Chris Hemsworth",
+  "profileSummary": "Christopher Hemsworth is an Australian actor and film producer. His films as a leading man have grossed over $12.1 billion worldwide, making him one of the highest-grossing film stars of all time. Hemsworth was one of the world's highest-paid actors annually from 2017 to 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chris_Hemsworth_-_Crime_101.jpg/330px-Chris_Hemsworth_-_Crime_101.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Hemsworth",
+  "dateOfBirth": "1983-08-11",
+  "birthDateParsed": "1983-08-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-37.814166666",
+  "birthCoordinatesLng": "144.963055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q54314",
+  "birthPlace": "Melbourne",
+  "fetchedAt": "2026-07-30T00:41:10.976Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "17d872b7",
+  "wikipediaSlug": "Adam_Pearce",
+  "wikipediaId": "Q2823989",
+  "name": "Adam Pearce",
+  "fullName": "Adam Pearce",
+  "profileSummary": "Adam John Pearce is an American retired professional wrestler. He is signed to WWE as Director of Live Events, producer, trainer, and on-screen general manager of Raw and SmackDown.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Adam_Pearce_RR24.jpg/330px-Adam_Pearce_RR24.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Pearce",
+  "dateOfBirth": "1978-06-24",
+  "birthDateParsed": "1978-06-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.641666666",
+  "birthCoordinatesLng": "-117.690833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q2823989",
+  "birthPlace": "Lake Forest",
+  "fetchedAt": "2026-07-31T03:25:49.674Z"
+}

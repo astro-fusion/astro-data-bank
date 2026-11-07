@@ -1,0 +1,31 @@
+{
+  "publicId": "2f407e98",
+  "wikipediaSlug": "Dan_Engler",
+  "wikipediaId": "Q7377589",
+  "name": "Dan Engler",
+  "fullName": "Dan Engler",
+  "profileSummary": "Daniel Engler is an American professional wrestling referee, who is signed to WWE on the SmackDown brand. He is also known for his work in Total Nonstop Action Wrestling (TNA) under the ring name Rudy Charles, where he was the promotion's senior referee.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RudyCharles.jpg/330px-RudyCharles.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Engler",
+  "dateOfBirth": "1977-11-20",
+  "birthDateParsed": "1977-11-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.974722222",
+  "birthCoordinatesLng": "-87.555833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "referee"
+  ],
+  "qid": "Q7377589",
+  "birthPlace": "Evansville",
+  "fetchedAt": "2026-07-31T03:27:00.323Z"
+}

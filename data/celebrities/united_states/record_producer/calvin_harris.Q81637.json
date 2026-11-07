@@ -1,0 +1,36 @@
+{
+  "publicId": "edd40a6d",
+  "wikipediaSlug": "Calvin_Harris",
+  "wikipediaId": "Q81637",
+  "name": "Calvin Harris",
+  "fullName": "Calvin Harris",
+  "profileSummary": "Adam Richard Wiles, known professionally as Calvin Harris, is a Scottish DJ, record producer, singer and songwriter. His debut studio album, I Created Disco (2007) was preceded by the singles \"Acceptable in the 80s\" and \"The Girls\", both of which achieved commercial success in Europe and Australia. His second album, Ready for the Weekend (2009), debuted atop the official album charts in the United Kingdom, and its lead single, \"I'm Not Alone\", became his first song to reach number one in the UK Singles Charts. In his early tracks, Harris mostly sang in his songs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Calvin_Harris_-_Press_Image_1.tif/lossy-page1-330px-Calvin_Harris_-_Press_Image_1.tif.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Calvin_Harris",
+  "dateOfBirth": "1984-01-17",
+  "birthDateParsed": "1984-01-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.066666666",
+  "birthCoordinatesLng": "-3.616666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "record producer",
+    "disc jockey",
+    "singer",
+    "songwriter",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q81637",
+  "birthPlace": "Dumfries",
+  "fetchedAt": "2026-07-30T07:25:04.962Z"
+}

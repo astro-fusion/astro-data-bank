@@ -1,0 +1,41 @@
+{
+  "publicId": "3225d750",
+  "wikipediaSlug": "Jack_Nicholson",
+  "wikipediaId": "Q39792",
+  "name": "Jack Nicholson",
+  "fullName": "Jack Nicholson",
+  "profileSummary": "John Joseph Nicholson is an American retired actor and filmmaker. Nicholson is widely regarded as one of the greatest actors of the 20th century, often playing charismatic rebels fighting against the social structure. Over his five-decade-long career, he received numerous accolades, including three Academy Awards, three British Academy Film Awards, six Golden Globe Awards, and a Grammy Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jack_Nicholson_2002.jpg/330px-Jack_Nicholson_2002.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Nicholson",
+  "dateOfBirth": "1937-04-22",
+  "birthDateParsed": "1937-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.200211111",
+  "birthCoordinatesLng": "-74.033619444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "film director",
+    "screenwriter",
+    "film producer",
+    "character actor",
+    "television actor",
+    "writer",
+    "director",
+    "film screenwriter",
+    "filmmaker"
+  ],
+  "qid": "Q39792",
+  "birthPlace": "Neptune City",
+  "fetchedAt": "2026-07-30T03:31:12.361Z"
+}

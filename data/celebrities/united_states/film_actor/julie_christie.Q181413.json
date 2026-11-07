@@ -1,0 +1,33 @@
+{
+  "publicId": "27acafbf",
+  "wikipediaSlug": "Julie_Christie",
+  "wikipediaId": "Q181413",
+  "name": "Julie Christie",
+  "fullName": "Julie Christie",
+  "profileSummary": "Julie Frances Christie is a British actress. Christie's accolades include an Academy Award, a BAFTA Award, a Golden Globe, and a Screen Actors Guild Award. She has appeared in six films ranked in the British Film Institute's BFI Top 100 British films of the 20th century, and in 1997, she received the BAFTA Fellowship for lifetime achievement.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Julie_Christie_%281997%29_%282%29.jpg/330px-Julie_Christie_%281997%29_%282%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julie_Christie",
+  "dateOfBirth": "1940-04-14",
+  "birthDateParsed": "1940-04-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.48",
+  "birthCoordinatesLng": "95.18",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "voice actor"
+  ],
+  "qid": "Q181413",
+  "birthPlace": "Chabua",
+  "fetchedAt": "2026-07-30T02:11:20.534Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "c55db1d5",
+  "wikipediaSlug": "Bobby_Roode",
+  "wikipediaId": "Q322969",
+  "name": "Bobby Roode",
+  "fullName": "Bobby Roode",
+  "profileSummary": "Robert Francis Roode Jr. is a Canadian retired professional wrestler. He is signed to WWE, where he works as a producer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bobby_Roode_April_2018.jpg/330px-Bobby_Roode_April_2018.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Roode",
+  "dateOfBirth": "1977-05-11",
+  "birthDateParsed": "1977-05-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.3",
+  "birthCoordinatesLng": "-78.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q322969",
+  "birthPlace": "Peterborough",
+  "fetchedAt": "2026-07-31T03:26:22.805Z"
+}

@@ -1,0 +1,39 @@
+{
+  "publicId": "e77b8704",
+  "wikipediaSlug": "Jason_Momoa",
+  "wikipediaId": "Q315271",
+  "name": "Jason Momoa",
+  "fullName": "Jason Momoa",
+  "profileSummary": "Joseph Jason Namakaeha Momoa is an American actor and film producer. He made his acting debut as Jason Ioane on the syndicated action drama series Baywatch: Hawaii (1999–2001), which was followed by portrayals of Ronon Dex on the Syfy science fiction series Stargate Atlantis (2005–2009), and Khal Drogo in the first two seasons of the HBO fantasy drama series Game of Thrones (2011–2012). He went on to play the lead roles in the Discovery Channel historical drama series Frontier (2016–2018), and the Apple TV shows See (2019–2022) and Chief of War (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jason_Momoa_%2843055621224%29_%28cropped%29.jpg/330px-Jason_Momoa_%2843055621224%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Momoa",
+  "dateOfBirth": "1979-08-01",
+  "birthDateParsed": "1979-08-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.304722222",
+  "birthCoordinatesLng": "-157.857222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "film director",
+    "screenwriter",
+    "film actor",
+    "television actor",
+    "voice actor",
+    "model",
+    "director"
+  ],
+  "qid": "Q315271",
+  "birthPlace": "Honolulu",
+  "fetchedAt": "2026-07-30T01:25:11.049Z"
+}

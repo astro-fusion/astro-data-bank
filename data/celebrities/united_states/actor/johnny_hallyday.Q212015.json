@@ -1,0 +1,37 @@
+{
+  "publicId": "5bb8acc5",
+  "wikipediaSlug": "Johnny_Hallyday",
+  "wikipediaId": "Q212015",
+  "name": "Johnny Hallyday",
+  "fullName": "Johnny Hallyday",
+  "profileSummary": "Jean-Philippe Léo Smet, better known by his stage name Johnny Hallyday, was a French rock and roll and pop singer and actor, credited with having brought rock and roll to France.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Johnny-Hallyday-1.jpg/330px-Johnny-Hallyday-1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnny_Hallyday",
+  "dateOfBirth": "1943-06-15",
+  "birthDateParsed": "1943-06-15",
+  "dateOfDeath": "2017-12-05",
+  "deathDateParsed": "2017-12-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.878280555",
+  "birthCoordinatesLng": "2.336966666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "composer",
+    "singer",
+    "recording artist",
+    "film actor",
+    "television actor",
+    "rock musician"
+  ],
+  "qid": "Q212015",
+  "birthPlace": "9th arrondissement of Paris",
+  "fetchedAt": "2026-07-30T07:25:34.436Z"
+}

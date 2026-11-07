@@ -1,0 +1,37 @@
+{
+  "publicId": "dfea6e1b",
+  "wikipediaSlug": "Mariah_Carey",
+  "wikipediaId": "Q41076",
+  "name": "Mariah Carey",
+  "fullName": "Mariah Carey",
+  "profileSummary": "Mariah Carey is an American singer-songwriter, record producer, and actress. Dubbed the \"Songbird Supreme\", Carey is known for her five-octave vocal range, melismatic singing style, signature use of the whistle register, and diva persona. An influential figure in popular culture, she was ranked as the fifth-greatest singer of all time by Rolling Stone in 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mariah_Carey_Library_of_Congress_2023_1_Cropped_3.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariah_Carey",
+  "dateOfBirth": "1969-03-27",
+  "birthDateParsed": "1969-03-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.868055555",
+  "birthCoordinatesLng": "-73.426111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "record producer",
+    "actor",
+    "pop musician",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q41076",
+  "birthPlace": "Huntington",
+  "fetchedAt": "2026-07-30T07:25:46.239Z"
+}

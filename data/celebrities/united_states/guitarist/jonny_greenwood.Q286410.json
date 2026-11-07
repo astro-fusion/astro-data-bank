@@ -1,0 +1,40 @@
+{
+  "publicId": "0d321d48",
+  "wikipediaSlug": "Jonny_Greenwood",
+  "wikipediaId": "Q286410",
+  "name": "Jonny Greenwood",
+  "fullName": "Jonny Greenwood",
+  "profileSummary": "Jonathan Richard Guy Greenwood is an English musician who is the lead guitarist of the rock band Radiohead. He has also composed numerous film scores. He has been named one of the greatest guitarists by multiple publications.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/RadioheadO2241125-118_%2854953107146%29_%28cropped%29.jpg/330px-RadioheadO2241125-118_%2854953107146%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonny_Greenwood",
+  "dateOfBirth": "1971-11-05",
+  "birthDateParsed": "1971-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.751944444",
+  "birthCoordinatesLng": "-1.257777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guitarist",
+    "banjoist",
+    "composer",
+    "ondist",
+    "multi-instrumentalist",
+    "actor",
+    "songwriter",
+    "pianist",
+    "rock musician",
+    "musician"
+  ],
+  "qid": "Q286410",
+  "birthPlace": "Oxford",
+  "fetchedAt": "2026-07-30T02:11:17.231Z"
+}

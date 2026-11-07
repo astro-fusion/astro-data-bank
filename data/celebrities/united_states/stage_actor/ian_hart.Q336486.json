@@ -1,0 +1,34 @@
+{
+  "publicId": "10cb99aa",
+  "wikipediaSlug": "Ian_Hart",
+  "wikipediaId": "Q336486",
+  "name": "Ian Hart",
+  "fullName": "Ian Hart",
+  "profileSummary": "Ian Davies, known professionally as Ian Hart, is an English actor. His most notable screen roles have been in One Summer (1983), Land and Freedom (1995), Nothing Personal, Michael Collins (1996), Liam (2000), as Professor Quirrell in Harry Potter and the Philosopher's Stone (2001), as Ludwig van Beethoven in Eroica (2003), as Brian Keenan in Blind Flight, as Kester Gill on My Mad Fat Diary (2013–15), as Father Beocca on The Last Kingdom (2015–20), and as Carl on The Responder (2022). He is also known for playing musician John Lennon in multiple productions, including the 1994 biopic Backbeat.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ian_Hart_2016.png/330px-Ian_Hart_2016.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ian_Hart",
+  "dateOfBirth": "1964-10-08",
+  "birthDateParsed": "1964-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.407222222",
+  "birthCoordinatesLng": "-2.991666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q336486",
+  "birthPlace": "Liverpool",
+  "fetchedAt": "2026-07-30T02:11:41.962Z"
+}

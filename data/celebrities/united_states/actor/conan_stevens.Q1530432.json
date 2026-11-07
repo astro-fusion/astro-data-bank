@@ -1,0 +1,35 @@
+{
+  "publicId": "703d1fa8",
+  "wikipediaSlug": "Conan_Stevens",
+  "wikipediaId": "Q1530432",
+  "name": "Conan Stevens",
+  "fullName": "Conan Stevens",
+  "profileSummary": "Mark \"Conan\" Stevens is an Australian actor and former professional wrestler as 7 FT Thunder. He is 2.13m (7’) tall.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Conan_Stevens_%282012%29.jpg/330px-Conan_Stevens_%282012%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Conan_Stevens",
+  "dateOfBirth": "1969-11-30",
+  "birthDateParsed": "1969-11-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-32.916666666",
+  "birthCoordinatesLng": "151.75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "film actor",
+    "screenwriter",
+    "stunt performer"
+  ],
+  "qid": "Q1530432",
+  "birthPlace": "Newcastle",
+  "fetchedAt": "2026-07-30T01:24:13.736Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "8ad353e6",
+  "wikipediaSlug": "Paul_Whitehouse",
+  "wikipediaId": "Q1343140",
+  "name": "Paul Whitehouse",
+  "fullName": "Paul Whitehouse",
+  "profileSummary": "Paul Julian Whitehouse is a Welsh actor, comedian, presenter, and writer. He was one of the main stars of the BBC sketch comedy series The Fast Show and has starred with Harry Enfield in the shows Harry & Paul and Harry Enfield & Chums. He has appeared with Bob Mortimer in the BBC series Mortimer & Whitehouse: Gone Fishing and has also acted in films including Corpse Bride (2005), Alice in Wonderland (2010) and The Death of Stalin (2017).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Paul_Whitehouse_20231207.jpg/330px-Paul_Whitehouse_20231207.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Whitehouse",
+  "dateOfBirth": "1958-05-17",
+  "birthDateParsed": "1958-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.643",
+  "birthCoordinatesLng": "-3.4299",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "actor",
+    "screenwriter",
+    "television actor"
+  ],
+  "qid": "Q1343140",
+  "birthPlace": "Stanleytown",
+  "fetchedAt": "2026-07-30T02:12:30.028Z"
+}

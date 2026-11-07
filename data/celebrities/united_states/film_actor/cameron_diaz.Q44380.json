@@ -1,0 +1,40 @@
+{
+  "publicId": "56ded0cc",
+  "wikipediaSlug": "Cameron_Diaz",
+  "wikipediaId": "Q44380",
+  "name": "Cameron Diaz",
+  "fullName": "Cameron Diaz",
+  "profileSummary": "Cameron Michelle Diaz is an American actress. Prolific in both comedy and drama, her films have grossed over $3 billion in the U.S. box-office. Her output of romantic comedies in the late 1990s and early 2000s established her as a prominent sex symbol and one of Hollywood's most bankable stars, and in 2013, Diaz was named the highest-paid actress over 40. She has received various accolades, including nominations for a British Academy Film Award and four Golden Globe Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cameron_Diaz_at_WWD_Style_Awards_2026-1998.jpg/330px-Cameron_Diaz_at_WWD_Style_Awards_2026-1998.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cameron_Diaz",
+  "dateOfBirth": "1972-08-30",
+  "birthDateParsed": "1972-08-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715",
+  "birthCoordinatesLng": "-117.1625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "model",
+    "voice actor",
+    "television actor",
+    "film producer",
+    "executive producer",
+    "non-fiction writer",
+    "television producer",
+    "fashion model"
+  ],
+  "qid": "Q44380",
+  "birthPlace": "San Diego",
+  "fetchedAt": "2026-07-30T03:31:01.045Z"
+}

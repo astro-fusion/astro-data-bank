@@ -1,0 +1,34 @@
+{
+  "publicId": "5ad180a1",
+  "wikipediaSlug": "David_Brett",
+  "wikipediaId": "Q5231720",
+  "name": "David Brett",
+  "fullName": "David Brett",
+  "profileSummary": "David Brett is an English actor, singer and arranger. He was one of the original members of The Flying Pickets, and arranged a number of the group's songs, including the number one hit Only You.\nHis work as an actor, mainly on stage, has included Lark Rise to Candleford at the Finborough Theatre, London, but he has also participated in a number of TV productions and played Dedalus Diggle in Harry Potter and the Philosopher's Stone.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Brett",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.724",
+  "birthCoordinatesLng": "-1.369",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "singer",
+    "television actor"
+  ],
+  "qid": "Q5231720",
+  "birthPlace": "Coalville",
+  "fetchedAt": "2026-07-30T02:10:51.563Z"
+}

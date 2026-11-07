@@ -1,0 +1,39 @@
+{
+  "publicId": "9be8187b",
+  "wikipediaSlug": "Charles_Dance",
+  "wikipediaId": "Q309690",
+  "name": "Charles Dance",
+  "fullName": "Charles Dance",
+  "profileSummary": "Walter Charles Dance is an English actor. He is known for playing intimidating, authoritarian characters and villains. Dance started his career on stage with the Royal Shakespeare Company (RSC) before appearing in film and television. For his services to drama he was appointed an OBE by Queen Elizabeth II in 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/FrankensteinBFILFF131025-87_%2854863424291%29_%28cropped%29.jpg/330px-FrankensteinBFILFF131025-87_%2854863424291%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Dance",
+  "dateOfBirth": "1946-10-10",
+  "birthDateParsed": "1946-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.306944444",
+  "birthCoordinatesLng": "-1.949166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "screenwriter",
+    "film director",
+    "stage actor",
+    "actor",
+    "manufacturer",
+    "director",
+    "film producer"
+  ],
+  "qid": "Q309690",
+  "birthPlace": "Redditch",
+  "fetchedAt": "2026-07-30T01:23:35.331Z"
+}

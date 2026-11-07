@@ -1,0 +1,31 @@
+{
+  "publicId": "296e2282",
+  "wikipediaSlug": "Aaron_Rourke",
+  "wikipediaId": "Q136088317",
+  "name": "Aaron Rourke",
+  "fullName": "Aaron Rourke",
+  "profileSummary": "Aaron Rourke is an American professional wrestler. As of November 2024, he is signed to WWE where he performs on the Evolve brand as part of the WWE ID program. He is a former one-time WWE Evolve Champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aaron_Rourke_%282nd_Crop%29.jpg/330px-Aaron_Rourke_%282nd_Crop%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Rourke",
+  "dateOfBirth": "1995-12-01",
+  "birthDateParsed": "1995-12-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.805805",
+  "birthCoordinatesLng": "-73.253616",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "wrestler"
+  ],
+  "qid": "Q136088317",
+  "birthPlace": "Long Island",
+  "fetchedAt": "2026-07-31T03:25:40.043Z"
+}

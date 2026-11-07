@@ -1,0 +1,33 @@
+{
+  "publicId": "e04369e8",
+  "wikipediaSlug": "Blake_Lively",
+  "wikipediaId": "Q162959",
+  "name": "Blake Lively",
+  "fullName": "Blake Lively",
+  "profileSummary": "Blake Ellender Brown, known professionally as Blake Lively, is an American actress and entrepreneur.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Guests_at_the_2026_Met_Gala_435_%28Blake_Lively%29.jpg/330px-Guests_at_the_2026_Met_Gala_435_%28Blake_Lively%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blake_Lively",
+  "dateOfBirth": "1987-08-25",
+  "birthDateParsed": "1987-08-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.17333",
+  "birthCoordinatesLng": "-118.55306",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "model",
+    "fashion model"
+  ],
+  "qid": "Q162959",
+  "birthPlace": "Tarzana",
+  "fetchedAt": "2026-07-30T00:40:55.453Z"
+}

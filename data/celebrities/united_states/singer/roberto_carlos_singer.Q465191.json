@@ -1,0 +1,38 @@
+{
+  "publicId": "13c8c5c2",
+  "wikipediaSlug": "Roberto_Carlos_(singer)",
+  "wikipediaId": "Q465191",
+  "name": "Roberto Carlos (singer)",
+  "fullName": "Roberto Carlos (singer)",
+  "profileSummary": "Roberto Carlos Braga is a Brazilian singer-songwriter, also known as \"King of Brazilian Music\" or simply \"the King\". Most of his songs were written in partnership with his friend Erasmo Carlos. With over 140 million albums sold worldwide, Roberto Carlos is the best-selling Latin American music artist in history. He is considered one of the most influential artists in Brazil, being cited as a source of inspiration by many artists and bands. His net worth is estimated at US$160 million.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roberto_Carlos_Credicard_Hall_%2842626066250%29.jpg/330px-Roberto_Carlos_Credicard_Hall_%2842626066250%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Carlos_(singer)",
+  "dateOfBirth": "1941-04-19",
+  "birthDateParsed": "1941-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-20.848888888",
+  "birthCoordinatesLng": "-41.112777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "pianist",
+    "songwriter",
+    "singer-songwriter",
+    "actor",
+    "recording artist",
+    "musician"
+  ],
+  "qid": "Q465191",
+  "birthPlace": "Cachoeiro de Itapemirim",
+  "fetchedAt": "2026-07-30T07:26:12.795Z"
+}

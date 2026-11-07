@@ -1,0 +1,32 @@
+{
+  "publicId": "80ec09c4",
+  "wikipediaSlug": "Drew_Houston",
+  "wikipediaId": "Q5307199",
+  "name": "Drew Houston",
+  "fullName": "Drew Houston",
+  "profileSummary": "Andrew W. Houston is an American Internet entrepreneur best known as the co-founder and CEO of Dropbox, an online backup and storage service. According to Forbes, his net worth is about $2 billion. Houston held 24.4% of voting power in Dropbox before the company filed for IPO in February 2018. He has sat on the board of Meta Platforms since February 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Drew_Houston_at_Web_Summit_%28cropped%29.jpg/330px-Drew_Houston_at_Web_Summit_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Drew_Houston",
+  "dateOfBirth": "1983-03-04",
+  "birthDateParsed": "1983-03-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.48509",
+  "birthCoordinatesLng": "-71.43284",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "entrepreneur"
+  ],
+  "qid": "Q5307199",
+  "birthPlace": "Acton",
+  "fetchedAt": "2026-07-30T15:26:22.312Z"
+}

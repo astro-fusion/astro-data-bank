@@ -1,0 +1,33 @@
+{
+  "publicId": "b43de72b",
+  "wikipediaSlug": "Andy_Linden_(actor)",
+  "wikipediaId": "Q526529",
+  "name": "Andy Linden (actor)",
+  "fullName": "Andy Linden (actor)",
+  "profileSummary": "Andy Linden is an English actor. He is known for his roles in EastEnders, Count Arthur Strong and Not Going Out, as well as portraying Mundungus Fletcher in Harry Potter and the Deathly Hallows – Part 1.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Linden_(actor)",
+  "dateOfBirth": "2000-01-01",
+  "birthDateParsed": "2000-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53",
+  "birthCoordinatesLng": "-1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q526529",
+  "birthPlace": "England",
+  "fetchedAt": "2026-07-30T02:10:15.623Z"
+}

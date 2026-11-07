@@ -1,0 +1,33 @@
+{
+  "publicId": "35491c06",
+  "wikipediaSlug": "Ian_Beattie",
+  "wikipediaId": "Q17350459",
+  "name": "Ian Beattie",
+  "fullName": "Ian Beattie",
+  "profileSummary": "Ian Beattie is an actor from Northern Ireland. He is best known for playing Antigonus in the film Alexander (2004) and Ser Meryn Trant in the television series Game of Thrones (2011–2015).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ian_Beattie.jpg/330px-Ian_Beattie.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ian_Beattie",
+  "dateOfBirth": "1965-03-03",
+  "birthDateParsed": "1965-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.596666666",
+  "birthCoordinatesLng": "-5.93",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q17350459",
+  "birthPlace": "Belfast",
+  "fetchedAt": "2026-07-30T01:25:09.470Z"
+}

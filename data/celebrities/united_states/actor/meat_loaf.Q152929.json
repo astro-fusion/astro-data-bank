@@ -1,0 +1,37 @@
+{
+  "publicId": "468f1e86",
+  "wikipediaSlug": "Meat_Loaf",
+  "wikipediaId": "Q152929",
+  "name": "Meat Loaf",
+  "fullName": "Meat Loaf",
+  "profileSummary": "Michael Lee Aday, known professionally as Meat Loaf, was an American singer and actor. He was known for his powerful, wide-ranging voice and theatrical live shows. His Bat Out of Hell album trilogy—Bat Out of Hell (1977), Bat Out of Hell II: Back into Hell (1993), and Bat Out of Hell III: The Monster Is Loose (2006)—has sold more than 100 million records worldwide, making him one of the best-selling music artists of all time. The first album stayed on the charts for over nine years and is one of the best-selling albums in history, still selling an estimated 200,000 copies annually as of 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Meatloaf_1971_%28cropped%29.JPG/330px-Meatloaf_1971_%28cropped%29.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Meat_Loaf",
+  "dateOfBirth": "1947-09-27",
+  "birthDateParsed": "1947-09-27",
+  "dateOfDeath": "2022-01-20",
+  "deathDateParsed": "2022-01-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.779166666",
+  "birthCoordinatesLng": "-96.808888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer-songwriter",
+    "record producer",
+    "guitarist",
+    "singer",
+    "rock singer",
+    "musician"
+  ],
+  "qid": "Q152929",
+  "birthPlace": "Dallas",
+  "fetchedAt": "2026-07-30T07:25:43.229Z"
+}

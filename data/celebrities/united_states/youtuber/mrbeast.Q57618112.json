@@ -1,0 +1,32 @@
+{
+  "publicId": "8ddb6484",
+  "wikipediaSlug": "MrBeast",
+  "wikipediaId": "Q57618112",
+  "name": "MrBeast",
+  "fullName": "MrBeast",
+  "profileSummary": "James Stephen \"Jimmy\" Donaldson, better known as MrBeast, is an American YouTuber, media personality, businessman, philanthropist, and actor. He is the founder of Beast Industries, a conglomerate that holds various media channels, MrBeast Burger, Feastables, Lunchly, and more. He produces high-paced YouTube videos built around elaborate challenges and philanthropic efforts that are noted for their high production values. With more than 509 million subscribers, his main channel is the most subscribed on YouTube. He is also the third most followed account on TikTok.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MrBeast_in_2026_%28cropped_4%29.png/330px-MrBeast_in_2026_%28cropped_4%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MrBeast",
+  "dateOfBirth": "1998-05-07",
+  "birthDateParsed": "1998-05-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.688888888",
+  "birthCoordinatesLng": "-97.336111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "YouTuber",
+    "entrepreneur"
+  ],
+  "qid": "Q57618112",
+  "birthPlace": "Wichita",
+  "fetchedAt": "2026-07-30T16:46:26.344Z"
+}

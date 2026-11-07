@@ -1,0 +1,32 @@
+{
+  "publicId": "6c482401",
+  "wikipediaSlug": "András_Sajó",
+  "wikipediaId": "Q1254943",
+  "name": "András Sajó",
+  "fullName": "András Sajó",
+  "profileSummary": "András Sajó is a Hungarian legal academic and former European Court of Human Rights judge.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A1s_Saj%C3%B3",
+  "dateOfBirth": "1949-03-25",
+  "birthDateParsed": "1949-03-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "jurist"
+  ],
+  "qid": "Q1254943",
+  "birthPlace": "Budapest",
+  "fetchedAt": "2026-07-30T15:25:48.102Z"
+}

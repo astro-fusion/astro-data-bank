@@ -1,0 +1,37 @@
+{
+  "publicId": "c3484cbe",
+  "wikipediaSlug": "Jennifer_Lawrence",
+  "wikipediaId": "Q189490",
+  "name": "Jennifer Lawrence",
+  "fullName": "Jennifer Lawrence",
+  "profileSummary": "Jennifer Shrader Maroney is an American actress and producer. She has starred in both action film franchises and independent dramas, and her films have grossed over $6 billion worldwide. Lawrence was the world's highest-paid actress in 2015 and 2016 and Time named her one of the 100 most influential people in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jennifer_Lawrence_in_2018.png/330px-Jennifer_Lawrence_in_2018.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+  "dateOfBirth": "1990-08-15",
+  "birthDateParsed": "1990-08-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.2781",
+  "birthCoordinatesLng": "-85.6597",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "voice actor",
+    "film producer",
+    "film screenwriter",
+    "film director"
+  ],
+  "qid": "Q189490",
+  "birthPlace": "Indian Hills",
+  "fetchedAt": "2026-07-30T03:31:51.278Z"
+}

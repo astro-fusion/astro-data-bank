@@ -1,0 +1,33 @@
+{
+  "publicId": "8348ca06",
+  "wikipediaSlug": "Joe_Naufahu",
+  "wikipediaId": "Q22007135",
+  "name": "Joe Naufahu",
+  "fullName": "Joe Naufahu",
+  "profileSummary": "Joe Naufahu is a New Zealand actor and former professional rugby player. During his rugby career, he played for the Leicester Tigers and Glasgow Warriors, among others, and briefly coached the Glasgow Hutchesons Aloysians. He began acting in 2005. Most notably, he portrayed Khal Moro in the sixth season of the HBO fantasy TV series Game of Thrones. In August 2021, it was announced that he would feature in the 2021 Season of \nCelebrity Treasure Island 2021.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Naufahu",
+  "dateOfBirth": "1978-01-25",
+  "birthDateParsed": "1978-01-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-41.2",
+  "birthCoordinatesLng": "174",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "rugby union player",
+    "television actor"
+  ],
+  "qid": "Q22007135",
+  "birthPlace": "New Zealand",
+  "fetchedAt": "2026-07-30T01:24:59.537Z"
+}

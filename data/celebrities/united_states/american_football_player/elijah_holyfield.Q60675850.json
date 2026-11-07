@@ -1,0 +1,31 @@
+{
+  "publicId": "e656a9d9",
+  "wikipediaSlug": "Elijah_Holyfield",
+  "wikipediaId": "Q60675850",
+  "name": "Elijah Holyfield",
+  "fullName": "Elijah Holyfield",
+  "profileSummary": "Elijah Esaias Holyfield is an American professional wrestler and former professional football running back. He is signed to WWE.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/GA_VS_LSU_E101318_21.jpg/330px-GA_VS_LSU_E101318_21.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elijah_Holyfield",
+  "dateOfBirth": "1997-01-01",
+  "birthDateParsed": "1997-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.6483",
+  "birthCoordinatesLng": "-84.4561",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "American football player"
+  ],
+  "qid": "Q60675850",
+  "birthPlace": "College Park",
+  "fetchedAt": "2026-07-31T03:26:58.237Z"
+}

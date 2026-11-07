@@ -1,0 +1,37 @@
+{
+  "publicId": "d5208632",
+  "wikipediaSlug": "Rod_Stewart",
+  "wikipediaId": "Q182655",
+  "name": "Rod Stewart",
+  "fullName": "Rod Stewart",
+  "profileSummary": "Sir Roderick David Stewart is a British singer and songwriter. Known for his distinctive raspy singing voice, Stewart is among the best-selling music artists of all time, having sold more than 120 million records worldwide. His music career began in 1962 when he took up busking with a harmonica. He was a member of various bands before joining the Jeff Beck Group in 1967. Joining Faces in 1969, he also launched a solo career, releasing his debut album, An Old Raincoat Won't Ever Let You Down, that year. Stewart's early albums were a fusion of rock, folk music, soul music, and R&B. His third album, 1971's Every Picture Tells a Story, was his breakthrough, topping the charts in the UK, US, Canada and Australia, as did its single \"Maggie May\". His 1972 follow-up album, Never a Dull Moment, also reached number one in the UK and Australia, while going top three in the US and Canada. Its single, \"You Wear It Well\", topped the UK chart and was a moderate hit elsewhere.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rod_Stewart_at_Coca-Cola_Amphitheater%2C_Birmingham%2C_Alabama_2025.jpg/330px-Rod_Stewart_at_Coca-Cola_Amphitheater%2C_Birmingham%2C_Alabama_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rod_Stewart",
+  "dateOfBirth": "1945-01-10",
+  "birthDateParsed": "1945-01-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "guitarist",
+    "recording artist",
+    "vocalist",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q182655",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T07:26:03.260Z"
+}

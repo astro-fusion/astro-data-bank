@@ -1,0 +1,33 @@
+{
+  "publicId": "3aa9d1e8",
+  "wikipediaSlug": "Benedict_Wong",
+  "wikipediaId": "Q3329808",
+  "name": "Benedict Wong",
+  "fullName": "Benedict Wong",
+  "profileSummary": "Benedict Wong is an English actor. He began his career on stage before starring in the film Dirty Pretty Things (2002), which earned him a British Independent Film Award nomination, and the BBC sitcom 15 Storeys High (2002–2004). This was followed by roles in the films On a Clear Day (2005), Sunshine, Grow Your Own and Moon (2009), and the CBBC series Spirit Warriors (2010).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Benedict_Wong_2023_by_Peter_Guenzel_02.jpg/330px-Benedict_Wong_2023_by_Peter_Guenzel_02.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benedict_Wong",
+  "dateOfBirth": "1971-07-03",
+  "birthDateParsed": "1971-07-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.4824",
+  "birthCoordinatesLng": "-2.339",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "dub actor",
+    "stage actor",
+    "film actor",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q3329808",
+  "birthPlace": "Eccles",
+  "fetchedAt": "2026-07-30T00:40:16.197Z"
+}

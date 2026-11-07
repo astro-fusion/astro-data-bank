@@ -1,0 +1,39 @@
+{
+  "publicId": "9d0d9057",
+  "wikipediaSlug": "Kim_Kardashian",
+  "wikipediaId": "Q186304",
+  "name": "Kim Kardashian",
+  "fullName": "Kim Kardashian",
+  "profileSummary": "Kimberly Noel Kardashian is an American media personality, socialite, and businesswoman. She first gained media attention in 2007 following the unauthorized release of a sex tape with American singer Ray J. Afterwards, she and her family began to appear on the E! reality television series Keeping Up with the Kardashians. The show aired until 2021, and its success led to the formation of several spin-offs before its revival in the form of Hulu's The Kardashians (2022–present) as part of her and her family's multi-year deal with the streaming service.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kim_Kardashian_West_2014.jpg/330px-Kim_Kardashian_West_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Kardashian",
+  "dateOfBirth": "1980-10-21",
+  "birthDateParsed": "1980-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "fashion designer",
+    "socialite",
+    "blogger",
+    "entrepreneur",
+    "actor",
+    "television producer",
+    "voice actor",
+    "celebrity",
+    "erotic photography model"
+  ],
+  "qid": "Q186304",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-07-30T15:26:32.449Z"
+}

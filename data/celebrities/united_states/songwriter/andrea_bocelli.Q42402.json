@@ -1,0 +1,42 @@
+{
+  "publicId": "6d318aad",
+  "wikipediaSlug": "Andrea_Bocelli",
+  "wikipediaId": "Q42402",
+  "name": "Andrea Bocelli",
+  "fullName": "Andrea Bocelli",
+  "profileSummary": "Andrea Bocelli is an Italian tenor. He rose to fame in 1994 after winning the newcomers' section of the 44th Sanremo Music Festival performing \"Il mare calmo della sera\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2025_Andrea_Bocelli_in_the_White_House_Oval_Office_on_October_17_%28cropped%29.jpg/330px-2025_Andrea_Bocelli_in_the_White_House_Oval_Office_on_October_17_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Bocelli",
+  "dateOfBirth": "1958-09-22",
+  "birthDateParsed": "1958-09-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.472222222",
+  "birthCoordinatesLng": "10.729444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "songwriter",
+    "singer-songwriter",
+    "record producer",
+    "opera singer",
+    "lawyer",
+    "composer",
+    "pianist",
+    "guitarist",
+    "saxophonist",
+    "trumpeter",
+    "singer",
+    "musician"
+  ],
+  "qid": "Q42402",
+  "birthPlace": "Lajatico",
+  "fetchedAt": "2026-07-30T07:24:22.119Z"
+}

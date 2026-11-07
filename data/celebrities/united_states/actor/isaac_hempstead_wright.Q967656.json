@@ -1,0 +1,33 @@
+{
+  "publicId": "ea4e1d49",
+  "wikipediaSlug": "Isaac_Hempstead_Wright",
+  "wikipediaId": "Q967656",
+  "name": "Isaac Hempstead Wright",
+  "fullName": "Isaac Hempstead Wright",
+  "profileSummary": "Isaac Hempstead Wright is an English actor. He is best known for his role as Bran Stark in the HBO television series Game of Thrones (2011–2019), which earned him a Young Artist Award nomination as Best Young Supporting Actor in a TV Series. He also voiced Eggs in the 2014 animated film The Boxtrolls.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Isaac_Hempstead_Wright_%282019%29_%28cropped%29.jpg/330px-Isaac_Hempstead_Wright_%282019%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isaac_Hempstead_Wright",
+  "dateOfBirth": "1999-04-09",
+  "birthDateParsed": "1999-04-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.269458923",
+  "birthCoordinatesLng": "-0.373297931",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q967656",
+  "birthPlace": "Surrey",
+  "fetchedAt": "2026-07-30T01:25:29.985Z"
+}

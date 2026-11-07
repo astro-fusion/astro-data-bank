@@ -1,0 +1,35 @@
+{
+  "publicId": "5948c4c6",
+  "wikipediaSlug": "Ian_Whyte_(actor)",
+  "wikipediaId": "Q1655682",
+  "name": "Ian Whyte (actor)",
+  "fullName": "Ian Whyte (actor)",
+  "profileSummary": "Ian Stuart Whyte is a Welsh actor, stuntman and former professional basketball player. He is best known for his roles as Predators in the Alien vs. Predator film series, Sheikh Suleiman in the 2010 remake of Clash of the Titans, The Last Engineer in Prometheus, as well as various characters in the HBO fantasy series Game of Thrones.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Stuttgart_2024_-_ComicCon_-_Ian_Whyte_-_by-RaBoe_007.jpg/330px-Stuttgart_2024_-_ComicCon_-_Ian_Whyte_-_by-RaBoe_007.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ian_Whyte_(actor)",
+  "dateOfBirth": "1971-09-17",
+  "birthDateParsed": "1971-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.228",
+  "birthCoordinatesLng": "-4.128",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "basketball player",
+    "film actor",
+    "television actor",
+    "stunt performer"
+  ],
+  "qid": "Q1655682",
+  "birthPlace": "Bangor",
+  "fetchedAt": "2026-07-30T01:25:26.499Z"
+}

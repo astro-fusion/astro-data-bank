@@ -1,0 +1,33 @@
+{
+  "publicId": "b779d654",
+  "wikipediaSlug": "Andrei_Alexandrescu",
+  "wikipediaId": "Q92878",
+  "name": "Andrei Alexandrescu",
+  "fullName": "Andrei Alexandrescu",
+  "profileSummary": "Tudor Andrei Cristian Alexandrescu is a Romanian-American programmer and author specializing in the programming languages C++ and D. He is especially known for his pioneering work on policy-based design implemented via template metaprogramming. These ideas are articulated in his book Modern C++ Design and were first implemented in his programming library, Loki. He also implemented the move constructors concept in his library MOJO. He contributed to the C/C++ Users Journal under the byline \"Generic<Programming>\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/AndreiAlexandrescu.jpg/330px-AndreiAlexandrescu.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrei_Alexandrescu",
+  "dateOfBirth": "1969-01-01",
+  "birthDateParsed": "1969-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.413361111",
+  "birthCoordinatesLng": "26.097777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "programmer"
+  ],
+  "qid": "Q92878",
+  "birthPlace": "Bucharest",
+  "fetchedAt": "2026-07-30T15:25:56.468Z"
+}

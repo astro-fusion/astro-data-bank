@@ -1,0 +1,33 @@
+{
+  "publicId": "aaf6a9bf",
+  "wikipediaSlug": "Katie_Leung",
+  "wikipediaId": "Q109098",
+  "name": "Katie Leung",
+  "fullName": "Katie Leung",
+  "profileSummary": "Katie Leung is a Scottish actress. She began her career playing Cho Chang in the Harry Potter film series. On television, she is known for her roles in the BBC series One Child (2014) and Annika (2021–2023), the ITV series Strangers (2018), and the Amazon Prime series The Peripheral (2022). She also voiced Caitlyn Kiramman in the Netflix animated series Arcane (2021–2024).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Katie_Leungpremiere2008.jpg/330px-Katie_Leungpremiere2008.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Katie_Leung",
+  "dateOfBirth": "1987-08-08",
+  "birthDateParsed": "1987-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.460555555",
+  "birthCoordinatesLng": "-2.97",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q109098",
+  "birthPlace": "Dundee",
+  "fetchedAt": "2026-07-30T02:11:42.631Z"
+}

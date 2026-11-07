@@ -1,0 +1,36 @@
+{
+  "publicId": "6b474186",
+  "wikipediaSlug": "Denzel_Washington",
+  "wikipediaId": "Q42101",
+  "name": "Denzel Washington",
+  "fullName": "Denzel Washington",
+  "profileSummary": "Denzel Hayes Washington Jr. is an American actor. Known for his dramatic roles on stage and screen, he has received numerous accolades including two Academy Awards, an Actor Award, two Golden Globes, two Silver Bears and a Tony Award as well as nominations for a Grammy Award and two Primetime Emmy Awards. In 2020, The New York Times named Washington the greatest actor of the 21st century. He has also been honored with the Cecil B. DeMille Award in 2016, AFI Life Achievement Award in 2019, the Honorary Palme d'Or in 2025, and the Presidential Medal of Freedom in 2025. Films in which he has appeared have grossed over $5.1 billion worldwide.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg/330px-Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denzel_Washington",
+  "dateOfBirth": "1954-12-28",
+  "birthDateParsed": "1954-12-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.914166666",
+  "birthCoordinatesLng": "-73.830555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "film producer",
+    "film actor",
+    "stage actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q42101",
+  "birthPlace": "Mount Vernon",
+  "fetchedAt": "2026-07-30T03:31:10.524Z"
+}

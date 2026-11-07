@@ -1,0 +1,38 @@
+{
+  "publicId": "4da9facb",
+  "wikipediaSlug": "Elton_John",
+  "wikipediaId": "Q2808",
+  "name": "Elton John",
+  "fullName": "Elton John",
+  "profileSummary": "Sir Elton Hercules John is a British singer, composer and pianist. An influential figure in popular culture, he is known for his flamboyant fashion, showmanship and songwriting partnership with the lyricist Bernie Taupin. With over 300 million records sold worldwide, he is one of the best-selling music artists of all time. An EGOT winner, John's accolades include five Grammy Awards, two Academy Awards, a Primetime Emmy Award, a Tony Award, two Golden Globe Awards, a Laurence Olivier Award and the Kennedy Center Honors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/330px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elton_John",
+  "dateOfBirth": "1947-03-25",
+  "birthDateParsed": "1947-03-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5932",
+  "birthCoordinatesLng": "-0.3894",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "film actor",
+    "pianist",
+    "recording artist",
+    "HIV/AIDS activist",
+    "musician",
+    "lyricist"
+  ],
+  "qid": "Q2808",
+  "birthPlace": "Pinner",
+  "fetchedAt": "2026-07-30T13:08:31.635Z"
+}

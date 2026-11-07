@@ -1,0 +1,33 @@
+{
+  "publicId": "ebcebe14",
+  "wikipediaSlug": "Helen_McCrory",
+  "wikipediaId": "Q231310",
+  "name": "Helen McCrory",
+  "fullName": "Helen McCrory",
+  "profileSummary": "Helen Elizabeth McCrory was an English actress. After studying at the Drama Centre London, she made her professional stage debut in The Importance of Being Earnest in 1990. Other theatre roles include playing Lady Macbeth in Macbeth at Shakespeare's Globe, Olivia in Twelfth Night, Rosalind in As You Like It in the West End for which she received a Laurence Olivier Award nomination, and Medea in the eponymous play at the Royal National Theatre.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Helen_McCrory_2017_%28Extract%29.jpg/330px-Helen_McCrory_2017_%28Extract%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helen_McCrory",
+  "dateOfBirth": "1968-08-17",
+  "birthDateParsed": "1968-08-17",
+  "dateOfDeath": "2021-04-16",
+  "deathDateParsed": "2021-04-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q231310",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:11:16.213Z"
+}

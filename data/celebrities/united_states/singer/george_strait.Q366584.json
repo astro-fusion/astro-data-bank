@@ -1,0 +1,36 @@
+{
+  "publicId": "51afb8c8",
+  "wikipediaSlug": "George_Strait",
+  "wikipediaId": "Q366584",
+  "name": "George Strait",
+  "fullName": "George Strait",
+  "profileSummary": "George Harvey Strait Sr. is an American country music singer, songwriter, actor, music producer, and rancher. Strait has sold tens of millions of records worldwide, making him one of the best-selling music artists of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/George_Strait_2014_1.jpg/330px-George_Strait_2014_1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Strait",
+  "dateOfBirth": "1952-05-18",
+  "birthDateParsed": "1952-05-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.0333",
+  "birthCoordinatesLng": "-98.5667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "songwriter",
+    "film actor",
+    "guitarist",
+    "country musician"
+  ],
+  "qid": "Q366584",
+  "birthPlace": "Poteet",
+  "fetchedAt": "2026-07-30T07:25:35.793Z"
+}

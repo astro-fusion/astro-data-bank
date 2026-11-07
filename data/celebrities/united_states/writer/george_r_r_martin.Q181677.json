@@ -1,0 +1,43 @@
+{
+  "publicId": "c909e438",
+  "wikipediaSlug": "George_R._R._Martin",
+  "wikipediaId": "Q181677",
+  "name": "George R. R. Martin",
+  "fullName": "George R. R. Martin",
+  "profileSummary": "George Raymond Richard Martin, also known by the initials GRRM, is an American author, screenwriter, and television producer. Martin is best known as the author of the epic fantasy novel series A Song of Ice and Fire, which was adapted by HBO into the Primetime Emmy Award–winning television series Game of Thrones (2011–2019) and its prequel series House of the Dragon (2022–present). Martin also wrote a related series of novellas, Tales of Dunk and Egg, which have been adapted by HBO as A Knight of the Seven Kingdoms (2026–present). Outside of A Song of Ice and Fire and its related media, Martin helped create the Wild Cards anthology series and contributed worldbuilding for the video game Elden Ring (2022).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/George_R._R._Martin_%2854743316729%29_%28cropped%29.jpg/330px-George_R._R._Martin_%2854743316729%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_R._R._Martin",
+  "dateOfBirth": "1948-09-20",
+  "birthDateParsed": "1948-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.6624",
+  "birthCoordinatesLng": "-74.1102",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "novelist",
+    "fantasy author",
+    "science fiction writer",
+    "screenwriter",
+    "television writer",
+    "television producer",
+    "short story writer",
+    "blogger",
+    "prose writer",
+    "editing staff",
+    "film producer",
+    "manufacturer"
+  ],
+  "qid": "Q181677",
+  "birthPlace": "Bayonne",
+  "fetchedAt": "2026-07-30T01:24:56.009Z"
+}

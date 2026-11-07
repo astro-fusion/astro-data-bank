@@ -1,0 +1,32 @@
+{
+  "publicId": "143abb50",
+  "wikipediaSlug": "Andrew_Wilde_(actor)",
+  "wikipediaId": "Q4758915",
+  "name": "Andrew Wilde (actor)",
+  "fullName": "Andrew Wilde (actor)",
+  "profileSummary": "Andrew Wilde is an English actor, known for his role as Tillotson in the 1984 film Nineteen Eighty-Four. He also appeared in the Pete Townshend short film, White City: The Music Movie.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Wilde_(actor)",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q4758915",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-30T01:23:37.352Z"
+}

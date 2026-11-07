@@ -1,0 +1,32 @@
+{
+  "publicId": "b5e0fd8b",
+  "wikipediaSlug": "David_Niven",
+  "wikipediaId": "Q181917",
+  "name": "David Niven",
+  "fullName": "David Niven",
+  "profileSummary": "James David Graham Niven was an English actor, soldier, raconteur, memoirist and novelist. Niven was known as a handsome and debonair leading man in classic Hollywood films. His accolades include an Academy Award and two Golden Globe Awards in addition to nominations for a BAFTA Award and two Emmy Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/David_Niven_bw_Allan_Warren.jpg/330px-David_Niven_bw_Allan_Warren.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Niven",
+  "dateOfBirth": "1910-03-01",
+  "birthDateParsed": "1910-03-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "military personnel",
+    "stage actor",
+    "autobiographer",
+    "television actor",
+    "author",
+    "journalist",
+    "novelist",
+    "writer"
+  ],
+  "qid": "Q181917",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-29T15:23:36.983Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "16cec7a8",
+  "wikipediaSlug": "Drew_McIntyre",
+  "wikipediaId": "Q311944",
+  "name": "Drew McIntyre",
+  "fullName": "Drew McIntyre",
+  "profileSummary": "Andrew McLean Galloway IV is a Scottish professional wrestler and actor. As of April 2017, he is signed to WWE, where he performs on the SmackDown brand under the ring name Drew McIntyre.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Drew_McIntyre%2C_WrestleMania_XL_%28cropped%29.jpg/330px-Drew_McIntyre%2C_WrestleMania_XL_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Drew_McIntyre",
+  "dateOfBirth": "1985-06-06",
+  "birthDateParsed": "1985-06-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.463888888",
+  "birthCoordinatesLng": "-4.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "actor"
+  ],
+  "qid": "Q311944",
+  "birthPlace": "Ayr",
+  "fetchedAt": "2026-07-31T03:26:59.318Z"
+}

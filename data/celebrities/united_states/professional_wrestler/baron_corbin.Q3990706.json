@@ -1,0 +1,33 @@
+{
+  "publicId": "b11bfbf2",
+  "wikipediaSlug": "Baron_Corbin",
+  "wikipediaId": "Q3990706",
+  "name": "Baron Corbin",
+  "fullName": "Baron Corbin",
+  "profileSummary": "Thomas Pestock is an American professional wrestler, Brazilian jiu jitsu practitioner, former professional football player and former amateur boxer. As of July 2026, he is signed to WWE, where he performs on the SmackDown brand under the ring name Baron Corbin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Baron_Corbin_April_2018.jpg/330px-Baron_Corbin_April_2018.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baron_Corbin",
+  "dateOfBirth": "1984-09-13",
+  "birthDateParsed": "1984-09-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.964722222",
+  "birthCoordinatesLng": "-94.759444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "boxer",
+    "American football player"
+  ],
+  "qid": "Q3990706",
+  "birthPlace": "Lenexa",
+  "fetchedAt": "2026-07-31T03:26:25.807Z"
+}

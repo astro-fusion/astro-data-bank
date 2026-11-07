@@ -1,0 +1,39 @@
+{
+  "publicId": "4c3368c3",
+  "wikipediaSlug": "John_Carmack",
+  "wikipediaId": "Q92605",
+  "name": "John Carmack",
+  "fullName": "John Carmack",
+  "profileSummary": "John D. Carmack II is an American computer programmer and video game developer. He co-founded the video game company id Software and was the lead programmer of its 1990s games Commander Keen, Wolfenstein 3D, Doom, Quake, and their sequels. Carmack made innovations in 3D computer graphics, such as his Carmack's Reverse algorithm for shadow volumes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/John_Carmack_2025.jpg/330px-John_Carmack_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Carmack",
+  "dateOfBirth": "1970-08-21",
+  "birthDateParsed": "1970-08-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.02",
+  "birthCoordinatesLng": "-94.665833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chief technology officer",
+    "military flight engineer",
+    "programmer",
+    "computer scientist",
+    "engineer",
+    "businessperson",
+    "video game developer",
+    "video game director",
+    "television actor"
+  ],
+  "qid": "Q92605",
+  "birthPlace": "Shawnee Mission",
+  "fetchedAt": "2026-07-30T15:26:53.703Z"
+}

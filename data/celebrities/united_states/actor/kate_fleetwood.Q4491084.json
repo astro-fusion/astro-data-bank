@@ -1,0 +1,32 @@
+{
+  "publicId": "92a3c91e",
+  "wikipediaSlug": "Kate_Fleetwood",
+  "wikipediaId": "Q4491084",
+  "name": "Kate Fleetwood",
+  "fullName": "Kate Fleetwood",
+  "profileSummary": "Kate Fleetwood is an English actress. She was nominated for a Tony Award for her performance as Lady Macbeth in Macbeth, at Chichester Festival Theatre and the West End and Broadway and an Olivier Award nomination in 2012 for her performance as Julie in London Road at the National Theatre. Her film and television credits include Vanity Fair (2004), Harry Potter and the Deathly Hallows – Part 1 (2010), Macbeth (2010), Philomena (2013), London Road (2015), Harlots (2017–2019), and The Wheel of Time (2021–2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kate_Fleetwood_2015.jpg/330px-Kate_Fleetwood_2015.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kate_Fleetwood",
+  "dateOfBirth": "1972-09-24",
+  "birthDateParsed": "1972-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.719",
+  "birthCoordinatesLng": "-1.968",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor"
+  ],
+  "qid": "Q4491084",
+  "birthPlace": "Cirencester",
+  "fetchedAt": "2026-07-30T02:11:57.506Z"
+}

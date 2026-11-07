@@ -1,0 +1,41 @@
+{
+  "publicId": "dcd37dbc",
+  "wikipediaSlug": "Neil_Diamond",
+  "wikipediaId": "Q294531",
+  "name": "Neil Diamond",
+  "fullName": "Neil Diamond",
+  "profileSummary": "Neil Leslie Diamond is an American singer-songwriter. He has sold more than 56.5 million records in the US alone, making him one of the best-selling musicians in history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Neil_Diamond_HWOF_Aug_2012_other_%28levels_adjusted_and_cropped%29.jpg/330px-Neil_Diamond_HWOF_Aug_2012_other_%28levels_adjusted_and_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Neil_Diamond",
+  "dateOfBirth": "1941-01-24",
+  "birthDateParsed": "1941-01-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "musician",
+    "singer",
+    "pianist",
+    "guitarist",
+    "recording artist",
+    "actor",
+    "composer",
+    "lyricist",
+    "performing artist",
+    "songwriter"
+  ],
+  "qid": "Q294531",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-07-30T07:25:59.881Z"
+}

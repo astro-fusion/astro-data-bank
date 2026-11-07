@@ -1,0 +1,33 @@
+{
+  "publicId": "58efa976",
+  "wikipediaSlug": "Big_Bill_(wrestler)",
+  "wikipediaId": "Q769073",
+  "name": "Big Bill (wrestler)",
+  "fullName": "Big Bill (wrestler)",
+  "profileSummary": "William Morrissey is an American professional wrestler. As of July 2026, he is signed to WWE, where he performs under the ring name Big Cass. He is also known for his tenures in All Elite Wrestling (AEW), as Big Bill and in Impact Wrestling, as W. Morrisey.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Big_Bill_and_Bryan_Keith_%28cropped%29.jpg/330px-Big_Bill_and_Bryan_Keith_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Big_Bill_(wrestler)",
+  "dateOfBirth": "1986-08-16",
+  "birthDateParsed": "1986-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.713611111",
+  "birthCoordinatesLng": "-73.828055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "basketball player",
+    "economist"
+  ],
+  "qid": "Q769073",
+  "birthPlace": "Queens",
+  "fetchedAt": "2026-07-31T03:26:02.438Z"
+}

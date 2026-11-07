@@ -1,0 +1,34 @@
+{
+  "publicId": "4b05c52e",
+  "wikipediaSlug": "Blake_Ross",
+  "wikipediaId": "Q92792",
+  "name": "Blake Ross",
+  "fullName": "Blake Ross",
+  "profileSummary": "Blake Aaron Ross is an American software engineer who is best known for his work as the co-creator of the Mozilla Firefox web browser with Dave Hyatt. In 2005, he was nominated for Wired magazine's top Rave Award, Renegade of the Year, opposite Larry Page, Sergey Brin and Jon Stewart. He was also a part of Rolling Stone magazine's 2005 hot list. From 2007, he worked for Facebook as Director of Product until resigning in early 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Blake_Ross.jpg/330px-Blake_Ross.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blake_Ross",
+  "dateOfBirth": "1985-06-12",
+  "birthDateParsed": "1985-06-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.783333333",
+  "birthCoordinatesLng": "-80.216666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "engineer",
+    "programmer",
+    "blogger"
+  ],
+  "qid": "Q92792",
+  "birthPlace": "Miami",
+  "fetchedAt": "2026-07-30T15:25:55.379Z"
+}

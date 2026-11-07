@@ -1,0 +1,35 @@
+{
+  "publicId": "1f9d165f",
+  "wikipediaSlug": "Frances_Haugen",
+  "wikipediaId": "Q108793477",
+  "name": "Frances Haugen",
+  "fullName": "Frances Haugen",
+  "profileSummary": "Frances Haugen is an American product manager, data engineer, scientist, and whistleblower. She disclosed tens of thousands of Facebook's internal documents to the Securities and Exchange Commission and The Wall Street Journal in the 2021 Facebook leak.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Frances_Haugen%2C_2024%2C_cropped.jpg/330px-Frances_Haugen%2C_2024%2C_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frances_Haugen",
+  "dateOfBirth": "1980-01-01",
+  "birthDateParsed": "1980-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.655833333",
+  "birthCoordinatesLng": "-91.525",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "data scientist",
+    "data engineer",
+    "product manager",
+    "whistleblower",
+    "computer scientist"
+  ],
+  "qid": "Q108793477",
+  "birthPlace": "Iowa City",
+  "fetchedAt": "2026-07-30T15:26:28.545Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "48b8c65f",
+  "wikipediaSlug": "Conleth_Hill",
+  "wikipediaId": "Q1126128",
+  "name": "Conleth Hill",
+  "fullName": "Conleth Hill",
+  "profileSummary": "Conleth Seamus Eoin Croiston Hill is an Irish actor. He has performed on stage in productions in the UK, Ireland, Canada and the US. He has won two Laurence Olivier Awards and received two Tony Award nominations. He is best known for his role as Varys in the HBO series Game of Thrones (2011–2019).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Conleth_Hill_by_Gage_Skidmore_3.jpg/330px-Conleth_Hill_by_Gage_Skidmore_3.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Conleth_Hill",
+  "dateOfBirth": "1964-11-24",
+  "birthDateParsed": "1964-11-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.20076",
+  "birthCoordinatesLng": "-6.25058",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q1126128",
+  "birthPlace": "Ballycastle",
+  "fetchedAt": "2026-07-30T01:24:16.113Z"
+}

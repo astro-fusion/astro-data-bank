@@ -1,0 +1,35 @@
+{
+  "publicId": "6da4be85",
+  "wikipediaSlug": "Rihanna",
+  "wikipediaId": "Q36844",
+  "name": "Rihanna",
+  "fullName": "Rihanna",
+  "profileSummary": "Robyn Rihanna Fenty is a Barbadian singer, songwriter, businesswoman, and actress. An influential figure in popular culture, she is known for her multifaceted career, artistic reinventions, and eclectic fashion style. With estimated sales exceeding 250 million records, Rihanna is one of the best-selling music artists of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/330px-Rihanna_Fenty_2018.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rihanna",
+  "dateOfBirth": "1988-02-20",
+  "birthDateParsed": "1988-02-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "13.118055555",
+  "birthCoordinatesLng": "-59.603055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "actor",
+    "pop singer",
+    "musician",
+    "voice actor"
+  ],
+  "qid": "Q36844",
+  "birthPlace": "Saint Michael",
+  "fetchedAt": "2026-07-30T15:27:27.821Z"
+}

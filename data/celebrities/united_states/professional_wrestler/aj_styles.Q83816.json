@@ -1,0 +1,31 @@
+{
+  "publicId": "af8433af",
+  "wikipediaSlug": "AJ_Styles",
+  "wikipediaId": "Q83816",
+  "name": "AJ Styles",
+  "fullName": "AJ Styles",
+  "profileSummary": "Allen Neal Jones, better known by his ring name AJ Styles, is an American retired professional wrestler. He is signed to WWE as a talent scout and coach at the Performance Center. He is also best known for his tenures in Total Nonstop Action Wrestling (TNA), New Japan Pro-Wrestling (NJPW), and Ring of Honor (ROH). Jones debuted in 1998 and competed for various independent promotions as well as World Championship Wrestling (WCW) before gaining initial mainstream exposure in TNA.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/AJ_Styles_RR24_%281%29_%28cropped%29.jpg/330px-AJ_Styles_RR24_%281%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/AJ_Styles",
+  "dateOfBirth": "1977-06-02",
+  "birthDateParsed": "1977-06-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.759722222",
+  "birthCoordinatesLng": "-77.409722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q83816",
+  "birthPlace": "Jacksonville",
+  "fetchedAt": "2026-07-31T03:25:50.824Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "b03a7ecc",
+  "wikipediaSlug": "Chris_Brown",
+  "wikipediaId": "Q155700",
+  "name": "Chris Brown",
+  "fullName": "Chris Brown",
+  "profileSummary": "Christopher Maurice Brown is an American singer, songwriter, dancer, and actor. A pop and hip-hop influenced R&B musician who works in a variety of genres, he has been called the \"King of R&B\" by some contemporaries. His lyrics often address emotional and hedonistic themes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Chris_Brown_got_INFLUENCE.jpg/330px-Chris_Brown_got_INFLUENCE.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Brown",
+  "dateOfBirth": "1989-05-05",
+  "birthDateParsed": "1989-05-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.9222",
+  "birthCoordinatesLng": "-76.8631",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "rapper",
+    "songwriter",
+    "dancer",
+    "actor",
+    "composer"
+  ],
+  "qid": "Q155700",
+  "birthPlace": "Tappahannock",
+  "fetchedAt": "2026-07-30T15:26:07.485Z"
+}

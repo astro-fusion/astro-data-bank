@@ -1,0 +1,36 @@
+{
+  "publicId": "e69e9560",
+  "wikipediaSlug": "Jodhi_May",
+  "wikipediaId": "Q256402",
+  "name": "Jodhi May",
+  "fullName": "Jodhi May",
+  "profileSummary": "Jodhi May is an English actress. Starting her career as a child actress, she is the youngest recipient of the Cannes Film Festival Award for Best Actress, for A World Apart (1988), which she won at 12 years old.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Jodhi_May_The_Movie_Blog_2024.png/330px-Jodhi_May_The_Movie_Blog_2024.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jodhi_May",
+  "dateOfBirth": "1975-05-08",
+  "birthDateParsed": "1975-05-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "voice actor",
+    "film producer",
+    "film director"
+  ],
+  "qid": "Q256402",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:24:57.400Z"
+}

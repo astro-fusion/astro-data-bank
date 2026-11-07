@@ -1,0 +1,39 @@
+{
+  "publicId": "a38e945a",
+  "wikipediaSlug": "Whitney_Houston",
+  "wikipediaId": "Q34389",
+  "name": "Whitney Houston",
+  "fullName": "Whitney Houston",
+  "profileSummary": "Whitney Elizabeth Houston was an American singer, actress, film producer, and record producer. Commonly referred to as \"the Voice\", she is one of the most awarded entertainers of all time. Houston is one of the best-selling music artists of all time, with sales of more than 220 million records worldwide. A cultural icon, she broke down gender and racial barriers through her artistic achievements, Hollywood crossover, and music videos. Known for her vocal delivery, gospel singing style, crossover appeal, and live performances, Houston was ranked second on Rolling Stone's list of the greatest singers of all time in 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whitney_Houston_%28cropped3%29.JPEG/330px-Whitney_Houston_%28cropped3%29.JPEG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Whitney_Houston",
+  "dateOfBirth": "1963-08-09",
+  "birthDateParsed": "1963-08-09",
+  "dateOfDeath": "2012-02-11",
+  "deathDateParsed": "2012-02-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.735555555",
+  "birthCoordinatesLng": "-74.172222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "film producer",
+    "film actor",
+    "record producer",
+    "recording artist",
+    "television actor",
+    "model",
+    "musician"
+  ],
+  "qid": "Q34389",
+  "birthPlace": "Newark",
+  "fetchedAt": "2026-07-30T07:26:15.787Z"
+}

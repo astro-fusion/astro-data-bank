@@ -1,0 +1,32 @@
+{
+  "publicId": "3031872e",
+  "wikipediaSlug": "John_Samples",
+  "wikipediaId": "Q106829538",
+  "name": "John Samples",
+  "fullName": "John Samples",
+  "profileSummary": "John Curtis Samples is an American political theorist, author, and vice president of the Cato Institute. As of 2021, he serves as a member of Facebook's independent Oversight Board.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/John_Samples_on_Reason_TV.jpg/330px-John_Samples_on_Reason_TV.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Samples",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "political theorist",
+    "author"
+  ],
+  "qid": "Q106829538",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-30T15:27:03.653Z"
+}

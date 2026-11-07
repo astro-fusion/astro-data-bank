@@ -1,0 +1,32 @@
+{
+  "publicId": "745f4ef5",
+  "wikipediaSlug": "Florence_Pugh",
+  "wikipediaId": "Q22277803",
+  "name": "Florence Pugh",
+  "fullName": "Florence Pugh",
+  "profileSummary": "Florence Pugh is an English actress. Her accolades include a British Independent Film Award, in addition to nominations for an Academy Award and three BAFTA Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Florence_Pugh_at_the_2024_Toronto_International_Film_Festival_13_%28cropped_2_%E2%80%93_color_adjusted%29.jpg/330px-Florence_Pugh_at_the_2024_Toronto_International_Film_Festival_13_%28cropped_2_%E2%80%93_color_adjusted%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Florence_Pugh",
+  "dateOfBirth": "1996-01-03",
+  "birthDateParsed": "1996-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.751944444",
+  "birthCoordinatesLng": "-1.257777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "singer",
+    "songwriter"
+  ],
+  "qid": "Q22277803",
+  "birthPlace": "Oxford",
+  "fetchedAt": "2026-07-30T00:42:00.612Z"
+}

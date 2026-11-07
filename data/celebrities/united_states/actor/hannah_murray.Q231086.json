@@ -1,0 +1,33 @@
+{
+  "publicId": "68373589",
+  "wikipediaSlug": "Hannah_Murray",
+  "wikipediaId": "Q231086",
+  "name": "Hannah Murray",
+  "fullName": "Hannah Murray",
+  "profileSummary": "Tegan Lauren-Hannah Murray is a retired English actress. She played Cassie in Skins and Gilly in the HBO fantasy series Game of Thrones (2012–2019), for which she has been nominated along with her castmates for three Screen Actors Guild Awards. Her film roles include the 2014 musical romance film Stuart Murdoch's God Help The Girl which won her a Special Jury Prize at the Sundance Film Festival, and 2015 drama film Jeppe Rønde's Bridgend for which she won the Tribeca Film Festival Best Actress Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hannah_Murray_by_Gage_Skidmore.jpg/330px-Hannah_Murray_by_Gage_Skidmore.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannah_Murray",
+  "dateOfBirth": "1989-07-01",
+  "birthDateParsed": "1989-07-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.453611111",
+  "birthCoordinatesLng": "-2.5975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q231086",
+  "birthPlace": "Bristol",
+  "fetchedAt": "2026-07-30T01:24:33.322Z"
+}

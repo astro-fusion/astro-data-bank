@@ -1,0 +1,33 @@
+{
+  "publicId": "1a702e82",
+  "wikipediaSlug": "Esmé_Bianco",
+  "wikipediaId": "Q440013",
+  "name": "Esmé Bianco",
+  "fullName": "Esmé Bianco",
+  "profileSummary": "Esmé Augusta Bianco is an English actress and neo-burlesque performer, who is best known for her recurring roles as Ros on Game of Thrones and Jane Chatwin on The Magicians.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Esm%C3%A9_Bianco_at_San_Diego_Comic_Con_2018.jpg/330px-Esm%C3%A9_Bianco_at_San_Diego_Comic_Con_2018.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Esm%C3%A9_Bianco",
+  "dateOfBirth": "1982-05-25",
+  "birthDateParsed": "1982-05-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.755",
+  "birthCoordinatesLng": "-0.336",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "film actor"
+  ],
+  "qid": "Q440013",
+  "birthPlace": "St Albans",
+  "fetchedAt": "2026-07-30T01:23:59.301Z"
+}

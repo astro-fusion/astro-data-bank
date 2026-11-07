@@ -1,0 +1,35 @@
+{
+  "publicId": "5d08d02c",
+  "wikipediaSlug": "David_O'Hara",
+  "wikipediaId": "Q708801",
+  "name": "David O'Hara",
+  "fullName": "David O'Hara",
+  "profileSummary": "David Patrick O'Hara is a Scottish stage and character actor. A graduate of the Royal Central School of Speech and Drama in London, he is best known to audiences for his numerous supporting roles in high-profile films, including Irishman Stephen in Braveheart, dimwitted mobster Fitzy in The Departed, hitman Mr. X in Wanted, and Albert Runcorn in Harry Potter and the Deathly Hallows – Part 1. He portrayed Det. Danny 'Mac' McGregor on The District and Henry Howard, Earl of Surrey on The Tudors.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_O'Hara",
+  "dateOfBirth": "1965-07-09",
+  "birthDateParsed": "1965-07-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "television actor",
+    "film producer"
+  ],
+  "qid": "Q708801",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-07-30T02:10:29.956Z"
+}

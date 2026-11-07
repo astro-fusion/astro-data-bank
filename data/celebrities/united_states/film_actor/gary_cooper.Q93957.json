@@ -1,0 +1,30 @@
+{
+  "publicId": "f5b67788",
+  "wikipediaSlug": "Gary_Cooper",
+  "wikipediaId": "Q93957",
+  "name": "Gary Cooper",
+  "fullName": "Gary Cooper",
+  "profileSummary": "Gary Cooper was an American actor known for his strong, silent screen persona and understated acting style. The American Film Institute (AFI) ranked Cooper at number 11 on its list of the 50 greatest screen legends. He won the Academy Award for Best Actor for Sergeant York (1941) and High Noon (1952) and an Academy Honorary Award in 1961.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gary_Cooper_%281952%29.jpg/330px-Gary_Cooper_%281952%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Cooper",
+  "dateOfBirth": "1901-05-07",
+  "birthDateParsed": "1901-05-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "46.592777777",
+  "birthCoordinatesLng": "-112.035",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "screenwriter",
+    "television actor",
+    "actor",
+    "stunt performer",
+    "film producer",
+    "writer",
+    "producer"
+  ],
+  "qid": "Q93957",
+  "birthPlace": "Helena",
+  "fetchedAt": "2026-07-29T15:23:41.701Z"
+}

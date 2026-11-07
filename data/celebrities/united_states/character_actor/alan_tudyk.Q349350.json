@@ -1,0 +1,31 @@
+{
+  "publicId": "85da31d7",
+  "wikipediaSlug": "Alan_Tudyk",
+  "wikipediaId": "Q349350",
+  "name": "Alan Tudyk",
+  "fullName": "Alan Tudyk",
+  "profileSummary": "Alan Wray Tudyk is an American actor. His film work includes roles in 28 Days (2000), A Knight's Tale (2001), Dodgeball: A True Underdog Story (2004), 3:10 to Yuma (2007), and Trumbo (2015). He starred in the black comedy horror film Tucker & Dale vs. Evil (2010).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AlanTudyk-byPhilipRomano.jpg/330px-AlanTudyk-byPhilipRomano.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Tudyk",
+  "dateOfBirth": "1971-03-16",
+  "birthDateParsed": "1971-03-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.759166666",
+  "birthCoordinatesLng": "-106.488611111",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "character actor",
+    "film actor",
+    "television actor",
+    "stage actor",
+    "voice actor",
+    "screenwriter",
+    "television producer",
+    "television director",
+    "actor"
+  ],
+  "qid": "Q349350",
+  "birthPlace": "El Paso",
+  "fetchedAt": "2026-07-29T15:23:39.907Z"
+}

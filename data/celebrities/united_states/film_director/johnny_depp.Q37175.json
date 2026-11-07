@@ -1,0 +1,41 @@
+{
+  "publicId": "5ad7b516",
+  "wikipediaSlug": "Johnny_Depp",
+  "wikipediaId": "Q37175",
+  "name": "Johnny Depp",
+  "fullName": "Johnny Depp",
+  "profileSummary": "John Christopher Depp II is an American actor, musician, and filmmaker. He is the recipient of multiple accolades, including a Golden Globe Award and a Screen Actors Guild Award as well as nominations for three Academy Awards and two British Academy Film Awards. His films, in which he has often played eccentric characters, have grossed over $10.8 billion worldwide.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Johnny_Depp_2020.jpg/330px-Johnny_Depp_2020.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnny_Depp",
+  "dateOfBirth": "1963-06-09",
+  "birthDateParsed": "1963-06-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.757748",
+  "birthCoordinatesLng": "-87.11839",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "film producer",
+    "television actor",
+    "film actor",
+    "voice actor",
+    "nightclub owner",
+    "guitarist",
+    "actor",
+    "musician",
+    "director",
+    "producer"
+  ],
+  "qid": "Q37175",
+  "birthPlace": "Owensboro",
+  "fetchedAt": "2026-07-30T03:31:52.140Z"
+}

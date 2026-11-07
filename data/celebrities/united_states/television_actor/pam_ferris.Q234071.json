@@ -1,0 +1,34 @@
+{
+  "publicId": "55b42ef8",
+  "wikipediaSlug": "Pam_Ferris",
+  "wikipediaId": "Q234071",
+  "name": "Pam Ferris",
+  "fullName": "Pam Ferris",
+  "profileSummary": "Pamela Ferris is a German-born Welsh actress. She starred in the British television series Connie (1985), The Darling Buds of May (1991–1993), Where the Heart Is (1997–2000), Rosemary & Thyme (2003–2006), and Call the Midwife. In film, she played Miss Trunchbull in Matilda (1996). For her role as Peggy Snow in Where the Heart Is, Ferris was nominated three times for Most Popular Actress at the National Television Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pam-Ferris.jpg/330px-Pam-Ferris.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pam_Ferris",
+  "dateOfBirth": "1948-05-11",
+  "birthDateParsed": "1948-05-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.374444444",
+  "birthCoordinatesLng": "9.738611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q234071",
+  "birthPlace": "Hanover",
+  "fetchedAt": "2026-07-30T02:12:07.873Z"
+}

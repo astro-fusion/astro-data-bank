@@ -1,0 +1,33 @@
+{
+  "publicId": "c80f5104",
+  "wikipediaSlug": "John_Bradley_(English_actor)",
+  "wikipediaId": "Q549101",
+  "name": "John Bradley (English actor)",
+  "fullName": "John Bradley (English actor)",
+  "profileSummary": "John Bradley West is an English actor, best known for his role as Samwell Tarly in the HBO fantasy TV series Game of Thrones.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/John_Bradley_by_Gage_Skidmore_2.jpg/330px-John_Bradley_by_Gage_Skidmore_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Bradley_(English_actor)",
+  "dateOfBirth": "1988-09-15",
+  "birthDateParsed": "1988-09-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.466666666",
+  "birthCoordinatesLng": "-2.233333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q549101",
+  "birthPlace": "Manchester",
+  "fetchedAt": "2026-07-30T01:25:11.776Z"
+}

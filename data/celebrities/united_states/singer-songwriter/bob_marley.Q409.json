@@ -1,0 +1,34 @@
+{
+  "publicId": "8c322b69",
+  "wikipediaSlug": "Bob_Marley",
+  "wikipediaId": "Q409",
+  "name": "Bob Marley",
+  "fullName": "Bob Marley",
+  "profileSummary": "Robert Nesta Marley was a Jamaican reggae singer, songwriter, and guitarist. Considered one of the pioneers of the genre, he was renowned for his distinctive vocal and songwriting style. Marley increased the visibility of Jamaican music worldwide and became a global figure in popular culture. He became known as a Rastafarian icon, and he infused his music with a sense of spirituality. Marley is also considered a global symbol of Jamaican music, culture and identity and was controversial in his outspoken support for democratic social reforms. Marley also supported the legalisation of cannabis and advocated for pan-Africanism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bob_Marley_1976_press_photo.jpg/330px-Bob_Marley_1976_press_photo.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Marley",
+  "dateOfBirth": "1945-02-06",
+  "birthDateParsed": "1945-02-06",
+  "dateOfDeath": "1981-05-11",
+  "deathDateParsed": "1981-05-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.2978",
+  "birthCoordinatesLng": "-77.2781",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "guitarist",
+    "composer"
+  ],
+  "qid": "Q409",
+  "birthPlace": "Nine Mile",
+  "fetchedAt": "2026-07-30T07:25:02.813Z"
+}

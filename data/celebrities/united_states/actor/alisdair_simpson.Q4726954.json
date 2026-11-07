@@ -1,0 +1,32 @@
+{
+  "publicId": "7d6b5ae6",
+  "wikipediaSlug": "Alisdair_Simpson",
+  "wikipediaId": "Q4726954",
+  "name": "Alisdair Simpson",
+  "fullName": "Alisdair Simpson",
+  "profileSummary": "Alisdair Simpson is a British actor, voice-over artist and narrator. He has a distinctive, masculine voice, making him a popular and recognisable narrator of documentaries on television.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alisdair_Simpson",
+  "dateOfBirth": "1969-12-31",
+  "birthDateParsed": "1969-12-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q4726954",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-30T01:23:36.685Z"
+}

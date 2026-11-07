@@ -1,0 +1,39 @@
+{
+  "publicId": "0ebddd72",
+  "wikipediaSlug": "Kourtney_Kardashian",
+  "wikipediaId": "Q575689",
+  "name": "Kourtney Kardashian",
+  "fullName": "Kourtney Kardashian",
+  "profileSummary": "Kourtney Kardashian Barker is an American media personality, socialite and businesswoman. In 2007, she and her family began starring in the reality television series Keeping Up with the Kardashians. Its success led to the creation of spin-offs including Kourtney and Kim Take Miami  and Kourtney and Kim Take New York. After she and her family made the decision to end their show after 20 seasons in 2021, they began appearing in an all new reality television series titled The Kardashians on Hulu in 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kourtney_Kardashian_2_2009.jpg/330px-Kourtney_Kardashian_2_2009.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kourtney_Kardashian",
+  "dateOfBirth": "1979-04-18",
+  "birthDateParsed": "1979-04-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "socialite",
+    "entrepreneur",
+    "businessperson",
+    "media personality",
+    "actor",
+    "television actor",
+    "fashion designer",
+    "celebrity"
+  ],
+  "qid": "Q575689",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-07-30T15:26:33.636Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "3261c54f",
+  "wikipediaSlug": "Jacob_Fatu",
+  "wikipediaId": "Q62059165",
+  "name": "Jacob Fatu",
+  "fullName": "Jacob Fatu",
+  "profileSummary": "Jacob Fatu is an American professional wrestler. He is signed to WWE, where he performs on the SmackDown brand and is a member of The Bloodline stable.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jacob_Fatu_RR25_%28cropped%29.jpg/330px-Jacob_Fatu_RR25_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Fatu",
+  "dateOfBirth": "1992-04-18",
+  "birthDateParsed": "1992-04-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.575277777",
+  "birthCoordinatesLng": "-121.486111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q62059165",
+  "birthPlace": "Sacramento",
+  "fetchedAt": "2026-07-31T03:27:20.121Z"
+}

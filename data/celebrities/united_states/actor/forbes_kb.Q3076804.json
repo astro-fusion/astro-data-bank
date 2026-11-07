@@ -1,0 +1,31 @@
+{
+  "publicId": "b938ed3c",
+  "wikipediaSlug": "Forbes_KB",
+  "wikipediaId": "Q3076804",
+  "name": "Forbes KB",
+  "fullName": "Forbes KB",
+  "profileSummary": "Forbes KB is a Scottish actor. He appeared in more than seventy films since 2003.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Forbes_KB",
+  "dateOfBirth": "1965-05-29",
+  "birthDateParsed": "1965-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "56.460555555",
+  "birthCoordinatesLng": "-2.97",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q3076804",
+  "birthPlace": "Dundee",
+  "fetchedAt": "2026-07-30T01:24:43.204Z"
+}

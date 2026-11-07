@@ -1,0 +1,26 @@
+{
+  "publicId": "31f414b8",
+  "wikipediaSlug": "Clark_Gable",
+  "wikipediaId": "Q71243",
+  "name": "Clark Gable",
+  "fullName": "Clark Gable",
+  "profileSummary": "William Clark Gable was an American actor often referred to as the \"King of Hollywood\". He appeared in more than 60 motion pictures across a variety of genres during a 37-year career, three decades of which he spent as a leading man. In 1999, the American Film Institute ranked Gable as the seventh-greatest male screen legend of classical Hollywood cinema.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Clark_Gable_1949.jpg/330px-Clark_Gable_1949.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clark_Gable",
+  "dateOfBirth": "1901-02-01",
+  "birthDateParsed": "1901-02-01",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.27056",
+  "birthCoordinatesLng": "-80.99556",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "military personnel",
+    "military officer"
+  ],
+  "qid": "Q71243",
+  "birthPlace": "Cadiz",
+  "fetchedAt": "2026-07-29T15:23:54.391Z"
+}

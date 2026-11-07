@@ -1,0 +1,34 @@
+{
+  "publicId": "e0dbebf1",
+  "wikipediaSlug": "Alfred_Burke",
+  "wikipediaId": "Q1349011",
+  "name": "Alfred Burke",
+  "fullName": "Alfred Burke",
+  "profileSummary": "Alfred Burke was an English actor who played Frank Marker in the drama series Public Eye, which ran on television for ten years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alfred_Burke_in_One_Step_Beyond_%28The_Sorcerer%29.jpg/330px-Alfred_Burke_in_One_Step_Beyond_%28The_Sorcerer%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Burke",
+  "dateOfBirth": "1918-02-28",
+  "birthDateParsed": "1918-02-28",
+  "dateOfDeath": "2011-02-16",
+  "deathDateParsed": "2011-02-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4714",
+  "birthCoordinatesLng": "-0.0625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q1349011",
+  "birthPlace": "Peckham",
+  "fetchedAt": "2026-07-30T02:10:20.635Z"
+}

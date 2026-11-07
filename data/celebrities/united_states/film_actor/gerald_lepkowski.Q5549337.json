@@ -1,0 +1,33 @@
+{
+  "publicId": "50ee84dd",
+  "wikipediaSlug": "Gerald_Lepkowski",
+  "wikipediaId": "Q5549337",
+  "name": "Gerald Lepkowski",
+  "fullName": "Gerald Lepkowski",
+  "profileSummary": "Gerald Lepkowski is a British-Australian television and stage actor, who has had guest roles in Australian and British productions, before landing the lead role in drama series Dirt Game in Australia in 2009.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerald_Lepkowski",
+  "dateOfBirth": "1950-01-01",
+  "birthDateParsed": "1950-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q5549337",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-07-30T01:24:32.647Z"
+}

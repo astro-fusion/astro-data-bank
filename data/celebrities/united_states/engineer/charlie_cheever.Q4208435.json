@@ -1,0 +1,32 @@
+{
+  "publicId": "cde2e36f",
+  "wikipediaSlug": "Charlie_Cheever",
+  "wikipediaId": "Q4208435",
+  "name": "Charlie Cheever",
+  "fullName": "Charlie Cheever",
+  "profileSummary": "Charlie Cheever is the co-founder of Quora, an online knowledge market. Cheever also founded Expo, a framework which creates apps that works on Android, iOS and web by writing the JavaScript code, and a cloud platform called EAS to accompany it. Additionally, he works at castle.xyz, developing the mobile application Castle - Make and Play which allows users to play and create interactive scenes, which can range from simple art and drawings to tiny homemade games and music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Charlie_Cheever.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Cheever",
+  "dateOfBirth": "1981-08-02",
+  "birthDateParsed": "1981-08-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.441666666",
+  "birthCoordinatesLng": "-80",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "businessperson"
+  ],
+  "qid": "Q4208435",
+  "birthPlace": "Pittsburgh",
+  "fetchedAt": "2026-07-30T15:25:47.465Z"
+}

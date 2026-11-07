@@ -1,0 +1,34 @@
+{
+  "publicId": "2d0959c2",
+  "wikipediaSlug": "Gethin_Anthony",
+  "wikipediaId": "Q1519956",
+  "name": "Gethin Anthony",
+  "fullName": "Gethin Anthony",
+  "profileSummary": "Gethin David L. Anthony is an English television and film actor best known for his role as Renly Baratheon for the first two seasons of Game of Thrones.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gethin_anthony_2019_2.jpg/330px-Gethin_anthony_2019_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gethin_Anthony",
+  "dateOfBirth": "1983-10-09",
+  "birthDateParsed": "1983-10-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.6",
+  "birthCoordinatesLng": "-2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q1519956",
+  "birthPlace": "United Kingdom",
+  "fetchedAt": "2026-07-30T01:24:31.184Z"
+}

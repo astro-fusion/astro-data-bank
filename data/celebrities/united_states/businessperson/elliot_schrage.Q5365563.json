@@ -1,0 +1,32 @@
+{
+  "publicId": "db9ceb0e",
+  "wikipediaSlug": "Elliot_Schrage",
+  "wikipediaId": "Q5365563",
+  "name": "Elliot Schrage",
+  "fullName": "Elliot Schrage",
+  "profileSummary": "Elliot J. Schrage is an American lawyer and business executive. Until June 2018, he was vice president of global communications, marketing, and public policy at Facebook, where he directed the company's government affairs and public relations efforts. He then served as vice president of special projects at Facebook.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Elliot_Schrage.jpg/330px-Elliot_Schrage.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elliot_Schrage",
+  "dateOfBirth": "1960-07-27",
+  "birthDateParsed": "1960-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "lawyer"
+  ],
+  "qid": "Q5365563",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-30T15:26:29.577Z"
+}

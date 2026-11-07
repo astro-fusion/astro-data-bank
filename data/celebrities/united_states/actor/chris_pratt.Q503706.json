@@ -1,0 +1,32 @@
+{
+  "publicId": "d63ecadd",
+  "wikipediaSlug": "Chris_Pratt",
+  "wikipediaId": "Q503706",
+  "name": "Chris Pratt",
+  "fullName": "Chris Pratt",
+  "profileSummary": "Christopher Michael Pratt is an American actor and producer. His films as a leading actor have grossed over $14.1 billion worldwide, making him one of the highest-grossing film stars of all time. Pratt was one of the world's highest-paid actors annually from 2015 to 2017. Through starring in blockbuster franchises and big-budget films, he has established himself as one of Hollywood's most bankable stars.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_%283x4_cropped%29.jpg/330px-Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Pratt",
+  "dateOfBirth": "1979-06-21",
+  "birthDateParsed": "1979-06-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.523333333",
+  "birthCoordinatesLng": "-92.536666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "voice actor"
+  ],
+  "qid": "Q503706",
+  "birthPlace": "Virginia",
+  "fetchedAt": "2026-07-30T00:41:16.373Z"
+}

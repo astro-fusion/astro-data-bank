@@ -1,0 +1,36 @@
+{
+  "publicId": "b1b0ec4f",
+  "wikipediaSlug": "David_Thewlis",
+  "wikipediaId": "Q212790",
+  "name": "David Thewlis",
+  "fullName": "David Thewlis",
+  "profileSummary": "David Wheeler, better known as David Thewlis, is an English actor and filmmaker. He has won one Cannes Film Festival Award for Best Actor and received nominations for two BAFTA Awards, one Golden Globe Award, one Primetime Emmy Award, and one Screen Actors Guild Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/David_Thewlis_at_Avatar_fire_and_ash_premiere_London_2025.jpg/330px-David_Thewlis_at_Avatar_fire_and_ash_premiere_London_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Thewlis",
+  "dateOfBirth": "1963-03-20",
+  "birthDateParsed": "1963-03-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.816666666",
+  "birthCoordinatesLng": "-3.05",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "stage actor",
+    "film actor",
+    "film director",
+    "television actor"
+  ],
+  "qid": "Q212790",
+  "birthPlace": "Blackpool",
+  "fetchedAt": "2026-07-30T02:10:38.615Z"
+}

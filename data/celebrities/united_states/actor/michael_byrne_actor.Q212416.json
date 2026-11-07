@@ -1,0 +1,34 @@
+{
+  "publicId": "e56d2288",
+  "wikipediaSlug": "Michael_Byrne_(actor)",
+  "wikipediaId": "Q212416",
+  "name": "Michael Byrne (actor)",
+  "fullName": "Michael Byrne (actor)",
+  "profileSummary": "Michael Byrne was a British actor known for his roles in the National Theatre, Hollywood films, and television shows. During his career he performed a wide variety of roles that included several films in which he played German military roles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Michael_Byrne_as_Ernst_Vogel_in_Indiana_Jones_and_the_Last_Crusade.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Byrne_(actor)",
+  "dateOfBirth": "1939-11-07",
+  "birthDateParsed": "1939-11-07",
+  "dateOfDeath": "2026-06-20",
+  "deathDateParsed": "2026-06-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q212416",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:12:05.670Z"
+}

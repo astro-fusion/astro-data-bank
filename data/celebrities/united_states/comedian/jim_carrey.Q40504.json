@@ -1,0 +1,39 @@
+{
+  "publicId": "acbb1d99",
+  "wikipediaSlug": "Jim_Carrey",
+  "wikipediaId": "Q40504",
+  "name": "Jim Carrey",
+  "fullName": "Jim Carrey",
+  "profileSummary": "James Eugene Carrey is a Canadian and American actor and comedian. Known primarily for his energetic slapstick performances, he is regarded as one of the most prominent comedic actors of his generation. He has received two Golden Globe Awards, in addition to nominations for BAFTA Awards and Screen Actors Guild Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jim_Carrey_2020_%28cropped2%29.jpg/330px-Jim_Carrey_2020_%28cropped2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Carrey",
+  "dateOfBirth": "1962-01-17",
+  "birthDateParsed": "1962-01-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.06",
+  "birthCoordinatesLng": "-79.45",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "film producer",
+    "voice actor",
+    "screenwriter",
+    "television actor",
+    "actor",
+    "painter",
+    "stand-up comedian",
+    "film actor"
+  ],
+  "qid": "Q40504",
+  "birthPlace": "Newmarket",
+  "fetchedAt": "2026-07-30T03:31:32.378Z"
+}

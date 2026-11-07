@@ -1,0 +1,41 @@
+{
+  "publicId": "1a4711f9",
+  "wikipediaSlug": "Lady_Gaga",
+  "wikipediaId": "Q19848",
+  "name": "Lady Gaga",
+  "fullName": "Lady Gaga",
+  "profileSummary": "Stefani Joanne Angelina Germanotta, known professionally as Lady Gaga, is an American singer, songwriter, and actress. An influential figure in popular music, she is known for her image reinventions, flamboyant fashion, and versatility across the entertainment industry. With estimated sales of 124 million records, she is one of the best-selling music artists of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/330px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_Gaga",
+  "dateOfBirth": "1986-03-28",
+  "birthDateParsed": "1986-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.773611",
+  "birthCoordinatesLng": "-73.961111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "activist",
+    "film actor",
+    "television actor",
+    "voice actor",
+    "philanthropist",
+    "singer-songwriter",
+    "composer",
+    "film director",
+    "television director"
+  ],
+  "qid": "Q19848",
+  "birthPlace": "Lenox Hill Hospital",
+  "fetchedAt": "2026-07-30T07:25:45.649Z"
+}

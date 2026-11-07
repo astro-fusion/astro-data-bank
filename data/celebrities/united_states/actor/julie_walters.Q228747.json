@@ -1,0 +1,35 @@
+{
+  "publicId": "09cf8e73",
+  "wikipediaSlug": "Julie_Walters",
+  "wikipediaId": "Q228747",
+  "name": "Julie Walters",
+  "fullName": "Julie Walters",
+  "profileSummary": "Dame Julia Mary Walters, known professionally as Julie Walters, is an English actress and comedian. She is the recipient of four British Academy Television Awards, two British Academy Film Awards, two International Emmy Awards, a Golden Globe Award, and an Olivier Award. Walters has been nominated for two Academy Awards across acting categories—once for Best Actress and once for Best Supporting Actress. She was honoured with the BAFTA Fellowship for lifetime achievement in 2014. She was made a Dame (DBE) by Queen Elizabeth II in 2017 for services to drama.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Julie_Walters_2014_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julie_Walters",
+  "dateOfBirth": "1950-02-22",
+  "birthDateParsed": "1950-02-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.45805",
+  "birthCoordinatesLng": "-1.919047222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "writer",
+    "comedian"
+  ],
+  "qid": "Q228747",
+  "birthPlace": "Edgbaston",
+  "fetchedAt": "2026-07-30T02:11:28.333Z"
+}

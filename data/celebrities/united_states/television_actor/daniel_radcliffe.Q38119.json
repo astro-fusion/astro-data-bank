@@ -1,0 +1,36 @@
+{
+  "publicId": "3e96ee15",
+  "wikipediaSlug": "Daniel_Radcliffe",
+  "wikipediaId": "Q38119",
+  "name": "Daniel Radcliffe",
+  "fullName": "Daniel Radcliffe",
+  "profileSummary": "Daniel Jacob Radcliffe is an English actor best known for portraying the title character in all eight films of the Harry Potter film series from 2001 to 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/DanielRadcliffe-byPhilipRomano.jpg/330px-DanielRadcliffe-byPhilipRomano.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Radcliffe",
+  "dateOfBirth": "1989-07-23",
+  "birthDateParsed": "1989-07-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4928",
+  "birthCoordinatesLng": "-0.2229",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "child actor",
+    "singer",
+    "stage actor",
+    "actor"
+  ],
+  "qid": "Q38119",
+  "birthPlace": "Hammersmith",
+  "fetchedAt": "2026-07-30T02:10:18.460Z"
+}

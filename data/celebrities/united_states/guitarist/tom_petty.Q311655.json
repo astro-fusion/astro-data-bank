@@ -1,0 +1,37 @@
+{
+  "publicId": "be1078d9",
+  "wikipediaSlug": "Tom_Petty",
+  "wikipediaId": "Q311655",
+  "name": "Tom Petty",
+  "fullName": "Tom Petty",
+  "profileSummary": "Thomas Earl Petty was an American singer, songwriter, and guitarist. He was the leader and frontman of the rock bands Tom Petty and the Heartbreakers and Mudcrutch and a member of the late 1980s supergroup the Traveling Wilburys. He was also a successful solo artist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tom_Petty_Live_in_Horsens_%28cropped2%29.jpg/330px-Tom_Petty_Live_in_Horsens_%28cropped2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Petty",
+  "dateOfBirth": "1950-10-20",
+  "birthDateParsed": "1950-10-20",
+  "dateOfDeath": "2017-10-02",
+  "deathDateParsed": "2017-10-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.665277777",
+  "birthCoordinatesLng": "-82.336111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guitarist",
+    "singer",
+    "singer-songwriter",
+    "record producer",
+    "composer",
+    "rock musician",
+    "rock singer"
+  ],
+  "qid": "Q311655",
+  "birthPlace": "Gainesville",
+  "fetchedAt": "2026-07-30T07:26:16.953Z"
+}

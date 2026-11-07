@@ -1,0 +1,31 @@
+{
+  "publicId": "d043b769",
+  "wikipediaSlug": "Bronson_Reed",
+  "wikipediaId": "Q21642629",
+  "name": "Bronson Reed",
+  "fullName": "Bronson Reed",
+  "profileSummary": "Jermaine Haley is an Australian professional wrestler. As of December 2022, he is signed to WWE, where he performs on the Raw brand under the ring name Bronson Reed, and is a member of The Vision stable. In WWE, he is a one-time NXT North American Champion and the winner of the 2024 André the Giant Memorial Battle Royal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bronson_Reed_2022.jpg/330px-Bronson_Reed_2022.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bronson_Reed",
+  "dateOfBirth": "1988-08-25",
+  "birthDateParsed": "1988-08-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.9275",
+  "birthCoordinatesLng": "138.6",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q21642629",
+  "birthPlace": "Adelaide",
+  "fetchedAt": "2026-07-31T03:25:59.411Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "d58ddb03",
+  "wikipediaSlug": "Brad_Pitt",
+  "wikipediaId": "Q35332",
+  "name": "Brad Pitt",
+  "fullName": "Brad Pitt",
+  "profileSummary": "William Bradley Pitt is an American actor and film producer. In a film career spanning more than thirty-five years, Pitt has received numerous accolades, including two Academy Awards, two British Academy Film Awards, two Golden Globe Awards, two Primetime Emmy Awards, and one Volpi Cup. His films as a leading actor have grossed over $7.5 billion worldwide.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/330px-Brad_Pitt-69858.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brad_Pitt",
+  "dateOfBirth": "1963-12-18",
+  "birthDateParsed": "1963-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.3425",
+  "birthCoordinatesLng": "-96.933888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "film producer",
+    "voice actor",
+    "executive producer",
+    "television producer",
+    "actor"
+  ],
+  "qid": "Q35332",
+  "birthPlace": "Shawnee",
+  "fetchedAt": "2026-07-30T03:31:11.748Z"
+}

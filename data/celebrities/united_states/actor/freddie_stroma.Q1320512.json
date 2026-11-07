@@ -1,0 +1,35 @@
+{
+  "publicId": "34423735",
+  "wikipediaSlug": "Freddie_Stroma",
+  "wikipediaId": "Q1320512",
+  "name": "Freddie Stroma",
+  "fullName": "Freddie Stroma",
+  "profileSummary": "Frederic Wilhelm C. J. Sjöström, known professionally as Freddie Stroma, is a British actor. He portrayed Cormac McLaggen in the Harry Potter film series, Adam Cromwell in the Lifetime series Unreal, Brit Vayner in 13 Hours: The Secret Soldiers of Benghazi (2016), H. G. Wells in the ABC series Time After Time, Luke in Pitch Perfect (2012) and Adrian Chase / Vigilante in the DC Universe series Peacemaker.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Freddie_Stroma_at_53rd_Saturn_Awards_2026-01.jpg/330px-Freddie_Stroma_at_53rd_Saturn_Awards_2026-01.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Freddie_Stroma",
+  "dateOfBirth": "1987-01-08",
+  "birthDateParsed": "1987-01-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "film actor",
+    "singer",
+    "television actor"
+  ],
+  "qid": "Q1320512",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:10:53.524Z"
+}

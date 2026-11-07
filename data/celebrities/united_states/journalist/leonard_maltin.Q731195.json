@@ -1,0 +1,38 @@
+{
+  "publicId": "a3d98c26",
+  "wikipediaSlug": "Leonard_Maltin",
+  "wikipediaId": "Q731195",
+  "name": "Leonard Maltin",
+  "fullName": "Leonard Maltin",
+  "profileSummary": "Leonard Michael Maltin is an American film critic, film historian, and author. He is known for his book of film capsule reviews, Leonard Maltin's Movie Guide, published from 1969 to 2014. Maltin was the film critic on Entertainment Tonight from 1982 to 2012. Since 1998, he has taught film as a professor at the USC School of Cinematic Arts. In 2014, he began the weekly podcast Maltin on Movies. He served two terms as President of the Los Angeles Film Critics Association, and votes for films to be selected for the National Film Registry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Leonard_Maltin_during_an_interview%2C_March_2022_%28cropped%29.jpg/330px-Leonard_Maltin_during_an_interview%2C_March_2022_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonard_Maltin",
+  "dateOfBirth": "1950-12-18",
+  "birthDateParsed": "1950-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "film historian",
+    "film critic",
+    "writer",
+    "university teacher",
+    "podcaster",
+    "film producer",
+    "screenwriter"
+  ],
+  "qid": "Q731195",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-07-30T02:11:31.318Z"
+}

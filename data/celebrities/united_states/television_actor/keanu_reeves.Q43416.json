@@ -1,0 +1,40 @@
+{
+  "publicId": "b9989945",
+  "wikipediaSlug": "Keanu_Reeves",
+  "wikipediaId": "Q43416",
+  "name": "Keanu Reeves",
+  "fullName": "Keanu Reeves",
+  "profileSummary": "Keanu Charles Reeves is a Canadian actor and musician. The recipient of numerous accolades in a career on screen spanning four decades, he is known for his leading roles in action films, his amiable public image, and his philanthropic efforts. In 2020, The New York Times ranked him as the fourth-greatest actor of the 21st century, and in 2022, Time magazine named him one of the 100 most influential people in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg/330px-Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Keanu_Reeves",
+  "dateOfBirth": "1964-09-02",
+  "birthDateParsed": "1964-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.886944444",
+  "birthCoordinatesLng": "35.513055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor",
+    "film producer",
+    "film director",
+    "singer",
+    "voice actor",
+    "writer",
+    "author",
+    "musician"
+  ],
+  "qid": "Q43416",
+  "birthPlace": "Beirut",
+  "fetchedAt": "2026-07-30T03:31:21.829Z"
+}

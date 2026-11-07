@@ -1,0 +1,35 @@
+{
+  "publicId": "08885f29",
+  "wikipediaSlug": "James_Faulkner_(actor)",
+  "wikipediaId": "Q1343000",
+  "name": "James Faulkner (actor)",
+  "fullName": "James Faulkner (actor)",
+  "profileSummary": "James Sebastian Faulkner is a British actor. He is best known for playing Pope Sixtus IV in the television series Da Vinci's Demons (2014–2015), Randyll Tarly in the television series Game of Thrones (2016–2017), and Saint Paul in the film Paul, Apostle of Christ (2018).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/James_Faulkner_2021.jpg/330px-James_Faulkner_2021.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Faulkner_(actor)",
+  "dateOfBirth": "1948-07-18",
+  "birthDateParsed": "1948-07-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5541",
+  "birthCoordinatesLng": "-0.1744",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q1343000",
+  "birthPlace": "Hampstead",
+  "fetchedAt": "2026-07-30T01:25:23.734Z"
+}

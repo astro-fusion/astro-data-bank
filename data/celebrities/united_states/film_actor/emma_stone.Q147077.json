@@ -1,0 +1,37 @@
+{
+  "publicId": "9e1a796c",
+  "wikipediaSlug": "Emma_Stone",
+  "wikipediaId": "Q147077",
+  "name": "Emma Stone",
+  "fullName": "Emma Stone",
+  "profileSummary": "Emily Jean \"Emma\" Stone is an American actress and film producer. Her accolades include two Academy Awards, two BAFTA Awards, two Golden Globe Awards and a Volpi Cup as well as a nomination for a Primetime Emmy Award. In 2017, she was the world's highest-paid actress and named by Time magazine as one of the 100 most influential people in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg/330px-Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emma_Stone",
+  "dateOfBirth": "1988-11-06",
+  "birthDateParsed": "1988-11-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.493055555",
+  "birthCoordinatesLng": "-111.926111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "stage actor",
+    "voice actor",
+    "film producer",
+    "model",
+    "actor"
+  ],
+  "qid": "Q147077",
+  "birthPlace": "Scottsdale",
+  "fetchedAt": "2026-07-30T03:31:07.261Z"
+}

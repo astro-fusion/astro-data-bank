@@ -1,0 +1,36 @@
+{
+  "publicId": "e5bbc4df",
+  "wikipediaSlug": "Clive_Russell",
+  "wikipediaId": "Q1102002",
+  "name": "Clive Russell",
+  "fullName": "Clive Russell",
+  "profileSummary": "\nClive Russell is a Scottish actor. He is known for his roles as Chief Inspector Frederick Abberline in Ripper Street, Angus O'Connor in Happiness, Lord Lovat in Outlander, and Brynden Tully in the HBO series Game of Thrones.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Clive-russell-2018_%28cropped-J2%29.jpg/330px-Clive-russell-2018_%28cropped-J2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clive_Russell",
+  "dateOfBirth": "1945-12-07",
+  "birthDateParsed": "1945-12-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.3876",
+  "birthCoordinatesLng": "-1.9422",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "television actor",
+    "director",
+    "politician",
+    "actor"
+  ],
+  "qid": "Q1102002",
+  "birthPlace": "Reeth",
+  "fetchedAt": "2026-07-30T01:23:36.034Z"
+}

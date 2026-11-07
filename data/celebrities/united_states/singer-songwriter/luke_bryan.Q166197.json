@@ -1,0 +1,36 @@
+{
+  "publicId": "63d25972",
+  "wikipediaSlug": "Luke_Bryan",
+  "wikipediaId": "Q166197",
+  "name": "Luke Bryan",
+  "fullName": "Luke Bryan",
+  "profileSummary": "Thomas Luther \"Luke\" Bryan is an American country music singer, songwriter, and television personality. Bryan is a five-time \"Entertainer of the Year\", being awarded by both the Academy of Country Music Awards and the Country Music Association. In 2019, Bryan's 2013 album Crash My Party received the first Album of the Decade award from the Academy of Country Music. He is one of the world's best-selling music artists, with over 75 million records sold. Since 2018, Bryan has been a judge on the singing competition television show American Idol.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2022_Gershwin_Prize_for_Popular_Song_%2851930843770%29_%28cropped%29.jpg/330px-2022_Gershwin_Prize_for_Popular_Song_%2851930843770%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Luke_Bryan",
+  "dateOfBirth": "1976-07-17",
+  "birthDateParsed": "1976-07-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.732777777",
+  "birthCoordinatesLng": "-84.170833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "composer",
+    "guitarist",
+    "musician",
+    "Liedermacher"
+  ],
+  "qid": "Q166197",
+  "birthPlace": "Leesburg",
+  "fetchedAt": "2026-07-30T07:26:00.495Z"
+}

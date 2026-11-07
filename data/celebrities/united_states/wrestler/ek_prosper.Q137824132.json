@@ -1,0 +1,31 @@
+{
+  "publicId": "093912bb",
+  "wikipediaSlug": "EK_Prosper",
+  "wikipediaId": "Q137824132",
+  "name": "EK Prosper",
+  "fullName": "EK Prosper",
+  "profileSummary": "Eli Knight is an American professional wrestler signed to WWE, where he performs on the NXT brand under the ring name EK Prosper.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/EK_Prosper",
+  "dateOfBirth": "2002-01-01",
+  "birthDateParsed": "2002-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "wrestler"
+  ],
+  "qid": "Q137824132",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T03:27:09.650Z"
+}

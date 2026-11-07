@@ -1,0 +1,33 @@
+{
+  "publicId": "cef9953f",
+  "wikipediaSlug": "Alex_Hyde-White",
+  "wikipediaId": "Q2641365",
+  "name": "Alex Hyde-White",
+  "fullName": "Alex Hyde-White",
+  "profileSummary": "Alex Hyde-White is an English-American actor. In 1978, he signed with Universal Pictures as one of the last \"contract players\" in Hollywood, in a group that included Lindsay Wagner, Andrew Stevens, Jamie Lee Curtis, Gretchen Corbett and Sharon Gless.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Alex_Hyde-White_%40_Sundance_2011.jpg/330px-Alex_Hyde-White_%40_Sundance_2011.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Hyde-White",
+  "dateOfBirth": "1959-01-30",
+  "birthDateParsed": "1959-01-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "film actor",
+    "television actor",
+    "film director"
+  ],
+  "qid": "Q2641365",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T00:40:13.520Z"
+}

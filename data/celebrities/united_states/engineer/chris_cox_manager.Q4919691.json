@@ -1,0 +1,31 @@
+{
+  "publicId": "422cd43c",
+  "wikipediaSlug": "Chris_Cox_(manager)",
+  "wikipediaId": "Q4919691",
+  "name": "Chris Cox (manager)",
+  "fullName": "Chris Cox (manager)",
+  "profileSummary": "Christopher Cox is an American software engineer and corporate executive. Cox has been chief product officer at Meta Platforms since 2020, having previously been in the position from 2014 to 2019. Cox initially joined Facebook in 2005 as one of the company's initial software engineers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chris_Cox%2C_Meta.jpg/330px-Chris_Cox%2C_Meta.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Cox_(manager)",
+  "dateOfBirth": "1982-09-02",
+  "birthDateParsed": "1982-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.754444444",
+  "birthCoordinatesLng": "-84.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer"
+  ],
+  "qid": "Q4919691",
+  "birthPlace": "Atlanta",
+  "fetchedAt": "2026-07-30T15:25:57.092Z"
+}

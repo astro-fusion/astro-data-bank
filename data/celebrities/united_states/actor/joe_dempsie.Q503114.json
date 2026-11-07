@@ -1,0 +1,33 @@
+{
+  "publicId": "2a1735c5",
+  "wikipediaSlug": "Joe_Dempsie",
+  "wikipediaId": "Q503114",
+  "name": "Joe Dempsie",
+  "fullName": "Joe Dempsie",
+  "profileSummary": "Joe Dempsie is an English actor, best known for his roles as Chris Miles in the E4 teen comedy-drama Skins (2007–2008) and Gendry in Game of Thrones.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Joe_Dempsie_Paris_2018_%28cropped-J1%29.jpg/330px-Joe_Dempsie_Paris_2018_%28cropped-J1%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Dempsie",
+  "dateOfBirth": "1987-06-22",
+  "birthDateParsed": "1987-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.407222222",
+  "birthCoordinatesLng": "-2.991666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q503114",
+  "birthPlace": "Liverpool",
+  "fetchedAt": "2026-07-30T01:25:15.934Z"
+}

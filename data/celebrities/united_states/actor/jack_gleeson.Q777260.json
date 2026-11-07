@@ -1,0 +1,33 @@
+{
+  "publicId": "4a9da664",
+  "wikipediaSlug": "Jack_Gleeson",
+  "wikipediaId": "Q777260",
+  "name": "Jack Gleeson",
+  "fullName": "Jack Gleeson",
+  "profileSummary": "Jack Gleeson is an Irish actor. He is best known for portraying Joffrey Baratheon in the HBO television series Game of Thrones (2011–2014). Following this role, Gleeson took a six-year hiatus from screen acting. He returned to the screen in 2020 and has since appeared in the Irish film In the Land of Saints and Sinners (2023) and the series The Sandman (2025) and House of Guinness (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2023-04-29_18-12-54_ILCE-7C_DSC15799_Kiri_DxO.jpg/330px-2023-04-29_18-12-54_ILCE-7C_DSC15799_Kiri_DxO.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Gleeson",
+  "dateOfBirth": "1992-05-20",
+  "birthDateParsed": "1992-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.9",
+  "birthCoordinatesLng": "-8.473055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q777260",
+  "birthPlace": "Cork",
+  "fetchedAt": "2026-07-30T01:25:24.424Z"
+}

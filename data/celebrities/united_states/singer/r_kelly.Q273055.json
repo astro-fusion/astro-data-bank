@@ -1,0 +1,35 @@
+{
+  "publicId": "50bf5ddd",
+  "wikipediaSlug": "R._Kelly",
+  "wikipediaId": "Q273055",
+  "name": "R. Kelly",
+  "fullName": "R. Kelly",
+  "profileSummary": "Robert Sylvester Kelly, known professionally as R. Kelly, is an American former singer, songwriter, and record producer who is credited with prolific commercial success in contemporary R&B, hip hop, and pop music recordings. Nicknamed \"the King of R&B\", \"the King of Pop-Soul\", and \"the Pied Piper of R&B\", Billboard has him ranked as the 9th greatest R&B artist of all time. His career ended following his 2021 and 2022 convictions and subsequent 31-year sentence for a series of child sex offences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/R._Kelly_in_2017.png/330px-R._Kelly_in_2017.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/R._Kelly",
+  "dateOfBirth": "1967-01-08",
+  "birthDateParsed": "1967-01-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "record producer",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q273055",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-07-30T07:25:59.259Z"
+}

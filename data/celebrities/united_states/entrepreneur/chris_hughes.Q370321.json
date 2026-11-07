@@ -1,0 +1,33 @@
+{
+  "publicId": "d5536645",
+  "wikipediaSlug": "Chris_Hughes",
+  "wikipediaId": "Q370321",
+  "name": "Chris Hughes",
+  "fullName": "Chris Hughes",
+  "profileSummary": "Christopher Hughes is an American entrepreneur and author who co-founded and served as spokesman for the online social directory and networking site Facebook until 2007. He was the publisher and editor-in-chief of The New Republic from 2012 to 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chris_Hughes_%28cropped%29.jpg/330px-Chris_Hughes_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Hughes",
+  "dateOfBirth": "1983-11-26",
+  "birthDateParsed": "1983-11-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.737777777",
+  "birthCoordinatesLng": "-81.328333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "businessperson",
+    "computer scientist"
+  ],
+  "qid": "Q370321",
+  "birthPlace": "Hickory",
+  "fetchedAt": "2026-07-30T15:26:07.904Z"
+}

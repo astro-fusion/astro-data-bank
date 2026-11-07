@@ -1,0 +1,31 @@
+{
+  "publicId": "079251a3",
+  "wikipediaSlug": "Gunther_(wrestler)",
+  "wikipediaId": "Q11330762",
+  "name": "Gunther (wrestler)",
+  "fullName": "Gunther (wrestler)",
+  "profileSummary": "Walter Hahn is an Austrian professional wrestler. He is signed to WWE, where he performs on the SmackDown brand under the ring name Gunther. He is a former two-time World Heavyweight Champion, and the longest reigning WWE Intercontinental and NXT United Kingdom champion in company history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gunther_August_2024_%28headshot%29.jpg/330px-Gunther_August_2024_%28headshot%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gunther_(wrestler)",
+  "dateOfBirth": "1987-08-20",
+  "birthDateParsed": "1987-08-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q11330762",
+  "birthPlace": "Vienna",
+  "fetchedAt": "2026-07-31T03:27:17.823Z"
+}

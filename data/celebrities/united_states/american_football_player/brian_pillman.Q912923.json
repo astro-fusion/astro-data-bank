@@ -1,0 +1,33 @@
+{
+  "publicId": "80dfd901",
+  "wikipediaSlug": "Brian_Pillman",
+  "wikipediaId": "Q912923",
+  "name": "Brian Pillman",
+  "fullName": "Brian Pillman",
+  "profileSummary": "Brian William Pillman was an American professional wrestler and professional football player best known for his appearances in Stampede Wrestling in the 1980s and World Championship Wrestling (WCW), Extreme Championship Wrestling (ECW), and World Wrestling Federation (WWF) in the 1990s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Brian_Pillman%2C_circa_1996.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Pillman",
+  "dateOfBirth": "1962-05-22",
+  "birthDateParsed": "1962-05-22",
+  "dateOfDeath": "1997-10-05",
+  "deathDateParsed": "1997-10-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.1",
+  "birthCoordinatesLng": "-84.5125",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "American football player",
+    "professional wrestler",
+    "actor"
+  ],
+  "qid": "Q912923",
+  "birthPlace": "Cincinnati",
+  "fetchedAt": "2026-07-31T03:26:09.874Z"
+}

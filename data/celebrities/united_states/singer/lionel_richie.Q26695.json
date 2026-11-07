@@ -1,0 +1,39 @@
+{
+  "publicId": "0a991e10",
+  "wikipediaSlug": "Lionel_Richie",
+  "wikipediaId": "Q26695",
+  "name": "Lionel Richie",
+  "fullName": "Lionel Richie",
+  "profileSummary": "Lionel Brockman Richie Jr. is an American singer, songwriter, musician, record producer, and television personality. He rose to fame in the 1970s as a songwriter and the co-lead singer of the Motown group Commodores; writing and recording the hit singles \"Easy\", \"Sail On\", \"Three Times a Lady\", and \"Still\" with the group before his departure. In 1980, he wrote and produced the US Billboard Hot 100 number one single \"Lady\" for Kenny Rogers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lionel_Richie_2022_%2851930307118%29_%28cropped%29.jpg/330px-Lionel_Richie_2022_%2851930307118%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lionel_Richie",
+  "dateOfBirth": "1949-06-20",
+  "birthDateParsed": "1949-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.431506",
+  "birthCoordinatesLng": "-85.706781",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "singer-songwriter",
+    "pianist",
+    "record producer",
+    "film actor",
+    "saxophonist",
+    "pop musician",
+    "composer",
+    "songwriter"
+  ],
+  "qid": "Q26695",
+  "birthPlace": "Tuskegee",
+  "fetchedAt": "2026-07-30T07:25:34.965Z"
+}

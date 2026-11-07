@@ -1,0 +1,36 @@
+{
+  "publicId": "11a3dd73",
+  "wikipediaSlug": "Mark_Williams_(actor)",
+  "wikipediaId": "Q343463",
+  "name": "Mark Williams (actor)",
+  "fullName": "Mark Williams (actor)",
+  "profileSummary": "Mark Williams is an English actor, comedian, presenter and screenwriter. He first achieved widespread recognition as one of the central performers in the BBC sketch show The Fast Show. His film roles include Horace in 101 Dalmatians (1996) and Arthur Weasley in seven of the Harry Potter films. He appeared in Doctor Who and Red Dwarf. Since 2013, Williams has portrayed the title character in the long-running BBC series loosely based on the Father Brown short stories by G. K. Chesterton.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Stuttgart_2021_-Comic_Con_Germany-_by-RaBoe_168_%28cropped%29.jpg/330px-Stuttgart_2021_-Comic_Con_Germany-_by-RaBoe_168_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Williams_(actor)",
+  "dateOfBirth": "1959-08-22",
+  "birthDateParsed": "1959-08-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.3353",
+  "birthCoordinatesLng": "-2.0579",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "screenwriter",
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q343463",
+  "birthPlace": "Bromsgrove",
+  "fetchedAt": "2026-07-30T02:11:57.963Z"
+}

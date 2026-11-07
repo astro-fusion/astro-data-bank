@@ -1,0 +1,34 @@
+{
+  "publicId": "84204806",
+  "wikipediaSlug": "Iain_Glen",
+  "wikipediaId": "Q371430",
+  "name": "Iain Glen",
+  "fullName": "Iain Glen",
+  "profileSummary": "Iain Alan Sutherland Glen is a Scottish actor. He has appeared as Dr. Alexander Isaacs/Tyrant in three films of the Resident Evil film series (2004–2016) and as Jorah Mormont in the HBO fantasy television series Game of Thrones (2011–2019). Other notable film and television roles include John Hanning Speke in Mountains of the Moon (1990), Larry Winters in Silent Scream (1990) for which he won the Silver Bear for Best Actor at the Berlin International Film Festival, Manfred Powell in Lara Croft: Tomb Raider (2001), Brother John in Song for a Raggy Boy (2003), the title role in Jack Taylor (2010–2016), Sir Richard Carlisle in Downton Abbey (2011), James Willett in Eye in the Sky (2015), Bruce Wayne in Titans (2019–2021), Magnus MacMillan in The Rig (2023–present), and Dr. Pete Nichols in Silo (2023–2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iain_Glen.jpg/330px-Iain_Glen.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iain_Glen",
+  "dateOfBirth": "1961-06-24",
+  "birthDateParsed": "1961-06-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q371430",
+  "birthPlace": "Edinburgh",
+  "fetchedAt": "2026-07-30T01:25:13.901Z"
+}

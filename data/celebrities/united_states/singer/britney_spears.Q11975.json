@@ -1,0 +1,37 @@
+{
+  "publicId": "f7e738ef",
+  "wikipediaSlug": "Britney_Spears",
+  "wikipediaId": "Q11975",
+  "name": "Britney Spears",
+  "fullName": "Britney Spears",
+  "profileSummary": "Britney Jean Spears is an American singer. Referred to as the \"Princess of Pop\", she is widely regarded as one of the most influential entertainers of the 21st century. Her impact on pop music—particularly her role in reviving teen pop—and energetic stage performances contributed to her success.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg/330px-Britney_Spears_2013_%28Straighten_Crop%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
+  "dateOfBirth": "1981-12-02",
+  "birthDateParsed": "1981-12-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.243777777",
+  "birthCoordinatesLng": "-90.453166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "dancer",
+    "actor",
+    "composer",
+    "pop musician",
+    "musician"
+  ],
+  "qid": "Q11975",
+  "birthPlace": "McComb",
+  "fetchedAt": "2026-07-30T07:24:22.774Z"
+}

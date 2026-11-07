@@ -1,0 +1,33 @@
+{
+  "publicId": "08686d7f",
+  "wikipediaSlug": "Brian_Fortune",
+  "wikipediaId": "Q19829668",
+  "name": "Brian Fortune",
+  "fullName": "Brian Fortune",
+  "profileSummary": "\n\nBrian Fortune is an Irish actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Fortune",
+  "dateOfBirth": "1965-11-15",
+  "birthDateParsed": "1965-11-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q19829668",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-07-30T01:23:51.677Z"
+}

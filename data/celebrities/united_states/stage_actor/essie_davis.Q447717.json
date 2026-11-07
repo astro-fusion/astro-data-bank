@@ -1,0 +1,35 @@
+{
+  "publicId": "ba5637c5",
+  "wikipediaSlug": "Essie_Davis",
+  "wikipediaId": "Q447717",
+  "name": "Essie Davis",
+  "fullName": "Essie Davis",
+  "profileSummary": "Esther \"Essie\" Davis is an Australian actress, best known for her roles as Phryne Fisher in Miss Fisher's Murder Mysteries and its film continuation, Miss Fisher & the Crypt of Tears, and as Amelia Vanek in The Babadook. Other major works include a recurring role as Lady Crane in season six of the television series Game of Thrones, Sister Iphigenia in Lambs of God, and the role of Ellen Kelly in Justin Kurzel's True History of the Kelly Gang.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Essie_Davis-67964.jpg/330px-Essie_Davis-67964.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Essie_Davis",
+  "dateOfBirth": "1970-01-07",
+  "birthDateParsed": "1970-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-42.883333333",
+  "birthCoordinatesLng": "147.316666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "singer",
+    "voice actor",
+    "actor"
+  ],
+  "qid": "Q447717",
+  "birthPlace": "Hobart",
+  "fetchedAt": "2026-07-30T01:24:05.351Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "99fdd642",
+  "wikipediaSlug": "John_Hurt",
+  "wikipediaId": "Q200405",
+  "name": "John Hurt",
+  "fullName": "John Hurt",
+  "profileSummary": "Sir John Vincent Hurt was an English actor. Regarded as one of the finest actors of his generation and described as having the \"most distinctive voice in Britain\", he was referred to by David Lynch as \"simply the greatest actor in the world\". In a career spanning more than five decades, he received numerous accolades, including four BAFTAs and a Golden Globe in addition to nominations for two Academy Awards. He was knighted in 2015 for his services to drama.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/John_Hurt_at_the_2009_Tribeca_Film_Festival.jpg/330px-John_Hurt_at_the_2009_Tribeca_Film_Festival.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hurt",
+  "dateOfBirth": "1940-01-22",
+  "birthDateParsed": "1940-01-22",
+  "dateOfDeath": "2017-01-25",
+  "deathDateParsed": "2017-01-25",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.235833333",
+  "birthCoordinatesLng": "-1.4275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "explorer",
+    "voice actor",
+    "character actor",
+    "stage actor",
+    "actor",
+    "video game actor"
+  ],
+  "qid": "Q200405",
+  "birthPlace": "Chesterfield",
+  "fetchedAt": "2026-07-30T02:11:17.977Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "1ff1f86b",
+  "wikipediaSlug": "Daniel_Portman",
+  "wikipediaId": "Q5218475",
+  "name": "Daniel Portman",
+  "fullName": "Daniel Portman",
+  "profileSummary": "Daniel Porter, known professionally as Daniel Portman, is a Scottish actor. He is best known for playing the role of Podrick Payne in the television series Game of Thrones (2012–2019). He has since appeared as Stuart in the Black Mirror episode \"Loch Henry\" (2023).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Daniel_portman_2018_1.jpg/330px-Daniel_portman_2018_1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Portman",
+  "dateOfBirth": "1992-02-13",
+  "birthDateParsed": "1992-02-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q5218475",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-07-30T01:23:52.367Z"
+}

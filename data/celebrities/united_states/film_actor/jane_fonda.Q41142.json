@@ -1,0 +1,41 @@
+{
+  "publicId": "57c3e570",
+  "wikipediaSlug": "Jane_Fonda",
+  "wikipediaId": "Q41142",
+  "name": "Jane Fonda",
+  "fullName": "Jane Fonda",
+  "profileSummary": "Jane Seymour Fonda is an American actress and activist. Fonda's work spans several genres and over seven decades of film and television. She is the recipient of numerous accolades, including two Academy Awards (Oscars), two British Academy Film Awards, eight Golden Globe Awards, and a Primetime Emmy Award as well as nominations for a Grammy Award and two Tony Awards. Fonda is also the recipient of various honorary awards including the Honorary Palme d'Or in 2007, the AFI Life Achievement Award in 2014, the Golden Lion for Lifetime Achievement in 2017, the Cecil B. DeMille Award in 2021, and the Screen Actors Guild Life Achievement Award in 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jane_Fonda_gaslit-65.jpg/330px-Jane_Fonda_gaslit-65.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jane_Fonda",
+  "dateOfBirth": "1937-12-21",
+  "birthDateParsed": "1937-12-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "writer",
+    "stage actor",
+    "model",
+    "film producer",
+    "television actor",
+    "autobiographer",
+    "voice actor",
+    "actor",
+    "musician",
+    "executive producer"
+  ],
+  "qid": "Q41142",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-07-30T03:31:20.393Z"
+}

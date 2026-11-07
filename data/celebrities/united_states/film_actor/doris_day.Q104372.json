@@ -1,0 +1,29 @@
+{
+  "publicId": "8ea2a6e1",
+  "wikipediaSlug": "Doris_Day",
+  "wikipediaId": "Q104372",
+  "name": "Doris Day",
+  "fullName": "Doris Day",
+  "profileSummary": "Doris Day was an American actress and singer. With an entertainment career that spanned 75 years, Day was one of the most popular and acclaimed female singers of the 1940s and 1950s, with a parallel career as a leading actress in Hollywood films, where she became one of the biggest box-office stars of the 1960s. She was known for her on-screen girl next door image and her distinctive singing voice.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DorisDay-midnightlace-full.jpg/330px-DorisDay-midnightlace-full.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Doris_Day",
+  "dateOfBirth": "1922-04-03",
+  "birthDateParsed": "1922-04-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.1",
+  "birthCoordinatesLng": "-84.5125",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "singer",
+    "television actor",
+    "recording artist",
+    "actor",
+    "politician",
+    "musician"
+  ],
+  "qid": "Q104372",
+  "birthPlace": "Cincinnati",
+  "fetchedAt": "2026-07-29T15:23:42.267Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "4545c220",
+  "wikipediaSlug": "Enya",
+  "wikipediaId": "Q38257",
+  "name": "Enya",
+  "fullName": "Enya",
+  "profileSummary": "Eithne Pádraigín Ní Bhraonáin better known as Enya, is an Irish singer and composer. With an estimated equivalent of more than 80 million albums sold, she is one of the world's best-selling music artists. Enya is the best-selling Irish solo artist, and the second-best-selling music act from Ireland overall, after the band U2. Enya's music has been widely recognised for its use of multi-layers of her own vocals and instrumentation, lengthened reverb, and interwoven elements of Celtic music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Enya_-_The_Orlando_Sentinel_%281989%29_%28cropped%29.jpg/330px-Enya_-_The_Orlando_Sentinel_%281989%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Enya",
+  "dateOfBirth": "1961-05-17",
+  "birthDateParsed": "1961-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.050941",
+  "birthCoordinatesLng": "-8.235626",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "composer",
+    "pianist",
+    "musician"
+  ],
+  "qid": "Q38257",
+  "birthPlace": "Gaoth Dobhair",
+  "fetchedAt": "2026-07-30T07:24:55.340Z"
+}

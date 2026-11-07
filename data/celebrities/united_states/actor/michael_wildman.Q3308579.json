@@ -1,0 +1,32 @@
+{
+  "publicId": "8bf16898",
+  "wikipediaSlug": "Michael_Wildman",
+  "wikipediaId": "Q3308579",
+  "name": "Michael Wildman",
+  "fullName": "Michael Wildman",
+  "profileSummary": "Michael Wildman is an English actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Wildman",
+  "dateOfBirth": "1953-01-01",
+  "birthDateParsed": "1953-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.6",
+  "birthCoordinatesLng": "-2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q3308579",
+  "birthPlace": "United Kingdom",
+  "fetchedAt": "2026-07-30T02:12:07.136Z"
+}

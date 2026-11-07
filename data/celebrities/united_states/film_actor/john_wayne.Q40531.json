@@ -1,0 +1,33 @@
+{
+  "publicId": "14a0a932",
+  "wikipediaSlug": "John_Wayne",
+  "wikipediaId": "Q40531",
+  "name": "John Wayne",
+  "fullName": "John Wayne",
+  "profileSummary": "Marion Robert Morrison, known professionally as John Wayne, was an American actor. Nicknamed \"Duke\", he became a popular icon through his starring roles in films which were produced during Hollywood's Golden Age, especially in Western and war movies. His career flourished from the silent film era of the 1920s to the American New Wave in the 1970s, as he appeared in a total of 179 film and television productions. He was among the top box-office draws for three decades, and appeared with many other important Hollywood stars of his era. In 1999, the American Film Institute selected Wayne as one of the greatest male stars of classic American cinema.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Wayne_-_still_portrait.jpg/330px-John_Wayne_-_still_portrait.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Wayne",
+  "dateOfBirth": "1907-05-26",
+  "birthDateParsed": "1907-05-26",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.335833333",
+  "birthCoordinatesLng": "-94.013888888",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "film director",
+    "film producer",
+    "screenwriter",
+    "American football player",
+    "television actor",
+    "director",
+    "producer",
+    "writer",
+    "film screenwriter"
+  ],
+  "qid": "Q40531",
+  "birthPlace": "Winterset",
+  "fetchedAt": "2026-07-29T15:24:06.089Z"
+}

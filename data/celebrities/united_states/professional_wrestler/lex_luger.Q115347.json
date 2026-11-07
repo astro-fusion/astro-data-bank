@@ -1,0 +1,35 @@
+{
+  "publicId": "f4989337",
+  "wikipediaSlug": "Lex_Luger",
+  "wikipediaId": "Q115347",
+  "name": "Lex Luger",
+  "fullName": "Lex Luger",
+  "profileSummary": "Lawrence Wendell Pfohl, better known by the ring name Lex Luger, is an American retired professional wrestler, bodybuilder, and professional football lineman. He is best known for his work with World Championship Wrestling (WCW), National Wrestling Alliance (NWA) under Jim Crockett Promotions, and the World Wrestling Federation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lex_Luger_%2853135318961%29.jpg/330px-Lex_Luger_%2853135318961%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lex_Luger",
+  "dateOfBirth": "1958-06-21",
+  "birthDateParsed": "1958-06-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.886388888",
+  "birthCoordinatesLng": "-78.878055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "actor",
+    "television actor",
+    "American football player",
+    "Canadian football player"
+  ],
+  "qid": "Q115347",
+  "birthPlace": "Buffalo",
+  "fetchedAt": "2026-07-31T03:27:20.813Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "9702881b",
+  "wikipediaSlug": "Jon_Bernthal",
+  "wikipediaId": "Q362616",
+  "name": "Jon Bernthal",
+  "fullName": "Jon Bernthal",
+  "profileSummary": "Jonathan Edward Bernthal is an American actor. Known for playing brash, hard-edged, ethically complex characters, he first achieved prominence for his portrayal of Shane Walsh on the AMC horror drama series The Walking Dead (2010–2012). He went on to portray Frank Castle / The Punisher in Marvel Cinematic Universe (MCU) media beginning with the second season of Daredevil (2016), before starring in his own spin-off series The Punisher (2017–2019). He later starred in the first season of the revival series Daredevil: Born Again (2025), the Disney+ special The Punisher: One Last Kill (2026) which he co-wrote, and the film Spider-Man: Brand New Day (2026).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JonBernthal-byPhilipRomano2.jpg/330px-JonBernthal-byPhilipRomano2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jon_Bernthal",
+  "dateOfBirth": "1976-09-20",
+  "birthDateParsed": "1976-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q362616",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-07-30T00:42:27.598Z"
+}

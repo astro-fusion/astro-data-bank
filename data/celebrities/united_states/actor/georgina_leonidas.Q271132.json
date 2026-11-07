@@ -1,0 +1,31 @@
+{
+  "publicId": "1e3fa048",
+  "wikipediaSlug": "Georgina_Leonidas",
+  "wikipediaId": "Q271132",
+  "name": "Georgina Leonidas",
+  "fullName": "Georgina Leonidas",
+  "profileSummary": "Georgina Leonidas is an English actress. She is best known for her roles as Molly in the CBBC series The Basil Brush Show (2002–2007) and Katie Bell in the Harry Potter film series (2009–2011).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Georgina_leonidas_2020_1.jpg/330px-Georgina_leonidas_2020_1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgina_Leonidas",
+  "dateOfBirth": "1990-02-28",
+  "birthDateParsed": "1990-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q271132",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:11:06.421Z"
+}

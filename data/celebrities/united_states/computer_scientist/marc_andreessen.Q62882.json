@@ -1,0 +1,38 @@
+{
+  "publicId": "60e44bfa",
+  "wikipediaSlug": "Marc_Andreessen",
+  "wikipediaId": "Q62882",
+  "name": "Marc Andreessen",
+  "fullName": "Marc Andreessen",
+  "profileSummary": "Marc Lowell Andreessen is an American businessman, venture capitalist, and former software engineer. He is the co-author of Mosaic, the first web browser to display inline images; co-founder of Netscape; and co-founder and general partner of Silicon Valley venture capital firm Andreessen Horowitz. He co-founded and later sold the software company Opsware to Hewlett-Packard; he also co-founded Ning, a company that provides a platform for social networking websites. In 2024, he became an advisor to Donald Trump. As of June 2026, Forbes estimated Andreessen's net worth at $1.9 billion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Marc_Andreessen-9_%28cropped%29.jpg/330px-Marc_Andreessen-9_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Andreessen",
+  "dateOfBirth": "1971-07-09",
+  "birthDateParsed": "1971-07-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.523611111",
+  "birthCoordinatesLng": "-92.446388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist",
+    "entrepreneur",
+    "inventor",
+    "blogger",
+    "programmer",
+    "software engineer",
+    "investor",
+    "engineer"
+  ],
+  "qid": "Q62882",
+  "birthPlace": "Cedar Falls",
+  "fetchedAt": "2026-07-30T15:26:53.244Z"
+}

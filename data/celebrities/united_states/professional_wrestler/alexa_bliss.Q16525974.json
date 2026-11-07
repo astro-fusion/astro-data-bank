@@ -1,0 +1,31 @@
+{
+  "publicId": "ee5e4550",
+  "wikipediaSlug": "Alexa_Bliss",
+  "wikipediaId": "Q16525974",
+  "name": "Alexa Bliss",
+  "fullName": "Alexa Bliss",
+  "profileSummary": "Alexis Cabrera is an American professional wrestler. She is signed to WWE, where she performs on the SmackDown brand under the ring name Alexa Bliss.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Alexa_Bliss_RR25_%281%29_%28cropped%29.jpg/330px-Alexa_Bliss_RR25_%281%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexa_Bliss",
+  "dateOfBirth": "1991-08-09",
+  "birthDateParsed": "1991-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "39.962222222",
+  "birthCoordinatesLng": "-83.000555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q16525974",
+  "birthPlace": "Columbus",
+  "fetchedAt": "2026-07-31T03:25:39.600Z"
+}

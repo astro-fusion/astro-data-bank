@@ -1,0 +1,31 @@
+{
+  "publicId": "550c2b91",
+  "wikipediaSlug": "Adam_D'Angelo",
+  "wikipediaId": "Q4208213",
+  "name": "Adam D'Angelo",
+  "fullName": "Adam D'Angelo",
+  "profileSummary": "Adam D'Angelo is an American internet entrepreneur. He is best known as the co-founder and CEO of Quora, based in Mountain View, California, and as the first chief technology officer of Facebook.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Adam_D%27Angelo_-_The_Grove_2022.jpg/330px-Adam_D%27Angelo_-_The_Grove_2022.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_D'Angelo",
+  "dateOfBirth": "1984-08-14",
+  "birthDateParsed": "1984-08-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.304444444",
+  "birthCoordinatesLng": "-73.392777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson"
+  ],
+  "qid": "Q4208213",
+  "birthPlace": "Redding",
+  "fetchedAt": "2026-07-30T15:26:08.505Z"
+}

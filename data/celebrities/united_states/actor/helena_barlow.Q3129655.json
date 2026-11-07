@@ -1,0 +1,32 @@
+{
+  "publicId": "0c2af663",
+  "wikipediaSlug": "Helena_Barlow",
+  "wikipediaId": "Q3129655",
+  "name": "Helena Barlow",
+  "fullName": "Helena Barlow",
+  "profileSummary": "Helena Josephine Barlow is an English actress. She began her career as a child actress, playing Rose Granger-Weasley in Harry Potter and the Deathly Hallows – Part 2 (2011). The following year, she starred as young Estella in Mike Newell's Great Expectations.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helena_Barlow",
+  "dateOfBirth": "1998-09-05",
+  "birthDateParsed": "1998-09-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4903",
+  "birthCoordinatesLng": "-0.1193",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q3129655",
+  "birthPlace": "Lambeth",
+  "fetchedAt": "2026-07-30T02:11:18.695Z"
+}

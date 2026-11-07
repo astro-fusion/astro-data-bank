@@ -1,0 +1,33 @@
+{
+  "publicId": "1c8a9dde",
+  "wikipediaSlug": "Alexandra_Dowling",
+  "wikipediaId": "Q16233528",
+  "name": "Alexandra Dowling",
+  "fullName": "Alexandra Dowling",
+  "profileSummary": "Alexandra Dowling is an Irish actress best known for her lead role as Queen Anne in the BBC One historical action drama series The Musketeers, which is based on the characters in The Three Musketeers by Alexandre Dumas. She is also known for her guest starring role as Roslin Frey in HBO's Game of Thrones.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Dowling",
+  "dateOfBirth": "1990-01-01",
+  "birthDateParsed": "1990-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q16233528",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:23:19.505Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "813869cb",
+  "wikipediaSlug": "Julian_Glover",
+  "wikipediaId": "Q499644",
+  "name": "Julian Glover",
+  "fullName": "Julian Glover",
+  "profileSummary": "Julian Wyatt Glover is an English actor with many stage, television, and film roles. Classically trained, he is a recipient of the Laurence Olivier Award and has performed many times for the Royal Shakespeare Company.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Julian_Glover_2014.jpg/330px-Julian_Glover_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julian_Glover",
+  "dateOfBirth": "1935-03-27",
+  "birthDateParsed": "1935-03-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5541",
+  "birthCoordinatesLng": "-0.1744",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q499644",
+  "birthPlace": "Hampstead",
+  "fetchedAt": "2026-07-30T02:11:40.713Z"
+}

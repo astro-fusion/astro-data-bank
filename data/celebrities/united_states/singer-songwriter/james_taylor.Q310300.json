@@ -1,0 +1,38 @@
+{
+  "publicId": "993b8d58",
+  "wikipediaSlug": "James_Taylor",
+  "wikipediaId": "Q310300",
+  "name": "James Taylor",
+  "fullName": "James Taylor",
+  "profileSummary": "James Vernon Taylor is an American singer-songwriter and guitarist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/James_Taylor_-_Columbia.jpg/330px-James_Taylor_-_Columbia.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Taylor",
+  "dateOfBirth": "1948-03-12",
+  "birthDateParsed": "1948-03-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "writer",
+    "guitarist",
+    "recording artist",
+    "singer",
+    "songwriter",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q310300",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-07-30T07:25:06.062Z"
+}

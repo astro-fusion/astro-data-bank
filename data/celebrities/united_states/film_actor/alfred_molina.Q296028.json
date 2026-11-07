@@ -1,0 +1,33 @@
+{
+  "publicId": "1ea6bc9e",
+  "wikipediaSlug": "Alfred_Molina",
+  "wikipediaId": "Q296028",
+  "name": "Alfred Molina",
+  "fullName": "Alfred Molina",
+  "profileSummary": "Alfred Molina is an English actor. He is known for roles on the stage and screen. Molina has received a Drama Desk Award as well as nominations for two British Academy Film Awards, a British Independent Film Award, an Independent Spirit Award, five Screen Actors Guild Awards, and three Tony Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alfred_Molina_2021.jpg/330px-Alfred_Molina_2021.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Molina",
+  "dateOfBirth": "1953-05-24",
+  "birthDateParsed": "1953-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5172",
+  "birthCoordinatesLng": "-0.173",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "actor",
+    "film producer",
+    "television actor"
+  ],
+  "qid": "Q296028",
+  "birthPlace": "Paddington",
+  "fetchedAt": "2026-07-30T00:40:24.784Z"
+}

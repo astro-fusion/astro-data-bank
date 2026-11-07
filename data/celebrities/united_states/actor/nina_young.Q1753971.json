@@ -1,0 +1,32 @@
+{
+  "publicId": "380012ff",
+  "wikipediaSlug": "Nina_Young",
+  "wikipediaId": "Q1753971",
+  "name": "Nina Young",
+  "fullName": "Nina Young",
+  "profileSummary": "Nina Young is a British-Australian actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nina_Young",
+  "dateOfBirth": "1966-01-01",
+  "birthDateParsed": "1966-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-31.955833333",
+  "birthCoordinatesLng": "115.859722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q1753971",
+  "birthPlace": "Perth",
+  "fetchedAt": "2026-07-30T02:12:08.579Z"
+}

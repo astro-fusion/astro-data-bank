@@ -1,0 +1,31 @@
+{
+  "publicId": "59b33cde",
+  "wikipediaSlug": "Erik_Sommers",
+  "wikipediaId": "Q26268915",
+  "name": "Erik Sommers",
+  "fullName": "Erik Sommers",
+  "profileSummary": "Erik Sommers is an American television writer, television producer and screenwriter.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Sommers",
+  "dateOfBirth": "2000-01-01",
+  "birthDateParsed": "2000-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.046899",
+  "birthCoordinatesLng": "-76.144423",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "television producer",
+    "film producer"
+  ],
+  "qid": "Q26268915",
+  "birthPlace": "Syracuse",
+  "fetchedAt": "2026-07-30T00:41:39.212Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "64352976",
+  "wikipediaSlug": "Margot_Robbie",
+  "wikipediaId": "Q1924847",
+  "name": "Margot Robbie",
+  "fullName": "Margot Robbie",
+  "profileSummary": "Margot Elise Robbie is an Australian actress and producer. The world's highest-paid actress in 2023, she is known for her performances in both blockbuster and independent films. Robbie's accolades include seven AACTA Awards and three Critics' Choice Awards in addition to nominations for three Academy Awards, six British Academy Film Awards, and four Golden Globe Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Margot_Robbie_at_the_Paris_premiere_of_%22Wuthering_Heights%22.jpg/330px-Margot_Robbie_at_the_Paris_premiere_of_%22Wuthering_Heights%22.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Margot_Robbie",
+  "dateOfBirth": "1990-07-02",
+  "birthDateParsed": "1990-07-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-27.183333333",
+  "birthCoordinatesLng": "151.266666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "model",
+    "film producer",
+    "voice actor",
+    "television actor"
+  ],
+  "qid": "Q1924847",
+  "birthPlace": "Dalby",
+  "fetchedAt": "2026-07-30T03:31:39.051Z"
+}

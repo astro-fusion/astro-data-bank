@@ -1,0 +1,39 @@
+{
+  "publicId": "2afb71ee",
+  "wikipediaSlug": "Elvis_Presley",
+  "wikipediaId": "Q303",
+  "name": "Elvis Presley",
+  "fullName": "Elvis Presley",
+  "profileSummary": "Elvis Aaron Presley was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+  "dateOfBirth": "1935-01-08",
+  "birthDateParsed": "1935-01-08",
+  "dateOfDeath": "1977-08-16",
+  "deathDateParsed": "1977-08-16",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.257611111",
+  "birthCoordinatesLng": "-88.703388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "singer",
+    "composer",
+    "actor",
+    "military personnel",
+    "military officer",
+    "philanthropist",
+    "activist",
+    "musician"
+  ],
+  "qid": "Q303",
+  "birthPlace": "Tupelo",
+  "fetchedAt": "2026-07-30T07:25:05.525Z"
+}

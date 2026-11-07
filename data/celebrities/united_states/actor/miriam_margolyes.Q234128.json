@@ -1,0 +1,35 @@
+{
+  "publicId": "1e850ed5",
+  "wikipediaSlug": "Miriam_Margolyes",
+  "wikipediaId": "Q234128",
+  "name": "Miriam Margolyes",
+  "fullName": "Miriam Margolyes",
+  "profileSummary": "Miriam Margolyes is a British and Australian comedian, writer, and actress. Known for her work as a character actor across film, television, and stage, she received the BAFTA for Best Supporting Actress for her role as Mrs Mingott in Martin Scorsese's The Age of Innocence (1993), and achieved international prominence with her portrayal of Professor Sprout in the Harry Potter film series (2001–2011). Margolyes was appointed Officer of the Order of the British Empire (OBE) in the 2002 New Year Honours for Services to Drama.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Miriam_Margolyes_2008.jpg/330px-Miriam_Margolyes_2008.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miriam_Margolyes",
+  "dateOfBirth": "1941-05-18",
+  "birthDateParsed": "1941-05-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.751944444",
+  "birthCoordinatesLng": "-1.257777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "comedian",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q234128",
+  "birthPlace": "Oxford",
+  "fetchedAt": "2026-07-30T02:12:30.539Z"
+}

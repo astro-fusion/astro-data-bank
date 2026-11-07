@@ -1,0 +1,33 @@
+{
+  "publicId": "56a59e9c",
+  "wikipediaSlug": "Ronaldo_Lemos",
+  "wikipediaId": "Q3816642",
+  "name": "Ronaldo Lemos",
+  "fullName": "Ronaldo Lemos",
+  "profileSummary": "Ronaldo Lemos is a Brazilian lawyer specializing in technology, professor, researcher, and television host, internationally recognized for his work on intellectual property, data privacy, artificial intelligence, media, public policy, and innovation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ronaldo_Lemos_2020_2.jpg/330px-Ronaldo_Lemos_2020_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronaldo_Lemos",
+  "dateOfBirth": "1976-03-25",
+  "birthDateParsed": "1976-03-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-18.648888888",
+  "birthCoordinatesLng": "-48.186944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "computer scientist",
+    "human rights defender"
+  ],
+  "qid": "Q3816642",
+  "birthPlace": "Araguari",
+  "fetchedAt": "2026-07-30T15:27:26.724Z"
+}

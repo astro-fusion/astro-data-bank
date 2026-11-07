@@ -1,0 +1,34 @@
+{
+  "publicId": "a3cf1253",
+  "wikipediaSlug": "Aidan_Gillen",
+  "wikipediaId": "Q358032",
+  "name": "Aidan Gillen",
+  "fullName": "Aidan Gillen",
+  "profileSummary": "Aidan Murphy, known professionally as Aidan Gillen, is an Irish actor. He is the recipient of three Irish Film & Television Awards and has been nominated for a British Academy Television Award, a British Independent Film Award, a Tony Award, and a Drama Desk Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Aidan_Gillen_Official.jpg/330px-Aidan_Gillen_Official.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aidan_Gillen",
+  "dateOfBirth": "1968-04-24",
+  "birthDateParsed": "1968-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q358032",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-07-30T01:23:21.617Z"
+}

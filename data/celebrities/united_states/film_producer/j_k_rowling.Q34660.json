@@ -1,0 +1,38 @@
+{
+  "publicId": "ffa61910",
+  "wikipediaSlug": "J._K._Rowling",
+  "wikipediaId": "Q34660",
+  "name": "J. K. Rowling",
+  "fullName": "J. K. Rowling",
+  "profileSummary": "Joanne Rowling, better known by her pen name J. K. Rowling, is a British author, philanthropist, producer, and screenwriter. She is best known for writing Harry Potter, a seven-volume series about a young wizard which is the best-selling book series in history, with over 600 million copies sold. She also writes Cormoran Strike, an ongoing crime fiction series, under the alias Robert Galbraith.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/330px-J._K._Rowling_2010.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J._K._Rowling",
+  "dateOfBirth": "1965-07-31",
+  "birthDateParsed": "1965-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.540833333",
+  "birthCoordinatesLng": "-2.418611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film producer",
+    "writer",
+    "novelist",
+    "children's writer",
+    "screenwriter",
+    "author",
+    "anti-transgender activist",
+    "teacher"
+  ],
+  "qid": "Q34660",
+  "birthPlace": "Yate",
+  "fetchedAt": "2026-07-30T02:11:26.847Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "073eb427",
+  "wikipediaSlug": "Kanye_West",
+  "wikipediaId": "Q15935",
+  "name": "Kanye West",
+  "fullName": "Kanye West",
+  "profileSummary": "Ye is an American rapper, songwriter, and record producer. He has been listed among the greatest rappers of all time and referred to as one of the most prominent figures in hip-hop. His music, characterized by frequent stylistic shifts, has been credited with facilitating the emergence of rappers who did not conform to gangsta rap conventions. He is also known for his controversial public persona, including his polarizing cultural and political commentary.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/330px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kanye_West",
+  "dateOfBirth": "1977-06-08",
+  "birthDateParsed": "1977-06-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.754444444",
+  "birthCoordinatesLng": "-84.389722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rapper",
+    "record producer",
+    "songwriter",
+    "fashion designer",
+    "director",
+    "musician",
+    "businessperson",
+    "activist",
+    "singer-songwriter",
+    "investor"
+  ],
+  "qid": "Q15935",
+  "birthPlace": "Atlanta",
+  "fetchedAt": "2026-07-30T07:25:32.875Z"
+}

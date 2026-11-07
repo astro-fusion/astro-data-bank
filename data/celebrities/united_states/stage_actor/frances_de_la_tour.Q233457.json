@@ -1,0 +1,34 @@
+{
+  "publicId": "1ff437c7",
+  "wikipediaSlug": "Frances_de_la_Tour",
+  "wikipediaId": "Q233457",
+  "name": "Frances de la Tour",
+  "fullName": "Frances de la Tour",
+  "profileSummary": "Frances J. de Lautour, better known as Frances de la Tour, is a British actress. A Tony Award winner and three-time Olivier Award winner, she is also known for her roles in the television sitcom Rising Damp and Harry Potter and the Goblet of Fire.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frances_de_la_Tour_at_the_British_Library.jpg/330px-Frances_de_la_Tour_at_the_British_Library.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frances_de_la_Tour",
+  "dateOfBirth": "1944-07-30",
+  "birthDateParsed": "1944-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.723030555",
+  "birthCoordinatesLng": "-0.532316666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "voice actor"
+  ],
+  "qid": "Q233457",
+  "birthPlace": "Bovingdon",
+  "fetchedAt": "2026-07-30T02:10:55.026Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "2516c271",
+  "wikipediaSlug": "Linda_Ronstadt",
+  "wikipediaId": "Q229375",
+  "name": "Linda Ronstadt",
+  "fullName": "Linda Ronstadt",
+  "profileSummary": "Linda Maria Ronstadt is an American retired singer and musician who performed and recorded in diverse genres including rock, folk, pop, country, and soul.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Linda_Ronstadt_1976.jpg/330px-Linda_Ronstadt_1976.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Linda_Ronstadt",
+  "dateOfBirth": "1946-07-15",
+  "birthDateParsed": "1946-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.221666666",
+  "birthCoordinatesLng": "-110.926388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "singer-songwriter",
+    "stage actor",
+    "television actor",
+    "guitarist",
+    "film actor",
+    "recording artist"
+  ],
+  "qid": "Q229375",
+  "birthPlace": "Tucson",
+  "fetchedAt": "2026-07-30T07:25:32.300Z"
+}

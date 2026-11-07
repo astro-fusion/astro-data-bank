@@ -1,0 +1,35 @@
+{
+  "publicId": "0f6010ac",
+  "wikipediaSlug": "Diamond_Dallas_Page",
+  "wikipediaId": "Q382078",
+  "name": "Diamond Dallas Page",
+  "fullName": "Diamond Dallas Page",
+  "profileSummary": "Dallas Page, is an American fitness instructor, actor, and retired professional wrestler. He is currently signed to WWE under a Legends contract, under the ring name Diamond Dallas Page. In the course of his wrestling career Page has wrestled for mainstream wrestling promotions World Championship Wrestling (WCW), the World Wrestling Federation, Total Nonstop Action Wrestling (TNA), and All Elite Wrestling (AEW).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DDP_Headshot_1_Landscape.jpg/330px-DDP_Headshot_1_Landscape.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diamond_Dallas_Page",
+  "dateOfBirth": "1956-04-05",
+  "birthDateParsed": "1956-04-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.0831714",
+  "birthCoordinatesLng": "-74.0681931",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "professional wrestler",
+    "television actor",
+    "film producer",
+    "performance artist"
+  ],
+  "qid": "Q382078",
+  "birthPlace": "Point Pleasant",
+  "fetchedAt": "2026-07-31T03:27:07.179Z"
+}

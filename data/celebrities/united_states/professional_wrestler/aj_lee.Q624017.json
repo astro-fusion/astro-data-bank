@@ -1,0 +1,33 @@
+{
+  "publicId": "3fef0ab7",
+  "wikipediaSlug": "AJ_Lee",
+  "wikipediaId": "Q624017",
+  "name": "AJ Lee",
+  "fullName": "AJ Lee",
+  "profileSummary": "April Jeanette Mendez is an American professional wrestler and author. As a wrestler, she has been signed to WWE since September 2025, where she performs under the ring name AJ Lee.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/AJ_Lee_at_San_Diego_Comic_Con_2026-2.jpg/330px-AJ_Lee_at_San_Diego_Comic_Con_2026-2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/AJ_Lee",
+  "dateOfBirth": "1987-03-19",
+  "birthDateParsed": "1987-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.767777777",
+  "birthCoordinatesLng": "-74.031944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "actor",
+    "writer"
+  ],
+  "qid": "Q624017",
+  "birthPlace": "Union City",
+  "fetchedAt": "2026-07-31T03:25:49.291Z"
+}

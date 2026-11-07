@@ -1,0 +1,37 @@
+{
+  "publicId": "05a06072",
+  "wikipediaSlug": "Kathryn_Hunter",
+  "wikipediaId": "Q459482",
+  "name": "Kathryn Hunter",
+  "fullName": "Kathryn Hunter",
+  "profileSummary": "Aikaterini Hadjipateras, known professionally as Kathryn Hunter, is an American-born British actress and theatre director known for her work in physical theatre. Hunter has appeared as Arabella Figg in the Harry Potter film series, as Eedy Karn in the Disney+ Star Wars series Andor, and as the Three Witches in Joel Coen's The Tragedy of Macbeth. Hunter's accolades include the Olivier Award for Best Actress and the New York Film Critics Circle Award for Best Supporting Actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kathryn_Hunter.jpg/330px-Kathryn_Hunter.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kathryn_Hunter",
+  "dateOfBirth": "1957-04-09",
+  "birthDateParsed": "1957-04-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.712777777",
+  "birthCoordinatesLng": "-74.006111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "theatre director",
+    "television actor",
+    "voice actor",
+    "actor",
+    "director"
+  ],
+  "qid": "Q459482",
+  "birthPlace": "New York City",
+  "fetchedAt": "2026-07-30T02:11:30.499Z"
+}

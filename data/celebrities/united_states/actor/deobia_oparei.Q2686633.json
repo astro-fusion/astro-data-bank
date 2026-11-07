@@ -1,0 +1,34 @@
+{
+  "publicId": "3e077f9c",
+  "wikipediaSlug": "DeObia_Oparei",
+  "wikipediaId": "Q2686633",
+  "name": "DeObia Oparei",
+  "fullName": "DeObia Oparei",
+  "profileSummary": "DeObia Oparei is an English actor. They are best known for playing the Gunner in Pirates of the Caribbean: On Stranger Tides (2011), Rongo in Dumbo (2019), Loki Hayes in Santa Clarita Diet (2017), and Boastful Loki in Loki (2021).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/DeObia_Oparei",
+  "dateOfBirth": "1971-12-07",
+  "birthDateParsed": "1971-12-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5433",
+  "birthCoordinatesLng": "-0.059486",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q2686633",
+  "birthPlace": "Hackney Central",
+  "fetchedAt": "2026-07-30T01:24:27.616Z"
+}

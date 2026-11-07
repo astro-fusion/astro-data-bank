@@ -1,0 +1,36 @@
+{
+  "publicId": "64ecc7ea",
+  "wikipediaSlug": "Eve_Torres",
+  "wikipediaId": "Q230473",
+  "name": "Eve Torres",
+  "fullName": "Eve Torres",
+  "profileSummary": "Eve Torres Gracie is an American actress, dancer, model, martial arts instructor and former professional wrestler. She is signed to WWE, as an ambassador.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eve_Torres_081204-A-4676S-073.jpg/330px-Eve_Torres_081204-A-4676S-073.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eve_Torres",
+  "dateOfBirth": "1984-08-21",
+  "birthDateParsed": "1984-08-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.360277777",
+  "birthCoordinatesLng": "-71.057777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "professional wrestler",
+    "television actor",
+    "film actor",
+    "Brazilian jiu-jitsu trainer",
+    "model"
+  ],
+  "qid": "Q230473",
+  "birthPlace": "Boston",
+  "fetchedAt": "2026-07-31T03:26:44.752Z"
+}

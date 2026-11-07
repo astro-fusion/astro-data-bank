@@ -1,0 +1,40 @@
+{
+  "publicId": "534deb91",
+  "wikipediaSlug": "Gary_Oldman",
+  "wikipediaId": "Q83492",
+  "name": "Gary Oldman",
+  "fullName": "Gary Oldman",
+  "profileSummary": "Sir Gary Leonard Oldman is an English actor and filmmaker. Known for his versatility and intense acting style, he has received various accolades, including an Academy Award, a Golden Globe Award, three British Academy Film Awards and nominations for three Primetime Emmy Awards. His films have grossed over US$11 billion worldwide, making him one of the highest-grossing actors of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gary_Oldman_%2813925515511%29_%28cropped%29.jpg/330px-Gary_Oldman_%2813925515511%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Oldman",
+  "dateOfBirth": "1958-03-21",
+  "birthDateParsed": "1958-03-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "film producer",
+    "voice actor",
+    "screenwriter",
+    "film director",
+    "character actor",
+    "stage actor",
+    "actor",
+    "television actor",
+    "director"
+  ],
+  "qid": "Q83492",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:10:26.573Z"
+}

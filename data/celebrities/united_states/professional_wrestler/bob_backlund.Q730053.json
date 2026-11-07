@@ -1,0 +1,33 @@
+{
+  "publicId": "8b5cb245",
+  "wikipediaSlug": "Bob_Backlund",
+  "wikipediaId": "Q730053",
+  "name": "Bob Backlund",
+  "fullName": "Bob Backlund",
+  "profileSummary": "Robert Louis Backlund is an American retired amateur and professional wrestler. He is best known for his appearances in the World Wide Wrestling Federation/World Wrestling Federation from 1976 to 1984 and in the 1990s, where he held the WWWF/WWF Championship on two occasions. His 2,135-day reign is recognized as the second longest in the championship's history. Backlund was inducted into the WWE Hall of Fame in 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bob_Backlund_Axxess_2014.jpg/330px-Bob_Backlund_Axxess_2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Backlund",
+  "dateOfBirth": "1949-08-14",
+  "birthDateParsed": "1949-08-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.57",
+  "birthCoordinatesLng": "-93.581666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "actor",
+    "amateur wrestler"
+  ],
+  "qid": "Q730053",
+  "birthPlace": "Princeton",
+  "fetchedAt": "2026-07-31T03:26:32.239Z"
+}

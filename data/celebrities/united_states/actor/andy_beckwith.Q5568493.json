@@ -1,0 +1,33 @@
+{
+  "publicId": "172cd8ec",
+  "wikipediaSlug": "Andy_Beckwith",
+  "wikipediaId": "Q5568493",
+  "name": "Andy Beckwith",
+  "fullName": "Andy Beckwith",
+  "profileSummary": "\nAndy Beckwith is an English actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Beckwith",
+  "dateOfBirth": "1950-01-01",
+  "birthDateParsed": "1950-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.6",
+  "birthCoordinatesLng": "-2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q5568493",
+  "birthPlace": "United Kingdom",
+  "fetchedAt": "2026-07-30T01:23:20.250Z"
+}

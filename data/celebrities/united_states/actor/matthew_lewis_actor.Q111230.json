@@ -1,0 +1,34 @@
+{
+  "publicId": "0b80a943",
+  "wikipediaSlug": "Matthew_Lewis_(actor)",
+  "wikipediaId": "Q111230",
+  "name": "Matthew Lewis (actor)",
+  "fullName": "Matthew Lewis (actor)",
+  "profileSummary": "Matthew David Lewis is an English actor. He is best known for his role as Neville Longbottom in the Harry Potter film series.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Matthew_Lewis_Photo_Op_GalaxyCon_Richmond_2020.jpg/330px-Matthew_Lewis_Photo_Op_GalaxyCon_Richmond_2020.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Lewis_(actor)",
+  "dateOfBirth": "1989-06-27",
+  "birthDateParsed": "1989-06-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.7975",
+  "birthCoordinatesLng": "-1.543611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q111230",
+  "birthPlace": "Leeds",
+  "fetchedAt": "2026-07-30T02:11:45.042Z"
+}

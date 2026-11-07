@@ -1,0 +1,33 @@
+{
+  "publicId": "718962d6",
+  "wikipediaSlug": "Edward_Randell",
+  "wikipediaId": "Q3720010",
+  "name": "Edward Randell",
+  "fullName": "Edward Randell",
+  "profileSummary": "Edward Keith Randell is an English musician and actor, who is perhaps best known for his acting work in the Harry Potter film series and as a bass for the noted international vocal group The Swingle Singers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_Swingles_jm102130.jpg/330px-The_Swingles_jm102130.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Randell",
+  "dateOfBirth": "1988-07-02",
+  "birthDateParsed": "1988-07-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4457",
+  "birthCoordinatesLng": "-0.0779",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer-songwriter",
+    "film actor"
+  ],
+  "qid": "Q3720010",
+  "birthPlace": "Dulwich",
+  "fetchedAt": "2026-07-30T02:11:03.096Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "c8bd39db",
+  "wikipediaSlug": "Cary_Grant",
+  "wikipediaId": "Q83410",
+  "name": "Cary Grant",
+  "fullName": "Cary Grant",
+  "profileSummary": "Cary Grant was an English-American actor. Known for his blended British and American accent, debonair demeanor, lighthearted approach to acting, and sense of comic timing, he was one of classic Hollywood's definitive leading men. He was nominated twice for the Academy Award, received an Academy Honorary Award in 1970, and received the Kennedy Center Honor in 1981. He was named the second-greatest male star of the Golden Age of Hollywood by the American Film Institute in 1999.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cary_Grant_%281958%29.jpg/330px-Cary_Grant_%281958%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cary_Grant",
+  "dateOfBirth": "1904-01-18",
+  "birthDateParsed": "1904-01-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.453611111",
+  "birthCoordinatesLng": "-2.5975",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "writer",
+    "autobiographer",
+    "stage actor",
+    "film producer",
+    "businessperson",
+    "comedian",
+    "circus performer",
+    "actor",
+    "producer"
+  ],
+  "qid": "Q83410",
+  "birthPlace": "Bristol",
+  "fetchedAt": "2026-07-29T15:23:40.431Z"
+}

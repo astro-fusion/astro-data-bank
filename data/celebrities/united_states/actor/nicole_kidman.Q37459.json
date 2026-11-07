@@ -1,0 +1,40 @@
+{
+  "publicId": "e2adac43",
+  "wikipediaSlug": "Nicole_Kidman",
+  "wikipediaId": "Q37459",
+  "name": "Nicole Kidman",
+  "fullName": "Nicole Kidman",
+  "profileSummary": "Nicole Mary Kidman is an Australian and American actress and producer. Known for her work in blockbusters and independent films across many genres, she has consistently ranked among the world's highest-paid actresses since the late 1990s. Her accolades include an Academy Award, an Actor Award, a British Academy Film Award, six Golden Globe Awards, two Primetime Emmy Awards, and a Volpi Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MKr384262_Nicole_Kidman_%28Women_In_Motion%2C_Cannes_2025%29.jpg/330px-MKr384262_Nicole_Kidman_%28Women_In_Motion%2C_Cannes_2025%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicole_Kidman",
+  "dateOfBirth": "1967-06-20",
+  "birthDateParsed": "1967-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.304722222",
+  "birthCoordinatesLng": "-157.857222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film producer",
+    "television actor",
+    "model",
+    "film actor",
+    "voice actor",
+    "diplomat",
+    "producer",
+    "musician"
+  ],
+  "qid": "Q37459",
+  "birthPlace": "Honolulu",
+  "fetchedAt": "2026-07-30T03:31:24.964Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "19f193ec",
+  "wikipediaSlug": "Robert_Downey_Jr.",
+  "wikipediaId": "Q165219",
+  "name": "Robert Downey Jr.",
+  "fullName": "Robert Downey Jr.",
+  "profileSummary": "Robert John Downey Jr. is an American actor and producer. His films as a leading actor have grossed over $14.3 billion worldwide, making him one of the highest-grossing actors of all time. Downey was the highest-paid actor in the world annually from 2013 to 2015. Known for his versatility across roles, he is the recipient of various accolades, including an Academy Award, a Daytime Emmy Award, three Golden Globe Awards, and two British Academy Film Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/330px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.",
+  "dateOfBirth": "1965-04-04",
+  "birthDateParsed": "1965-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.733611111",
+  "birthCoordinatesLng": "-74.002777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film producer",
+    "singer",
+    "musician",
+    "screenwriter",
+    "singer-songwriter",
+    "film director",
+    "voice actor",
+    "manufacturer"
+  ],
+  "qid": "Q165219",
+  "birthPlace": "Greenwich Village",
+  "fetchedAt": "2026-07-30T03:31:23.428Z"
+}

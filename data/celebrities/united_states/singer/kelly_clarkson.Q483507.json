@@ -1,0 +1,43 @@
+{
+  "publicId": "a909fa3f",
+  "wikipediaSlug": "Kelly_Clarkson",
+  "wikipediaId": "Q483507",
+  "name": "Kelly Clarkson",
+  "fullName": "Kelly Clarkson",
+  "profileSummary": "Kelly Brianne, known professionally as Kelly Clarkson, is an American singer, songwriter, and television personality. Rising to fame after winning the first season of American Idol, she has established a multi-decade career in music and television and is credited with having a lasting impact on televised talent shows. Known as a vocal powerhouse and versatile performer, she was ranked one of the 200 Greatest Singers of All Time by Rolling Stone.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kelly_Clarkson_2018_DoD_Warrior_Games_Opening_Ceremony_14_-_Cropped_01.jpg/330px-Kelly_Clarkson_2018_DoD_Warrior_Games_Opening_Ceremony_14_-_Cropped_01.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kelly_Clarkson",
+  "dateOfBirth": "1982-04-24",
+  "birthDateParsed": "1982-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.5358",
+  "birthCoordinatesLng": "-97.3272",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "singer-songwriter",
+    "actor",
+    "children's writer",
+    "film actor",
+    "writer",
+    "voice actor",
+    "recording artist",
+    "talk show host",
+    "reality television participant",
+    "composer",
+    "pop singer",
+    "musician"
+  ],
+  "qid": "Q483507",
+  "birthPlace": "Burleson",
+  "fetchedAt": "2026-07-30T07:25:36.369Z"
+}

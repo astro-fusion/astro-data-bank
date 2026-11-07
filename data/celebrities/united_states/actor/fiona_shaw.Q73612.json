@@ -1,0 +1,35 @@
+{
+  "publicId": "9c4c62fd",
+  "wikipediaSlug": "Fiona_Shaw",
+  "wikipediaId": "Q73612",
+  "name": "Fiona Shaw",
+  "fullName": "Fiona Shaw",
+  "profileSummary": "Fiona Shaw is an Irish actress in screen and stage. She did extensive work with the Royal Shakespeare Company and the National Theatre, as well as in film and television. In 2020, she was listed at No. 29 on The Irish Times list of Ireland's greatest film actors. She was made an Honorary Commander of the Order of the British Empire (CBE) by Queen Elizabeth II in 2001.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fiona_Shaw_at_Berlinale_2025-1.jpg/330px-Fiona_Shaw_at_Berlinale_2025-1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiona_Shaw",
+  "dateOfBirth": "1958-07-10",
+  "birthDateParsed": "1958-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52",
+  "birthCoordinatesLng": "-8.75",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "performing artist",
+    "director"
+  ],
+  "qid": "Q73612",
+  "birthPlace": "County Cork",
+  "fetchedAt": "2026-07-30T02:11:03.605Z"
+}

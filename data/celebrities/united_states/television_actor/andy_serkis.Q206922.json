@@ -1,0 +1,30 @@
+{
+  "publicId": "63567e8d",
+  "wikipediaSlug": "Andy_Serkis",
+  "wikipediaId": "Q206922",
+  "name": "Andy Serkis",
+  "fullName": "Andy Serkis",
+  "profileSummary": "Andrew Clement Serkis is an English actor and director. He is best known for his critically acclaimed roles comprising motion capture acting, animation and voice work for computer-generated characters such as Gollum in The Lord of the Rings film trilogy (2001–2003) and The Hobbit: An Unexpected Journey (2012), King Kong in the eponymous 2005 film, Caesar in the Planet of the Apes reboot series (2011–2017), Captain Haddock / Sir Francis Haddock in Steven Spielberg's The Adventures of Tintin (2011), Baloo in his self-directed film Mowgli: Legend of the Jungle (2018) and Supreme Leader Snoke in the Star Wars sequel trilogy films The Force Awakens (2015) and The Last Jedi (2017).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Andy_Serkis_at_MEGACON_Orlando_2025.png/330px-Andy_Serkis_at_MEGACON_Orlando_2025.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Serkis",
+  "dateOfBirth": "1964-04-20",
+  "birthDateParsed": "1964-04-20",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.576",
+  "birthCoordinatesLng": "-0.433",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "film director",
+    "actor",
+    "voice actor",
+    "stage actor",
+    "director",
+    "producer"
+  ],
+  "qid": "Q206922",
+  "birthPlace": "Ruislip",
+  "fetchedAt": "2026-07-29T15:24:00.333Z"
+}

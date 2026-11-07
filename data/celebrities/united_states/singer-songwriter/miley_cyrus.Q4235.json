@@ -1,0 +1,40 @@
+{
+  "publicId": "63ec9630",
+  "wikipediaSlug": "Miley_Cyrus",
+  "wikipediaId": "Q4235",
+  "name": "Miley Cyrus",
+  "fullName": "Miley Cyrus",
+  "profileSummary": "Miley Ray Cyrus is an American singer, songwriter, and actress. An influential figure in popular music, Cyrus is known for her evolving artistry and image reinventions. She was an established child actress before developing a successful entertainment career as an adult. Cyrus emerged as a teen idol with her portrayal of Miley Stewart in the Disney Channel television series Hannah Montana (2006–2011), growing a profitable franchise and achieving two number-one soundtracks on the Billboard 200.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg/330px-Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+  "dateOfBirth": "1992-11-23",
+  "birthDateParsed": "1992-11-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.162222222",
+  "birthCoordinatesLng": "-86.774444444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "voice actor",
+    "television actor",
+    "film actor",
+    "singer",
+    "actor",
+    "composer",
+    "television producer",
+    "pop musician",
+    "musician"
+  ],
+  "qid": "Q4235",
+  "birthPlace": "Nashville",
+  "fetchedAt": "2026-07-30T15:27:05.613Z"
+}

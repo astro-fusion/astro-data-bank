@@ -1,0 +1,31 @@
+{
+  "publicId": "ef30c0ce",
+  "wikipediaSlug": "Richard_Burton",
+  "wikipediaId": "Q151973",
+  "name": "Richard Burton",
+  "fullName": "Richard Burton",
+  "profileSummary": "Richard Walter Burton was a Welsh actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Richard_Burton_in_the_Netherlands.jpg/330px-Richard_Burton_in_the_Netherlands.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Burton",
+  "dateOfBirth": "1925-11-10",
+  "birthDateParsed": "1925-11-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.631838888",
+  "birthCoordinatesLng": "-3.743869444",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "diarist",
+    "stage actor",
+    "actor",
+    "film director",
+    "film producer",
+    "producer",
+    "director",
+    "musician"
+  ],
+  "qid": "Q151973",
+  "birthPlace": "Pontrhydyfen",
+  "fetchedAt": "2026-07-29T15:24:26.101Z"
+}

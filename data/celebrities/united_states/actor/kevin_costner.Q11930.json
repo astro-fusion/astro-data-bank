@@ -1,0 +1,39 @@
+{
+  "publicId": "ef093d7c",
+  "wikipediaSlug": "Kevin_Costner",
+  "wikipediaId": "Q11930",
+  "name": "Kevin Costner",
+  "fullName": "Kevin Costner",
+  "profileSummary": "Kevin Michael Costner is an American actor, filmmaker, and musician. In a career spanning five decades, he has received various accolades, including two Academy Awards, three Golden Globe Awards, and a Primetime Emmy Award as well as nominations for three British Academy Film Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kevin_Costner_at_81st_Venice_Film_Festival_%28cropped%29.jpg/330px-Kevin_Costner_at_81st_Venice_Film_Festival_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Costner",
+  "dateOfBirth": "1955-01-18",
+  "birthDateParsed": "1955-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.924722222",
+  "birthCoordinatesLng": "-118.201944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "film director",
+    "film producer",
+    "television actor",
+    "voice actor",
+    "screenwriter",
+    "director",
+    "musician"
+  ],
+  "qid": "Q11930",
+  "birthPlace": "Lynwood",
+  "fetchedAt": "2026-07-30T03:31:36.812Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "894907b2",
+  "wikipediaSlug": "Brie_Bella",
+  "wikipediaId": "Q3644601",
+  "name": "Brie Bella",
+  "fullName": "Brie Bella",
+  "profileSummary": "Brianna Monique Danielson, also known by the stage names Brie Bella and Brie Garcia, is an American professional wrestler and media personality. She is signed to WWE, where she performs under the ring name Brie Bella. She is one-half of The Bella Twins alongside her twin sister Nikki Bella.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brie_Bella_2016.png/330px-Brie_Bella_2016.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brie_Bella",
+  "dateOfBirth": "1983-11-21",
+  "birthDateParsed": "1983-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715",
+  "birthCoordinatesLng": "-117.1625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "television personality"
+  ],
+  "qid": "Q3644601",
+  "birthPlace": "San Diego",
+  "fetchedAt": "2026-07-31T03:25:59.817Z"
+}

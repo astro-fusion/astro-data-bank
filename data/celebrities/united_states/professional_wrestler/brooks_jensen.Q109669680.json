@@ -1,0 +1,31 @@
+{
+  "publicId": "8799d68b",
+  "wikipediaSlug": "Brooks_Jensen",
+  "wikipediaId": "Q109669680",
+  "name": "Brooks Jensen",
+  "fullName": "Brooks Jensen",
+  "profileSummary": "Benjamin Buchanan is an American professional wrestler. He is signed to WWE where he performs on the Evolve brand under the ring name Brooks Jensen. He is a former one-time and the final NXT UK Tag Team Champion.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brooks_Jensen",
+  "dateOfBirth": "2001-08-21",
+  "birthDateParsed": "2001-08-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "33.5253",
+  "birthCoordinatesLng": "-85.3433",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q109669680",
+  "birthPlace": "Ranburne",
+  "fetchedAt": "2026-07-31T03:26:11.464Z"
+}

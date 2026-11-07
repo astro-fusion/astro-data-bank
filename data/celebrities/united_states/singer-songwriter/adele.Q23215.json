@@ -1,0 +1,36 @@
+{
+  "publicId": "665bbc15",
+  "wikipediaSlug": "Adele",
+  "wikipediaId": "Q23215",
+  "name": "Adele",
+  "fullName": "Adele",
+  "profileSummary": "Adele Laurie Blue Adkins known mononymously as Adele, is an English singer and songwriter. Regarded as a British cultural icon, she is known for her mezzo-soprano vocals and sentimental songwriting. Her accolades include 16 Grammy Awards, 12 Brit Awards, an Academy Award, a Primetime Emmy Award, and a Golden Globe Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/330px-Adele_2016.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adele",
+  "dateOfBirth": "1988-05-05",
+  "birthDateParsed": "1988-05-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5975",
+  "birthCoordinatesLng": "-0.068055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "musician",
+    "recording artist",
+    "composer",
+    "singer",
+    "songwriter"
+  ],
+  "qid": "Q23215",
+  "birthPlace": "Tottenham",
+  "fetchedAt": "2026-07-30T07:24:24.726Z"
+}

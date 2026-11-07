@@ -1,0 +1,36 @@
+{
+  "publicId": "3fa58032",
+  "wikipediaSlug": "Emilia_Clarke",
+  "wikipediaId": "Q235132",
+  "name": "Emilia Clarke",
+  "fullName": "Emilia Clarke",
+  "profileSummary": "Emilia Isobel Euphemia Rose Clarke is an English actress. She achieved international recognition for her role as Daenerys Targaryen in the HBO fantasy series Game of Thrones (2011–2019), for which she received nominations for four Primetime Emmy Awards. She is also widely known for playing Sarah Connor in the science-fiction film Terminator: Genisys (2015) and Qi'ra in the film Solo: A Star Wars Story (2018), and for starring in the romantic dramas Me Before You (2016) and Last Christmas (2019).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emilia_Clarke_at_the_2023_Harper%27s_Bazaar_Women_of_the_Year_Awards.jpg/330px-Emilia_Clarke_at_the_2023_Harper%27s_Bazaar_Women_of_the_Year_Awards.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emilia_Clarke",
+  "dateOfBirth": "1986-10-23",
+  "birthDateParsed": "1986-10-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor",
+    "model",
+    "comics writer"
+  ],
+  "qid": "Q235132",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:24:29.115Z"
+}

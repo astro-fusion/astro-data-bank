@@ -1,0 +1,32 @@
+{
+  "publicId": "6c1fdbc1",
+  "wikipediaSlug": "Elizabeth_Taylor",
+  "wikipediaId": "Q34851",
+  "name": "Elizabeth Taylor",
+  "fullName": "Elizabeth Taylor",
+  "profileSummary": "Dame Elizabeth Rosemond Taylor was a British and American actress. She began her career as a child actress in the early 1940s and was one of the most popular stars of classical Hollywood cinema in the 1950s. She then became the world's highest-paid movie star in the 1960s, remaining a well-known public figure for the rest of her life. In 1999, the American Film Institute ranked her seventh on its list of the greatest female screen legends.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Taylor%2C_Elizabeth_posed.jpg/330px-Taylor%2C_Elizabeth_posed.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Taylor",
+  "dateOfBirth": "1932-02-27",
+  "birthDateParsed": "1932-02-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.583",
+  "birthCoordinatesLng": "-0.185",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philanthropist",
+    "autobiographer",
+    "stage actor",
+    "television actor",
+    "writer",
+    "film actor",
+    "film producer",
+    "art collector",
+    "HIV/AIDS activist",
+    "actor"
+  ],
+  "qid": "Q34851",
+  "birthPlace": "Hampstead Garden Suburb",
+  "fetchedAt": "2026-07-29T15:23:49.902Z"
+}

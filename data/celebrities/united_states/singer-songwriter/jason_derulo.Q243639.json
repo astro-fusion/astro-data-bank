@@ -1,0 +1,40 @@
+{
+  "publicId": "64768196",
+  "wikipediaSlug": "Jason_Derulo",
+  "wikipediaId": "Q243639",
+  "name": "Jason Derulo",
+  "fullName": "Jason Derulo",
+  "profileSummary": "Jason Joel Desrouleaux, known professionally as Jason Derulo, is an American singer, songwriter and dancer. Since the start of his solo recording career in 2009, he has sold over 250 million singles worldwide and has achieved fourteen platinum singles in the US.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Jason_Derulo_2.0.jpg/330px-Jason_Derulo_2.0.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Derulo",
+  "dateOfBirth": "1989-09-21",
+  "birthDateParsed": "1989-09-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.978888888",
+  "birthCoordinatesLng": "-80.2825",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "composer",
+    "vocalist",
+    "singer",
+    "actor",
+    "songwriter",
+    "record producer",
+    "film actor",
+    "dancer",
+    "musician"
+  ],
+  "qid": "Q243639",
+  "birthPlace": "Miramar",
+  "fetchedAt": "2026-07-30T16:46:28.394Z"
+}

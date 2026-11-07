@@ -1,0 +1,36 @@
+{
+  "publicId": "541bc6f9",
+  "wikipediaSlug": "Jim_Broadbent",
+  "wikipediaId": "Q185079",
+  "name": "Jim Broadbent",
+  "fullName": "Jim Broadbent",
+  "profileSummary": "James Broadbent is an English actor. After graduating from the London Academy of Music and Dramatic Art in 1972, he came to prominence as a character actor for his many roles in film and television. He has received various accolades including an Academy Award, two BAFTA Awards, an International Emmy Award, two Golden Globe Awards and one Volpi Cup as well as nominations for two Primetime Emmy Awards and a Grammy Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jim_Broadbent_2012.jpg/330px-Jim_Broadbent_2012.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Broadbent",
+  "dateOfBirth": "1949-05-24",
+  "birthDateParsed": "1949-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.317",
+  "birthCoordinatesLng": "-0.326",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "voice actor",
+    "stage actor",
+    "screenwriter",
+    "actor"
+  ],
+  "qid": "Q185079",
+  "birthPlace": "Holton cum Beckering",
+  "fetchedAt": "2026-07-30T02:11:21.017Z"
+}

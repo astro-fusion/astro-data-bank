@@ -1,0 +1,40 @@
+{
+  "publicId": "77ce269e",
+  "wikipediaSlug": "Jessie_Cave",
+  "wikipediaId": "Q233439",
+  "name": "Jessie Cave",
+  "fullName": "Jessie Cave",
+  "profileSummary": "Jessie Cave is an English actress, comedian, YouTuber, author, and cartoonist, known for her role as Lavender Brown in the Harry Potter film series and for her shows in London and at the Edinburgh Fringe. She has also published a book of cartoon doodles called Love Sick, some of the designs in which have appeared on greeting cards. A comedic play based on her life and relationships, Sunrise, was first performed in 2019. Cave's first novel, Sunset, was published in 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jessie_Cave_2022_Cropped.jpg/330px-Jessie_Cave_2022_Cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jessie_Cave",
+  "dateOfBirth": "1987-05-05",
+  "birthDateParsed": "1987-05-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "YouTuber",
+    "stage actor",
+    "television producer",
+    "writer",
+    "caricaturist",
+    "film director",
+    "comedian",
+    "author"
+  ],
+  "qid": "Q233439",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:11:32.814Z"
+}

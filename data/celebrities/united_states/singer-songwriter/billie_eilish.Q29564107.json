@@ -1,0 +1,35 @@
+{
+  "publicId": "160bda8b",
+  "wikipediaSlug": "Billie_Eilish",
+  "wikipediaId": "Q29564107",
+  "name": "Billie Eilish",
+  "fullName": "Billie Eilish",
+  "profileSummary": "Billie Eilish Pirate Baird O'Connell is an American singer-songwriter. Known for her distinctive musical sound and vocal style, Eilish is a prominent figure in 2020s pop culture. She first gained public attention in 2015 with her debut single \"Ocean Eyes\" which was released on SoundCloud and written and produced by her brother Finneas O'Connell. In 2017, she released her debut EP, Don't Smile at Me, which was commercially successful in various countries, including the United States, the United Kingdom, and Australia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg/330px-BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billie_Eilish",
+  "dateOfBirth": "2001-12-18",
+  "birthDateParsed": "2001-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "composer",
+    "dancer",
+    "director"
+  ],
+  "qid": "Q29564107",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-07-30T16:45:40.429Z"
+}

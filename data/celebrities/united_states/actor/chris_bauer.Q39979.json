@@ -1,0 +1,31 @@
+{
+  "publicId": "0fa9a87c",
+  "wikipediaSlug": "Chris_Bauer",
+  "wikipediaId": "Q39979",
+  "name": "Chris Bauer",
+  "fullName": "Chris Bauer",
+  "profileSummary": "Chris Bauer is an American actor. He is best known for his television work in The Wire, Third Watch, True Blood, Survivor's Remorse, The Deuce, and the science fiction space drama series For All Mankind. He has also appeared on Broadway, as Mitch in A Streetcar Named Desire, and has originated roles in plays by David Mamet, John Patrick Shanley and Jez Butterworth.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ChrisBauerSDComicConJuly2014.jpg/330px-ChrisBauerSDComicConJuly2014.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Bauer",
+  "dateOfBirth": "1966-10-28",
+  "birthDateParsed": "1966-10-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q39979",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-07-30T00:40:32.358Z"
+}

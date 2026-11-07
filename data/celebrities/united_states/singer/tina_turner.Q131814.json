@@ -1,0 +1,39 @@
+{
+  "publicId": "8652649b",
+  "wikipediaSlug": "Tina_Turner",
+  "wikipediaId": "Q131814",
+  "name": "Tina Turner",
+  "fullName": "Tina Turner",
+  "profileSummary": "Tina Turner was a singer, songwriter, actress and author. Dubbed the \"Queen of Rock 'n' Roll\", she broke both racial and gender barriers in rock music with her vocal prowess and stage presence. She is one of the best-selling music artists of all time, with estimated sales of over 100 million records worldwide.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tina_Turner_1985_%28cropped%29.jpg/330px-Tina_Turner_1985_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tina_Turner",
+  "dateOfBirth": "1939-11-26",
+  "birthDateParsed": "1939-11-26",
+  "dateOfDeath": "2023-05-24",
+  "deathDateParsed": "2023-05-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.6981",
+  "birthCoordinatesLng": "-89.4081",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "dancer",
+    "autobiographer",
+    "songwriter",
+    "recording artist",
+    "actor",
+    "choreographer",
+    "musician",
+    "film director"
+  ],
+  "qid": "Q131814",
+  "birthPlace": "Nutbush",
+  "fetchedAt": "2026-07-30T13:08:41.251Z"
+}

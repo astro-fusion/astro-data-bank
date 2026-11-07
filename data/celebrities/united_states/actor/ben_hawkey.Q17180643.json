@@ -1,0 +1,33 @@
+{
+  "publicId": "9f0d42c4",
+  "wikipediaSlug": "Ben_Hawkey",
+  "wikipediaId": "Q17180643",
+  "name": "Ben Hawkey",
+  "fullName": "Ben Hawkey",
+  "profileSummary": "Ben Hawkey is an English actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Hawkey",
+  "dateOfBirth": "1996-04-25",
+  "birthDateParsed": "1996-04-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q17180643",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:23:48.167Z"
+}

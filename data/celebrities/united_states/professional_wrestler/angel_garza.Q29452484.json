@@ -1,0 +1,31 @@
+{
+  "publicId": "0c114196",
+  "wikipediaSlug": "Angel_Garza",
+  "wikipediaId": "Q29452484",
+  "name": "Angel Garza",
+  "fullName": "Angel Garza",
+  "profileSummary": "Humberto Garza Solano is a Mexican professional wrestler. He is signed to WWE, where he performs on the SmackDown brand under the ring name Angel. He also appears in Lucha Libre AAA Worldwide as a member of Los Perros del Mal along with his Los Garza tag team partner and cousin Berto.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Garza_Jr_BFG_17_crop.jpg/330px-Garza_Jr_BFG_17_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angel_Garza",
+  "dateOfBirth": "1992-09-23",
+  "birthDateParsed": "1992-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q29452484",
+  "birthPlace": "Monterrey",
+  "fetchedAt": "2026-07-31T03:25:47.640Z"
+}

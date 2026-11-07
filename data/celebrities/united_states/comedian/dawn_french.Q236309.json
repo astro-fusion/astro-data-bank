@@ -1,0 +1,37 @@
+{
+  "publicId": "c41e7e57",
+  "wikipediaSlug": "Dawn_French",
+  "wikipediaId": "Q236309",
+  "name": "Dawn French",
+  "fullName": "Dawn French",
+  "profileSummary": "Dawn Roma French is a British actress, comedian, and writer. She is known for writing and starring in the BBC sketch comedy series French and Saunders (1987–2007) with her friend and comedy partner Jennifer Saunders, and for starring in the BBC comedy series Murder Most Horrid (1991–1999) and The Vicar of Dibley (1994–2007). She has been nominated for seven British Academy Television Awards and won a BAFTA Fellowship with Saunders in 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dawn_French_1.jpg/330px-Dawn_French_1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dawn_French",
+  "dateOfBirth": "1957-10-11",
+  "birthDateParsed": "1957-10-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.316666666",
+  "birthCoordinatesLng": "-4.633333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "novelist",
+    "writer",
+    "stage actor",
+    "film actor",
+    "actor",
+    "television presenter"
+  ],
+  "qid": "Q236309",
+  "birthPlace": "Holyhead",
+  "fetchedAt": "2026-07-30T02:10:43.138Z"
+}

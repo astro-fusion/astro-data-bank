@@ -1,0 +1,32 @@
+{
+  "publicId": "3cc5a0a6",
+  "wikipediaSlug": "Chad_Gable",
+  "wikipediaId": "Q5087022",
+  "name": "Chad Gable",
+  "fullName": "Chad Gable",
+  "profileSummary": "Charles Edward Betts is an American professional wrestler and former amateur wrestler. As of November 2013, he is signed to WWE, where he performs on the Raw brand under the ring name Chad Gable.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chad_Gable_NXT_Takeover_Dallas_2016.jpg/330px-Chad_Gable_NXT_Takeover_Dallas_2016.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chad_Gable",
+  "dateOfBirth": "1986-03-08",
+  "birthDateParsed": "1986-03-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "44.981944444",
+  "birthCoordinatesLng": "-93.269166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "amateur wrestler",
+    "professional wrestler"
+  ],
+  "qid": "Q5087022",
+  "birthPlace": "Minneapolis",
+  "fetchedAt": "2026-07-31T03:26:09.463Z"
+}

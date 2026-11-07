@@ -1,0 +1,36 @@
+{
+  "publicId": "d26a291a",
+  "wikipediaSlug": "Jeff_Rawle",
+  "wikipediaId": "Q1320903",
+  "name": "Jeff Rawle",
+  "fullName": "Jeff Rawle",
+  "profileSummary": "Jeffrey Alan Rawle is a British actor. He is known for playing Billy in Billy Liar (1973–1974), and for portraying George Dent in the news-gathering sitcom Drop the Dead Donkey (1990–1998), and Silas Blissett in Hollyoaks (2010–2022). Other credits include Minder (1993), Doc Martin (2004), Harry Potter and the Goblet of Fire (2005), Grantchester (2023), and Beyond Paradise (2024).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Jeff_Rawle.jpg/330px-Jeff_Rawle.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeff_Rawle",
+  "dateOfBirth": "1951-07-20",
+  "birthDateParsed": "1951-07-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "film actor",
+    "stage actor",
+    "television actor",
+    "screenwriter"
+  ],
+  "qid": "Q1320903",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-07-30T02:11:44.295Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "c7783aeb",
+  "wikipediaSlug": "Dave_Bautista",
+  "wikipediaId": "Q44158",
+  "name": "Dave Bautista",
+  "fullName": "Dave Bautista",
+  "profileSummary": "David Michael Bautista Jr. is an American actor and retired professional wrestler. Regarded as one of the most prolific professional wrestlers of the Ruthless Aggression Era, he rose to fame for his multiple stints in WWE between 2002 and 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg/330px-Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Bautista",
+  "dateOfBirth": "1969-01-18",
+  "birthDateParsed": "1969-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "actor",
+    "film producer",
+    "mixed martial arts fighter",
+    "athlete"
+  ],
+  "qid": "Q44158",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-07-31T03:26:44.092Z"
+}

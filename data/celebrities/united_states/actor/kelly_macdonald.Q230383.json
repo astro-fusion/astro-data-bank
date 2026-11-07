@@ -1,0 +1,32 @@
+{
+  "publicId": "9b82963e",
+  "wikipediaSlug": "Kelly_Macdonald",
+  "wikipediaId": "Q230383",
+  "name": "Kelly Macdonald",
+  "fullName": "Kelly Macdonald",
+  "profileSummary": "Kelly Macdonald is a Scottish actress. Known for her performances on film and television, she has received various accolades including a BAFTA Award, a Primetime Emmy Award, and four Screen Actors Guild Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kelly_Macdonald_at_Brave_premiere_%287399126166%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kelly_Macdonald",
+  "dateOfBirth": "1976-02-23",
+  "birthDateParsed": "1976-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.861111111",
+  "birthCoordinatesLng": "-4.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q230383",
+  "birthPlace": "Glasgow",
+  "fetchedAt": "2026-07-30T02:11:52.666Z"
+}

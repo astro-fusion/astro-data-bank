@@ -1,0 +1,32 @@
+{
+  "publicId": "8aa91496",
+  "wikipediaSlug": "Diana_Ross",
+  "wikipediaId": "Q36290",
+  "name": "Diana Ross",
+  "fullName": "Diana Ross",
+  "profileSummary": "Diana Ross is an American singer and actress. She was the lead singer of the vocal group the Supremes, who became Motown's most successful act during the 1960s and one of the world's best-selling girl groups of all time. They remain the best-charting female group in history, with a total of 12 number-one pop singles on the U.S. Billboard Hot 100.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DRossLongleat010722_%289_of_43%29_%2852189231585%29_%28cropped%29.jpg/330px-DRossLongleat010722_%289_of_43%29_%2852189231585%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diana_Ross",
+  "dateOfBirth": "1944-03-26",
+  "birthDateParsed": "1944-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.331666666",
+  "birthCoordinatesLng": "-83.0475",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor"
+  ],
+  "qid": "Q36290",
+  "birthPlace": "Detroit",
+  "fetchedAt": "2026-07-30T07:25:07.585Z"
+}

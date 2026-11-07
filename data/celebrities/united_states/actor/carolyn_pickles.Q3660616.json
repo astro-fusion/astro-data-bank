@@ -1,0 +1,32 @@
+{
+  "publicId": "32d2e35d",
+  "wikipediaSlug": "Carolyn_Pickles",
+  "wikipediaId": "Q3660616",
+  "name": "Carolyn Pickles",
+  "fullName": "Carolyn Pickles",
+  "profileSummary": "Carolyn Pickles is an English actress. She was born in Halifax, and has appeared in West End theatre and on British television. She is known for playing DCI Kim Reid in The Bill and Shelley Williams in Emmerdale.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carolyn_Pickles",
+  "dateOfBirth": "1952-02-08",
+  "birthDateParsed": "1952-02-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.6825",
+  "birthCoordinatesLng": "-1.4975",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q3660616",
+  "birthPlace": "Wakefield",
+  "fetchedAt": "2026-07-30T02:10:40.760Z"
+}

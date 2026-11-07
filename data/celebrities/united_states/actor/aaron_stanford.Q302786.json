@@ -1,0 +1,32 @@
+{
+  "publicId": "0acd18ec",
+  "wikipediaSlug": "Aaron_Stanford",
+  "wikipediaId": "Q302786",
+  "name": "Aaron Stanford",
+  "fullName": "Aaron Stanford",
+  "profileSummary": "Aaron Stanford is an American actor known for his roles as Pyro in the X-Men films X2 (2003), X-Men: The Last Stand (2006) and Deadpool & Wolverine (2024), and Doug in the remake of The Hills Have Eyes (2006). On television, he also starred as Birkhoff in Nikita (2010–2013) and as James Cole in 12 Monkeys (2015–2018), based on the 1995 film of the same name.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aaron_Stanford_-_Nikita_%28cropped%29.jpg/330px-Aaron_Stanford_-_Nikita_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Stanford",
+  "dateOfBirth": "1976-12-27",
+  "birthDateParsed": "1976-12-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.579166666",
+  "birthCoordinatesLng": "-71.438333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q302786",
+  "birthPlace": "Westford",
+  "fetchedAt": "2026-07-30T00:40:28.940Z"
+}

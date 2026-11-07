@@ -1,0 +1,27 @@
+{
+  "publicId": "15ad1782",
+  "wikipediaSlug": "William_Holden",
+  "wikipediaId": "Q95002",
+  "name": "William Holden",
+  "fullName": "William Holden",
+  "profileSummary": "William Franklin Holden was an American actor and one of the biggest box-office draws of the 1950s. He won the Academy Award for Best Actor for the film Stalag 17 (1953) and the Primetime Emmy Award for Outstanding Lead Actor in a Limited Series or Movie for The Blue Knight (1973).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/WILLIAMHolden.jpg/330px-WILLIAMHolden.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Holden",
+  "dateOfBirth": "1918-04-17",
+  "birthDateParsed": "1918-04-17",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.5975365",
+  "birthCoordinatesLng": "-89.9153623",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "military personnel",
+    "military officer"
+  ],
+  "qid": "Q95002",
+  "birthPlace": "O'Fallon",
+  "fetchedAt": "2026-07-29T15:24:25.094Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "2e2c9bd8",
+  "wikipediaSlug": "Hugh_Mitchell_(actor)",
+  "wikipediaId": "Q742428",
+  "name": "Hugh Mitchell (actor)",
+  "fullName": "Hugh Mitchell (actor)",
+  "profileSummary": "Hugh Mitchell is an English professional photographer and former actor, best known for playing Colin Creevey in Harry Potter and the Chamber of Secrets. He also appeared in The White Queen as Richard Welles, alongside Max Irons.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hugh_Mitchell_2.jpg/330px-Hugh_Mitchell_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugh_Mitchell_(actor)",
+  "dateOfBirth": "1989-09-07",
+  "birthDateParsed": "1989-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.063333333",
+  "birthCoordinatesLng": "-1.308611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q742428",
+  "birthPlace": "Winchester",
+  "fetchedAt": "2026-07-30T02:11:54.133Z"
+}

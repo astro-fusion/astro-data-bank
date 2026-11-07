@@ -1,0 +1,37 @@
+{
+  "publicId": "e24128c7",
+  "wikipediaSlug": "Kristen_Stewart",
+  "wikipediaId": "Q126599",
+  "name": "Kristen Stewart",
+  "fullName": "Kristen Stewart",
+  "profileSummary": "Kristen Jaymes Stewart is an American actress and filmmaker. Known for her work in blockbusters and arthouse dramas, Stewart has been ranked among the world's highest paid actors and her films have collectively grossed over $4 billion worldwide. Her accolades, including a British Academy Film Award and a César Award, in addition to nominations for an Academy Award and a Golden Globe Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kristen_Stewart_at_WWD_Style_Awards_2026.jpg/330px-Kristen_Stewart_at_WWD_Style_Awards_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristen_Stewart",
+  "dateOfBirth": "1990-04-09",
+  "birthDateParsed": "1990-04-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "voice actor",
+    "film director",
+    "television director",
+    "film screenwriter"
+  ],
+  "qid": "Q126599",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-07-30T03:31:12.846Z"
+}

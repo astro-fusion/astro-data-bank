@@ -1,0 +1,41 @@
+{
+  "publicId": "6db5bc8b",
+  "wikipediaSlug": "Lil_Wayne",
+  "wikipediaId": "Q15615",
+  "name": "Lil Wayne",
+  "fullName": "Lil Wayne",
+  "profileSummary": "Dwayne Michael Carter Jr., known professionally as Lil Wayne, is an American rapper, singer, songwriter, and record producer. He is often regarded as one of the most influential hip-hop artists of his generation, as well as one of the greatest rappers of all time. Born and raised in New Orleans, he was discovered by hometown rapper Birdman in 1993 and signed with his record label, Cash Money Records, at age eleven. He emerged as the label's flagship artist until his departure in 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lil_Wayne_Feb._2020.jpg/330px-Lil_Wayne_Feb._2020.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lil_Wayne",
+  "dateOfBirth": "1982-09-27",
+  "birthDateParsed": "1982-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.976111111",
+  "birthCoordinatesLng": "-90.078333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rapper",
+    "singer",
+    "songwriter",
+    "music executive",
+    "actor",
+    "entrepreneur",
+    "record producer",
+    "film actor",
+    "skateboarder",
+    "musician",
+    "television actor"
+  ],
+  "qid": "Q15615",
+  "birthPlace": "New Orleans",
+  "fetchedAt": "2026-07-30T07:25:33.467Z"
+}

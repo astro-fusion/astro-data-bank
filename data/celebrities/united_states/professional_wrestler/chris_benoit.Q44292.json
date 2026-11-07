@@ -1,0 +1,32 @@
+{
+  "publicId": "a13a730d",
+  "wikipediaSlug": "Chris_Benoit",
+  "wikipediaId": "Q44292",
+  "name": "Chris Benoit",
+  "fullName": "Chris Benoit",
+  "profileSummary": "Christopher Michael Benoit was a Canadian professional wrestler who worked for various promotions during his 22-year career. Despite his accomplishments, he is more generally known for murdering his wife and youngest son before committing suicide in 2007.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Chris_Benoit_in_the_Ring.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Benoit",
+  "dateOfBirth": "1967-05-21",
+  "birthDateParsed": "1967-05-21",
+  "dateOfDeath": "2007-06-24",
+  "deathDateParsed": "2007-06-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "45.5033426",
+  "birthCoordinatesLng": "-73.5868411",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "Canadian football player"
+  ],
+  "qid": "Q44292",
+  "birthPlace": "Montreal",
+  "fetchedAt": "2026-07-31T03:26:45.359Z"
+}

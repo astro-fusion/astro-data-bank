@@ -1,0 +1,41 @@
+{
+  "publicId": "e01de89e",
+  "wikipediaSlug": "George_Clooney",
+  "wikipediaId": "Q23844",
+  "name": "George Clooney",
+  "fullName": "George Clooney",
+  "profileSummary": "George Timothy Clooney is an American actor and filmmaker. Known for his leading man roles on screen in both blockbuster and independent films, Clooney has received numerous accolades, including two Academy Awards, a BAFTA Award and four Golden Globe Awards as well as nominations for three Primetime Emmy Awards and a Tony Award. His honors include the Cecil B. DeMille Award in 2015, the Honorary César in 2017, the AFI Life Achievement Award in 2018, and the Kennedy Center Honor in 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg/330px-George_Clooney_Jay_Kelly-19_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Clooney",
+  "dateOfBirth": "1961-05-06",
+  "birthDateParsed": "1961-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.049722222",
+  "birthCoordinatesLng": "-84.458611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film producer",
+    "television actor",
+    "film actor",
+    "film director",
+    "screenwriter",
+    "writer",
+    "voice actor",
+    "actor",
+    "manufacturer",
+    "director",
+    "producer"
+  ],
+  "qid": "Q23844",
+  "birthPlace": "Lexington",
+  "fetchedAt": "2026-07-30T03:31:08.677Z"
+}

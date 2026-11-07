@@ -1,0 +1,30 @@
+{
+  "publicId": "489dadb8",
+  "wikipediaSlug": "David_Maisel",
+  "wikipediaId": "Q5237056",
+  "name": "David Maisel",
+  "fullName": "David Maisel",
+  "profileSummary": "David Maisel is an American film and Broadway producer, entertainment businessman and the architect of the self-financed and self-producing Marvel Studios. He is the executive producer of Iron Man, The Incredible Hulk, Iron Man 2, Thor, Captain America: The First Avenger, and The Angry Birds Movie. At the helm of Livent, Maisel won the Tony Award for Best Musical for the Broadway production Fosse.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/David_Maisel.jpg/330px-David_Maisel.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Maisel",
+  "dateOfBirth": "1901-01-01",
+  "birthDateParsed": "1901-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.075277777",
+  "birthCoordinatesLng": "-73.7825",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film producer",
+    "executive producer"
+  ],
+  "qid": "Q5237056",
+  "birthPlace": "Saratoga Springs",
+  "fetchedAt": "2026-07-30T00:41:54.772Z"
+}

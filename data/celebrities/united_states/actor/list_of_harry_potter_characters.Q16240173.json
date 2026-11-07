@@ -1,0 +1,31 @@
+{
+  "publicId": "8e84caf1",
+  "wikipediaSlug": "Alfie_McIlwain",
+  "wikipediaId": "Q16240173",
+  "name": "List of Harry Potter characters",
+  "fullName": "List of Harry Potter characters",
+  "profileSummary": "This is a list of notable characters found in the fictional universe of Harry Potter. Each character appears in at least one of the following works written, co-written or based on a story by J. K. Rowling:The seven original Harry Potter novels (1997–2007)\nThe three films in the Fantastic Beasts series (2016–2022)\nQuidditch Through the Ages (2001)\nThe Tales of Beedle the Bard (2008)\nHarry Potter and the Cursed Child (2016)\nShort Stories from Hogwarts of Power, Politics and Pesky Poltergeists (2016)\nShort Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies (2016)\nHogwarts: An Incomplete and Unreliable Guide (2016)\nThe Harry Potter prequel (2008)",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters",
+  "dateOfBirth": "1998-01-18",
+  "birthDateParsed": "1998-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.6",
+  "birthCoordinatesLng": "-2",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q16240173",
+  "birthPlace": "United Kingdom",
+  "fetchedAt": "2026-07-30T02:10:16.958Z"
+}

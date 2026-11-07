@@ -1,0 +1,34 @@
+{
+  "publicId": "7cf3c467",
+  "wikipediaSlug": "Eros_Vlahos",
+  "wikipediaId": "Q519555",
+  "name": "Eros Vlahos",
+  "fullName": "Eros Vlahos",
+  "profileSummary": "Eros Vlahos is an English actor and comedian. He is known for his roles as Cyril Gray in Nanny McPhee and the Big Bang (2010), Jake Farley in Summer in Transylvania (2010), and Lommy Greenhands in Game of Thrones. He also appeared in a recurring role on the television series Da Vinci's Demons, as Nico Machiavelli (2013–2015).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Eros_Vlahos_cropped.jpg/330px-Eros_Vlahos_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eros_Vlahos",
+  "dateOfBirth": "1995-01-13",
+  "birthDateParsed": "1995-01-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "comedian",
+    "film actor",
+    "film director"
+  ],
+  "qid": "Q519555",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:24:30.515Z"
+}

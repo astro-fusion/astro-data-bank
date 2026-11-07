@@ -1,0 +1,33 @@
+{
+  "publicId": "885aefbc",
+  "wikipediaSlug": "Derek_Deadman",
+  "wikipediaId": "Q2409879",
+  "name": "Derek Deadman",
+  "fullName": "Derek Deadman",
+  "profileSummary": "Derek Deadman was an English character actor who appeared in numerous British films and television series for 38 years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/8/85/Portrait_of_Derek_Deadman.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Derek_Deadman",
+  "dateOfBirth": "1940-03-11",
+  "birthDateParsed": "1940-03-11",
+  "dateOfDeath": "2014-11-22",
+  "deathDateParsed": "2014-11-22",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q2409879",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:10:27.965Z"
+}

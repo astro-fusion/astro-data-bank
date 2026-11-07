@@ -1,0 +1,38 @@
+{
+  "publicId": "c29abe2d",
+  "wikipediaSlug": "Sofía_Vergara",
+  "wikipediaId": "Q231911",
+  "name": "Sofía Vergara",
+  "fullName": "Sofía Vergara",
+  "profileSummary": "Sofía Margarita Vergara Vergara is a Colombian-American actress and television personality. She has received five nominations each at the Primetime Emmy Awards and the Golden Globe Awards. She is one of the highest-paid actresses in the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sof%C3%ADa_Vergara_2019_by_Glenn_Francis.jpg/330px-Sof%C3%ADa_Vergara_2019_by_Glenn_Francis.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sof%C3%ADa_Vergara",
+  "dateOfBirth": "1972-07-10",
+  "birthDateParsed": "1972-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.983333333",
+  "birthCoordinatesLng": "-74.801944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "film actor",
+    "television presenter",
+    "television actor",
+    "television producer",
+    "voice actor",
+    "actor",
+    "film producer"
+  ],
+  "qid": "Q231911",
+  "birthPlace": "Barranquilla",
+  "fetchedAt": "2026-07-30T03:31:41.275Z"
+}

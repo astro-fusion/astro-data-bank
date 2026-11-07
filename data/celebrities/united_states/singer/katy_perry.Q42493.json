@@ -1,0 +1,41 @@
+{
+  "publicId": "e048fa92",
+  "wikipediaSlug": "Katy_Perry",
+  "wikipediaId": "Q42493",
+  "name": "Katy Perry",
+  "fullName": "Katy Perry",
+  "profileSummary": "Katheryn Elizabeth Hudson, known professionally as Katy Perry, is an American singer, songwriter, and television personality. Known for her influence on pop music and her camp style, she has been dubbed the \"Queen of Camp\" by Vogue and Rolling Stone.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/KatyPerryWestminst111224_%2881_of_95%29_%2854206733094%29_%28cropped_2%29.jpg/330px-KatyPerryWestminst111224_%2881_of_95%29_%2854206733094%29_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Katy_Perry",
+  "dateOfBirth": "1984-10-25",
+  "birthDateParsed": "1984-10-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.425833333",
+  "birthCoordinatesLng": "-119.714166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "voice actor",
+    "dancer",
+    "businessperson",
+    "songwriter",
+    "entrepreneur",
+    "shoe designer",
+    "composer",
+    "pop singer",
+    "musician"
+  ],
+  "qid": "Q42493",
+  "birthPlace": "Santa Barbara",
+  "fetchedAt": "2026-07-30T15:26:51.378Z"
+}

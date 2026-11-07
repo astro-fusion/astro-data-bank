@@ -1,0 +1,40 @@
+{
+  "publicId": "7c8da970",
+  "wikipediaSlug": "Garth_Brooks",
+  "wikipediaId": "Q216288",
+  "name": "Garth Brooks",
+  "fullName": "Garth Brooks",
+  "profileSummary": "Troyal Garth Brooks is an American country singer and songwriter. His musical style blends traditional country with pop and rock elements, which has earned him his immense popularity, particularly in the United States, with success on the country music single and album charts, multi-platinum recordings and record-breaking live performances, while also crossing over into the mainstream pop arena.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Garth_Brooks_KCHD_2022.jpg/330px-Garth_Brooks_KCHD_2022.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Garth_Brooks",
+  "dateOfBirth": "1962-02-07",
+  "birthDateParsed": "1962-02-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "36.131388888",
+  "birthCoordinatesLng": "-95.937222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "musician",
+    "singer",
+    "poet",
+    "guitarist",
+    "film producer",
+    "music artist",
+    "actor",
+    "country musician",
+    "songwriter"
+  ],
+  "qid": "Q216288",
+  "birthPlace": "Tulsa",
+  "fetchedAt": "2026-07-30T13:08:29.492Z"
+}

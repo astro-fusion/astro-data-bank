@@ -1,0 +1,42 @@
+{
+  "publicId": "dc8aa19b",
+  "wikipediaSlug": "Bonnie_Wright",
+  "wikipediaId": "Q105466",
+  "name": "Bonnie Wright",
+  "fullName": "Bonnie Wright",
+  "profileSummary": "Bonnie Francesca Wright is an English actress, filmmaker, and environmental activist. She is best known for her role as Ginny Weasley in the Harry Potter film series.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bonnie_Wright_by_Gage_Skidmore.jpg/330px-Bonnie_Wright_by_Gage_Skidmore.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bonnie_Wright",
+  "dateOfBirth": "1991-02-17",
+  "birthDateParsed": "1991-02-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "child actor",
+    "film producer",
+    "film director",
+    "voice actor",
+    "screenwriter",
+    "model",
+    "film actor",
+    "director",
+    "manufacturer",
+    "author",
+    "YouTuber"
+  ],
+  "qid": "Q105466",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:10:27.293Z"
+}

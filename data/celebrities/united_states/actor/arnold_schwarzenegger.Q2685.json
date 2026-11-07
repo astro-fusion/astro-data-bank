@@ -1,0 +1,43 @@
+{
+  "publicId": "58dca62d",
+  "wikipediaSlug": "Arnold_Schwarzenegger",
+  "wikipediaId": "Q2685",
+  "name": "Arnold Schwarzenegger",
+  "fullName": "Arnold Schwarzenegger",
+  "profileSummary": "Arnold Alois Schwarzenegger is an Austrian and American actor, businessman, film producer, politician, and former professional bodybuilder who served as the 38th governor of California from 2003 to 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg/330px-Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+  "dateOfBirth": "1947-07-30",
+  "birthDateParsed": "1947-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.078333333",
+  "birthCoordinatesLng": "15.354166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "politician",
+    "film producer",
+    "film actor",
+    "entrepreneur",
+    "bodybuilder",
+    "autobiographer",
+    "businessperson",
+    "powerlifter",
+    "television actor",
+    "film director",
+    "television director",
+    "governor"
+  ],
+  "qid": "Q2685",
+  "birthPlace": "Thal",
+  "fetchedAt": "2026-07-30T03:31:09.772Z"
+}

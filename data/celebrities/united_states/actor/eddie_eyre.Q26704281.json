@@ -1,0 +1,32 @@
+{
+  "publicId": "f2c15ef2",
+  "wikipediaSlug": "Eddie_Eyre",
+  "wikipediaId": "Q26704281",
+  "name": "Eddie Eyre",
+  "fullName": "Eddie Eyre",
+  "profileSummary": "Eddie Eyre is a British actor who is known for his role as Josh Hemmings in the BBC soap opera EastEnders.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_Eyre",
+  "dateOfBirth": "1988-07-24",
+  "birthDateParsed": "1988-07-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q26704281",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-30T01:24:56.682Z"
+}

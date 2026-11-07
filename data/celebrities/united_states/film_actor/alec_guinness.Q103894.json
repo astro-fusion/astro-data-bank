@@ -1,0 +1,37 @@
+{
+  "publicId": "dd8a8064",
+  "wikipediaSlug": "Alec_Guinness",
+  "wikipediaId": "Q103894",
+  "name": "Alec Guinness",
+  "fullName": "Alec Guinness",
+  "profileSummary": "Sir Alec Guinness was an English actor. In the BFI listing of the 100 most important British films of the 20th century, he was the single most noted actor, represented across nine films—six in starring roles and three in supporting roles—including five directed by David Lean and four from Ealing Studios. His accolades include an Academy Award, a BAFTA, a Golden Globe, a Tony Award and a Volpi Cup. In 1959, he was knighted by Queen Elizabeth II for services to the arts. He received a star on the Hollywood Walk of Fame in 1960, the Academy Honorary Award for lifetime achievement in 1980 and the BAFTA Academy Fellowship Award in 1989.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sir_Alec_Guinness_Allan_Warren.jpg/330px-Sir_Alec_Guinness_Allan_Warren.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alec_Guinness",
+  "dateOfBirth": "1914-04-02",
+  "birthDateParsed": "1914-04-02",
+  "dateOfDeath": "2000-08-05",
+  "deathDateParsed": "2000-08-05",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5177",
+  "birthCoordinatesLng": "-0.147",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "autobiographer",
+    "character actor",
+    "screenwriter",
+    "stage actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q103894",
+  "birthPlace": "Marylebone",
+  "fetchedAt": "2026-07-30T03:31:07.979Z"
+}

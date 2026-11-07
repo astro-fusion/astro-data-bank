@@ -1,0 +1,33 @@
+{
+  "publicId": "0bf8fdbf",
+  "wikipediaSlug": "Hannah_John-Kamen",
+  "wikipediaId": "Q16232660",
+  "name": "Hannah John-Kamen",
+  "fullName": "Hannah John-Kamen",
+  "profileSummary": "Hannah Dominique John-Kamen is a British actress. She is known for her television roles in Black Mirror (2011–2016), Killjoys (2015–2019), Brave New World (2020), and Netflix miniseries The Stranger (2020), and has portrayed Ava Starr / Ghost in the Marvel Cinematic Universe. She has also starred in various films including SAS: Red Notice (2021), Resident Evil: Welcome to Raccoon City (2021) and Unwelcome (2023).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hannah_John-Kamen_Ant-Man_%26_The_Wasp_premiere.jpg/330px-Hannah_John-Kamen_Ant-Man_%26_The_Wasp_premiere.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannah_John-Kamen",
+  "dateOfBirth": "1989-09-07",
+  "birthDateParsed": "1989-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.7448",
+  "birthCoordinatesLng": "-0.431423",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q16232660",
+  "birthPlace": "Anlaby",
+  "fetchedAt": "2026-07-30T01:24:55.285Z"
+}

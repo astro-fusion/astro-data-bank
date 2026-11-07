@@ -1,0 +1,33 @@
+{
+  "publicId": "52b1f769",
+  "wikipediaSlug": "Alfred_Enoch",
+  "wikipediaId": "Q250250",
+  "name": "Alfred Enoch",
+  "fullName": "Alfred Enoch",
+  "profileSummary": "Alfred Lewis Enoch is an English actor, best known for playing Dean Thomas in the fantasy film series Harry Potter and Wes Gibbins in the legal thriller television series How to Get Away with Murder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/RoomNextDoorBFILFFRFH191024_%28123_of_159%29_%2854081391725%29_%28cropped%29.jpg/330px-RoomNextDoorBFILFFRFH191024_%28123_of_159%29_%2854081391725%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Enoch",
+  "dateOfBirth": "1988-12-02",
+  "birthDateParsed": "1988-12-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q250250",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:10:14.909Z"
+}

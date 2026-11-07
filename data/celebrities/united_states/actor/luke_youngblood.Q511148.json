@@ -1,0 +1,33 @@
+{
+  "publicId": "c042ae2b",
+  "wikipediaSlug": "Luke_Youngblood",
+  "wikipediaId": "Q511148",
+  "name": "Luke Youngblood",
+  "fullName": "Luke Youngblood",
+  "profileSummary": "Luke Youngblood is a British actor. He is known for playing Ben in The Story of Tracy Beaker, young Simba in The Lion King at several London venues, Lee Jordan in the Harry Potter film series, and Magnitude on the NBC comedy series Community. From 2015 to 2016, he played Sid in the ABC musical comedy series Galavant. Most recently, he played Everett Clopton in the 2023 video game Hogwarts Legacy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luke_Youngblood.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Luke_Youngblood",
+  "dateOfBirth": "1989-06-12",
+  "birthDateParsed": "1989-06-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q511148",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:12:06.387Z"
+}

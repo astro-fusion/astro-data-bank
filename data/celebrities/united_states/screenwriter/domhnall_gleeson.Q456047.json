@@ -1,0 +1,38 @@
+{
+  "publicId": "02c02bdf",
+  "wikipediaSlug": "Domhnall_Gleeson",
+  "wikipediaId": "Q456047",
+  "name": "Domhnall Gleeson",
+  "fullName": "Domhnall Gleeson",
+  "profileSummary": "Domhnall Gleeson is an Irish actor, screenwriter and producer. The son of actor Brendan Gleeson, he studied media arts at the Dublin Institute of Technology. He began his career by directing and writing short films, and garnered a Tony Award nomination in 2006 for his role in the Broadway production The Lieutenant of Inishmore. He had a supporting role in Never Let Me Go (2010) and became known to a wider audience for his portrayal of Bill Weasley in the Harry Potter film series (2010–2011).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Domhnall_Gleeson_-_Walk_of_Fame.jpg/330px-Domhnall_Gleeson_-_Walk_of_Fame.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Domhnall_Gleeson",
+  "dateOfBirth": "1983-05-12",
+  "birthDateParsed": "1983-05-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "writer",
+    "stage actor",
+    "film actor",
+    "actor",
+    "director",
+    "television actor",
+    "film director"
+  ],
+  "qid": "Q456047",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-07-30T02:10:54.313Z"
+}

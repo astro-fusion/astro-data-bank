@@ -1,0 +1,38 @@
+{
+  "publicId": "79f50721",
+  "wikipediaSlug": "Bad_Bunny",
+  "wikipediaId": "Q44333953",
+  "name": "Bad Bunny",
+  "fullName": "Bad Bunny",
+  "profileSummary": "Benito Antonio Martínez Ocasio, known professionally as Bad Bunny, is a Puerto Rican rapper, actor, singer-songwriter, and record producer. Dubbed the \"King of Latin Trap\", he is widely credited with helping Spanish-language rap reach mainstream global popularity and is considered one of the greatest Latino rappers of all time. Music critics have also noted Bad Bunny's role in broadening the international appeal of Latin urban music by incorporating elements of salsa, rock, and other Latin genres into his recordings.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/330px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bad_Bunny",
+  "dateOfBirth": "1994-03-10",
+  "birthDateParsed": "1994-03-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.383333333",
+  "birthCoordinatesLng": "-66.15",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rapper",
+    "singer",
+    "songwriter",
+    "record producer",
+    "actor",
+    "musician",
+    "lyricist",
+    "composer"
+  ],
+  "qid": "Q44333953",
+  "birthPlace": "Bayamón",
+  "fetchedAt": "2026-07-30T13:08:28.153Z"
+}

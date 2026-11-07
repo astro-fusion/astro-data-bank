@@ -1,0 +1,34 @@
+{
+  "publicId": "aafb6af9",
+  "wikipediaSlug": "Christian_Coulson",
+  "wikipediaId": "Q360046",
+  "name": "Christian Coulson",
+  "fullName": "Christian Coulson",
+  "profileSummary": "Christian Peter Coulson is an English actor known for playing young Tom Marvolo Riddle in the 2002 fantasy film Harry Potter and the Chamber of Secrets.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christian_Coulson2024.jpg/330px-Christian_Coulson2024.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Coulson",
+  "dateOfBirth": "1978-10-03",
+  "birthDateParsed": "1978-10-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.466666666",
+  "birthCoordinatesLng": "-2.233333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q360046",
+  "birthPlace": "Manchester",
+  "fetchedAt": "2026-07-30T02:10:31.371Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "f4962465",
+  "wikipediaSlug": "Ian_McElhinney",
+  "wikipediaId": "Q5982285",
+  "name": "Ian McElhinney",
+  "fullName": "Ian McElhinney",
+  "profileSummary": "Ian McElhinney is a Northern Irish actor and director. He has appeared in many television series in a career spanning more than forty years; notable appearances include Taggart, Hornblower, Cold Feet, and The Tudors. In recent times, his best known roles are as Barristan Selmy in Game of Thrones, Morgan Monroe in The Fall, and Granda Joe in Derry Girls.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ian_McElhinney_%28cropped%29.jpg/330px-Ian_McElhinney_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ian_McElhinney",
+  "dateOfBirth": "1948-08-19",
+  "birthDateParsed": "1948-08-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "54.596666666",
+  "birthCoordinatesLng": "-5.93",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "theatre director"
+  ],
+  "qid": "Q5982285",
+  "birthPlace": "Belfast",
+  "fetchedAt": "2026-07-30T01:25:00.951Z"
+}

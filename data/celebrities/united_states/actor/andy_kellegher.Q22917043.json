@@ -1,0 +1,32 @@
+{
+  "publicId": "51ea7695",
+  "wikipediaSlug": "Andy_Kellegher",
+  "wikipediaId": "Q22917043",
+  "name": "Andy Kellegher",
+  "fullName": "Andy Kellegher",
+  "profileSummary": "\nAndy Kellegher is an Irish actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Kellegher",
+  "dateOfBirth": null,
+  "birthDateParsed": null,
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q22917043",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-30T01:23:38.053Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "08372bb1",
+  "wikipediaSlug": "Randi_Zuckerberg",
+  "wikipediaId": "Q292708",
+  "name": "Randi Zuckerberg",
+  "fullName": "Randi Zuckerberg",
+  "profileSummary": "Randi Jayne Zuckerberg is an American businesswoman. She is the former director of market development and spokesperson for Facebook, and a sister of the company's co-founder and CEO Mark Zuckerberg. She currently hosts Randi Zuckerberg Means Business on SiriusXM on Wednesdays.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Randi_Zuckerberg_WEF_2012_%28cropped%29.jpg/330px-Randi_Zuckerberg_WEF_2012_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Randi_Zuckerberg",
+  "dateOfBirth": "1982-02-28",
+  "birthDateParsed": "1982-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.429166666",
+  "birthCoordinatesLng": "-122.138055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "writer",
+    "author"
+  ],
+  "qid": "Q292708",
+  "birthPlace": "Palo Alto",
+  "fetchedAt": "2026-07-30T15:27:18.176Z"
+}

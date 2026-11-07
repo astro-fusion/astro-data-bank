@@ -1,0 +1,32 @@
+{
+  "publicId": "a7148bc0",
+  "wikipediaSlug": "Karol_G",
+  "wikipediaId": "Q22001324",
+  "name": "Karol G",
+  "fullName": "Karol G",
+  "profileSummary": "Carolina Giraldo Navarro, known professionally as Karol G, is a Colombian singer and songwriter. Considered one of the most influential reggaeton and urban pop artists, she has received awards including a Grammy, eight Latin Grammy Awards and five Billboard Music Awards. She was recognised as Woman of the Year and with a Rulebreaker Award at Billboard Women in Music, with the Spirit of Hope Award at the Billboard Latin Music Awards, and has eleven Guinness World Records.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg/330px-2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karol_G",
+  "dateOfBirth": "1991-02-14",
+  "birthDateParsed": "1991-02-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "6.250200154",
+  "birthCoordinatesLng": "-75.5675845",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer"
+  ],
+  "qid": "Q22001324",
+  "birthPlace": "Medellín",
+  "fetchedAt": "2026-07-30T16:46:25.240Z"
+}

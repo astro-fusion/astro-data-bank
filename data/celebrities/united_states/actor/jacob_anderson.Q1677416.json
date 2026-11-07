@@ -1,0 +1,36 @@
+{
+  "publicId": "4ef9a269",
+  "wikipediaSlug": "Jacob_Anderson",
+  "wikipediaId": "Q1677416",
+  "name": "Jacob Anderson",
+  "fullName": "Jacob Anderson",
+  "profileSummary": "Jacob Basil Anderson is a British actor and musician. As an actor, he is known for his roles as Grey Worm in Game of Thrones (2013–19), Louis de Pointe du Lac in Anne Rice's Interview with the Vampire (2022–present), his recurring roles in Episodes (2012) and Broadchurch (2013), and the thirteenth series of the revival of Doctor Who (2021–22). As a musician, he uses the alias Raleigh Ritchie ; his debut album, You're a Man Now, Boy, is a soul and trip hop album that was released in 2016 to positive reviews. Anderson's second studio album, Andy, was released in 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Jacob_Anderson_at_San_Diego_Comic_Con_2026.jpg/330px-Jacob_Anderson_at_San_Diego_Comic_Con_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Anderson",
+  "dateOfBirth": "1990-06-18",
+  "birthDateParsed": "1990-06-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer-songwriter",
+    "film actor",
+    "singer",
+    "television actor",
+    "musician"
+  ],
+  "qid": "Q1677416",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:24:58.104Z"
+}

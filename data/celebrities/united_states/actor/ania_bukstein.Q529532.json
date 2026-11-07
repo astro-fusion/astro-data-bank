@@ -1,0 +1,37 @@
+{
+  "publicId": "4d233e17",
+  "wikipediaSlug": "Ania_Bukstein",
+  "wikipediaId": "Q529532",
+  "name": "Ania Bukstein",
+  "fullName": "Ania Bukstein",
+  "profileSummary": "Ania Bukstein is an Israeli actress, singer and pianist, performing in Hebrew, Russian, French, and English.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ania_Bukstein_.jpg/330px-Ania_Bukstein_.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ania_Bukstein",
+  "dateOfBirth": "1982-06-07",
+  "birthDateParsed": "1982-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "dub actor",
+    "singer",
+    "stage actor",
+    "film actor",
+    "television actor",
+    "pianist"
+  ],
+  "qid": "Q529532",
+  "birthPlace": "Moscow",
+  "fetchedAt": "2026-07-30T01:23:20.930Z"
+}

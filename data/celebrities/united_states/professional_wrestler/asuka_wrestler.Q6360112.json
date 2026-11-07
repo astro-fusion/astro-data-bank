@@ -1,0 +1,31 @@
+{
+  "publicId": "d5869cfc",
+  "wikipediaSlug": "Asuka_(wrestler)",
+  "wikipediaId": "Q6360112",
+  "name": "Asuka (wrestler)",
+  "fullName": "Asuka (wrestler)",
+  "profileSummary": "Kanako Urai  is a Japanese professional wrestler. She has been signed to WWE since August 2015, where she performs on the Raw brand under the ring name Asuka . Previously known as Kana (華名), she started her professional wrestling career in 2004.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Asuka%2C_WrestleMania_XL.jpg/330px-Asuka%2C_WrestleMania_XL.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Asuka_(wrestler)",
+  "dateOfBirth": "1981-09-26",
+  "birthDateParsed": "1981-09-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.69375",
+  "birthCoordinatesLng": "135.502111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q6360112",
+  "birthPlace": "Osaka",
+  "fetchedAt": "2026-07-31T03:25:40.671Z"
+}

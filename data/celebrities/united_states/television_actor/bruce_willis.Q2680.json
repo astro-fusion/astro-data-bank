@@ -1,0 +1,39 @@
+{
+  "publicId": "5e81ea79",
+  "wikipediaSlug": "Bruce_Willis",
+  "wikipediaId": "Q2680",
+  "name": "Bruce Willis",
+  "fullName": "Bruce Willis",
+  "profileSummary": "Walter Bruce Willis is a retired American actor. Widely recognized as a Hollywood icon of the action genre, he first achieved fame with a leading role on the comedy-drama series Moonlighting (1985–1989) and has appeared in over one hundred films, gaining widespread recognition as an action hero for his portrayal of John McClane in the Die Hard franchise (1988–2013).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/330px-Bruce_Willis_by_Gage_Skidmore_3.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Willis",
+  "dateOfBirth": "1955-03-19",
+  "birthDateParsed": "1955-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "49.701944444",
+  "birthCoordinatesLng": "7.325277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor",
+    "voice actor",
+    "executive producer",
+    "film producer",
+    "screenwriter",
+    "singer",
+    "musician"
+  ],
+  "qid": "Q2680",
+  "birthPlace": "Idar-Oberstein",
+  "fetchedAt": "2026-07-30T03:30:58.358Z"
+}

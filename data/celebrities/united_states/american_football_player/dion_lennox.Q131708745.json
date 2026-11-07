@@ -1,0 +1,32 @@
+{
+  "publicId": "491dbaa0",
+  "wikipediaSlug": "Dion_Lennox",
+  "wikipediaId": "Q131708745",
+  "name": "Dion Lennox",
+  "fullName": "Dion Lennox",
+  "profileSummary": "Andrzej Hughes-Murray is an American professional wrestler and former football player. He is signed to WWE, where he performs on the NXT brand under the ring name Dion Lennox and is the leader of the DarkState stable. Lennox is a former two-time NXT Tag Team Champion.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dion_Lennox",
+  "dateOfBirth": "1998-01-16",
+  "birthDateParsed": "1998-01-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "47.315",
+  "birthCoordinatesLng": "-122.34",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "American football player",
+    "wrestler"
+  ],
+  "qid": "Q131708745",
+  "birthPlace": "Federal Way",
+  "fetchedAt": "2026-07-31T03:27:07.795Z"
+}

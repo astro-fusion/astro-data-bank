@@ -1,0 +1,36 @@
+{
+  "publicId": "65ce3515",
+  "wikipediaSlug": "Brendan_Gleeson",
+  "wikipediaId": "Q206659",
+  "name": "Brendan Gleeson",
+  "fullName": "Brendan Gleeson",
+  "profileSummary": "Brendan Gleeson is an Irish actor. He has received various accolades, including a Primetime Emmy Award, two British Independent Film Awards and three IFTA Awards, along with nominations for an Academy Award, three BAFTA Awards and five Golden Globe Awards. In 2020, he was listed at number 18 on The Irish Times list of Ireland's greatest film actors. He is the father of actors Domhnall Gleeson and Brian Gleeson.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BansheesBFI131022_%2811_of_22%29_%2852448245670%29_%28Brendan_Gleeson%29.jpg/330px-BansheesBFI131022_%2811_of_22%29_%2852448245670%29_%28Brendan_Gleeson%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brendan_Gleeson",
+  "dateOfBirth": "1955-03-29",
+  "birthDateParsed": "1955-03-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "character actor",
+    "stage actor",
+    "film actor",
+    "television actor",
+    "screenwriter"
+  ],
+  "qid": "Q206659",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-07-30T02:10:29.246Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "9314c2d1",
+  "wikipediaSlug": "Clive_Mantle",
+  "wikipediaId": "Q434869",
+  "name": "Clive Mantle",
+  "fullName": "Clive Mantle",
+  "profileSummary": "Clive Andrew Mantle is an English actor. He played general surgeon Mike Barratt in the BBC hospital drama series Casualty and Holby City in the 1990s, and Little John in the 1980s fantasy series Robin of Sherwood. He returned to Casualty in 2016 as Mike Barratt for the show's 30th anniversary.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Clive_Mantle_%28cropped%29.jpg/330px-Clive_Mantle_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clive_Mantle",
+  "dateOfBirth": "1957-06-03",
+  "birthDateParsed": "1957-06-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.6444",
+  "birthCoordinatesLng": "-0.1997",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q434869",
+  "birthPlace": "Barnet",
+  "fetchedAt": "2026-07-30T01:24:19.714Z"
+}

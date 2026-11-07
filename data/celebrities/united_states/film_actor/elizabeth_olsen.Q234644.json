@@ -1,0 +1,31 @@
+{
+  "publicId": "05b4e345",
+  "wikipediaSlug": "Elizabeth_Olsen",
+  "wikipediaId": "Q234644",
+  "name": "Elizabeth Olsen",
+  "fullName": "Elizabeth Olsen",
+  "profileSummary": "Elizabeth Chase Olsen is an American actress. She gained worldwide recognition for her portrayal of Wanda Maximoff / Scarlet Witch in the Marvel Cinematic Universe since 2014, with her performance in the miniseries WandaVision (2021) earning her nominations for a Primetime Emmy Award and a Golden Globe Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Elizabeth_Olsen_-_Los_Angeles_Comic_Con_2025.jpg/330px-Elizabeth_Olsen_-_Los_Angeles_Comic_Con_2025.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Olsen",
+  "dateOfBirth": "1989-02-16",
+  "birthDateParsed": "1989-02-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.151111111",
+  "birthCoordinatesLng": "-118.448333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q234644",
+  "birthPlace": "Sherman Oaks",
+  "fetchedAt": "2026-07-30T00:41:46.305Z"
+}

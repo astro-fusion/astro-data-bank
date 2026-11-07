@@ -1,0 +1,38 @@
+{
+  "publicId": "8af5e658",
+  "wikipediaSlug": "Nicki_Minaj",
+  "wikipediaId": "Q162202",
+  "name": "Nicki Minaj",
+  "fullName": "Nicki Minaj",
+  "profileSummary": "Onika Tanya Maraj-Petty, known professionally as Nicki Minaj, is a Trinidadian-American rapper, singer, and songwriter. Dubbed the \"Queen of Rap\" and one of the most influential rappers of all time, she is noted for her dynamic rap flow, witty lyrics, musical versatility, and alter egos, and is credited as a driving force in the mainstream resurgence of female rap since the 2010s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nicki_Minaj_2025_%283x4_cropped%29.jpg/330px-Nicki_Minaj_2025_%283x4_cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicki_Minaj",
+  "dateOfBirth": "1982-12-08",
+  "birthDateParsed": "1982-12-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.6736",
+  "birthCoordinatesLng": "-61.5338",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rapper",
+    "singer",
+    "songwriter",
+    "lyricist",
+    "composer",
+    "musician",
+    "actor",
+    "waiter"
+  ],
+  "qid": "Q162202",
+  "birthPlace": "Saint James",
+  "fetchedAt": "2026-07-30T07:26:05.376Z"
+}

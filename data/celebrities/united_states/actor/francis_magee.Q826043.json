@@ -1,0 +1,32 @@
+{
+  "publicId": "f6d7e0be",
+  "wikipediaSlug": "Francis_Magee",
+  "wikipediaId": "Q826043",
+  "name": "Francis Magee",
+  "fullName": "Francis Magee",
+  "profileSummary": "Francis Magee is an Irish actor. He portrayed Liam Tyler in British soap opera EastEnders from 1993 to 1995. He has also appeared in numerous television shows and feature films, including The Calling (2000), Layer Cake (2004), Sahara (2005), No Angels (2004-2006), City of Vice (2008), 1066 The Battle for Middle Earth (2009), \"Men Against Fire\", an episode of Black Mirror (2016), Into the Badlands and Absentia, White Lines (2020), and Kin (2022–2023).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Magee",
+  "dateOfBirth": "1969-06-07",
+  "birthDateParsed": "1969-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q826043",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-07-30T01:23:50.970Z"
+}

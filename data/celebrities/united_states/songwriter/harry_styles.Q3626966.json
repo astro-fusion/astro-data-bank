@@ -1,0 +1,39 @@
+{
+  "publicId": "368a017a",
+  "wikipediaSlug": "Harry_Styles",
+  "wikipediaId": "Q3626966",
+  "name": "Harry Styles",
+  "fullName": "Harry Styles",
+  "profileSummary": "Harry Edward Styles is an English singer, songwriter, and actor. An influential figure in popular culture, he is known for his showmanship, artistry, and flamboyant fashion. Styles's musical career began in 2010 as part of One Direction, a boy band formed on the British music competition series The X Factor after each member of the band had been eliminated from the solo contest. They became one of the best-selling boy bands of all time before going on an indefinite hiatus in 2016. Styles released his eponymous debut solo album through Erskine and Columbia Records in 2017, which was led by the UK number-one single \"Sign of the Times\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg/330px-HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Styles",
+  "dateOfBirth": "1994-02-01",
+  "birthDateParsed": "1994-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.306944444",
+  "birthCoordinatesLng": "-1.949166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "songwriter",
+    "actor",
+    "film actor",
+    "guitarist",
+    "singer-songwriter",
+    "humanitarian",
+    "activist",
+    "pop singer",
+    "musician"
+  ],
+  "qid": "Q3626966",
+  "birthPlace": "Redditch",
+  "fetchedAt": "2026-07-30T13:08:38.213Z"
+}

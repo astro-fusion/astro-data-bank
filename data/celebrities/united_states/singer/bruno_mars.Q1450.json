@@ -1,0 +1,38 @@
+{
+  "publicId": "1c7e1e6c",
+  "wikipediaSlug": "Bruno_Mars",
+  "wikipediaId": "Q1450",
+  "name": "Bruno Mars",
+  "fullName": "Bruno Mars",
+  "profileSummary": "Peter Gene Hernandez, known professionally as Bruno Mars, is an American singer-songwriter, record producer and dancer. Regarded as a pop icon, he is known for his three-octave tenor vocal range, live performances, retro showmanship, and musical versatility. He is accompanied by his band, the Hooligans. Raised in Honolulu, Mars gained recognition in Hawaii as a child for his impersonation of Elvis Presley, before moving to Los Angeles in 2003 to pursue a musical career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/330px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Mars",
+  "dateOfBirth": "1985-10-08",
+  "birthDateParsed": "1985-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.304722222",
+  "birthCoordinatesLng": "-157.857222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "record producer",
+    "multi-instrumentalist",
+    "dancer",
+    "pop musician",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q1450",
+  "birthPlace": "Honolulu",
+  "fetchedAt": "2026-07-30T13:08:28.814Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "91af0c1d",
+  "wikipediaSlug": "Nick_Clegg",
+  "wikipediaId": "Q189947",
+  "name": "Nick Clegg",
+  "fullName": "Nick Clegg",
+  "profileSummary": "Sir Nicholas William Peter Clegg is a British retired politician and media executive who served as Deputy Prime Minister of the United Kingdom from 2010 to 2015 and as Leader of the Liberal Democrats from 2007 to 2015. He was Member of Parliament (MP) for Sheffield Hallam from 2005 to 2017. An \"Orange Book\" liberal, he has been associated with both socially liberal and economically liberal policies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/UK_Government_hosts_AI_Summit_at_Bletchley_Park_%2853304834396%29_%28cropped%29.jpg/330px-UK_Government_hosts_AI_Summit_at_Bletchley_Park_%2853304834396%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nick_Clegg",
+  "dateOfBirth": "1967-01-07",
+  "birthDateParsed": "1967-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.632",
+  "birthCoordinatesLng": "-0.576",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "communicator"
+  ],
+  "qid": "Q189947",
+  "birthPlace": "Chalfont St Giles",
+  "fetchedAt": "2026-07-30T15:27:26.057Z"
+}

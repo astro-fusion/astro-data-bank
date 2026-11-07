@@ -1,0 +1,41 @@
+{
+  "publicId": "38f0045b",
+  "wikipediaSlug": "John_Cleese",
+  "wikipediaId": "Q25014",
+  "name": "John Cleese",
+  "fullName": "John Cleese",
+  "profileSummary": "John Marwood Cleese is an English actor, comedian, screenwriter, producer, and television presenter. Emerging from the Cambridge Footlights in the 1960s, he first achieved success at the Edinburgh Festival Fringe and as a scriptwriter and performer on The Frost Report. In the late 1960s, he cofounded Monty Python, the comedy troupe responsible for the surreal sketch comedy series Monty Python's Flying Circus. Along with his Python costars Graham Chapman, Terry Gilliam, Eric Idle, Terry Jones and Michael Palin, Cleese starred in the films Monty Python and the Holy Grail (1975), Life of Brian (1979), and The Meaning of Life (1983).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/John_Cleese_%2855268018069%29.jpg/330px-John_Cleese_%2855268018069%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Cleese",
+  "dateOfBirth": "1939-10-27",
+  "birthDateParsed": "1939-10-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.347777777",
+  "birthCoordinatesLng": "-2.978055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "comedian",
+    "voice actor",
+    "screenwriter",
+    "writer",
+    "film producer",
+    "autobiographer",
+    "stage actor",
+    "film director"
+  ],
+  "qid": "Q25014",
+  "birthPlace": "Weston-super-Mare",
+  "fetchedAt": "2026-07-30T02:11:29.796Z"
+}

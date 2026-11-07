@@ -1,0 +1,38 @@
+{
+  "publicId": "be0a6f8c",
+  "wikipediaSlug": "Leslie_Phillips",
+  "wikipediaId": "Q710142",
+  "name": "Leslie Phillips",
+  "fullName": "Leslie Phillips",
+  "profileSummary": "Leslie Samuel Phillips was an English actor. He achieved prominence in the 1950s, playing smooth, upper-class comic roles utilising his \"Ding dong\" and \"Hello\" catchphrases. He appeared in the Carry On and Doctor in the House film series as well as the long-running BBC radio comedy series The Navy Lark. On the stage, Phillips was nominated for the Laurence Olivier Award for Best Comedy Performance in 1977. In his later career, Phillips took on dramatic parts including a BAFTA-nominated role alongside Peter O'Toole in Venus (2006). He provided the voice of the Sorting Hat in three of the Harry Potter films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LesliePhillipsBAFTA07_crop.jpg/330px-LesliePhillipsBAFTA07_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leslie_Phillips",
+  "dateOfBirth": "1924-04-20",
+  "birthDateParsed": "1924-04-20",
+  "dateOfDeath": "2022-11-07",
+  "deathDateParsed": "2022-11-07",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5975",
+  "birthCoordinatesLng": "-0.068055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "writer",
+    "stage actor",
+    "film actor",
+    "film producer",
+    "television actor",
+    "autobiographer"
+  ],
+  "qid": "Q710142",
+  "birthPlace": "Tottenham",
+  "fetchedAt": "2026-07-30T02:11:56.996Z"
+}

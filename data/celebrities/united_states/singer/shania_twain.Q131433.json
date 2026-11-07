@@ -1,0 +1,36 @@
+{
+  "publicId": "0e74763c",
+  "wikipediaSlug": "Shania_Twain",
+  "wikipediaId": "Q131433",
+  "name": "Shania Twain",
+  "fullName": "Shania Twain",
+  "profileSummary": "Eilleen Regina \"Shania\" Twain is a Canadian singer and songwriter. She has sold more than 100 million records, making her one of the best-selling music artists of all time and the best-selling female artist in country music history. She received several titles including the \"Queen of Country Pop\". Billboard named her as the leader of the 1990s country pop crossover stars.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Shania_Twain_Glaston2024_2806_300624_%2822_of_173%29_%2853838020769%29_%28cropped%29.jpg/330px-Shania_Twain_Glaston2024_2806_300624_%2822_of_173%29_%2853838020769%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shania_Twain",
+  "dateOfBirth": "1965-08-28",
+  "birthDateParsed": "1965-08-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.31729",
+  "birthCoordinatesLng": "-83.03526",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "singer-songwriter",
+    "composer",
+    "songwriter",
+    "recording artist",
+    "musician"
+  ],
+  "qid": "Q131433",
+  "birthPlace": "Windsor",
+  "fetchedAt": "2026-07-30T07:26:12.130Z"
+}

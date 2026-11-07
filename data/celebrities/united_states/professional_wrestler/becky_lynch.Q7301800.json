@@ -1,0 +1,33 @@
+{
+  "publicId": "ffa096b9",
+  "wikipediaSlug": "Becky_Lynch",
+  "wikipediaId": "Q7301800",
+  "name": "Becky Lynch",
+  "fullName": "Becky Lynch",
+  "profileSummary": "Rebecca Quin, better known by the ring name Becky Lynch, is an Irish professional wrestler. She has been signed to WWE since April 2013, where she performs on the Raw brand.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Becky_Lynch_Galaxycon.jpg/330px-Becky_Lynch_Galaxycon.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Becky_Lynch",
+  "dateOfBirth": "1987-01-30",
+  "birthDateParsed": "1987-01-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.6653",
+  "birthCoordinatesLng": "-8.6238",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "actor",
+    "stunt performer"
+  ],
+  "qid": "Q7301800",
+  "birthPlace": "Limerick",
+  "fetchedAt": "2026-07-31T03:26:12.080Z"
+}

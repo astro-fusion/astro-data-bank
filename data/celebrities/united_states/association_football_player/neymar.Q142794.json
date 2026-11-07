@@ -1,0 +1,31 @@
+{
+  "publicId": "b975a816",
+  "wikipediaSlug": "Neymar",
+  "wikipediaId": "Q142794",
+  "name": "Neymar",
+  "fullName": "Neymar",
+  "profileSummary": "Neymar da Silva Santos Júnior, known mononymously as Neymar, is a Brazilian professional footballer who plays as an attacking midfielder or a forward for Campeonato Brasileiro Série A club Santos. Known for his dribbling, technical ability, passing, and finishing, he is widely regarded as one of the greatest players of all time. A goalscorer and playmaker, he is both the all-time top goalscorer (80) and assist provider (59) for the Brazil national team and both the all-time Brazilian top goalscorer (43) and assist provider (33) in the UEFA Champions League. He is one of only five players to have scored 100 goals with three different clubs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg/330px-Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Neymar",
+  "dateOfBirth": "1992-02-05",
+  "birthDateParsed": "1992-02-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.522777777",
+  "birthCoordinatesLng": "-46.193055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q142794",
+  "birthPlace": "Mogi das Cruzes",
+  "fetchedAt": "2026-07-30T16:46:25.933Z"
+}

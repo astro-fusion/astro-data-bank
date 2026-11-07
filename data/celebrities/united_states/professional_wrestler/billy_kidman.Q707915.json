@@ -1,0 +1,32 @@
+{
+  "publicId": "27315015",
+  "wikipediaSlug": "Billy_Kidman",
+  "wikipediaId": "Q707915",
+  "name": "Billy Kidman",
+  "fullName": "Billy Kidman",
+  "profileSummary": "Peter Alan Gruner Jr. is an American retired professional wrestler, better known by his ring name Billy Kidman. He works for WWE, where he is a producer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Billy_Kidman_2007_crop.jpg/330px-Billy_Kidman_2007_crop.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Kidman",
+  "dateOfBirth": "1974-05-11",
+  "birthDateParsed": "1974-05-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.6",
+  "birthCoordinatesLng": "-75.483333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "amateur wrestler"
+  ],
+  "qid": "Q707915",
+  "birthPlace": "Allentown",
+  "fetchedAt": "2026-07-31T03:26:12.681Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "0a865842",
+  "wikipediaSlug": "Anthony_Mackie",
+  "wikipediaId": "Q511554",
+  "name": "Anthony Mackie",
+  "fullName": "Anthony Mackie",
+  "profileSummary": "Anthony Dwane Mackie is an American actor. He gained wide recognition for portraying Sam Wilson / Falcon in the Marvel Cinematic Universe, beginning with Captain America: The Winter Soldier (2014) and including the miniseries The Falcon and the Winter Soldier (2021) and the film Captain America: Brave New World (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anthony_Mackie_on_the_Green_Carpet_at_the_2025_Zurich_Film_Festival_03_%28cropped%29.jpg/330px-Anthony_Mackie_on_the_Green_Carpet_at_the_2025_Zurich_Film_Festival_03_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Mackie",
+  "dateOfBirth": "1978-09-23",
+  "birthDateParsed": "1978-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.976111111",
+  "birthCoordinatesLng": "-90.078333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "television actor",
+    "screenwriter",
+    "actor"
+  ],
+  "qid": "Q511554",
+  "birthPlace": "New Orleans",
+  "fetchedAt": "2026-07-30T00:40:17.655Z"
+}

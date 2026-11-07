@@ -1,0 +1,43 @@
+{
+  "publicId": "a521a237",
+  "wikipediaSlug": "Jay-Z",
+  "wikipediaId": "Q62766",
+  "name": "Jay-Z",
+  "fullName": "Jay-Z",
+  "profileSummary": "Shawn Corey Carter, known professionally as Jay-Z, is an American rapper, businessman, and record executive. In 2023, Billboard and Vibe ranked him as the greatest rapper of all time. Rooted in East Coast hip-hop, Jay-Z is known for his complex lyricism that often uses double entendres, wordplay, and braggadocio. His music is built on a rags to riches narrative. According to Forbes, he is the wealthiest music artist in history, worth an estimated US$2.8 billion as of 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jay-Z_meets_with_New_York_Senate_Majority_Leader_in_Albany_%28cropped%29.webp/330px-Jay-Z_meets_with_New_York_Senate_Majority_Leader_in_Albany_%28cropped%29.webp.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jay-Z",
+  "dateOfBirth": "1969-12-04",
+  "birthDateParsed": "1969-12-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rapper",
+    "songwriter",
+    "record producer",
+    "music executive",
+    "businessperson",
+    "media proprietor",
+    "actor",
+    "entrepreneur",
+    "philanthropist",
+    "film actor",
+    "investor",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q62766",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-07-30T07:25:16.626Z"
+}

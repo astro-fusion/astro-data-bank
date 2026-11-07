@@ -1,0 +1,30 @@
+{
+  "publicId": "2e194a32",
+  "wikipediaSlug": "Vin_Diesel",
+  "wikipediaId": "Q178166",
+  "name": "Vin Diesel",
+  "fullName": "Vin Diesel",
+  "profileSummary": "Mark Sinclair Vincent, known professionally as Vin Diesel, is an American actor and filmmaker. One of the world's highest-grossing actors, he gained prominence for portraying Dominic \"Dom\" Toretto in the Fast & Furious franchise.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vin_Diesel_by_Gage_Skidmore_2.jpg/330px-Vin_Diesel_by_Gage_Skidmore_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vin_Diesel",
+  "dateOfBirth": "1967-07-18",
+  "birthDateParsed": "1967-07-18",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "37.65",
+  "birthCoordinatesLng": "-121.91",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "film director",
+    "film producer",
+    "screenwriter",
+    "voice actor",
+    "stage actor",
+    "stunt performer",
+    "actor"
+  ],
+  "qid": "Q178166",
+  "birthPlace": "Alameda County",
+  "fetchedAt": "2026-07-29T15:24:17.649Z"
+}

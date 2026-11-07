@@ -1,0 +1,35 @@
+{
+  "publicId": "39b7405e",
+  "wikipediaSlug": "Burn_Gorman",
+  "wikipediaId": "Q981821",
+  "name": "Burn Gorman",
+  "fullName": "Burn Gorman",
+  "profileSummary": "Burn Hugh Gorman is an American-born, English actor. He is known for his television roles as Owen Harper in the BBC series Torchwood (2006–2008), Karl Tanner in the HBO series Game of Thrones (2013–14), Major Edmund Hewlett in the AMC series Turn: Washington's Spies (2014–2017), 'The Marshal' in the Prime Video series The Man in the High Castle (2015), and Adolphus Murtry in Prime Video series The Expanse (2019). His film roles include Phillip Stryver in Christopher Nolan’s The Dark Knight Rises (2012), Hermann Gottlieb in Guillermo del Toro’s Pacific Rim (2013) and its sequel Pacific Rim: Uprising (2018), Commander Hoff in The Hunger Games: The Ballad of Songbirds and Snakes, and Father Damien in Tim Burton's Beetlejuice Beetlejuice (2024).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burn_Gorman_2.jpg/330px-Burn_Gorman_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Burn_Gorman",
+  "dateOfBirth": "1974-09-01",
+  "birthDateParsed": "1974-09-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.098333333",
+  "birthCoordinatesLng": "-118.326666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "stage actor",
+    "film actor",
+    "musician"
+  ],
+  "qid": "Q981821",
+  "birthPlace": "Hollywood",
+  "fetchedAt": "2026-07-30T01:24:03.945Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "fdcfa716",
+  "wikipediaSlug": "Emun_Elliott",
+  "wikipediaId": "Q5374888",
+  "name": "Emun Elliott",
+  "fullName": "Emun Elliott",
+  "profileSummary": "Emun Elliott is a Scottish actor, known for portraying Dr. Christian King in Paradox, Richie in Threesome, John Moray in The Paradise, Kenny in Guilt, and Tony Brightwell in The Gold.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Emun_Elliot_2017.jpg/330px-Emun_Elliot_2017.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emun_Elliott",
+  "dateOfBirth": "1983-11-28",
+  "birthDateParsed": "1983-11-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "55.953333333",
+  "birthCoordinatesLng": "-3.189166666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q5374888",
+  "birthPlace": "Edinburgh",
+  "fetchedAt": "2026-07-30T01:24:02.402Z"
+}

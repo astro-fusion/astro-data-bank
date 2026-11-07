@@ -1,0 +1,35 @@
+{
+  "publicId": "ed256c05",
+  "wikipediaSlug": "CM_Punk",
+  "wikipediaId": "Q215447",
+  "name": "CM Punk",
+  "fullName": "CM Punk",
+  "profileSummary": "Phillip Jack Brooks, better known by his ring name CM Punk, is an American professional wrestler and actor. As of November 2023, he is signed to WWE, where he performs on the SmackDown brand and is the current Undisputed WWE Champion in his third reign. Brooks is known for his outspoken and confrontational straight edge persona, which is based on his real-life experiences. His second reign of 434 days with the WWE Championship is the 11th-longest world title reign in WWE history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CM_Punk_at_San_Diego_Comic_Con_2026.jpg/330px-CM_Punk_at_San_Diego_Comic_Con_2026.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/CM_Punk",
+  "dateOfBirth": "1978-10-26",
+  "birthDateParsed": "1978-10-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "professional wrestler",
+    "actor",
+    "mixed martial arts fighter",
+    "comics writer"
+  ],
+  "qid": "Q215447",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-07-31T03:25:52.591Z"
+}

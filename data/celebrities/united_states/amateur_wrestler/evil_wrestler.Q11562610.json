@@ -1,0 +1,32 @@
+{
+  "publicId": "dfcd743c",
+  "wikipediaSlug": "Evil_(wrestler)",
+  "wikipediaId": "Q11562610",
+  "name": "Evil (wrestler)",
+  "fullName": "Evil (wrestler)",
+  "profileSummary": "Takaaki Watanabe  is a Japanese professional wrestler. He is signed to WWE, where he performs on the NXT brand under the ring name Naraku . He is best known for his tenure in New Japan Pro-Wrestling (NJPW), where he performed under the ring name Evil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/EVIL_%28wrestler%29_Nov_2021.jpg/330px-EVIL_%28wrestler%29_Nov_2021.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evil_(wrestler)",
+  "dateOfBirth": "1987-01-26",
+  "birthDateParsed": "1987-01-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.139444444",
+  "birthCoordinatesLng": "138.948888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "amateur wrestler",
+    "professional wrestler"
+  ],
+  "qid": "Q11562610",
+  "birthPlace": "Mishima",
+  "fetchedAt": "2026-07-31T03:26:57.004Z"
+}

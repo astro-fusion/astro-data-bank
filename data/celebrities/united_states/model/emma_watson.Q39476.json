@@ -1,0 +1,39 @@
+{
+  "publicId": "0e87aaa0",
+  "wikipediaSlug": "Emma_Watson",
+  "wikipediaId": "Q39476",
+  "name": "Emma Watson",
+  "fullName": "Emma Watson",
+  "profileSummary": "Emma Charlotte Duerre Watson is an English actress. In the 2010s, she was ranked among the world's highest-paid actresses by Forbes and Vanity Fair, and was named one of the 100 most influential people in the world by Time magazine in 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Emma_Watson_2013.jpg/330px-Emma_Watson_2013.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emma_Watson",
+  "dateOfBirth": "1990-04-15",
+  "birthDateParsed": "1990-04-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "film actor",
+    "stage actor",
+    "activist",
+    "child actor",
+    "voice actor",
+    "actor",
+    "fashion model",
+    "film director"
+  ],
+  "qid": "Q39476",
+  "birthPlace": "Paris",
+  "fetchedAt": "2026-07-30T02:10:28.509Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "01027321",
+  "wikipediaSlug": "Shakira",
+  "wikipediaId": "Q34424",
+  "name": "Shakira",
+  "fullName": "Shakira",
+  "profileSummary": "Shakira Isabel Mebarak Ripoll is a Colombian singer-songwriter, dancer, and record producer. Referred to as the \"Queen of Latin Music\", she has had a significant impact on the musical landscape of Latin America and has been credited with popularizing Hispanophone music globally, contributing to increased learning and use of the Spanish language worldwide. She is also credited with opening the doors of the international market for other Latin artists. Her accolades include four Grammy Awards and 15 Latin Grammy Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/330px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakira",
+  "dateOfBirth": "1977-02-02",
+  "birthDateParsed": "1977-02-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "10.983333333",
+  "birthCoordinatesLng": "-74.801944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "choreographer",
+    "guitarist",
+    "composer",
+    "philanthropist",
+    "manufacturer",
+    "voice actor",
+    "pop musician",
+    "musician"
+  ],
+  "qid": "Q34424",
+  "birthPlace": "Barranquilla",
+  "fetchedAt": "2026-07-30T16:46:42.005Z"
+}

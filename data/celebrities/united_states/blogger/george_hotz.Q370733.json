@@ -1,0 +1,34 @@
+{
+  "publicId": "a56bc2b4",
+  "wikipediaSlug": "George_Hotz",
+  "wikipediaId": "Q370733",
+  "name": "George Hotz",
+  "fullName": "George Hotz",
+  "profileSummary": "George Francis Hotz, known online by geohot, is an American security hacker, entrepreneur, and software engineer. He is known for developing iOS jailbreaks, reverse engineering the PlayStation 3, and for the subsequent lawsuit brought against him by Sony. From September 2015 until November 2025, he worked on his vehicle automation machine learning company comma.ai. Since November 2022, Hotz has been working on tinygrad, a deep learning framework.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/George_Hotz_at_TechCrunch_Disrupt.jpg/330px-George_Hotz_at_TechCrunch_Disrupt.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Hotz",
+  "dateOfBirth": "1989-10-02",
+  "birthDateParsed": "1989-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.961111111",
+  "birthCoordinatesLng": "-74.125833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "blogger",
+    "programmer",
+    "computer scientist",
+    "photographer"
+  ],
+  "qid": "Q370733",
+  "birthPlace": "Glen Rock",
+  "fetchedAt": "2026-07-30T15:26:54.538Z"
+}

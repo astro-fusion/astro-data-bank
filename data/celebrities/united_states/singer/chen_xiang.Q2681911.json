@@ -1,0 +1,33 @@
+{
+  "publicId": "fb45eee6",
+  "wikipediaSlug": "Chen_Xiang",
+  "wikipediaId": "Q2681911",
+  "name": "Chen Xiang",
+  "fullName": "Chen Xiang",
+  "profileSummary": "Chen Xiang, also known as Sean Chen, is a Chinese pop singer and actor. He participated in the nationwide singing contest Super Boy in 2010. In 2011, he released his first album Confession. He is also known for starring in the youth sports drama The Whirlwind Girl.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Xiang",
+  "dateOfBirth": "1989-01-01",
+  "birthDateParsed": "1989-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.58093",
+  "birthCoordinatesLng": "105.73115",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q2681911",
+  "birthPlace": "Tianshui",
+  "fetchedAt": "2026-07-30T16:45:55.647Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "84ed4901",
+  "wikipediaSlug": "Barry_Manilow",
+  "wikipediaId": "Q302762",
+  "name": "Barry Manilow",
+  "fullName": "Barry Manilow",
+  "profileSummary": "Barry Manilow is an American singer and songwriter with a career spanning over sixty years. His hit recordings include \"Could It Be Magic\", \"Looks Like We Made It\", \"Mandy\", \"I Write the Songs\", \"Ready to Take a Chance Again\", \"Can't Smile Without You\", \"Weekend in New England\", and \"Copacabana \".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BarryManilow-byPhilipRomano.jpg/330px-BarryManilow-byPhilipRomano.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Manilow",
+  "dateOfBirth": "1943-06-17",
+  "birthDateParsed": "1943-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.650833333",
+  "birthCoordinatesLng": "-73.949722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "singer-songwriter",
+    "composer",
+    "songwriter",
+    "pianist",
+    "lyricist",
+    "musician"
+  ],
+  "qid": "Q302762",
+  "birthPlace": "Brooklyn",
+  "fetchedAt": "2026-07-30T07:24:23.332Z"
+}

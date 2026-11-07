@@ -1,0 +1,42 @@
+{
+  "publicId": "61eee53d",
+  "wikipediaSlug": "Stevie_Wonder",
+  "wikipediaId": "Q714",
+  "name": "Stevie Wonder",
+  "fullName": "Stevie Wonder",
+  "profileSummary": "Stevland Hardaway Morris, known professionally as Stevie Wonder, is an American singer-songwriter, musician, and record producer. He is widely regarded as one of the most influential musicians of the 20th century, and is credited as a pioneer and influence by musicians across a range of genres that include R&B, pop, soul, gospel, funk, and jazz. A virtual one-man band during much of his peak years, Wonder's use of synthesizers and other electronic musical instruments in the 1970s reshaped the conventions of contemporary R&B. He also helped drive such genres into the album era, crafting his LPs as cohesive and consistent, in addition to socially conscious statements with complex compositions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SWonderBSTHyde060719-72_%28cropped%29.jpg/330px-SWonderBSTHyde060719-72_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stevie_Wonder",
+  "dateOfBirth": "1950-05-13",
+  "birthDateParsed": "1950-05-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "43.4199247",
+  "birthCoordinatesLng": "-83.9500261",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "record producer",
+    "singer",
+    "pianist",
+    "composer",
+    "recording artist",
+    "poet",
+    "vocalist",
+    "music arranger",
+    "drummer",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q714",
+  "birthPlace": "Saginaw",
+  "fetchedAt": "2026-07-30T07:26:13.657Z"
+}

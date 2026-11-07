@@ -1,0 +1,34 @@
+{
+  "publicId": "21671647",
+  "wikipediaSlug": "Frank_Dillane",
+  "wikipediaId": "Q943790",
+  "name": "Frank Dillane",
+  "fullName": "Frank Dillane",
+  "profileSummary": "Frank Stephenson Dillane is a British actor and musician. He is known for his roles as Nick Clark on Fear the Walking Dead (2015–2018) and 16-year-old Tom Riddle in the film Harry Potter and the Half-Blood Prince (2009). He also appeared as Henry Coffin in the film In the Heart of the Sea (2015). Dillane plays a recurring role in the 2022 gothic romance miniseries The Essex Serpent.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Frank_Dillane_by_Gage_Skidmore_3.jpg/330px-Frank_Dillane_by_Gage_Skidmore_3.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Dillane",
+  "dateOfBirth": "1991-04-21",
+  "birthDateParsed": "1991-04-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "musician",
+    "television actor"
+  ],
+  "qid": "Q943790",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:10:52.747Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "1debaad0",
+  "wikipediaSlug": "Carice_van_Houten",
+  "wikipediaId": "Q232384",
+  "name": "Carice van Houten",
+  "fullName": "Carice van Houten",
+  "profileSummary": "Carice Anouk van Houten is a Dutch actress. Her first leading role in the television film Suzy Q (1999) won her the Golden Calf for Best Acting in a Television Drama; two years later, she won the Golden Calf for Best Actress for Miss Minoes (2001).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Carice_van_Houten_at_the_2026_Berlin_International_Film_Festival-60396.jpg/330px-Carice_van_Houten_at_the_2026_Berlin_International_Film_Festival-60396.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carice_van_Houten",
+  "dateOfBirth": "1976-09-05",
+  "birthDateParsed": "1976-09-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.161666666",
+  "birthCoordinatesLng": "4.528333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "radio personality",
+    "television actor",
+    "film actor",
+    "singer",
+    "stage actor",
+    "writer",
+    "musician"
+  ],
+  "qid": "Q232384",
+  "birthPlace": "Leiderdorp",
+  "fetchedAt": "2026-07-30T01:24:17.590Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "8f2b05d4",
+  "wikipediaSlug": "Mel_Gibson",
+  "wikipediaId": "Q42229",
+  "name": "Mel Gibson",
+  "fullName": "Mel Gibson",
+  "profileSummary": "Mel Colm-Cille Gerard Gibson is an American actor and filmmaker. The recipient of multiple accolades, he is known for directing historical films as well for his action hero roles, particularly his breakout role as Max Rockatansky in the first three films of the post-apocalyptic series Mad Max (1979–1985) and as Martin Riggs in the buddy cop series Lethal Weapon (1987–1998).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mel_Gibson_Cannes_2016_2.jpg/330px-Mel_Gibson_Cannes_2016_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mel_Gibson",
+  "dateOfBirth": "1956-01-03",
+  "birthDateParsed": "1956-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.288888888",
+  "birthCoordinatesLng": "-73.92",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film producer",
+    "film actor",
+    "film director",
+    "writer",
+    "voice actor",
+    "screenwriter",
+    "television actor",
+    "actor",
+    "director",
+    "film screenwriter"
+  ],
+  "qid": "Q42229",
+  "birthPlace": "Peekskill",
+  "fetchedAt": "2026-07-30T03:31:36.128Z"
+}

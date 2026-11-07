@@ -1,0 +1,29 @@
+{
+  "publicId": "fd9d52cd",
+  "wikipediaSlug": "Samuel_L._Jackson",
+  "wikipediaId": "Q172678",
+  "name": "Samuel L. Jackson",
+  "fullName": "Samuel L. Jackson",
+  "profileSummary": "Samuel Leroy Jackson is an American actor and film producer. He is one of the most widely recognized actors of his generation. The films in which he has appeared have collectively grossed more than $27 billion worldwide, making him the highest-grossing actor of all time. In 2022, he received the Academy Honorary Award as \"a cultural icon whose dynamic work has resonated across genres and generations and audiences worldwide\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/330px-SamuelLJackson.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_L._Jackson",
+  "dateOfBirth": "1948-12-21",
+  "birthDateParsed": "1948-12-21",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "film producer",
+    "voice actor",
+    "character actor",
+    "television actor",
+    "television producer"
+  ],
+  "qid": "Q172678",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-07-29T15:24:13.805Z"
+}

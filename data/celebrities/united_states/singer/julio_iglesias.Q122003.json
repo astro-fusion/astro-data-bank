@@ -1,0 +1,37 @@
+{
+  "publicId": "d9059813",
+  "wikipediaSlug": "Julio_Iglesias",
+  "wikipediaId": "Q122003",
+  "name": "Julio Iglesias",
+  "fullName": "Julio Iglesias",
+  "profileSummary": "Julio José Iglesias de la Cueva is a Spanish singer and songwriter. Iglesias is recognized as the most commercially successful Spanish singer in the world and one of the top record sellers in music history, having sold more than 300 million records worldwide in 14 languages. It is estimated that during his career he has performed in more than 5,000 concerts, for over 60 million people in six continents. In April 2013, Iglesias was inducted into the Latin Songwriters Hall of Fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Julio_Iglesias09.jpg/330px-Julio_Iglesias09.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_Iglesias",
+  "dateOfBirth": "1943-09-23",
+  "birthDateParsed": "1943-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "recording artist",
+    "association football player",
+    "composer",
+    "businessperson",
+    "musician"
+  ],
+  "qid": "Q122003",
+  "birthPlace": "Madrid",
+  "fetchedAt": "2026-07-30T07:25:37.075Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "86b36de9",
+  "wikipediaSlug": "Alex_Stamos",
+  "wikipediaId": "Q50822408",
+  "name": "Alex Stamos",
+  "fullName": "Alex Stamos",
+  "profileSummary": "Alex Stamos is a Greek-American cybersecurity expert and business executive who works on improving the security and safety of the Internet.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Alex_Stamos_-_MSC_2018_%28cropped%29.jpg/330px-Alex_Stamos_-_MSC_2018_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Stamos",
+  "dateOfBirth": "1979-01-01",
+  "birthDateParsed": "1979-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05",
+  "birthCoordinatesLng": "-118.25",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "computer scientist"
+  ],
+  "qid": "Q50822408",
+  "birthPlace": "Los Angeles County",
+  "fetchedAt": "2026-07-30T15:25:59.285Z"
+}

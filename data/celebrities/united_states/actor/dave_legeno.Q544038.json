@@ -1,0 +1,34 @@
+{
+  "publicId": "5bdf3f99",
+  "wikipediaSlug": "Dave_Legeno",
+  "wikipediaId": "Q544038",
+  "name": "Dave Legeno",
+  "fullName": "Dave Legeno",
+  "profileSummary": "David Steven Murray, better known by his stage name Dave Legeno, was an English actor, mixed martial artist, and professional wrestler.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/201-dave-legeno.jpg/330px-201-dave-legeno.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Legeno",
+  "dateOfBirth": "1963-10-12",
+  "birthDateParsed": "1963-10-12",
+  "dateOfDeath": "2014-07-06",
+  "deathDateParsed": "2014-07-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5177",
+  "birthCoordinatesLng": "-0.147",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "boxer",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q544038",
+  "birthPlace": "Marylebone",
+  "fetchedAt": "2026-07-30T02:10:40.046Z"
+}

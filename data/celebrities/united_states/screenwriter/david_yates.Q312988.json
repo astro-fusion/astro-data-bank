@@ -1,0 +1,35 @@
+{
+  "publicId": "156d8b48",
+  "wikipediaSlug": "David_Yates",
+  "wikipediaId": "Q312988",
+  "name": "David Yates",
+  "fullName": "David Yates",
+  "profileSummary": "David Yates is an English filmmaker, who has directed feature films, short films, and television productions. He is best known for directing the final four films in the Harry Potter series and the three films of its prequel series, Fantastic Beasts. His work on the Harry Potter series brought him critical and commercial success along with accolades, such as the British Academy Britannia Award for Excellence in Directing.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/David_Yates_by_Gage_Skidmore.jpg/330px-David_Yates_by_Gage_Skidmore.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Yates",
+  "dateOfBirth": "1963-10-08",
+  "birthDateParsed": "1963-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.4541",
+  "birthCoordinatesLng": "-2.7461",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "film director",
+    "film producer",
+    "television director",
+    "director"
+  ],
+  "qid": "Q312988",
+  "birthPlace": "St Helens",
+  "fetchedAt": "2026-07-30T02:10:39.346Z"
+}

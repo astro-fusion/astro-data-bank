@@ -1,0 +1,36 @@
+{
+  "publicId": "0b26735f",
+  "wikipediaSlug": "Jason_Isaacs",
+  "wikipediaId": "Q214223",
+  "name": "Jason Isaacs",
+  "fullName": "Jason Isaacs",
+  "profileSummary": "Jason Michael Isaacs is an English actor. Primarily known for his character actor roles and in particular portrayals of villains in both television and film, he has received various accolades including an Empire Award and an Independent Spirit Award, with nominations for a British Academy Film Award, two Satellite Awards and two Golden Globe Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jason_Isaacs-45_%28cropped%29.jpg/330px-Jason_Isaacs-45_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Isaacs",
+  "dateOfBirth": "1963-06-06",
+  "birthDateParsed": "1963-06-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.407222222",
+  "birthCoordinatesLng": "-2.991666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "voice actor",
+    "stage actor",
+    "television actor",
+    "television producer",
+    "actor"
+  ],
+  "qid": "Q214223",
+  "birthPlace": "Liverpool",
+  "fetchedAt": "2026-07-30T02:11:41.244Z"
+}

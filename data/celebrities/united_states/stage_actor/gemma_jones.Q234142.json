@@ -1,0 +1,32 @@
+{
+  "publicId": "eaff01aa",
+  "wikipediaSlug": "Gemma_Jones",
+  "wikipediaId": "Q234142",
+  "name": "Gemma Jones",
+  "fullName": "Gemma Jones",
+  "profileSummary": "Jennifer \"Gemma\" Jones is an English actress. Appearing on both stage and screen, her film appearances include Sense and Sensibility (1995), the Bridget Jones series (2001–2025), the Harry Potter series (2002–2011), You Will Meet a Tall Dark Stranger (2010), and Ammonite (2020).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gemma_Jones_cropped.jpg/330px-Gemma_Jones_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gemma_Jones",
+  "dateOfBirth": "1942-12-04",
+  "birthDateParsed": "1942-12-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5177",
+  "birthCoordinatesLng": "-0.147",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q234142",
+  "birthPlace": "Marylebone",
+  "fetchedAt": "2026-07-30T02:10:55.742Z"
+}

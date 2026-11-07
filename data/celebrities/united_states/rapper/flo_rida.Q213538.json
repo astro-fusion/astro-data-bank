@@ -1,0 +1,35 @@
+{
+  "publicId": "78669206",
+  "wikipediaSlug": "Flo_Rida",
+  "wikipediaId": "Q213538",
+  "name": "Flo Rida",
+  "fullName": "Flo Rida",
+  "profileSummary": "Tramar Lacel Dillard, known professionally as Flo Rida, is an American rapper and singer. His 2007 debut and breakout single \"Low\" was number 1 for ten weeks in the United States and broke the record for digital download sales at the time of its release.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flo_Rida_Cookeville.jpg/330px-Flo_Rida_Cookeville.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Flo_Rida",
+  "dateOfBirth": "1979-09-16",
+  "birthDateParsed": "1979-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.941944444",
+  "birthCoordinatesLng": "-80.245555555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rapper",
+    "songwriter",
+    "composer",
+    "musician",
+    "singer"
+  ],
+  "qid": "Q213538",
+  "birthPlace": "Miami Gardens",
+  "fetchedAt": "2026-07-30T07:25:17.824Z"
+}

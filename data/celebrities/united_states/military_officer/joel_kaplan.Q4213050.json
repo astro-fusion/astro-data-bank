@@ -1,0 +1,33 @@
+{
+  "publicId": "8f655db3",
+  "wikipediaSlug": "Joel_Kaplan",
+  "wikipediaId": "Q4213050",
+  "name": "Joel Kaplan",
+  "fullName": "Joel Kaplan",
+  "profileSummary": "Joel David Kaplan is an American political advisor, lobbyist, and attorney. In January 2025, Kaplan was announced as president of global affairs of Meta Platforms, owner of Facebook, succeeding Nick Clegg. He was previously the company's vice president of global public policy since 2014.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Joel_Kaplan.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Kaplan",
+  "dateOfBirth": "1969-01-01",
+  "birthDateParsed": "1969-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.366666666",
+  "birthCoordinatesLng": "-71.303055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q4213050",
+  "birthPlace": "Weston",
+  "fetchedAt": "2026-07-30T15:26:55.694Z"
+}

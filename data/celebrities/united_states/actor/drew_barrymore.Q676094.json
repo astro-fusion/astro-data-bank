@@ -1,0 +1,42 @@
+{
+  "publicId": "56c90071",
+  "wikipediaSlug": "Drew_Barrymore",
+  "wikipediaId": "Q676094",
+  "name": "Drew Barrymore",
+  "fullName": "Drew Barrymore",
+  "profileSummary": "Drew Blythe Barrymore is an American actress, producer, talk show host, and businesswoman. A member of the Barrymore family of actors, she has received multiple awards and nominations, including a Golden Globe Award, an Emmy Award, and an Actor Award. She was named one of the 100 most influential people in the world by Time in 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Drew_Barrymore_in_2019_%28cropped%29.jpg/330px-Drew_Barrymore_in_2019_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Drew_Barrymore",
+  "dateOfBirth": "1975-02-22",
+  "birthDateParsed": "1975-02-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.008055555",
+  "birthCoordinatesLng": "-118.401388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "film director",
+    "film producer",
+    "voice actor",
+    "writer",
+    "autobiographer",
+    "television actor",
+    "model",
+    "television producer",
+    "singer",
+    "musician"
+  ],
+  "qid": "Q676094",
+  "birthPlace": "Culver City",
+  "fetchedAt": "2026-07-30T03:31:09.231Z"
+}

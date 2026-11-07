@@ -1,0 +1,33 @@
+{
+  "publicId": "e3ff58c8",
+  "wikipediaSlug": "Taylor_Swift",
+  "wikipediaId": "Q26876",
+  "name": "Taylor Swift",
+  "fullName": "Taylor Swift",
+  "profileSummary": "Taylor Alison Swift is an American singer-songwriter. An influential figure in popular culture, she is known for her autobiographical songwriting and artistic reinventions. Swift is the highest-grossing live music artist, the wealthiest female musician, and one of the best-selling music artists of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/330px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Taylor_Swift",
+  "dateOfBirth": "1989-12-13",
+  "birthDateParsed": "1989-12-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.3342",
+  "birthCoordinatesLng": "-75.9467",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "lyricist"
+  ],
+  "qid": "Q26876",
+  "birthPlace": "West Reading",
+  "fetchedAt": "2026-07-30T13:08:43.498Z"
+}

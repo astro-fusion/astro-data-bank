@@ -1,0 +1,35 @@
+{
+  "publicId": "d19cca02",
+  "wikipediaSlug": "Jamie_Waylett",
+  "wikipediaId": "Q461401",
+  "name": "Jamie Waylett",
+  "fullName": "Jamie Waylett",
+  "profileSummary": "Jamie Michael Waylett is an English former actor. His only film role to date is that of Vincent Crabbe in six of the eight Harry Potter films. In 2012, he was imprisoned for two years for his participation in the 2011 England riots.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jamie_Waylett.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamie_Waylett",
+  "dateOfBirth": "1989-07-21",
+  "birthDateParsed": "1989-07-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.5366",
+  "birthCoordinatesLng": "-0.2039",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "voice actor",
+    "singer",
+    "activist"
+  ],
+  "qid": "Q461401",
+  "birthPlace": "Kilburn",
+  "fetchedAt": "2026-07-30T02:11:53.427Z"
+}

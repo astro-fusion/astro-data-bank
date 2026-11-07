@@ -1,0 +1,38 @@
+{
+  "publicId": "dd42e910",
+  "wikipediaSlug": "Beyoncé",
+  "wikipediaId": "Q36153",
+  "name": "Beyoncé",
+  "fullName": "Beyoncé",
+  "profileSummary": "Beyoncé Giselle Knowles-Carter is an American singer, songwriter, actress, and businesswoman. Known for her vocal ability, artistic reinventions, and live performances, she is widely regarded as one of the most culturally significant figures of the 21st century. Credited with shaping popular music, Beyoncé is often deemed one of the greatest entertainers of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg/330px-Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+  "dateOfBirth": "1981-09-04",
+  "birthDateParsed": "1981-09-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.762777777",
+  "birthCoordinatesLng": "-95.383055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "record producer",
+    "dancer",
+    "actor",
+    "businessperson",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q36153",
+  "birthPlace": "Houston",
+  "fetchedAt": "2026-07-30T15:25:49.827Z"
+}

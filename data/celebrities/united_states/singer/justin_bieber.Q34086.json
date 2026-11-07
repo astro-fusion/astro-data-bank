@@ -1,0 +1,37 @@
+{
+  "publicId": "2752bf26",
+  "wikipediaSlug": "Justin_Bieber",
+  "wikipediaId": "Q34086",
+  "name": "Justin Bieber",
+  "fullName": "Justin Bieber",
+  "profileSummary": "Justin Drew Bieber is a Canadian singer. Regarded as a prominent figure in contemporary popular music, he rose to fame in the late 2000s with his debut extended play, My World (2009), receiving international recognition and establishing himself as a teen idol.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/P20260719DT-1213_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_%28cropped_2%29.jpg/330px-P20260719DT-1213_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_%28cropped_2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Bieber",
+  "dateOfBirth": "1994-03-01",
+  "birthDateParsed": "1994-03-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.9837",
+  "birthCoordinatesLng": "-81.2497",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "musician",
+    "guitarist",
+    "television producer",
+    "skateboarder",
+    "singer-songwriter"
+  ],
+  "qid": "Q34086",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T15:26:44.716Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "f2ae1022",
+  "wikipediaSlug": "Dixie_D'Amelio",
+  "wikipediaId": "Q83708517",
+  "name": "Dixie D'Amelio",
+  "fullName": "Dixie D'Amelio",
+  "profileSummary": "Dixie Jane D'Amelio is an American social media personality, singer, and model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dixie_D%27Amelio_2.jpg/330px-Dixie_D%27Amelio_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dixie_D'Amelio",
+  "dateOfBirth": "2001-08-12",
+  "birthDateParsed": "2001-08-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.093888888",
+  "birthCoordinatesLng": "-73.419722222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television producer",
+    "influencer",
+    "film director",
+    "model",
+    "TikToker"
+  ],
+  "qid": "Q83708517",
+  "birthPlace": "Norwalk",
+  "fetchedAt": "2026-07-30T16:45:43.237Z"
+}

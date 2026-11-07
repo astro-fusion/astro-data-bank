@@ -1,0 +1,34 @@
+{
+  "publicId": "9b03db63",
+  "wikipediaSlug": "Cristiano_Ronaldo",
+  "wikipediaId": "Q11571",
+  "name": "Cristiano Ronaldo",
+  "fullName": "Cristiano Ronaldo",
+  "profileSummary": "Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains the Saudi Pro League club Al-Nassr and the Portugal national team. Nicknamed CR7, he is widely regarded as one of the greatest players in history, having won numerous individual accolades throughout his career including five Ballon d'Or awards, a record three UEFA Men's Player of the Year Awards, and four European Golden Shoes. He was named the world's best player five times by FIFA.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/330px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+  "dateOfBirth": "1985-02-05",
+  "birthDateParsed": "1985-02-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.65",
+  "birthCoordinatesLng": "-16.916666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "fashion entrepreneur",
+    "model",
+    "athlete"
+  ],
+  "qid": "Q11571",
+  "birthPlace": "Funchal",
+  "fetchedAt": "2026-07-30T15:25:58.051Z"
+}

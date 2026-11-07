@@ -1,0 +1,38 @@
+{
+  "publicId": "a74e0ed6",
+  "wikipediaSlug": "Iwan_Rheon",
+  "wikipediaId": "Q1148937",
+  "name": "Iwan Rheon",
+  "fullName": "Iwan Rheon",
+  "profileSummary": "Iwan Rheon is a Welsh actor and musician. He is best known for his roles as Simon Bellamy in the E4 series Misfits (2009–2011), Ramsay Bolton in the HBO series Game of Thrones (2013–2016), and Mötley Crüe guitarist Mick Mars in the film  The Dirt (2019). He has also appeared in the series Vicious, Riviera, Inhumans, and Those About to Die.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Stuttgart_-Comic_Con_Germany_2019-_7d_by-RaBoe_039.jpg/330px-Stuttgart_-Comic_Con_Germany_2019-_7d_by-RaBoe_039.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iwan_Rheon",
+  "dateOfBirth": "1985-05-13",
+  "birthDateParsed": "1985-05-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.856944444",
+  "birthCoordinatesLng": "-4.316388888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "composer",
+    "guitarist",
+    "singer-songwriter",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q1148937",
+  "birthPlace": "Carmarthen",
+  "fetchedAt": "2026-07-30T01:25:28.609Z"
+}

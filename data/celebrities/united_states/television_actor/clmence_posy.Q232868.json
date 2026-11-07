@@ -1,0 +1,36 @@
+{
+  "publicId": "017623ee",
+  "wikipediaSlug": "Clémence_Poésy",
+  "wikipediaId": "Q232868",
+  "name": "Clémence Poésy",
+  "fullName": "Clémence Poésy",
+  "profileSummary": "Clémence Guichard, known professionally as Clémence Poésy, is a French actress and fashion model. After starting on the stage as a child, Poésy studied drama and has been active in both film and television since 1999, including some English-language productions. She is known for the roles of Fleur Delacour in the Harry Potter film series, Chloë in In Bruges, Rana in 127 Hours, Natasha Rostova in War and Peace, and the lead role as Elise Wassermann in the 24-episode series The Tunnel.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Clemence_Poesy_Paris_Fashion_Week_Autumn_Winter_2019.jpg/330px-Clemence_Poesy_Paris_Fashion_Week_Autumn_Winter_2019.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cl%C3%A9mence_Po%C3%A9sy",
+  "dateOfBirth": "1982-10-30",
+  "birthDateParsed": "1982-10-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "48.779166666",
+  "birthCoordinatesLng": "2.337222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor",
+    "model",
+    "stage actor",
+    "film director"
+  ],
+  "qid": "Q232868",
+  "birthPlace": "L'Haÿ-les-Roses",
+  "fetchedAt": "2026-07-30T02:10:52.015Z"
+}

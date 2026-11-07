@@ -1,0 +1,42 @@
+{
+  "publicId": "81e18f06",
+  "wikipediaSlug": "Ellen_DeGeneres",
+  "wikipediaId": "Q483325",
+  "name": "Ellen DeGeneres",
+  "fullName": "Ellen DeGeneres",
+  "profileSummary": "Ellen Lee DeGeneres is an American comedian, actress, television host, writer, and producer. She began her career in stand-up comedy in the early 1980s, gaining national attention with a 1986 appearance on The Tonight Show Starring Johnny Carson. She starred in the television sitcoms Ellen (1994–1998) and The Ellen Show (2001–2002). She also hosted the syndicated television talk show, The Ellen DeGeneres Show (2003–2022), for which she received 33 Daytime Emmy Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellen_DeGeneres-2009-enh5.jpg/330px-Ellen_DeGeneres-2009-enh5.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_DeGeneres",
+  "dateOfBirth": "1958-01-26",
+  "birthDateParsed": "1958-01-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.997777777",
+  "birthCoordinatesLng": "-90.1775",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "presenter",
+    "screenwriter",
+    "television presenter",
+    "talk show host",
+    "television producer",
+    "comedian",
+    "television actor",
+    "writer",
+    "film actor",
+    "voice actor",
+    "LGBTQ rights activist"
+  ],
+  "qid": "Q483325",
+  "birthPlace": "Metairie",
+  "fetchedAt": "2026-07-30T15:26:20.778Z"
+}

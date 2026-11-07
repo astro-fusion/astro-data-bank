@@ -1,0 +1,32 @@
+{
+  "publicId": "2c91596a",
+  "wikipediaSlug": "Anna_Shaffer",
+  "wikipediaId": "Q530344",
+  "name": "Anna Shaffer",
+  "fullName": "Anna Shaffer",
+  "profileSummary": "Anna Maureen Barth Shaffer is an English actress. She gained prominence through her roles as Romilda Vane in the Harry Potter films (2009–2011) and Ruby Button in the E4 soap opera Hollyoaks (2011–2018). As of 2019, she plays Triss Merigold in the Netflix adaptation of The Witcher.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Anna_Shaffer_-_German_Comic_Con_2022.jpg/330px-Anna_Shaffer_-_German_Comic_Con_2022.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Shaffer",
+  "dateOfBirth": "1992-03-15",
+  "birthDateParsed": "1992-03-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q530344",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T02:10:16.312Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "74a6bf88",
+  "wikipediaSlug": "Abyss_(wrestler)",
+  "wikipediaId": "Q165350",
+  "name": "Abyss (wrestler)",
+  "fullName": "Abyss (wrestler)",
+  "profileSummary": "Christopher Joseph Park, better known by his ring name Abyss, is an American retired professional wrestler, who has been employed by WWE as a producer since January 2019. He is best known for his time with Total Nonstop Action Wrestling (TNA).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Abyss_posing_at_Alpha1.jpg/330px-Abyss_posing_at_Alpha1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abyss_(wrestler)",
+  "dateOfBirth": "1973-10-04",
+  "birthDateParsed": "1973-10-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.895",
+  "birthCoordinatesLng": "-77.036666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q165350",
+  "birthPlace": "Washington, D.C.",
+  "fetchedAt": "2026-07-31T03:25:36.681Z"
+}

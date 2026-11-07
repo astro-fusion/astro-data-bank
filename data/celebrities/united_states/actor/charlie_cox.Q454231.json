@@ -1,0 +1,32 @@
+{
+  "publicId": "d212f5b8",
+  "wikipediaSlug": "Charlie_Cox",
+  "wikipediaId": "Q454231",
+  "name": "Charlie Cox",
+  "fullName": "Charlie Cox",
+  "profileSummary": "Charles Thomas Cox is an English actor. He is known for portraying Matt Murdock / Daredevil in the Marvel Cinematic Universe since 2015, including in the television series Daredevil (2015–2018) and Daredevil: Born Again (2025–present).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Charlie_Cox_by_Gage_Skidmore_2.jpg/330px-Charlie_Cox_by_Gage_Skidmore_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Cox",
+  "dateOfBirth": "1982-12-15",
+  "birthDateParsed": "1982-12-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4995",
+  "birthCoordinatesLng": "-0.1333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q454231",
+  "birthPlace": "Westminster",
+  "fetchedAt": "2026-07-30T00:40:44.611Z"
+}

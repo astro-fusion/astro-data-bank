@@ -1,0 +1,35 @@
+{
+  "publicId": "f99b37d3",
+  "wikipediaSlug": "Brendan_Cowell",
+  "wikipediaId": "Q4960851",
+  "name": "Brendan Cowell",
+  "fullName": "Brendan Cowell",
+  "profileSummary": "Brendan Cowell is an Australian actor and writer. He is known for starring in the 2024 television series Plum, which he adapted for television from his 2021 novel of the same name.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brendan_Cowell_%2817597408042%29_%28cropped%29.jpg/330px-Brendan_Cowell_%2817597408042%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brendan_Cowell",
+  "dateOfBirth": "1976-08-16",
+  "birthDateParsed": "1976-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-34.051111111",
+  "birthCoordinatesLng": "151.152222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "film director",
+    "screenwriter",
+    "television actor"
+  ],
+  "qid": "Q4960851",
+  "birthPlace": "Cronulla",
+  "fetchedAt": "2026-07-30T01:24:18.289Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "64c83e0e",
+  "wikipediaSlug": "Eddie_Guerrero",
+  "wikipediaId": "Q44374",
+  "name": "Eddie Guerrero",
+  "fullName": "Eddie Guerrero",
+  "profileSummary": "Eduardo Gory Guerrero Llanes was an American professional wrestler. He was best known for his tenures in World Championship Wrestling (WCW) and the World Wrestling Federation (WWF) / World Wrestling Entertainment (WWE), along with his appearances in Mexico and Japan. A prominent member of the Guerrero wrestling family, he was the son of first-generation wrestler Gory Guerrero, the brother of Chavo Guerrero, Mando Guerrero, and Héctor Guerrero, the uncle of Chavo Guerrero Jr., and the father of Shaul Guerrero.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eddie_Guerrero_2004.jpg/330px-Eddie_Guerrero_2004.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_Guerrero",
+  "dateOfBirth": "1967-10-09",
+  "birthDateParsed": "1967-10-09",
+  "dateOfDeath": "2005-11-13",
+  "deathDateParsed": "2005-11-13",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.759166666",
+  "birthCoordinatesLng": "-106.488611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q44374",
+  "birthPlace": "El Paso",
+  "fetchedAt": "2026-07-31T03:26:48.696Z"
+}

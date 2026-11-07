@@ -1,0 +1,33 @@
+{
+  "publicId": "b499e2ab",
+  "wikipediaSlug": "Ellie_Kendrick",
+  "wikipediaId": "Q2514417",
+  "name": "Ellie Kendrick",
+  "fullName": "Ellie Kendrick",
+  "profileSummary": "Eleanor Lucy V. Kendrick is an English actress best known for playing Anne Frank in the BBC's 2009 miniseries The Diary of Anne Frank, Ivy Morris in the first series of the 2010 revived Upstairs Downstairs, and Meera Reed in the HBO series Game of Thrones. She also voices Taelia Fordragon in World of Warcraft: Battle for Azeroth.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ellie_Kendrick_in_2018.jpg/330px-Ellie_Kendrick_in_2018.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellie_Kendrick",
+  "dateOfBirth": "1990-06-06",
+  "birthDateParsed": "1990-06-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q2514417",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:23:46.665Z"
+}

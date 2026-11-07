@@ -1,0 +1,35 @@
+{
+  "publicId": "b52d8bd0",
+  "wikipediaSlug": "Michael_Gambon",
+  "wikipediaId": "Q203545",
+  "name": "Michael Gambon",
+  "fullName": "Michael Gambon",
+  "profileSummary": "Sir Michael John Gambon was an Irish-English actor. Gambon started his acting career with Laurence Olivier as one of the original members of the Royal National Theatre. Over his six-decade-long career, he received three Olivier Awards, four BAFTA TV Awards, and two Screen Actors Guild Awards. In 1998, he was knighted by Queen Elizabeth II for services to drama.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Michael_Gambon_cropped.jpg/330px-Michael_Gambon_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Gambon",
+  "dateOfBirth": "1940-10-19",
+  "birthDateParsed": "1940-10-19",
+  "dateOfDeath": "2023-09-27",
+  "deathDateParsed": "2023-09-27",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.349722222",
+  "birthCoordinatesLng": "-6.260277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "voice actor",
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q203545",
+  "birthPlace": "Dublin",
+  "fetchedAt": "2026-07-30T02:11:39.993Z"
+}

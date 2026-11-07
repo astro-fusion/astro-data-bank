@@ -1,0 +1,32 @@
+{
+  "publicId": "16c3c1ba",
+  "wikipediaSlug": "Bill_Skarsgård",
+  "wikipediaId": "Q862460",
+  "name": "Bill Skarsgård",
+  "fullName": "Bill Skarsgård",
+  "profileSummary": "Bill Istvan Günther Skarsgård is a Swedish actor, model, producer, and director. He is best known for portraying Pennywise in the horror films It (2017) and It Chapter Two (2019) and the television series It: Welcome to Derry (2025–present) and Count Orlok in Nosferatu (2024). Skarsgård's roles as monsters and other non-human characters have led him to be described as a creature actor by media sources. He has received multiple awards and nominations, including a Satellite Award and a Berlinale Award. Films in which he has appeared have grossed over $3.3 billion worldwide.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bill_Skarsg%C3%A5rd_%2843573067882%29_%28cropped%29.jpg/330px-Bill_Skarsg%C3%A5rd_%2843573067882%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Skarsg%C3%A5rd",
+  "dateOfBirth": "1990-08-09",
+  "birthDateParsed": "1990-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "59.31899444",
+  "birthCoordinatesLng": "18.06721667",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": "Aries",
+  "planetaryCombinationIndex": [],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "film producer"
+  ],
+  "qid": "Q862460",
+  "birthPlace": "Maria Magdalena parish",
+  "fetchedAt": "2026-07-30T00:40:45.303Z"
+}

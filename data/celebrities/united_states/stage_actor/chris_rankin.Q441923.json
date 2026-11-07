@@ -1,0 +1,33 @@
+{
+  "publicId": "c463106a",
+  "wikipediaSlug": "Chris_Rankin",
+  "wikipediaId": "Q441923",
+  "name": "Chris Rankin",
+  "fullName": "Chris Rankin",
+  "profileSummary": "Chris Rankin is a New Zealand–born British actor, director, and producer who is best known for playing Percy Weasley in the Harry Potter film franchise.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Rankin",
+  "dateOfBirth": "1983-11-08",
+  "birthDateParsed": "1983-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-36.849166666",
+  "birthCoordinatesLng": "174.765277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q441923",
+  "birthPlace": "Auckland",
+  "fetchedAt": "2026-07-30T02:10:32.048Z"
+}

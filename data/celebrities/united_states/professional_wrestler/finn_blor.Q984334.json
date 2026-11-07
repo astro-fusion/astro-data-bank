@@ -1,0 +1,31 @@
+{
+  "publicId": "1810faad",
+  "wikipediaSlug": "Finn_Bálor",
+  "wikipediaId": "Q984334",
+  "name": "Finn Bálor",
+  "fullName": "Finn Bálor",
+  "profileSummary": "Fergal Devitt is an Irish professional wrestler. As of May 2014, he is signed to WWE, where he performs on the SmackDown brand under the ring name Finn Bálor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Finn_Balor_2024_%28cropped%29.jpg/330px-Finn_Balor_2024_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Finn_B%C3%A1lor",
+  "dateOfBirth": "1981-07-25",
+  "birthDateParsed": "1981-07-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.201388888",
+  "birthCoordinatesLng": "-6.110833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q984334",
+  "birthPlace": "Bray",
+  "fetchedAt": "2026-07-31T03:26:56.389Z"
+}

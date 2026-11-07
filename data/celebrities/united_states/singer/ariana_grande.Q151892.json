@@ -1,0 +1,39 @@
+{
+  "publicId": "a41356f9",
+  "wikipediaSlug": "Ariana_Grande",
+  "wikipediaId": "Q151892",
+  "name": "Ariana Grande",
+  "fullName": "Ariana Grande",
+  "profileSummary": "Ariana Grande-Butera is an American singer, songwriter, and actress. Known for her four-octave vocal range, which extends into the whistle register, she is an influential figure in popular music. Publications such as Rolling Stone and Billboard have deemed Grande one of the greatest artists in history, while Time included her on its list of the world's 100 most influential people in 2016 and 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg/330px-Ariana_Grande_promoting_Wicked_%282024%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariana_Grande",
+  "dateOfBirth": "1993-06-26",
+  "birthDateParsed": "1993-06-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.368611111",
+  "birthCoordinatesLng": "-80.1",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "actor",
+    "model",
+    "pop musician",
+    "musician",
+    "film actor",
+    "television actor",
+    "voice actor"
+  ],
+  "qid": "Q151892",
+  "birthPlace": "Boca Raton",
+  "fetchedAt": "2026-07-30T15:25:57.565Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "2320654f",
+  "wikipediaSlug": "Fintan_McKeown",
+  "wikipediaId": "Q15922168",
+  "name": "Fintan McKeown",
+  "fullName": "Fintan McKeown",
+  "profileSummary": "Fintan McKeown is an Irish actor best known for his guest appearances on Star Trek: Voyager, Merlin, and Game of Thrones, and for his supporting roles in the films Immortal Beloved (1994) and Waking Ned Devine (1998).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fintan_McKeown",
+  "dateOfBirth": "2000-01-01",
+  "birthDateParsed": "2000-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.351",
+  "birthCoordinatesLng": "-7.921",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q15922168",
+  "birthPlace": "Ireland",
+  "fetchedAt": "2026-07-30T01:24:34.005Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "7f159fe1",
+  "wikipediaSlug": "Edward_Tudor-Pole",
+  "wikipediaId": "Q3048711",
+  "name": "Edward Tudor-Pole",
+  "fullName": "Edward Tudor-Pole",
+  "profileSummary": "Edward Felix Tudor-Pole is an English musician, television presenter and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tenpole_Tudor_2.jpg/330px-Tenpole_Tudor_2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Tudor-Pole",
+  "dateOfBirth": "1955-12-06",
+  "birthDateParsed": "1955-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4903",
+  "birthCoordinatesLng": "-0.1193",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television presenter"
+  ],
+  "qid": "Q3048711",
+  "birthPlace": "Lambeth",
+  "fetchedAt": "2026-07-30T02:10:57.193Z"
+}

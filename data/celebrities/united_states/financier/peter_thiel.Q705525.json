@@ -1,0 +1,39 @@
+{
+  "publicId": "797edbf8",
+  "wikipediaSlug": "Peter_Thiel",
+  "wikipediaId": "Q705525",
+  "name": "Peter Thiel",
+  "fullName": "Peter Thiel",
+  "profileSummary": "Peter Andreas Thiel is a German-American entrepreneur, venture capitalist, and conservative political activist. A co-founder of PayPal (1998), Palantir Technologies (2003), and Founders Fund (2005), he was also the first outside investor in Facebook (2004). According to The New York Times, as of December 2025, Thiel's estimated net worth stood at US$27.5 billion, placing him among the 100 richest individuals in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Peter_Thiel_by_Gage_Skidmore.jpg/330px-Peter_Thiel_by_Gage_Skidmore.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Thiel",
+  "dateOfBirth": "1967-10-11",
+  "birthDateParsed": "1967-10-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "50.110555555",
+  "birthCoordinatesLng": "8.682222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "financier",
+    "computer scientist",
+    "banker",
+    "entrepreneur",
+    "chess player",
+    "writer",
+    "manager",
+    "investor",
+    "technology entrepreneur"
+  ],
+  "qid": "Q705525",
+  "birthPlace": "Frankfurt",
+  "fetchedAt": "2026-07-30T15:27:15.258Z"
+}

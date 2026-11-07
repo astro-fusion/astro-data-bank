@@ -1,0 +1,34 @@
+{
+  "publicId": "db9097ad",
+  "wikipediaSlug": "Anton_Lesser",
+  "wikipediaId": "Q591515",
+  "name": "Anton Lesser",
+  "fullName": "Anton Lesser",
+  "profileSummary": "Anton Lesser is a British actor. He is known for his roles as Qyburn in the HBO series Game of Thrones, Harold Macmillan in The Crown, Clement Attlee in A United Kingdom, Chief Superintendent Bright in Endeavour, and Major Lio Partagaz in Andor. An associate of the Royal Shakespeare Company, he has performed numerous Shakespearean roles on stage and television.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Anton_Lesser_%282011%29.jpg/330px-Anton_Lesser_%282011%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Lesser",
+  "dateOfBirth": "1952-02-14",
+  "birthDateParsed": "1952-02-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.48",
+  "birthCoordinatesLng": "-1.9025",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q591515",
+  "birthPlace": "Birmingham",
+  "fetchedAt": "2026-07-30T01:23:23.067Z"
+}

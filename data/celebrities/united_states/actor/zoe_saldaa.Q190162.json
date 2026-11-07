@@ -1,0 +1,30 @@
+{
+  "publicId": "e653ee19",
+  "wikipediaSlug": "Zoe_Saldaña",
+  "wikipediaId": "Q190162",
+  "name": "Zoe Saldaña",
+  "fullName": "Zoe Saldaña",
+  "profileSummary": "Zoë Yadira Saldaña-Perego, known professionally as Zoe Saldaña, is an American actress. The highest grossing lead actor in history, she is the recipient of many accolades, including an Academy Award, a BAFTA Award, two Critics Choice Awards, a Golden Globe Award, a SAG Award, and a Cannes Film Festival Award. Time magazine named her one of the 100 most influential people in the world in 2023 and 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Zoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/330px-Zoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zoe_Salda%C3%B1a",
+  "dateOfBirth": "1978-06-19",
+  "birthDateParsed": "1978-06-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.8575",
+  "birthCoordinatesLng": "-74.128888888",
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "ballet dancer",
+    "television actor",
+    "stage actor",
+    "film actor",
+    "voice actor",
+    "film director"
+  ],
+  "qid": "Q190162",
+  "birthPlace": "Passaic",
+  "fetchedAt": "2026-07-29T15:24:26.560Z"
+}

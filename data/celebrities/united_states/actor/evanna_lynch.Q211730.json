@@ -1,0 +1,36 @@
+{
+  "publicId": "1ff9037f",
+  "wikipediaSlug": "Evanna_Lynch",
+  "wikipediaId": "Q211730",
+  "name": "Evanna Lynch",
+  "fullName": "Evanna Lynch",
+  "profileSummary": "Evanna Lynch is an Irish actress and activist. She is best known for portraying Luna Lovegood in the Harry Potter film series.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Evanna_Lynch_Comic_Con_Cape_Town_2026_02.jpg/330px-Evanna_Lynch_Comic_Con_Cape_Town_2026_02.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evanna_Lynch",
+  "dateOfBirth": "1991-08-16",
+  "birthDateParsed": "1991-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.77",
+  "birthCoordinatesLng": "-6.27",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "singer",
+    "stage actor",
+    "film actor",
+    "author"
+  ],
+  "qid": "Q211730",
+  "birthPlace": "Termonfeckin",
+  "fetchedAt": "2026-07-30T02:10:56.474Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "6107d66d",
+  "wikipediaSlug": "Gary_Oliver_(actor)",
+  "wikipediaId": "Q19650463",
+  "name": "Gary Oliver (actor)",
+  "fullName": "Gary Oliver (actor)",
+  "profileSummary": "Gary Oliver is an English actor of the stage, television, and film. He is known for his guest starring roles in Game of Thrones, New Tricks and Atlantis.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Oliver_(actor)",
+  "dateOfBirth": "1966-11-19",
+  "birthDateParsed": "1966-11-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.233333333",
+  "birthCoordinatesLng": "-0.9",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q19650463",
+  "birthPlace": "Northampton",
+  "fetchedAt": "2026-07-30T01:25:27.196Z"
+}

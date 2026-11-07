@@ -1,0 +1,32 @@
+{
+  "publicId": "f0be7287",
+  "wikipediaSlug": "Bray_Wyatt",
+  "wikipediaId": "Q1139993",
+  "name": "Bray Wyatt",
+  "fullName": "Bray Wyatt",
+  "profileSummary": "Windham Lawrence Rotunda, better known by his ring name Bray Wyatt, was an American professional wrestler. He was best known for his tenures in WWE from 2009 to 2021 and again from 2022 until his death in 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bray_Wyatt%2C_2022_%28cropped-2%29.jpg/330px-Bray_Wyatt%2C_2022_%28cropped-2%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bray_Wyatt",
+  "dateOfBirth": "1987-05-23",
+  "birthDateParsed": "1987-05-23",
+  "dateOfDeath": "2023-08-24",
+  "deathDateParsed": "2023-08-24",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.553611111",
+  "birthCoordinatesLng": "-82.388611111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "actor"
+  ],
+  "qid": "Q1139993",
+  "birthPlace": "Brooksville",
+  "fetchedAt": "2026-07-31T03:26:23.940Z"
+}

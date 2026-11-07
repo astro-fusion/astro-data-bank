@@ -1,0 +1,32 @@
+{
+  "publicId": "23305ce9",
+  "wikipediaSlug": "Elizabeth_Webster",
+  "wikipediaId": "Q19518445",
+  "name": "Elizabeth Webster",
+  "fullName": "Elizabeth Webster",
+  "profileSummary": "Elizabeth Webster is an English actress and trade union activist. She has portrayed the part of Walda Bolton in the HBO series Game of Thrones in season 4, season 5 and season 6.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Elizabeth_webster_gcc_2018.jpg/330px-Elizabeth_webster_gcc_2018.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Webster",
+  "dateOfBirth": "1950-01-01",
+  "birthDateParsed": "1950-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.38764",
+  "birthCoordinatesLng": "0.50546",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q19518445",
+  "birthPlace": "Rochester",
+  "fetchedAt": "2026-07-30T01:24:47.349Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "51d8132d",
+  "wikipediaSlug": "Dragon_Lee_(wrestler)",
+  "wikipediaId": "Q17712327",
+  "name": "Dragon Lee (wrestler)",
+  "fullName": "Dragon Lee (wrestler)",
+  "profileSummary": "Emmanuel Muñoz González is a Mexican professional wrestler. As of December 2022, he is signed to WWE, where he performs on the Raw brand under the ring name Dragon Lee, and is a member of the Latino World Order.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dragon_Lee%2C_April_2019_%28cropped%29.jpg/330px-Dragon_Lee%2C_April_2019_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dragon_Lee_(wrestler)",
+  "dateOfBirth": "1995-05-15",
+  "birthDateParsed": "1995-05-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.6575",
+  "birthCoordinatesLng": "-103.703055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q17712327",
+  "birthPlace": "Tala",
+  "fetchedAt": "2026-07-31T03:27:05.877Z"
+}

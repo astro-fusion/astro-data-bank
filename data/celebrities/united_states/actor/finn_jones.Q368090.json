@@ -1,0 +1,33 @@
+{
+  "publicId": "44e876d2",
+  "wikipediaSlug": "Finn_Jones",
+  "wikipediaId": "Q368090",
+  "name": "Finn Jones",
+  "fullName": "Finn Jones",
+  "profileSummary": "Finn Jones is an English actor known for his roles as Loras Tyrell in the HBO series Game of Thrones (2011–2016) and Danny Rand / Iron Fist in the Marvel Cinematic Universe since 2017, including in the series Iron Fist (2017–2018).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Finn_Jones_%2853318496987%29.jpg/330px-Finn_Jones_%2853318496987%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Finn_Jones",
+  "dateOfBirth": "1988-03-24",
+  "birthDateParsed": "1988-03-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.507222222",
+  "birthCoordinatesLng": "-0.1275",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q368090",
+  "birthPlace": "London",
+  "fetchedAt": "2026-07-30T01:23:38.754Z"
+}

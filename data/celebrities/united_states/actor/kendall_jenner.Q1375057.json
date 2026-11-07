@@ -1,0 +1,32 @@
+{
+  "publicId": "bcc969c8",
+  "wikipediaSlug": "Kendall_Jenner",
+  "wikipediaId": "Q1375057",
+  "name": "Kendall Jenner",
+  "fullName": "Kendall Jenner",
+  "profileSummary": "Kendall Nicole Jenner is an American model, socialite and media personality. She rose to fame in the reality television show Keeping Up with the Kardashians, in which she starred for 20 seasons and nearly 15 years from 2007 to 2021. The success of the show led to the creation of multiple spin-off series including Kourtney and Khloe Take Miami (2009), Kourtney and Kim Take New York (2011), Khloé & Lamar (2011), Rob & Chyna (2016) and Life of Kylie (2017). Following the decision to end their reality show, in 2022 she and her family starred in the reality television series The Kardashians on Hulu.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Kendall_Jenner_for_Adanola_2_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kendall_Jenner",
+  "dateOfBirth": "1995-11-03",
+  "birthDateParsed": "1995-11-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q1375057",
+  "birthPlace": "Los Angeles",
+  "fetchedAt": "2026-07-30T15:26:34.256Z"
+}

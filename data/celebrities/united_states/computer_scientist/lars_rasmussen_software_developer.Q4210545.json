@@ -1,0 +1,31 @@
+{
+  "publicId": "f5397427",
+  "wikipediaSlug": "Lars_Rasmussen_(software_developer)",
+  "wikipediaId": "Q4210545",
+  "name": "Lars Rasmussen (software developer)",
+  "fullName": "Lars Rasmussen (software developer)",
+  "profileSummary": "Lars Eilstrup Rasmussen is a Danish computer scientist, technology executive, and the co-founder of Google Maps. He was later the director of engineering for Facebook in London.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lars_Rasmussen_%2826283079181%29_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lars_Rasmussen_(software_developer)",
+  "dateOfBirth": "1963-01-01",
+  "birthDateParsed": "1963-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "computer scientist"
+  ],
+  "qid": "Q4210545",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-30T15:27:14.220Z"
+}

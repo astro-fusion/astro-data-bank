@@ -1,0 +1,37 @@
+{
+  "publicId": "b5ac9509",
+  "wikipediaSlug": "Harrison_Ford",
+  "wikipediaId": "Q81328",
+  "name": "Harrison Ford",
+  "fullName": "Harrison Ford",
+  "profileSummary": "Harrison Ford is an American actor. Regarded as a cinematic cultural icon, Ford's accolades include nominations for an Academy Award, a British Academy Film Award, two Emmy Awards, five Golden Globes and two SAG-AFTRA's Actor Awards. He is also the recipient of the AFI Life Achievement Award, Cecil B. DeMille Award, Honorary César, Honorary Palme d'Or and SAG-AFTRA Life Achievement Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Harrison_Ford_-_Televerse_2025-03.jpg/330px-Harrison_Ford_-_Televerse_2025-03.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harrison_Ford",
+  "dateOfBirth": "1942-07-13",
+  "birthDateParsed": "1942-07-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "41.881944444",
+  "birthCoordinatesLng": "-87.627777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "voice actor",
+    "environmentalist",
+    "carpenter",
+    "aircraft pilot",
+    "film actor"
+  ],
+  "qid": "Q81328",
+  "birthPlace": "Chicago",
+  "fetchedAt": "2026-07-30T03:30:57.856Z"
+}

@@ -1,0 +1,32 @@
+{
+  "publicId": "791e9733",
+  "wikipediaSlug": "Anthony_Luke",
+  "wikipediaId": "Q133273685",
+  "name": "Anthony Luke",
+  "fullName": "Anthony Luke",
+  "profileSummary": "Anthony Luke is an American professional wrestler and former professional football player. He is signed with WWE, where he performs on the NXT and Evolve brands under the ring name Kam Hendrix.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Luke",
+  "dateOfBirth": "1996-11-11",
+  "birthDateParsed": "1996-11-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.6139",
+  "birthCoordinatesLng": "77.209",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "American football player",
+    "professional wrestler"
+  ],
+  "qid": "Q133273685",
+  "birthPlace": null,
+  "fetchedAt": "2026-07-31T03:25:51.986Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "4753e32e",
+  "wikipediaSlug": "Olivia_Newton-John",
+  "wikipediaId": "Q185165",
+  "name": "Olivia Newton-John",
+  "fullName": "Olivia Newton-John",
+  "profileSummary": "Dame Olivia Newton-John was a British and Australian singer, songwriter and actress. With over 100 million records sold, Newton-John is one of the best-selling music artists of all time, as well as the highest-selling female Australian recording artist of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Olivia_Newton_John_%286707495311%29_%28cropped_to_look_large%29.jpg/330px-Olivia_Newton_John_%286707495311%29_%28cropped_to_look_large%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olivia_Newton-John",
+  "dateOfBirth": "1948-09-26",
+  "birthDateParsed": "1948-09-26",
+  "dateOfDeath": "2022-08-08",
+  "deathDateParsed": "2022-08-08",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.208055555",
+  "birthCoordinatesLng": "0.1225",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "recording artist",
+    "singer-songwriter",
+    "actor",
+    "composer",
+    "musician",
+    "songwriter"
+  ],
+  "qid": "Q185165",
+  "birthPlace": "Cambridge",
+  "fetchedAt": "2026-07-30T07:25:51.608Z"
+}

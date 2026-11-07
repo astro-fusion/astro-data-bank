@@ -1,0 +1,41 @@
+{
+  "publicId": "ab1e3be2",
+  "wikipediaSlug": "Bruce_Springsteen",
+  "wikipediaId": "Q1225",
+  "name": "Bruce Springsteen",
+  "fullName": "Bruce Springsteen",
+  "profileSummary": "Bruce Frederick Joseph Springsteen is an American singer, songwriter, and musician. Nicknamed \"the Boss\", Springsteen has released 21 studio albums spanning six decades; most feature the E Street Band, his backing band since 1972.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg/330px-Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+  "dateOfBirth": "1949-09-23",
+  "birthDateParsed": "1949-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.2954",
+  "birthCoordinatesLng": "-73.9899",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "pianist",
+    "guitarist",
+    "record producer",
+    "recording artist",
+    "composer",
+    "television actor",
+    "film actor",
+    "film director",
+    "musician"
+  ],
+  "qid": "Q1225",
+  "birthPlace": "Long Branch",
+  "fetchedAt": "2026-07-30T13:08:32.115Z"
+}

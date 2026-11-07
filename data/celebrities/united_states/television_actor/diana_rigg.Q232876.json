@@ -1,0 +1,35 @@
+{
+  "publicId": "3aedbce5",
+  "wikipediaSlug": "Diana_Rigg",
+  "wikipediaId": "Q232876",
+  "name": "Diana Rigg",
+  "fullName": "Diana Rigg",
+  "profileSummary": "Dame Enid Diana Elizabeth Rigg was an English actress of stage and screen. Her roles include Emma Peel in the TV series The Avengers (1965–1968); Countess Teresa di Vicenzo, wife of James Bond, in On Her Majesty's Secret Service (1969); Olenna Tyrell in Game of Thrones (2013–2017); and the title role in Medea in the West End in 1993 followed by Broadway a year later.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Diana_Rigg_1973_Cropped.jpg/330px-Diana_Rigg_1973_Cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diana_Rigg",
+  "dateOfBirth": "1938-07-20",
+  "birthDateParsed": "1938-07-20",
+  "dateOfDeath": "2020-09-10",
+  "deathDateParsed": "2020-09-10",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.522777777",
+  "birthCoordinatesLng": "-1.1325",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "university teacher",
+    "stage actor",
+    "actor"
+  ],
+  "qid": "Q232876",
+  "birthPlace": "Doncaster",
+  "fetchedAt": "2026-07-30T01:23:32.433Z"
+}

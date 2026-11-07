@@ -1,0 +1,40 @@
+{
+  "publicId": "3d08e80a",
+  "wikipediaSlug": "Roseanne_Barr",
+  "wikipediaId": "Q232301",
+  "name": "Roseanne Barr",
+  "fullName": "Roseanne Barr",
+  "profileSummary": "Roseanne Cherrie Barr, also known mononymously as Roseanne, is an American actress, comedian, writer, and producer. She began her career in stand-up comedy, going on to achieve widespread recognition for her work as the eponymous lead character on the ABC sitcom Roseanne, for which she received an Emmy and a Golden Globe.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Roseanne_barr_cropped.jpg/330px-Roseanne_barr_cropped.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roseanne_Barr",
+  "dateOfBirth": "1952-11-03",
+  "birthDateParsed": "1952-11-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.75",
+  "birthCoordinatesLng": "-111.883333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "writer",
+    "blogger",
+    "stage actor",
+    "film actor",
+    "politician",
+    "voice actor",
+    "screenwriter",
+    "television producer",
+    "film director"
+  ],
+  "qid": "Q232301",
+  "birthPlace": "Salt Lake City",
+  "fetchedAt": "2026-07-30T03:31:31.447Z"
+}

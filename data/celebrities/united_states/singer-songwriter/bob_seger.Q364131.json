@@ -1,0 +1,37 @@
+{
+  "publicId": "30fe62b5",
+  "wikipediaSlug": "Bob_Seger",
+  "wikipediaId": "Q364131",
+  "name": "Bob Seger",
+  "fullName": "Bob Seger",
+  "profileSummary": "Robert Clark Seger is a retired American singer, songwriter, and musician. A roots rock musician known for his raspy, powerful voice, Seger is one of the best-known artists of the heartland rock genre, with his songs often concerning love, women, and blue-collar themes. Among his many hits are \"Night Moves\", \"Turn the Page\", \"Mainstreet\", \"Still the Same\", \"Hollywood Nights\", \"Against the Wind\", \"You'll Accomp'ny Me\", \"Shame on the Moon\", \"Roll Me Away\", \"Like a Rock\", and \"Shakedown\", the last of which was written for the 1987 film Beverly Hills Cop II and topped the  Billboard Hot 100 chart. His recording of \"Old Time Rock and Roll\" was named one of the Songs of the Century in 2001, and he co-wrote the Eagles' number-one hit \"Heartache Tonight\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bob_Seger_2013_%28cropped%29.jpg/330px-Bob_Seger_2013_%28cropped%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Seger",
+  "dateOfBirth": "1945-05-06",
+  "birthDateParsed": "1945-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.331666666",
+  "birthCoordinatesLng": "-83.0475",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "musician",
+    "singer",
+    "songwriter",
+    "guitarist",
+    "composer",
+    "pianist"
+  ],
+  "qid": "Q364131",
+  "birthPlace": "Detroit",
+  "fetchedAt": "2026-07-30T07:24:31.210Z"
+}

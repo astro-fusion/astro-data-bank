@@ -1,0 +1,31 @@
+{
+  "publicId": "d0debf9c",
+  "wikipediaSlug": "Danhausen",
+  "wikipediaId": "Q104816919",
+  "name": "Danhausen",
+  "fullName": "Danhausen",
+  "profileSummary": "Donovan Andrew Danhausen, better known mononymously as Danhausen, is an American professional wrestler. As of February 2026, he is signed to WWE. He is also known for his tenures in All Elite Wrestling (AEW) and Ring of Honor (ROH), as well as his appearances on the independent circuit.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Danhausen_at_San_Diego_Comic_Con_2026-2.jpg/330px-Danhausen_at_San_Diego_Comic_Con_2026-2.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danhausen",
+  "dateOfBirth": "1990-08-17",
+  "birthDateParsed": "1990-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "42.331666666",
+  "birthCoordinatesLng": "-83.0475",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q104816919",
+  "birthPlace": "Detroit",
+  "fetchedAt": "2026-07-31T03:26:47.013Z"
+}

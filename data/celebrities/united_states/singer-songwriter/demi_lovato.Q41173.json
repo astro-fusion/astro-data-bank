@@ -1,0 +1,40 @@
+{
+  "publicId": "61d1325c",
+  "wikipediaSlug": "Demi_Lovato",
+  "wikipediaId": "Q41173",
+  "name": "Demi Lovato",
+  "fullName": "Demi Lovato",
+  "profileSummary": "Demetria Devonne \"Demi\"  Lovato is an American singer, songwriter, and actress. After appearing on the children's television series Barney & Friends (2002–2004), she starred in the Disney Channel short series As the Bell Rings (2007–2008), and as the titular character on the sitcom Sonny with a Chance (2009–2011). Lovato rose to prominence for playing Mitchie Torres in the musical television film Camp Rock (2008) and its sequel Camp Rock 2: The Final Jam (2010). The former film's soundtrack featured \"This Is Me\", her debut single with Joe Jonas, peaking at number nine on the US Billboard Hot 100.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Demi_Lovato_Interview_Feb_2020.png/330px-Demi_Lovato_Interview_Feb_2020.png",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Demi_Lovato",
+  "dateOfBirth": "1992-08-20",
+  "birthDateParsed": "1992-08-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "35.084444444",
+  "birthCoordinatesLng": "-106.650277777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "actor",
+    "child actor",
+    "guitarist",
+    "pianist",
+    "composer",
+    "television personality",
+    "singer",
+    "pop musician",
+    "musician"
+  ],
+  "qid": "Q41173",
+  "birthPlace": "Albuquerque",
+  "fetchedAt": "2026-07-30T15:25:59.771Z"
+}

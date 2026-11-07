@@ -1,0 +1,35 @@
+{
+  "publicId": "7dee1626",
+  "wikipediaSlug": "Sarah_Wynn-Williams",
+  "wikipediaId": "Q133260286",
+  "name": "Sarah Wynn-Williams",
+  "fullName": "Sarah Wynn-Williams",
+  "profileSummary": "Sarah Wynn-Williams is a New Zealand lawyer, public policy advisor, and author. She was formerly a Director of Public Policy at Facebook. Her book Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism was released in 2025 over Facebook's objections.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sarah_Wynn-Williams.jpg/330px-Sarah_Wynn-Williams.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarah_Wynn-Williams",
+  "dateOfBirth": "1979-01-01",
+  "birthDateParsed": "1979-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-43.531111111",
+  "birthCoordinatesLng": "172.636111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "official",
+    "whistleblower",
+    "writer",
+    "jurist"
+  ],
+  "qid": "Q133260286",
+  "birthPlace": "Christchurch",
+  "fetchedAt": "2026-07-30T15:27:29.097Z"
+}

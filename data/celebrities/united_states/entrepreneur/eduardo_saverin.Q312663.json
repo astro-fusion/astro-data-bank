@@ -1,0 +1,33 @@
+{
+  "publicId": "bd78eabe",
+  "wikipediaSlug": "Eduardo_Saverin",
+  "wikipediaId": "Q312663",
+  "name": "Eduardo Saverin",
+  "fullName": "Eduardo Saverin",
+  "profileSummary": "Eduardo Luiz Saverin is a Brazilian entrepreneur, angel investor, and philanthropist, known for co-founding Facebook, based in Singapore. He is the co-founder and co-CEO of the venture capital firm B Capital with Raj Ganguly.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eduardo_Saverin_CHINICT.JPG/330px-Eduardo_Saverin_CHINICT.JPG",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Saverin",
+  "dateOfBirth": "1982-03-19",
+  "birthDateParsed": "1982-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "computer scientist",
+    "economist"
+  ],
+  "qid": "Q312663",
+  "birthPlace": "São Paulo",
+  "fetchedAt": "2026-07-30T15:26:18.601Z"
+}

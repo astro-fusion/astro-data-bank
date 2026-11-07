@@ -1,0 +1,34 @@
+{
+  "publicId": "283646c9",
+  "wikipediaSlug": "David_Bradley_(English_actor)",
+  "wikipediaId": "Q320073",
+  "name": "David Bradley (English actor)",
+  "fullName": "David Bradley (English actor)",
+  "profileSummary": "David John Bradley is an English actor. He is best known for his screen roles, which include Argus Filch in the Harry Potter film series, Walder Frey in the HBO fantasy series Game of Thrones and Abraham Setrakian in the FX horror series The Strain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/David_Bradley_%2854514383222%29.jpg/330px-David_Bradley_%2854514383222%29.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Bradley_(English_actor)",
+  "dateOfBirth": "1942-04-17",
+  "birthDateParsed": "1942-04-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "53.95",
+  "birthCoordinatesLng": "-1.083333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q320073",
+  "birthPlace": "York",
+  "fetchedAt": "2026-07-30T02:10:38.098Z"
+}

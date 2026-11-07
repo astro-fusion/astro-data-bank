@@ -1,0 +1,31 @@
+{
+  "publicId": "89350ac2",
+  "wikipediaSlug": "James_Phelps_(actor)",
+  "wikipediaId": "Q1401230",
+  "name": "James Phelps (actor)",
+  "fullName": "James Phelps (actor)",
+  "profileSummary": "James Andrew Eric Phelps is an English actor and podcaster. He is known for playing Fred Weasley in the Harry Potter film series from 2001 to 2011, alongside his twin brother, Oliver Phelps, who played George Weasley. The twins have continued to work together as a duo on other projects.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/James_Phelps_by_Gage_Skidmore.jpg/330px-James_Phelps_by_Gage_Skidmore.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Phelps_(actor)",
+  "dateOfBirth": "1986-02-25",
+  "birthDateParsed": "1986-02-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "52.563",
+  "birthCoordinatesLng": "-1.822",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q1401230",
+  "birthPlace": "Sutton Coldfield",
+  "fetchedAt": "2026-07-30T02:11:58.690Z"
+}

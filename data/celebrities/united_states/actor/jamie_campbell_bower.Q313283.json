@@ -1,0 +1,36 @@
+{
+  "publicId": "5454e2ac",
+  "wikipediaSlug": "Jamie_Campbell_Bower",
+  "wikipediaId": "Q313283",
+  "name": "Jamie Campbell Bower",
+  "fullName": "Jamie Campbell Bower",
+  "profileSummary": "James Metcalfe Campbell Bower is an English actor, singer, and musician. He is best known for his role as Henry Creel / Vecna in the fourth (2022) and fifth (2025) seasons of the science fiction horror series Stranger Things, for which he received critical acclaim.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jamie_Campbell_Bower_at_San_Diego_Comic_Con_2026-1.jpg/330px-Jamie_Campbell_Bower_at_San_Diego_Comic_Con_2026-1.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamie_Campbell_Bower",
+  "dateOfBirth": "1988-11-22",
+  "birthDateParsed": "1988-11-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "51.4928",
+  "birthCoordinatesLng": "-0.2229",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "singer",
+    "model",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q313283",
+  "birthPlace": "Hammersmith",
+  "fetchedAt": "2026-07-30T02:11:56.260Z"
+}
