@@ -1,0 +1,33 @@
+{
+  "publicId": "413faf4a",
+  "wikipediaSlug": "Huang_Yee-ling",
+  "wikipediaId": "Q8971499",
+  "name": "Huang Yee-ling",
+  "fullName": "Huang Yee-ling",
+  "profileSummary": "Huang Yee-ling is a Taiwanese Hokkien pop singer. She has released 32 Hokkien pop albums since 1987, and 3 Japanese albums between 1988 and 1990.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Huang_Yee-ling_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Huang_Yee-ling",
+  "dateOfBirth": "1969-09-20",
+  "birthDateParsed": "1969-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.1675",
+  "birthCoordinatesLng": "121.639444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q8971499",
+  "birthPlace": "Wanli District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:27.732Z"
+}

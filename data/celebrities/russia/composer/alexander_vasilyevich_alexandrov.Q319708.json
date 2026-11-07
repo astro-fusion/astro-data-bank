@@ -1,0 +1,37 @@
+{
+  "publicId": "568fd337",
+  "wikipediaSlug": "Alexander_Vasilyevich_Alexandrov",
+  "wikipediaId": "Q319708",
+  "name": "Alexander Vasilyevich Alexandrov",
+  "fullName": "Alexander Vasilyevich Alexandrov",
+  "profileSummary": "Alexander Vasilyevich Alexandrov was a Soviet and Russian composer and founder of the Alexandrov Ensemble, who wrote the music for the State Anthem of the Soviet Union, which in 2000 became the National Anthem of the Russian Federation. During his career, he also worked as a professor of the Moscow Conservatory, and became a Doctor of Arts. His work was recognized by the awards of the title of People's Artist of the USSR and two Stalin Prizes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_B_Alexandrov.jpg/330px-A_B_Alexandrov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Vasilyevich_Alexandrov",
+  "dateOfBirth": "1883-04-13",
+  "birthDateParsed": "1883-04-13",
+  "dateOfDeath": "1946-07-08",
+  "deathDateParsed": "1946-07-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "54.462777777",
+  "birthCoordinatesLng": "39.336111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "conductor",
+    "choir director",
+    "music educator",
+    "military personnel"
+  ],
+  "qid": "Q319708",
+  "birthPlace": "Plakhino",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:28.460Z"
+}

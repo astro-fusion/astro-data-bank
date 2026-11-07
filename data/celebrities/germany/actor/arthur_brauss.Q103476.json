@@ -1,0 +1,36 @@
+{
+  "publicId": "9e8a14cb",
+  "wikipediaSlug": "Arthur_Brauss",
+  "wikipediaId": "Q103476",
+  "name": "Arthur Brauss",
+  "fullName": "Arthur Brauss",
+  "profileSummary": "Arthur Brauss was a German actor and voice actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Brauss",
+  "dateOfBirth": "1936-07-24",
+  "birthDateParsed": "1936-07-24",
+  "dateOfDeath": "2025-08-29",
+  "deathDateParsed": "2025-08-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.368888888",
+  "birthCoordinatesLng": "10.897777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "athletics competitor",
+    "film actor"
+  ],
+  "qid": "Q103476",
+  "birthPlace": "Augsburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:09.723Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "6463485d",
+  "wikipediaSlug": "Alexei_Savrasov",
+  "wikipediaId": "Q353008",
+  "name": "Alexei Savrasov",
+  "fullName": "Alexei Savrasov",
+  "profileSummary": "Alexei Kondratyevich Savrasov was a Russian landscape painter and creator of the lyrical landscape style. The most famous and a celebrated work is The Rooks Have Returned.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0_%D0%90.%D0%9A.%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg/330px-%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0_%D0%90.%D0%9A.%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexei_Savrasov",
+  "dateOfBirth": "1830-05-24",
+  "birthDateParsed": "1830-05-24",
+  "dateOfDeath": "1897-10-08",
+  "deathDateParsed": "1897-10-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "painter",
+    "visual artist"
+  ],
+  "qid": "Q353008",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:44.357Z"
+}

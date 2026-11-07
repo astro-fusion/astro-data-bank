@@ -1,0 +1,33 @@
+{
+  "publicId": "385b509a",
+  "wikipediaSlug": "Alejandra_Fosalba",
+  "wikipediaId": "Q920162",
+  "name": "Alejandra Fosalba",
+  "fullName": "Alejandra Fosalba",
+  "profileSummary": "Alejandra Fosalba Henry is an actress from Chile.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Alejandra_Fosalba.jpg/330px-Alejandra_Fosalba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandra_Fosalba",
+  "dateOfBirth": "1969-07-04",
+  "birthDateParsed": "1969-07-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-36.826944444",
+  "birthCoordinatesLng": "-73.050277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q920162",
+  "birthPlace": "Concepción",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:29.187Z"
+}

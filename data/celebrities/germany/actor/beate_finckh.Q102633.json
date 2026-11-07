@@ -1,0 +1,36 @@
+{
+  "publicId": "ebe74678",
+  "wikipediaSlug": "Beate_Finckh",
+  "wikipediaId": "Q102633",
+  "name": "Beate Finckh",
+  "fullName": "Beate Finckh",
+  "profileSummary": "Beate Finckh is a German actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beate_Finckh",
+  "dateOfBirth": "1960-04-22",
+  "birthDateParsed": "1960-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q102633",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:26.035Z"
+}

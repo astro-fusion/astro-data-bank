@@ -1,0 +1,34 @@
+{
+  "publicId": "7c75d16b",
+  "wikipediaSlug": "Günter_Netzer",
+  "wikipediaId": "Q44326",
+  "name": "Günter Netzer",
+  "fullName": "Günter Netzer",
+  "profileSummary": "Günter Theodor Netzer is a German former professional football player, executive and pundit. He achieved great success in Germany with Borussia Mönchengladbach in the early 1970s and, after moving to Spain in 1973, with Real Madrid. A technically gifted playmaker, Netzer played as an attacking midfielder or as a deep-lying playmaker and is considered one of the greatest midfielders and passers in the game's history. He was voted German Footballer of the Year twice, in 1972 and 1973.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/G%C3%BCnter_Netzer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer",
+  "dateOfBirth": "1944-09-14",
+  "birthDateParsed": "1944-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.2",
+  "birthCoordinatesLng": "6.433333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q44326",
+  "birthPlace": "Mönchengladbach",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:53.754Z"
+}

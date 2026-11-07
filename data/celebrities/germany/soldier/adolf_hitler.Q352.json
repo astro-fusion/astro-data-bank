@@ -1,0 +1,39 @@
+{
+  "publicId": "6982fa3d",
+  "wikipediaSlug": "Adolf_Hitler",
+  "wikipediaId": "Q352",
+  "name": "Adolf Hitler",
+  "fullName": "Adolf Hitler",
+  "profileSummary": "Adolf Hitler was an Austrian-born German politician who was dictator of Germany in the Nazi era from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor of Germany in 1933 and then taking the title of Führer und Reichskanzler in 1934. Germany's invasion of Poland on 1 September 1939 under his leadership marked the outbreak of the Second World War. Throughout the ensuing conflict, Hitler was closely involved in the direction of German military operations and was central to the perpetration of the genocide of about six million Jews in the Holocaust as well as the deaths of millions of other victims.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/330px-Hitler_portrait_crop_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+  "dateOfBirth": "1889-04-20",
+  "birthDateParsed": "1889-04-20",
+  "dateOfDeath": "1945-04-30",
+  "deathDateParsed": "1945-04-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.258333333",
+  "birthCoordinatesLng": "13.033333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "soldier",
+    "painter",
+    "political writer",
+    "politician",
+    "military commander",
+    "writer",
+    "Holocaust perpetrator"
+  ],
+  "qid": "Q352",
+  "birthPlace": "Braunau am Inn",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:12.461Z"
+}

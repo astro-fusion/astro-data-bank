@@ -1,0 +1,34 @@
+{
+  "publicId": "84df89af",
+  "wikipediaSlug": "Albert_Paulig",
+  "wikipediaId": "Q106127",
+  "name": "Albert Paulig",
+  "fullName": "Albert Paulig",
+  "profileSummary": "Albert Paulig was a German film actor who was popular during the silent era. Paulig made his first film in 1914. The following year he appeared in one of Ernst Lubitsch's first directorial attempts, A Trip on the Ice (1915). Paulig was in a number of Harry Piel, thrillers including The Man Without Nerves (1924).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nicola_Perscheid_-_Albert_Paulig.jpg/330px-Nicola_Perscheid_-_Albert_Paulig.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Paulig",
+  "dateOfBirth": "1873-01-14",
+  "birthDateParsed": "1873-01-14",
+  "dateOfDeath": "1933-03-19",
+  "deathDateParsed": "1933-03-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.708333333",
+  "birthCoordinatesLng": "12.778333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q106127",
+  "birthPlace": "Stollberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:18.395Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "30e28eb6",
+  "wikipediaSlug": "Altamiro_Carrilho",
+  "wikipediaId": "Q2422968",
+  "name": "Altamiro Carrilho",
+  "fullName": "Altamiro Carrilho",
+  "profileSummary": "Altamiro Carrilho was a Brazilian musician and composer. He is widely regarded as a master flutist and a major representative of the choro genre.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Altamiro_Carrilho",
+  "dateOfBirth": "1924-12-21",
+  "birthDateParsed": "1924-12-21",
+  "dateOfDeath": "2012-08-15",
+  "deathDateParsed": "2012-08-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.538888888",
+  "birthCoordinatesLng": "-42.18",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "conductor",
+    "composer",
+    "flautist"
+  ],
+  "qid": "Q2422968",
+  "birthPlace": "Santo Antônio de Pádua",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:33.336Z"
+}

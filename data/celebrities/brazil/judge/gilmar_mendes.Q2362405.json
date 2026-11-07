@@ -1,0 +1,38 @@
+{
+  "publicId": "a4760d43",
+  "wikipediaSlug": "Gilmar_Mendes",
+  "wikipediaId": "Q2362405",
+  "name": "Gilmar Mendes",
+  "fullName": "Gilmar Mendes",
+  "profileSummary": "Gilmar Ferreira Mendes is a Brazilian Justice of the Supremo Tribunal Federal, appointed by then President Fernando Henrique Cardoso in 2002. Mendes was the Chief Justice of the Court for the 2008–2010 term. Earlier, he had been the Attorney General from 2000 to 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gilmar_Mendes_%28cropped%29.jpg/330px-Gilmar_Mendes_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilmar_Mendes",
+  "dateOfBirth": "1955-12-30",
+  "birthDateParsed": "1955-12-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-14.408888888",
+  "birthCoordinatesLng": "-56.445833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "politician",
+    "university teacher",
+    "civil servant",
+    "jurist",
+    "lawyer"
+  ],
+  "qid": "Q2362405",
+  "birthPlace": "Diamantino",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:59.896Z"
+}

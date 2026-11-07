@@ -1,0 +1,36 @@
+{
+  "publicId": "836450ea",
+  "wikipediaSlug": "Sergio_Jiménez",
+  "wikipediaId": "Q2007672",
+  "name": "Sergio Jiménez",
+  "fullName": "Sergio Jiménez",
+  "profileSummary": "Sergio Jiménez, born in Mexico City, was a Mexican actor. He became famous after portraying the character of El Gato in the film Los caifanes. His last work was directing the telenovela La fea más bella. Sergio also worked in his \"actor's studio\" which he operated with the actress Adriana Barraza. He is known in the Mexican community as \"El Profe\".",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergio_Jim%C3%A9nez",
+  "dateOfBirth": "1937-12-17",
+  "birthDateParsed": "1937-12-17",
+  "dateOfDeath": "2007-01-02",
+  "deathDateParsed": "2007-01-02",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "television actor",
+    "film actor",
+    "stage actor",
+    "director"
+  ],
+  "qid": "Q2007672",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:53.592Z"
+}

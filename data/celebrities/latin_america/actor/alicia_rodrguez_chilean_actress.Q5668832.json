@@ -1,0 +1,33 @@
+{
+  "publicId": "66afe941",
+  "wikipediaSlug": "Alicia_Rodríguez_(Chilean_actress)",
+  "wikipediaId": "Q5668832",
+  "name": "Alicia Rodríguez (Chilean actress)",
+  "fullName": "Alicia Rodríguez (Chilean actress)",
+  "profileSummary": "Alicia Rodríguez is a Chilean actress. She is best known for her performance as Daniela Ramírez in Young and Wild.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alicia_Rodr%C3%ADguez_(Chilean_actress)",
+  "dateOfBirth": "1992-05-21",
+  "birthDateParsed": "1992-05-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5668832",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:47.845Z"
+}

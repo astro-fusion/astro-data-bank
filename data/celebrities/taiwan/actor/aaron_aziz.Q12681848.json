@@ -1,0 +1,33 @@
+{
+  "publicId": "68d1f64a",
+  "wikipediaSlug": "Aaron_Aziz",
+  "wikipediaId": "Q12681848",
+  "name": "Aaron Aziz",
+  "fullName": "Aaron Aziz",
+  "profileSummary": "Yang Hormat Dato' Aaron Mustapha bin Aziz  is a Singaporean actor and director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/AaronAziz.jpg/330px-AaronAziz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Aziz",
+  "dateOfBirth": "1976-02-23",
+  "birthDateParsed": "1976-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.34959",
+  "birthCoordinatesLng": "103.957",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q12681848",
+  "birthPlace": "Tampines",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:28.724Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "93e48a55",
+  "wikipediaSlug": "Isaac_Rojas",
+  "wikipediaId": "Q608349",
+  "name": "Isaac Rojas",
+  "fullName": "Isaac Rojas",
+  "profileSummary": "Isaac Francisco Rojas Madariaga was an Argentine Admiral of the Navy and de facto Vice President of Argentina. He joined the Argentine Navy and had an unremarkable career until the 1946 election of Juan Perón.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/IsaacRojas.jpg/330px-IsaacRojas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isaac_Rojas",
+  "dateOfBirth": "1906-12-03",
+  "birthDateParsed": "1906-12-03",
+  "dateOfDeath": "1993-04-13",
+  "deathDateParsed": "1993-04-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q608349",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:33.318Z"
+}

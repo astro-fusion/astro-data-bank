@@ -1,0 +1,31 @@
+{
+  "publicId": "4820f7e1",
+  "wikipediaSlug": "Baltasar_Hidalgo_de_Cisneros",
+  "wikipediaId": "Q726514",
+  "name": "Baltasar Hidalgo de Cisneros",
+  "fullName": "Baltasar Hidalgo de Cisneros",
+  "profileSummary": "Baltasar Hidalgo de Cisneros y de la Torre was a Spanish Navy officer and colonial administrator. He took part in the Battle of Cape St Vincent and the Battle of Trafalgar, and in the Spanish resistance against Napoleon's invasion in 1808. He was later appointed Viceroy of the Viceroyalty of the Río de la Plata, replacing Santiago de Liniers. He disestablished the government Junta of Javier de Elío and quelled the Chuquisaca Revolution and the La Paz revolution. An open cabildo deposed him as viceroy during the May Revolution, but he attempted to be the president of the new government junta, thus retaining power. The popular unrest in Buenos Aires did not allow that, so he resigned. He was banished back to Spain shortly after that, and died in 1829.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BaltasarHidalgoDeCisnerosDeLaTorreTenienteGeneralDeLaArmadaMinistroDeMarina_1222562.jpg/330px-BaltasarHidalgoDeCisnerosDeLaTorreTenienteGeneralDeLaArmadaMinistroDeMarina_1222562.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baltasar_Hidalgo_de_Cisneros",
+  "dateOfBirth": "1758-01-05",
+  "birthDateParsed": "1758-01-05",
+  "dateOfDeath": "1829-06-09",
+  "deathDateParsed": "1829-06-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "37.601944444",
+  "birthCoordinatesLng": "-0.984166666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q726514",
+  "birthPlace": "Cartagena",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:08.193Z"
+}

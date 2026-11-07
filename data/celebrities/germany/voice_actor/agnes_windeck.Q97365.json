@@ -1,0 +1,38 @@
+{
+  "publicId": "ed2a25ae",
+  "wikipediaSlug": "Agnes_Windeck",
+  "wikipediaId": "Q97365",
+  "name": "Agnes Windeck",
+  "fullName": "Agnes Windeck",
+  "profileSummary": "Agnes Windeck was a German theatre and film actress. She appeared in more than 50 films between 1939 and 1973. She was born in Hamburg and started her career at the Deutsches Schauspielhaus in 1904. She later worked as a teacher at the drama school of the Deutsches Theater in Berlin. In the 1930s, she began to play minor roles in several films but it was not until she was in her seventies when she became a popular character actress of West German cinema and television.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Agnes_Windeck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agnes_Windeck",
+  "dateOfBirth": "1888-03-27",
+  "birthDateParsed": "1888-03-27",
+  "dateOfDeath": "1975-09-28",
+  "deathDateParsed": "1975-09-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "voice actor",
+    "stage actor",
+    "film actor",
+    "singer",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q97365",
+  "birthPlace": "Hamburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:29.078Z"
+}

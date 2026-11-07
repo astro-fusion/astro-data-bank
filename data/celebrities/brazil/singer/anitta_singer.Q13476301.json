@@ -1,0 +1,37 @@
+{
+  "publicId": "98c65ce9",
+  "wikipediaSlug": "Anitta_(singer)",
+  "wikipediaId": "Q13476301",
+  "name": "Anitta (singer)",
+  "fullName": "Anitta (singer)",
+  "profileSummary": "Larissa de Macedo Machado, known professionally as Anitta, is a Brazilian singer-songwriter, dancer, actress, and occasional television host. One of Brazil's most prominent artists, she became known for her versatile style and mixing genres such as pop, funk, reggaeton and electronic music. She has received numerous accolades, including one Brazilian Music Award, four Latin American Music Awards, three MTV Music Video Awards, nine MTV Europe Music Awards, two Guinness World Records, and nominations for two Grammy Award and ten Latin Grammy Awards, in addition to being the Brazilian female singer with the most entries on the Billboard Hot 100. She has been referred to as the \"Queen of Brazilian Pop\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anitta_for_Attractive_Mindset_podcast_02.jpg/330px-Anitta_for_Attractive_Mindset_podcast_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anitta_(singer)",
+  "dateOfBirth": "1993-03-30",
+  "birthDateParsed": "1993-03-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "actor",
+    "television presenter",
+    "dancer"
+  ],
+  "qid": "Q13476301",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:31.577Z"
+}

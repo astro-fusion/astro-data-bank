@@ -1,0 +1,33 @@
+{
+  "publicId": "e5f120ac",
+  "wikipediaSlug": "Jane_Huang",
+  "wikipediaId": "Q6152396",
+  "name": "Jane Huang",
+  "fullName": "Jane Huang",
+  "profileSummary": "Jane Huang is a Taiwanese singer. She was born in Taitung County, Taiwan. She is a member of Taiwan's Puyuma aboriginal people. In 2007, she finished seventh in the One Million Star Taiwanese singing competition. With the strong support of her fans, she became the popular vote winner. She is currently in the band Y2J with band member Yuming Lai.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%E9%BB%83%E7%BE%8E%E7%8F%8D.JPG/330px-%E9%BB%83%E7%BE%8E%E7%8F%8D.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jane_Huang",
+  "dateOfBirth": "1983-01-19",
+  "birthDateParsed": "1983-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.933333333",
+  "birthCoordinatesLng": "120.933333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q6152396",
+  "birthPlace": "Taitung County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:20.320Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "80923520",
+  "wikipediaSlug": "Andrés_Palacios",
+  "wikipediaId": "Q4760249",
+  "name": "Andrés Palacios",
+  "fullName": "Andrés Palacios",
+  "profileSummary": "Andrés Palacios is a Chilean-born Mexican actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AP_Palacios.jpg/330px-AP_Palacios.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Palacios",
+  "dateOfBirth": "1975-05-13",
+  "birthDateParsed": "1975-05-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "model"
+  ],
+  "qid": "Q4760249",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:38.379Z"
+}

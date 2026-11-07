@@ -1,0 +1,38 @@
+{
+  "publicId": "65ed09c8",
+  "wikipediaSlug": "Ana_Gabriel",
+  "wikipediaId": "Q3898000",
+  "name": "Ana Gabriel",
+  "fullName": "Ana Gabriel",
+  "profileSummary": "María Guadalupe Araujo Yong, known professionally as Ana Gabriel, is a Mexican singer and songwriter. With over 40 million records sold worldwide, Gabriel is the best-selling Mexican female artist, and one of the best-selling Latin music artists of all time. Dubbed as the \"Diva de América\" and the \"Luna de América\", during her long career, she has performed different genres of music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ana_Gabriel.jpg/330px-Ana_Gabriel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Gabriel",
+  "dateOfBirth": "1955-12-10",
+  "birthDateParsed": "1955-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.4587",
+  "birthCoordinatesLng": "-108.07732",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "film actor",
+    "film director",
+    "actor",
+    "musician",
+    "Liedermacher"
+  ],
+  "qid": "Q3898000",
+  "birthPlace": "Guamúchil",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:35.993Z"
+}

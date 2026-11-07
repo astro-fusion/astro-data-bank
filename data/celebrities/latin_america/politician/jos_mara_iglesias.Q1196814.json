@@ -1,0 +1,38 @@
+{
+  "publicId": "15fbe3cb",
+  "wikipediaSlug": "José_María_Iglesias",
+  "wikipediaId": "Q1196814",
+  "name": "José María Iglesias",
+  "fullName": "José María Iglesias",
+  "profileSummary": "José María Juan Nepomuceno Crisóforo Iglesias Inzáurraga was a Mexican lawyer, professor, journalist and liberal politician. He is known as author of the Iglesias law, an anticlerical law regulating ecclesiastical fees and aimed at preventing the impoverishment of the Mexican peasantry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Retrato_de_Jos%C3%A9_Mar%C3%ADa_Iglesias_Inz%C3%A1urraga.png/330px-Retrato_de_Jos%C3%A9_Mar%C3%ADa_Iglesias_Inz%C3%A1urraga.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Iglesias",
+  "dateOfBirth": "1823-01-05",
+  "birthDateParsed": "1823-01-05",
+  "dateOfDeath": "1891-12-17",
+  "deathDateParsed": "1891-12-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "judge",
+    "minister",
+    "writer",
+    "jurist"
+  ],
+  "qid": "Q1196814",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:13.722Z"
+}

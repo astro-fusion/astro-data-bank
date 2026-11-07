@@ -1,0 +1,35 @@
+{
+  "publicId": "68e58406",
+  "wikipediaSlug": "Branco_(footballer)",
+  "wikipediaId": "Q351827",
+  "name": "Branco (footballer)",
+  "fullName": "Branco (footballer)",
+  "profileSummary": "Cláudio Ibrahim Vaz Leal, better known as Branco, is a Brazilian former footballer who played as a left back. A member of the Brazilian team which won the 1994 FIFA World Cup, Branco was a free-kick specialist with accurate control of the ball.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Branco_-_Brescia_Calcio_1986-87.jpg/330px-Branco_-_Brescia_Calcio_1986-87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Branco_(footballer)",
+  "dateOfBirth": "1964-04-04",
+  "birthDateParsed": "1964-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.330833333",
+  "birthCoordinatesLng": "-54.106944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "beach soccer player"
+  ],
+  "qid": "Q351827",
+  "birthPlace": "Bagé",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:30.876Z"
+}

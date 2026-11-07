@@ -1,0 +1,33 @@
+{
+  "publicId": "1313ec95",
+  "wikipediaSlug": "Jackeline_Rentería",
+  "wikipediaId": "Q1115922",
+  "name": "Jackeline Rentería",
+  "fullName": "Jackeline Rentería",
+  "profileSummary": "Jackeline Rentería Castillo is a female wrestler from Colombia. She won a bronze medal in the women's freestyle 55 kg at the 2008 Summer Olympics, and repeated the feat in the women's freestyle 55 kg category at the 2012 Summer Olympics. She reached the semifinals in both tournaments, losing to the eventual silver medalists and winning the repechage bout. With her second medal she tied Helmut Bellingrodt, an Olympic Sports Shooter as the most decorated Colombian Olympian. In the Rio 2016 Olympics, they were joined by Óscar Figueroa in Weightlifting, Caterine Ibargüen in Triple Jump and Mariana Pajón in BMX. She is studying at the Pontificia Universidad Javeriana and also at the Universidad de Thomas Gomez.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Jackeline_Renter%C3%ADa_at_Pan_Am_2015.jpg/330px-Jackeline_Renter%C3%ADa_at_Pan_Am_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackeline_Renter%C3%ADa",
+  "dateOfBirth": "1986-02-23",
+  "birthDateParsed": "1986-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.44",
+  "birthCoordinatesLng": "-76.519722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler"
+  ],
+  "qid": "Q1115922",
+  "birthPlace": "Cali",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:01.701Z"
+}

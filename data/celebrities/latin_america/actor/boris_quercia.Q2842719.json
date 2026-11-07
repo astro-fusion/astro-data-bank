@@ -1,0 +1,40 @@
+{
+  "publicId": "4ce804d3",
+  "wikipediaSlug": "Boris_Quercia",
+  "wikipediaId": "Q2842719",
+  "name": "Boris Quercia",
+  "fullName": "Boris Quercia",
+  "profileSummary": "Boris Quercia Martinic is a Chilean actor, director, writer, and producer. In theater, he stood out for his performance as Roberto Parra Sandoval in the acclaimed work La negra Ester by Andrés Pérez. As a filmmaker, his first feature film Sex with Love received several national and international awards. As a television director, Los 80 has become one of the most successful Chilean series since its premiere in 2008. And as a writer he has won the Grand Prix of Crime Fiction in France with his second novel, Perro muerto.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Quercia%2C_Boris_-FILSA_20171110_fRF06.jpg/330px-Quercia%2C_Boris_-FILSA_20171110_fRF06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Quercia",
+  "dateOfBirth": "1966-08-26",
+  "birthDateParsed": "1966-08-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "film director",
+    "writer",
+    "television producer",
+    "television director",
+    "screenwriter",
+    "crime fiction writer"
+  ],
+  "qid": "Q2842719",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:05.923Z"
+}

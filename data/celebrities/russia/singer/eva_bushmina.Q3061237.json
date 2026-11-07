@@ -1,0 +1,35 @@
+{
+  "publicId": "307bfb47",
+  "wikipediaSlug": "Eva_Bushmina",
+  "wikipediaId": "Q3061237",
+  "name": "Eva Bushmina",
+  "fullName": "Eva Bushmina",
+  "profileSummary": "Yana Ihorivna Lanova, known by her stage names Eva Bushmina and Layah, is a Ukrainian singer, actress, television presenter and a former member of girl group Nu Virgos.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Layah.jpg/330px-Layah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eva_Bushmina",
+  "dateOfBirth": "1989-04-02",
+  "birthDateParsed": "1989-04-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.08455",
+  "birthCoordinatesLng": "39.651630555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television presenter",
+    "actor"
+  ],
+  "qid": "Q3061237",
+  "birthPlace": "Dovzhansk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:33.648Z"
+}

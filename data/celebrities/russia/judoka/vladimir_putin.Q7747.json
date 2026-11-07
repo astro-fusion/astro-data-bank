@@ -1,0 +1,37 @@
+{
+  "publicId": "0448424c",
+  "wikipediaSlug": "Vladimir_Putin",
+  "wikipediaId": "Q7747",
+  "name": "Vladimir Putin",
+  "fullName": "Vladimir Putin",
+  "profileSummary": "Vladimir Vladimirovich Putin is a Russian politician and former intelligence officer who has served as President of Russia since 2012, having previously served from 2000 to 2008. Putin also served as Prime Minister of Russia from 1999 to 2000 and again from 2008 to 2012. He has been described as the de facto leader of Russia since 1999.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg/330px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+  "dateOfBirth": "1952-10-07",
+  "birthDateParsed": "1952-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judoka",
+    "intelligence agent",
+    "spy",
+    "stunt performer",
+    "politician"
+  ],
+  "qid": "Q7747",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:47.321Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "84845115",
+  "wikipediaSlug": "Michelle_Chen",
+  "wikipediaId": "Q6125013",
+  "name": "Michelle Chen",
+  "fullName": "Michelle Chen",
+  "profileSummary": "Michelle Chen Yanxi, born Chen Mei-hsuan, is a Taiwanese actress and singer. Chen rose to fame for her role in the 2011 film You Are the Apple of My Eye, which broke box office records for Taiwanese films in mainland China, Taiwan, Hong Kong and Singapore. Her other notable works include films Hear Me (2009), Badges of Fury (2013), Pali Road (2015), as well as TV series The Romance of the Condor Heroes (2014), Teresa Teng (2024), and Sniper Butterfly (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Michelle_Chen.jpg/330px-Michelle_Chen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michelle_Chen",
+  "dateOfBirth": "1983-05-31",
+  "birthDateParsed": "1983-05-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "singer",
+    "songwriter",
+    "television actor"
+  ],
+  "qid": "Q6125013",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:06.087Z"
+}

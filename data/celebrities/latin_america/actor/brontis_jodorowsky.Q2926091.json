@@ -1,0 +1,33 @@
+{
+  "publicId": "2edf23d9",
+  "wikipediaSlug": "Brontis_Jodorowsky",
+  "wikipediaId": "Q2926091",
+  "name": "Brontis Jodorowsky",
+  "fullName": "Brontis Jodorowsky",
+  "profileSummary": "Brontis Jodorowsky is a Mexican-French actor and theatre director.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brontis_Jodorowsky",
+  "dateOfBirth": "1962-10-27",
+  "birthDateParsed": "1962-10-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q2926091",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:27.240Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "33df70ec",
+  "wikipediaSlug": "Gurmit_Singh",
+  "wikipediaId": "Q986211",
+  "name": "Gurmit Singh",
+  "fullName": "Gurmit Singh",
+  "profileSummary": " Gurmit Singh Virk, more commonly known simply as Gurmit Singh, is a Singaporean actor, comedian and host. He was prominently a full-time Mediacorp artiste from 1994 to 2014. He is best known for his role as the titular protagonist named Phua Chu Kang in Phua Chu Kang Pte Ltd, Phua Chu Kang Sdn Bhd and Phua Chu Kang The Movie, for which he won the Asian Television Awards prize for Best Performance by an Actor (Comedy) five times, from 1998 to 2001 and in 2003 for the former. From 2004 to 2005, he won the Highly Commended prize.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gurmit_Singh.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gurmit_Singh",
+  "dateOfBirth": "1965-03-24",
+  "birthDateParsed": "1965-03-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q986211",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:54.410Z"
+}

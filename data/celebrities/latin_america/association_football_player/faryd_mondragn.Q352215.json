@@ -1,0 +1,33 @@
+{
+  "publicId": "66e28350",
+  "wikipediaSlug": "Faryd_Mondragón",
+  "wikipediaId": "Q352215",
+  "name": "Faryd Mondragón",
+  "fullName": "Faryd Mondragón",
+  "profileSummary": "Faryd Camilo Mondragón Alí is a Colombian former professional footballer who played as a goalkeeper.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Faryd_Mondragon_2.jpg/330px-Faryd_Mondragon_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faryd_Mondrag%C3%B3n",
+  "dateOfBirth": "1971-06-21",
+  "birthDateParsed": "1971-06-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.44",
+  "birthCoordinatesLng": "-76.519722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q352215",
+  "birthPlace": "Cali",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:27.070Z"
+}

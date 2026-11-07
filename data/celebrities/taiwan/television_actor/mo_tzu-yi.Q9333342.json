@@ -1,0 +1,34 @@
+{
+  "publicId": "053123e5",
+  "wikipediaSlug": "Mo_Tzu-yi",
+  "wikipediaId": "Q9333342",
+  "name": "Mo Tzu-yi",
+  "fullName": "Mo Tzu-yi",
+  "profileSummary": "Morning Mo Tzu-yi is a Taiwanese actor. He debuted as a stage actor and began his on-screen career in 2005, starring in the films The Most Distant Course (2007) and A Place of One's Own (2009). He expanded his career internationally with the multinational film Snowfall in Taipei (2010) and the Australian-Singaporean film Canopy (2013), and also co-wrote and starred as Lu Ho-jo in the autobiographical drama Roseki 1914 (2018), winning Best Writing and receiving a nomination for Best Male Lead in the 53rd Golden Bell Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Motzuyi2022.png/330px-Motzuyi2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mo_Tzu-yi",
+  "dateOfBirth": "1981-06-23",
+  "birthDateParsed": "1981-06-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q9333342",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:54.362Z"
+}

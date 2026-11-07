@@ -1,0 +1,35 @@
+{
+  "publicId": "b39612ac",
+  "wikipediaSlug": "Adelaide_Chiozzo",
+  "wikipediaId": "Q8188108",
+  "name": "Adelaide Chiozzo",
+  "fullName": "Adelaide Chiozzo",
+  "profileSummary": "Adelaide Chiozzo was a Brazilian actress, accordionist and singer who appeared on the radio and in many chanchada films. She was known for her cover version of songs like \"Beijinho Doce\" and \"Sabiá na Gaiola\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/ADELAIDE_CHIOZZO.JPG/330px-ADELAIDE_CHIOZZO.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adelaide_Chiozzo",
+  "dateOfBirth": "1931-05-08",
+  "birthDateParsed": "1931-05-08",
+  "dateOfDeath": "2020-03-04",
+  "deathDateParsed": "2020-03-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "musician",
+    "singer"
+  ],
+  "qid": "Q8188108",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:21.293Z"
+}

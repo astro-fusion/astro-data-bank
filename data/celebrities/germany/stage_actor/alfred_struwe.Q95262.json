@@ -1,0 +1,36 @@
+{
+  "publicId": "e05e67c8",
+  "wikipediaSlug": "Alfred_Struwe",
+  "wikipediaId": "Q95262",
+  "name": "Alfred Struwe",
+  "fullName": "Alfred Struwe",
+  "profileSummary": "Alfred Struwe was a German actor, best known for his television role as Dr. Alexander Wittkugel in Zahn um Zahn.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Struwe",
+  "dateOfBirth": "1927-04-22",
+  "birthDateParsed": "1927-04-22",
+  "dateOfDeath": "1998-02-13",
+  "deathDateParsed": "1998-02-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "54.02846",
+  "birthCoordinatesLng": "19.04435",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q95262",
+  "birthPlace": "Malbork",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:42.848Z"
+}

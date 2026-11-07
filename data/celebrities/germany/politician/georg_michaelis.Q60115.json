@@ -1,0 +1,37 @@
+{
+  "publicId": "3f346cfb",
+  "wikipediaSlug": "Georg_Michaelis",
+  "wikipediaId": "Q60115",
+  "name": "Georg Michaelis",
+  "fullName": "Georg Michaelis",
+  "profileSummary": "Georg Michaelis was the imperial chancellor of the German Empire for a few months in 1917 during the First World War. He was the first commoner to hold the post, though the Supreme Army Command under Paul von Hindenburg had de facto control over the country.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Georg_Michaelis_%28cropped%29.jpg/330px-Georg_Michaelis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georg_Michaelis",
+  "dateOfBirth": "1857-09-08",
+  "birthDateParsed": "1857-09-08",
+  "dateOfDeath": "1936-07-24",
+  "deathDateParsed": "1936-07-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.266666666",
+  "birthCoordinatesLng": "15.933333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "jurist",
+    "lawyer",
+    "beamter",
+    "author"
+  ],
+  "qid": "Q60115",
+  "birthPlace": "Chojnów",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:17.393Z"
+}

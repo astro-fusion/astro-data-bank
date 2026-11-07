@@ -1,0 +1,35 @@
+{
+  "publicId": "e84fc719",
+  "wikipediaSlug": "Pavlo_Aldoshyn",
+  "wikipediaId": "Q117527085",
+  "name": "Pavlo Aldoshyn",
+  "fullName": "Pavlo Aldoshyn",
+  "profileSummary": "Pavlo Anatoliyovych Aldoshyn is a Ukrainian theatre and film actor, and a sniper in the Ukrainian Armed Forces.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavlo_Aldoshyn",
+  "dateOfBirth": "1987-04-07",
+  "birthDateParsed": "1987-04-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.510277777",
+  "birthCoordinatesLng": "32.266666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q117527085",
+  "birthPlace": "Kropyvnytskyi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:29.176Z"
+}

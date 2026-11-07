@@ -1,0 +1,35 @@
+{
+  "publicId": "cba9d3ed",
+  "wikipediaSlug": "André_Marques_(actor)",
+  "wikipediaId": "Q4759994",
+  "name": "André Marques (actor)",
+  "fullName": "André Marques (actor)",
+  "profileSummary": "André Marques is a Brazilian actor, TV host and entertainer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/AndreMarques.jpg/330px-AndreMarques.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Marques_(actor)",
+  "dateOfBirth": "1979-09-24",
+  "birthDateParsed": "1979-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.883333333",
+  "birthCoordinatesLng": "-43.103611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q4759994",
+  "birthPlace": "Niterói",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:56.914Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "3aad7f74",
+  "wikipediaSlug": "Júlio_Baptista",
+  "wikipediaId": "Q204895",
+  "name": "Júlio Baptista",
+  "fullName": "Júlio Baptista",
+  "profileSummary": "Júlio César Clemente Pereira Baptista is a Brazilian football manager and former player who played as an attacking midfielder or a forward. He is nicknamed \"The Beast\" due to his size and physical presence on the football field.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Delta_-_Gol_Copa_America_Centenario_%2826958100643%29.jpg/330px-Delta_-_Gol_Copa_America_Centenario_%2826958100643%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BAlio_Baptista",
+  "dateOfBirth": "1981-10-01",
+  "birthDateParsed": "1981-10-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q204895",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:36.632Z"
+}

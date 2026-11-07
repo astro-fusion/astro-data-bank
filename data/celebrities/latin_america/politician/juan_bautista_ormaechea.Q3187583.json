@@ -1,0 +1,36 @@
+{
+  "publicId": "35d9a6fe",
+  "wikipediaSlug": "Juan_Bautista_Ormaechea",
+  "wikipediaId": "Q3187583",
+  "name": "Juan Bautista Ormaechea",
+  "fullName": "Juan Bautista Ormaechea",
+  "profileSummary": "Juan Bautista Ormaechea y Ernáiz was a Roman Catholic Mexican priest and academic who served as the Bishop of Tulancingo (1863–1884). He also served as a member of the regency of the Second Mexican Empire (1863–1864) after replacing Pelagio Antonio de Labastida.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Juan_Bautista_Ormaechea_II.jpg/330px-Juan_Bautista_Ormaechea_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Bautista_Ormaechea",
+  "dateOfBirth": "1812-05-17",
+  "birthDateParsed": "1812-05-17",
+  "dateOfDeath": "1884-03-19",
+  "deathDateParsed": "1884-03-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "university teacher",
+    "Catholic priest",
+    "Catholic bishop"
+  ],
+  "qid": "Q3187583",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:38.769Z"
+}

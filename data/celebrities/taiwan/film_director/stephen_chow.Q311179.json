@@ -1,0 +1,37 @@
+{
+  "publicId": "9746ead0",
+  "wikipediaSlug": "Stephen_Chow",
+  "wikipediaId": "Q311179",
+  "name": "Stephen Chow",
+  "fullName": "Stephen Chow",
+  "profileSummary": "Stephen Chow Sing-chi is a Hong Kong filmmaker and former actor, known for his mo lei tau comedy, which has a significant influence on Chinese popular culture. His career began in television, where he gained recognition through variety shows and TV dramas. Chow's breakthrough came in 1989 with the comedy dramas The Final Combat and The Justice of Life, the latter marking the beginning of his on-screen collaboration with Ng Man-tat. He consecutively broke Hong Kong’s box office records in the next two years with films All for the Winner (1990) and Fight Back to School (1991), cementing his status as one of the region's most popular actors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Stephen_Chow%2C_2008_%28cropped%29.JPG/330px-Stephen_Chow%2C_2008_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Chow",
+  "dateOfBirth": "1962-06-22",
+  "birthDateParsed": "1962-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "screenwriter",
+    "comedian",
+    "film producer"
+  ],
+  "qid": "Q311179",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:41.290Z"
+}

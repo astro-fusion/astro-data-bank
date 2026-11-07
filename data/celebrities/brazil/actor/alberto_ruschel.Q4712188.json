@@ -1,0 +1,34 @@
+{
+  "publicId": "5f6491db",
+  "wikipediaSlug": "Alberto_Ruschel",
+  "wikipediaId": "Q4712188",
+  "name": "Alberto Ruschel",
+  "fullName": "Alberto Ruschel",
+  "profileSummary": "Alberto Ruschel was a Brazilian actor, producer, and director. He appeared in more than 30 films between 1947 and 1981.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Alberto_Ruschel%2C_Milton_Ribeiro_no_filme_%E2%80%9CO_cangaceiro%E2%80%9D.tif/lossy-page1-330px-Alberto_Ruschel%2C_Milton_Ribeiro_no_filme_%E2%80%9CO_cangaceiro%E2%80%9D.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Ruschel",
+  "dateOfBirth": "1918-02-21",
+  "birthDateParsed": "1918-02-21",
+  "dateOfDeath": "1996-01-18",
+  "deathDateParsed": "1996-01-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "-14",
+  "birthCoordinatesLng": "-53",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter"
+  ],
+  "qid": "Q4712188",
+  "birthPlace": "Brazil",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:31:53.262Z"
+}

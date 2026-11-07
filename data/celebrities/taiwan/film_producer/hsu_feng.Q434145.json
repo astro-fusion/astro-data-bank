@@ -1,0 +1,36 @@
+{
+  "publicId": "666df884",
+  "wikipediaSlug": "Hsu_Feng",
+  "wikipediaId": "Q434145",
+  "name": "Hsu Feng",
+  "fullName": "Hsu Feng",
+  "profileSummary": "Hsu Feng is a Taiwanese-born actress and film producer. In the 1970s she was one of the leading actresses of the cinemas of Hong Kong and Taiwan, particularly known for her roles in wuxia films and her work with director King Hu. In 1981 she retired from her career as an actress, but a few years later she returned to the film industry as a producer and went on to produce several award-winning movies. Among them was Chen Kaige's Farewell My Concubine, which won the Palme d'Or (1993) and the BAFTA Award for Best Film not in the English Language (1994) and was nominated for an Academy Award and a César for best foreign film as well.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/19701222%E5%BE%90%E6%A5%93.jpg/330px-19701222%E5%BE%90%E6%A5%93.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hsu_Feng",
+  "dateOfBirth": "1950-08-17",
+  "birthDateParsed": "1950-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film producer",
+    "film actor",
+    "producer",
+    "actor"
+  ],
+  "qid": "Q434145",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:32.768Z"
+}

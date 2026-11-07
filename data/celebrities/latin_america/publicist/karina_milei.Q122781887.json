@@ -1,0 +1,38 @@
+{
+  "publicId": "8bb3fa29",
+  "wikipediaSlug": "Karina_Milei",
+  "wikipediaId": "Q122781887",
+  "name": "Karina Milei",
+  "fullName": "Karina Milei",
+  "profileSummary": "Karina Elizabeth Milei is an Argentine politician who has served as General Secretary of the Presidency of the Argentine Nation since December 2023. She was appointed by her older brother, President of Argentina Javier Milei, having managed his successful presidential campaign. Javier often refers to her as \"The Boss\", always highlighting her as one of his main advisors. She has also been the president of La Libertad Avanza since its foundation in September 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Karina_Milei_2025_%28cropped%29.jpg/330px-Karina_Milei_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karina_Milei",
+  "dateOfBirth": "1973-03-28",
+  "birthDateParsed": "1973-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "publicist",
+    "politician",
+    "artist",
+    "astrologer",
+    "merchant",
+    "pastry chef"
+  ],
+  "qid": "Q122781887",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:33.183Z"
+}

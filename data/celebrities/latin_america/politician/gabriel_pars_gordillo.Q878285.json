@@ -1,0 +1,33 @@
+{
+  "publicId": "9c1d3451",
+  "wikipediaSlug": "Gabriel_París_Gordillo",
+  "wikipediaId": "Q878285",
+  "name": "Gabriel París Gordillo",
+  "fullName": "Gabriel París Gordillo",
+  "profileSummary": "Gabriel París Gordillo was a Colombian military officer and political leader who ruled the country as the chairman of a military junta from May 1957 to August 1958, following the resignation of General Gustavo Rojas Pinilla. París oversaw the regime's transition to electoral democracy after four years of military dictatorship, and turned over power to Alberto Lleras Camargo of the National Front.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Gabriel_Par%C3%ADs%2C_1957_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Par%C3%ADs_Gordillo",
+  "dateOfBirth": "1910-03-08",
+  "birthDateParsed": "1910-03-08",
+  "dateOfDeath": "2008-03-21",
+  "deathDateParsed": "2008-03-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "4.437777777",
+  "birthCoordinatesLng": "-75.200555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q878285",
+  "birthPlace": "Ibagué",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:02.376Z"
+}

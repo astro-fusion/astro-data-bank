@@ -1,0 +1,33 @@
+{
+  "publicId": "bed8b908",
+  "wikipediaSlug": "Bárbara_Ruiz-Tagle",
+  "wikipediaId": "Q5004838",
+  "name": "Bárbara Ruiz-Tagle",
+  "fullName": "Bárbara Ruiz-Tagle",
+  "profileSummary": "Bárbara Ruiz-Tagle Correa is a Chilean actress of theater and television.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Barbara_ruiz_tagle_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/B%C3%A1rbara_Ruiz-Tagle",
+  "dateOfBirth": "1979-05-30",
+  "birthDateParsed": "1979-05-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5004838",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:46.301Z"
+}

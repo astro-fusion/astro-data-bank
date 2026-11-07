@@ -1,0 +1,39 @@
+{
+  "publicId": "5b5d25fc",
+  "wikipediaSlug": "Bernhard_von_Bülow",
+  "wikipediaId": "Q60113",
+  "name": "Bernhard von Bülow",
+  "fullName": "Bernhard von Bülow",
+  "profileSummary": "Bernhard Heinrich Karl Martin, Prince of Bülow was a German politician who served as the imperial chancellor of the German Empire and minister-president of Prussia from 1900 to 1909. A fervent supporter of Weltpolitik, Bülow devoted his chancellorship to transforming Germany into a global power. Despite presiding over sustained economic growth and major scientific breakthroughs within his country, his government's bellicose foreign policy did much to antagonize France, Great Britain and Russia thereby significantly contributing to the outbreak of World War I.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bundesarchiv_Bild_146-2004-0098%2C_Bernhard_F%C3%BCrst_von_B%C3%BClow_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernhard_von_B%C3%BClow",
+  "dateOfBirth": "1849-05-03",
+  "birthDateParsed": "1849-05-03",
+  "dateOfDeath": "1929-10-28",
+  "deathDateParsed": "1929-10-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.55222222",
+  "birthCoordinatesLng": "9.86444444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "statesperson",
+    "author",
+    "ambassador",
+    "jurist",
+    "minister"
+  ],
+  "qid": "Q60113",
+  "birthPlace": "Klein Flottbek",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:11.914Z"
+}

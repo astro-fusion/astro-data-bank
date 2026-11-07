@@ -1,0 +1,33 @@
+{
+  "publicId": "1a0f32b2",
+  "wikipediaSlug": "Fritz_Herkenrath",
+  "wikipediaId": "Q658016",
+  "name": "Fritz Herkenrath",
+  "fullName": "Fritz Herkenrath",
+  "profileSummary": "Friedrich \"Fritz\" Herkenrath was a football goalkeeper for West Germany at the 1958 FIFA World Cup. He earned 21 caps between 1954 and 1958.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Verrassende_voetbalzege_in_D%C3%BCsseldorf_Weeknummer%2C_56-12_-_Open_Beelden_-_9166.ogv/330px--Verrassende_voetbalzege_in_D%C3%BCsseldorf_Weeknummer%2C_56-12_-_Open_Beelden_-_9166.ogv.jpg",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Herkenrath",
+  "dateOfBirth": "1928-09-09",
+  "birthDateParsed": "1928-09-09",
+  "dateOfDeath": "2016-04-18",
+  "deathDateParsed": "2016-04-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.942222222",
+  "birthCoordinatesLng": "6.957777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q658016",
+  "birthPlace": "Cologne",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:30.668Z"
+}

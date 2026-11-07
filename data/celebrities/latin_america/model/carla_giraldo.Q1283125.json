@@ -1,0 +1,36 @@
+{
+  "publicId": "5f7e0f60",
+  "wikipediaSlug": "Carla_Giraldo",
+  "wikipediaId": "Q1283125",
+  "name": "Carla Giraldo",
+  "fullName": "Carla Giraldo",
+  "profileSummary": "Carla Evelyn Giraldo Quintero is a Colombian actress, model and singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Carla_Giraldo_en_2026_02.png/330px-Carla_Giraldo_en_2026_02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carla_Giraldo",
+  "dateOfBirth": "1986-08-30",
+  "birthDateParsed": "1986-08-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.250200154",
+  "birthCoordinatesLng": "-75.5675845",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "actor",
+    "singer",
+    "businessperson"
+  ],
+  "qid": "Q1283125",
+  "birthPlace": "Medellín",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:43.904Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "77246e77",
+  "wikipediaSlug": "Carrie_Ng",
+  "wikipediaId": "Q701984",
+  "name": "Carrie Ng",
+  "fullName": "Carrie Ng",
+  "profileSummary": "Carrie Ng is a Hong Kong actress well known for both Category-III cult and mainstream films. She won Best Actress at the 1993 Golden Horse Film Festival awards for her performance in Remains of a Woman and Best Supporting Actress at the 2000 Hong Kong Film Awards for The Kid. Other notable film credits include Edward Yang's Mahjong (1996) and cult classics Sex and Zen (1991) and Naked Killer (1992).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%E5%90%B3%E5%AE%B6%E9%BA%97.jpg/330px-%E5%90%B3%E5%AE%B6%E9%BA%97.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carrie_Ng",
+  "dateOfBirth": "1963-11-30",
+  "birthDateParsed": "1963-11-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.316666666",
+  "birthCoordinatesLng": "114.183333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "film director"
+  ],
+  "qid": "Q701984",
+  "birthPlace": "Kowloon",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:22.278Z"
+}

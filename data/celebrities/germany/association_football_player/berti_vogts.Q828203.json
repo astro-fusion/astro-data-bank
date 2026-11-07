@@ -1,0 +1,34 @@
+{
+  "publicId": "a196a64f",
+  "wikipediaSlug": "Berti_Vogts",
+  "wikipediaId": "Q828203",
+  "name": "Berti Vogts",
+  "fullName": "Berti Vogts",
+  "profileSummary": "Hans-Hubert \"Berti\" Vogts is a German former football manager and player. A defender, he played for Borussia Mönchengladbach his whole club career and won the FIFA World Cup with West Germany in 1974. Vogts later managed Germany, winning the UEFA European Championship in 1996.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Berti_Vogts_1_%28cropped%29.JPG/330px-Berti_Vogts_1_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Berti_Vogts",
+  "dateOfBirth": "1946-12-30",
+  "birthDateParsed": "1946-12-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.1961",
+  "birthCoordinatesLng": "6.60694",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q828203",
+  "birthPlace": "Büttgen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:56.423Z"
+}

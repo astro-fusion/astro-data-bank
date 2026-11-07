@@ -1,0 +1,36 @@
+{
+  "publicId": "ea82be5d",
+  "wikipediaSlug": "Yang_Kuei-mei",
+  "wikipediaId": "Q701002",
+  "name": "Yang Kuei-mei",
+  "fullName": "Yang Kuei-mei",
+  "profileSummary": "Yang Kuei-mei is a Taiwanese actress and television host. She has had starring roles in Eat Drink Man Woman, Vive L'Amour, and The Hole.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Yang_Kuei-mei_20200303.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yang_Kuei-mei",
+  "dateOfBirth": "1959-09-06",
+  "birthDateParsed": "1959-09-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "voice actor",
+    "actor"
+  ],
+  "qid": "Q701002",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:32.826Z"
+}

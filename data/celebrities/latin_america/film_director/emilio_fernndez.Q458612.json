@@ -1,0 +1,37 @@
+{
+  "publicId": "2cc10d5f",
+  "wikipediaSlug": "Emilio_Fernández",
+  "wikipediaId": "Q458612",
+  "name": "Emilio Fernández",
+  "fullName": "Emilio Fernández",
+  "profileSummary": "Emilio Fernández Romo, nicknamed \"El Indio\", was a Mexican film director, screenwriter, and actor. He was one of the most prolific and acclaimed film directors of the Golden Age of Mexican cinema in the 1940s and '50s. His film María Candelaria (1944) won the Palme d'Or at the 1946 Cannes Film Festival, the first Mexican film to receive the honor. As an actor, he worked in numerous film productions in both Mexico and in Hollywood.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/EmilioFernandez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emilio_Fern%C3%A1ndez",
+  "dateOfBirth": "1904-03-26",
+  "birthDateParsed": "1904-03-26",
+  "dateOfDeath": "1986-08-06",
+  "deathDateParsed": "1986-08-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "27.933333333",
+  "birthCoordinatesLng": "-101.133333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "screenwriter",
+    "military personnel",
+    "film actor",
+    "television actor",
+    "film producer",
+    "actor"
+  ],
+  "qid": "Q458612",
+  "birthPlace": "Sabinas Municipality",
+  "fetchedAt": "2026-08-16T13:16:17.838Z"
+}

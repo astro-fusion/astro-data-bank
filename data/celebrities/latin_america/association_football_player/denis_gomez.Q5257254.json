@@ -1,0 +1,33 @@
+{
+  "publicId": "14471ca0",
+  "wikipediaSlug": "Denis_Gomez",
+  "wikipediaId": "Q5257254",
+  "name": "Denis Gomez",
+  "fullName": "Denis Gomez",
+  "profileSummary": "\nDenis Leonardo Gomez Lozano, commonly known as Denis Gomez, is a Colombian professional footballer who plays as a right-back or right midfielder.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Gomez",
+  "dateOfBirth": "1991-10-07",
+  "birthDateParsed": "1991-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "9.2394583",
+  "birthCoordinatesLng": "-75.8139786",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q5257254",
+  "birthPlace": "Vereda El Campano, municipio de Pueblo Nuevo Cordoba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:51.253Z"
+}

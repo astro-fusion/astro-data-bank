@@ -1,0 +1,33 @@
+{
+  "publicId": "a1315a89",
+  "wikipediaSlug": "Alexander_Ovechkin",
+  "wikipediaId": "Q311374",
+  "name": "Alexander Ovechkin",
+  "fullName": "Alexander Ovechkin",
+  "profileSummary": "Alexander Mikhailovich Ovechkin is a Russian professional ice hockey left winger and captain for the Washington Capitals of the National Hockey League (NHL). Nicknamed \"the Great 8\" and \"Ovi\", as well as \"Alexander the Great\" by Russian media, Ovechkin has scored the most career goals in NHL regular season history, and is the only player in NHL history to have scored 900 regular season goals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Alexander_Ovechkin_%2849479646361%29_%281%29.jpg/330px-Alexander_Ovechkin_%2849479646361%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Ovechkin",
+  "dateOfBirth": "1985-09-17",
+  "birthDateParsed": "1985-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "ice hockey player"
+  ],
+  "qid": "Q311374",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:44.893Z"
+}

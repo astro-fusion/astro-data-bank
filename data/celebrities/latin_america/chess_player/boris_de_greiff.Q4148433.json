@@ -1,0 +1,33 @@
+{
+  "publicId": "ded65ec5",
+  "wikipediaSlug": "Boris_de_Greiff",
+  "wikipediaId": "Q4148433",
+  "name": "Boris de Greiff",
+  "fullName": "Boris de Greiff",
+  "profileSummary": "Boris de Greiff Bernal was a Colombian chess master and writer, born in Medellín. He was the son of the Colombian poet León de Greiff.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_de_Greiff",
+  "dateOfBirth": "1930-02-13",
+  "birthDateParsed": "1930-02-13",
+  "dateOfDeath": "2011-10-31",
+  "deathDateParsed": "2011-10-31",
+  "birthTime": null,
+  "birthCoordinatesLat": "6.250200154",
+  "birthCoordinatesLng": "-75.5675845",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chess player"
+  ],
+  "qid": "Q4148433",
+  "birthPlace": "Medellín",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:50.600Z"
+}

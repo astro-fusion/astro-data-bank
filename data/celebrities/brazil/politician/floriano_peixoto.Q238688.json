@@ -1,0 +1,33 @@
+{
+  "publicId": "5cc18541",
+  "wikipediaSlug": "Floriano_Peixoto",
+  "wikipediaId": "Q238688",
+  "name": "Floriano Peixoto",
+  "fullName": "Floriano Peixoto",
+  "profileSummary": "Floriano Vieira Peixoto was a Brazilian military officer and politician. A veteran of the Paraguayan War and several other conflicts in Brazil, he served as the second president of Brazil from 1891 to 1894, and previously as the country's first vice president in 1891. Born in Ipioca and nicknamed the Iron Marshal, he was the first vice president of Brazil to have succeeded the president mid-term.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Floriano_Peixoto_%281891%29.jpg/330px-Floriano_Peixoto_%281891%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Floriano_Peixoto",
+  "dateOfBirth": "1839-04-30",
+  "birthDateParsed": "1839-04-30",
+  "dateOfDeath": "1895-06-29",
+  "deathDateParsed": "1895-06-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "-9.665833333",
+  "birthCoordinatesLng": "-35.735",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q238688",
+  "birthPlace": "Maceió",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:21.770Z"
+}

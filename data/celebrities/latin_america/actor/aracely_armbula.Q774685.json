@@ -1,0 +1,37 @@
+{
+  "publicId": "e7656645",
+  "wikipediaSlug": "Aracely_Arámbula",
+  "wikipediaId": "Q774685",
+  "name": "Aracely Arámbula",
+  "fullName": "Aracely Arámbula",
+  "profileSummary": "Aracely Arámbula Jáquez, known professionally as Aracely Arámbula, is a Mexican actress, model, singer, television personality and entrepreneur.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aracely_Ar%C3%A1mbula_in_May_2017.png/330px-Aracely_Ar%C3%A1mbula_in_May_2017.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aracely_Ar%C3%A1mbula",
+  "dateOfBirth": "1975-03-06",
+  "birthDateParsed": "1975-03-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "28.636944444",
+  "birthCoordinatesLng": "-106.076944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "model",
+    "film actor"
+  ],
+  "qid": "Q774685",
+  "birthPlace": "Chihuahua City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:24.901Z"
+}

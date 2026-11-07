@@ -1,0 +1,33 @@
+{
+  "publicId": "0389d023",
+  "wikipediaSlug": "Antonio_Rüdiger",
+  "wikipediaId": "Q96755",
+  "name": "Antonio Rüdiger",
+  "fullName": "Antonio Rüdiger",
+  "profileSummary": "Antonio Rüdiger is a German professional footballer who plays as a centre-back for La Liga club Real Madrid and the Germany national team. He is known for his aggressive playing style, speed, tackling ability and strong aerial presence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Antonio_Rudiger_Ecuador_v_Germany_25_June_2026-055_%28cropped%29.jpg/330px-Antonio_Rudiger_Ecuador_v_Germany_25_June_2026-055_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_R%C3%BCdiger",
+  "dateOfBirth": "1993-03-03",
+  "birthDateParsed": "1993-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q96755",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:40.858Z"
+}

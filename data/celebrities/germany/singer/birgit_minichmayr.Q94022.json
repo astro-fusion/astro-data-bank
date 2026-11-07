@@ -1,0 +1,36 @@
+{
+  "publicId": "43978250",
+  "wikipediaSlug": "Birgit_Minichmayr",
+  "wikipediaId": "Q94022",
+  "name": "Birgit Minichmayr",
+  "fullName": "Birgit Minichmayr",
+  "profileSummary": "Birgit Minichmayr is an Austrian actress. She studied drama at the Max Reinhardt Seminar in Vienna. For her work in Maren Ade's film Everyone Else she won Silver Bear for Best Actress at 59th Berlin International Film Festival. She is the only Austrian actress to win this award in history of the festival and the first Austrian actress to win best actress award at a major European film festival since 1956. She worked with several major European directors including Michael Haneke, Tom Tykwer and Jessica Hausner.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Birgit_Minichmayr_at_Berlinale_2026-1.jpg/330px-Birgit_Minichmayr_at_Berlinale_2026-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Birgit_Minichmayr",
+  "dateOfBirth": "1977-04-03",
+  "birthDateParsed": "1977-04-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.305833333",
+  "birthCoordinatesLng": "14.286388888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q94022",
+  "birthPlace": "Linz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:28.807Z"
+}

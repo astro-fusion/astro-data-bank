@@ -1,0 +1,36 @@
+{
+  "publicId": "e12a12e6",
+  "wikipediaSlug": "Ernst_Arndt_(actor)",
+  "wikipediaId": "Q89375",
+  "name": "Ernst Arndt (actor)",
+  "fullName": "Ernst Arndt (actor)",
+  "profileSummary": "Ernst Arndt was a German Jewish stage and film actor notable for his later career in Austria.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Ernst_Arndt.jpg/330px-Ernst_Arndt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernst_Arndt_(actor)",
+  "dateOfBirth": "1861-02-03",
+  "birthDateParsed": "1861-02-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.1315889",
+  "birthCoordinatesLng": "11.6399609",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "director"
+  ],
+  "qid": "Q89375",
+  "birthPlace": "Magdeburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:31.073Z"
+}

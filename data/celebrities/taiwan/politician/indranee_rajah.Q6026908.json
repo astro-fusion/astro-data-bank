@@ -1,0 +1,34 @@
+{
+  "publicId": "94b89e61",
+  "wikipediaSlug": "Indranee_Rajah",
+  "wikipediaId": "Q6026908",
+  "name": "Indranee Rajah",
+  "fullName": "Indranee Rajah",
+  "profileSummary": "Indranee Thurai Rajah is a Singaporean politician and lawyer who has been serving as Minister in the Prime Minister's Office and Second Minister for Finance since 2018, and Second Minister for National Development and Leader of the House since 2020. A member of the governing People's Action Party (PAP), she was the Member of Parliament (MP) representing the Tanjong Pagar Group Representation Constituency (GRC) between 2001 and 2025 and the MP representing Pasir Ris–Changi GRC since 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Indranee_Rajah_at_Built_Environment_%28BCA%29_Leaders_Retreat_2025_20250611_165823.jpg/330px-Indranee_Rajah_at_Built_Environment_%28BCA%29_Leaders_Retreat_2025_20250611_165823.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Indranee_Rajah",
+  "dateOfBirth": "1963-04-12",
+  "birthDateParsed": "1963-04-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.85",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q6026908",
+  "birthPlace": "Colony of Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:41.217Z"
+}

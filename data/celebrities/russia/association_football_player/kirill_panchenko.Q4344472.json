@@ -1,0 +1,34 @@
+{
+  "publicId": "14729678",
+  "wikipediaSlug": "Kirill_Panchenko",
+  "wikipediaId": "Q4344472",
+  "name": "Kirill Panchenko",
+  "fullName": "Kirill Panchenko",
+  "profileSummary": "Kirill Viktorovich Panchenko is a Russian football coach and a former player who played as a second striker. He is the manager of Dynamo-2 Moscow.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirill_Panchenko_2020.jpg/330px-Kirill_Panchenko_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kirill_Panchenko",
+  "dateOfBirth": "1989-10-16",
+  "birthDateParsed": "1989-10-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.616666666",
+  "birthCoordinatesLng": "39.6",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q4344472",
+  "birthPlace": "Lipetsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:20.492Z"
+}

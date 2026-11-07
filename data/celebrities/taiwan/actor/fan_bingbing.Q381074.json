@@ -1,0 +1,38 @@
+{
+  "publicId": "ff7e4bda",
+  "wikipediaSlug": "Fan_Bingbing",
+  "wikipediaId": "Q381074",
+  "name": "Fan Bingbing",
+  "fullName": "Fan Bingbing",
+  "profileSummary": "Fan Bingbing is a Chinese actress. After gaining recognition for the costume drama My Fair Princess (1998–1999), Fan's breakthrough came with Feng Xiaogang's film Cell Phone (2003), which won her the Hundred Flowers Award for Best Actress. She followed with television series such as The Proud Twins (2004), Eight Heroes (2006), and The Empress of China (2014) while collaborating with Li Yu on art-house films such as Lost in Beijing (2007), Buddha Mountain (2011), Double Xposure (2012), and Ever Since We Love (2015). She reunited with Feng in I Am Not Madame Bovary (2016), which won her the Silver Shell for Best Actress and the Golden Rooster Award for Best Actress. Fan's international credits include My Way (2011), X-Men: Days of Future Past (2014), The 355 (2022), Ice Road: Vengeance (2025), and Mother Bhumi (2025), for which she won the Golden Horse Award for Best Leading Actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fan_Bingbing-3213_%28cropped%29.jpg/330px-Fan_Bingbing-3213_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fan_Bingbing",
+  "dateOfBirth": "1981-09-16",
+  "birthDateParsed": "1981-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "37.464444444",
+  "birthCoordinatesLng": "121.447777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor",
+    "screenwriter",
+    "model",
+    "television producer"
+  ],
+  "qid": "Q381074",
+  "birthPlace": "Yantai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:17.854Z"
+}

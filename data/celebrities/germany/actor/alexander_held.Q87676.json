@@ -1,0 +1,33 @@
+{
+  "publicId": "bcd5e7ce",
+  "wikipediaSlug": "Alexander_Held",
+  "wikipediaId": "Q87676",
+  "name": "Alexander Held",
+  "fullName": "Alexander Held",
+  "profileSummary": "Gerald Alexander Held was a German actor. He was internationally best-known for his depictions of people involved in recent history, as Walther Hewel in the 2004 film Der Untergang, Robert Mohr in the 2005 film Sophie Scholl – Die letzten Tage and as state prosecutor Siegfried Buback in the 2008 film Der Baader Meinhof Komplex. He played the head commissioner in each of two German television crime series, Stralsund and München Mord, portraying two distinctly different characters.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Alexander_Held_%281a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Held",
+  "dateOfBirth": "1957-11-30",
+  "birthDateParsed": "1957-11-30",
+  "dateOfDeath": "2026-05-12",
+  "deathDateParsed": "2026-05-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q87676",
+  "birthPlace": "Munich",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:57.154Z"
+}

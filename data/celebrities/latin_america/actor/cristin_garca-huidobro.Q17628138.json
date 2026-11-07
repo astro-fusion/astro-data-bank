@@ -1,0 +1,33 @@
+{
+  "publicId": "2515e46f",
+  "wikipediaSlug": "Cristián_García-Huidobro",
+  "wikipediaId": "Q17628138",
+  "name": "Cristián García-Huidobro",
+  "fullName": "Cristián García-Huidobro",
+  "profileSummary": "Cristián Mario García-Huidobro Lira is a Chilean actor and comedian.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cristi%C3%A1n_Garc%C3%ADa-Huidobro_2_%28cropped%29.jpg/330px-Cristi%C3%A1n_Garc%C3%ADa-Huidobro_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristi%C3%A1n_Garc%C3%ADa-Huidobro",
+  "dateOfBirth": "1952-05-27",
+  "birthDateParsed": "1952-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q17628138",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:47.612Z"
+}

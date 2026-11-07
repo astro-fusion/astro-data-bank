@@ -1,0 +1,40 @@
+{
+  "publicId": "a70178bb",
+  "wikipediaSlug": "Erich_von_Stroheim",
+  "wikipediaId": "Q78508",
+  "name": "Erich von Stroheim",
+  "fullName": "Erich von Stroheim",
+  "profileSummary": "Erich Oswald Hans Carl Maria von Stroheim was an Austrian-American director, screenwriter, actor and producer, most noted as a film star and avant-garde, visionary director of the silent era. His 1924 film Greed, originally over nine hours long, was edited against his wishes to about two-and-a-half hours; despite initial negative reception, the theatrical release is considered one of the greatest films ever made. After clashes with Hollywood studio bosses over budget and workers' rights problems, Stroheim found it difficult to find work as a director and subsequently became a well-respected character actor, particularly in French cinema. As an actor, he was nominated for the Academy Award for Best Supporting Actor for his performance as Max von Mayerling in Sunset Boulevard (1950).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Stroheim_Harcourt_1946.jpg/330px-Stroheim_Harcourt_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erich_von_Stroheim",
+  "dateOfBirth": "1885-09-22",
+  "birthDateParsed": "1885-09-22",
+  "dateOfDeath": "1957-05-12",
+  "deathDateParsed": "1957-05-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "screenwriter",
+    "film actor",
+    "film producer",
+    "costume designer",
+    "director",
+    "writer"
+  ],
+  "qid": "Q78508",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:43.373Z"
+}

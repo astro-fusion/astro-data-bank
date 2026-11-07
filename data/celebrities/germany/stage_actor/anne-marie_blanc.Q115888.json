@@ -1,0 +1,35 @@
+{
+  "publicId": "a085cd0e",
+  "wikipediaSlug": "Anne-Marie_Blanc",
+  "wikipediaId": "Q115888",
+  "name": "Anne-Marie Blanc",
+  "fullName": "Anne-Marie Blanc",
+  "profileSummary": "Anne-Marie Blanc was a Swiss film and television actress, style icon and was commonly referred to as \"The Grand Dame of the Swiss Film\". Her granddaughter is the actress Mona Petri.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Anne-Marie_Blanc.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne-Marie_Blanc",
+  "dateOfBirth": "1919-09-02",
+  "birthDateParsed": "1919-09-02",
+  "dateOfDeath": "2009-02-05",
+  "deathDateParsed": "2009-02-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "46.466666666",
+  "birthCoordinatesLng": "6.85",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q115888",
+  "birthPlace": "Vevey",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:20.035Z"
+}

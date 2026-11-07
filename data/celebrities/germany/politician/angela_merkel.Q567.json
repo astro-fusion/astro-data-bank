@@ -1,0 +1,36 @@
+{
+  "publicId": "99b76410",
+  "wikipediaSlug": "Angela_Merkel",
+  "wikipediaId": "Q567",
+  "name": "Angela Merkel",
+  "fullName": "Angela Merkel",
+  "profileSummary": "Angela Dorothea Merkel is a German stateswoman and retired politician who served as Chancellor of Germany from 2005 to 2021. She is the only woman to have held the office and the only former East German. She was Leader of the Opposition from 2002 to 2005 and Leader of the Christian Democratic Union (CDU) from 2000 to 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/330px-Angela_Merkel_2019_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angela_Merkel",
+  "dateOfBirth": "1954-07-17",
+  "birthDateParsed": "1954-07-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.57188",
+  "birthCoordinatesLng": "9.96623",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physicist",
+    "statesperson",
+    "chemist"
+  ],
+  "qid": "Q567",
+  "birthPlace": "Elim hospital",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:11.340Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "84e737e6",
+  "wikipediaSlug": "Douglas_Costa",
+  "wikipediaId": "Q391680",
+  "name": "Douglas Costa",
+  "fullName": "Douglas Costa",
+  "profileSummary": "Douglas Costa de Souza is a Brazilian professional footballer who plays as a winger for UAE First Division League club Al-Ittifaq. He is known for his dribbling skills, speed, acceleration, and crossing ability.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Douglas_Costa_%28BRA%29_850_1486_%28cropped%29.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Douglas_Costa_%28BRA%29_850_1486_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Douglas_Costa",
+  "dateOfBirth": "1990-09-14",
+  "birthDateParsed": "1990-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-29.838888888",
+  "birthCoordinatesLng": "-51.143888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q391680",
+  "birthPlace": "Sapucaia do Sul",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:00.166Z"
+}

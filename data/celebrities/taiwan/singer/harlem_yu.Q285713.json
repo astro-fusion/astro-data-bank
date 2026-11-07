@@ -1,0 +1,38 @@
+{
+  "publicId": "97502996",
+  "wikipediaSlug": "Harlem_Yu",
+  "wikipediaId": "Q285713",
+  "name": "Harlem Yu",
+  "fullName": "Harlem Yu",
+  "profileSummary": "Harlem Yu is a Taiwanese singer-songwriter, television host and businessman. He has been hosting television shows in Taiwan since 1994 and in China since 2011, and served as a coach for three seasons of The Voice of China and three seasons of Sing! China.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Harlem_Yu_20140319.jpg/330px-Harlem_Yu_20140319.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harlem_Yu",
+  "dateOfBirth": "1961-07-28",
+  "birthDateParsed": "1961-07-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "television presenter",
+    "television actor",
+    "film actor",
+    "songwriter"
+  ],
+  "qid": "Q285713",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:44.667Z"
+}

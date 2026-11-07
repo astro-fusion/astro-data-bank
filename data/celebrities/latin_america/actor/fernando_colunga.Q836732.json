@@ -1,0 +1,35 @@
+{
+  "publicId": "d24bad49",
+  "wikipediaSlug": "Fernando_Colunga",
+  "wikipediaId": "Q836732",
+  "name": "Fernando Colunga",
+  "fullName": "Fernando Colunga",
+  "profileSummary": "Fernando Colunga Olivares is a Mexican actor known for his work in Mexican telenovelas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fernando_Colunga_in_the_1980s_%28cropped%29.jpg/330px-Fernando_Colunga_in_the_1980s_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Colunga",
+  "dateOfBirth": "1966-03-03",
+  "birthDateParsed": "1966-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "40.5563991",
+  "birthCoordinatesLng": "-2.6494368",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "model",
+    "civil engineer"
+  ],
+  "qid": "Q836732",
+  "birthPlace": "Pareja",
+  "fetchedAt": "2026-08-16T13:15:55.449Z"
+}

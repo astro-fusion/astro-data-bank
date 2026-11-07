@@ -1,0 +1,36 @@
+{
+  "publicId": "956b6a1c",
+  "wikipediaSlug": "Li_Bingbing",
+  "wikipediaId": "Q254166",
+  "name": "Li Bingbing",
+  "fullName": "Li Bingbing",
+  "profileSummary": "Li Bingbing is a Chinese actress. She gained critical acclaim for her role in Seventeen Years (1999) and received widespread success with films such as A World Without Thieves (2004), Waiting Alone (2005), The Knot (2006), The Forbidden Kingdom (2008), The Message (2009), and Detective Dee and the Mystery of the Phantom Flame (2010). Li has also starred in Hollywood films Resident Evil: Retribution (2012), Transformers: Age of Extinction (2014), and The Meg (2018).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Li_Bingbing.png/330px-Li_Bingbing.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Bingbing",
+  "dateOfBirth": "1973-02-27",
+  "birthDateParsed": "1973-02-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "44.833333333",
+  "birthCoordinatesLng": "127.5",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "singer"
+  ],
+  "qid": "Q254166",
+  "birthPlace": "Wuchang City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:58.621Z"
+}

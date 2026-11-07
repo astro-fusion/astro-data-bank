@@ -1,0 +1,34 @@
+{
+  "publicId": "56137762",
+  "wikipediaSlug": "Manuel_González_Flores",
+  "wikipediaId": "Q380975",
+  "name": "Manuel González Flores",
+  "fullName": "Manuel González Flores",
+  "profileSummary": "José Manuel del Refugio González Flores was a Mexican general and liberal politician who served as the 35th President of Mexico from 1880 to 1884.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/President_Manuel_Gonzalez.jpg/330px-President_Manuel_Gonzalez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Gonz%C3%A1lez_Flores",
+  "dateOfBirth": "1833-06-18",
+  "birthDateParsed": "1833-06-18",
+  "dateOfDeath": "1893-04-10",
+  "deathDateParsed": "1893-04-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.85",
+  "birthCoordinatesLng": "-97.504166666",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q380975",
+  "birthPlace": "Heroica Matamoros",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:49.950Z"
+}

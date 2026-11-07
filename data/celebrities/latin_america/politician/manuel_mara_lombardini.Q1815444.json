@@ -1,0 +1,34 @@
+{
+  "publicId": "ed589c5c",
+  "wikipediaSlug": "Manuel_María_Lombardini",
+  "wikipediaId": "Q1815444",
+  "name": "Manuel María Lombardini",
+  "fullName": "Manuel María Lombardini",
+  "profileSummary": "Manuel Apolinario Josef María Ignacio Antonio Lombardini de la Torre (1802–1853) was a Mexican soldier who served as president briefly for about three months in 1853. He rose to power in the wake of a revolution against the government of President Mariano Arista. After Arista and his successor Juan Bautista Ceballos resigned, the insurgents elevated Lombardini to the presidency as a matter of convenience, and he was only ever meant to serve as a placeholder while the true aim of the insurgents, the restoration of Santa Anna, was carried out. Lombardini would resign accordingly on 20 April, and he died of pneumonia in December of the same year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manuel_Maria_Lombardini%2C_Presidente_interino_de_M%C3%A9xico.jpg/330px-Manuel_Maria_Lombardini%2C_Presidente_interino_de_M%C3%A9xico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Mar%C3%ADa_Lombardini",
+  "dateOfBirth": "1802-07-23",
+  "birthDateParsed": "1802-07-23",
+  "dateOfDeath": "1853-12-22",
+  "deathDateParsed": "1853-12-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q1815444",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:53.112Z"
+}

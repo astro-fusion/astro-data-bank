@@ -1,0 +1,33 @@
+{
+  "publicId": "f71ff253",
+  "wikipediaSlug": "Adán_Sánchez",
+  "wikipediaId": "Q2491279",
+  "name": "Adán Sánchez",
+  "fullName": "Adán Sánchez",
+  "profileSummary": "Adán Santos Sánchez Vallejo, known professionally as Adán Chalino Sánchez in honor of his father, was a Mexican-American singer and composer. Like his father, he specialized in regional Mexican music.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ad%C3%A1n_S%C3%A1nchez",
+  "dateOfBirth": "1984-04-14",
+  "birthDateParsed": "1984-04-14",
+  "dateOfDeath": "2004-03-27",
+  "deathDateParsed": "2004-03-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "33.8358492",
+  "birthCoordinatesLng": "-118.3406288",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q2491279",
+  "birthPlace": "Torrance",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:34.473Z"
+}

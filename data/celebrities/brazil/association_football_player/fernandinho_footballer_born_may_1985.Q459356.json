@@ -1,0 +1,33 @@
+{
+  "publicId": "7e80cd61",
+  "wikipediaSlug": "Fernandinho_(footballer,_born_May_1985)",
+  "wikipediaId": "Q459356",
+  "name": "Fernandinho (footballer, born May 1985)",
+  "fullName": "Fernandinho (footballer, born May 1985)",
+  "profileSummary": "Fernando Luiz Roza, known as Fernandinho, is a Brazilian former professional footballer who played as a defensive midfielder. He is regarded as one of the best defensive midfielders of his generation and one of the best Brazilians to play in the Premier League.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/20141118_AUTBRA_5080.jpg/330px-20141118_AUTBRA_5080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernandinho_(footballer%2C_born_May_1985)",
+  "dateOfBirth": "1985-05-04",
+  "birthDateParsed": "1985-05-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.31",
+  "birthCoordinatesLng": "-51.162777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q459356",
+  "birthPlace": "Londrina",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:12.750Z"
+}

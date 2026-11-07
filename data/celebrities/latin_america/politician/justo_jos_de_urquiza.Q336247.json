@@ -1,0 +1,34 @@
+{
+  "publicId": "e68b8102",
+  "wikipediaSlug": "Justo_José_de_Urquiza",
+  "wikipediaId": "Q336247",
+  "name": "Justo José de Urquiza",
+  "fullName": "Justo José de Urquiza",
+  "profileSummary": "Justo José de Urquiza y García was an Argentine general and politician who served as president of the Argentine Confederation from 1854 to 1860.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Daguerrotipo_de_Justo_Jos%C3%A9_de_Urquiza_%28recorte%29.jpg/330px-Daguerrotipo_de_Justo_Jos%C3%A9_de_Urquiza_%28recorte%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Justo_Jos%C3%A9_de_Urquiza",
+  "dateOfBirth": "1801-10-18",
+  "birthDateParsed": "1801-10-18",
+  "dateOfDeath": "1870-04-11",
+  "deathDateParsed": "1870-04-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "-32.1",
+  "birthCoordinatesLng": "-59.3",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q336247",
+  "birthPlace": "Entre Ríos Province",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:16.252Z"
+}

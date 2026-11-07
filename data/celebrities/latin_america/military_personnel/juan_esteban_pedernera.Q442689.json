@@ -1,0 +1,34 @@
+{
+  "publicId": "ecc6e66a",
+  "wikipediaSlug": "Juan_Esteban_Pedernera",
+  "wikipediaId": "Q442689",
+  "name": "Juan Esteban Pedernera",
+  "fullName": "Juan Esteban Pedernera",
+  "profileSummary": "Juan Esteban Pedernera was interim President of Argentina during a brief period in 1861.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/JEPedernera.jpg/330px-JEPedernera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Esteban_Pedernera",
+  "dateOfBirth": "1796-12-25",
+  "birthDateParsed": "1796-12-25",
+  "dateOfDeath": "1886-02-01",
+  "deathDateParsed": "1886-02-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.21666667",
+  "birthCoordinatesLng": "-65.48333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "politician"
+  ],
+  "qid": "Q442689",
+  "birthPlace": "San José del Morro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:54.403Z"
+}

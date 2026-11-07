@@ -1,0 +1,33 @@
+{
+  "publicId": "00de4ec5",
+  "wikipediaSlug": "Albin_Kitzinger",
+  "wikipediaId": "Q511592",
+  "name": "Albin Kitzinger",
+  "fullName": "Albin Kitzinger",
+  "profileSummary": "Albin Kitzinger was a German football player. He played his whole career for 1. FC Schweinfurt 05.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albin_Kitzinger",
+  "dateOfBirth": "1912-02-01",
+  "birthDateParsed": "1912-02-01",
+  "dateOfDeath": "1970-08-06",
+  "deathDateParsed": "1970-08-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.05",
+  "birthCoordinatesLng": "10.233333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q511592",
+  "birthPlace": "Schweinfurt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:51.854Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "e0241c27",
+  "wikipediaSlug": "Andrea_Tovar",
+  "wikipediaId": "Q21623154",
+  "name": "Andrea Tovar",
+  "fullName": "Andrea Tovar",
+  "profileSummary": "Andrea Tovar is a Colombian beauty pageant titleholder who won Miss Colombia 2015, and represented Colombia at Miss Universe 2016, finishing as second runner-up.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Andrea_Tovar_%28cropped%29.jpg/330px-Andrea_Tovar_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Tovar",
+  "dateOfBirth": "1993-09-03",
+  "birthDateParsed": "1993-09-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "5.692277",
+  "birthCoordinatesLng": "-76.658192",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "beauty pageant contestant"
+  ],
+  "qid": "Q21623154",
+  "birthPlace": "Quibdó",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:10.483Z"
+}

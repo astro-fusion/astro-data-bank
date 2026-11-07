@@ -1,0 +1,34 @@
+{
+  "publicId": "faba2d14",
+  "wikipediaSlug": "Álvaro_Obregón",
+  "wikipediaId": "Q217498",
+  "name": "Álvaro Obregón",
+  "fullName": "Álvaro Obregón",
+  "profileSummary": "Álvaro Obregón Salido was a Mexican general, inventor and politician who served as the 46th President of Mexico from 1920 to 1924. Obregón was re-elected to the presidency in 1928 but was assassinated before he could take office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Obreg%C3%B3n_Salido%2C_%C3%81lvaro_%28cropped%29%282%29.jpg/330px-Obreg%C3%B3n_Salido%2C_%C3%81lvaro_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Obreg%C3%B3n",
+  "dateOfBirth": "1880-02-19",
+  "birthDateParsed": "1880-02-19",
+  "dateOfDeath": "1928-07-17",
+  "deathDateParsed": "1928-07-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "27.081666666",
+  "birthCoordinatesLng": "-109.445555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q217498",
+  "birthPlace": "Navojoa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:29.075Z"
+}

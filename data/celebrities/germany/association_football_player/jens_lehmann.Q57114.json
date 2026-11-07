@@ -1,0 +1,38 @@
+{
+  "publicId": "fce5d486",
+  "wikipediaSlug": "Jens_Lehmann",
+  "wikipediaId": "Q57114",
+  "name": "Jens Lehmann",
+  "fullName": "Jens Lehmann",
+  "profileSummary": "Jens Gerhard Lehmann is a German professional football coach and former player who played as a goalkeeper. He was a member of Arsenal's \"Invincibles\", playing every match of their unbeaten title-winning season. He holds the UEFA Champions League record for the most consecutive clean sheets, not conceding a single goal in eight consecutive full matches while he played for Arsenal. He also has the highest number of continuous minutes without conceding goals. In total, this lasted 853 minutes. He is regarded as one of the best goalkeepers of his generation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jens_Lehmann_-_2019202184453_2019-07-21_Champions_for_Charity_-_3017_-_B70I3052_%28cropped%29.jpg/330px-Jens_Lehmann_-_2019202184453_2019-07-21_Champions_for_Charity_-_3017_-_B70I3052_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Lehmann",
+  "dateOfBirth": "1969-11-10",
+  "birthDateParsed": "1969-11-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.450833333",
+  "birthCoordinatesLng": "7.013055555",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "actor",
+    "film actor",
+    "association football coach",
+    "goalkeeper",
+    "athlete"
+  ],
+  "qid": "Q57114",
+  "birthPlace": "Essen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:07.727Z"
+}

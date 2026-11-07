@@ -1,0 +1,35 @@
+{
+  "publicId": "c80b863b",
+  "wikipediaSlug": "José_de_San_Martín",
+  "wikipediaId": "Q134160",
+  "name": "José de San Martín",
+  "fullName": "José de San Martín",
+  "profileSummary": "José Francisco de San Martín y Matorras, nicknamed \"the Liberator of Argentina, Chile and Peru\", was an Argentine general and the primary leader of the southern and central parts of South America's successful struggle for independence from the Spanish Empire who served as the Protector of Peru. Born in Yapeyú, Corrientes, in modern-day Argentina, he left the Viceroyalty of the Río de la Plata at the early age of seven to study in Málaga, Spain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jos%C3%A9_de_San_Mart%C3%ADn_%28retrato%2C_c.1828%29.jpg/330px-Jos%C3%A9_de_San_Mart%C3%ADn_%28retrato%2C_c.1828%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn",
+  "dateOfBirth": "1778-02-25",
+  "birthDateParsed": "1778-02-25",
+  "dateOfDeath": "1850-08-17",
+  "deathDateParsed": "1850-08-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-29.469611",
+  "birthCoordinatesLng": "-56.817444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "politician",
+    "soldier"
+  ],
+  "qid": "Q134160",
+  "birthPlace": "Yapeyú",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:18.146Z"
+}

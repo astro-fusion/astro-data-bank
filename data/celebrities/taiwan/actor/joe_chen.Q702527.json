@@ -1,0 +1,38 @@
+{
+  "publicId": "678dcee7",
+  "wikipediaSlug": "Joe_Chen",
+  "wikipediaId": "Q702527",
+  "name": "Joe Chen",
+  "fullName": "Joe Chen",
+  "profileSummary": "Joe Chen Chiao-en is a Taiwanese actress, singer and television host.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Joe_Chen_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Chen",
+  "dateOfBirth": "1979-04-04",
+  "birthDateParsed": "1979-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "writer",
+    "television actor",
+    "film actor",
+    "model"
+  ],
+  "qid": "Q702527",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:24.836Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "d2a8c57a",
+  "wikipediaSlug": "José_Rondeau",
+  "wikipediaId": "Q959624",
+  "name": "José Rondeau",
+  "fullName": "José Rondeau",
+  "profileSummary": "José Casimiro Rondeau Pereyra was an Argentine-born general and politician who served in senior roles in both Argentina and Uruguay. Chosen as Supreme Director of the United Provinces of the Río de la Plata in April 1815, he did not assume office; he later served as Supreme Director from June 1819 to February 1820. He was Provisional Governor and Captain General of Uruguay between December 1828 and April 1830.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jose_Rondeau_2.jpg/330px-Jose_Rondeau_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rondeau",
+  "dateOfBirth": "1773-03-04",
+  "birthDateParsed": "1773-03-04",
+  "dateOfDeath": "1844-11-18",
+  "deathDateParsed": "1844-11-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military personnel"
+  ],
+  "qid": "Q959624",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:03.284Z"
+}

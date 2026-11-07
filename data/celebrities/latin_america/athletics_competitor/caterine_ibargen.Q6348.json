@@ -1,0 +1,33 @@
+{
+  "publicId": "df95c7a8",
+  "wikipediaSlug": "Caterine_Ibargüen",
+  "wikipediaId": "Q6348",
+  "name": "Caterine Ibargüen",
+  "fullName": "Caterine Ibargüen",
+  "profileSummary": "Caterine Ibargüen Mena ODB is a retired Colombian athlete competing in high jump, long jump and triple jump. Her notable achievements include a gold medal at the 2016 Summer Olympics, silver medal in the 2012 Summer Olympics, two gold medals in the World Championships in Athletics, and two gold medals in the 2011 Pan American Games and 2015 Pan American Games.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Caterine_Ibarg%C3%BCen_Beijing_2015.jpg/330px-Caterine_Ibarg%C3%BCen_Beijing_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caterine_Ibarg%C3%BCen",
+  "dateOfBirth": "1984-02-12",
+  "birthDateParsed": "1984-02-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "7.884722222",
+  "birthCoordinatesLng": "-76.635",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "athletics competitor"
+  ],
+  "qid": "Q6348",
+  "birthPlace": "Apartadó",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:59.394Z"
+}

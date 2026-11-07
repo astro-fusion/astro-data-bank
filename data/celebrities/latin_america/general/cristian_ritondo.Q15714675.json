@@ -1,0 +1,31 @@
+{
+  "publicId": "8a5dc684",
+  "wikipediaSlug": "Cristian_Ritondo",
+  "wikipediaId": "Q15714675",
+  "name": "Cristian Ritondo",
+  "fullName": "Cristian Ritondo",
+  "profileSummary": "Cristian Adrián Ritondo is an Argentine politician and National Deputy for Buenos Aires Province. He leads Republican Proposal in the lower house of National Congress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Cristian_Ritondo_-_Diputados.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Ritondo",
+  "dateOfBirth": "1966-07-27",
+  "birthDateParsed": "1966-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.666666666",
+  "birthCoordinatesLng": "-58.5",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q15714675",
+  "birthPlace": "Mataderos, Ciudad Autónoma de Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:29.243Z"
+}

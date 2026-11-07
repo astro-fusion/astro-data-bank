@@ -1,0 +1,34 @@
+{
+  "publicId": "57ed2102",
+  "wikipediaSlug": "Abram_Ioffe",
+  "wikipediaId": "Q331067",
+  "name": "Abram Ioffe",
+  "fullName": "Abram Ioffe",
+  "profileSummary": "Abram Fedorovich Ioffe was a Russian and Soviet physicist. He received the Stalin Prize (1942) and the Lenin Prize (1961) (posthumously). Ioffe was an expert in various areas of solid state physics and electromagnetism. He established research laboratories for radioactivity, superconductivity, and nuclear physics, many of which became independent institutes. He has been described as the \"father of Soviet physics\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Abram_Ioffe_young2cr.jpg/330px-Abram_Ioffe_young2cr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abram_Ioffe",
+  "dateOfBirth": "1880-10-29",
+  "birthDateParsed": "1880-10-29",
+  "dateOfDeath": "1960-10-14",
+  "deathDateParsed": "1960-10-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.74281279",
+  "birthCoordinatesLng": "33.487908121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "inventor"
+  ],
+  "qid": "Q331067",
+  "birthPlace": "Romny",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:45:49.996Z"
+}

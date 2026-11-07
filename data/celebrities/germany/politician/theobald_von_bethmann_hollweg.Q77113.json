@@ -1,0 +1,37 @@
+{
+  "publicId": "b0e36236",
+  "wikipediaSlug": "Theobald_von_Bethmann_Hollweg",
+  "wikipediaId": "Q77113",
+  "name": "Theobald von Bethmann Hollweg",
+  "fullName": "Theobald von Bethmann Hollweg",
+  "profileSummary": "Theobald Theodor Friedrich Alfred von Bethmann Hollweg was a German politician who was imperial chancellor of the German Empire from 1909 to 1917. He oversaw the German entry into World War I and played a key role during its first three years. He was replaced as chancellor in July 1917 due in large part to opposition to his policies by leaders in the military.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Theobald_von_Bethmann_Hollweg%28cropped%29.jpg/330px-Theobald_von_Bethmann_Hollweg%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Theobald_von_Bethmann_Hollweg",
+  "dateOfBirth": "1856-11-29",
+  "birthDateParsed": "1856-11-29",
+  "dateOfDeath": "1921-01-01",
+  "deathDateParsed": "1921-01-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.810555555",
+  "birthCoordinatesLng": "13.924444444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "jurist",
+    "head of government",
+    "local government officer",
+    "minister"
+  ],
+  "qid": "Q77113",
+  "birthPlace": "Hohenfinow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:53.790Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "9b514b4d",
+  "wikipediaSlug": "Cecilia_Moreau",
+  "wikipediaId": "Q21856214",
+  "name": "Cecilia Moreau",
+  "fullName": "Cecilia Moreau",
+  "profileSummary": "Cecilia Moreau is an Argentine politician, currently serving as National Deputy representing Buenos Aires Province since 2015, and as President of the Chamber of Deputies from 2022 to 2023. She is the first woman to hold that position. Previously, from 2007 to 2011 and again in 2015, Moreau served as a member of the Buenos Aires Province Chamber of Deputies elected in the First Electoral Section.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cecilia_Moreau_2022_%28cropped%29.jpg/330px-Cecilia_Moreau_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cecilia_Moreau",
+  "dateOfBirth": "1976-12-05",
+  "birthDateParsed": "1976-12-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.5",
+  "birthCoordinatesLng": "-58.483333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q21856214",
+  "birthPlace": "Olivos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:21.742Z"
+}

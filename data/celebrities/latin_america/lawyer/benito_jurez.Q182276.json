@@ -1,0 +1,35 @@
+{
+  "publicId": "ba859830",
+  "wikipediaSlug": "Benito_Juárez",
+  "wikipediaId": "Q182276",
+  "name": "Benito Juárez",
+  "fullName": "Benito Juárez",
+  "profileSummary": "Benito Pablo Juárez García was a Mexican politician, military officer, and lawyer who served as the 26th president of Mexico from 1858 until his death in 1872. A Zapotec, he was the first Indigenous president of Mexico and the first democratically elected Indigenous president in postcolonial America. A member of the Liberal Party, he previously held a number of offices, including the governorship of Oaxaca and the presidency of the Supreme Court. During his presidency, he led the Liberals to victory in the Reform War and in the Second French intervention in Mexico.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Presidente_Benito_Pablo_Ju%C3%A1rez_Garc%C3%ADa.jpg/330px-Presidente_Benito_Pablo_Ju%C3%A1rez_Garc%C3%ADa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez",
+  "dateOfBirth": "1806-03-21",
+  "birthDateParsed": "1806-03-21",
+  "dateOfDeath": "1872-07-18",
+  "deathDateParsed": "1872-07-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.4475",
+  "birthCoordinatesLng": "-103.242222222",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "judge",
+    "politician"
+  ],
+  "qid": "Q182276",
+  "birthPlace": "San Pablo Guelatao",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:00.354Z"
+}

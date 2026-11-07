@@ -1,0 +1,34 @@
+{
+  "publicId": "9b066080",
+  "wikipediaSlug": "Charlie_Zaa",
+  "wikipediaId": "Q741251",
+  "name": "Charlie Zaa",
+  "fullName": "Charlie Zaa",
+  "profileSummary": "Carlos Alberto Sánchez, known professionally as Charlie Zaa, is a Colombian singer. Zaa is the son of singer Luis Humberto Sánchez.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Charlie_zaa.png/330px-Charlie_zaa.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Zaa",
+  "dateOfBirth": "1974-01-30",
+  "birthDateParsed": "1974-01-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.303611111",
+  "birthCoordinatesLng": "-74.803888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "musician"
+  ],
+  "qid": "Q741251",
+  "birthPlace": "Girardot",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:25.708Z"
+}

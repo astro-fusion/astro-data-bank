@@ -1,0 +1,33 @@
+{
+  "publicId": "3dc28c1c",
+  "wikipediaSlug": "Artyom_Rebrov",
+  "wikipediaId": "Q4391610",
+  "name": "Artyom Rebrov",
+  "fullName": "Artyom Rebrov",
+  "profileSummary": "Artyom Gennadyevich Rebrov is a Russian former football goalkeeper who works as a technical coordinator at Spartak Moscow.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/SM-AB_2018_%2813%29.jpg/330px-SM-AB_2018_%2813%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artyom_Rebrov",
+  "dateOfBirth": "1984-03-04",
+  "birthDateParsed": "1984-03-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q4391610",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:47.077Z"
+}

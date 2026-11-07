@@ -1,0 +1,35 @@
+{
+  "publicId": "7bbe0a42",
+  "wikipediaSlug": "Pylyp_Illenko",
+  "wikipediaId": "Q12074206",
+  "name": "Pylyp Illenko",
+  "fullName": "Pylyp Illenko",
+  "profileSummary": "Pylyp Yuriyovych Illenko is a Ukrainian actor, politician and producer who served as the head of the Ukrainian State Film Agency from 2014 to 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Philip_Illienko.jpg/330px-Philip_Illienko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pylyp_Illenko",
+  "dateOfBirth": "1977-09-30",
+  "birthDateParsed": "1977-09-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q12074206",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:12.134Z"
+}

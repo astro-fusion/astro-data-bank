@@ -1,0 +1,34 @@
+{
+  "publicId": "7e6c43ae",
+  "wikipediaSlug": "Duan_Yihong",
+  "wikipediaId": "Q8950627",
+  "name": "Duan Yihong",
+  "fullName": "Duan Yihong",
+  "profileSummary": "Duan Yihong is a Chinese actor best known for his role as Yuan Lang in Soldiers Sortie (2006), Long Wenzhang in My Chief and My Regiment (2009), and Hei Wa in White Deer Plain (2011).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Duan_Yihong_%28cropped%29.jpg/330px-Duan_Yihong_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Duan_Yihong",
+  "dateOfBirth": "1973-05-16",
+  "birthDateParsed": "1973-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.916667",
+  "birthCoordinatesLng": "81.316667",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q8950627",
+  "birthPlace": "Yining",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:52.297Z"
+}

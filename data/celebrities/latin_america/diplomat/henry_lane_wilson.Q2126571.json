@@ -1,0 +1,35 @@
+{
+  "publicId": "309b82f9",
+  "wikipediaSlug": "Henry_Lane_Wilson",
+  "wikipediaId": "Q2126571",
+  "name": "Henry Lane Wilson",
+  "fullName": "Henry Lane Wilson",
+  "profileSummary": "Henry Lane Wilson was an American attorney, journalist, and diplomat who served successively as United States Minister to Chile (1897–1904), Minister to Belgium (1905–09), and Ambassador to Mexico (1909–13). He is best known to history for his involvement in the February 1913 coup d'état which deposed and assassinated President of Mexico Francisco I. Madero, for which he remains controversial and \"perhaps the most vilified United States official of [the 20th] century\" in Mexico.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Henry_Lane_Wilson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Lane_Wilson",
+  "dateOfBirth": "1857-11-03",
+  "birthDateParsed": "1857-11-03",
+  "dateOfDeath": "1932-12-22",
+  "deathDateParsed": "1932-12-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "40.038888888",
+  "birthCoordinatesLng": "-86.896666666",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "lawyer",
+    "writer"
+  ],
+  "qid": "Q2126571",
+  "birthPlace": "Crawfordsville",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:37.241Z"
+}

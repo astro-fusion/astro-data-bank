@@ -1,0 +1,37 @@
+{
+  "publicId": "881fa02f",
+  "wikipediaSlug": "Amparo_Grisales",
+  "wikipediaId": "Q2055778",
+  "name": "Amparo Grisales",
+  "fullName": "Amparo Grisales",
+  "profileSummary": "Amparo Grisales de Tessarolo is a Colombian actress. Best known for her role as Lucrecia Rivas in The Mafia Dolls. Also starred in the 2007 Telemundo serial Madre Luna. She also appeared with tenor Plácido Domingo in a music video of the Peruvian song, \"La Flor de la Canela\", from his 1994 Grammy-nominated album, De Mi Alma Latina.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Amparo_Grisales.jpg/330px-Amparo_Grisales.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amparo_Grisales",
+  "dateOfBirth": "1956-09-19",
+  "birthDateParsed": "1956-09-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "5.0675",
+  "birthCoordinatesLng": "-75.51",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "film actor",
+    "television actor",
+    "singer"
+  ],
+  "qid": "Q2055778",
+  "birthPlace": "Manizales",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:54.927Z"
+}

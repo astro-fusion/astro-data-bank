@@ -1,0 +1,37 @@
+{
+  "publicId": "04a0aa5d",
+  "wikipediaSlug": "Michelle_Krusiec",
+  "wikipediaId": "Q271539",
+  "name": "Michelle Krusiec",
+  "fullName": "Michelle Krusiec",
+  "profileSummary": "Michelle Jacqueline Krusiec is an American actress, writer and producer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Michelle_Krusiec_2012_Shankbone.JPG/330px-Michelle_Krusiec_2012_Shankbone.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michelle_Krusiec",
+  "dateOfBirth": "1974-10-02",
+  "birthDateParsed": "1974-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "film producer",
+    "film director"
+  ],
+  "qid": "Q271539",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:44.731Z"
+}

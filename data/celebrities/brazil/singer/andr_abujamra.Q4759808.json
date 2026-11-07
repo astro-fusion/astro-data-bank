@@ -1,0 +1,37 @@
+{
+  "publicId": "e638b4fb",
+  "wikipediaSlug": "André_Abujamra",
+  "wikipediaId": "Q4759808",
+  "name": "André Abujamra",
+  "fullName": "André Abujamra",
+  "profileSummary": "André Cibelli Abujamra is a Brazilian score composer, musician, singer, guitarist, actor, and comedian of Lebanese and Italian origin. Both his father, Antônio Abujamra, and cousin, Clarisse Abujamra, are actors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Andr%C3%A9_Abujamra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Abujamra",
+  "dateOfBirth": "1965-05-15",
+  "birthDateParsed": "1965-05-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "composer",
+    "guitarist",
+    "television actor"
+  ],
+  "qid": "Q4759808",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:00.443Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "5e1792b5",
+  "wikipediaSlug": "Arturo_Escobar_(anthropologist)",
+  "wikipediaId": "Q4801729",
+  "name": "Arturo Escobar (anthropologist)",
+  "fullName": "Arturo Escobar (anthropologist)",
+  "profileSummary": "Arturo Escobar is a Colombian-American anthropologist and professor emeritus of Anthropology at the University of North Carolina at Chapel Hill, USA. His academic research interests include political ecology, anthropology of development, social movements, anti-globalization movements, political ontology, and postdevelopment theory.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arturo_Escobar_(anthropologist)",
+  "dateOfBirth": "1952-11-20",
+  "birthDateParsed": "1952-11-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "5.0675",
+  "birthCoordinatesLng": "-75.51",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "anthropologist",
+    "geographer"
+  ],
+  "qid": "Q4801729",
+  "birthPlace": "Manizales",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:56.053Z"
+}

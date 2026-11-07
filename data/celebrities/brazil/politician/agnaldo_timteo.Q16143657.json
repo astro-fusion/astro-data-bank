@@ -1,0 +1,34 @@
+{
+  "publicId": "28d3b370",
+  "wikipediaSlug": "Agnaldo_Timóteo",
+  "wikipediaId": "Q16143657",
+  "name": "Agnaldo Timóteo",
+  "fullName": "Agnaldo Timóteo",
+  "profileSummary": "Agnaldo Timóteo Pereira was a Brazilian singer and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agnaldo_Tim%C3%B3teo_%288488377495%29.jpg/330px-Agnaldo_Tim%C3%B3teo_%288488377495%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agnaldo_Tim%C3%B3teo",
+  "dateOfBirth": "1936-10-16",
+  "birthDateParsed": "1936-10-16",
+  "dateOfDeath": "2021-04-03",
+  "deathDateParsed": "2021-04-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "-19.79",
+  "birthCoordinatesLng": "-42.138888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "singer"
+  ],
+  "qid": "Q16143657",
+  "birthPlace": "Caratinga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:47.784Z"
+}

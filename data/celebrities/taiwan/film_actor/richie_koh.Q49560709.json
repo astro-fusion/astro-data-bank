@@ -1,0 +1,34 @@
+{
+  "publicId": "f4fe4e11",
+  "wikipediaSlug": "Richie_Koh",
+  "wikipediaId": "Q49560709",
+  "name": "Richie Koh",
+  "fullName": "Richie Koh",
+  "profileSummary": "Richie Koh is a Singaporean actor who is signed to Mediacorp.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richie_Koh_%40_Celebrities_and_Their_First_Times.jpg/330px-Richie_Koh_%40_Celebrities_and_Their_First_Times.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Richie_Koh",
+  "dateOfBirth": "1993-06-16",
+  "birthDateParsed": "1993-06-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q49560709",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:14.092Z"
+}

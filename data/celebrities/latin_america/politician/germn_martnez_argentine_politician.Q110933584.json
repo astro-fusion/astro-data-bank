@@ -1,0 +1,34 @@
+{
+  "publicId": "4601a584",
+  "wikipediaSlug": "Germán_Martínez_(Argentine_politician)",
+  "wikipediaId": "Q110933584",
+  "name": "Germán Martínez (Argentine politician)",
+  "fullName": "Germán Martínez (Argentine politician)",
+  "profileSummary": "Germán Pedro Martínez is an Argentine politician who has been a National Deputy elected for in Santa Fe since 2019. A member of the Justicialist Party, Martínez worked as a legislative aide for Agustín Rossi and Guillermo Carmona from 2005 to his own election to the Chamber of Deputies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Germ%C3%A1n_Pedro_Mart%C3%ADnez%2C_2025_%281%29_%28cropped%29.jpg/330px-Germ%C3%A1n_Pedro_Mart%C3%ADnez%2C_2025_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Mart%C3%ADnez_(Argentine_politician)",
+  "dateOfBirth": "1975-02-22",
+  "birthDateParsed": "1975-02-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-32.9575",
+  "birthCoordinatesLng": "-60.639444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "political scientist"
+  ],
+  "qid": "Q110933584",
+  "birthPlace": "Rosario",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:59.772Z"
+}

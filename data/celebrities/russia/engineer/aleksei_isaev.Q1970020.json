@@ -1,0 +1,33 @@
+{
+  "publicId": "ed9796af",
+  "wikipediaSlug": "Aleksei_Isaev",
+  "wikipediaId": "Q1970020",
+  "name": "Aleksei Isaev",
+  "fullName": "Aleksei Isaev",
+  "profileSummary": "Aleksei Mikhailovich Isaev was a Soviet engineer in the Soviet space program, working on rocket combustion and propellant.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aleksei_Isaev_%281978_env%29.jpg/330px-Aleksei_Isaev_%281978_env%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksei_Isaev",
+  "dateOfBirth": "1908-10-24",
+  "birthDateParsed": "1908-10-24",
+  "dateOfDeath": "1971-06-25",
+  "deathDateParsed": "1971-06-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer"
+  ],
+  "qid": "Q1970020",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:20.393Z"
+}

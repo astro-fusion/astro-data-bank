@@ -1,0 +1,35 @@
+{
+  "publicId": "ed0bc87a",
+  "wikipediaSlug": "Diego_Schoening",
+  "wikipediaId": "Q5274811",
+  "name": "Diego Schoening",
+  "fullName": "Diego Schoening",
+  "profileSummary": "Diego Schoening, is a Mexican singer, actor and television host.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Schoening",
+  "dateOfBirth": "1970-08-05",
+  "birthDateParsed": "1970-08-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q5274811",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:45.573Z"
+}

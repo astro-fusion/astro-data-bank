@@ -1,0 +1,38 @@
+{
+  "publicId": "ff0a8c0d",
+  "wikipediaSlug": "Daniel_Samper_Ospina",
+  "wikipediaId": "Q5218681",
+  "name": "Daniel Samper Ospina",
+  "fullName": "Daniel Samper Ospina",
+  "profileSummary": "Daniel Samper Ospina was born in Bogotá, Colombia, in 1974. He is a Colombian comedian and columnist, and previous director of adult magazine SoHo from 2001 to 2014. He also wrote for Revista Semana.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Daniel_Samper_Ospina.jpg/330px-Daniel_Samper_Ospina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Samper_Ospina",
+  "dateOfBirth": "1974-08-15",
+  "birthDateParsed": "1974-08-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "YouTuber",
+    "writer",
+    "publisher",
+    "humorist",
+    "television producer"
+  ],
+  "qid": "Q5218681",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:35.540Z"
+}

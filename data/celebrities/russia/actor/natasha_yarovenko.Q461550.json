@@ -1,0 +1,35 @@
+{
+  "publicId": "881e0a7f",
+  "wikipediaSlug": "Natasha_Yarovenko",
+  "wikipediaId": "Q461550",
+  "name": "Natasha Yarovenko",
+  "fullName": "Natasha Yarovenko",
+  "profileSummary": "Natalia \"Natasha\" Olegovna Yarovenko is a Ukrainian born actress residing in Spain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Natasha_Yarovenko_%28cropped%29.jpg/330px-Natasha_Yarovenko_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Natasha_Yarovenko",
+  "dateOfBirth": "1979-07-23",
+  "birthDateParsed": "1979-07-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "46.47747",
+  "birthCoordinatesLng": "30.73262",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "film actor"
+  ],
+  "qid": "Q461550",
+  "birthPlace": "Odesa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:48.006Z"
+}

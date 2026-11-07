@@ -1,0 +1,38 @@
+{
+  "publicId": "fd513a04",
+  "wikipediaSlug": "Ana_Victoria",
+  "wikipediaId": "Q5639427",
+  "name": "Ana Victoria",
+  "fullName": "Ana Victoria",
+  "profileSummary": "Ana Victoria Boccadoro Miguel is an American and Mexican singer, songwriter, dancer and record producer. She is the daughter of the singers Amanda Miguel and Diego Verdaguer. In 2012 she was nominated for a Latin Grammy while most of her success is in Mexico.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AV_in_Holly_Drive.jpg/330px-AV_in_Holly_Drive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Victoria",
+  "dateOfBirth": "1983-12-08",
+  "birthDateParsed": "1983-12-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "businessperson",
+    "record producer",
+    "composer",
+    "songwriter",
+    "singer-songwriter"
+  ],
+  "qid": "Q5639427",
+  "birthPlace": "Los Angeles",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:47.200Z"
+}

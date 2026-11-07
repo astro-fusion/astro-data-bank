@@ -1,0 +1,36 @@
+{
+  "publicId": "ac6bda79",
+  "wikipediaSlug": "Agnes_Straub",
+  "wikipediaId": "Q87560",
+  "name": "Agnes Straub",
+  "fullName": "Agnes Straub",
+  "profileSummary": "Agnes Josephine Straub was a German film actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Agnes_Straub_by_Eduard_Oertel.jpg/330px-Agnes_Straub_by_Eduard_Oertel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agnes_Straub",
+  "dateOfBirth": "1890-04-02",
+  "birthDateParsed": "1890-04-02",
+  "dateOfDeath": "1941-07-08",
+  "deathDateParsed": "1941-07-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "theatre manager",
+    "actor"
+  ],
+  "qid": "Q87560",
+  "birthPlace": "Munich",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:56.495Z"
+}

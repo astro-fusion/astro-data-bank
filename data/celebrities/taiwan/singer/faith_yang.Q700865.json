@@ -1,0 +1,36 @@
+{
+  "publicId": "0d0bafec",
+  "wikipediaSlug": "Faith_Yang",
+  "wikipediaId": "Q700865",
+  "name": "Faith Yang",
+  "fullName": "Faith Yang",
+  "profileSummary": "Faith Yang Naiwen is a Taiwanese musician. She grew up in Sydney, Australia and studied biology and genetics at the University of Sydney. In 2000, Yang won the Golden Melody Award for Best Female Mandarin Singer for the album Silence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Faith_Yang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faith_Yang",
+  "dateOfBirth": "1974-03-02",
+  "birthDateParsed": "1974-03-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "model",
+    "actor",
+    "recording artist"
+  ],
+  "qid": "Q700865",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:25.710Z"
+}

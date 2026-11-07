@@ -1,0 +1,33 @@
+{
+  "publicId": "f9290bf6",
+  "wikipediaSlug": "Carlos_Alberto_Palacio",
+  "wikipediaId": "Q5041698",
+  "name": "Carlos Alberto Palacio",
+  "fullName": "Carlos Alberto Palacio",
+  "profileSummary": "Carlos Alberto Palacio is a Colombian football midfielder, who currently plays for Fortaleza F.C. in the Categoría Primera B.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Alberto_Palacio",
+  "dateOfBirth": "1988-02-05",
+  "birthDateParsed": "1988-02-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q5041698",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:42.516Z"
+}

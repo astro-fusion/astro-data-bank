@@ -1,0 +1,36 @@
+{
+  "publicId": "6fb1e14b",
+  "wikipediaSlug": "Cote_de_Pablo",
+  "wikipediaId": "Q230647",
+  "name": "Cote de Pablo",
+  "fullName": "Cote de Pablo",
+  "profileSummary": "María José de Pablo Fernández, known professionally as Coté de Pablo, is a Chilean-American actress. Born in Santiago, Chile, she moved to the United States at the age of 10, where she studied acting.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cote_de_Pablo_at_San_Diego_Comic_Con_2025.jpg/330px-Cote_de_Pablo_at_San_Diego_Comic_Con_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cote_de_Pablo",
+  "dateOfBirth": "1979-11-12",
+  "birthDateParsed": "1979-11-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "voice actor",
+    "stage actor"
+  ],
+  "qid": "Q230647",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:58.659Z"
+}

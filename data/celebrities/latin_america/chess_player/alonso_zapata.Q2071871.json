@@ -1,0 +1,33 @@
+{
+  "publicId": "1e22db3b",
+  "wikipediaSlug": "Alonso_Zapata",
+  "wikipediaId": "Q2071871",
+  "name": "Alonso Zapata",
+  "fullName": "Alonso Zapata",
+  "profileSummary": "Alonso Zapata Ramirez is a Colombian chess grandmaster and eight-time Colombian Chess Champion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zapata_Alonso.jpg/330px-Zapata_Alonso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alonso_Zapata",
+  "dateOfBirth": "1958-08-22",
+  "birthDateParsed": "1958-08-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.814444444",
+  "birthCoordinatesLng": "-75.694722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chess player"
+  ],
+  "qid": "Q2071871",
+  "birthPlace": "Pereira",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:52.558Z"
+}

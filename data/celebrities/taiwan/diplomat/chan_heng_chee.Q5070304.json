@@ -1,0 +1,35 @@
+{
+  "publicId": "28775aeb",
+  "wikipediaSlug": "Chan_Heng_Chee",
+  "wikipediaId": "Q5070304",
+  "name": "Chan Heng Chee",
+  "fullName": "Chan Heng Chee",
+  "profileSummary": "Chan Heng Chee is a Singaporean academic and diplomat who has been serving as Ambassador-at-Large at the Ministry of Foreign Affairs since 2012, Chairwoman of the National Arts Council and Member of the Presidential Council for Minority Rights. She had also served as Singapore Ambassador to the United States between 1996 and 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chan_Heng_Chee%2C_2002_%28larger_crop%29.jpg/330px-Chan_Heng_Chee%2C_2002_%28larger_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chan_Heng_Chee",
+  "dateOfBirth": "1942-04-19",
+  "birthDateParsed": "1942-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "ambassador",
+    "academic"
+  ],
+  "qid": "Q5070304",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:35.579Z"
+}

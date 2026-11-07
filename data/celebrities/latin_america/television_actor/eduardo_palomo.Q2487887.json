@@ -1,0 +1,32 @@
+{
+  "publicId": "28796dbd",
+  "wikipediaSlug": "Eduardo_Palomo",
+  "wikipediaId": "Q2487887",
+  "name": "Eduardo Palomo",
+  "fullName": "Eduardo Palomo",
+  "profileSummary": "Eduardo Estrada Palomo (Spanish pronunciation: [eˈðwaɾðo paˈlomo]; was a Mexican actor. Palomo became famous across Mexico and Latin America after his 1993 Juan del Diablo characterization in Corazón salvaje.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Eduardo_Palomo-00.jpg/330px-Eduardo_Palomo-00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Palomo",
+  "dateOfBirth": "1962-05-13",
+  "birthDateParsed": "1962-05-13",
+  "dateOfDeath": "2003-11-06",
+  "deathDateParsed": "2003-11-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q2487887",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:15:56.506Z"
+}

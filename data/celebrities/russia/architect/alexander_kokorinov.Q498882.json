@@ -1,0 +1,33 @@
+{
+  "publicId": "f33dde26",
+  "wikipediaSlug": "Alexander_Kokorinov",
+  "wikipediaId": "Q498882",
+  "name": "Alexander Kokorinov",
+  "fullName": "Alexander Kokorinov",
+  "profileSummary": "Alexander Filippovich Kokorinov was a Russian architect and educator of Siberian origin, generally remembered for his role in establishing the Imperial Academy of Arts in Saint Peterburg, of which he was the official builder and then administrator from 1758 until his death. Kokorinov has been house architect of the Razumovsky family and Ivan Shuvalov, the founding president of the Academy. Kokorinov's surviving architectural legacy, once believed to be substantial, has been reduced by recent research to only two buildings, the Imperial Academy of Arts and Kirill Razumovsky palace in Saint Petersburg. The Academy was designed by Jean-Baptiste Vallin de la Mothe based on an earlier proposal by Jacques-François Blondel, while Kokorinov managed the construction in its early phases (1764–1772).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Levitsky_kokrinov.jpg/330px-Levitsky_kokrinov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Kokorinov",
+  "dateOfBirth": "1726-07-10",
+  "birthDateParsed": "1726-07-10",
+  "dateOfDeath": "1772-03-21",
+  "deathDateParsed": "1772-03-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "58.195277777",
+  "birthCoordinatesLng": "68.258055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architect"
+  ],
+  "qid": "Q498882",
+  "birthPlace": "Tobolsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:31.132Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "c099bab0",
+  "wikipediaSlug": "Porfirio_Díaz",
+  "wikipediaId": "Q150688",
+  "name": "Porfirio Díaz",
+  "fullName": "Porfirio Díaz",
+  "profileSummary": "José de la Cruz Porfirio Díaz Mori, commonly known as Porfirio Díaz, was a Mexican army general and politician who was the dictator of Mexico from 1876 until his overthrow in 1911. Seizing power in a military coup, he served as president of Mexico on three occasions, a total of over thirty years, the longest of any Mexican ruler. This period is known as the Porfiriato and has been called a de facto dictatorship.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Porfirio_diaz.jpg/330px-Porfirio_diaz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz",
+  "dateOfBirth": "1830-09-15",
+  "birthDateParsed": "1830-09-15",
+  "dateOfDeath": "1915-07-02",
+  "deathDateParsed": "1915-07-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "17.055",
+  "birthCoordinatesLng": "-96.653888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q150688",
+  "birthPlace": "Oaxaca",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:07.414Z"
+}

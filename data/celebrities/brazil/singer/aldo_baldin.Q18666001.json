@@ -1,0 +1,35 @@
+{
+  "publicId": "3d0a6230",
+  "wikipediaSlug": "Aldo_Baldin",
+  "wikipediaId": "Q18666001",
+  "name": "Aldo Baldin",
+  "fullName": "Aldo Baldin",
+  "profileSummary": "Aldo Baldin was a Brazilian classical tenor, known for his interpretations of music by Johann Sebastian Bach. He performed internationally and made many recordings. He was professor of voice at the Hochschule für Musik Karlsruhe.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Aldo_Baldin.jpg/330px-Aldo_Baldin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aldo_Baldin",
+  "dateOfBirth": "1945-01-01",
+  "birthDateParsed": "1945-01-01",
+  "dateOfDeath": "1994-01-05",
+  "deathDateParsed": "1994-01-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-28.517777777",
+  "birthCoordinatesLng": "-49.320833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "opera singer",
+    "musician"
+  ],
+  "qid": "Q18666001",
+  "birthPlace": "Urussanga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:57.565Z"
+}

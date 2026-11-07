@@ -1,0 +1,33 @@
+{
+  "publicId": "8f261e26",
+  "wikipediaSlug": "Aleksandr_Dianin",
+  "wikipediaId": "Q2833620",
+  "name": "Aleksandr Dianin",
+  "fullName": "Aleksandr Dianin",
+  "profileSummary": "Aleksandr Pavlovich Dianin was a Russian chemist from Saint Petersburg. He carried out studies on phenols and discovered a phenol derivative now known as bisphenol A and the accordingly named Dianin's compound. He was married to the adopted daughter of fellow chemist Alexander Borodin. In 1887, Dianin succeeded his father-in-law as chair of the Chemistry Department at the Imperial Medical-Surgical Academy in St. Petersburg.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AP_Dianin.jpg/330px-AP_Dianin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Dianin",
+  "dateOfBirth": "1851-04-20",
+  "birthDateParsed": "1851-04-20",
+  "dateOfDeath": "1918-12-06",
+  "deathDateParsed": "1918-12-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "56.133333333",
+  "birthCoordinatesLng": "40.416666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist"
+  ],
+  "qid": "Q2833620",
+  "birthPlace": "Vladimir Governorate",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:15.477Z"
+}

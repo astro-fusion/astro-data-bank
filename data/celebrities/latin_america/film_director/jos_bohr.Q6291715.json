@@ -1,0 +1,41 @@
+{
+  "publicId": "de0a0428",
+  "wikipediaSlug": "José_Bohr",
+  "wikipediaId": "Q6291715",
+  "name": "José Bohr",
+  "fullName": "José Bohr",
+  "profileSummary": "José Bohr, born Joseph Bohr Elzer, was a German-born Chilean film director, producer, actor, screenwriter, composer, and singer, active in Chilean, Mexican, American, and Argentine cinema. Between 1919 and 1969, Bohr directed 35 films. Bohr also composed 8 tangos, the best known of which is Cascabelito, and is sometimes mistakenly known as the orchestra leader for records that are actually his wife's Eva Bohr's orchestra.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/La_primera_obra_de_Jos%C3%A9_Bohr_en_Hollywood.jpg/330px-La_primera_obra_de_Jos%C3%A9_Bohr_en_Hollywood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Bohr",
+  "dateOfBirth": "1901-09-03",
+  "birthDateParsed": "1901-09-03",
+  "dateOfDeath": "1994-05-29",
+  "deathDateParsed": "1994-05-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.735277777",
+  "birthCoordinatesLng": "7.102222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "painter",
+    "actor",
+    "singer",
+    "film actor",
+    "screenwriter",
+    "composer",
+    "film editor",
+    "director"
+  ],
+  "qid": "Q6291715",
+  "birthPlace": "Bonn",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:33.274Z"
+}

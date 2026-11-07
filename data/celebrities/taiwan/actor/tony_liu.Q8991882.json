@@ -1,0 +1,35 @@
+{
+  "publicId": "82dd5332",
+  "wikipediaSlug": "Tony_Liu",
+  "wikipediaId": "Q8991882",
+  "name": "Tony Liu",
+  "fullName": "Tony Liu",
+  "profileSummary": "Tony Liu Tian-jue is a Hong Kong actor and martial artist. He is often credited by his Cantonese stage name Lau Wing. Liu is best known for starring in many Hong Kong martial arts films, especially in the 1970s and 1980s. He has also acted in some television series where he is better remembered for his roles as Qing Shi Huang and Genghis Khan.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Liu",
+  "dateOfBirth": "1952-02-07",
+  "birthDateParsed": "1952-02-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "judoka",
+    "karateka"
+  ],
+  "qid": "Q8991882",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:28.523Z"
+}

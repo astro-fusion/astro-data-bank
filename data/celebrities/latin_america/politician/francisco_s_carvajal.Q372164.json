@@ -1,0 +1,36 @@
+{
+  "publicId": "99e0463a",
+  "wikipediaSlug": "Francisco_S._Carvajal",
+  "wikipediaId": "Q372164",
+  "name": "Francisco S. Carvajal",
+  "fullName": "Francisco S. Carvajal",
+  "profileSummary": "Francisco Sebastián Carvajal y Gual, sometimes spelled Carbajal was a Mexican lawyer and politician who served briefly as president in 1914, during the Mexican Revolution. In his role as foreign minister, he succeeded Victoriano Huerta as president upon the latter's resignation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Francisco_Sebasti%C3%A1n_Carvajal.jpg/330px-Francisco_Sebasti%C3%A1n_Carvajal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_S._Carvajal",
+  "dateOfBirth": "1870-12-09",
+  "birthDateParsed": "1870-12-09",
+  "dateOfDeath": "1932-09-20",
+  "deathDateParsed": "1932-09-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.844814166",
+  "birthCoordinatesLng": "-90.539649166",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "judge",
+    "lawyer"
+  ],
+  "qid": "Q372164",
+  "birthPlace": "San Francisco de Campeche",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:15.606Z"
+}

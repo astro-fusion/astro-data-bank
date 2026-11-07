@@ -1,0 +1,33 @@
+{
+  "publicId": "c30b0bbc",
+  "wikipediaSlug": "Tan_Chong_Tee",
+  "wikipediaId": "Q2391910",
+  "name": "Tan Chong Tee",
+  "fullName": "Tan Chong Tee",
+  "profileSummary": "Tan Chong Tee was a Chinese resistance fighter based in Singapore and Malaya during World War II. An accomplished badminton player before the war, he joined Force 136 around 1942 after Singapore fell to the Japanese. In 1944, while on a mission, Tan, along with Lim Bo Seng and other Force 136 members, was captured by the Japanese. He was subjected to torture during his captivity. After the war, he returned to playing badminton and later became a businessman.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tan_Chong_Tee.jpg/330px-Tan_Chong_Tee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tan_Chong_Tee",
+  "dateOfBirth": "1916-10-15",
+  "birthDateParsed": "1916-10-15",
+  "dateOfDeath": "2012-11-24",
+  "deathDateParsed": "2012-11-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "badminton player"
+  ],
+  "qid": "Q2391910",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:45.759Z"
+}

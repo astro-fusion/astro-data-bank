@@ -1,0 +1,33 @@
+{
+  "publicId": "1b7dd505",
+  "wikipediaSlug": "Casemiro",
+  "wikipediaId": "Q616664",
+  "name": "Casemiro",
+  "fullName": "Casemiro",
+  "profileSummary": "Carlos Henrique Casimiro, also known mononymously as Casemiro, is a Brazilian professional footballer who plays as a defensive midfielder for Major League Soccer club Inter Miami and the Brazil national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Casemiro_Brazil_V_Morocco_13_June_2026-76_%28cropped%29.jpg/330px-Casemiro_Brazil_V_Morocco_13_June_2026-76_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Casemiro",
+  "dateOfBirth": "1992-02-23",
+  "birthDateParsed": "1992-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.178888888",
+  "birthCoordinatesLng": "-45.886944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q616664",
+  "birthPlace": "São José dos Campos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:41.388Z"
+}

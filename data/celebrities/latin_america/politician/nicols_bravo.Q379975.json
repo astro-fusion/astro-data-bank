@@ -1,0 +1,34 @@
+{
+  "publicId": "bbd9945f",
+  "wikipediaSlug": "Nicolás_Bravo",
+  "wikipediaId": "Q379975",
+  "name": "Nicolás Bravo",
+  "fullName": "Nicolás Bravo",
+  "profileSummary": "Nicolás Bravo Rueda was a Mexican soldier and politician who served as interim President of Mexico three times, in 1839, 1842, and 1846. Prior to his presidency, he fought in the Mexican War of Independence and served as Mexico's first Vice President under President Guadalupe Victoria from 1824 until 1827, when he attempted to overthrow Victoria. He was also the fourth vice president under President Mariano Paredes in 1846, and served in the Mexican–American War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nicol%C3%A1s_Bravo_%28Joaqu%C3%ADn_Ram%C3%ADrez%29_%28cropped%29.jpg/330px-Nicol%C3%A1s_Bravo_%28Joaqu%C3%ADn_Ram%C3%ADrez%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Bravo",
+  "dateOfBirth": "1786-09-10",
+  "birthDateParsed": "1786-09-10",
+  "dateOfDeath": "1854-04-22",
+  "deathDateParsed": "1854-04-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "17.551944",
+  "birthCoordinatesLng": "-99.501334",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q379975",
+  "birthPlace": "Chilpancingo de los Bravo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:04.510Z"
+}

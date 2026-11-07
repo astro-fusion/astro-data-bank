@@ -1,0 +1,35 @@
+{
+  "publicId": "a665af9a",
+  "wikipediaSlug": "Joe_Arroyo",
+  "wikipediaId": "Q1398718",
+  "name": "Joe Arroyo",
+  "fullName": "Joe Arroyo",
+  "profileSummary": "Álvaro Arroyo González was a Colombian salsa and tropical music singer, composer and songwriter. He is considered one of the greatest performers of Caribbean and salsa music in his country and across Latin America. In 2018, Billboard counted Arroyo's song \"La Rebelión\" as one of the \"15 Best Salsa Songs Ever\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Joe_arroyo_2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Arroyo",
+  "dateOfBirth": "1955-11-01",
+  "birthDateParsed": "1955-11-01",
+  "dateOfDeath": "2011-07-26",
+  "deathDateParsed": "2011-07-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "10.423611111",
+  "birthCoordinatesLng": "-75.525277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q1398718",
+  "birthPlace": "Cartagena",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:39.836Z"
+}

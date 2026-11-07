@@ -1,0 +1,34 @@
+{
+  "publicId": "100bca1a",
+  "wikipediaSlug": "Irfaan_Ali",
+  "wikipediaId": "Q64840184",
+  "name": "Irfaan Ali",
+  "fullName": "Irfaan Ali",
+  "profileSummary": "Mohamed Irfaan Ali is a Guyanese politician serving as the tenth and current president of Guyana since 2020. A member of the People's Progressive Party/Civic (PPP/C), he previously served as the minister of Housing and Water from 2009 to 2015. He is the first Muslim to hold the office, and is the second Muslim head of state in the Americas after Noor Hassanali of Trinidad and Tobago.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Secretary_Blinken_Holds_a_Joint_Press_Availability_with_Guyanese_President_Irfaan_Ali_%2853028421586%29_%28cropped%29.jpg/330px-Secretary_Blinken_Holds_a_Joint_Press_Availability_with_Guyanese_President_Irfaan_Ali_%2853028421586%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Irfaan_Ali",
+  "dateOfBirth": "1980-04-25",
+  "birthDateParsed": "1980-04-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.871938888",
+  "birthCoordinatesLng": "-58.289038888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "civil servant",
+    "politician"
+  ],
+  "qid": "Q64840184",
+  "birthPlace": "Leonora",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:50.883Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "05c1eb9c",
+  "wikipediaSlug": "Alexander_Matrosov",
+  "wikipediaId": "Q468094",
+  "name": "Alexander Matrosov",
+  "fullName": "Alexander Matrosov",
+  "profileSummary": "Alexander Matveyevich Matrosov was a Soviet infantry soldier during the Second World War, posthumously awarded the title of the Hero of the Soviet Union reportedly for blocking a German machine-gun with his body.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Alexander_Matveyevich_Matrosov.jpg/330px-Alexander_Matveyevich_Matrosov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Matrosov",
+  "dateOfBirth": "1924-02-05",
+  "birthDateParsed": "1924-02-05",
+  "dateOfDeath": "1943-02-27",
+  "deathDateParsed": "1943-02-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.4675",
+  "birthCoordinatesLng": "35.04",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel"
+  ],
+  "qid": "Q468094",
+  "birthPlace": "Dnipro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:58.026Z"
+}

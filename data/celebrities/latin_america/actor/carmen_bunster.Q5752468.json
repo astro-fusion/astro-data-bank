@@ -1,0 +1,33 @@
+{
+  "publicId": "f53155e3",
+  "wikipediaSlug": "Carmen_Bunster",
+  "wikipediaId": "Q5752468",
+  "name": "Carmen Bunster",
+  "fullName": "Carmen Bunster",
+  "profileSummary": "Carmen Bunster was a Chilean film and theatre actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmen_Bunster",
+  "dateOfBirth": "1918-01-06",
+  "birthDateParsed": "1918-01-06",
+  "dateOfDeath": "2012-04-23",
+  "deathDateParsed": "2012-04-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5752468",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:51.002Z"
+}

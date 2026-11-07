@@ -1,0 +1,34 @@
+{
+  "publicId": "64ce279c",
+  "wikipediaSlug": "Andreas_Möller",
+  "wikipediaId": "Q155919",
+  "name": "Andreas Möller",
+  "fullName": "Andreas Möller",
+  "profileSummary": "Andreas Möller is a German former professional footballer who played as an attacking midfielder. He also worked as the head of the youth department at Eintracht Frankfurt for three years, between 2019 and 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2018-09-17_Eintracht_Frankfurt_Golf_Open_Andreas_M%C3%B6ller-8877.jpg/330px-2018-09-17_Eintracht_Frankfurt_Golf_Open_Andreas_M%C3%B6ller-8877.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_M%C3%B6ller",
+  "dateOfBirth": "1967-09-02",
+  "birthDateParsed": "1967-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.123333333",
+  "birthCoordinatesLng": "8.692222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q155919",
+  "birthPlace": "Nordend",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:42.700Z"
+}

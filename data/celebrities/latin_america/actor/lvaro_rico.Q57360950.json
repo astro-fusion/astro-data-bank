@@ -1,0 +1,35 @@
+{
+  "publicId": "cf13b7ae",
+  "wikipediaSlug": "Álvaro_Rico",
+  "wikipediaId": "Q57360950",
+  "name": "Álvaro Rico",
+  "fullName": "Álvaro Rico",
+  "profileSummary": "Álvaro Rico Ladera is a Spanish actor. He is known for playing the character of Polo in the teen drama series Elite.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Malaga_Film_Festival_2025_-_%C3%81lvaro_Rico_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_%C3%81lvaro_Rico_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Rico",
+  "dateOfBirth": "1996-08-13",
+  "birthDateParsed": "1996-08-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.872222222",
+  "birthCoordinatesLng": "-4.358888888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "model"
+  ],
+  "qid": "Q57360950",
+  "birthPlace": "La Puebla de Montalbán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:50.677Z"
+}

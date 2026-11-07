@@ -1,0 +1,36 @@
+{
+  "publicId": "b01a0e1d",
+  "wikipediaSlug": "Andrés_Mercado",
+  "wikipediaId": "Q2483298",
+  "name": "Andrés Mercado",
+  "fullName": "Andrés Mercado",
+  "profileSummary": "Andrés Felipe Mercado Cepeda is a Colombian actor and singer best known for playing Daniel Esquivel in Grachi. While going to school, he began study piano, painting and singing. In his childhood Mercado appeared in different television commercials.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grachi_Siempre_en_vivo_2012_4.jpg/330px-Grachi_Siempre_en_vivo_2012_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Mercado",
+  "dateOfBirth": "1989-08-27",
+  "birthDateParsed": "1989-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "10.983333333",
+  "birthCoordinatesLng": "-74.801944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "model",
+    "television actor"
+  ],
+  "qid": "Q2483298",
+  "birthPlace": "Barranquilla",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:21.626Z"
+}

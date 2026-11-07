@@ -1,0 +1,34 @@
+{
+  "publicId": "e776ecae",
+  "wikipediaSlug": "Alexandre_Barillari",
+  "wikipediaId": "Q4720805",
+  "name": "Alexandre Barillari",
+  "fullName": "Alexandre Barillari",
+  "profileSummary": "Alexandre Barillari is a Brazilian actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alexandre_Barillari.jpg/330px-Alexandre_Barillari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Barillari",
+  "dateOfBirth": "1975-03-19",
+  "birthDateParsed": "1975-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q4720805",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:08.860Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "33adbf04",
+  "wikipediaSlug": "Alien_Huang",
+  "wikipediaId": "Q3890841",
+  "name": "Alien Huang",
+  "fullName": "Alien Huang",
+  "profileSummary": "Alien Huang, also known as Xiao Gui, was a Taiwanese singer, actor, television presenter, illustrator and fashion designer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2012-11-28_%E9%BB%83%E9%B4%BB%E5%8D%87%E3%80%8C%E5%A4%9C%E7%8E%8B%E3%80%8D%E6%BC%94%E5%94%B1%E6%9C%83_%E5%8F%B0%E5%8C%97%E7%AB%99.png/330px-2012-11-28_%E9%BB%83%E9%B4%BB%E5%8D%87%E3%80%8C%E5%A4%9C%E7%8E%8B%E3%80%8D%E6%BC%94%E5%94%B1%E6%9C%83_%E5%8F%B0%E5%8C%97%E7%AB%99.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alien_Huang",
+  "dateOfBirth": "1983-11-28",
+  "birthDateParsed": "1983-11-28",
+  "dateOfDeath": "2020-09-16",
+  "deathDateParsed": "2020-09-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television presenter",
+    "television actor",
+    "film actor",
+    "recording artist"
+  ],
+  "qid": "Q3890841",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:34.000Z"
+}

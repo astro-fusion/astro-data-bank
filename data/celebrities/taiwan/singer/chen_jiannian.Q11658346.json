@@ -1,0 +1,33 @@
+{
+  "publicId": "c405cd46",
+  "wikipediaSlug": "Chen_Jiannian",
+  "wikipediaId": "Q11658346",
+  "name": "Chen Jiannian",
+  "fullName": "Chen Jiannian",
+  "profileSummary": "Chen Jiannian, tribal name Pau-dull, is a Taiwanese Puyuma singer. In 2000, he won Best Male Mandarin Singer and Best Composition for the song Legend from Samingad's Wild Fire, Spring Wind at the 11th Golden Melody Awards. After retiring from policing to focus on music, he won Best Aboriginal Album for pongso no Tao at the 33rd Golden Melody Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pur-dull_in_Hsinchu_%28cropped%29.jpg/330px-Pur-dull_in_Hsinchu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Jiannian",
+  "dateOfBirth": "1967-08-01",
+  "birthDateParsed": "1967-08-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.933333333",
+  "birthCoordinatesLng": "120.933333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q11658346",
+  "birthPlace": "Taitung County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:14.970Z"
+}

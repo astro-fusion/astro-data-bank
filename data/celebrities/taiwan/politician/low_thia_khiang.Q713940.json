@@ -1,0 +1,33 @@
+{
+  "publicId": "abb4b8d6",
+  "wikipediaSlug": "Low_Thia_Khiang",
+  "wikipediaId": "Q713940",
+  "name": "Low Thia Khiang",
+  "fullName": "Low Thia Khiang",
+  "profileSummary": "Low Thia Khiang is a Singaporean former politician who has served as the secretary-general of the Workers' Party (WP) between 2001 and 2018 and the de facto leader of the opposition between 2006 and 2018. He was the Member of Parliament (MP) for Hougang Single Member Constituency (SMC) from 1991 to 2011, he was succeeded by Yaw Shin Leong and the Bedok Reservoir–Punggol division of Aljunied Group Representation Constituency (GRC) from 2011 to 2020, he was succeeded by Gerald Giam.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Low_Thia_Khiang_4_%283x4_cropped%29.jpg/330px-Low_Thia_Khiang_4_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Low_Thia_Khiang",
+  "dateOfBirth": "1956-09-05",
+  "birthDateParsed": "1956-09-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q713940",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:42.051Z"
+}

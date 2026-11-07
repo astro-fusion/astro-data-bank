@@ -1,0 +1,31 @@
+{
+  "publicId": "a4fed326",
+  "wikipediaSlug": "Carlos_Álvarez_(Argentine_politician)",
+  "wikipediaId": "Q733743",
+  "name": "Carlos Álvarez (Argentine politician)",
+  "fullName": "Carlos Álvarez (Argentine politician)",
+  "profileSummary": "Carlos Alberto Álvarez is an Argentine politician. He was Vice President of Argentina during the first 10 months of President Fernando de la Rúa's term, and headed the ALADI Secretariat from 2011 to 2017.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carlos_Chacho_%C3%81lvarez_%28cropped%29.jpg/330px-Carlos_Chacho_%C3%81lvarez_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_%C3%81lvarez_(Argentine_politician)",
+  "dateOfBirth": "1948-12-26",
+  "birthDateParsed": "1948-12-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q733743",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:07.411Z"
+}

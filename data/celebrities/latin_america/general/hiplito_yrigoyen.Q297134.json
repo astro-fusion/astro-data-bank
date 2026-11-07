@@ -1,0 +1,31 @@
+{
+  "publicId": "b3844315",
+  "wikipediaSlug": "Hipólito_Yrigoyen",
+  "wikipediaId": "Q297134",
+  "name": "Hipólito Yrigoyen",
+  "fullName": "Hipólito Yrigoyen",
+  "profileSummary": "Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen was an Argentine politician of the Radical Civic Union who served as President of Argentina from 1916 to 1922 and again from 1928 until his overthrow in 1930. He was the first president elected democratically by means of the secret ballot and mandatory male suffrage established by the Sáenz Peña Law of 1912. His activism was the prime impetus behind the passage of that law in Argentina.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hipolito_Yrigoyen_-_NAC.jpg/330px-Hipolito_Yrigoyen_-_NAC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hip%C3%B3lito_Yrigoyen",
+  "dateOfBirth": "1850-07-13",
+  "birthDateParsed": "1850-07-13",
+  "dateOfDeath": "1933-07-03",
+  "deathDateParsed": "1933-07-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q297134",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:32.967Z"
+}

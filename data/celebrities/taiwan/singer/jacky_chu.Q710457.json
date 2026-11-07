@@ -1,0 +1,35 @@
+{
+  "publicId": "0f2cf0fd",
+  "wikipediaSlug": "Jacky_Chu",
+  "wikipediaId": "Q710457",
+  "name": "Jacky Chu",
+  "fullName": "Jacky Chu",
+  "profileSummary": "Jacky Chu is a Taiwanese actor and is a former member of Taiwanese group 183 Club.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacky_Chu",
+  "dateOfBirth": "1979-08-22",
+  "birthDateParsed": "1979-08-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.260833333",
+  "birthCoordinatesLng": "-123.113888888",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q710457",
+  "birthPlace": "Vancouver",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:46.862Z"
+}

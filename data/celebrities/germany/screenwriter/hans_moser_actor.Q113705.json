@@ -1,0 +1,38 @@
+{
+  "publicId": "7fe2a412",
+  "wikipediaSlug": "Hans_Moser_(actor)",
+  "wikipediaId": "Q113705",
+  "name": "Hans Moser (actor)",
+  "fullName": "Hans Moser (actor)",
+  "profileSummary": "Hans Moser was an Austrian actor who, during his long career, from the 1920s up to his death, mainly played in comedy films. He was particularly associated with the genre of the Wiener Film. Moser appeared in over 150 films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Moser1902.jpg/330px-Moser1902.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Moser_(actor)",
+  "dateOfBirth": "1880-08-06",
+  "birthDateParsed": "1880-08-06",
+  "dateOfDeath": "1964-06-19",
+  "deathDateParsed": "1964-06-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "stage actor",
+    "film actor",
+    "singer",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q113705",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:57.016Z"
+}

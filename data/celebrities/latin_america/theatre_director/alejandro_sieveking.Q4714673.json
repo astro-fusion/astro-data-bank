@@ -1,0 +1,36 @@
+{
+  "publicId": "3fd4a471",
+  "wikipediaSlug": "Alejandro_Sieveking",
+  "wikipediaId": "Q4714673",
+  "name": "Alejandro Sieveking",
+  "fullName": "Alejandro Sieveking",
+  "profileSummary": "Alejandro Sieveking Campano was a Chilean playwright, theatre director and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premios_Caleuche_2019_-_2019-01-22_-_26_%28cropped%29.jpg/330px-Premios_Caleuche_2019_-_2019-01-22_-_26_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Sieveking",
+  "dateOfBirth": "1934-09-05",
+  "birthDateParsed": "1934-09-05",
+  "dateOfDeath": "2020-03-05",
+  "deathDateParsed": "2020-03-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.406944444",
+  "birthCoordinatesLng": "-70.8625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "theatre director",
+    "actor",
+    "playwright",
+    "dramaturge"
+  ],
+  "qid": "Q4714673",
+  "birthPlace": "Rengo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:03.790Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "b04bea22",
+  "wikipediaSlug": "Rafael_Amaya",
+  "wikipediaId": "Q1277927",
+  "name": "Rafael Amaya",
+  "fullName": "Rafael Amaya",
+  "profileSummary": "José Rafael Amaya Núñez is a Mexican actor, born in Hermosillo, Mexico. He is best known for his character Aurelio Casillas in the Telemundo series El Señor de los Cielos.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rafael_Amaya_Alma_Awards.png/330px-Rafael_Amaya_Alma_Awards.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafael_Amaya",
+  "dateOfBirth": "1977-10-02",
+  "birthDateParsed": "1977-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.075",
+  "birthCoordinatesLng": "-110.958333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q1277927",
+  "birthPlace": "Hermosillo",
+  "fetchedAt": "2026-08-16T13:16:57.713Z"
+}

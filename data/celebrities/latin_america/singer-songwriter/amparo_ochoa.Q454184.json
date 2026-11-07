@@ -1,0 +1,35 @@
+{
+  "publicId": "4911f3ea",
+  "wikipediaSlug": "Amparo_Ochoa",
+  "wikipediaId": "Q454184",
+  "name": "Amparo Ochoa",
+  "fullName": "Amparo Ochoa",
+  "profileSummary": "María Amparo Ochoa Castaños, better known as Amparo Ochoa, was a Mexican singer-songwriter. She was one of several other Mexican artists who emerged in the 1960s belonging to the movement known as Nueva canción.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amparo_Ochoa",
+  "dateOfBirth": "1946-09-29",
+  "birthDateParsed": "1946-09-29",
+  "dateOfDeath": "1994-02-08",
+  "deathDateParsed": "1994-02-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "24.59",
+  "birthCoordinatesLng": "-107.392222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "musician"
+  ],
+  "qid": "Q454184",
+  "birthPlace": "Costa Rica",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:03.452Z"
+}

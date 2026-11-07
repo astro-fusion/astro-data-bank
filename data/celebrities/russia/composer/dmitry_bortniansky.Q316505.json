@@ -1,0 +1,34 @@
+{
+  "publicId": "ce92b00e",
+  "wikipediaSlug": "Dmitry_Bortniansky",
+  "wikipediaId": "Q316505",
+  "name": "Dmitry Bortniansky",
+  "fullName": "Dmitry Bortniansky",
+  "profileSummary": "Dmitry Stepanovich Bortniansky was a Russian composer of Ukrainian Cossack origin. He was also a harpsichordist and conductor who served at the court of Catherine the Great. Bortniansky was critical to the musical history of both Russia and Ukraine, with both nations claiming him as their own.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%D0%91%D0%BE%D1%80%D1%82%D0%BD%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%281788%29.jpg/330px-%D0%91%D0%BE%D1%80%D1%82%D0%BD%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%281788%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dmitry_Bortniansky",
+  "dateOfBirth": "1751-10-28",
+  "birthDateParsed": "1751-10-28",
+  "dateOfDeath": "1825-10-10",
+  "deathDateParsed": "1825-10-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.676457594",
+  "birthCoordinatesLng": "33.907781433",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "conductor"
+  ],
+  "qid": "Q316505",
+  "birthPlace": "Hlukhiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:28.415Z"
+}

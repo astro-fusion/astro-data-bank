@@ -1,0 +1,35 @@
+{
+  "publicId": "2846d81a",
+  "wikipediaSlug": "Aziz_M._Osman",
+  "wikipediaId": "Q4832680",
+  "name": "Aziz M. Osman",
+  "fullName": "Aziz M. Osman",
+  "profileSummary": "Aziz M. Osman is a Singaporean-Malaysian actor, director, screenwriter and producer. He is the director general of his own production company, Ace Motion Pictures.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aziz_M._Osman_on_MeleTOP.jpg/330px-Aziz_M._Osman_on_MeleTOP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aziz_M._Osman",
+  "dateOfBirth": "1962-10-02",
+  "birthDateParsed": "1962-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "screenwriter"
+  ],
+  "qid": "Q4832680",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:10:45.920Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "5ed1e5f2",
+  "wikipediaSlug": "Daniel_Camargo_Barbosa",
+  "wikipediaId": "Q2628944",
+  "name": "Daniel Camargo Barbosa",
+  "fullName": "Daniel Camargo Barbosa",
+  "profileSummary": "Daniel Camargo Barbosa was a Colombian serial killer and rapist. He is one of the most prolific serial killers in history and is believed to have raped and murdered at least 72 young girls in Colombia and Ecuador during the 1970s and 1980s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Daniel_Camargo_Barbosa_1958_Mugshot.png/330px-Daniel_Camargo_Barbosa_1958_Mugshot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Camargo_Barbosa",
+  "dateOfBirth": "1930-01-22",
+  "birthDateParsed": "1930-01-22",
+  "dateOfDeath": "1994-11-13",
+  "deathDateParsed": "1994-11-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "4.763333333",
+  "birthCoordinatesLng": "-74.464722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "serial killer",
+    "street vendor"
+  ],
+  "qid": "Q2628944",
+  "birthPlace": "Anolaima",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:23.579Z"
+}

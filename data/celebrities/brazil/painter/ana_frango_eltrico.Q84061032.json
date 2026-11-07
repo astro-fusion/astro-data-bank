@@ -1,0 +1,37 @@
+{
+  "publicId": "fdda3d80",
+  "wikipediaSlug": "Ana_Frango_Elétrico",
+  "wikipediaId": "Q84061032",
+  "name": "Ana Frango Elétrico",
+  "fullName": "Ana Frango Elétrico",
+  "profileSummary": "Ana Faria Fainguelernt, better known by the stage name Ana Frango Elétrico, is a Brazilian singer-songwriter, multi-instrumentalist, producer, poet, and visual artist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ana_Frango_El%C3%A9trico_at_Circo_Voador%2C_January_2024.jpg/330px-Ana_Frango_El%C3%A9trico_at_Circo_Voador%2C_January_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Frango_El%C3%A9trico",
+  "dateOfBirth": "1997-12-09",
+  "birthDateParsed": "1997-12-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "painter",
+    "singer",
+    "poet",
+    "record producer",
+    "multi-instrumentalist"
+  ],
+  "qid": "Q84061032",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:43.576Z"
+}

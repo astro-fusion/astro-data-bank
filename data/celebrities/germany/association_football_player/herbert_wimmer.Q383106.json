@@ -1,0 +1,33 @@
+{
+  "publicId": "6b57d627",
+  "wikipediaSlug": "Herbert_Wimmer",
+  "wikipediaId": "Q383106",
+  "name": "Herbert Wimmer",
+  "fullName": "Herbert Wimmer",
+  "profileSummary": "Herbert \"Hacki\" Wimmer is a German former professional footballer who played as a midfielder. Besides winning five national championships and two UEFA Cups with his club side Borussia Mönchengladbach, he won the 1974 World Cup and the UEFA Euro 1972 with Germany.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Herbert_Wimmer_1972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Herbert_Wimmer",
+  "dateOfBirth": "1944-11-09",
+  "birthDateParsed": "1944-11-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.633333333",
+  "birthCoordinatesLng": "6.033333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q383106",
+  "birthPlace": "Eupen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:16.473Z"
+}

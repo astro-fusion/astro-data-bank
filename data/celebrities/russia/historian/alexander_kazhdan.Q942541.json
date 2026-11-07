@@ -1,0 +1,38 @@
+{
+  "publicId": "adb9e9e3",
+  "wikipediaSlug": "Alexander_Kazhdan",
+  "wikipediaId": "Q942541",
+  "name": "Alexander Kazhdan",
+  "fullName": "Alexander Kazhdan",
+  "profileSummary": "Alexander Petrovich Kazhdan was a Soviet and American Byzantinist. Among his publications was the three-volume Oxford Dictionary of Byzantium, a comprehensive encyclopedic work containing more than 5,000 entries.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Alexander_Kazhdan_at_1992_Byzantine_Studies_Symposium%2C_Dumbarton_Oaks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Kazhdan",
+  "dateOfBirth": "1922-09-03",
+  "birthDateParsed": "1922-09-03",
+  "dateOfDeath": "1997-05-29",
+  "deathDateParsed": "1997-05-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "Byzantinist",
+    "armenologist",
+    "editing staff",
+    "university teacher",
+    "orientalist"
+  ],
+  "qid": "Q942541",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:45.581Z"
+}

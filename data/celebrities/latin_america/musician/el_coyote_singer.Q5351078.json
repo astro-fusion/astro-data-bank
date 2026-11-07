@@ -1,0 +1,33 @@
+{
+  "publicId": "00576974",
+  "wikipediaSlug": "El_Coyote_(singer)",
+  "wikipediaId": "Q5351078",
+  "name": "El Coyote (singer)",
+  "fullName": "El Coyote (singer)",
+  "profileSummary": "José Angel Ledezma Quintero, known professionally as El Coyote, is a Mexican banda singer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Coyote_(singer)",
+  "dateOfBirth": "1970-01-11",
+  "birthDateParsed": "1970-01-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.002777777",
+  "birthCoordinatesLng": "-107.502777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician"
+  ],
+  "qid": "Q5351078",
+  "birthPlace": "Sinaloa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:33.040Z"
+}

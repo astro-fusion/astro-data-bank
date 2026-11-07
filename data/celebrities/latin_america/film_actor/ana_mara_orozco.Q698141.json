@@ -1,0 +1,33 @@
+{
+  "publicId": "d9f0d681",
+  "wikipediaSlug": "Ana_María_Orozco",
+  "wikipediaId": "Q698141",
+  "name": "Ana María Orozco",
+  "fullName": "Ana María Orozco",
+  "profileSummary": "Ana María Orozco Aristizábal is a Colombian actress who is notable for her portrayal as Betty in the telenovela Yo soy Betty, la fea. In 2001, Orozco won the award for International Female Personality of the Year at the New York Latin ACE Awards and, in 2002, she won the award for Actress of the Year at the INTE Awards for her performance in the telenovela Yo soy Betty, la fea (1999).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ana_Maria_Orozco.jpg/330px-Ana_Maria_Orozco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Mar%C3%ADa_Orozco",
+  "dateOfBirth": "1973-07-04",
+  "birthDateParsed": "1973-07-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q698141",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:38.098Z"
+}

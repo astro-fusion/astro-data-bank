@@ -1,0 +1,37 @@
+{
+  "publicId": "4eb75870",
+  "wikipediaSlug": "Paul_von_Hindenburg",
+  "wikipediaId": "Q2667",
+  "name": "Paul von Hindenburg",
+  "fullName": "Paul von Hindenburg",
+  "profileSummary": "Paul Ludwig Hans Anton von Beneckendorff und von Hindenburg was a German military officer and statesman who led the Imperial German Army during World War I and later became President of Germany from 1925 until his death in 1934. Though ideologically opposed to Nazism, he played a key role in the Nazi seizure of power in 1933 through his appointment of Adolf Hitler as Chancellor of Germany.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/330px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_von_Hindenburg",
+  "dateOfBirth": "1847-10-02",
+  "birthDateParsed": "1847-10-02",
+  "dateOfDeath": "1934-08-02",
+  "deathDateParsed": "1934-08-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.406439",
+  "birthCoordinatesLng": "16.929258",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "soldier",
+    "lord of the manor",
+    "general field marshal"
+  ],
+  "qid": "Q2667",
+  "birthPlace": "6 Podgórna Street in Poznań",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:40.662Z"
+}

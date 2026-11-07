@@ -1,0 +1,36 @@
+{
+  "publicId": "b966bc56",
+  "wikipediaSlug": "Huzir_Sulaiman",
+  "wikipediaId": "Q5951554",
+  "name": "Huzir Sulaiman",
+  "fullName": "Huzir Sulaiman",
+  "profileSummary": "Huzir Sulaiman is a Singaporean-Malaysian director and actor. He is the co-founder and Joint Artistic Director of Checkpoint Theatre. A critically acclaimed and award-winning playwright, his Collected Plays 1998-2012 was published in 2013. His essays and commentary pieces have appeared in The Star, The Straits Times and The Huffington Post.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Huzir_Sulaiman.jpg/330px-Huzir_Sulaiman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Huzir_Sulaiman",
+  "dateOfBirth": "1973-06-08",
+  "birthDateParsed": "1973-06-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.7805111",
+  "birthCoordinatesLng": "102.314361666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "performing artist",
+    "writer"
+  ],
+  "qid": "Q5951554",
+  "birthPlace": "Malaysia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:10:46.748Z"
+}

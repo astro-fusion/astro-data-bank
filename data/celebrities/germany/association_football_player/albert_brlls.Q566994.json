@@ -1,0 +1,34 @@
+{
+  "publicId": "2febb446",
+  "wikipediaSlug": "Albert_Brülls",
+  "wikipediaId": "Q566994",
+  "name": "Albert Brülls",
+  "fullName": "Albert Brülls",
+  "profileSummary": "Albert Brülls was a German footballer who played 25 times for the West Germany national team, including matches in both the 1962 and 1966 FIFA World Cups.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Albert_Brulls.jpg/330px-Albert_Brulls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Br%C3%BClls",
+  "dateOfBirth": "1937-03-26",
+  "birthDateParsed": "1937-03-26",
+  "dateOfDeath": "2004-03-28",
+  "deathDateParsed": "2004-03-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.279166666",
+  "birthCoordinatesLng": "6.458888888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q566994",
+  "birthPlace": "Anrath",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:54.601Z"
+}

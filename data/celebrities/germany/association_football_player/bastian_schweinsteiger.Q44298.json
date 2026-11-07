@@ -1,0 +1,33 @@
+{
+  "publicId": "1996e291",
+  "wikipediaSlug": "Bastian_Schweinsteiger",
+  "wikipediaId": "Q44298",
+  "name": "Bastian Schweinsteiger",
+  "fullName": "Bastian Schweinsteiger",
+  "profileSummary": "Bastian Schweinsteiger is a German former professional footballer who played as a midfielder. Earlier in his career, he primarily played as a wide midfielder before later switching to a central midfield role. Former Germany national team manager Joachim Löw has referred to Schweinsteiger as one of the greatest players the country has ever produced.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Re-publica_23_-_Tag_3_%2852957826298%29_%28cropped%29.jpg/330px-Re-publica_23_-_Tag_3_%2852957826298%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bastian_Schweinsteiger",
+  "dateOfBirth": "1984-08-01",
+  "birthDateParsed": "1984-08-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "47.85",
+  "birthCoordinatesLng": "12.066666666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q44298",
+  "birthPlace": "Kolbermoor",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:16.375Z"
+}

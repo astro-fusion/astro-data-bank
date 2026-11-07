@@ -1,0 +1,37 @@
+{
+  "publicId": "6c904cd1",
+  "wikipediaSlug": "Wang_Xueqi",
+  "wikipediaId": "Q704233",
+  "name": "Wang Xueqi",
+  "fullName": "Wang Xueqi",
+  "profileSummary": "Wang Xueqi is a Chinese film actor whose career has spanned over 25 years. He was often cast in early Fifth Generation films, such as Chen Kaige's Yellow Earth (1984) and The Big Parade (1986), Huang Jianxin's Samsara, and Zhang Yimou's Codename Cougar (1989). He has since carved out a niche in the Chinese market as a character actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wang_Xueqi",
+  "dateOfBirth": "1946-03-19",
+  "birthDateParsed": "1946-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "television actor",
+    "film actor",
+    "director"
+  ],
+  "qid": "Q704233",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:20.867Z"
+}

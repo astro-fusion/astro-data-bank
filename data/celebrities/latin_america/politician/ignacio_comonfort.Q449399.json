@@ -1,0 +1,36 @@
+{
+  "publicId": "08945488",
+  "wikipediaSlug": "Ignacio_Comonfort",
+  "wikipediaId": "Q449399",
+  "name": "Ignacio Comonfort",
+  "fullName": "Ignacio Comonfort",
+  "profileSummary": "Ignacio Gregorio Comonfort de los Ríos, also known as Ignacio Comonfort, was a Mexican politician and soldier who was also president during La Reforma.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Comonfort.png/330px-Comonfort.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ignacio_Comonfort",
+  "dateOfBirth": "1812-03-12",
+  "birthDateParsed": "1812-03-12",
+  "dateOfDeath": "1863-11-03",
+  "deathDateParsed": "1863-11-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.051388888",
+  "birthCoordinatesLng": "-98.217777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "minister",
+    "military officer"
+  ],
+  "qid": "Q449399",
+  "birthPlace": "Heroica Puebla de Zaragoza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:24.751Z"
+}

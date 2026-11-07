@@ -1,0 +1,36 @@
+{
+  "publicId": "639343e4",
+  "wikipediaSlug": "Amber_Chia",
+  "wikipediaId": "Q246270",
+  "name": "Amber Chia",
+  "fullName": "Amber Chia",
+  "profileSummary": "Amber Chia is a Malaysian model, actress, TV host and brand ambassador. She was born in Teluk Intan, Malaysia but grew up in the town of Tawau in Sabah, East Malaysia. Chia started her own company called Amber Creations in mid-2009 and a modelling school Amber Chia Academy in August 2010.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amber_Chia_Lee_Peng.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amber_Chia",
+  "dateOfBirth": "1981-12-14",
+  "birthDateParsed": "1981-12-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.6",
+  "birthCoordinatesLng": "101.07",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "socialite",
+    "businessperson"
+  ],
+  "qid": "Q246270",
+  "birthPlace": "Ipoh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:10:49.201Z"
+}

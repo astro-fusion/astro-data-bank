@@ -1,0 +1,35 @@
+{
+  "publicId": "55edf8dd",
+  "wikipediaSlug": "Beto_Barbosa",
+  "wikipediaId": "Q831480",
+  "name": "Beto Barbosa",
+  "fullName": "Beto Barbosa",
+  "profileSummary": "\nRaimundo Roberto Morhy Barbosa is a Brazilian Lambada singer and composer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Camarote_Skol_%285508520537%29.jpg/330px-Camarote_Skol_%285508520537%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beto_Barbosa",
+  "dateOfBirth": "1955-02-27",
+  "birthDateParsed": "1955-02-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-1.455833333",
+  "birthCoordinatesLng": "-48.503888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "vocalist",
+    "singer"
+  ],
+  "qid": "Q831480",
+  "birthPlace": "Belém",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:00.979Z"
+}

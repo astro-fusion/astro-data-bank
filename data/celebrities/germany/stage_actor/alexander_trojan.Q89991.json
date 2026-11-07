@@ -1,0 +1,35 @@
+{
+  "publicId": "076cf076",
+  "wikipediaSlug": "Alexander_Trojan",
+  "wikipediaId": "Q89991",
+  "name": "Alexander Trojan",
+  "fullName": "Alexander Trojan",
+  "profileSummary": "Alexander Trojan was an Austrian film actor. He appeared in more than 20 films between 1939 and 1977. He starred in the film Panoptikum 59, which was entered into the 9th Berlin International Film Festival.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Trojan",
+  "dateOfBirth": "1914-03-30",
+  "birthDateParsed": "1914-03-30",
+  "dateOfDeath": "1992-09-19",
+  "deathDateParsed": "1992-09-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q89991",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:19.981Z"
+}

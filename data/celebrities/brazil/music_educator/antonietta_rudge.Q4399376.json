@@ -1,0 +1,34 @@
+{
+  "publicId": "1e26034f",
+  "wikipediaSlug": "Antonietta_Rudge",
+  "wikipediaId": "Q4399376",
+  "name": "Antonietta Rudge",
+  "fullName": "Antonietta Rudge",
+  "profileSummary": "Antonietta Rudge was a Brazilian pianist of international fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Antonietta_Rudge_%281924%29.jpg/330px-Antonietta_Rudge_%281924%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonietta_Rudge",
+  "dateOfBirth": "1885-06-13",
+  "birthDateParsed": "1885-06-13",
+  "dateOfDeath": "1974-07-13",
+  "deathDateParsed": "1974-07-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "music educator",
+    "pianist"
+  ],
+  "qid": "Q4399376",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:22.927Z"
+}

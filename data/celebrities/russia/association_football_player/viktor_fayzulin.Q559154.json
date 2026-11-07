@@ -1,0 +1,33 @@
+{
+  "publicId": "72caa8ba",
+  "wikipediaSlug": "Viktor_Fayzulin",
+  "wikipediaId": "Q559154",
+  "name": "Viktor Fayzulin",
+  "fullName": "Viktor Fayzulin",
+  "profileSummary": "Viktor Igorevich Fayzulin is a Russian former footballer who played as a midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Viktor_Fayzulin_2014.jpg/330px-Viktor_Fayzulin_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Fayzulin",
+  "dateOfBirth": "1986-04-22",
+  "birthDateParsed": "1986-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "42.816666666",
+  "birthCoordinatesLng": "132.883333333",
+  "birthTimezone": "Asia/Tokyo",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q559154",
+  "birthPlace": "Nakhodka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:37:13.831Z"
+}

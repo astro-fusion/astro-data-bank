@@ -1,0 +1,37 @@
+{
+  "publicId": "797f8b62",
+  "wikipediaSlug": "Jorge_Garcia",
+  "wikipediaId": "Q264914",
+  "name": "Jorge Garcia",
+  "fullName": "Jorge Garcia",
+  "profileSummary": "Jorge Garcia is an American actor and comedian. He first came to public attention with his performance as Hector Lopez on the television show Becker, but subsequently became best known for his portrayal of Hugo \"Hurley\" Reyes in the television series Lost from 2004 to 2010. He starred in the Fox television series Alcatraz and played a minor character on ABC's Once Upon a Time. He starred as Jerry Ortega on Hawaii Five-0 and can be seen in the Netflix film The Ridiculous 6. Recently, he starred in the comedy series Bookie (2023-2025). Garcia also appeared on the cover of Weezer's 2010 album Hurley in a close-up shot from a photo he took with vocalist Rivers Cuomo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jorge_Garcia_by_Gage_Skidmore_2.jpg/330px-Jorge_Garcia_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Garcia",
+  "dateOfBirth": "1973-04-28",
+  "birthDateParsed": "1973-04-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "41.258611111",
+  "birthCoordinatesLng": "-95.9375",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "blogger",
+    "television actor",
+    "comedian",
+    "film actor"
+  ],
+  "qid": "Q264914",
+  "birthPlace": "Omaha",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:56.829Z"
+}

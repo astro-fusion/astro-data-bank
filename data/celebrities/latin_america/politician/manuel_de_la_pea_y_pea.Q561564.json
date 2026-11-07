@@ -1,0 +1,36 @@
+{
+  "publicId": "d111555d",
+  "wikipediaSlug": "Manuel_de_la_Peña_y_Peña",
+  "wikipediaId": "Q561564",
+  "name": "Manuel de la Peña y Peña",
+  "fullName": "Manuel de la Peña y Peña",
+  "profileSummary": "José Manuel de la Peña y Peña was a Mexican lawyer and judge who served two non-consecutive, but closely following, terms as the president of Mexico during the Mexican American War. In contrast to many other nineteenth-century Mexican presidents, he never served in the military, instead coming from a distinguished legal background.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Presidente_Manuel_de_la_Pe%C3%B1a_y_Pe%C3%B1a.jpg/330px-Presidente_Manuel_de_la_Pe%C3%B1a_y_Pe%C3%B1a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_de_la_Pe%C3%B1a_y_Pe%C3%B1a",
+  "dateOfBirth": "1789-03-10",
+  "birthDateParsed": "1789-03-10",
+  "dateOfDeath": "1850-01-02",
+  "deathDateParsed": "1850-01-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "judge",
+    "minister"
+  ],
+  "qid": "Q561564",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:51.910Z"
+}

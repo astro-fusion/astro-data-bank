@@ -1,0 +1,35 @@
+{
+  "publicId": "9b6bd1f3",
+  "wikipediaSlug": "Hermes_da_Fonseca",
+  "wikipediaId": "Q312874",
+  "name": "Hermes da Fonseca",
+  "fullName": "Hermes da Fonseca",
+  "profileSummary": "Hermes Rodrigues da Fonseca was a Brazilian field marshal and politician who served as the eighth president of Brazil between 1910 and 1914. He was a nephew of marshal Deodoro da Fonseca, the first president of Brazil, and general João Severiano da Fonseca, patron of the Army Health Service. His parents were the marshal Hermes Ernesto da Fonseca and Rita Rodrigues Barbosa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hermes_da_Fonseca_%281910%29.jpg/330px-Hermes_da_Fonseca_%281910%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermes_da_Fonseca",
+  "dateOfBirth": "1855-05-12",
+  "birthDateParsed": "1855-05-12",
+  "dateOfDeath": "1923-09-09",
+  "deathDateParsed": "1923-09-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-30.335833333",
+  "birthCoordinatesLng": "-54.32",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "military officer"
+  ],
+  "qid": "Q312874",
+  "birthPlace": "São Gabriel",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:36.239Z"
+}

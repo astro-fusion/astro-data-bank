@@ -1,0 +1,34 @@
+{
+  "publicId": "56ed37e6",
+  "wikipediaSlug": "Angela_Yuen",
+  "wikipediaId": "Q18199508",
+  "name": "Angela Yuen",
+  "fullName": "Angela Yuen",
+  "profileSummary": "Angela Yuen Lai-lam is a Hong Kong fashion model and actress. She was nominated for Best Leading Actress at the 59th Golden Horse Awards in 2022 and Best Actress at the 41st Hong Kong Film Awards in 2023 for The Narrow Road.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Angela_Yuen_from_%22Fly_Me_to_the_Moon%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348291118%29_%28cropped%29.jpg/330px-Angela_Yuen_from_%22Fly_Me_to_the_Moon%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348291118%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angela_Yuen",
+  "dateOfBirth": "1993-10-25",
+  "birthDateParsed": "1993-10-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q18199508",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:04.332Z"
+}

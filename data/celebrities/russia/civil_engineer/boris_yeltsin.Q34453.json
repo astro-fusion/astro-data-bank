@@ -1,0 +1,36 @@
+{
+  "publicId": "df0ad547",
+  "wikipediaSlug": "Boris_Yeltsin",
+  "wikipediaId": "Q34453",
+  "name": "Boris Yeltsin",
+  "fullName": "Boris Yeltsin",
+  "profileSummary": "Boris Nikolayevich Yeltsin was a Soviet and Russian politician who served as President of Russia from 1991 to 1999. He was a member of the Communist Party of the Soviet Union (CPSU) from 1961 to 1990. He later stood as a political independent, during which time he was viewed as being ideologically aligned with liberalism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Yeltsin_%283x4_cropped%29.jpg/330px-Boris_Yeltsin_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Yeltsin",
+  "dateOfBirth": "1931-02-01",
+  "birthDateParsed": "1931-02-01",
+  "dateOfDeath": "2007-04-23",
+  "deathDateParsed": "2007-04-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "56.716666666",
+  "birthCoordinatesLng": "63.783333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "civil engineer",
+    "politician",
+    "master builder",
+    "engineer"
+  ],
+  "qid": "Q34453",
+  "birthPlace": "Butka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:22.073Z"
+}

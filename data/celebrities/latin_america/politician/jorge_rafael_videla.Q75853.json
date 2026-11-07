@@ -1,0 +1,34 @@
+{
+  "publicId": "86dfd91b",
+  "wikipediaSlug": "Jorge_Rafael_Videla",
+  "wikipediaId": "Q75853",
+  "name": "Jorge Rafael Videla",
+  "fullName": "Jorge Rafael Videla",
+  "profileSummary": "General Jorge Rafael Videla was an Argentine general, politician and dictator who served as the president of Argentina from 1976 to 1981 during the National Reorganization Process.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Retrato_Oficial_Jorge_Rafael_Videla_1976_%28cropped%29_%28b%29.jpg/330px-Retrato_Oficial_Jorge_Rafael_Videla_1976_%28cropped%29_%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Rafael_Videla",
+  "dateOfBirth": "1925-08-02",
+  "birthDateParsed": "1925-08-02",
+  "dateOfDeath": "2013-05-17",
+  "deathDateParsed": "2013-05-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.65",
+  "birthCoordinatesLng": "-59.433333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer"
+  ],
+  "qid": "Q75853",
+  "birthPlace": "Mercedes",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:17.126Z"
+}

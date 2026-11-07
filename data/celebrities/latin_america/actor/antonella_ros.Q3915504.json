@@ -1,0 +1,33 @@
+{
+  "publicId": "d52ec515",
+  "wikipediaSlug": "Antonella_Ríos",
+  "wikipediaId": "Q3915504",
+  "name": "Antonella Ríos",
+  "fullName": "Antonella Ríos",
+  "profileSummary": "Antonella Ríos Mascetti is a Chilean television and film actress. Her best-known roles were Mariana in the telenovela Brujas and Gracia in the film Los Debutantes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Antonella_R%C3%ADos_%288-11-2018%29_%28cropped%29.jpg/330px-Antonella_R%C3%ADos_%288-11-2018%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonella_R%C3%ADos",
+  "dateOfBirth": "1974-07-31",
+  "birthDateParsed": "1974-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-39.8142",
+  "birthCoordinatesLng": "-73.2459",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q3915504",
+  "birthPlace": "Valdivia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:02.729Z"
+}

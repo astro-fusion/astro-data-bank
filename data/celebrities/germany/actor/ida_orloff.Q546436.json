@@ -1,0 +1,36 @@
+{
+  "publicId": "4a1c435c",
+  "wikipediaSlug": "Ida_Orloff",
+  "wikipediaId": "Q546436",
+  "name": "Ida Orloff",
+  "fullName": "Ida Orloff",
+  "profileSummary": "Ida Orloff was an Austrian stage and silent film actress during the early 20th century. Orloff's relationship with novelist Gerhardt Hauptmann inspired him to create the heroine of his fairy tale And Pippa Dances and the lead of the 1913 film Atlantis after her.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/IdaOrlov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ida_Orloff",
+  "dateOfBirth": "1889-02-16",
+  "birthDateParsed": "1889-02-16",
+  "dateOfDeath": "1945-04-09",
+  "deathDateParsed": "1945-04-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "translator"
+  ],
+  "qid": "Q546436",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:12.489Z"
+}

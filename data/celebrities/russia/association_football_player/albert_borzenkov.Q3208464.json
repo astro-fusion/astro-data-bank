@@ -1,0 +1,34 @@
+{
+  "publicId": "c86fec04",
+  "wikipediaSlug": "Albert_Borzenkov",
+  "wikipediaId": "Q3208464",
+  "name": "Albert Borzenkov",
+  "fullName": "Albert Borzenkov",
+  "profileSummary": "Albert Valentinovich Borzenkov is a Russian football coach and a former player.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Borzenkov",
+  "dateOfBirth": "1973-01-03",
+  "birthDateParsed": "1973-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.737222222",
+  "birthCoordinatesLng": "36.187222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q3208464",
+  "birthPlace": "Kursk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:54.819Z"
+}

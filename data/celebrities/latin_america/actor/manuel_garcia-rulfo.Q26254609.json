@@ -1,0 +1,35 @@
+{
+  "publicId": "63189125",
+  "wikipediaSlug": "Manuel_Garcia-Rulfo",
+  "wikipediaId": "Q26254609",
+  "name": "Manuel Garcia-Rulfo",
+  "fullName": "Manuel Garcia-Rulfo",
+  "profileSummary": "Manuel García-Rulfo Lapuente is a Mexican actor, working in both Mexico and the United States. He is known for his starring role since 2022 as lawyer Mickey Haller in the American television legal drama series The Lincoln Lawyer. He has appeared in films such as Cake (2014), The Magnificent Seven (2016), A Man Called Otto (2022) and Jurassic World Rebirth (2025), as well as the television series From Dusk till Dawn: The Series (2014–2015).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Manuel_Garcia-Rulfo_at_the_2024_Toronto_International_Film_Festival_%28Cropped%29.jpg/330px-Manuel_Garcia-Rulfo_at_the_2024_Toronto_International_Film_Festival_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Garcia-Rulfo",
+  "dateOfBirth": "1981-02-25",
+  "birthDateParsed": "1981-02-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.676388888",
+  "birthCoordinatesLng": "-103.342222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "model",
+    "film producer"
+  ],
+  "qid": "Q26254609",
+  "birthPlace": "Guadalajara",
+  "fetchedAt": "2026-08-16T13:16:56.333Z"
+}

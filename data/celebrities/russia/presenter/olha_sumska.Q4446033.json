@@ -1,0 +1,35 @@
+{
+  "publicId": "560d5aaa",
+  "wikipediaSlug": "Olha_Sumska",
+  "wikipediaId": "Q4446033",
+  "name": "Olha Sumska",
+  "fullName": "Olha Sumska",
+  "profileSummary": "Olha Sumska is a Ukrainian actress of theater and cinema, television hostess, recipient of the Shevchenko National Prize in 1996 and the People's Artist of Ukraine (2009). In 2006 she attempted to run for a mayor of Kyiv.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Koronatsiya_Slova_2013_1742_42.jpg/330px-Koronatsiya_Slova_2013_1742_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olha_Sumska",
+  "dateOfBirth": "1966-08-22",
+  "birthDateParsed": "1966-08-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.8425",
+  "birthCoordinatesLng": "24.032222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "presenter",
+    "television presenter",
+    "film actor"
+  ],
+  "qid": "Q4446033",
+  "birthPlace": "Lviv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:55.561Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "682222f8",
+  "wikipediaSlug": "Davi_Alcolumbre",
+  "wikipediaId": "Q10264359",
+  "name": "Davi Alcolumbre",
+  "fullName": "Davi Alcolumbre",
+  "profileSummary": "Davi Samuel Alcolumbre Tobelem is a Brazilian politician member of Brazil Union (UNIÃO). He is Senator for Amapá and has been President of the Federal Senate since 1 February 2025, having previously served in the same role from 2019 to 2021. He is also a former President of the National Congress of Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Foto_Oficial_Davi_Alcolumbre.jpg/330px-Foto_Oficial_Davi_Alcolumbre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Davi_Alcolumbre",
+  "dateOfBirth": "1977-06-19",
+  "birthDateParsed": "1977-06-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "0.032958333",
+  "birthCoordinatesLng": "-51.065311111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "merchant",
+    "politician",
+    "deputy",
+    "organ builder"
+  ],
+  "qid": "Q10264359",
+  "birthPlace": "Macapá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:21.053Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "99cd52eb",
+  "wikipediaSlug": "Bai_Baihe",
+  "wikipediaId": "Q8924905",
+  "name": "Bai Baihe",
+  "fullName": "Bai Baihe",
+  "profileSummary": "Bai Baihe is a Chinese actress. She is best known for her roles in films Love Is Not Blind (2011), Personal Tailor (2013), Monster Hunt (2015), and Go Away Mr. Tumor (2015), as well as the television series Surgeons (2017) and Sunshine by My Side (2023).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bai_Baihe_at_the_30th_Busan_International_Film_Festival_in_2025.jpg/330px-Bai_Baihe_at_the_30th_Busan_International_Film_Festival_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bai_Baihe",
+  "dateOfBirth": "1984-02-28",
+  "birthDateParsed": "1984-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "36.116666666",
+  "birthCoordinatesLng": "120.4",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q8924905",
+  "birthPlace": "Qingdao",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:55.706Z"
+}

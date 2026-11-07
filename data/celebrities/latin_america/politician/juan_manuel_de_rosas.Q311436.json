@@ -1,0 +1,37 @@
+{
+  "publicId": "435c4708",
+  "wikipediaSlug": "Juan_Manuel_de_Rosas",
+  "wikipediaId": "Q311436",
+  "name": "Juan Manuel de Rosas",
+  "fullName": "Juan Manuel de Rosas",
+  "profileSummary": "Juan Manuel José Domingo Ortiz de Rozas y López de Osornio, nicknamed \"Restorer of the Laws\", was an Argentine politician and army officer who ruled Buenos Aires Province and briefly the Argentine Confederation. Born into a wealthy family, Rosas independently amassed a personal fortune, acquiring large tracts of land in the process. Rosas enlisted his workers in a private militia, as was common for rural proprietors, and took part in the disputes that led to numerous civil wars in his country. Victorious in warfare, personally influential, and with vast landholdings and a loyal private army, Rosas became a caudillo, as provincial warlords in the region were known. He eventually reached the rank of brigadier general, the highest in the Argentine Army, and became the undisputed leader of the Federalist Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Juan_Manuel_de_Rosas_by_Norris.jpg/330px-Juan_Manuel_de_Rosas_by_Norris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas",
+  "dateOfBirth": "1793-03-30",
+  "birthDateParsed": "1793-03-30",
+  "dateOfDeath": "1877-03-14",
+  "deathDateParsed": "1877-03-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "large estate owner",
+    "rancher",
+    "military officer"
+  ],
+  "qid": "Q311436",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:01.838Z"
+}

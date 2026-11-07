@@ -1,0 +1,36 @@
+{
+  "publicId": "42b4102d",
+  "wikipediaSlug": "Anny_Ondra",
+  "wikipediaId": "Q62618",
+  "name": "Anny Ondra",
+  "fullName": "Anny Ondra",
+  "profileSummary": "Anny Ondra was a Czech film actress. She began her career in 1920 and appeared in Czech, German, Austrian, French and English films. In 1933, she married German boxing champion Max Schmeling.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anny_Ondra_by_Jaroslav_Balzar_1930.jpg/330px-Anny_Ondra_by_Jaroslav_Balzar_1930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anny_Ondra",
+  "dateOfBirth": "1902-05-15",
+  "birthDateParsed": "1902-05-15",
+  "dateOfDeath": "1987-02-28",
+  "deathDateParsed": "1987-02-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.0125",
+  "birthCoordinatesLng": "20.988333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film producer",
+    "film actor",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q62618",
+  "birthPlace": "Tarnów",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:47.902Z"
+}

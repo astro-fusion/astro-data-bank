@@ -1,0 +1,41 @@
+{
+  "publicId": "e9532bc8",
+  "wikipediaSlug": "André_Valadão",
+  "wikipediaId": "Q9614654",
+  "name": "André Valadão",
+  "fullName": "André Valadão",
+  "profileSummary": "André Machado Valadão is a Brazilian Christian singer, songwriter, worship pastor and television presenter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Andre_Machado_Valad%C3%A3o_do_Diante_do_Trono_%28cropped%29.jpg/330px-Andre_Machado_Valad%C3%A3o_do_Diante_do_Trono_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Valad%C3%A3o",
+  "dateOfBirth": "1978-04-16",
+  "birthDateParsed": "1978-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-19.928055555",
+  "birthCoordinatesLng": "-43.941944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "actor",
+    "worship pastor",
+    "writer",
+    "television presenter",
+    "songwriter",
+    "entrepreneur",
+    "recording artist"
+  ],
+  "qid": "Q9614654",
+  "birthPlace": "Belo Horizonte",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:35.513Z"
+}

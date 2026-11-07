@@ -1,0 +1,34 @@
+{
+  "publicId": "3789c166",
+  "wikipediaSlug": "Pedro_Celestino_Negrete",
+  "wikipediaId": "Q1907160",
+  "name": "Pedro Celestino Negrete",
+  "fullName": "Pedro Celestino Negrete",
+  "profileSummary": "Pedro Celestino Joseph Negrete y Falla was a Spanish politician and military man who served as a member of the interim government of Mexico after the abolition of the First Mexican Empire. He fought alongside of Agustín de Iturbide in the royalist army during the Mexican War of Independence. He was a close collaborator of Iturbide during the empire and then pressured him to abdicate the Mexican crown.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pedro_Celestino_Negrete.png/330px-Pedro_Celestino_Negrete.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Celestino_Negrete",
+  "dateOfBirth": "1777-05-19",
+  "birthDateParsed": "1777-05-19",
+  "dateOfDeath": "1846-04-11",
+  "deathDateParsed": "1846-04-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "43.2057282",
+  "birthCoordinatesLng": "-3.363257383",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer"
+  ],
+  "qid": "Q1907160",
+  "birthPlace": "Karrantza Harana / Valle de Carranza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:13.915Z"
+}

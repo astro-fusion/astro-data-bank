@@ -1,0 +1,36 @@
+{
+  "publicId": "0638bb9e",
+  "wikipediaSlug": "Aleks_Syntek",
+  "wikipediaId": "Q2832483",
+  "name": "Aleks Syntek",
+  "fullName": "Aleks Syntek",
+  "profileSummary": "Raúl Alejandro Escajadillo Peña, known by his stage name, Aleks Syntek, is a Mexican singer and songwriter. He has earned nine nominations for the Latin Grammy Awards, a Grammy nomination, five nominations for the MTV Latin Awards, and is the winner of three Latin Billboard awards. He has also received an Ariel award from the Mexican Academy of Cinematography for Best Film Music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aleks_Syntek.jpg/330px-Aleks_Syntek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleks_Syntek",
+  "dateOfBirth": "1969-09-29",
+  "birthDateParsed": "1969-09-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "20.97",
+  "birthCoordinatesLng": "-89.62",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "record producer",
+    "recording artist"
+  ],
+  "qid": "Q2832483",
+  "birthPlace": "Mérida",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:33.815Z"
+}

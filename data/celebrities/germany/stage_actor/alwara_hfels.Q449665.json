@@ -1,0 +1,35 @@
+{
+  "publicId": "774727c8",
+  "wikipediaSlug": "Alwara_Höfels",
+  "wikipediaId": "Q449665",
+  "name": "Alwara Höfels",
+  "fullName": "Alwara Höfels",
+  "profileSummary": "Alwara Höfels is a German actress who works both in front of the camera and on the theater stage.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alwara-hoefels.jpg/330px-Alwara-hoefels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alwara_H%C3%B6fels",
+  "dateOfBirth": "1982-04-06",
+  "birthDateParsed": "1982-04-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.179652777",
+  "birthCoordinatesLng": "8.508541666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q449665",
+  "birthPlace": "Kronberg im Taunus",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:19.513Z"
+}

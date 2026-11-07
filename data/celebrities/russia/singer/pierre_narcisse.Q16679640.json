@@ -1,0 +1,33 @@
+{
+  "publicId": "db21106f",
+  "wikipediaSlug": "Pierre_Narcisse",
+  "wikipediaId": "Q16679640",
+  "name": "Pierre Narcisse",
+  "fullName": "Pierre Narcisse",
+  "profileSummary": "Mudio Mukutu Pierre Narcisse De Napoli De Suza, better known as Pierre Narcisse, was a Cameroonian-born Russian singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/%D0%9F%D1%8C%D0%B5%D1%80_%D0%9D%D0%B0%D1%80%D1%86%D0%B8%D1%81%D1%81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Narcisse",
+  "dateOfBirth": "1977-02-19",
+  "birthDateParsed": "1977-02-19",
+  "dateOfDeath": "2022-06-21",
+  "deathDateParsed": "2022-06-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "4.88333",
+  "birthCoordinatesLng": "9.9",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q16679640",
+  "birthPlace": "Ebone",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:14.558Z"
+}

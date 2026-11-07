@@ -1,0 +1,34 @@
+{
+  "publicId": "296afde0",
+  "wikipediaSlug": "Hans_Schmidt_(footballer,_born_1893)",
+  "wikipediaId": "Q882939",
+  "name": "Hans Schmidt (footballer, born 1893)",
+  "fullName": "Hans Schmidt (footballer, born 1893)",
+  "profileSummary": "Hans Schmidt was a German international footballer and manager.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Schmidt_(footballer%2C_born_1893)",
+  "dateOfBirth": "1893-12-23",
+  "birthDateParsed": "1893-12-23",
+  "dateOfDeath": "1971-01-31",
+  "deathDateParsed": "1971-01-31",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.478333333",
+  "birthCoordinatesLng": "10.990277777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q882939",
+  "birthPlace": "Fürth",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:58.460Z"
+}

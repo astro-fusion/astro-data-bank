@@ -1,0 +1,33 @@
+{
+  "publicId": "7119c875",
+  "wikipediaSlug": "Alexandra_Stewart",
+  "wikipediaId": "Q451524",
+  "name": "Alexandra Stewart",
+  "fullName": "Alexandra Stewart",
+  "profileSummary": "Alexandra Stewart is a Canadian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Alexandra_Stewart.JPG/330px-Alexandra_Stewart.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Stewart",
+  "dateOfBirth": "1939-06-10",
+  "birthDateParsed": "1939-06-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "45.5033426",
+  "birthCoordinatesLng": "-73.5868411",
+  "birthTimezone": "America/New_York",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q451524",
+  "birthPlace": "Montreal",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:28.317Z"
+}

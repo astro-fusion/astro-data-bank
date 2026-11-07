@@ -1,0 +1,34 @@
+{
+  "publicId": "adfe5e7d",
+  "wikipediaSlug": "Gabriela_Tafur",
+  "wikipediaId": "Q58494202",
+  "name": "Gabriela Tafur",
+  "fullName": "Gabriela Tafur",
+  "profileSummary": "Gabriela Tafur Náder is a Colombian lawyer, model & beauty pageant titleholder who was crowned Miss Colombia 2018. She represented Colombia at Miss Universe 2019 and was placed in the Top 5 finalist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gabriela_Tafur_2018.jpg/330px-Gabriela_Tafur_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriela_Tafur",
+  "dateOfBirth": "1995-07-07",
+  "birthDateParsed": "1995-07-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.44",
+  "birthCoordinatesLng": "-76.519722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "lawyer"
+  ],
+  "qid": "Q58494202",
+  "birthPlace": "Cali",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:39.170Z"
+}

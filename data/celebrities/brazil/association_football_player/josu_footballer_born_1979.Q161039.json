@@ -1,0 +1,33 @@
+{
+  "publicId": "2205218d",
+  "wikipediaSlug": "Josué_(footballer,_born_1979)",
+  "wikipediaId": "Q161039",
+  "name": "Josué (footballer, born 1979)",
+  "fullName": "Josué (footballer, born 1979)",
+  "profileSummary": "Josué Anunciado de Oliveira, known as simply Josué, is a Brazilian former professional footballer who played as a defensive midfielder. He played for the Brazil national team from 2007 to 2010, winning the 2007 Copa América and playing at the 2010 FIFA World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/JosueUCL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josu%C3%A9_(footballer%2C_born_1979)",
+  "dateOfBirth": "1979-07-19",
+  "birthDateParsed": "1979-07-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-8.126388888",
+  "birthCoordinatesLng": "-35.3075",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q161039",
+  "birthPlace": "Vitória de Santo Antão",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:57.644Z"
+}

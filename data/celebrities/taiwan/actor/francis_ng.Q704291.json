@@ -1,0 +1,36 @@
+{
+  "publicId": "045e14a2",
+  "wikipediaSlug": "Francis_Ng",
+  "wikipediaId": "Q704291",
+  "name": "Francis Ng",
+  "fullName": "Francis Ng",
+  "profileSummary": "Francis Ng Chun-yu is a Hong Kong actor and director. He is known for his roles in the TVB series Old Time Buddy (1997) and Triumph in the Skies (2003), as well as in films such as Bullets Over Summer (1999), The Mission (1999), 2000 AD (2000), Juliet in Love (2000), and Infernal Affairs II (2003).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Francis_Ng_%28%E5%90%B3%E9%8E%AE%E5%AE%87%29_in_May_2019.jpg/330px-Francis_Ng_%28%E5%90%B3%E9%8E%AE%E5%AE%87%29_in_May_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Ng",
+  "dateOfBirth": "1961-12-21",
+  "birthDateParsed": "1961-12-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "film director",
+    "television actor"
+  ],
+  "qid": "Q704291",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:20.357Z"
+}

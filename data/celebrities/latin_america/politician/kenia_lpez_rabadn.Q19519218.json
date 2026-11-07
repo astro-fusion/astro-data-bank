@@ -1,0 +1,33 @@
+{
+  "publicId": "98f728d5",
+  "wikipediaSlug": "Kenia_López_Rabadán",
+  "wikipediaId": "Q19519218",
+  "name": "Kenia López Rabadán",
+  "fullName": "Kenia López Rabadán",
+  "profileSummary": "Kenia López Rabadán is a Mexican politician from the National Action Party (PAN).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Senadora_Kenia_Lopez_Rabadan.jpg/330px-Senadora_Kenia_Lopez_Rabadan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenia_L%C3%B3pez_Rabad%C3%A1n",
+  "dateOfBirth": "1974-10-25",
+  "birthDateParsed": "1974-10-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q19519218",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:40.131Z"
+}

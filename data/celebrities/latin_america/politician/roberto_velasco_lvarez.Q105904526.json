@@ -1,0 +1,33 @@
+{
+  "publicId": "30d5598d",
+  "wikipediaSlug": "Roberto_Velasco_Álvarez",
+  "wikipediaId": "Q105904526",
+  "name": "Roberto Velasco Álvarez",
+  "fullName": "Roberto Velasco Álvarez",
+  "profileSummary": "Roberto Velasco Álvarez is a Mexican politician and diplomat. He has served as Secretary of Foreign Affairs since April 1, 2026, during the administration of President Claudia Sheinbaum.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Roberto_Velasco_%C3%81lvarez_in_Mexico_City_-_2026_%28P-069792_00-19%29_%28cropped%29.jpg/330px-Roberto_Velasco_%C3%81lvarez_in_Mexico_City_-_2026_%28P-069792_00-19%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Velasco_%C3%81lvarez",
+  "dateOfBirth": "1987-09-14",
+  "birthDateParsed": "1987-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q105904526",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:20.906Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "3dd3e0ea",
+  "wikipediaSlug": "Fritz_Imhoff",
+  "wikipediaId": "Q87367",
+  "name": "Fritz Imhoff",
+  "fullName": "Fritz Imhoff",
+  "profileSummary": "Fritz Imhoff, real name: Friedrich Arnold Heinrich Jeschke was an Austrian actor. He was a brother of the Wienerlied composer Ernst Arnold (1890–1962).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wiedner_Hauptstra%C3%9Fe_23.JPG/330px-Wiedner_Hauptstra%C3%9Fe_23.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Imhoff",
+  "dateOfBirth": "1891-01-06",
+  "birthDateParsed": "1891-01-06",
+  "dateOfDeath": "1961-02-24",
+  "deathDateParsed": "1961-02-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "comedian",
+    "opera singer",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q87367",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:46.532Z"
+}

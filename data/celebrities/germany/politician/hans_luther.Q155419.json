@@ -1,0 +1,39 @@
+{
+  "publicId": "6cb5a1b0",
+  "wikipediaSlug": "Hans_Luther",
+  "wikipediaId": "Q155419",
+  "name": "Hans Luther",
+  "fullName": "Hans Luther",
+  "profileSummary": "Hans Luther was a German politician and Chancellor of Germany for 482 days in 1925 to 1926. As Minister of Finance, he helped stabilise the Mark during the hyperinflation of 1923. From 1930 to 1933, Luther was head of the Reichsbank and from 1933 to 1937, he served as German Ambassador to the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bundesarchiv_Bild_146-1969-008A-07%2C_Hans_Luther_%28cropped%29%282%29.jpg/330px-Bundesarchiv_Bild_146-1969-008A-07%2C_Hans_Luther_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Luther",
+  "dateOfBirth": "1879-03-10",
+  "birthDateParsed": "1879-03-10",
+  "dateOfDeath": "1962-05-11",
+  "deathDateParsed": "1962-05-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "banker",
+    "diplomat",
+    "lawyer",
+    "jurist",
+    "financier",
+    "ambassador"
+  ],
+  "qid": "Q155419",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:25.762Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "ea1e6385",
+  "wikipediaSlug": "Alexander_Gorchakov",
+  "wikipediaId": "Q327020",
+  "name": "Alexander Gorchakov",
+  "fullName": "Alexander Gorchakov",
+  "profileSummary": "Prince Alexander Mikhailovich Gorchakov was a Russian diplomat and statesman from the Gorchakov princely family. He has an enduring reputation as one of the most influential and respected diplomats of the mid-19th century. Scholars agree that the termination of the demilitarisation of the Black Sea was Gorchakov's greatest accomplishment but add that he stayed too long as foreign minister.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/K%C3%B6ler_Gorchakov.jpg/330px-K%C3%B6ler_Gorchakov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Gorchakov",
+  "dateOfBirth": "1798-06-15",
+  "birthDateParsed": "1798-06-15",
+  "dateOfDeath": "1883-03-11",
+  "deathDateParsed": "1883-03-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "58.946944444",
+  "birthCoordinatesLng": "23.536944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "politician",
+    "chancellor",
+    "foreign minister"
+  ],
+  "qid": "Q327020",
+  "birthPlace": "Haapsalu",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:05.006Z"
+}

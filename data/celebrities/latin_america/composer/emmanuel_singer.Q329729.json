@@ -1,0 +1,38 @@
+{
+  "publicId": "f4a3dffe",
+  "wikipediaSlug": "Emmanuel_(singer)",
+  "wikipediaId": "Q329729",
+  "name": "Emmanuel (singer)",
+  "fullName": "Emmanuel (singer)",
+  "profileSummary": "Jesús Emmanuel Arturo Acha Martinez is a Mexican singer. He is known for a career spanning five decades. With 20 studio albums released and over 10 million records sold worldwide, he is considered one of the best-selling Latin music artists in history. He has received both the Billboard Latin Music Lifetime Achievement Award and the Latin Grammy Lifetime Achievement Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Singer_Emmanuel.jpg/330px-Singer_Emmanuel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_(singer)",
+  "dateOfBirth": "1955-04-16",
+  "birthDateParsed": "1955-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "singer",
+    "pianist",
+    "guitarist",
+    "bullfighter",
+    "recording artist"
+  ],
+  "qid": "Q329729",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:13.169Z"
+}

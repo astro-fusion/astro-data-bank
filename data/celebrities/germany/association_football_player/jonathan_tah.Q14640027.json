@@ -1,0 +1,33 @@
+{
+  "publicId": "1492ef2d",
+  "wikipediaSlug": "Jonathan_Tah",
+  "wikipediaId": "Q14640027",
+  "name": "Jonathan Tah",
+  "fullName": "Jonathan Tah",
+  "profileSummary": "Jonathan Glao Tah is a German professional footballer who plays as a centre-back for Bundesliga club Bayern Munich and the Germany national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jonathan_Tah_Ecuador_v_Germany_25_June_2026-116.jpg/330px-Jonathan_Tah_Ecuador_v_Germany_25_June_2026-116.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonathan_Tah",
+  "dateOfBirth": "1996-02-11",
+  "birthDateParsed": "1996-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q14640027",
+  "birthPlace": "Hamburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:31.172Z"
+}

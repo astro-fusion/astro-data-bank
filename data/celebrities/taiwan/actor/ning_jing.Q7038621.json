@@ -1,0 +1,33 @@
+{
+  "publicId": "3d460ece",
+  "wikipediaSlug": "Ning_Jing",
+  "wikipediaId": "Q7038621",
+  "name": "Ning Jing",
+  "fullName": "Ning Jing",
+  "profileSummary": "Ning Jing is a Chinese actress and singer. She is best known for playing Mi Lan in In the Heat of the Sun (1994), Danzhu in Red River Valley (1997), Angel in Lover's Grief over the Yellow River (1999) and Empress Dowager Xiaozhuang in the television series Xiaozhuang Epic (2003). Ning has received various accolades, including a Silver Shell for Best Actress, a Golden Rooster Award from two nominations, two Hundred Flowers Awards, and has been nominated for one Golden Horse Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ning_jing_crop.jpg/330px-Ning_jing_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ning_Jing",
+  "dateOfBirth": "1972-04-27",
+  "birthDateParsed": "1972-04-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "26.579444444",
+  "birthCoordinatesLng": "106.707777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q7038621",
+  "birthPlace": "Guiyang",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:21.324Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "c63cb177",
+  "wikipediaSlug": "Julio_Argentino_Pascual_Roca",
+  "wikipediaId": "Q9016464",
+  "name": "Julio Argentino Pascual Roca",
+  "fullName": "Julio Argentino Pascual Roca",
+  "profileSummary": "Julio Argentino Pascual Roca Funes was an Argentine politician and diplomat.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Julio_A._Roca_hijo.JPG/330px-Julio_A._Roca_hijo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_Argentino_Pascual_Roca",
+  "dateOfBirth": "1873-05-17",
+  "birthDateParsed": "1873-05-17",
+  "dateOfDeath": "1942-10-08",
+  "deathDateParsed": "1942-10-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "37.89",
+  "birthCoordinatesLng": "-4.78",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer"
+  ],
+  "qid": "Q9016464",
+  "birthPlace": "Córdoba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:37.971Z"
+}

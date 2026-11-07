@@ -1,0 +1,35 @@
+{
+  "publicId": "58ab217b",
+  "wikipediaSlug": "Hebe_Tien",
+  "wikipediaId": "Q289808",
+  "name": "Hebe Tien",
+  "fullName": "Hebe Tien",
+  "profileSummary": "Hebe Tien Fu-chen is a Taiwanese singer and actress. She rose to fame in the early 2000s as a member of Taiwanese girl group S.H.E. The release of her debut album, To Hebe (2010), established her as a solo artist. Tien's song \"A Little Happiness\", the theme song of the 2015 Taiwanese film Our Times, was a major hit in most Mandarin-speaking parts of Asia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hebetienpandora2017_%28cropped%29.jpg/330px-Hebetienpandora2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hebe_Tien",
+  "dateOfBirth": "1983-03-30",
+  "birthDateParsed": "1983-03-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.916666666",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor"
+  ],
+  "qid": "Q289808",
+  "birthPlace": "Xinfeng Township",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:58.229Z"
+}

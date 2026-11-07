@@ -1,0 +1,36 @@
+{
+  "publicId": "1200c1fc",
+  "wikipediaSlug": "Eulalio_González",
+  "wikipediaId": "Q5408740",
+  "name": "Eulalio González",
+  "fullName": "Eulalio González",
+  "profileSummary": "Eulalio \"Lalo\" González Ramírez, nicknamed \"Piporro\", was a Mexican actor, comedian, singer-songwriter, screenwriter, announcer, film director, and film producer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Piporro_en_1976_%28cropped%29.webp/330px-Piporro_en_1976_%28cropped%29.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eulalio_Gonz%C3%A1lez",
+  "dateOfBirth": "1921-12-16",
+  "birthDateParsed": "1921-12-16",
+  "dateOfDeath": "2003-09-01",
+  "deathDateParsed": "2003-09-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.91014",
+  "birthCoordinatesLng": "-99.42046",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "comedian",
+    "singer"
+  ],
+  "qid": "Q5408740",
+  "birthPlace": "Los Herreras Municipality",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:57.097Z"
+}

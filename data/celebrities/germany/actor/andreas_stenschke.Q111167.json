@@ -1,0 +1,36 @@
+{
+  "publicId": "b330b388",
+  "wikipediaSlug": "Andreas_Stenschke",
+  "wikipediaId": "Q111167",
+  "name": "Andreas Stenschke",
+  "fullName": "Andreas Stenschke",
+  "profileSummary": "Andreas Stenschke, is a German actor and director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andreas_main_shot.jpg/330px-Andreas_main_shot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Stenschke",
+  "dateOfBirth": "1975-07-26",
+  "birthDateParsed": "1975-07-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.942222222",
+  "birthCoordinatesLng": "6.957777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "musician"
+  ],
+  "qid": "Q111167",
+  "birthPlace": "Cologne",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:06.402Z"
+}

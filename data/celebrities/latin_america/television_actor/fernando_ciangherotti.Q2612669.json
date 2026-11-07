@@ -1,0 +1,33 @@
+{
+  "publicId": "82229af3",
+  "wikipediaSlug": "Fernando_Ciangherotti",
+  "wikipediaId": "Q2612669",
+  "name": "Fernando Ciangherotti",
+  "fullName": "Fernando Ciangherotti",
+  "profileSummary": "Fernando Ciangherotti Jr. is a Mexican television and soap opera actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Ciangherotti",
+  "dateOfBirth": "1959-09-06",
+  "birthDateParsed": "1959-09-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q2612669",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:22.594Z"
+}

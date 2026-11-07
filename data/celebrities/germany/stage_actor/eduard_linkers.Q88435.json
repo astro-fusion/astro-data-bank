@@ -1,0 +1,35 @@
+{
+  "publicId": "4c7bc797",
+  "wikipediaSlug": "Eduard_Linkers",
+  "wikipediaId": "Q88435",
+  "name": "Eduard Linkers",
+  "fullName": "Eduard Linkers",
+  "profileSummary": "Eduard Linkers was an Austrian actor. He appeared in more than 70 films between 1936 and 1988.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduard_Linkers",
+  "dateOfBirth": "1912-10-11",
+  "birthDateParsed": "1912-10-11",
+  "dateOfDeath": "2004-04-03",
+  "deathDateParsed": "2004-04-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.290833333",
+  "birthCoordinatesLng": "25.934444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q88435",
+  "birthPlace": "Chernivtsi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:31.176Z"
+}

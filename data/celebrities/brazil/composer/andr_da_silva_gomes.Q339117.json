@@ -1,0 +1,33 @@
+{
+  "publicId": "c021bd84",
+  "wikipediaSlug": "André_da_Silva_Gomes",
+  "wikipediaId": "Q339117",
+  "name": "André da Silva Gomes",
+  "fullName": "André da Silva Gomes",
+  "profileSummary": "André da Silva Gomes (1752–1844) was a Portuguese-born Brazilian composer from Lisbon. About 130 of his compositions are known, including mass settings, antiphons, psalm settings and other works for liturgical use. His Missa a Cinco Vozes is described as being in a style midway between Baroque and Classicism. He also published a treatise on counterpoint.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_da_Silva_Gomes",
+  "dateOfBirth": "1752-12-15",
+  "birthDateParsed": "1752-12-15",
+  "dateOfDeath": "1844-06-16",
+  "deathDateParsed": "1844-06-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "38.708042",
+  "birthCoordinatesLng": "-9.139016",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer"
+  ],
+  "qid": "Q339117",
+  "birthPlace": "Lisbon",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:25.115Z"
+}

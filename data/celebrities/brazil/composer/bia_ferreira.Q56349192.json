@@ -1,0 +1,35 @@
+{
+  "publicId": "53c92d7c",
+  "wikipediaSlug": "Bia_Ferreira",
+  "wikipediaId": "Q56349192",
+  "name": "Bia Ferreira",
+  "fullName": "Bia Ferreira",
+  "profileSummary": "Bia Ferreira is a Brazilian singer, composer, multi-instrumentalist and artivist. Her music, which she defines as \"MMP — Música de Mulher Preta\", discusses topics such as feminism, anti-racism and homophobia. She claims her music is created to generate \"discomfort\" that in turn generates \"movement\", at the same time that she tries to write songs pleasant enough to get her message across. Her lyrics have been described as \"escrevivência\" (\"writexperience\"), a concept by Conceição Evaristo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bia_Ferreira_Rudolstadt_2023_04.jpg/330px-Bia_Ferreira_Rudolstadt_2023_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bia_Ferreira",
+  "dateOfBirth": "1993-04-19",
+  "birthDateParsed": "1993-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.732777777",
+  "birthCoordinatesLng": "-42.028888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "singer",
+    "artivist"
+  ],
+  "qid": "Q56349192",
+  "birthPlace": "Carangola",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:55.626Z"
+}

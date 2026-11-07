@@ -1,0 +1,37 @@
+{
+  "publicId": "26788192",
+  "wikipediaSlug": "Alberto_Guzik",
+  "wikipediaId": "Q4712064",
+  "name": "Alberto Guzik",
+  "fullName": "Alberto Guzik",
+  "profileSummary": "Alberto Guzik was a Brazilian actor, director, teacher, theater critic, and writer from São Paulo, Brazil. He wrote for the newspapers Ultima Hora and the Jornal da Tarde.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Guzik",
+  "dateOfBirth": "1944-06-09",
+  "birthDateParsed": "1944-06-09",
+  "dateOfDeath": "2010-06-26",
+  "deathDateParsed": "2010-06-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "writer",
+    "actor",
+    "novelist",
+    "playwright"
+  ],
+  "qid": "Q4712064",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:31:56.868Z"
+}

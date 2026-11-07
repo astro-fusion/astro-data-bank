@@ -1,0 +1,34 @@
+{
+  "publicId": "6ffb468a",
+  "wikipediaSlug": "Betty_Gofman",
+  "wikipediaId": "Q3810213",
+  "name": "Betty Gofman",
+  "fullName": "Betty Gofman",
+  "profileSummary": "Betty Gofman is a Brazilian stage, film, and television actress. Descended from Russian-Austrian Jews, she is married to philosopher Hugo Barreto, with whom she has two daughters, the twins Alice and Helena, and she is the sister of actress Rosane (Roxanne) Gofman.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Betty_Gofman.jpg/330px-Betty_Gofman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Betty_Gofman",
+  "dateOfBirth": "1965-03-03",
+  "birthDateParsed": "1965-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q3810213",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:24.491Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "eaec5cb5",
+  "wikipediaSlug": "Anita_Dorris",
+  "wikipediaId": "Q95540",
+  "name": "Anita Dorris",
+  "fullName": "Anita Dorris",
+  "profileSummary": "Anita Dorris was a German actress of the Silent era. She played the role of Trilby in the 1927 film Svengali. She was the mother of Maria Emo who also became an actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Anita_Dorris_by_Wilhelm_Paulsen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anita_Dorris",
+  "dateOfBirth": "1903-12-21",
+  "birthDateParsed": "1903-12-21",
+  "dateOfDeath": "1993-12-24",
+  "deathDateParsed": "1993-12-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.869722222",
+  "birthCoordinatesLng": "10.686388888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q95540",
+  "birthPlace": "Lübeck",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:10.401Z"
+}

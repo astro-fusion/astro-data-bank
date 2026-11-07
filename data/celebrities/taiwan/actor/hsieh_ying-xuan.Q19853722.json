@@ -1,0 +1,35 @@
+{
+  "publicId": "780f0c74",
+  "wikipediaSlug": "Hsieh_Ying-xuan",
+  "wikipediaId": "Q19853722",
+  "name": "Hsieh Ying-xuan",
+  "fullName": "Hsieh Ying-xuan",
+  "profileSummary": "Hsieh Ying-xuan is a Taiwanese actress. She won the Best Leading Actress award at the 55th Golden Horse Awards for her role in Dear Ex (2018), and the Best Leading Actress at the 57th Golden Bell Awards by Heaven on the 4th Floor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hsieh_Ying-xuan_2022-11-19.jpg/330px-Hsieh_Ying-xuan_2022-11-19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hsieh_Ying-xuan",
+  "dateOfBirth": "1979-12-31",
+  "birthDateParsed": "1979-12-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.953611111",
+  "birthCoordinatesLng": "120.490833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q19853722",
+  "birthPlace": "Changhua County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:42.741Z"
+}

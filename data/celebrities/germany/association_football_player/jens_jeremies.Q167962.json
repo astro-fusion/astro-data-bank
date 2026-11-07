@@ -1,0 +1,33 @@
+{
+  "publicId": "c0dc179c",
+  "wikipediaSlug": "Jens_Jeremies",
+  "wikipediaId": "Q167962",
+  "name": "Jens Jeremies",
+  "fullName": "Jens Jeremies",
+  "profileSummary": "Jens Jeremies is a German former professional footballer who played as a defensive midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Jens_Jeremies_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Jeremies",
+  "dateOfBirth": "1974-03-05",
+  "birthDateParsed": "1974-03-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.152777777",
+  "birthCoordinatesLng": "14.987222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q167962",
+  "birthPlace": "Görlitz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:58.912Z"
+}

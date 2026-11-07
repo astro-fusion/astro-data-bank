@@ -1,0 +1,34 @@
+{
+  "publicId": "b4e5245d",
+  "wikipediaSlug": "Fandi_Ahmad",
+  "wikipediaId": "Q2556661",
+  "name": "Fandi Ahmad",
+  "fullName": "Fandi Ahmad",
+  "profileSummary": "Fandi bin Ahmad is a Singaporean professional football manager/head coach and former player. During his professional career, he played mainly as a striker, but also occasionally as a midfielder. Along with the Singapore FA, he also played for Malaysia Cup state sides Kuala Lumpur FA and Pahang FA, and won titles with all three, including two doubles in 1992 and 1994, as well as the Golden Boot in 1988. Fandi also played for Indonesia's Niac Mitra, Netherlands' Groningen as well as local Singaporean clubs Geylang United and SAFFC.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fandi_Ahmad%2C_2017_%28cropped%29.jpg/330px-Fandi_Ahmad%2C_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fandi_Ahmad",
+  "dateOfBirth": "1962-05-29",
+  "birthDateParsed": "1962-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q2556661",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:33.148Z"
+}

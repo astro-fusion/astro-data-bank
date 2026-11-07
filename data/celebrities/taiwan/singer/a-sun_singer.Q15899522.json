@@ -1,0 +1,34 @@
+{
+  "publicId": "ec327662",
+  "wikipediaSlug": "A-Sun_(singer)",
+  "wikipediaId": "Q15899522",
+  "name": "A-Sun (singer)",
+  "fullName": "A-Sun (singer)",
+  "profileSummary": "Huang Yen-lin, better known by her stage name Ah Sang, A-Sang, or A-Sun, was a Taiwanese Mandopop singer-songwriter. She died in 2009 from breast cancer, aged 34.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/Asunrestinpeace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A-Sun_(singer)",
+  "dateOfBirth": "1975-02-28",
+  "birthDateParsed": "1975-02-28",
+  "dateOfDeath": "2009-04-06",
+  "deathDateParsed": "2009-04-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "23.704888888",
+  "birthCoordinatesLng": "120.476069444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter"
+  ],
+  "qid": "Q15899522",
+  "birthPlace": "Yunlin County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:39.243Z"
+}

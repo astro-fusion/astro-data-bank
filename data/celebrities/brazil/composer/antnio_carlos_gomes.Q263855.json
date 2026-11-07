@@ -1,0 +1,34 @@
+{
+  "publicId": "476d2808",
+  "wikipediaSlug": "Antônio_Carlos_Gomes",
+  "wikipediaId": "Q263855",
+  "name": "Antônio Carlos Gomes",
+  "fullName": "Antônio Carlos Gomes",
+  "profileSummary": "Antônio Carlos Gomes was a Brazilian composer notable for being the first New World composer whose work was accepted by Europe. He was the only non-European who was successful as an opera composer in Italy, during the \"golden age of opera\" contemporary to Verdi and Puccini, and the first composer of non-European lineage to be accepted into the classic tradition of music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Carlos_Gomes_portrait%2C_1886.tif/lossy-page1-330px-Carlos_Gomes_portrait%2C_1886.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Gomes",
+  "dateOfBirth": "1836-07-11",
+  "birthDateParsed": "1836-07-11",
+  "dateOfDeath": "1896-09-16",
+  "deathDateParsed": "1896-09-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.900913888",
+  "birthCoordinatesLng": "-47.057294444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "pianist"
+  ],
+  "qid": "Q263855",
+  "birthPlace": "Campinas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:47.055Z"
+}

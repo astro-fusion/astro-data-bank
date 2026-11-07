@@ -1,0 +1,41 @@
+{
+  "publicId": "d277dbbe",
+  "wikipediaSlug": "Jay_Chou",
+  "wikipediaId": "Q238819",
+  "name": "Jay Chou",
+  "fullName": "Jay Chou",
+  "profileSummary": "Jay Chou Chieh-lun is a Taiwanese singer-songwriter, actor, director, and businessman. Widely regarded as one of the most influential figures in the Chinese-speaking world, he is referred to as the \"King of Mandopop\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%E5%91%A8%E6%9D%B0%E5%80%AB_Jay_Chou_in_2026.jpg/330px-%E5%91%A8%E6%9D%B0%E5%80%AB_Jay_Chou_in_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jay_Chou",
+  "dateOfBirth": "1979-01-18",
+  "birthDateParsed": "1979-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.101666666",
+  "birthCoordinatesLng": "121.363055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "songwriter",
+    "record producer",
+    "director",
+    "rapper",
+    "composer",
+    "recording artist",
+    "film director"
+  ],
+  "qid": "Q238819",
+  "birthPlace": "Linkou District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:56.663Z"
+}

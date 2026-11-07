@@ -1,0 +1,34 @@
+{
+  "publicId": "3b54c717",
+  "wikipediaSlug": "Annett_Renneberg",
+  "wikipediaId": "Q78197",
+  "name": "Annett Renneberg",
+  "fullName": "Annett Renneberg",
+  "profileSummary": "Annett Renneberg (born 16 March 1978 in Rudolstadt) is a German actress and singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Annett_Renneberg_2014.jpg/330px-Annett_Renneberg_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annett_Renneberg",
+  "dateOfBirth": "1978-03-16",
+  "birthDateParsed": "1978-03-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.716944444",
+  "birthCoordinatesLng": "11.3275",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q78197",
+  "birthPlace": "Rudolstadt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:23.294Z"
+}

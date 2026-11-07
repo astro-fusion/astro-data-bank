@@ -1,0 +1,36 @@
+{
+  "publicId": "8ef521fa",
+  "wikipediaSlug": "Daniel_Wu",
+  "wikipediaId": "Q277193",
+  "name": "Daniel Wu",
+  "fullName": "Daniel Wu",
+  "profileSummary": "Daniel Neh-Tsu Wu is a Hong Kong-American actor. He is known as a \"flexible and distinctive\" leading actor in the Chinese-language film industry. Since his film debut in 1998, he has been featured in over 60 films. A three-time Golden Horse Award nominee, he also starred in the AMC martial arts drama series Into the Badlands and the Disney+ wuxia action comedy American Born Chinese.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Daniel_Wu_by_Gage_Skidmore.jpg/330px-Daniel_Wu_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Wu",
+  "dateOfBirth": "1974-09-30",
+  "birthDateParsed": "1974-09-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "37.870277777",
+  "birthCoordinatesLng": "-122.268055555",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "film director",
+    "film producer"
+  ],
+  "qid": "Q277193",
+  "birthPlace": "Berkeley",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:35.134Z"
+}

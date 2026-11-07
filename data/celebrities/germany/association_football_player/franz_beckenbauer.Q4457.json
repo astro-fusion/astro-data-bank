@@ -1,0 +1,40 @@
+{
+  "publicId": "d120de09",
+  "wikipediaSlug": "Franz_Beckenbauer",
+  "wikipediaId": "Q4457",
+  "name": "Franz Beckenbauer",
+  "fullName": "Franz Beckenbauer",
+  "profileSummary": "Franz Anton Beckenbauer was a German professional football player, manager, and official. Nicknamed der Kaiser, he is widely regarded as one of the greatest and most influential players of all time. Beckenbauer was a versatile player who started out as a midfielder, but made his name as a centre-back. He is often credited as having invented the role of the modern sweeper.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Franz_Beckenbauer_%281975%29.jpg/330px-Franz_Beckenbauer_%281975%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_Beckenbauer",
+  "dateOfBirth": "1945-09-11",
+  "birthDateParsed": "1945-09-11",
+  "dateOfDeath": "2024-01-07",
+  "deathDateParsed": "2024-01-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "professional athlete",
+    "functionary",
+    "coach",
+    "sports executive",
+    "sports journalist",
+    "musician"
+  ],
+  "qid": "Q4457",
+  "birthPlace": "Munich",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:19.592Z"
+}

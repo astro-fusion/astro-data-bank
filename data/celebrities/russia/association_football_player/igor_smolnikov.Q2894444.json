@@ -1,0 +1,33 @@
+{
+  "publicId": "b5fc939a",
+  "wikipediaSlug": "Igor_Smolnikov",
+  "wikipediaId": "Q2894444",
+  "name": "Igor Smolnikov",
+  "fullName": "Igor Smolnikov",
+  "profileSummary": "Igor Aleksandrovich Smolnikov is a Russian former football player who played as a right-back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Igor_Smolnikov_2022.jpg/330px-Igor_Smolnikov_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Smolnikov",
+  "dateOfBirth": "1988-08-08",
+  "birthDateParsed": "1988-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "56.4",
+  "birthCoordinatesLng": "61.933333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2894444",
+  "birthPlace": "Kamensk-Uralsky",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:21.221Z"
+}

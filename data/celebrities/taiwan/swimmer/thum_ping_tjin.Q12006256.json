@@ -1,0 +1,35 @@
+{
+  "publicId": "49b8fb49",
+  "wikipediaSlug": "Thum_Ping_Tjin",
+  "wikipediaId": "Q12006256",
+  "name": "Thum Ping Tjin",
+  "fullName": "Thum Ping Tjin",
+  "profileSummary": "Thum Ping Tjin, also known as PJ Thum, is a Singaporean historian, journalist, podcaster, activist and former swimmer. Thum was a national swimmer who participated in the 1996 Summer Olympics, and was the first Singaporean to swim the English Channel.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thum_Ping_Tjin_%28%22PJ%22%29_portrait.jpg/330px-Thum_Ping_Tjin_%28%22PJ%22%29_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thum_Ping_Tjin",
+  "dateOfBirth": "1979-12-17",
+  "birthDateParsed": "1979-12-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "swimmer",
+    "historian",
+    "entrepreneur"
+  ],
+  "qid": "Q12006256",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:48.294Z"
+}

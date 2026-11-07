@@ -1,0 +1,34 @@
+{
+  "publicId": "7a4d8b9f",
+  "wikipediaSlug": "Isabel,_Princess_Imperial_of_Brazil",
+  "wikipediaId": "Q464449",
+  "name": "Isabel, Princess Imperial of Brazil",
+  "fullName": "Isabel, Princess Imperial of Brazil",
+  "profileSummary": "Dona Isabel, known as \"the Redemptress\", was the Princess Imperial of Brazil and heir presumptive to the throne of the Empire of Brazil. She served as regent of the empire on three occasions and was a central figure in Brazilian history during the final decades of the monarchy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Isabel%2C_Princesa_do_Brasil%2C_1846-1921_%28cropped%29.jpg/330px-Isabel%2C_Princesa_do_Brasil%2C_1846-1921_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabel%2C_Princess_Imperial_of_Brazil",
+  "dateOfBirth": "1846-07-29",
+  "birthDateParsed": "1846-07-29",
+  "dateOfDeath": "1921-11-14",
+  "deathDateParsed": "1921-11-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aristocrat",
+    "regent"
+  ],
+  "qid": "Q464449",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:50.269Z"
+}

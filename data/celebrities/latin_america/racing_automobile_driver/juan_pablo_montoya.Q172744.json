@@ -1,0 +1,34 @@
+{
+  "publicId": "797670f7",
+  "wikipediaSlug": "Juan_Pablo_Montoya",
+  "wikipediaId": "Q172744",
+  "name": "Juan Pablo Montoya",
+  "fullName": "Juan Pablo Montoya",
+  "profileSummary": "Juan Pablo Montoya Roldán is a Colombian former racing driver who competed in Formula One from 2001 to 2006, IndyCar between 1999 and 2022, and the NASCAR Cup Series between 2006 and 2024. Montoya won seven Formula One Grands Prix across six seasons. In American open-wheel racing, Montoya won the CART Championship Series in 1999 with Chip Ganassi Racing (CGR) and is a two-time winner of the Indianapolis 500. In endurance racing, Montoya won the IMSA SportsCar Championship in 2019 with Team Penske and is a three-time winner of the 24 Hours of Daytona with CGR.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DSC1509_%2851683678455%29%28cropped%29.jpg/330px-DSC1509_%2851683678455%29%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+  "dateOfBirth": "1975-09-20",
+  "birthDateParsed": "1975-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing automobile driver",
+    "Formula One driver"
+  ],
+  "qid": "Q172744",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:20.566Z"
+}

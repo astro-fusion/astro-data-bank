@@ -1,0 +1,40 @@
+{
+  "publicId": "18136c60",
+  "wikipediaSlug": "Erika_Pluhar",
+  "wikipediaId": "Q86551",
+  "name": "Erika Pluhar",
+  "fullName": "Erika Pluhar",
+  "profileSummary": "Erika Pluhar is an Austrian actress, singer, and author, born on 28 February 1939 in Vienna. She is the daughter of Anna and Dr Josef Pluhar. Pluhar's younger sister, Ingeborg G. Pluhar, is a painter and sculptor. Erika Pluhar is not related to Austrian musician Christina Pluhar.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Erika_Pluhar_-_Buchmesse_Wien_2018.JPG/330px-Erika_Pluhar_-_Buchmesse_Wien_2018.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erika_Pluhar",
+  "dateOfBirth": "1939-02-28",
+  "birthDateParsed": "1939-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "film director",
+    "author",
+    "director",
+    "singer",
+    "chansonnier",
+    "musician"
+  ],
+  "qid": "Q86551",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:19.214Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "5520276e",
+  "wikipediaSlug": "Ge_You",
+  "wikipediaId": "Q2658847",
+  "name": "Ge You",
+  "fullName": "Ge You",
+  "profileSummary": "Ge You is a Chinese actor. One of the most critically acclaimed performers in China, Ge is known for his signature bald head, comic timing, and intelligent, subtle acting. Ge became the first Asian actor to win the Cannes Best Actor Award for his role in Zhang Yimou's To Live (1994). He is also known for TV sitcoms Stories From The Editorial Board (1992) and I Love My Family (1994); films After Separation (1993), Farewell, My Concubine (1993), The Emperor’s Shadow (1996), The Dream Factory (1997), Big Shot's Funeral (2001), Cell Phone (2003), A World Without Thieves (2004), The Banquet (2006), Sacrifice (2010), and the film series If You Are the One (2008–2023).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ge_You_2025.jpg/330px-Ge_You_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ge_You",
+  "dateOfBirth": "1957-04-19",
+  "birthDateParsed": "1957-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q2658847",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:18.653Z"
+}

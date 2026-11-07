@@ -1,0 +1,37 @@
+{
+  "publicId": "a79a73df",
+  "wikipediaSlug": "Alyssa_Chia",
+  "wikipediaId": "Q710571",
+  "name": "Alyssa Chia",
+  "fullName": "Alyssa Chia",
+  "profileSummary": "Alyssa Chia Ching-wen is a Taiwanese actress and television host. She is known for her roles in television series such as the period dramas The Prince of Han Dynasty (2001), The Heaven Sword and Dragon Saber (2002) and Lady Wu: The First Empress (2003), as well as the contemporary social realist series The World Between Us (2019). For her role in The World Between Us, Chia won her first Best Leading Actress in a TV Series award at the 2019 Golden Bell Awards. Two years later, Chia went on to win a Golden Horse Award for Best Leading Actress for the psychological drama film The Falls (2021), directed by Chung Mong-hong.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alyssa_Chia_-_ELLE_Taiwan_Digital_Cover_Story_July_Issue_2023.png/330px-Alyssa_Chia_-_ELLE_Taiwan_Digital_Cover_Story_July_Issue_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alyssa_Chia",
+  "dateOfBirth": "1974-10-07",
+  "birthDateParsed": "1974-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television presenter",
+    "television actor",
+    "film actor",
+    "voice actor"
+  ],
+  "qid": "Q710571",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:52.954Z"
+}

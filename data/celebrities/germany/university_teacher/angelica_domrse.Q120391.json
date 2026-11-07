@@ -1,0 +1,36 @@
+{
+  "publicId": "f00b3e29",
+  "wikipediaSlug": "Angelica_Domröse",
+  "wikipediaId": "Q120391",
+  "name": "Angelica Domröse",
+  "fullName": "Angelica Domröse",
+  "profileSummary": "Angelica Domröse was a German actress, who became famous for her role of Paula in Heiner Carow's film The Legend of Paul and Paula (1973).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Angelica_Domr%C3%B6se_0036.JPG/330px-Angelica_Domr%C3%B6se_0036.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelica_Domr%C3%B6se",
+  "dateOfBirth": "1941-04-04",
+  "birthDateParsed": "1941-04-04",
+  "dateOfDeath": "2026-05-15",
+  "deathDateParsed": "2026-05-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q120391",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:27.671Z"
+}

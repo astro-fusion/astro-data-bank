@@ -1,0 +1,34 @@
+{
+  "publicId": "4670b1b7",
+  "wikipediaSlug": "Chlodwig,_Prince_of_Hohenlohe-Schillingsfürst",
+  "wikipediaId": "Q77166",
+  "name": "Chlodwig, Prince of Hohenlohe-Schillingsfürst",
+  "fullName": "Chlodwig, Prince of Hohenlohe-Schillingsfürst",
+  "profileSummary": "Chlodwig Carl Viktor, Prince of Hohenlohe-Schillingsfürst, Prince of Ratibor and Corvey, usually referred to as the Prince of Hohenlohe, was a German statesman, who served as the imperial chancellor of the German Empire and minister-president of Prussia from 1894 to 1900.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Die_Gartenlaube_%281894%29_b_773_%28cropped%29.jpg/330px-Die_Gartenlaube_%281894%29_b_773_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chlodwig%2C_Prince_of_Hohenlohe-Schillingsf%C3%BCrst",
+  "dateOfBirth": "1819-03-31",
+  "birthDateParsed": "1819-03-31",
+  "dateOfDeath": "1901-07-06",
+  "deathDateParsed": "1901-07-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.995",
+  "birthCoordinatesLng": "9.727222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat"
+  ],
+  "qid": "Q77166",
+  "birthPlace": "Rotenburg an der Fulda",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:13.879Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "32330090",
+  "wikipediaSlug": "Tse_Kwan-ho",
+  "wikipediaId": "Q9343509",
+  "name": "Tse Kwan-ho",
+  "fullName": "Tse Kwan-ho",
+  "profileSummary": "Tse Kwan-ho is a Hong Kong actor, professionally also known as Gardner Tse. Originally a nurse, Tse Kwan-ho rose to prominence in the stage play The Mad Phoenix, this was later remade into a feature film of the same name, and for which Tse won Best Leading Actor in the 34th Golden Horse Awards. Following The Mad Phoenix Tse went on to become a full-time actor and has since appeared in stage, television, film and radio serial productions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%E8%AC%9D%E5%90%9B%E8%B1%AA.jpg/330px-%E8%AC%9D%E5%90%9B%E8%B1%AA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tse_Kwan-ho",
+  "dateOfBirth": "1963-03-23",
+  "birthDateParsed": "1963-03-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q9343509",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:30.017Z"
+}

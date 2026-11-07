@@ -1,0 +1,37 @@
+{
+  "publicId": "3e918287",
+  "wikipediaSlug": "Jason_Hsu",
+  "wikipediaId": "Q666129",
+  "name": "Jason Hsu",
+  "fullName": "Jason Hsu",
+  "profileSummary": "Jason Hsu is a Taiwanese singer, actor and ice hockey player. He was a member of the Taiwanese boyband 5566.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Hsu",
+  "dateOfBirth": "1985-07-27",
+  "birthDateParsed": "1985-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "film actor",
+    "ice hockey player"
+  ],
+  "qid": "Q666129",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:00.486Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "f4bffb88",
+  "wikipediaSlug": "Carolina_Gaitán",
+  "wikipediaId": "Q5753201",
+  "name": "Carolina Gaitán",
+  "fullName": "Carolina Gaitán",
+  "profileSummary": "Carolina del Pilar Gaitán Lozano is a Colombian actress and singer. She studied at the Lee Strasberg Theater and Film Institute in New York and has been awarded two Premios Tu Mundo from Telemundo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Carolina_Gait%C3%A1n_2021.jpg/330px-Carolina_Gait%C3%A1n_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carolina_Gait%C3%A1n",
+  "dateOfBirth": "1984-04-04",
+  "birthDateParsed": "1984-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.463055561",
+  "birthCoordinatesLng": "-73.708888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "vocalist"
+  ],
+  "qid": "Q5753201",
+  "birthPlace": "Meta Department",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:48.498Z"
+}

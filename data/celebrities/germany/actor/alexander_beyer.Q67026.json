@@ -1,0 +1,35 @@
+{
+  "publicId": "c670f8cc",
+  "wikipediaSlug": "Alexander_Beyer",
+  "wikipediaId": "Q67026",
+  "name": "Alexander Beyer",
+  "fullName": "Alexander Beyer",
+  "profileSummary": "Alexander Beyer is a German actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alexander-beyer-florida_%28cropped2%29.jpg/330px-Alexander-beyer-florida_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Beyer",
+  "dateOfBirth": "1973-06-24",
+  "birthDateParsed": "1973-06-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.978055555",
+  "birthCoordinatesLng": "11.028888888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q67026",
+  "birthPlace": "Erfurt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:32.548Z"
+}

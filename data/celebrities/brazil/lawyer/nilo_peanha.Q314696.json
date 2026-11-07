@@ -1,0 +1,34 @@
+{
+  "publicId": "460bcc3f",
+  "wikipediaSlug": "Nilo_Peçanha",
+  "wikipediaId": "Q314696",
+  "name": "Nilo Peçanha",
+  "fullName": "Nilo Peçanha",
+  "profileSummary": "Nilo Procópio Peçanha was a Brazilian politician who served as the seventh president of Brazil. He was governor of Rio de Janeiro (1903–1906), then elected the fifth vice president of Brazil in 1906. He assumed the presidency in 1909 following the death of President Afonso Pena and served until 1910.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nilo_Pe%C3%A7anha_02.jpg/330px-Nilo_Pe%C3%A7anha_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nilo_Pe%C3%A7anha",
+  "dateOfBirth": "1867-10-02",
+  "birthDateParsed": "1867-10-02",
+  "dateOfDeath": "1924-03-31",
+  "deathDateParsed": "1924-03-31",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.753888888",
+  "birthCoordinatesLng": "-41.323888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q314696",
+  "birthPlace": "Campos dos Goytacazes",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:15.220Z"
+}

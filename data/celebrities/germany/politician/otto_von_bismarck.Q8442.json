@@ -1,0 +1,40 @@
+{
+  "publicId": "3563ff64",
+  "wikipediaSlug": "Otto_von_Bismarck",
+  "wikipediaId": "Q8442",
+  "name": "Otto von Bismarck",
+  "fullName": "Otto von Bismarck",
+  "profileSummary": "Otto Eduard Leopold, Prince of Bismarck, Count of Bismarck-Schönhausen, Duke of Lauenburg, was a German statesman and diplomat who oversaw the unification of Germany and served as its first chancellor from 1871 to 1890. Bismarck's Realpolitik and firm governance earned him the nickname Iron Chancellor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg/330px-Otto_von_Bismarck_1885_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
+  "dateOfBirth": "1815-04-01",
+  "birthDateParsed": "1815-04-01",
+  "dateOfDeath": "1898-07-30",
+  "deathDateParsed": "1898-07-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.578611111",
+  "birthCoordinatesLng": "12.039722222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "jurist",
+    "military officer",
+    "writer",
+    "volunteer serving one year",
+    "lord of the manor",
+    "chancellor"
+  ],
+  "qid": "Q8442",
+  "birthPlace": "Schönhausen (Elbe)",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:48.833Z"
+}

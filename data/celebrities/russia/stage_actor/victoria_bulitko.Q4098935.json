@@ -1,0 +1,39 @@
+{
+  "publicId": "b3f1d7da",
+  "wikipediaSlug": "Victoria_Bulitko",
+  "wikipediaId": "Q4098935",
+  "name": "Victoria Bulitko",
+  "fullName": "Victoria Bulitko",
+  "profileSummary": "Victoria Bulitko (Ukrainian: Булітко Вікторія Сергіївна; born 25 January 1983) is a Ukrainian film, television and theater actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%91%D1%83%D0%BB%D0%B8%D1%82%D0%BA%D0%BE_%D0%91%D0%A3%D0%9B%D0%98%D0%A2%D0%9A%D0%90.jpg/330px-%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%91%D1%83%D0%BB%D0%B8%D1%82%D0%BA%D0%BE_%D0%91%D0%A3%D0%9B%D0%98%D0%A2%D0%9A%D0%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Victoria_Bulitko",
+  "dateOfBirth": "1983-01-25",
+  "birthDateParsed": "1983-01-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "47.85",
+  "birthCoordinatesLng": "35.1175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "songwriter",
+    "actor",
+    "singer",
+    "television presenter",
+    "KVN actor"
+  ],
+  "qid": "Q4098935",
+  "birthPlace": "Zaporizhzhia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:53.440Z"
+}

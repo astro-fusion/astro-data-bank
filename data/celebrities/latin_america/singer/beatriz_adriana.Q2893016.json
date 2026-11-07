@@ -1,0 +1,35 @@
+{
+  "publicId": "6784e97b",
+  "wikipediaSlug": "Beatriz_Adriana",
+  "wikipediaId": "Q2893016",
+  "name": "Beatriz Adriana",
+  "fullName": "Beatriz Adriana",
+  "profileSummary": "Beatriz Adriana Flores de Saracho, commonly known as Beatriz Adriana, is a Mexican singer of ranchera.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Beatriz_Adriana_2008.jpg/330px-Beatriz_Adriana_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beatriz_Adriana",
+  "dateOfBirth": "1958-03-05",
+  "birthDateParsed": "1958-03-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "27.081666666",
+  "birthCoordinatesLng": "-109.445555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "film director"
+  ],
+  "qid": "Q2893016",
+  "birthPlace": "Navojoa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:00.406Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "f5ee80ca",
+  "wikipediaSlug": "Guido_Buchwald",
+  "wikipediaId": "Q77305",
+  "name": "Guido Buchwald",
+  "fullName": "Guido Buchwald",
+  "profileSummary": "Guido Ulrich Buchwald is a German former professional football player. Throughout his career he played as a defender. He is currently director of football of Stuttgarter Kickers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/6309Guido_Buchwald.JPG/330px-6309Guido_Buchwald.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guido_Buchwald",
+  "dateOfBirth": "1961-01-24",
+  "birthDateParsed": "1961-01-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.5",
+  "birthCoordinatesLng": "13.28",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q77305",
+  "birthPlace": "West Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:55.138Z"
+}

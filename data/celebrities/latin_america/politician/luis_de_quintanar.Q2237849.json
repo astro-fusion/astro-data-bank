@@ -1,0 +1,34 @@
+{
+  "publicId": "71369750",
+  "wikipediaSlug": "Luis_de_Quintanar",
+  "wikipediaId": "Q2237849",
+  "name": "Luis de Quintanar",
+  "fullName": "Luis de Quintanar",
+  "profileSummary": "José Luis de Quintanar Soto y Ruiz was a Mexican soldier and statesman who briefly served as part of a triumvirate which exercised the nation's executive power for a few days at the end of 1829 after the overthrow of President Vicente Guerrero.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Luis_de_Quintanar.png/330px-Luis_de_Quintanar.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_de_Quintanar",
+  "dateOfBirth": "1772-12-22",
+  "birthDateParsed": "1772-12-22",
+  "dateOfDeath": "1837-11-16",
+  "deathDateParsed": "1837-11-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "20.388888888",
+  "birthCoordinatesLng": "-99.996388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2237849",
+  "birthPlace": "San Juan del Río",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:03.735Z"
+}

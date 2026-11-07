@@ -1,0 +1,33 @@
+{
+  "publicId": "83db802f",
+  "wikipediaSlug": "Remy_Ong",
+  "wikipediaId": "Q7312266",
+  "name": "Remy Ong",
+  "fullName": "Remy Ong",
+  "profileSummary": "Remy Ong is a Singaporean bowler and former world champion.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Remy_Ong",
+  "dateOfBirth": "1978-11-22",
+  "birthDateParsed": "1978-11-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "bowler"
+  ],
+  "qid": "Q7312266",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:00.690Z"
+}

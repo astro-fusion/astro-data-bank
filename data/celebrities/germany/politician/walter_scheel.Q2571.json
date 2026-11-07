@@ -1,0 +1,37 @@
+{
+  "publicId": "fce7e4ef",
+  "wikipediaSlug": "Walter_Scheel",
+  "wikipediaId": "Q2571",
+  "name": "Walter Scheel",
+  "fullName": "Walter Scheel",
+  "profileSummary": "Walter Scheel was a German statesman. A former member of the Nazi Party who joined the Free Democratic Party of Germany (FDP) in 1946, he first served in government as the Federal Minister of Economic Cooperation and Development from 1961 to 1966 and later as President of Germany from 1974 to 1979. He led the FDP from 1968 to 1974.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bundesarchiv_Bild_146-1989-047-20%2C_Walter_Scheel.jpg/330px-Bundesarchiv_Bild_146-1989-047-20%2C_Walter_Scheel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Scheel",
+  "dateOfBirth": "1919-07-08",
+  "birthDateParsed": "1919-07-08",
+  "dateOfDeath": "2016-08-24",
+  "deathDateParsed": "2016-08-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.171944444",
+  "birthCoordinatesLng": "7.084722222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "general manager",
+    "business consultant",
+    "foreign minister"
+  ],
+  "qid": "Q2571",
+  "birthPlace": "Solingen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:09:00.304Z"
+}

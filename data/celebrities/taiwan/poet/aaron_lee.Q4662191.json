@@ -1,0 +1,33 @@
+{
+  "publicId": "f78d7f9b",
+  "wikipediaSlug": "Aaron_Lee",
+  "wikipediaId": "Q4662191",
+  "name": "Aaron Lee",
+  "fullName": "Aaron Lee",
+  "profileSummary": "Aaron Lee Soon Yong is a Singaporean prize-winning poet who writes in English. He was born in Malaysia but received his education in Singapore and became a Singaporean in 1996.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Lee",
+  "dateOfBirth": "1972-06-07",
+  "birthDateParsed": "1972-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.455555555",
+  "birthCoordinatesLng": "103.761111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet"
+  ],
+  "qid": "Q4662191",
+  "birthPlace": "Johor Bahru",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:50.135Z"
+}

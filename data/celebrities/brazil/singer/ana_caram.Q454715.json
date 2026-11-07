@@ -1,0 +1,42 @@
+{
+  "publicId": "919465b8",
+  "wikipediaSlug": "Ana_Caram",
+  "wikipediaId": "Q454715",
+  "name": "Ana Caram",
+  "fullName": "Ana Caram",
+  "profileSummary": "Ana Lucia Ribeiro Caram is a Brazilian singer, guitarist, and flautist who sings jazz, samba, and bossa nova music. Caram was born in São Paulo to a family versed in musical expression. She graduated from São Paulo University with a degree in musical composition and conducting. In Rio she became a protégé of Antonio Carlos Jobim, the primary developer of the bossa nova style. Caram's own style is a blend of bossa nova and jazz. She performed with Paquito D'Rivera at Carnegie Hall for the 1989 JVC Jazz Festival.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Caram",
+  "dateOfBirth": "1958-10-01",
+  "birthDateParsed": "1958-10-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.125833333",
+  "birthCoordinatesLng": "-51.388888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "vocalist",
+    "composer",
+    "jazz musician",
+    "songwriter",
+    "guitarist",
+    "flautist",
+    "pop singer",
+    "musician",
+    "jazz singer"
+  ],
+  "qid": "Q454715",
+  "birthPlace": "Presidente Prudente",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:34.786Z"
+}

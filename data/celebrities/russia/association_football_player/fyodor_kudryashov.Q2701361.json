@@ -1,0 +1,33 @@
+{
+  "publicId": "debf0e88",
+  "wikipediaSlug": "Fyodor_Kudryashov",
+  "wikipediaId": "Q2701361",
+  "name": "Fyodor Kudryashov",
+  "fullName": "Fyodor Kudryashov",
+  "profileSummary": "Fyodor Vasilievich Kudryashov is a Russian former professional footballer who played as a left back. He could also play as a centre back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fedor_Kudryashov_Russia.jpg/330px-Fedor_Kudryashov_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fyodor_Kudryashov",
+  "dateOfBirth": "1987-04-05",
+  "birthDateParsed": "1987-04-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "57.816666666",
+  "birthCoordinatesLng": "114",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2701361",
+  "birthPlace": "Mamakan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:09.174Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "f227b122",
+  "wikipediaSlug": "Mark_Consuelos",
+  "wikipediaId": "Q3124543",
+  "name": "Mark Consuelos",
+  "fullName": "Mark Consuelos",
+  "profileSummary": "Mark Andrew Consuelos is an American actor and talk show host. He rose to prominence as a television actor on the ABC soap opera All My Children for his portrayal of Mateo Santos, and subsequently as Hiram Lodge on The CW drama Riverdale (2017–2023). Consuelos currently co-hosts the daytime talk show Live with Kelly and Mark with his wife Kelly Ripa.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MarkConsuelos2023.jpg/330px-MarkConsuelos2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Consuelos",
+  "dateOfBirth": "1971-03-30",
+  "birthDateParsed": "1971-03-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "41.65",
+  "birthCoordinatesLng": "-0.883333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "film producer"
+  ],
+  "qid": "Q3124543",
+  "birthPlace": "Zaragoza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:36.557Z"
+}

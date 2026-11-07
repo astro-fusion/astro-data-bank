@@ -1,0 +1,34 @@
+{
+  "publicId": "9ad2cd7d",
+  "wikipediaSlug": "Inna_Zhelannaya",
+  "wikipediaId": "Q516306",
+  "name": "Inna Zhelannaya",
+  "fullName": "Inna Zhelannaya",
+  "profileSummary": "Inna Yurievna Zhelannaya is a Russian singer-songwriter, best known as a frontwoman of the folk band Farlanders (1994-2004).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Inna_Zhelannaya_at_Bod%C3%B8_Jazz_Open_2014.jpg/330px-Inna_Zhelannaya_at_Bod%C3%B8_Jazz_Open_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Inna_Zhelannaya",
+  "dateOfBirth": "1965-02-20",
+  "birthDateParsed": "1965-02-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "musician"
+  ],
+  "qid": "Q516306",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:01.160Z"
+}

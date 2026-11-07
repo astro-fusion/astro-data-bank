@@ -1,0 +1,38 @@
+{
+  "publicId": "8a7f5632",
+  "wikipediaSlug": "Consuelo_Velázquez",
+  "wikipediaId": "Q232750",
+  "name": "Consuelo Velázquez",
+  "fullName": "Consuelo Velázquez",
+  "profileSummary": "Consuelo Velázquez Torres, also popularly known as Consuelito Velázquez, was a Mexican concert pianist and composer. She was the composer of famous Mexican ballads such as \"Bésame mucho\", \"Amar y vivir\", and \"Cachito\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/3_tesoros_de_la_memoria_del_mundo_IMG_4067_%2843927119084%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Consuelo_Vel%C3%A1zquez",
+  "dateOfBirth": "1916-08-29",
+  "birthDateParsed": "1916-08-29",
+  "dateOfDeath": "2005-01-22",
+  "deathDateParsed": "2005-01-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.704722222",
+  "birthCoordinatesLng": "-103.4625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "songwriter",
+    "lyricist",
+    "pianist",
+    "musician",
+    "politician"
+  ],
+  "qid": "Q232750",
+  "birthPlace": "Ciudad Guzmán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:33.757Z"
+}

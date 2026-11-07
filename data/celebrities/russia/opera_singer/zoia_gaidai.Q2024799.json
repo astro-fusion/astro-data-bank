@@ -1,0 +1,34 @@
+{
+  "publicId": "34ddef42",
+  "wikipediaSlug": "Zoia_Gaidai",
+  "wikipediaId": "Q2024799",
+  "name": "Zoia Gaidai",
+  "fullName": "Zoia Gaidai",
+  "profileSummary": "Zoia Mykhailivna Gaidai was a Soviet and Ukrainian opera soprano. She was an artist of wide creativity, with a bright vocal range and talent who staged more than 50 musicals of the works of Ukrainian and Russian composers, as well as works of the classical repertoire of Western European composers. She kept close contact with other composers of her time, such as Mykola Lysenko, Boris Lyatoshynsky, Viktor Kosenko, and Levko Revutsky.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/80-361-0561_Baykove.jpg/330px-80-361-0561_Baykove.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zoia_Gaidai",
+  "dateOfBirth": "1902-06-01",
+  "birthDateParsed": "1902-06-01",
+  "dateOfDeath": "1965-04-21",
+  "deathDateParsed": "1965-04-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.723055555",
+  "birthCoordinatesLng": "41.453888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer",
+    "music educator"
+  ],
+  "qid": "Q2024799",
+  "birthPlace": "Tambov",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:34.101Z"
+}

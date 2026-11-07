@@ -1,0 +1,37 @@
+{
+  "publicId": "5506f908",
+  "wikipediaSlug": "Mario_Casas",
+  "wikipediaId": "Q953423",
+  "name": "Mario Casas",
+  "fullName": "Mario Casas",
+  "profileSummary": "Mario Casas Sierra is a Spanish film and television actor. Known for his roles in Spanish cinema and television, he has received various accolades including a Goya Award, two Gaudí Awards, and three Feroz Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Malaga_Film_Festival_2025_-_Mario_Casas-2_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Mario_Casas-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Casas",
+  "dateOfBirth": "1986-06-12",
+  "birthDateParsed": "1986-06-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.37385694",
+  "birthCoordinatesLng": "-8.400027032",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "film actor",
+    "television actor",
+    "film director"
+  ],
+  "qid": "Q953423",
+  "birthPlace": "A Coruña",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:48.619Z"
+}

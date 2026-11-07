@@ -1,0 +1,37 @@
+{
+  "publicId": "3580df30",
+  "wikipediaSlug": "Lana_(singer)",
+  "wikipediaId": "Q91423686",
+  "name": "Lana (singer)",
+  "fullName": "Lana (singer)",
+  "profileSummary": "Svetlana Dmitriyevna Yudina, better known by her stage name Lana (Лана), is a Russian singer based in South Korea. In June 2019, she debuted as the first Russian K-pop idol with the single \"Take The Wheel\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lana_at_Ara_Serie_in_February_2020.png/330px-Lana_at_Ara_Serie_in_February_2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lana_(singer)",
+  "dateOfBirth": "1996-11-23",
+  "birthDateParsed": "1996-11-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.216666666",
+  "birthCoordinatesLng": "143.1",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "dancer",
+    "composer",
+    "model",
+    "designer"
+  ],
+  "qid": "Q91423686",
+  "birthPlace": "Poronaysk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:16.187Z"
+}

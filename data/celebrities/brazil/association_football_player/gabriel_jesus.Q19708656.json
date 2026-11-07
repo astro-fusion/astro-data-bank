@@ -1,0 +1,33 @@
+{
+  "publicId": "ee0c79ee",
+  "wikipediaSlug": "Gabriel_Jesus",
+  "wikipediaId": "Q19708656",
+  "name": "Gabriel Jesus",
+  "fullName": "Gabriel Jesus",
+  "profileSummary": "Gabriel Fernando de Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Arsenal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gabriel_Jesus_850_1688.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gabriel_Jesus_850_1688.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Jesus",
+  "dateOfBirth": "1997-04-03",
+  "birthDateParsed": "1997-04-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q19708656",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:34.308Z"
+}

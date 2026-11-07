@@ -1,0 +1,34 @@
+{
+  "publicId": "18f27761",
+  "wikipediaSlug": "Ademir_de_Menezes",
+  "wikipediaId": "Q332012",
+  "name": "Ademir de Menezes",
+  "fullName": "Ademir de Menezes",
+  "profileSummary": "Ademir Marques de Menezes was a Brazilian footballer, regarded as one of the best forwards in the country's history. He was the top goalscorer of the 1950 FIFA World Cup and scores 32 goals in 39 appearances for the Brazil national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ademir_de_Menezes.jpg/330px-Ademir_de_Menezes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ademir_de_Menezes",
+  "dateOfBirth": "1922-11-08",
+  "birthDateParsed": "1922-11-08",
+  "dateOfDeath": "1996-05-11",
+  "deathDateParsed": "1996-05-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "-8.053888888",
+  "birthCoordinatesLng": "-34.880833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q332012",
+  "birthPlace": "Recife",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:12.419Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "bbe8f1f7",
+  "wikipediaSlug": "Hermann_Müller_(politician,_born_1876)",
+  "wikipediaId": "Q57158",
+  "name": "Hermann Müller (politician, born 1876)",
+  "fullName": "Hermann Müller (politician, born 1876)",
+  "profileSummary": "Hermann Müller was a German Social Democratic politician who served as foreign minister (1919–1920) and was twice chancellor of Germany during the Weimar Republic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bundesarchiv_Bild_146-1979-122-28A%2C_Hermann_M%C3%BCller_%28cropped%29%282%29.jpg/330px-Bundesarchiv_Bild_146-1979-122-28A%2C_Hermann_M%C3%BCller_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermann_M%C3%BCller_(politician%2C_born_1876)",
+  "dateOfBirth": "1876-05-18",
+  "birthDateParsed": "1876-05-18",
+  "dateOfDeath": "1931-03-20",
+  "deathDateParsed": "1931-03-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.487777777",
+  "birthCoordinatesLng": "8.466111111",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "politician",
+    "shop assistant",
+    "head of government"
+  ],
+  "qid": "Q57158",
+  "birthPlace": "Mannheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:27.160Z"
+}

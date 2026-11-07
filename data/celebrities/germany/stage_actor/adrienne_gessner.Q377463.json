@@ -1,0 +1,35 @@
+{
+  "publicId": "f55c1443",
+  "wikipediaSlug": "Adrienne_Gessner",
+  "wikipediaId": "Q377463",
+  "name": "Adrienne Gessner",
+  "fullName": "Adrienne Gessner",
+  "profileSummary": "Adrienne Gessner was an Austrian actress. Gessner appeared in over fifty film and television shows during her career, including the 1955 costume film Royal Hunt in Ischl. Gessner appeared in a mixture of German and Austrian films during her career. Following the Anchluss of 1938 she fled with her Jewish husband Ernst Lothar to the United States, returning after the Second World War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Adrienne_Gessner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrienne_Gessner",
+  "dateOfBirth": "1896-07-23",
+  "birthDateParsed": "1896-07-23",
+  "dateOfDeath": "1987-06-23",
+  "deathDateParsed": "1987-06-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.6417",
+  "birthCoordinatesLng": "15.8694",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q377463",
+  "birthPlace": "Maria Schutz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:05.445Z"
+}

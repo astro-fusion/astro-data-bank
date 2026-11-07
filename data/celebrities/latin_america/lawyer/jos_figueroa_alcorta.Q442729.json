@@ -1,0 +1,37 @@
+{
+  "publicId": "ac9176de",
+  "wikipediaSlug": "José_Figueroa_Alcorta",
+  "wikipediaId": "Q442729",
+  "name": "José Figueroa Alcorta",
+  "fullName": "José Figueroa Alcorta",
+  "profileSummary": "José María Cornelio Figueroa Alcorta was an Argentine lawyer and politician, who managed to be the only person to head the three powers of the State: Vice President of the Nation, from October 12, 1904 to March 12, 1906, President of the Nation from that date and until October 12, 1910; and President of the Supreme Court of Justice of the Argentine Nation, from 1929 until his death in 1931.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jos%C3%A9_Figueroa_Alcorta_-_1910.JPG/330px-Jos%C3%A9_Figueroa_Alcorta_-_1910.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Figueroa_Alcorta",
+  "dateOfBirth": "1860-11-20",
+  "birthDateParsed": "1860-11-20",
+  "dateOfDeath": "1931-12-27",
+  "deathDateParsed": "1931-12-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.416666666",
+  "birthCoordinatesLng": "-64.183333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "judge",
+    "jurist",
+    "vice president"
+  ],
+  "qid": "Q442729",
+  "birthPlace": "Córdoba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:15.733Z"
+}

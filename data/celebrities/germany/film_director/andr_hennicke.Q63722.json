@@ -1,0 +1,41 @@
+{
+  "publicId": "cde41996",
+  "wikipediaSlug": "André_Hennicke",
+  "wikipediaId": "Q63722",
+  "name": "André Hennicke",
+  "fullName": "André Hennicke",
+  "profileSummary": "André Hennicke is a German actor. He has appeared in more than one hundred films since 1984.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MJK_13189_Andr%C3%A9_Hennicke.jpg/330px-MJK_13189_Andr%C3%A9_Hennicke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Hennicke",
+  "dateOfBirth": "1959-09-21",
+  "birthDateParsed": "1959-09-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.433333333",
+  "birthCoordinatesLng": "12.713888888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "screenwriter",
+    "film producer",
+    "film actor",
+    "stage actor",
+    "television actor",
+    "manufacturer",
+    "actor",
+    "director"
+  ],
+  "qid": "Q63722",
+  "birthPlace": "Johanngeorgenstadt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:43.646Z"
+}

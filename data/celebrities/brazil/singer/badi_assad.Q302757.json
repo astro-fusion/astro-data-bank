@@ -1,0 +1,39 @@
+{
+  "publicId": "79a226ee",
+  "wikipediaSlug": "Badi_Assad",
+  "wikipediaId": "Q302757",
+  "name": "Badi Assad",
+  "fullName": "Badi Assad",
+  "profileSummary": "Badi Assad is a Brazilian singer, composer and guitarist in the jazz and worldbeat genres.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Badi_Assad_Amor_byFritz_Nagib1.jpg/330px-Badi_Assad_Amor_byFritz_Nagib1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Badi_Assad",
+  "dateOfBirth": "1966-12-23",
+  "birthDateParsed": "1966-12-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.968888888",
+  "birthCoordinatesLng": "-46.797777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "guitarist",
+    "jazz musician",
+    "percussionist",
+    "jazz guitarist",
+    "classical guitarist",
+    "musician"
+  ],
+  "qid": "Q302757",
+  "birthPlace": "São João da Boa Vista",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:46.864Z"
+}

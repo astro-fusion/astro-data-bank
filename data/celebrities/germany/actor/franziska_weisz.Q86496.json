@@ -1,0 +1,35 @@
+{
+  "publicId": "b029232b",
+  "wikipediaSlug": "Franziska_Weisz",
+  "wikipediaId": "Q86496",
+  "name": "Franziska Weisz",
+  "fullName": "Franziska Weisz",
+  "profileSummary": "Franziska Weisz is an Austrian actress. She starred in the film Hotel, which was screened in the Un Certain Regard section at the 2004 Cannes Film Festival.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/MJK_68724_Franziska_Weisz_%28Bayern-Empfang%2C_Berlinale_2020%29.jpg/330px-MJK_68724_Franziska_Weisz_%28Bayern-Empfang%2C_Berlinale_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franziska_Weisz",
+  "dateOfBirth": "1980-05-04",
+  "birthDateParsed": "1980-05-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q86496",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:18.475Z"
+}

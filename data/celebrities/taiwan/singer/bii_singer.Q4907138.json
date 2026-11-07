@@ -1,0 +1,34 @@
+{
+  "publicId": "4bb2a3f0",
+  "wikipediaSlug": "Bii_(singer)",
+  "wikipediaId": "Q4907138",
+  "name": "Bii (singer)",
+  "fullName": "Bii (singer)",
+  "profileSummary": "Pil Seo-jin or Bi Shu-jin, known professionally as Bii, is a South Korean-Taiwanese singer, songwriter, and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/WebTVAsia_%E7%B6%B2%E7%BE%85%E5%A4%A7%E6%98%8E%E6%98%9F_EP23%E3%80%90Bii_%E7%95%A2%E6%9B%B8%E7%9B%A1%E3%80%91.png/330px-WebTVAsia_%E7%B6%B2%E7%BE%85%E5%A4%A7%E6%98%8E%E6%98%9F_EP23%E3%80%90Bii_%E7%95%A2%E6%9B%B8%E7%9B%A1%E3%80%91.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bii_(singer)",
+  "dateOfBirth": "1989-07-07",
+  "birthDateParsed": "1989-07-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "37.438611111",
+  "birthCoordinatesLng": "127.137777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor"
+  ],
+  "qid": "Q4907138",
+  "birthPlace": "Seongnam",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:46.387Z"
+}

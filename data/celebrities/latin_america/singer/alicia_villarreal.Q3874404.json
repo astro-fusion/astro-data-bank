@@ -1,0 +1,35 @@
+{
+  "publicId": "aa3dbc76",
+  "wikipediaSlug": "Alicia_Villarreal",
+  "wikipediaId": "Q3874404",
+  "name": "Alicia Villarreal",
+  "fullName": "Alicia Villarreal",
+  "profileSummary": "Martha Alicia Villarreal Esparza, known simply and professionally as Alicia Villarreal, is a Mexican singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alicia_Villarreal_-_Vive_Grupero_2010.jpg/330px-Alicia_Villarreal_-_Vive_Grupero_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alicia_Villarreal",
+  "dateOfBirth": "1971-08-31",
+  "birthDateParsed": "1971-08-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "songwriter"
+  ],
+  "qid": "Q3874404",
+  "birthPlace": "Monterrey",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:47.875Z"
+}

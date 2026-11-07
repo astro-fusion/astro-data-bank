@@ -1,0 +1,36 @@
+{
+  "publicId": "b974e79b",
+  "wikipediaSlug": "Denise_Ho",
+  "wikipediaId": "Q3269718",
+  "name": "Denise Ho",
+  "fullName": "Denise Ho",
+  "profileSummary": "Denise Ho Wan-see is a Hong Kong and Canadian singer and actress. In 2014, Ho was blacklisted by the Chinese government following her support for pro-democracy movements in Hong Kong.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HOCC_visit_the_US_Capitol.jpg/330px-HOCC_visit_the_US_Capitol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denise_Ho",
+  "dateOfBirth": "1977-05-10",
+  "birthDateParsed": "1977-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "songwriter",
+    "recording artist"
+  ],
+  "qid": "Q3269718",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:17.149Z"
+}

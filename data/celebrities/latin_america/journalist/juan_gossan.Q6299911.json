@@ -1,0 +1,35 @@
+{
+  "publicId": "58a7bc29",
+  "wikipediaSlug": "Juan_Gossaín",
+  "wikipediaId": "Q6299911",
+  "name": "Juan Gossaín",
+  "fullName": "Juan Gossaín",
+  "profileSummary": "Juan Antonio Gossaín Abdallah is a Colombian writer, journalist and novelist. Known for his distinctive journalistic style, he is one of the most renowned veteran journalists in the country.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Juan_Gossain.jpg/330px-Juan_Gossain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Gossa%C3%ADn",
+  "dateOfBirth": "1948-01-17",
+  "birthDateParsed": "1948-01-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "9.355",
+  "birthCoordinatesLng": "-75.954444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "writer",
+    "editor-in-chief"
+  ],
+  "qid": "Q6299911",
+  "birthPlace": "San Bernardo del Viento",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:42.463Z"
+}

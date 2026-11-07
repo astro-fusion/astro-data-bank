@@ -1,0 +1,40 @@
+{
+  "publicId": "29456d05",
+  "wikipediaSlug": "Willy_Brandt",
+  "wikipediaId": "Q2514",
+  "name": "Willy Brandt",
+  "fullName": "Willy Brandt",
+  "profileSummary": "Willy Brandt was a German politician and statesman who was leader of the Social Democratic Party of Germany (SPD) from 1964 to 1987 and concurrently served as the chancellor of West Germany from 1969 to 1974. He was awarded the Nobel Peace Prize in 1971 for his efforts to strengthen cooperation in Western Europe through the EEC and to achieve reconciliation between West Germany and the countries of Eastern Europe. He was the first Social Democratic chancellor since 1930.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg/330px-Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Willy_Brandt",
+  "dateOfBirth": "1913-12-18",
+  "birthDateParsed": "1913-12-18",
+  "dateOfDeath": "1992-10-08",
+  "deathDateParsed": "1992-10-08",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "politician",
+    "autobiographer",
+    "Chancellor of Germany",
+    "social democrat",
+    "mayor",
+    "foreign minister",
+    "chancellor"
+  ],
+  "qid": "Q2514",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:52.542Z"
+}

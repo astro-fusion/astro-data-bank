@@ -1,0 +1,36 @@
+{
+  "publicId": "9693a9f6",
+  "wikipediaSlug": "Jacky_Cheung",
+  "wikipediaId": "Q16781",
+  "name": "Jacky Cheung",
+  "fullName": "Jacky Cheung",
+  "profileSummary": "Jacky Cheung Hok-yau is a Hong Kong singer and actor. One of the most influential artists in the Greater China region, Cheung is widely regarded as a Heavenly King of Cantopop music and an icon of Hong Kong popular culture. He is often dubbed as the \"God of Songs\" for his vocal delivery and live performances.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JackyCheung2012.jpg/330px-JackyCheung2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacky_Cheung",
+  "dateOfBirth": "1961-07-10",
+  "birthDateParsed": "1961-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "film actor",
+    "songwriter"
+  ],
+  "qid": "Q16781",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:40.160Z"
+}

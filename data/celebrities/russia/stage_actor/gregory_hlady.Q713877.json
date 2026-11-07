@@ -1,0 +1,39 @@
+{
+  "publicId": "0387cce7",
+  "wikipediaSlug": "Gregory_Hlady",
+  "wikipediaId": "Q713877",
+  "name": "Gregory Hlady",
+  "fullName": "Gregory Hlady",
+  "profileSummary": "Gregory Stepanovych Hlady is a Ukrainian and Canadian actor. He has appeared in more than 80 films and television shows since 1973. He starred in Music for December, which was screened in the Un Certain Regard section at the 1995 Cannes Film Festival.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gr%C3%A9gory_Hlady_portrait.jpg/330px-Gr%C3%A9gory_Hlady_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gregory_Hlady",
+  "dateOfBirth": "1954-12-04",
+  "birthDateParsed": "1954-12-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.211003042",
+  "birthCoordinatesLng": "25.921965302",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "director",
+    "television actor",
+    "theatre director",
+    "teacher",
+    "actor"
+  ],
+  "qid": "Q713877",
+  "birthPlace": "Khorostkiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:30:41.555Z"
+}

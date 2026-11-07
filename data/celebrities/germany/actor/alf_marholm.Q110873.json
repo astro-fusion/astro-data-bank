@@ -1,0 +1,38 @@
+{
+  "publicId": "51e6d568",
+  "wikipediaSlug": "Alf_Marholm",
+  "wikipediaId": "Q110873",
+  "name": "Alf Marholm",
+  "fullName": "Alf Marholm",
+  "profileSummary": "Alf Marholm was a German actor, radio play performer, audiobook narrator, and voice actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alf_Marholm.jpg/330px-Alf_Marholm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alf_Marholm",
+  "dateOfBirth": "1918-05-31",
+  "birthDateParsed": "1918-05-31",
+  "dateOfDeath": "2006-02-24",
+  "deathDateParsed": "2006-02-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.4699",
+  "birthCoordinatesLng": "6.8514",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "film actor",
+    "dub actor",
+    "singer",
+    "musician"
+  ],
+  "qid": "Q110873",
+  "birthPlace": "Oberhausen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:21.053Z"
+}

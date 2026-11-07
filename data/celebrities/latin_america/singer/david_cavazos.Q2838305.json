@@ -1,0 +1,33 @@
+{
+  "publicId": "f1b5ba95",
+  "wikipediaSlug": "David_Cavazos",
+  "wikipediaId": "Q2838305",
+  "name": "David Cavazos",
+  "fullName": "David Cavazos",
+  "profileSummary": "David Cavazos is a Mexican singer-songwriter.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Cavazos",
+  "dateOfBirth": "1987-04-19",
+  "birthDateParsed": "1987-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q2838305",
+  "birthPlace": "Monterrey",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:24:07.268Z"
+}

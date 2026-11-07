@@ -1,0 +1,34 @@
+{
+  "publicId": "0efd5fe5",
+  "wikipediaSlug": "José_Domingo_Molina_Gómez",
+  "wikipediaId": "Q739234",
+  "name": "José Domingo Molina Gómez",
+  "fullName": "José Domingo Molina Gómez",
+  "profileSummary": "José Domingo Molina Gómez was the Commander and Chief of the Argentine Army. Grandson of former president of Argentina Nicolás Avellaneda, he appears to have temporarily taken \"the reins of Government\" on 19 September 1955. This was following the Revolución Libertadora which had begun on 16 September 1955. Eduardo Lonardi would eventually be recognized as the de facto President of Argentina on 23 September 1955.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Teniente_General_Jos%C3%A9_Domingo_Molina_G%C3%B3mez.jpg/330px-Teniente_General_Jos%C3%A9_Domingo_Molina_G%C3%B3mez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Domingo_Molina_G%C3%B3mez",
+  "dateOfBirth": "1896-09-26",
+  "birthDateParsed": "1896-09-26",
+  "dateOfDeath": "1969-04-05",
+  "deathDateParsed": "1969-04-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-28.468611111",
+  "birthCoordinatesLng": "-65.779166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "soldier",
+    "politician"
+  ],
+  "qid": "Q739234",
+  "birthPlace": "San Fernando del Valle de Catamarca",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:15.001Z"
+}

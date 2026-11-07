@@ -1,0 +1,34 @@
+{
+  "publicId": "111c6d20",
+  "wikipediaSlug": "Delfina_Guzmán",
+  "wikipediaId": "Q5253680",
+  "name": "Delfina Guzmán",
+  "fullName": "Delfina Guzmán",
+  "profileSummary": "Delfina Guzmán Correa is a Chilean actress. She has appeared in more than 30 films and television shows since 1968. She starred in the 1968 Raúl Ruiz film Three Sad Tigers. She is the daughter of Florencio Guzmán Larraín and María Luisa Correa Ugarte. Her son, Nicolás Eyzaguirre, is a Chilean economist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Premios_Caleuche_2019_-_2019-01-22_-_36.jpg/330px-Premios_Caleuche_2019_-_2019-01-22_-_36.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delfina_Guzm%C3%A1n",
+  "dateOfBirth": "1928-04-07",
+  "birthDateParsed": "1928-04-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "theatre director"
+  ],
+  "qid": "Q5253680",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:09.637Z"
+}

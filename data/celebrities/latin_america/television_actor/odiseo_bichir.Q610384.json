@@ -1,0 +1,33 @@
+{
+  "publicId": "0776c24f",
+  "wikipediaSlug": "Odiseo_Bichir",
+  "wikipediaId": "Q610384",
+  "name": "Odiseo Bichir",
+  "fullName": "Odiseo Bichir",
+  "profileSummary": "Odiseo Bichir Nájera is a Mexican actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Odiseo_Bichir",
+  "dateOfBirth": "1960-05-03",
+  "birthDateParsed": "1960-05-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q610384",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:45.668Z"
+}

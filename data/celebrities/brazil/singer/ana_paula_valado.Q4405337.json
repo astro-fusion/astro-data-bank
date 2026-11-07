@@ -1,0 +1,40 @@
+{
+  "publicId": "5aeff71e",
+  "wikipediaSlug": "Ana_Paula_Valadão",
+  "wikipediaId": "Q4405337",
+  "name": "Ana Paula Valadão",
+  "fullName": "Ana Paula Valadão",
+  "profileSummary": "Ana Paula Machado Valadão Bessa is a Brazilian Christian worship leader, singer-songwriter and pastor. She is the leader of the contemporary praise band Diante do Trono, which has sold more than 15 million worship albums globally and has led worship gatherings of as many as two million people in attendance.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ana_Paula_Valad%C3%A3o_Bessa_live_at_CFNI.png/330px-Ana_Paula_Valad%C3%A3o_Bessa_live_at_CFNI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Paula_Valad%C3%A3o",
+  "dateOfBirth": "1976-05-16",
+  "birthDateParsed": "1976-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-19.928055555",
+  "birthCoordinatesLng": "-43.941944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "pastor",
+    "television presenter",
+    "composer",
+    "missionary",
+    "singer-songwriter",
+    "musician"
+  ],
+  "qid": "Q4405337",
+  "birthPlace": "Belo Horizonte",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:23.788Z"
+}

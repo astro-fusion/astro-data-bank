@@ -1,0 +1,34 @@
+{
+  "publicId": "c5ce251e",
+  "wikipediaSlug": "Adelheid_Arndt",
+  "wikipediaId": "Q108365",
+  "name": "Adelheid Arndt",
+  "fullName": "Adelheid Arndt",
+  "profileSummary": "\nAdelheid Arndt is a German actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adelheid_Arndt",
+  "dateOfBirth": "1952-01-03",
+  "birthDateParsed": "1952-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.412222222",
+  "birthCoordinatesLng": "8.71",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q108365",
+  "birthPlace": "Heidelberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:16.247Z"
+}

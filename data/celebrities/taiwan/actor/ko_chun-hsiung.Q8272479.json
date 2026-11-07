@@ -1,0 +1,37 @@
+{
+  "publicId": "16e012d7",
+  "wikipediaSlug": "Ko_Chun-hsiung",
+  "wikipediaId": "Q8272479",
+  "name": "Ko Chun-hsiung",
+  "fullName": "Ko Chun-hsiung",
+  "profileSummary": "Ko Chun-hsiung was a Taiwanese actor, director and politician. He had been acting since the 1960s and had appeared in more than 200 films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2007Taipei101RunUp_EnterpriseGroup_Chun-hsiung_Ko.jpg/330px-2007Taipei101RunUp_EnterpriseGroup_Chun-hsiung_Ko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ko_Chun-hsiung",
+  "dateOfBirth": "1945-01-15",
+  "birthDateParsed": "1945-01-15",
+  "dateOfDeath": "2015-12-07",
+  "deathDateParsed": "2015-12-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "22.615",
+  "birthCoordinatesLng": "120.2975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "film director",
+    "politician"
+  ],
+  "qid": "Q8272479",
+  "birthPlace": "Kaohsiung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:51.019Z"
+}

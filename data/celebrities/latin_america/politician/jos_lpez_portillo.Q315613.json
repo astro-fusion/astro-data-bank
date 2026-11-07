@@ -1,0 +1,36 @@
+{
+  "publicId": "3218699c",
+  "wikipediaSlug": "José_López_Portillo",
+  "wikipediaId": "Q315613",
+  "name": "José López Portillo",
+  "fullName": "José López Portillo",
+  "profileSummary": "José Guillermo Abel López Portillo y Pacheco was a Mexican writer, lawyer, and politician affiliated with the Institutional Revolutionary Party (PRI) who served as the 58th president of Mexico from 1976 to 1982. López Portillo was the only official candidate in the 1976 presidential election, being the only president in recent Mexican history to win an election unopposed.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jose_Lopez_Portillo_new.jpg/330px-Jose_Lopez_Portillo_new.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_L%C3%B3pez_Portillo",
+  "dateOfBirth": "1920-06-16",
+  "birthDateParsed": "1920-06-16",
+  "dateOfDeath": "2004-02-17",
+  "deathDateParsed": "2004-02-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "university teacher",
+    "writer"
+  ],
+  "qid": "Q315613",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:03.683Z"
+}

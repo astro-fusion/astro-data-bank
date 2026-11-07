@@ -1,0 +1,34 @@
+{
+  "publicId": "f97032fe",
+  "wikipediaSlug": "Julio_Cobos",
+  "wikipediaId": "Q456351",
+  "name": "Julio Cobos",
+  "fullName": "Julio Cobos",
+  "profileSummary": "Julio César Cleto Cobos is an Argentine politician who was the Vice President of Argentina in the administration of President Cristina Fernández de Kirchner from 2007 to 2011. He started his political career as member of the Radical Civic Union party (UCR), becoming Governor of the Province of Mendoza in 2003. He was expelled from the UCR in 2007, and was then selected by presidential candidate Cristina Fernández de Kirchner, of the ruling Front for Victory (FpV), as her candidate for vice-president in the elections of that year, which they won.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Julio_Cleto_Cobos.png/330px-Julio_Cleto_Cobos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_Cobos",
+  "dateOfBirth": "1955-04-30",
+  "birthDateParsed": "1955-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-32.889722222",
+  "birthCoordinatesLng": "-68.844444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "politician"
+  ],
+  "qid": "Q456351",
+  "birthPlace": "Mendoza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:52.594Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "e86582b5",
+  "wikipediaSlug": "Eduardo_Ravani",
+  "wikipediaId": "Q5819616",
+  "name": "Eduardo Ravani",
+  "fullName": "Eduardo Ravani",
+  "profileSummary": "Pío Eduardo Apolo Ravani Vergara, better known as Eduardo Ravani, was a Chilean journalist, actor, comedian, television director, and businessman. He was one of the creators, producers, and members of the television show Jappening con Ja.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Eduardo_Ravani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Ravani",
+  "dateOfBirth": "1941-10-25",
+  "birthDateParsed": "1941-10-25",
+  "dateOfDeath": "2023-03-20",
+  "deathDateParsed": "2023-03-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "television director"
+  ],
+  "qid": "Q5819616",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:44.847Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "1a4cd381",
+  "wikipediaSlug": "Aitana_Sánchez-Gijón",
+  "wikipediaId": "Q290477",
+  "name": "Aitana Sánchez-Gijón",
+  "fullName": "Aitana Sánchez-Gijón",
+  "profileSummary": "Aitana Sánchez-Gijón de Angelis is a Spanish and Italian film screen and stage actress. After garnering attention for Going South Shopping (1989), she established her career in the 1990s, featuring in films such as The Bird of Happiness (1993), Mouth to Mouth (1995), The Chambermaid on the Titanic (1997), Jealousy (1999), and Volavérunt (1999).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Goyas_2024_-_Aitana_S%C3%A1nchez-Gij%C3%B3n_%28cropped%29.jpg/330px-Goyas_2024_-_Aitana_S%C3%A1nchez-Gij%C3%B3n_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aitana_S%C3%A1nchez-Gij%C3%B3n",
+  "dateOfBirth": "1968-11-05",
+  "birthDateParsed": "1968-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "41.893055555",
+  "birthCoordinatesLng": "12.482777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q290477",
+  "birthPlace": "Rome",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:47:51.113Z"
+}

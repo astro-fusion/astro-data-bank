@@ -1,0 +1,34 @@
+{
+  "publicId": "5fa94b92",
+  "wikipediaSlug": "Didi_(footballer,_born_1928)",
+  "wikipediaId": "Q312486",
+  "name": "Didi (footballer, born 1928)",
+  "fullName": "Didi (footballer, born 1928)",
+  "profileSummary": "Waldyr Pereira, also known as Didi, was a Brazilian footballer who played as a midfielder or as a forward. He played in three FIFA World Cups, winning the latter two.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Waldir_Pereira_1958.jpg/330px-Waldir_Pereira_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Didi_(footballer%2C_born_1928)",
+  "dateOfBirth": "1928-10-08",
+  "birthDateParsed": "1928-10-08",
+  "dateOfDeath": "2001-05-12",
+  "deathDateParsed": "2001-05-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.753888888",
+  "birthCoordinatesLng": "-41.323888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q312486",
+  "birthPlace": "Campos dos Goytacazes",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:59.716Z"
+}

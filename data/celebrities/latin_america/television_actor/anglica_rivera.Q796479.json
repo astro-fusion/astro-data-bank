@@ -1,0 +1,37 @@
+{
+  "publicId": "030b471e",
+  "wikipediaSlug": "Angélica_Rivera",
+  "wikipediaId": "Q796479",
+  "name": "Angélica Rivera",
+  "fullName": "Angélica Rivera",
+  "profileSummary": "Angélica Rivera Hurtado is a Mexican actress who served as the first lady of Mexico from 2012 to 2018, as the second wife of Enrique Peña Nieto, the 64th president of Mexico.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ang%C3%A9lica_Rivera_in_France_-_2017_%2835633555171%29_%28cropped%29.jpg/330px-Ang%C3%A9lica_Rivera_in_France_-_2017_%2835633555171%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ang%C3%A9lica_Rivera",
+  "dateOfBirth": "1969-08-02",
+  "birthDateParsed": "1969-08-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "politician",
+    "actor",
+    "model",
+    "film actor"
+  ],
+  "qid": "Q796479",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:37.420Z"
+}

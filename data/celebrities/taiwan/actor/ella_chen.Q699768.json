@@ -1,0 +1,37 @@
+{
+  "publicId": "fefdc7a2",
+  "wikipediaSlug": "Ella_Chen",
+  "wikipediaId": "Q699768",
+  "name": "Ella Chen",
+  "fullName": "Ella Chen",
+  "profileSummary": "Ella Chen Chia-hwa is a Taiwanese singer, actress, and television host. She is a member of the Taiwanese girl group S.H.E.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2015%E5%B9%B4%E9%87%91%E9%96%80%E9%85%92%E5%BB%A0%E5%A4%A7%E7%BF%BB%E7%8E%A9%E4%B9%8B%E5%A4%9C.jpg/330px-2015%E5%B9%B4%E9%87%91%E9%96%80%E9%85%92%E5%BB%A0%E5%A4%A7%E7%BF%BB%E7%8E%A9%E4%B9%8B%E5%A4%9C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ella_Chen",
+  "dateOfBirth": "1981-06-18",
+  "birthDateParsed": "1981-06-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.651944444",
+  "birthCoordinatesLng": "120.529166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor",
+    "recording artist"
+  ],
+  "qid": "Q699768",
+  "birthPlace": "Linluo Township",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:30.012Z"
+}

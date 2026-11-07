@@ -1,0 +1,35 @@
+{
+  "publicId": "8e294d52",
+  "wikipediaSlug": "Café_Filho",
+  "wikipediaId": "Q310209",
+  "name": "Café Filho",
+  "fullName": "Café Filho",
+  "profileSummary": "João Fernandes Campos Café Filho was a Brazilian politician who served as the 18th president of Brazil, taking office upon the suicide of President Getúlio Vargas. He was the first Protestant to occupy the position.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Caf%C3%A9_Filho.jpg/330px-Caf%C3%A9_Filho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Filho",
+  "dateOfBirth": "1899-02-03",
+  "birthDateParsed": "1899-02-03",
+  "dateOfDeath": "1970-02-20",
+  "deathDateParsed": "1970-02-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "-5.795",
+  "birthCoordinatesLng": "-35.208888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "journalist",
+    "politician"
+  ],
+  "qid": "Q310209",
+  "birthPlace": "Natal",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:09.057Z"
+}

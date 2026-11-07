@@ -1,0 +1,34 @@
+{
+  "publicId": "9ed142d7",
+  "wikipediaSlug": "Gong_Li",
+  "wikipediaId": "Q150903",
+  "name": "Gong Li",
+  "fullName": "Gong Li",
+  "profileSummary": "Gong Li is a Chinese actress. Known for her versatility and naturalistic performances, she is regarded as one of the best actresses in Chinese cinema. She starred in three of the four Chinese-language films that have been nominated for the Academy Award for Best International Feature Film.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gong_Li_Cannes_2016.jpg/330px-Gong_Li_Cannes_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gong_Li",
+  "dateOfBirth": "1965-12-31",
+  "birthDateParsed": "1965-12-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "41.8025",
+  "birthCoordinatesLng": "123.428055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q150903",
+  "birthPlace": "Shenyang",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:19.234Z"
+}

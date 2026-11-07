@@ -1,0 +1,35 @@
+{
+  "publicId": "5387d930",
+  "wikipediaSlug": "Jaime_Garzón",
+  "wikipediaId": "Q3118313",
+  "name": "Jaime Garzón",
+  "fullName": "Jaime Garzón",
+  "profileSummary": "Jaime Hernando Garzón Forero was a Colombian comedian, journalist, politician, and peace activist. He was popular on Colombian television during the 1990s for his unique political satire. In addition to his work on television, he also had roles as a peace negotiator during the Colombian conflict, working for the release of FARC guerrillas' hostages.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Jaime_Garz%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaime_Garz%C3%B3n",
+  "dateOfBirth": "1960-10-24",
+  "birthDateParsed": "1960-10-24",
+  "dateOfDeath": "1999-08-13",
+  "deathDateParsed": "1999-08-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "dissident",
+    "journalist",
+    "peace activist"
+  ],
+  "qid": "Q3118313",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:27.269Z"
+}

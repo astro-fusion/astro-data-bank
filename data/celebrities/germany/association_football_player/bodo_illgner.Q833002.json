@@ -1,0 +1,33 @@
+{
+  "publicId": "ce11055c",
+  "wikipediaSlug": "Bodo_Illgner",
+  "wikipediaId": "Q833002",
+  "name": "Bodo Illgner",
+  "fullName": "Bodo Illgner",
+  "profileSummary": "Bodo Illgner is a German former professional footballer who played as a goalkeeper.\nDuring his career he played for 1. FC Köln and Real Madrid, and helped West Germany to the 1990 World Cup, where he became the first goalkeeper to keep a clean sheet in a World Cup final.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/6640Bodo_Illgner.JPG/330px-6640Bodo_Illgner.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bodo_Illgner",
+  "dateOfBirth": "1967-04-07",
+  "birthDateParsed": "1967-04-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.359722222",
+  "birthCoordinatesLng": "7.597777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q833002",
+  "birthPlace": "Koblenz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:07.727Z"
+}

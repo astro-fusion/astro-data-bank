@@ -1,0 +1,33 @@
+{
+  "publicId": "1f2a01e7",
+  "wikipediaSlug": "Alda_Oliveira",
+  "wikipediaId": "Q48872598",
+  "name": "Alda Oliveira",
+  "fullName": "Alda Oliveira",
+  "profileSummary": "Alda de Jesús Oliveira is a Brazilian composer and pedagogue.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Alda_Oliveira.png/330px-Alda_Oliveira.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alda_Oliveira",
+  "dateOfBirth": "1945-03-03",
+  "birthDateParsed": "1945-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.983055555",
+  "birthCoordinatesLng": "-38.492777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer"
+  ],
+  "qid": "Q48872598",
+  "birthPlace": "Salvador",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:45.661Z"
+}

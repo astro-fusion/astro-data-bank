@@ -1,0 +1,35 @@
+{
+  "publicId": "89e1c88a",
+  "wikipediaSlug": "Pascoal_Ranieri_Mazzilli",
+  "wikipediaId": "Q192361",
+  "name": "Pascoal Ranieri Mazzilli",
+  "fullName": "Pascoal Ranieri Mazzilli",
+  "profileSummary": "Pascoal Ranieri Mazzilli was a Brazilian politician who served as Federal Deputy from 1951 to 1967 and President of the Chamber of Deputies from 1958 to 1965. During his term as speaker of the house, he served twice as interim president of Brazil for a few weeks, first in 1961, after the resignation of Jânio Quadros, and again in 1964, after Goulart, who had then succeeded him as president, was deposed in the military coup d'état of that year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pascoal_Ranieri_Mazzilli%2C_presidente_da_Rep%C3%BAblica..tif/lossy-page1-330px-Pascoal_Ranieri_Mazzilli%2C_presidente_da_Rep%C3%BAblica..tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascoal_Ranieri_Mazzilli",
+  "dateOfBirth": "1910-04-27",
+  "birthDateParsed": "1910-04-27",
+  "dateOfDeath": "1975-04-21",
+  "deathDateParsed": "1975-04-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.528888888",
+  "birthCoordinatesLng": "-46.643888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "journalist"
+  ],
+  "qid": "Q192361",
+  "birthPlace": "Caconde",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:23.521Z"
+}

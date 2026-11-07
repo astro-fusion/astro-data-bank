@@ -1,0 +1,35 @@
+{
+  "publicId": "1b0b4a3f",
+  "wikipediaSlug": "Maribel_Verdú",
+  "wikipediaId": "Q235391",
+  "name": "Maribel Verdú",
+  "fullName": "Maribel Verdú",
+  "profileSummary": "María Isabel Verdú Rollán, better known as Maribel Verdú, is a Spanish actress. She is the recipient of numerous accolades throughout her career spanning nearly four decades, including two Goya Awards for Best Actress, an Ariel Award for Best Actress, the Gold Medal of the Academy of Cinematographic Arts and Sciences of Spain in 2008 and the National Cinematography Award in 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goyas_2025_-_Maribel_Verd%C3%BA.jpg/330px-Goyas_2025_-_Maribel_Verd%C3%BA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maribel_Verd%C3%BA",
+  "dateOfBirth": "1970-10-02",
+  "birthDateParsed": "1970-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "model"
+  ],
+  "qid": "Q235391",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:39.370Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "c79f0c45",
+  "wikipediaSlug": "Cristián_Campos",
+  "wikipediaId": "Q5791569",
+  "name": "Cristián Campos",
+  "fullName": "Cristián Campos",
+  "profileSummary": "Juan Cristián Campos Sallato is a Chilean actor and director of theater, film and television.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Cristi%C3%A1n_Campos_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristi%C3%A1n_Campos",
+  "dateOfBirth": "1956-08-31",
+  "birthDateParsed": "1956-08-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-53.1625",
+  "birthCoordinatesLng": "-70.908055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5791569",
+  "birthPlace": "Punta Arenas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:58.820Z"
+}

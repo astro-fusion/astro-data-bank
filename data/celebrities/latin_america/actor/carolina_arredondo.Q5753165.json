@@ -1,0 +1,33 @@
+{
+  "publicId": "8aa54abe",
+  "wikipediaSlug": "Carolina_Arredondo",
+  "wikipediaId": "Q5753165",
+  "name": "Carolina Arredondo",
+  "fullName": "Carolina Arredondo",
+  "profileSummary": "Carolina Arredondo Marzán is a Chilean actress who serves as Chile's Ministry of Cultures, Arts and Heritage.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Carolina-Arredondo-cultura.gob.cl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carolina_Arredondo",
+  "dateOfBirth": "1986-06-20",
+  "birthDateParsed": "1986-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5753165",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:35.822Z"
+}

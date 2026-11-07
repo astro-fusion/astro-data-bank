@@ -1,0 +1,34 @@
+{
+  "publicId": "0ac68f16",
+  "wikipediaSlug": "Glen_Chin",
+  "wikipediaId": "Q5567642",
+  "name": "Glen Chin",
+  "fullName": "Glen Chin",
+  "profileSummary": "Glen Chin was an American actor who starred in film and television.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Glen_Chin",
+  "dateOfBirth": "1948-01-27",
+  "birthDateParsed": "1948-01-27",
+  "dateOfDeath": "2018-08-16",
+  "deathDateParsed": "2018-08-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "37.775",
+  "birthCoordinatesLng": "-122.419444444",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q5567642",
+  "birthPlace": "San Francisco",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:16.847Z"
+}

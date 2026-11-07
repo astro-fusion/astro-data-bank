@@ -1,0 +1,33 @@
+{
+  "publicId": "12131c6e",
+  "wikipediaSlug": "Albert_Winsemius",
+  "wikipediaId": "Q2178402",
+  "name": "Albert Winsemius",
+  "fullName": "Albert Winsemius",
+  "profileSummary": "Albert Winsemius was a Dutch economist best known for serving as an economic adviser to Singapore between 1961 and 1984. He led the United Nations Survey Mission to Singapore and played a major role in the formulation of Singapore's national economic development strategy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Albert_Winsemius_%281971%29.jpg/330px-Albert_Winsemius_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Winsemius",
+  "dateOfBirth": "1910-02-26",
+  "birthDateParsed": "1910-02-26",
+  "dateOfDeath": "1996-12-04",
+  "deathDateParsed": "1996-12-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.2",
+  "birthCoordinatesLng": "5.783333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist"
+  ],
+  "qid": "Q2178402",
+  "birthPlace": "Leeuwarden",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:45.535Z"
+}

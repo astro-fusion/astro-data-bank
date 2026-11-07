@@ -1,0 +1,36 @@
+{
+  "publicId": "bf1c4bab",
+  "wikipediaSlug": "Gerhard_Riedmann",
+  "wikipediaId": "Q1265458",
+  "name": "Gerhard Riedmann",
+  "fullName": "Gerhard Riedmann",
+  "profileSummary": "Gerhard Riedmann (1925–2004) was an Austrian film actor. He was married to the actress Eva Probst.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhard_Riedmann",
+  "dateOfBirth": "1925-03-24",
+  "birthDateParsed": "1925-03-24",
+  "dateOfDeath": "2004-02-09",
+  "deathDateParsed": "2004-02-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "singer",
+    "actor"
+  ],
+  "qid": "Q1265458",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:24.656Z"
+}

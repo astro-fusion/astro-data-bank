@@ -1,0 +1,33 @@
+{
+  "publicId": "16e89789",
+  "wikipediaSlug": "Rachel_Lee_(actress)",
+  "wikipediaId": "Q714136",
+  "name": "Rachel Lee (actress)",
+  "fullName": "Rachel Lee (actress)",
+  "profileSummary": "Rachel Lee Lai-chun, originally known as Loletta Lee Lai-chun, is a Hong Kong actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%E6%9D%8E%E9%BA%97%E7%8F%8D.jpg/330px-%E6%9D%8E%E9%BA%97%E7%8F%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rachel_Lee_(actress)",
+  "dateOfBirth": "1966-01-08",
+  "birthDateParsed": "1966-01-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q714136",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:18.228Z"
+}

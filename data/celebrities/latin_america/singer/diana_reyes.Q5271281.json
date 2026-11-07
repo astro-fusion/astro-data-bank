@@ -1,0 +1,33 @@
+{
+  "publicId": "2eb5cf94",
+  "wikipediaSlug": "Diana_Reyes",
+  "wikipediaId": "Q5271281",
+  "name": "Diana Reyes",
+  "fullName": "Diana Reyes",
+  "profileSummary": "Diana Reyes is a Mexican singer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diana_Reyes",
+  "dateOfBirth": "1979-11-18",
+  "birthDateParsed": "1979-11-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.148611111",
+  "birthCoordinatesLng": "-110.306666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q5271281",
+  "birthPlace": "La Paz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:40.435Z"
+}

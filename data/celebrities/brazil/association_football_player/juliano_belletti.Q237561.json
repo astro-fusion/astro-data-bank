@@ -1,0 +1,35 @@
+{
+  "publicId": "c9b4c30f",
+  "wikipediaSlug": "Juliano_Belletti",
+  "wikipediaId": "Q237561",
+  "name": "Juliano Belletti",
+  "fullName": "Juliano Belletti",
+  "profileSummary": "Juliano Haus Belletti is a Brazilian football coach and former player who mostly played as a right-back. He is currently the head coach at Barcelona Atlètic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Belletti_2018.jpg/330px-Belletti_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juliano_Belletti",
+  "dateOfBirth": "1976-06-20",
+  "birthDateParsed": "1976-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-24.955833333",
+  "birthCoordinatesLng": "-53.455",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "journalist",
+    "association football coach"
+  ],
+  "qid": "Q237561",
+  "birthPlace": "Cascavel",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:57:00.205Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "ccc2471b",
+  "wikipediaSlug": "Dmitry_Medvedev",
+  "wikipediaId": "Q23530",
+  "name": "Dmitry Medvedev",
+  "fullName": "Dmitry Medvedev",
+  "profileSummary": "Dmitry Anatolyevich Medvedev is a Russian politician and lawyer who served as the president of Russia from 2008 to 2012 and as prime minister of Russia from 2012 to 2020. As of 2020, he has served as the deputy chairman of the Security Council of Russia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dmitry_Medvedev_%282026-02-06%29.jpg/330px-Dmitry_Medvedev_%282026-02-06%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dmitry_Medvedev",
+  "dateOfBirth": "1965-09-14",
+  "birthDateParsed": "1965-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jurist",
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q23530",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:25.183Z"
+}

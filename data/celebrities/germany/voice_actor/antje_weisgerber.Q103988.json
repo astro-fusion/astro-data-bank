@@ -1,0 +1,36 @@
+{
+  "publicId": "916107e2",
+  "wikipediaSlug": "Antje_Weisgerber",
+  "wikipediaId": "Q103988",
+  "name": "Antje Weisgerber",
+  "fullName": "Antje Weisgerber",
+  "profileSummary": "Antje Weisgerber was a German film and television actress, and the wife of actor Horst Caspar.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Fotothek_df_pk_0000069_029_Szenenbilder_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antje_Weisgerber",
+  "dateOfBirth": "1922-05-17",
+  "birthDateParsed": "1922-05-17",
+  "dateOfDeath": "2004-09-29",
+  "deathDateParsed": "2004-09-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "54.711472222",
+  "birthCoordinatesLng": "20.509305555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "voice actor",
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q103988",
+  "birthPlace": "Königsberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:23.975Z"
+}

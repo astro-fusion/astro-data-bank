@@ -1,0 +1,35 @@
+{
+  "publicId": "90b033af",
+  "wikipediaSlug": "Aleksandra_Pakhmutova",
+  "wikipediaId": "Q260885",
+  "name": "Aleksandra Pakhmutova",
+  "fullName": "Aleksandra Pakhmutova",
+  "profileSummary": "Aleksandra Nikolayevna Pakhmutova is a Soviet and Russian composer. She has remained one of the best-known figures in Soviet and later Russian popular music since she first achieved fame in her homeland in the 1960s. She was awarded the People's Artist of the USSR in 1984.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aleksandra_Pakhmutova_%282024-11-09%29.jpg/330px-Aleksandra_Pakhmutova_%282024-11-09%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandra_Pakhmutova",
+  "dateOfBirth": "1929-11-09",
+  "birthDateParsed": "1929-11-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.59944444",
+  "birthCoordinatesLng": "44.41472222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "film score composer",
+    "pianist"
+  ],
+  "qid": "Q260885",
+  "birthPlace": "Beketovka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:33.864Z"
+}

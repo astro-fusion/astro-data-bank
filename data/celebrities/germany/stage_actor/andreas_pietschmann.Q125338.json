@@ -1,0 +1,42 @@
+{
+  "publicId": "bd1c1940",
+  "wikipediaSlug": "Andreas_Pietschmann",
+  "wikipediaId": "Q125338",
+  "name": "Andreas Pietschmann",
+  "fullName": "Andreas Pietschmann",
+  "profileSummary": "Andreas Pietschmann is a German stage, film, and television actor. He is known for playing Rudolf Hess in the 2025 film Nuremberg and for starring in two TV series released on Netflix: the science fiction drama Dark (2017–2020) and the 2026 spy drama series Unfamiliar.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MJK30683_Andreas_Pietschmann_%28Berlinale_2017%29.jpg/330px-MJK30683_Andreas_Pietschmann_%28Berlinale_2017%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Pietschmann",
+  "dateOfBirth": "1969-03-22",
+  "birthDateParsed": "1969-03-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.794444444",
+  "birthCoordinatesLng": "9.929444444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "voice actor",
+    "music arranger",
+    "singer",
+    "screenwriter",
+    "actor",
+    "director",
+    "musician"
+  ],
+  "qid": "Q125338",
+  "birthPlace": "Würzburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:17.737Z"
+}

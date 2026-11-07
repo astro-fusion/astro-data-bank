@@ -1,0 +1,38 @@
+{
+  "publicId": "303076e3",
+  "wikipediaSlug": "Alberto_Nepomuceno",
+  "wikipediaId": "Q1391980",
+  "name": "Alberto Nepomuceno",
+  "fullName": "Alberto Nepomuceno",
+  "profileSummary": "Alberto Nepomuceno was a Brazilian composer and conductor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Alberto_Nepomuceno%2C_sem_data.tif/lossy-page1-330px-Alberto_Nepomuceno%2C_sem_data.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Nepomuceno",
+  "dateOfBirth": "1864-07-06",
+  "birthDateParsed": "1864-07-06",
+  "dateOfDeath": "1920-10-16",
+  "deathDateParsed": "1920-10-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "-3.7275",
+  "birthCoordinatesLng": "-38.5275",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "conductor",
+    "musicologist",
+    "music educator",
+    "pianist",
+    "organist"
+  ],
+  "qid": "Q1391980",
+  "birthPlace": "Fortaleza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:22.056Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "8901e3f8",
+  "wikipediaSlug": "Stepan_Shagaida",
+  "wikipediaId": "Q4519272",
+  "name": "Stepan Shagaida",
+  "fullName": "Stepan Shagaida",
+  "profileSummary": "Stepan Vasilievich Shagaida was a Ukrainian Soviet theater and film actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stepan_Shagaida",
+  "dateOfBirth": "1896-01-09",
+  "birthDateParsed": "1896-01-09",
+  "dateOfDeath": "1938-01-12",
+  "deathDateParsed": "1938-01-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.75738453",
+  "birthCoordinatesLng": "25.33354099",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q4519272",
+  "birthPlace": "Biloholovy",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:10.691Z"
+}

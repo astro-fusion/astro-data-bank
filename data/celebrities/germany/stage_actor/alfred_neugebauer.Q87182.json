@@ -1,0 +1,36 @@
+{
+  "publicId": "e2ce966c",
+  "wikipediaSlug": "Alfred_Neugebauer",
+  "wikipediaId": "Q87182",
+  "name": "Alfred Neugebauer",
+  "fullName": "Alfred Neugebauer",
+  "profileSummary": "Alfred Neugebauer was an Austrian film actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Neugebauer",
+  "dateOfBirth": "1888-12-27",
+  "birthDateParsed": "1888-12-27",
+  "dateOfDeath": "1957-09-16",
+  "deathDateParsed": "1957-09-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "singer",
+    "actor"
+  ],
+  "qid": "Q87182",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:45.380Z"
+}

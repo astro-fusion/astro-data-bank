@@ -1,0 +1,34 @@
+{
+  "publicId": "89496fc2",
+  "wikipediaSlug": "Kwa_Geok_Choo",
+  "wikipediaId": "Q1076140",
+  "name": "Kwa Geok Choo",
+  "fullName": "Kwa Geok Choo",
+  "profileSummary": "Kwa Geok Choo was a Singaporean lawyer. She was the wife of Lee Kuan Yew, the founding Prime Minister of Singapore and the mother of Lee Hsien Loong, Lee Hsien Yang, and Lee Wei Ling.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kwa_Geok_Choo%2C_1985_%283x4_crop%29.jpg/330px-Kwa_Geok_Choo%2C_1985_%283x4_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kwa_Geok_Choo",
+  "dateOfBirth": "1920-12-21",
+  "birthDateParsed": "1920-12-21",
+  "dateOfDeath": "2010-10-02",
+  "deathDateParsed": "2010-10-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q1076140",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:19.116Z"
+}

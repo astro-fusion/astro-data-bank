@@ -1,0 +1,33 @@
+{
+  "publicId": "8d0d37d5",
+  "wikipediaSlug": "Antonio_Cervantes",
+  "wikipediaId": "Q601512",
+  "name": "Antonio Cervantes",
+  "fullName": "Antonio Cervantes",
+  "profileSummary": "Antonio Cervantes Reyes is a Colombian boxing trainer and former professional boxer who competed from 1961 to 1983. He held the WBA and The Ring light welterweight title twice between 1972 and 1980.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kid_Pambel%C3%A9.jpg/330px-Kid_Pambel%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Cervantes",
+  "dateOfBirth": "1945-12-23",
+  "birthDateParsed": "1945-12-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "10.103318",
+  "birthCoordinatesLng": "-75.199013",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer"
+  ],
+  "qid": "Q601512",
+  "birthPlace": "San Basilio de Palenque",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:05.764Z"
+}

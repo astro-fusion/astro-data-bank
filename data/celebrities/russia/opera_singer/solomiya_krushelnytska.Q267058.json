@@ -1,0 +1,35 @@
+{
+  "publicId": "7a22f4fb",
+  "wikipediaSlug": "Solomiya_Krushelnytska",
+  "wikipediaId": "Q267058",
+  "name": "Solomiya Krushelnytska",
+  "fullName": "Solomiya Krushelnytska",
+  "profileSummary": "Solomiya Krushelnytska was a Ukrainian lyric-dramatic soprano, considered to be one of the brightest opera stars of the first half of the 20th century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Solomiya_Krushelnytska.jpg/330px-Solomiya_Krushelnytska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Solomiya_Krushelnytska",
+  "dateOfBirth": "1873-09-23",
+  "birthDateParsed": "1873-09-23",
+  "dateOfDeath": "1952-11-16",
+  "deathDateParsed": "1952-11-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.149094812",
+  "birthCoordinatesLng": "25.371646068",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer",
+    "music educator",
+    "pedagogue"
+  ],
+  "qid": "Q267058",
+  "birthPlace": "Biliavyntsi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:41.833Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "1cfe07e1",
+  "wikipediaSlug": "Vladimir_Bystrov",
+  "wikipediaId": "Q314724",
+  "name": "Vladimir Bystrov",
+  "fullName": "Vladimir Bystrov",
+  "profileSummary": "Vladimir Sergeyevich Bystrov is a Russian former footballer who played as a right winger.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Vladimir_Bystrov_2022.jpg/330px-Vladimir_Bystrov_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Bystrov",
+  "dateOfBirth": "1984-01-31",
+  "birthDateParsed": "1984-01-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "58.733333333",
+  "birthCoordinatesLng": "29.85",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q314724",
+  "birthPlace": "Luga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:37:09.922Z"
+}

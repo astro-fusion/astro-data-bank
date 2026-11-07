@@ -1,0 +1,36 @@
+{
+  "publicId": "e1fbf381",
+  "wikipediaSlug": "André_Bankoff",
+  "wikipediaId": "Q4759821",
+  "name": "André Bankoff",
+  "fullName": "André Bankoff",
+  "profileSummary": "André Ricardo Bankoff is a Brazilian actor and former model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Andr%C3%A9_Bankoff1a.jpg/330px-Andr%C3%A9_Bankoff1a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Bankoff",
+  "dateOfBirth": "1978-09-20",
+  "birthDateParsed": "1978-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.738888888",
+  "birthCoordinatesLng": "-47.330833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "association football player",
+    "model",
+    "television actor"
+  ],
+  "qid": "Q4759821",
+  "birthPlace": "Americana",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:18.567Z"
+}

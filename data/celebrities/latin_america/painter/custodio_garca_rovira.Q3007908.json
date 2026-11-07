@@ -1,0 +1,34 @@
+{
+  "publicId": "8985d3a9",
+  "wikipediaSlug": "Custodio_García_Rovira",
+  "wikipediaId": "Q3007908",
+  "name": "Custodio García Rovira",
+  "fullName": "Custodio García Rovira",
+  "profileSummary": "José Custodio Cayetano García Rovira was a Neogranadine general, statesman and painter, who fought for the independence of New Granada from Spain, and became President of the United Provinces of the New Granada in 1816. He was executed a month later during the Reconquista, at the hands of Pablo Morillo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Garc%C3%ADa_Rovira.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Custodio_Garc%C3%ADa_Rovira",
+  "dateOfBirth": "1780-03-02",
+  "birthDateParsed": "1780-03-02",
+  "dateOfDeath": "1816-08-08",
+  "deathDateParsed": "1816-08-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "7.118611111",
+  "birthCoordinatesLng": "-73.116111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "painter",
+    "lawyer"
+  ],
+  "qid": "Q3007908",
+  "birthPlace": "Bucaramanga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:49.818Z"
+}

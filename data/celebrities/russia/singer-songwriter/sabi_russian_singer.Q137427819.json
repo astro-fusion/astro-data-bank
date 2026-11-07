@@ -1,0 +1,33 @@
+{
+  "publicId": "80c114c9",
+  "wikipediaSlug": "Sabi_(Russian_singer)",
+  "wikipediaId": "Q137427819",
+  "name": "Sabi (Russian singer)",
+  "fullName": "Sabi (Russian singer)",
+  "profileSummary": "Sabina Mamedova, known profesionally as Sabi is a Russian singer and songwriter.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabi_(Russian_singer)",
+  "dateOfBirth": "2000-04-25",
+  "birthDateParsed": "2000-04-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.033333333",
+  "birthCoordinatesLng": "82.916666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter"
+  ],
+  "qid": "Q137427819",
+  "birthPlace": "Novosibirsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:01.841Z"
+}

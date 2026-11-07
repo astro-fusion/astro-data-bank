@@ -1,0 +1,35 @@
+{
+  "publicId": "9370819f",
+  "wikipediaSlug": "Otto_Gessler",
+  "wikipediaId": "Q60909",
+  "name": "Otto Gessler",
+  "fullName": "Otto Gessler",
+  "profileSummary": "Otto Karl Gessler was a liberal German politician during the Weimar Republic. From 1910 until 1914, he was mayor of Regensburg and from 1913 to 1919 mayor of Nuremberg. He served in numerous Weimar cabinets, most notably as Reichswehrminister from 1920 to 1928.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_Bild_146-1968-100-04A%2C_Otto_Karl_Ge%C3%9Fler.jpg/330px-Bundesarchiv_Bild_146-1968-100-04A%2C_Otto_Karl_Ge%C3%9Fler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Otto_Gessler",
+  "dateOfBirth": "1875-02-06",
+  "birthDateParsed": "1875-02-06",
+  "dateOfDeath": "1955-03-24",
+  "deathDateParsed": "1955-03-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.8975",
+  "birthCoordinatesLng": "9.191944444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q60909",
+  "birthPlace": "Ludwigsburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:49.504Z"
+}

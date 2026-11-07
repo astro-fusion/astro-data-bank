@@ -1,0 +1,36 @@
+{
+  "publicId": "cb98743a",
+  "wikipediaSlug": "Andrés_Cepeda",
+  "wikipediaId": "Q4760167",
+  "name": "Andrés Cepeda",
+  "fullName": "Andrés Cepeda",
+  "profileSummary": "Andrés Cepeda Cediel is a popular Colombian singer-songwriter. He was born in Bogotá, the youngest of five children. He displayed an inclination towards music from an early age, studying piano since the age of 5. He composed his first piece at the age of 12. He studied at Colegio San Carlos and later at Colegio Emilio Valenzuela. His musical career began as the lead voice of Poligamia, a latin rock-pop group which he founded with some friends during his adolescence. After Poligamia was disbanded, Cepeda continued with his musical career as a soloist, finding success in different musical genres such as bolero and Balada, among other romantic genres. His album El carpintero achieved quadruple-platinum sales in Colombia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AndresCepeda2018TVA.jpg/330px-AndresCepeda2018TVA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Cepeda",
+  "dateOfBirth": "1973-07-07",
+  "birthDateParsed": "1973-07-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "recording artist",
+    "musician"
+  ],
+  "qid": "Q4760167",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:41.734Z"
+}

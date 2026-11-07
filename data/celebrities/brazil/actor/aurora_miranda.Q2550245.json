@@ -1,0 +1,35 @@
+{
+  "publicId": "53f9c663",
+  "wikipediaSlug": "Aurora_Miranda",
+  "wikipediaId": "Q2550245",
+  "name": "Aurora Miranda",
+  "fullName": "Aurora Miranda",
+  "profileSummary": "Aurora Miranda da Cunha Richaid was a Brazilian singer and actress. She began her career at the age of 18 in 1933. Miranda appeared in several films, including The Three Caballeros, where she danced with Donald Duck and José Carioca, singing the song, \"Os Quindins de Yayá\". Her sisters were Carmen Miranda and Cecilia Miranda.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Aurora_Miranda%2C_sem_data.tif/lossy-page1-330px-Aurora_Miranda%2C_sem_data.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aurora_Miranda",
+  "dateOfBirth": "1915-04-20",
+  "birthDateParsed": "1915-04-20",
+  "dateOfDeath": "2005-12-22",
+  "deathDateParsed": "2005-12-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "dancer"
+  ],
+  "qid": "Q2550245",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:00.734Z"
+}

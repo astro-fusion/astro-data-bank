@@ -1,0 +1,34 @@
+{
+  "publicId": "d4e2bd1c",
+  "wikipediaSlug": "Agnaldo_Rayol",
+  "wikipediaId": "Q4692968",
+  "name": "Agnaldo Rayol",
+  "fullName": "Agnaldo Rayol",
+  "profileSummary": "Agnaldo Coniglio Rayol was a Brazilian singer and actor. He sang love ballads and romantic music in general, with an emphasis on Italian songs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Agnaldo_rayol.jpg/330px-Agnaldo_rayol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agnaldo_Rayol",
+  "dateOfBirth": "1938-05-03",
+  "birthDateParsed": "1938-05-03",
+  "dateOfDeath": "2024-11-04",
+  "deathDateParsed": "2024-11-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.883333333",
+  "birthCoordinatesLng": "-43.103611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor"
+  ],
+  "qid": "Q4692968",
+  "birthPlace": "Niterói",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:22.992Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "c8e175b4",
+  "wikipediaSlug": "Demián_Bichir",
+  "wikipediaId": "Q449940",
+  "name": "Demián Bichir",
+  "fullName": "Demián Bichir",
+  "profileSummary": "Demián Bichir Nájera is a Mexican actor. After starring in telenovelas, he began to appear in Hollywood films. He was nominated for the Academy Award for Best Actor for his role in A Better Life.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Demi%C3%A1n_Bichir_at_the_2024_Toronto_International_Film_Festival_%28cropped2%29.jpg/330px-Demi%C3%A1n_Bichir_at_the_2024_Toronto_International_Film_Festival_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Demi%C3%A1n_Bichir",
+  "dateOfBirth": "1963-08-01",
+  "birthDateParsed": "1963-08-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.54389",
+  "birthCoordinatesLng": "-103.41898",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q449940",
+  "birthPlace": "Torreón",
+  "fetchedAt": "2026-08-16T13:16:16.269Z"
+}

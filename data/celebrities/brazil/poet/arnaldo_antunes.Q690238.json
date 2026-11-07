@@ -1,0 +1,39 @@
+{
+  "publicId": "776dbb4e",
+  "wikipediaSlug": "Arnaldo_Antunes",
+  "wikipediaId": "Q690238",
+  "name": "Arnaldo Antunes",
+  "fullName": "Arnaldo Antunes",
+  "profileSummary": "Arnaldo Antunes is a Brazilian singer, writer, and composer. He was a member of the rock band Titãs, which he co-founded in 1982 and left ten years later. After 1992, he embarked on a solo career. He has published poetry and had his first book published in 1983. He has worked with Marisa Monte, Tribalistas, Carlinhos Brown and Pequeno Cidadão.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Arnaldo_Antunes_-_AA.jpg/330px-Arnaldo_Antunes_-_AA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnaldo_Antunes",
+  "dateOfBirth": "1960-09-02",
+  "birthDateParsed": "1960-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "singer",
+    "artivist",
+    "writer",
+    "guitarist",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q690238",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:59.008Z"
+}

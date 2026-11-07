@@ -1,0 +1,34 @@
+{
+  "publicId": "baff2b89",
+  "wikipediaSlug": "Chang_Chen",
+  "wikipediaId": "Q717432",
+  "name": "Chang Chen",
+  "fullName": "Chang Chen",
+  "profileSummary": "Chang Chen is a Taiwanese actor. He is best known for his roles in A Brighter Summer Day (1991), Happy Together (1997), Crouching Tiger, Hidden Dragon (2000), Three Times (2005), Brotherhood of Blades (2014), The Assassin (2015) and The Soul (2021). For his performance in The Soul, he won Best Leading Actor prize at the 58th Golden Horse Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chang_Chen_at_Ralph_Lauren_dinner_2026_%28cropped%29.jpg/330px-Chang_Chen_at_Ralph_Lauren_dinner_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chang_Chen",
+  "dateOfBirth": "1976-10-14",
+  "birthDateParsed": "1976-10-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q717432",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:00.923Z"
+}

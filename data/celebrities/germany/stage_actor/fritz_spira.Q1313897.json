@@ -1,0 +1,37 @@
+{
+  "publicId": "9a527b8c",
+  "wikipediaSlug": "Fritz_Spira",
+  "wikipediaId": "Q1313897",
+  "name": "Fritz Spira",
+  "fullName": "Fritz Spira",
+  "profileSummary": "Fritz Spira was an Austrian stage and film actor. He appeared frequently in films during the silent and early sound eras. Spira played the role of the Austrian Emperor Franz Josef in the 1926 film The Third Squadron. Spira had been working in Germany before the Nazi takeover in 1933 compelled him to leave because of his Jewish background. He went first to Poland, then returned to his native Austria. Following the Anchluss he tried to leave, but was arrested. He would die in 1943 at the Ruma concentration camp in Vojvodina.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fritz_Spira.jpg/330px-Fritz_Spira.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Spira",
+  "dateOfBirth": "1877-08-01",
+  "birthDateParsed": "1877-08-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "singer",
+    "theatre manager",
+    "actor"
+  ],
+  "qid": "Q1313897",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:59.944Z"
+}

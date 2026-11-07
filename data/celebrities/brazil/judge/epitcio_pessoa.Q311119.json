@@ -1,0 +1,37 @@
+{
+  "publicId": "da14556c",
+  "wikipediaSlug": "Epitácio_Pessoa",
+  "wikipediaId": "Q311119",
+  "name": "Epitácio Pessoa",
+  "fullName": "Epitácio Pessoa",
+  "profileSummary": "Epitácio Lindolfo da Silva Pessoa was a Brazilian politician and jurist who served as the 11th president of Brazil between 1919 and 1922, when Rodrigues Alves was unable to take office due to illness, after being elected in 1918. His government was marked by the beginning of the tenentist movement that would culminate in the Revolution of 1930, which brought Getúlio Vargas to power.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Epitacio_Pessoa_%281919%29.jpg/330px-Epitacio_Pessoa_%281919%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Epit%C3%A1cio_Pessoa",
+  "dateOfBirth": "1865-05-23",
+  "birthDateParsed": "1865-05-23",
+  "dateOfDeath": "1942-02-13",
+  "deathDateParsed": "1942-02-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-7.695833333",
+  "birthCoordinatesLng": "-35.663888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "diplomat",
+    "politician",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q311119",
+  "birthPlace": "Umbuzeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:32.315Z"
+}

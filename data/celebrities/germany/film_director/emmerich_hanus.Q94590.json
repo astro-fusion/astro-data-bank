@@ -1,0 +1,38 @@
+{
+  "publicId": "d176aa19",
+  "wikipediaSlug": "Emmerich_Hanus",
+  "wikipediaId": "Q94590",
+  "name": "Emmerich Hanus",
+  "fullName": "Emmerich Hanus",
+  "profileSummary": "Emmerich Hanus was an Austrian actor and film director. He appeared in 22 films between 1913 and 1949. His older brother was actor and film director Heinz Hanus.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Emmerich_Hanus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmerich_Hanus",
+  "dateOfBirth": "1884-08-24",
+  "birthDateParsed": "1884-08-24",
+  "dateOfDeath": "1956-11-20",
+  "deathDateParsed": "1956-11-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "screenwriter",
+    "film producer",
+    "film actor",
+    "actor",
+    "director"
+  ],
+  "qid": "Q94590",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:56.254Z"
+}

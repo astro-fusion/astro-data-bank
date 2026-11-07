@@ -1,0 +1,35 @@
+{
+  "publicId": "fb9af6c7",
+  "wikipediaSlug": "Juscelino_Kubitschek",
+  "wikipediaId": "Q155824",
+  "name": "Juscelino Kubitschek",
+  "fullName": "Juscelino Kubitschek",
+  "profileSummary": "Juscelino Kubitschek de Oliveira, also known by his initials JK, was a Brazilian politician who served as the 21st president of Brazil from 1956 to 1961. Kubitschek's government plan, dubbed \"50 years in 5\", was centered on economic and social development. During his term the country experienced a period of notable economic growth and relative political stability. However, there was also a significant increase in external debt, inflation, income concentration and wage erosion. At the time, there was no re-election and, on 31 January 1961, he was succeeded by Jânio Quadros, supported by the UDN. Kubitschek is best known for the construction of Brazil's new capital, Brasília, which was inaugurated on 21 April 1960, replacing Rio de Janeiro.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juscelino_Kubitschek_in_1956.jpg/330px-Juscelino_Kubitschek_in_1956.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juscelino_Kubitschek",
+  "dateOfBirth": "1902-09-12",
+  "birthDateParsed": "1902-09-12",
+  "dateOfDeath": "1976-08-22",
+  "deathDateParsed": "1976-08-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "-18.248888888",
+  "birthCoordinatesLng": "-43.6",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "politician",
+    "writer"
+  ],
+  "qid": "Q155824",
+  "birthPlace": "Diamantina",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:45.456Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "9fef7196",
+  "wikipediaSlug": "Agustín_de_Betancourt",
+  "wikipediaId": "Q399485",
+  "name": "Agustín de Betancourt",
+  "fullName": "Agustín de Betancourt",
+  "profileSummary": "Agustín de Betancourt y Molina was a Spanish engineer, who worked in Spain, France and Russia. His work ranged from steam engines and balloons to structural engineering and urban planning. As an educator, Betancourt founded and managed the Spanish Corps of Civil Engineers and the Saint Petersburg Institute of Communications Engineers. As an urban planner and construction manager, Betancourt supervised planning and construction in Saint Petersburg, Kronstadt, Nizhny Novgorod and other Russian cities.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augustin_de_Betancourt_in_Russian_attire%2C_1810s.jpg/330px-Augustin_de_Betancourt_in_Russian_attire%2C_1810s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Betancourt",
+  "dateOfBirth": "1758-02-01",
+  "birthDateParsed": "1758-02-01",
+  "dateOfDeath": "1824-07-14",
+  "deathDateParsed": "1824-07-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "28.416667",
+  "birthCoordinatesLng": "-16.55",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "civil engineer",
+    "architect",
+    "urban planner",
+    "military engineer",
+    "inventor",
+    "engineer"
+  ],
+  "qid": "Q399485",
+  "birthPlace": "Puerto de la Cruz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:14.788Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "9f2a3cf2",
+  "wikipediaSlug": "César_Sampaio",
+  "wikipediaId": "Q316436",
+  "name": "César Sampaio",
+  "fullName": "César Sampaio",
+  "profileSummary": "Carlos César Sampaio Campos, known as César Sampaio, is a Brazilian football pundit, coach and former player who played as a defensive midfielder. He is the current technical coordinator of Campeonato Brasileiro Série A club Santos.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cesar-Sampaio-Palmeiras-2018.jpg/330px-Cesar-Sampaio-Palmeiras-2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9sar_Sampaio",
+  "dateOfBirth": "1968-03-31",
+  "birthDateParsed": "1968-03-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q316436",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:50.505Z"
+}

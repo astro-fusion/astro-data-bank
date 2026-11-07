@@ -1,0 +1,33 @@
+{
+  "publicId": "33bd828f",
+  "wikipediaSlug": "Eyal_Meyer",
+  "wikipediaId": "Q27982968",
+  "name": "Eyal Meyer",
+  "fullName": "Eyal Meyer",
+  "profileSummary": "Eyal Meyer Shevat is a Chilean actor and instructor of Kalaripayattu, who also holds German and Israeli citizenship.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eyal_Meyer.jpg/330px-Eyal_Meyer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eyal_Meyer",
+  "dateOfBirth": "1985-12-10",
+  "birthDateParsed": "1985-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q27982968",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:48.231Z"
+}

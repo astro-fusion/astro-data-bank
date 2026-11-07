@@ -1,0 +1,38 @@
+{
+  "publicId": "d5aa6192",
+  "wikipediaSlug": "David_Zepeda",
+  "wikipediaId": "Q902757",
+  "name": "David Zepeda",
+  "fullName": "David Zepeda",
+  "profileSummary": "David Zepeda is a Mexican actor, model and singer. He is best known for his roles in soap operas such as Acorralada, Abismo de pasión and Por amar sin ley. In 2019, Zepeda made his Telemundo debut in the soap opera La Doña as Jose Luis Navarrete in the second season, which was released in January 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/David_Zepeda_in_June_2014_%28cropped%29.png/330px-David_Zepeda_in_June_2014_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Zepeda",
+  "dateOfBirth": "1974-09-19",
+  "birthDateParsed": "1974-09-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "31.325833333",
+  "birthCoordinatesLng": "-110.945833333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "stage actor",
+    "lawyer",
+    "model",
+    "beauty pageant contestant",
+    "film actor"
+  ],
+  "qid": "Q902757",
+  "birthPlace": "Heroica Nogales",
+  "fetchedAt": "2026-08-16T13:16:43.067Z"
+}

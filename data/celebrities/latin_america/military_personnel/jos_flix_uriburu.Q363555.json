@@ -1,0 +1,34 @@
+{
+  "publicId": "49fc3123",
+  "wikipediaSlug": "José_Félix_Uriburu",
+  "wikipediaId": "Q363555",
+  "name": "José Félix Uriburu",
+  "fullName": "José Félix Uriburu",
+  "profileSummary": "José Félix Benito Uriburu was an Argentine military officer and politician, he was the President of the Provisional Government of Argentina, ousting the successor to President Hipólito Yrigoyen by means of a military coup and declaring himself president. From 6 September 1930 to 20 February 1932, he controlled both the Executive and Legislative branches of government. As \"President of the Provisional Government,\" he acted as the de facto Head of state of Argentina. His was the first of a series of successful coups d'état and unconstitutional governments that came to power in 1943, 1955, 1962, 1966, and 1976.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jose_Uriburu.png/330px-Jose_Uriburu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_F%C3%A9lix_Uriburu",
+  "dateOfBirth": "1868-07-20",
+  "birthDateParsed": "1868-07-20",
+  "dateOfDeath": "1932-04-29",
+  "deathDateParsed": "1932-04-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "-24.788333333",
+  "birthCoordinatesLng": "-65.410555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "politician"
+  ],
+  "qid": "Q363555",
+  "birthPlace": "Salta",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:14.217Z"
+}

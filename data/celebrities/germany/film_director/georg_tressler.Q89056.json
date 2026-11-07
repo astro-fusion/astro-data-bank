@@ -1,0 +1,36 @@
+{
+  "publicId": "acca19a5",
+  "wikipediaSlug": "Georg_Tressler",
+  "wikipediaId": "Q89056",
+  "name": "Georg Tressler",
+  "fullName": "Georg Tressler",
+  "profileSummary": "Georg Tressler was a Vienna-born German film actor and film director. Also known as George Tressler, Hans Tressler, Hans Dressler, Hans Georg Keil and Hans Sternbeck.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georg_Tressler",
+  "dateOfBirth": "1917-01-25",
+  "birthDateParsed": "1917-01-25",
+  "dateOfDeath": "2007-01-06",
+  "deathDateParsed": "2007-01-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "film actor",
+    "director",
+    "screenwriter"
+  ],
+  "qid": "Q89056",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:21.223Z"
+}

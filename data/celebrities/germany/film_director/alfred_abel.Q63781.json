@@ -1,0 +1,38 @@
+{
+  "publicId": "744d7709",
+  "wikipediaSlug": "Alfred_Abel",
+  "wikipediaId": "Q63781",
+  "name": "Alfred Abel",
+  "fullName": "Alfred Abel",
+  "profileSummary": "Alfred Peter Abel was a German film actor, director, and producer. He appeared in more than 140 silent and sound films between 1913 and 1938. His best-known performance was as Joh Fredersen in Fritz Lang's 1927 film, Metropolis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alfred_Abel_by_Alexander_Binder.jpg/330px-Alfred_Abel_by_Alexander_Binder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Abel",
+  "dateOfBirth": "1879-03-12",
+  "birthDateParsed": "1879-03-12",
+  "dateOfDeath": "1937-12-12",
+  "deathDateParsed": "1937-12-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.3406321",
+  "birthCoordinatesLng": "12.3747329",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "stage actor",
+    "film actor",
+    "film producer",
+    "actor",
+    "director"
+  ],
+  "qid": "Q63781",
+  "birthPlace": "Leipzig",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:29.823Z"
+}

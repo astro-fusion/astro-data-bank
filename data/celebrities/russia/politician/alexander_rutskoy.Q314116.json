@@ -1,0 +1,36 @@
+{
+  "publicId": "c71d7891",
+  "wikipediaSlug": "Alexander_Rutskoy",
+  "wikipediaId": "Q314116",
+  "name": "Alexander Rutskoy",
+  "fullName": "Alexander Rutskoy",
+  "profileSummary": "Alexander Vladimirovich Rutskoy is a Russian politician and former Soviet military officer who served as the only vice president of Russia from 1991 to 1993. He was proclaimed acting president following Boris Yeltsin's impeachment during the 1993 Russian constitutional crisis, in which he played a key role.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alexander_Rutskoy_MoscowRia_08-2016_%28cropped%29.jpg/330px-Alexander_Rutskoy_MoscowRia_08-2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Rutskoy",
+  "dateOfBirth": "1947-09-16",
+  "birthDateParsed": "1947-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.42",
+  "birthCoordinatesLng": "27",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "economist",
+    "statesperson"
+  ],
+  "qid": "Q314116",
+  "birthPlace": "Khmelnytskyi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:22.806Z"
+}

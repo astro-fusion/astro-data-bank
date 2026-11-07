@@ -1,0 +1,35 @@
+{
+  "publicId": "6aab6d53",
+  "wikipediaSlug": "Venustiano_Carranza",
+  "wikipediaId": "Q313122",
+  "name": "Venustiano Carranza",
+  "fullName": "Venustiano Carranza",
+  "profileSummary": "José Venustiano Carranza de la Garza, known as Venustiano Carranza, was a Mexican land owner, revolutionary, and politician who served as the 44th President of Mexico from 1917 until his assassination in 1920, during the Mexican Revolution. He was previously Mexico's de facto head of state as Primer Jefe of the Constitutionalist faction from 1914 to 1917, and previously served as a senator and governor for Coahuila. He played the leading role in drafting the Constitution of 1917 and maintained Mexican neutrality in World War I.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Portrait_of_Venustiano_Carranza_%28cropped%29%28b%29.jpg/330px-Portrait_of_Venustiano_Carranza_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Venustiano_Carranza",
+  "dateOfBirth": "1859-12-29",
+  "birthDateParsed": "1859-12-29",
+  "dateOfDeath": "1920-05-21",
+  "deathDateParsed": "1920-05-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "26.986944444",
+  "birthCoordinatesLng": "-102.067222222",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "president"
+  ],
+  "qid": "Q313122",
+  "birthPlace": "Cuatro Ciénegas de Carranza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:29.803Z"
+}

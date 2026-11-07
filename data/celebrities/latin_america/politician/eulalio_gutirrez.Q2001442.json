@@ -1,0 +1,34 @@
+{
+  "publicId": "6c9f05f8",
+  "wikipediaSlug": "Eulalio_Gutiérrez",
+  "wikipediaId": "Q2001442",
+  "name": "Eulalio Gutiérrez",
+  "fullName": "Eulalio Gutiérrez",
+  "profileSummary": "Eulalio Gutiérrez Ortiz was a Mexican general and politician in the Mexican Revolution from state of Coahuila. He is most notable for his election as provisional president of Mexico during the Aguascalientes Convention and led the country for a few months between 6 November 1914 and 16 January 1915. The Convention was convened by revolutionaries who had successfully ousted the regime of Victoriano Huerta after more than a year of conflict. Gutiérrez rather than \"First Chief\" Venustiano Carranza was chosen president of Mexico and a new round of violence broke out as revolutionary factions previously united turned against each other. \"The high point of Gutiérrez's career occurred when he moved with the Conventionist army to shoulder the responsibilities of his new office [of president].\" Gutiérrez's government was weak and he could not control the two main generals of the Army of the Convention, Pancho Villa and Emiliano Zapata. Gutiérrez moved the capital of his government from Mexico City to San Luis Potosí. He resigned as president and made peace with Carranza. He went into exile in the United States, but later returned to Mexico. He died in 1939, outliving many other major figures of the Mexican Revolution.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Eulalio_Guti%C3%A9rrez_Ortiz_%28cropped%29%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eulalio_Guti%C3%A9rrez",
+  "dateOfBirth": "1881-02-02",
+  "birthDateParsed": "1881-02-02",
+  "dateOfDeath": "1939-08-12",
+  "deathDateParsed": "1939-08-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.543611111",
+  "birthCoordinatesLng": "-100.950277777",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2001442",
+  "birthPlace": "Ramos Arizpe",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:02.209Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "178e45dd",
+  "wikipediaSlug": "Freddy_Padilla_de_León",
+  "wikipediaId": "Q5496898",
+  "name": "Freddy Padilla de León",
+  "fullName": "Freddy Padilla de León",
+  "profileSummary": "General Freddy José Padilla de León is a retired General of the Army of Colombia and currently serves as Ambassador of Colombia to Austria and Permanent Representative to the United Nations Office at Vienna. Prior to this diplomatic post General Padilla served as the General Commander of the Armed Forces of Colombia from 2006 to 2010, and as such assumed the Ministry of National Defence ad interim in 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Freddy_Padilla_de_Leon.png/330px-Freddy_Padilla_de_Leon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Freddy_Padilla_de_Le%C3%B3n",
+  "dateOfBirth": "1948-10-10",
+  "birthDateParsed": "1948-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "8.76",
+  "birthCoordinatesLng": "-75.885555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "diplomat"
+  ],
+  "qid": "Q5496898",
+  "birthPlace": "Montería",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:14.601Z"
+}

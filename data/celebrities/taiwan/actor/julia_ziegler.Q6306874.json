@@ -1,0 +1,34 @@
+{
+  "publicId": "87456e14",
+  "wikipediaSlug": "Julia_Ziegler",
+  "wikipediaId": "Q6306874",
+  "name": "Julia Ziegler",
+  "fullName": "Julia Ziegler",
+  "profileSummary": "Julia Ziegler is a Malaysian actress and model. Ziegler got her start as a model and actress for Malaysian TV commercials. She has appeared on the covers of local magazines and has also acted in television series' for the Malaysian market.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Julia_Ziegler_%28cropped%29.jpg/330px-Julia_Ziegler_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julia_Ziegler",
+  "dateOfBirth": "1973-05-21",
+  "birthDateParsed": "1973-05-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.147777777",
+  "birthCoordinatesLng": "101.695277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q6306874",
+  "birthPlace": "Kuala Lumpur",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:14.077Z"
+}

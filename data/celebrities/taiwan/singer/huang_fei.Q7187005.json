@@ -1,0 +1,34 @@
+{
+  "publicId": "5b66e179",
+  "wikipediaSlug": "Huang_Fei",
+  "wikipediaId": "Q7187005",
+  "name": "Huang Fei",
+  "fullName": "Huang Fei",
+  "profileSummary": "Huang Fei is a Taiwanese Hokkien pop singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Huang_Fei_%28cropped%29.jpg/330px-Huang_Fei_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Huang_Fei",
+  "dateOfBirth": "1974-07-13",
+  "birthDateParsed": "1974-07-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.64888889",
+  "birthCoordinatesLng": "120.2725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "hairdresser"
+  ],
+  "qid": "Q7187005",
+  "birthPlace": "Gushan District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:26.309Z"
+}

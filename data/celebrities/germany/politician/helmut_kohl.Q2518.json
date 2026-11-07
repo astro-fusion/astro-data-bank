@@ -1,0 +1,36 @@
+{
+  "publicId": "031e9eb4",
+  "wikipediaSlug": "Helmut_Kohl",
+  "wikipediaId": "Q2518",
+  "name": "Helmut Kohl",
+  "fullName": "Helmut Kohl",
+  "profileSummary": "Helmut Josef Michael Kohl was a German politician who served as chancellor of Germany and governed the Federal Republic from 1982 to 1998. He was leader of the Christian Democratic Union (CDU) from 1973 to 1998 and oversaw the end of the Cold War, German reunification, and the creation of the European Union (EU). Kohl's 16-year tenure is the longest in German post-war history and is the longest for any elected chancellor of Germany.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Helmut_Kohl_%281996%29_cropped_%282%29.jpg/330px-Helmut_Kohl_%281996%29_cropped_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helmut_Kohl",
+  "dateOfBirth": "1930-04-03",
+  "birthDateParsed": "1930-04-03",
+  "dateOfDeath": "2017-06-16",
+  "deathDateParsed": "2017-06-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.4958",
+  "birthCoordinatesLng": "8.41583",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "historian",
+    "political scientist",
+    "Chancellor of Germany"
+  ],
+  "qid": "Q2518",
+  "birthPlace": "Friesenheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:37.514Z"
+}

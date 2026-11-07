@@ -1,0 +1,38 @@
+{
+  "publicId": "34c6eff4",
+  "wikipediaSlug": "Faye_Wong",
+  "wikipediaId": "Q464650",
+  "name": "Faye Wong",
+  "fullName": "Faye Wong",
+  "profileSummary": "Faye Wong is a Chinese singer-songwriter and actress. Early in her career, she briefly used the stage name Shirley Wong (王靖雯). Born in Beijing, she moved to Hong Kong at the age of 18. She debuted as a singer with the Cantonese album Shirley Wong in 1989 and achieved her breakthrough with the Cantopop song \"Fragile Woman\" in 1992. She established her style by blending alternative music with Chinese pop, and since the late 1990s has recorded primarily in her native Mandarin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Faye_Wong_%28cropped%29.jpg/330px-Faye_Wong_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faye_Wong",
+  "dateOfBirth": "1969-08-08",
+  "birthDateParsed": "1969-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "model",
+    "songwriter",
+    "film actor",
+    "recording artist"
+  ],
+  "qid": "Q464650",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:04.900Z"
+}

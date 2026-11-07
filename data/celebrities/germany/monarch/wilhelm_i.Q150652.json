@@ -1,0 +1,34 @@
+{
+  "publicId": "a2dc6995",
+  "wikipediaSlug": "Wilhelm_I",
+  "wikipediaId": "Q150652",
+  "name": "Wilhelm I",
+  "fullName": "Wilhelm I",
+  "profileSummary": "Wilhelm I was King of Prussia from 1861 and German Emperor from 1871 until his death in 1888. A member of the House of Hohenzollern, he was the first head of state of a united Germany. He was regent of Prussia from 1858 to 1861 for his elder brother, King Frederick William IV. During the reign of his grandson Wilhelm II, he was known as Emperor Wilhelm the Great.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kaiser_Wilhelm_I_%283x4_cropped%29.jpg/330px-Kaiser_Wilhelm_I_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilhelm_I",
+  "dateOfBirth": "1797-03-22",
+  "birthDateParsed": "1797-03-22",
+  "dateOfDeath": "1888-03-09",
+  "deathDateParsed": "1888-03-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "politician"
+  ],
+  "qid": "Q150652",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:51.809Z"
+}

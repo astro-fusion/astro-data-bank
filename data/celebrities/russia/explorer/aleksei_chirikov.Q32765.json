@@ -1,0 +1,36 @@
+{
+  "publicId": "e0151b11",
+  "wikipediaSlug": "Aleksei_Chirikov",
+  "wikipediaId": "Q32765",
+  "name": "Aleksei Chirikov",
+  "fullName": "Aleksei Chirikov",
+  "profileSummary": "Aleksei Ilyich Chirikov was a Russian navigator and captain who, along with Vitus Bering, was the first Russian to reach the northwest coast of North America. He discovered and charted some of the Aleutian Islands while he was deputy to Vitus Bering during the Great Northern Expedition.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tschirikow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksei_Chirikov",
+  "dateOfBirth": "1703-12-24",
+  "birthDateParsed": "1703-12-24",
+  "dateOfDeath": "1748-06-04",
+  "deathDateParsed": "1748-06-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "54.08028",
+  "birthCoordinatesLng": "37.070777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "military personnel",
+    "navigator",
+    "seafarer"
+  ],
+  "qid": "Q32765",
+  "birthPlace": "Luzhnoye",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:16.846Z"
+}

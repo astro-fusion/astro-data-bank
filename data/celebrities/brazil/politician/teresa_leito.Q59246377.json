@@ -1,0 +1,33 @@
+{
+  "publicId": "7354317e",
+  "wikipediaSlug": "Teresa_Leitão",
+  "wikipediaId": "Q59246377",
+  "name": "Teresa Leitão",
+  "fullName": "Teresa Leitão",
+  "profileSummary": "Maria Teresa Leitão de Melo is a Brazilian politician from the Workers' Party. She has represented Pernambuco in the Federal Senate since the 2022 general election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Teresa_Leit%C3%A3o_%28PT-PE%29.jpg/330px-Teresa_Leit%C3%A3o_%28PT-PE%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Teresa_Leit%C3%A3o",
+  "dateOfBirth": "1951-10-07",
+  "birthDateParsed": "1951-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-8.053888888",
+  "birthCoordinatesLng": "-34.880833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q59246377",
+  "birthPlace": "Recife",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:35.359Z"
+}

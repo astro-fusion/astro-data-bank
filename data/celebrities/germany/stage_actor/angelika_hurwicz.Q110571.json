@@ -1,0 +1,37 @@
+{
+  "publicId": "d0486cb4",
+  "wikipediaSlug": "Angelika_Hurwicz",
+  "wikipediaId": "Q110571",
+  "name": "Angelika Hurwicz",
+  "fullName": "Angelika Hurwicz",
+  "profileSummary": "Angelika Hurwicz was a German actress and theatre director. She worked with Bertolt Brecht at his Berliner Ensemble company until 1958, when she moved to West Germany. Hurwicz was the first female director at the Burgtheater in 1978.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bundesarchiv_Bild_183-R75607%2C_Berlin%2C_Frauentagung%2C_Kulturbund.jpg/330px-Bundesarchiv_Bild_183-R75607%2C_Berlin%2C_Frauentagung%2C_Kulturbund.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelika_Hurwicz",
+  "dateOfBirth": "1922-04-22",
+  "birthDateParsed": "1922-04-22",
+  "dateOfDeath": "1999-11-26",
+  "deathDateParsed": "1999-11-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "film director",
+    "actor",
+    "director"
+  ],
+  "qid": "Q110571",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:22.598Z"
+}

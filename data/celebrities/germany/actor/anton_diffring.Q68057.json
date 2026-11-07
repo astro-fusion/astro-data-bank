@@ -1,0 +1,35 @@
+{
+  "publicId": "9efa2202",
+  "wikipediaSlug": "Anton_Diffring",
+  "wikipediaId": "Q68057",
+  "name": "Anton Diffring",
+  "fullName": "Anton Diffring",
+  "profileSummary": "Anton Diffring was a German actor. He had an extensive film and television career in the United Kingdom from the 1940s to the 1980s, latterly appearing in international films. Primarily a character actor, he often played Nazi officers in World War II films and villains in horror films, and other antagonistic authority figures.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Anton_Diffring_in_Tales_of_Frankenstein_%281958%29.jpg/330px-Anton_Diffring_in_Tales_of_Frankenstein_%281958%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Diffring",
+  "dateOfBirth": "1916-10-20",
+  "birthDateParsed": "1916-10-20",
+  "dateOfDeath": "1989-05-19",
+  "deathDateParsed": "1989-05-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.359722222",
+  "birthCoordinatesLng": "7.597777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q68057",
+  "birthPlace": "Koblenz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:45.762Z"
+}

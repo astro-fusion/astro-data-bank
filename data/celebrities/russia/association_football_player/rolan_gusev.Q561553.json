@@ -1,0 +1,34 @@
+{
+  "publicId": "73672bbd",
+  "wikipediaSlug": "Rolan_Gusev",
+  "wikipediaId": "Q561553",
+  "name": "Rolan Gusev",
+  "fullName": "Rolan Gusev",
+  "profileSummary": "Rolan Aleksandrovich Gusev is a Russian professional football coach and a former player who played as a midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rolan_Gusev_2026.jpg/330px-Rolan_Gusev_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolan_Gusev",
+  "dateOfBirth": "1977-09-17",
+  "birthDateParsed": "1977-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "37.95",
+  "birthCoordinatesLng": "58.383333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q561553",
+  "birthPlace": "Ashgabat",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:35.970Z"
+}

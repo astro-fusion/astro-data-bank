@@ -1,0 +1,33 @@
+{
+  "publicId": "d0395864",
+  "wikipediaSlug": "Aleksandr_Yerokhin",
+  "wikipediaId": "Q597730",
+  "name": "Aleksandr Yerokhin",
+  "fullName": "Aleksandr Yerokhin",
+  "profileSummary": "Aleksandr Yuryevich Yerokhin is a Russian professional footballer who plays as an attacking midfielder for Zenit St. Petersburg.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Aleksandr_Yerokhin_2022.jpg/330px-Aleksandr_Yerokhin_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Yerokhin",
+  "dateOfBirth": "1989-10-13",
+  "birthDateParsed": "1989-10-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.356666666",
+  "birthCoordinatesLng": "83.787222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q597730",
+  "birthPlace": "Barnaul",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:56.592Z"
+}

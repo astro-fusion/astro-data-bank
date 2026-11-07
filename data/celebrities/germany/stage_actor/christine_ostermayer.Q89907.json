@@ -1,0 +1,36 @@
+{
+  "publicId": "59b39421",
+  "wikipediaSlug": "Christine_Ostermayer",
+  "wikipediaId": "Q89907",
+  "name": "Christine Ostermayer",
+  "fullName": "Christine Ostermayer",
+  "profileSummary": "Christine Ostermayer is an Austrian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%C3%96sterreichischer_Filmpreis_2025_-_Christine_Ostermayer_BHO-4299.jpg/330px-%C3%96sterreichischer_Filmpreis_2025_-_Christine_Ostermayer_BHO-4299.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christine_Ostermayer",
+  "dateOfBirth": "1936-12-15",
+  "birthDateParsed": "1936-12-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "dancer"
+  ],
+  "qid": "Q89907",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:19.345Z"
+}

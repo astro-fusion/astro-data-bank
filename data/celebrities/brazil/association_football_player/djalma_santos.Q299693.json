@@ -1,0 +1,34 @@
+{
+  "publicId": "3b25da9e",
+  "wikipediaSlug": "Djalma_Santos",
+  "wikipediaId": "Q299693",
+  "name": "Djalma Santos",
+  "fullName": "Djalma Santos",
+  "profileSummary": "Djalma Pereira Dias dos Santos, known simply as Djalma Santos was a Brazilian footballer who starred for the Brazil national team in four World Cups and winning the 1958 and 1962 editions. Santos is considered to be one of the greatest right-backs of all time. While primarily known for his defensive skills, he often ventured upfield and displayed some impressive technical and attacking skills.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Djalma_Santos.jpg/330px-Djalma_Santos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Djalma_Santos",
+  "dateOfBirth": "1929-02-27",
+  "birthDateParsed": "1929-02-27",
+  "dateOfDeath": "2013-07-23",
+  "deathDateParsed": "2013-07-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q299693",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:47.755Z"
+}

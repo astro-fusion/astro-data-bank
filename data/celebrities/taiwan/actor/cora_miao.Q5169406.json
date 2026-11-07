@@ -1,0 +1,33 @@
+{
+  "publicId": "7d658f98",
+  "wikipediaSlug": "Cora_Miao",
+  "wikipediaId": "Q5169406",
+  "name": "Cora Miao",
+  "fullName": "Cora Miao",
+  "profileSummary": "Cora Miao is a Hong Kong actress. She was nominated for four Hong Kong Film Awards and four Golden Horse Awards, winning once.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Minami%2C_Lew%2C_Zia_and_Miao.jpg/330px-Minami%2C_Lew%2C_Zia_and_Miao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cora_Miao",
+  "dateOfBirth": "1958-08-21",
+  "birthDateParsed": "1958-08-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5169406",
+  "birthPlace": "Shanghai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:18.535Z"
+}

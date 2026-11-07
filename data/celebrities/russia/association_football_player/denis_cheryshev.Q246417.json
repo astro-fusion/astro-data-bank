@@ -1,0 +1,33 @@
+{
+  "publicId": "2b668ca2",
+  "wikipediaSlug": "Denis_Cheryshev",
+  "wikipediaId": "Q246417",
+  "name": "Denis Cheryshev",
+  "fullName": "Denis Cheryshev",
+  "profileSummary": "Denis Dmitriyevich Cheryshev is a Russian professional footballer who plays as a left winger for Cypriot First Division club Krasava ENY Ypsonas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Denis_Cheryshev_2019.jpg/330px-Denis_Cheryshev_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Cheryshev",
+  "dateOfBirth": "1990-12-26",
+  "birthDateParsed": "1990-12-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "56.326944444",
+  "birthCoordinatesLng": "44.0075",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q246417",
+  "birthPlace": "Nizhny Novgorod",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:07.825Z"
+}

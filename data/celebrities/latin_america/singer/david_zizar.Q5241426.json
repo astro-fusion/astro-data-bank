@@ -1,0 +1,36 @@
+{
+  "publicId": "143cae3b",
+  "wikipediaSlug": "David_Záizar",
+  "wikipediaId": "Q5241426",
+  "name": "David Záizar",
+  "fullName": "David Záizar",
+  "profileSummary": "David Záizar was a Mexican mariachi singer and actor who appeared in many Mexican films. He was active from the 1940s until his death. Záizar was a highly respected figure in ranchera music, and has been dubbed \"El Rey del Falsete\".",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Z%C3%A1izar",
+  "dateOfBirth": "1928-11-14",
+  "birthDateParsed": "1928-11-14",
+  "dateOfDeath": "1982-01-02",
+  "deathDateParsed": "1982-01-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.675555555",
+  "birthCoordinatesLng": "-103.253888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "film actor",
+    "songwriter"
+  ],
+  "qid": "Q5241426",
+  "birthPlace": "Tamazula de Gordiano",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:54.925Z"
+}

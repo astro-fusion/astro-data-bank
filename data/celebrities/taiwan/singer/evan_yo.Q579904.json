@@ -1,0 +1,35 @@
+{
+  "publicId": "3144718e",
+  "wikipediaSlug": "Evan_Yo",
+  "wikipediaId": "Q579904",
+  "name": "Evan Yo",
+  "fullName": "Evan Yo",
+  "profileSummary": "Tsai Min-you, better known as Evan Yo, is a Taiwanese Mandopop singer-songwriter. He was signed by his management company at 14 and has been signed by Sony Music Taiwan since 2006. He has released four albums and was nominated for Best New Artist in 2007 at the 18th Golden Melody Awards, Taiwan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Evan_Yo_2017.jpg/330px-Evan_Yo_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evan_Yo",
+  "dateOfBirth": "1986-11-12",
+  "birthDateParsed": "1986-11-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "songwriter"
+  ],
+  "qid": "Q579904",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:24.999Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "4d23cb2f",
+  "wikipediaSlug": "Andrea_Molina",
+  "wikipediaId": "Q5675205",
+  "name": "Andrea Molina",
+  "fullName": "Andrea Molina",
+  "profileSummary": "Andrea Molina Oliva is a Chilean actress, businesswoman, and politician. Early in her acting career, she gained popularity for her starring role in Las historias de Sussi, a TV series adapted from the film Sussi. She later appeared on the service program Hola Andrea and Mujer, rompe el silencio, a program that dealt with cases of gender violence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Andrea_Molina_Oliva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Molina",
+  "dateOfBirth": "1970-03-28",
+  "birthDateParsed": "1970-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "politician",
+    "businessperson",
+    "television presenter"
+  ],
+  "qid": "Q5675205",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:38.383Z"
+}

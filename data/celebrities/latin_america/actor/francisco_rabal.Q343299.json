@@ -1,0 +1,38 @@
+{
+  "publicId": "b34f2bc6",
+  "wikipediaSlug": "Francisco_Rabal",
+  "wikipediaId": "Q343299",
+  "name": "Francisco Rabal",
+  "fullName": "Francisco Rabal",
+  "profileSummary": "Francisco Rabal Valera, popularly known as Paco Rabal, was a Spanish actor. His career spanned more than 200 film and television roles, between 1942 and 2001. He received numerous accolades both in Spain and abroad, including the Cannes Film Festival's Best Actor Award and the Goya Award for Best Actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Francisco_Rabal_in_El_hombre_de_la_isla_%281960%29.jpg/330px-Francisco_Rabal_in_El_hombre_de_la_isla_%281960%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Rabal",
+  "dateOfBirth": "1926-03-08",
+  "birthDateParsed": "1926-03-08",
+  "dateOfDeath": "2001-08-29",
+  "deathDateParsed": "2001-08-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "37.404166666",
+  "birthCoordinatesLng": "-1.581944444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "film director",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q343299",
+  "birthPlace": "Águilas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:24.486Z"
+}

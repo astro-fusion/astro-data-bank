@@ -1,0 +1,33 @@
+{
+  "publicId": "3f5f9f9b",
+  "wikipediaSlug": "Iván_Molina",
+  "wikipediaId": "Q1281826",
+  "name": "Iván Molina",
+  "fullName": "Iván Molina",
+  "profileSummary": "Iván Molina is a former professional Colombian tennis player.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Iv%C3%A1n_Molina",
+  "dateOfBirth": "1946-06-16",
+  "birthDateParsed": "1946-06-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.553333333",
+  "birthCoordinatesLng": "-74.787222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q1281826",
+  "birthPlace": "Maceo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:15.348Z"
+}

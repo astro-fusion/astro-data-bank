@@ -1,0 +1,35 @@
+{
+  "publicId": "4369bc0b",
+  "wikipediaSlug": "Ernst_Lehner",
+  "wikipediaId": "Q282401",
+  "name": "Ernst Lehner",
+  "fullName": "Ernst Lehner",
+  "profileSummary": "Ernst Lehner was a German footballer. He was born in Augsburg and died in Aschaffenburg.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernst_Lehner",
+  "dateOfBirth": "1912-11-07",
+  "birthDateParsed": "1912-11-07",
+  "dateOfDeath": "1986-01-10",
+  "deathDateParsed": "1986-01-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.368888888",
+  "birthCoordinatesLng": "10.897777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q282401",
+  "birthPlace": "Augsburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:31.999Z"
+}

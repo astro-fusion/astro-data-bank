@@ -1,0 +1,33 @@
+{
+  "publicId": "647ec4da",
+  "wikipediaSlug": "Alexander_Radszun",
+  "wikipediaId": "Q2642888",
+  "name": "Alexander Radszun",
+  "fullName": "Alexander Radszun",
+  "profileSummary": "Alexander Radszun is a German actor. He appeared in more than ninety films since 1975.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Radszun",
+  "dateOfBirth": "1952-05-06",
+  "birthDateParsed": "1952-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q2642888",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:54.398Z"
+}

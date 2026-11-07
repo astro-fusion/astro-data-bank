@@ -1,0 +1,34 @@
+{
+  "publicId": "188c2bf9",
+  "wikipediaSlug": "Vyacheslav_Dayev",
+  "wikipediaId": "Q2618148",
+  "name": "Vyacheslav Dayev",
+  "fullName": "Vyacheslav Dayev",
+  "profileSummary": "Vyacheslav Yevgenyevich Dayev is a Russian association football coach and a former player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vyacheslav_Dayev_2008.JPG/330px-Vyacheslav_Dayev_2008.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vyacheslav_Dayev",
+  "dateOfBirth": "1972-09-06",
+  "birthDateParsed": "1972-09-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "54.2",
+  "birthCoordinatesLng": "37.616666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q2618148",
+  "birthPlace": "Tula",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:37:02.748Z"
+}

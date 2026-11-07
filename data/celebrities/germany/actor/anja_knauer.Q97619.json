@@ -1,0 +1,34 @@
+{
+  "publicId": "98a00e07",
+  "wikipediaSlug": "Anja_Knauer",
+  "wikipediaId": "Q97619",
+  "name": "Anja Knauer",
+  "fullName": "Anja Knauer",
+  "profileSummary": "Anja Knauer is a German actress who has played the leading female role in some German films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/MJK_12173_Anja_Knauer_%28Berlinale_2018%29.jpg/330px-MJK_12173_Anja_Knauer_%28Berlinale_2018%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anja_Knauer",
+  "dateOfBirth": "1979-03-18",
+  "birthDateParsed": "1979-03-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q97619",
+  "birthPlace": "Hamburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:30.887Z"
+}

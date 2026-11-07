@@ -1,0 +1,34 @@
+{
+  "publicId": "115cf3b8",
+  "wikipediaSlug": "Dida_(footballer,_born_1973)",
+  "wikipediaId": "Q188544",
+  "name": "Dida (footballer, born 1973)",
+  "fullName": "Dida (footballer, born 1973)",
+  "profileSummary": "Nélson de Jesus Silva, better known simply as Dida, is a Brazilian former football goalkeeper and goalkeeping coach. He started his senior club career in Brazil in the early 1990s with Vitória before moving to Cruzeiro and Corinthians. He is perhaps best remembered for his ten-year stint with AC Milan from 2000 to 2010, where he established himself as one of the world's best goalkeepers and won multiple trophies and individual awards with the club, including one Serie A title (Scudetto) and twice the UEFA Champions League, with the first of those victories coming after he saved three penalties in the 2003 final against Serie A rivals Juventus, and is one of four Milan keepers with 300 career appearances. After a two-year absence from playing, he returned to Brazil in 2012, appearing for three teams—Portuguesa, Grêmio and Internacional—in as many seasons. He returned to Milan to serve as their goalkeeping coach from 2020 to 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dida-wikipedia_%28cropped_2%29.png/330px-Dida-wikipedia_%28cropped_2%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dida_(footballer%2C_born_1973)",
+  "dateOfBirth": "1973-10-07",
+  "birthDateParsed": "1973-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.05",
+  "birthCoordinatesLng": "-38.766944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "beach soccer player"
+  ],
+  "qid": "Q188544",
+  "birthPlace": "Irará",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:00.876Z"
+}

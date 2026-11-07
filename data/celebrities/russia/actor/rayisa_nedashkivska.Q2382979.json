@@ -1,0 +1,35 @@
+{
+  "publicId": "11862c33",
+  "wikipediaSlug": "Rayisa_Nedashkivska",
+  "wikipediaId": "Q2382979",
+  "name": "Rayisa Nedashkivska",
+  "fullName": "Rayisa Nedashkivska",
+  "profileSummary": "Rayisa Nedashkivska is a Ukrainian and Soviet-era theater and cinema actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Nedashkivska_R-2014.jpg/330px-Nedashkivska_R-2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rayisa_Nedashkivska",
+  "dateOfBirth": "1943-02-17",
+  "birthDateParsed": "1943-02-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.886111111",
+  "birthCoordinatesLng": "29.401111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "film actor"
+  ],
+  "qid": "Q2382979",
+  "birthPlace": "Stari Vorobi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:02.564Z"
+}

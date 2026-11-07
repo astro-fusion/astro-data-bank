@@ -1,0 +1,37 @@
+{
+  "publicId": "9bb35b73",
+  "wikipediaSlug": "Arturo_Frondizi",
+  "wikipediaId": "Q346658",
+  "name": "Arturo Frondizi",
+  "fullName": "Arturo Frondizi",
+  "profileSummary": "Arturo Frondizi Ércoli was an Argentine lawyer, journalist, teacher, statesman, and politician. He was elected president of Argentina and governed from May 1, 1958, to March 29, 1962, when he was overthrown in a military coup. His government was characterized by its strong developmentalist policies, that was less promoted by the State and more oriented to the development of heavy industry as a consequence of the entry of multinational companies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Arturo_Frondizi.jpg/330px-Arturo_Frondizi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arturo_Frondizi",
+  "dateOfBirth": "1908-10-28",
+  "birthDateParsed": "1908-10-28",
+  "dateOfDeath": "1995-04-18",
+  "deathDateParsed": "1995-04-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "-29.716666666",
+  "birthCoordinatesLng": "-57.083333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "university teacher",
+    "lawyer",
+    "jurist",
+    "politician"
+  ],
+  "qid": "Q346658",
+  "birthPlace": "Paso de los Libres",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:25.212Z"
+}

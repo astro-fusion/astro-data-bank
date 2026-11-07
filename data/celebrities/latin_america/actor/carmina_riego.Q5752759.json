@@ -1,0 +1,33 @@
+{
+  "publicId": "823c9864",
+  "wikipediaSlug": "Carmina_Riego",
+  "wikipediaId": "Q5752759",
+  "name": "Carmina Riego",
+  "fullName": "Carmina Riego",
+  "profileSummary": "Carmina Riego Ramírez is a Chilean actress and cultural manager.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmina_Riego",
+  "dateOfBirth": "1964-03-24",
+  "birthDateParsed": "1964-03-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5752759",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:20.679Z"
+}

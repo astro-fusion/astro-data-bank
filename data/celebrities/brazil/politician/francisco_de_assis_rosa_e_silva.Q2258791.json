@@ -1,0 +1,33 @@
+{
+  "publicId": "f0a06a58",
+  "wikipediaSlug": "Francisco_de_Assis_Rosa_e_Silva",
+  "wikipediaId": "Q2258791",
+  "name": "Francisco de Assis Rosa e Silva",
+  "fullName": "Francisco de Assis Rosa e Silva",
+  "profileSummary": "Francisco de Assis Rosa e Silva was a Brazilian politician who was the vice president of Brazil from 15 November 1898 to 15 November 1902 under Manuel Ferraz de Campos Sales. As Vice President, he also served as the President of the Senate. He served as the President of the Chamber of Deputies from 1894 to 1896.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Francisco_de_Assis_Rosa_e_Silva.jpg/330px-Francisco_de_Assis_Rosa_e_Silva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_de_Assis_Rosa_e_Silva",
+  "dateOfBirth": "1856-10-04",
+  "birthDateParsed": "1856-10-04",
+  "dateOfDeath": "1929-07-01",
+  "deathDateParsed": "1929-07-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "-8.053888888",
+  "birthCoordinatesLng": "-34.880833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q2258791",
+  "birthPlace": "Recife",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:58.364Z"
+}

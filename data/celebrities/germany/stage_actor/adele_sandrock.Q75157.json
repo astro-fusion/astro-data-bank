@@ -1,0 +1,35 @@
+{
+  "publicId": "fb9e4287",
+  "wikipediaSlug": "Adele_Sandrock",
+  "wikipediaId": "Q75157",
+  "name": "Adele Sandrock",
+  "fullName": "Adele Sandrock",
+  "profileSummary": "Adele Sandrock was a German actress. After a successful theatrical career, she became one of the first German movie stars.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adele_Sandrock_%28Sport_und_Salon_1900%29.png/330px-Adele_Sandrock_%28Sport_und_Salon_1900%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adele_Sandrock",
+  "dateOfBirth": "1863-08-19",
+  "birthDateParsed": "1863-08-19",
+  "dateOfDeath": "1937-08-30",
+  "deathDateParsed": "1937-08-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.92",
+  "birthCoordinatesLng": "4.48",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q75157",
+  "birthPlace": "Rotterdam",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:40.088Z"
+}

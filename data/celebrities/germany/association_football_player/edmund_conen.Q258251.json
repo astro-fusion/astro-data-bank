@@ -1,0 +1,34 @@
+{
+  "publicId": "44a9cd55",
+  "wikipediaSlug": "Edmund_Conen",
+  "wikipediaId": "Q258251",
+  "name": "Edmund Conen",
+  "fullName": "Edmund Conen",
+  "profileSummary": "Edmund Conen was a German footballer who played as a striker.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edmund_Conen",
+  "dateOfBirth": "1914-11-10",
+  "birthDateParsed": "1914-11-10",
+  "dateOfDeath": "1990-03-05",
+  "deathDateParsed": "1990-03-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.982222222",
+  "birthCoordinatesLng": "7.005277777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q258251",
+  "birthPlace": "Ürzig",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:42.204Z"
+}

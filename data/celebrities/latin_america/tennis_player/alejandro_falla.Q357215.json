@@ -1,0 +1,33 @@
+{
+  "publicId": "5b950798",
+  "wikipediaSlug": "Alejandro_Falla",
+  "wikipediaId": "Q357215",
+  "name": "Alejandro Falla",
+  "fullName": "Alejandro Falla",
+  "profileSummary": "Alejandro Falla Ramírez is a Colombian former professional tennis player. The left-hander turned professional in 2000 and achieved a career-high singles ranking of world No. 48 in July 2012. At the 2006 Wimbledon tournament, Falla upset ninth seed Nikolay Davydenko and at the 2007 Sony Ericsson Open he beat ninth seed Tommy Haas in straight sets. He reached the semifinals of the Grand Prix de Tennis de Lyon in 2007, beating players such as the fifth seed Ivan Ljubičić.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Falla_WMQ16_%285%29_%2828133804431%29.jpg/330px-Falla_WMQ16_%285%29_%2828133804431%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Falla",
+  "dateOfBirth": "1983-11-14",
+  "birthDateParsed": "1983-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.44",
+  "birthCoordinatesLng": "-76.519722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tennis player"
+  ],
+  "qid": "Q357215",
+  "birthPlace": "Cali",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:54.215Z"
+}

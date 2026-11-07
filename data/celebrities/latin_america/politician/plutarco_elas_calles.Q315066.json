@@ -1,0 +1,37 @@
+{
+  "publicId": "7137219b",
+  "wikipediaSlug": "Plutarco_Elías_Calles",
+  "wikipediaId": "Q315066",
+  "name": "Plutarco Elías Calles",
+  "fullName": "Plutarco Elías Calles",
+  "profileSummary": "Plutarco Elías Calles was a Mexican politician and military officer who served as the 47th president of Mexico from 1924 to 1928. After the assassination of Álvaro Obregón, Calles founded the Institutional Revolutionary Party and held unofficial power as Mexico's de facto leader from 1929 to 1934, a period known as the Maximato. Previously, he served as a general in the Constitutional Army, as Governor of Sonora, Secretary of War, and Secretary of the Interior. During the Maximato, he served as Secretariat of Public Education, Secretary of War again, and Secretary of the Economy. During his presidency, he implemented many left-wing populist and secularist reforms, opposition to which sparked the Cristero War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/General_PE_Calles_%28cropped%29.jpg/330px-General_PE_Calles_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Plutarco_El%C3%ADas_Calles",
+  "dateOfBirth": "1877-09-25",
+  "birthDateParsed": "1877-09-25",
+  "dateOfDeath": "1945-10-19",
+  "deathDateParsed": "1945-10-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "27.919166666",
+  "birthCoordinatesLng": "-110.8975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "military personnel",
+    "president",
+    "Secretary of Government"
+  ],
+  "qid": "Q315066",
+  "birthPlace": "Heroica Guaymas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:15.674Z"
+}

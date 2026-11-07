@@ -1,0 +1,33 @@
+{
+  "publicId": "7ed5e04e",
+  "wikipediaSlug": "Jörg_Heinrich",
+  "wikipediaId": "Q390159",
+  "name": "Jörg Heinrich",
+  "fullName": "Jörg Heinrich",
+  "profileSummary": "Jörg Heinrich is a German professional football manager and former player. A highly versatile player, he was employed in a variety of positions in defense and midfield. He is the assistant manager of Borussia Dortmund.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/J%C3%B6rg_Heinrich_-_2009_%28cropped%29.jpg/330px-J%C3%B6rg_Heinrich_-_2009_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B6rg_Heinrich",
+  "dateOfBirth": "1969-12-06",
+  "birthDateParsed": "1969-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.5594",
+  "birthCoordinatesLng": "12.3028",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q390159",
+  "birthPlace": "Böhne (Rathenow)",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:19.932Z"
+}

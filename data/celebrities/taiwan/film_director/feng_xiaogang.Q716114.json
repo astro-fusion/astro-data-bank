@@ -1,0 +1,39 @@
+{
+  "publicId": "ea3f00af",
+  "wikipediaSlug": "Feng_Xiaogang",
+  "wikipediaId": "Q716114",
+  "name": "Feng Xiaogang",
+  "fullName": "Feng Xiaogang",
+  "profileSummary": "Feng Xiaogang is a Chinese filmmaker and actor. After making his directorial debut with the romance film Lost My Love (1994), Feng had three film projects in succession disrupted by Chinese censorship, prompting him to pivot toward comedy. He rose to fame through his collaboration with actor Ge You and played a pivotal role in shaping the Chinese New Year film genre with popular comedies such as Dream Factory (1997), Be There or Be Square (1998), Sorry Baby (1999), Big Shot's Funeral (2001), and the film series If You Are the One (2008–2023). From the 2000s onward, Feng diversified by directing dramas and epics such as Cell Phone (2003), A World Without Thieves (2004), The Banquet (2006), Assembly (2007), Aftershock (2010), Back to 1942 (2012), I Am Not Madame Bovary (2016), for which he won the Golden Horse Award for Best Director, Youth (2017), and We Girls (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%E9%A6%AE%E5%B0%8F%E5%89%9B.jpg/330px-%E9%A6%AE%E5%B0%8F%E5%89%9B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Feng_Xiaogang",
+  "dateOfBirth": "1958-03-18",
+  "birthDateParsed": "1958-03-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "screenwriter",
+    "film actor",
+    "film producer",
+    "television director",
+    "actor",
+    "director"
+  ],
+  "qid": "Q716114",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:17.693Z"
+}

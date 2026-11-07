@@ -1,0 +1,34 @@
+{
+  "publicId": "8c10e7c2",
+  "wikipediaSlug": "Catalina_Denis",
+  "wikipediaId": "Q461656",
+  "name": "Catalina Denis",
+  "fullName": "Catalina Denis",
+  "profileSummary": "Catalina Zarate Denis is a Colombian actress and model based in France. Denis made her film debut in 2007 with a brief appearance in the French comedy Taxi 4. She played a striptease dancer in the 2010 film Le Mac. Most recently, she plays the butt-kicking girlfriend of David Belle's character in Brick Mansions, the last film Paul Walker completed before his death in 2013. She was also part of the main cast of ABC's new show The Whispers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catalina_Denis.jpg/330px-Catalina_Denis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catalina_Denis",
+  "dateOfBirth": "1995-08-07",
+  "birthDateParsed": "1995-08-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4",
+  "birthCoordinatesLng": "-73.25",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q461656",
+  "birthPlace": "Colombia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:36.866Z"
+}

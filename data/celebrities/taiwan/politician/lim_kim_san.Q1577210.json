@@ -1,0 +1,33 @@
+{
+  "publicId": "fd93c6e2",
+  "wikipediaSlug": "Lim_Kim_San",
+  "wikipediaId": "Q1577210",
+  "name": "Lim Kim San",
+  "fullName": "Lim Kim San",
+  "profileSummary": "Lim Kim San was a Singaporean businessman, civil servant, and politician who served as a Cabinet minister with a variety of portfolios between 1965 and 1981. Prior to his tenure as a member of parliament, Lim was appointed chairman of Singapore's newly created Housing & Development Board (HDB), and he would go on to be recognized for the HDB's success in its resolution of Singapore's housing shortage.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lim_Kim_San_in_the_1940s.jpg/330px-Lim_Kim_San_in_the_1940s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lim_Kim_San",
+  "dateOfBirth": "1916-11-30",
+  "birthDateParsed": "1916-11-30",
+  "dateOfDeath": "2006-07-20",
+  "deathDateParsed": "2006-07-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q1577210",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:18.340Z"
+}

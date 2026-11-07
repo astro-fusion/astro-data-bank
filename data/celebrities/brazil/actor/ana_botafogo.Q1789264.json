@@ -1,0 +1,34 @@
+{
+  "publicId": "4e8dffdc",
+  "wikipediaSlug": "Ana_Botafogo",
+  "wikipediaId": "Q1789264",
+  "name": "Ana Botafogo",
+  "fullName": "Ana Botafogo",
+  "profileSummary": "Ana Botafogo is a Brazilian ballet dancer and actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AnaBotafogo_cropped.jpg/330px-AnaBotafogo_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Botafogo",
+  "dateOfBirth": "1957-07-09",
+  "birthDateParsed": "1957-07-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "ballet dancer"
+  ],
+  "qid": "Q1789264",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:30.224Z"
+}

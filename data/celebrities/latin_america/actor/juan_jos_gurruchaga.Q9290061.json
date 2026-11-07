@@ -1,0 +1,33 @@
+{
+  "publicId": "9b13e6b7",
+  "wikipediaSlug": "Juan_José_Gurruchaga",
+  "wikipediaId": "Q9290061",
+  "name": "Juan José Gurruchaga",
+  "fullName": "Juan José Gurruchaga",
+  "profileSummary": "Juan José Gurruchaga Vergara is a Chilean television actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Juan_Jos%C3%A9_Gurruchaga.png/330px-Juan_Jos%C3%A9_Gurruchaga.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Gurruchaga",
+  "dateOfBirth": "1977-11-29",
+  "birthDateParsed": "1977-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q9290061",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:46.897Z"
+}

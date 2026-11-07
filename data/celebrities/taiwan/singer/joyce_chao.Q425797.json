@@ -1,0 +1,35 @@
+{
+  "publicId": "d129aa32",
+  "wikipediaSlug": "Joyce_Chao",
+  "wikipediaId": "Q425797",
+  "name": "Joyce Chao",
+  "fullName": "Joyce Chao",
+  "profileSummary": "Joyce Chao or Chao Hung-chiao is a Taiwanese actress, singer and television host. She was a member of Taiwanese female group 7 Flowers.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joyce_Chao",
+  "dateOfBirth": "1979-11-15",
+  "birthDateParsed": "1979-11-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q425797",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:24.061Z"
+}

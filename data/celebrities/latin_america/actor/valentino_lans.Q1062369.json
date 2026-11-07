@@ -1,0 +1,32 @@
+{
+  "publicId": "2c07996f",
+  "wikipediaSlug": "Valentino_Lanús",
+  "wikipediaId": "Q1062369",
+  "name": "Valentino Lanús",
+  "fullName": "Valentino Lanús",
+  "profileSummary": "Luis Alberto López Ayala is a Mexican actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Valentino_Lanus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valentino_Lan%C3%BAs",
+  "dateOfBirth": "1975-05-03",
+  "birthDateParsed": "1975-05-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "composer"
+  ],
+  "qid": "Q1062369",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:52.149Z"
+}

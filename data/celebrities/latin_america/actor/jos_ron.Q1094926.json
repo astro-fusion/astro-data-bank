@@ -1,0 +1,31 @@
+{
+  "publicId": "265444c5",
+  "wikipediaSlug": "José_Ron",
+  "wikipediaId": "Q1094926",
+  "name": "José Ron",
+  "fullName": "José Ron",
+  "profileSummary": "Édgar José Ron Vázquez, is a Mexican television actor best known for his roles in telenovelas such as Juro que te amo, Los exitosos Pérez, La que no podía amar, La mujer del Vendaval and Muchacha italiana viene a casarse.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jos%C3%A9_Ron_%C9%9C.jpg/330px-Jos%C3%A9_Ron_%C9%9C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ron",
+  "dateOfBirth": "1981-08-06",
+  "birthDateParsed": "1981-08-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.676388888",
+  "birthCoordinatesLng": "-103.342222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q1094926",
+  "birthPlace": "Guadalajara",
+  "fetchedAt": "2026-08-16T13:16:31.348Z"
+}

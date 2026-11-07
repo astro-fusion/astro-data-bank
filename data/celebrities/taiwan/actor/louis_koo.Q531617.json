@@ -1,0 +1,37 @@
+{
+  "publicId": "c6c568f4",
+  "wikipediaSlug": "Louis_Koo",
+  "wikipediaId": "Q531617",
+  "name": "Louis Koo",
+  "fullName": "Louis Koo",
+  "profileSummary": "Louis Koo Tin-lok is a Hong Kong actor and film producer. He gained popularity with his roles in television series The Condor Heroes 95 (1995), Detective Investigation Files IV (1999), and A Step into the Past (2001).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Louis_Koo_2022.jpg/330px-Louis_Koo_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Koo",
+  "dateOfBirth": "1970-10-21",
+  "birthDateParsed": "1970-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film producer",
+    "philanthropist"
+  ],
+  "qid": "Q531617",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:38.800Z"
+}

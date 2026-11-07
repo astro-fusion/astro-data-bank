@@ -1,0 +1,33 @@
+{
+  "publicId": "50fe3de3",
+  "wikipediaSlug": "Soslan_Dzhanayev",
+  "wikipediaId": "Q2066204",
+  "name": "Soslan Dzhanayev",
+  "fullName": "Soslan Dzhanayev",
+  "profileSummary": "Soslan Totrazovich Dzhanaev is a Russian former professional footballer who played as a goalkeeper.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Soslan_Dzhanayev_2019.jpg/330px-Soslan_Dzhanayev_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Soslan_Dzhanayev",
+  "dateOfBirth": "1987-03-13",
+  "birthDateParsed": "1987-03-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.04",
+  "birthCoordinatesLng": "44.6775",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2066204",
+  "birthPlace": "Vladikavkaz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:58.621Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "1468feb4",
+  "wikipediaSlug": "Jânio_Quadros",
+  "wikipediaId": "Q310123",
+  "name": "Jânio Quadros",
+  "fullName": "Jânio Quadros",
+  "profileSummary": "Jânio da Silva Quadros was a Brazilian lawyer and politician who served as the 22nd president of Brazil from 31 January to 25 August 1961, when he resigned from office. He also served as the 24th and 36th mayor of São Paulo, and the 18th governor of the state of São Paulo. Quadros was known for his populist style of government and eccentric behavior.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/J%C3%A2nio_Quadros%2C_presidente_do_Brasil_em_1961_%28foto_oficial%29.jpg/330px-J%C3%A2nio_Quadros%2C_presidente_do_Brasil_em_1961_%28foto_oficial%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%A2nio_Quadros",
+  "dateOfBirth": "1917-01-25",
+  "birthDateParsed": "1917-01-25",
+  "dateOfDeath": "1992-02-16",
+  "deathDateParsed": "1992-02-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.468611111",
+  "birthCoordinatesLng": "-54.622222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q310123",
+  "birthPlace": "Campo Grande",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:46.206Z"
+}

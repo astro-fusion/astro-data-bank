@@ -1,0 +1,37 @@
+{
+  "publicId": "57e12a78",
+  "wikipediaSlug": "Yevhen_Nyshchuk",
+  "wikipediaId": "Q12133803",
+  "name": "Yevhen Nyshchuk",
+  "fullName": "Yevhen Nyshchuk",
+  "profileSummary": "Yevhen Mykolayovych Nyshchuk is a Ukrainian theater and cinema actor, Merited Artist of Ukraine and a former Minister of Culture of Ukraine. He held the post from February to December 2014, and again from April 2016 to August 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/GOL_9648_pp_04.jpg/330px-GOL_9648_pp_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yevhen_Nyshchuk",
+  "dateOfBirth": "1972-12-29",
+  "birthDateParsed": "1972-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.922777777",
+  "birthCoordinatesLng": "24.710555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "politician",
+    "stage actor",
+    "statesperson",
+    "film actor"
+  ],
+  "qid": "Q12133803",
+  "birthPlace": "Ivano-Frankivsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:40.869Z"
+}

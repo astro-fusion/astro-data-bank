@@ -1,0 +1,35 @@
+{
+  "publicId": "a2e9f58c",
+  "wikipediaSlug": "Chan_Sek_Keong",
+  "wikipediaId": "Q5070361",
+  "name": "Chan Sek Keong",
+  "fullName": "Chan Sek Keong",
+  "profileSummary": "Chan Sek Keong is a Malayan-born Singaporean jurist who served as chief justice of Singapore between 2006 and 2012 when he was appointed by President S. R. Nathan. He is the first Chief Justice to have previously served as the former & third attorney-general of Singapore between 1992 and 2006.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chan_Sek_Keong_2012_%28cropped%29.jpg/330px-Chan_Sek_Keong_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chan_Sek_Keong",
+  "dateOfBirth": "1937-11-05",
+  "birthDateParsed": "1937-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.6",
+  "birthCoordinatesLng": "101.07",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "lawyer",
+    "jurist"
+  ],
+  "qid": "Q5070361",
+  "birthPlace": "Ipoh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:46.834Z"
+}

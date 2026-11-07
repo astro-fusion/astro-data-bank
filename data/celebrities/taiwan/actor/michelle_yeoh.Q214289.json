@@ -1,0 +1,37 @@
+{
+  "publicId": "221a03b2",
+  "wikipediaSlug": "Michelle_Yeoh",
+  "wikipediaId": "Q214289",
+  "name": "Michelle Yeoh",
+  "fullName": "Michelle Yeoh",
+  "profileSummary": "Michelle Yeoh Choo Kheng Todt is a Malaysian actress. In a career spanning over four decades, she has acted in film and television productions covering a wide range of genres and received various accolades, including an Academy Award and a Golden Globe Award, along with nominations for two British Academy Film Awards. Credited as Michelle Khan in her early films, she rose to fame in the 1980s and 1990s after starring in Hong Kong action and martial arts films where she performed her own stunts. These roles included Yes, Madam (1985), Magnificent Warriors (1987), Police Story 3: Super Cop (1992), The Heroic Trio and Tai Chi Master, and Wing Chun (1994).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Michelle_Yeoh-2268.jpg/330px-Michelle_Yeoh-2268.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michelle_Yeoh",
+  "dateOfBirth": "1962-08-06",
+  "birthDateParsed": "1962-08-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.6",
+  "birthCoordinatesLng": "101.07",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "beauty pageant contestant",
+    "film actor",
+    "film producer"
+  ],
+  "qid": "Q214289",
+  "birthPlace": "Ipoh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:43.259Z"
+}

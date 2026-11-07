@@ -1,0 +1,34 @@
+{
+  "publicId": "3298fde9",
+  "wikipediaSlug": "Jaime_Blanch",
+  "wikipediaId": "Q3160561",
+  "name": "Jaime Blanch",
+  "fullName": "Jaime Blanch",
+  "profileSummary": "Jaime Blanch Montijano is a Spanish film and television actor. He was the nephew of the theater actress Montserrat Blanch.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/JaimeBlanch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaime_Blanch",
+  "dateOfBirth": "1940-09-09",
+  "birthDateParsed": "1940-09-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q3160561",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:25.737Z"
+}

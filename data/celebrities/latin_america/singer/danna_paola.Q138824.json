@@ -1,0 +1,36 @@
+{
+  "publicId": "cd59bc44",
+  "wikipediaSlug": "Danna_Paola",
+  "wikipediaId": "Q138824",
+  "name": "Danna Paola",
+  "fullName": "Danna Paola",
+  "profileSummary": "Danna Paola Rivera Munguía, known mononymously as Danna and formerly as Danna Paola, is a Mexican singer and actress. She began her career as a child actress and singer, starring in numerous television projects. She achieved early recognition as the protagonist of the children's telenovela Amy, la niña de la mochila azul and later rose to greater fame for her starring role in the 2009 teen telenovela Atrévete a soñar. Her prominence grew with her Latin American Spanish dubbing of Rapunzel in Disney's 2010 animated film Tangled, for which she recorded the Spanish-language soundtrack. She gained international recognition for portraying Lucrecia \"Lu\" Montesinos in the Netflix Spanish teen drama series Élite.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Danna_Paola_en_Gala_de_los_Latin_Grammy%2C_37_%28cropped%29.jpg/330px-Danna_Paola_en_Gala_de_los_Latin_Grammy%2C_37_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danna_Paola",
+  "dateOfBirth": "1995-06-23",
+  "birthDateParsed": "1995-06-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "20.720833333",
+  "birthCoordinatesLng": "-103.391111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "songwriter",
+    "model"
+  ],
+  "qid": "Q138824",
+  "birthPlace": "Zapopan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:47:52.309Z"
+}

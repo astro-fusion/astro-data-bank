@@ -1,0 +1,43 @@
+{
+  "publicId": "b0fc6ca6",
+  "wikipediaSlug": "Konrad_Adenauer",
+  "wikipediaId": "Q2492",
+  "name": "Konrad Adenauer",
+  "fullName": "Konrad Adenauer",
+  "profileSummary": "Konrad Hermann Joseph Adenauer was a German statesman and politician who served as the first chancellor of West Germany from 1949 to 1963. From 1946 to 1966, he was the first leader of the Christian Democratic Union (CDU), a newly founded Christian democratic party, which became the dominant force in the country under his leadership. Adenauer is considered one of the founding fathers of the European Union.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bundesarchiv_B_145_Bild-F078072-0004%2C_Konrad_Adenauer.jpg/330px-Bundesarchiv_B_145_Bild-F078072-0004%2C_Konrad_Adenauer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Konrad_Adenauer",
+  "dateOfBirth": "1876-01-05",
+  "birthDateParsed": "1876-01-05",
+  "dateOfDeath": "1967-04-19",
+  "deathDateParsed": "1967-04-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.942222222",
+  "birthCoordinatesLng": "6.957777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "judge",
+    "assessor",
+    "resistance fighter",
+    "autobiographer",
+    "Chancellor of Germany",
+    "art collector",
+    "politician",
+    "primator",
+    "jurist",
+    "head of government"
+  ],
+  "qid": "Q2492",
+  "birthPlace": "Cologne",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:27.983Z"
+}

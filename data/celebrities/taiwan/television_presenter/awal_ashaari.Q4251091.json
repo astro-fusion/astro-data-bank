@@ -1,0 +1,35 @@
+{
+  "publicId": "17c4b554",
+  "wikipediaSlug": "Awal_Ashaari",
+  "wikipediaId": "Q4251091",
+  "name": "Awal Ashaari",
+  "fullName": "Awal Ashaari",
+  "profileSummary": "Ahmad Awaluddin \"Awal\" bin Ashaari is a Malaysian actor, model and TV host.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Awal_Ashaari.jpg/330px-Awal_Ashaari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Awal_Ashaari",
+  "dateOfBirth": "1981-08-06",
+  "birthDateParsed": "1981-08-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.164393151",
+  "birthCoordinatesLng": "101.708095906",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "model",
+    "actor"
+  ],
+  "qid": "Q4251091",
+  "birthPlace": "Kampung Baru",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:27.182Z"
+}

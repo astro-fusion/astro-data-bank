@@ -1,0 +1,37 @@
+{
+  "publicId": "d6a1210b",
+  "wikipediaSlug": "Kai_Ko",
+  "wikipediaId": "Q704905",
+  "name": "Kai Ko",
+  "fullName": "Kai Ko",
+  "profileSummary": "Kai Ko Chen-tung is a Taiwanese actor, singer and film director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kai_Ko_%E6%9F%AF%E9%9C%87%E6%9D%B1_-_ELLE_Taiwan_Digital_Cover_Story_%22ELLE_GREEN%22_July_Issue_2023.jpg/330px-Kai_Ko_%E6%9F%AF%E9%9C%87%E6%9D%B1_-_ELLE_Taiwan_Digital_Cover_Story_%22ELLE_GREEN%22_July_Issue_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kai_Ko",
+  "dateOfBirth": "1991-06-18",
+  "birthDateParsed": "1991-06-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.5675",
+  "birthCoordinatesLng": "119.5775",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor",
+    "television actor",
+    "film director"
+  ],
+  "qid": "Q704905",
+  "birthPlace": "Penghu Islands",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:40.643Z"
+}

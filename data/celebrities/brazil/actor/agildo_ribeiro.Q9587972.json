@@ -1,0 +1,33 @@
+{
+  "publicId": "7e495398",
+  "wikipediaSlug": "Agildo_Ribeiro",
+  "wikipediaId": "Q9587972",
+  "name": "Agildo Ribeiro",
+  "fullName": "Agildo Ribeiro",
+  "profileSummary": "Agildo Ribeiro was a Brazilian actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Agildo_Ribeiro_%281956%29.tif/lossy-page1-330px-Agildo_Ribeiro_%281956%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agildo_Ribeiro",
+  "dateOfBirth": "1932-04-24",
+  "birthDateParsed": "1932-04-24",
+  "dateOfDeath": "2018-04-28",
+  "deathDateParsed": "2018-04-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q9587972",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:31.607Z"
+}

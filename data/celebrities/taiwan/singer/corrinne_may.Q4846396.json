@@ -1,0 +1,33 @@
+{
+  "publicId": "354aa7e7",
+  "wikipediaSlug": "Corrinne_May",
+  "wikipediaId": "Q4846396",
+  "name": "Corrinne May",
+  "fullName": "Corrinne May",
+  "profileSummary": "Corrinne May is a Singaporean musician, singer, and songwriter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Corrinne_May_2014.jpg/330px-Corrinne_May_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Corrinne_May",
+  "dateOfBirth": "1973-01-19",
+  "birthDateParsed": "1973-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q4846396",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:58.523Z"
+}

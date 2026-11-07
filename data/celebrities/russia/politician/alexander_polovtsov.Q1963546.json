@@ -1,0 +1,35 @@
+{
+  "publicId": "1460ad6a",
+  "wikipediaSlug": "Alexander_Polovtsov",
+  "wikipediaId": "Q1963546",
+  "name": "Alexander Polovtsov",
+  "fullName": "Alexander Polovtsov",
+  "profileSummary": "Alexander Alexandrovich Polovtsov, Sr. was a Russian statesman, historian and patron; he was also known as the founder of the Imperial Russian Historical Society, which was founded in 1866 and dissolved in 1917.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Alexandr_Polovtsev.jpg/330px-Alexandr_Polovtsev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Polovtsov",
+  "dateOfBirth": "1832-06-24",
+  "birthDateParsed": "1832-06-24",
+  "dateOfDeath": "1909-10-20",
+  "deathDateParsed": "1909-10-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "58.6653326",
+  "birthCoordinatesLng": "29.8899997",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "historian",
+    "secretary of state"
+  ],
+  "qid": "Q1963546",
+  "birthPlace": "Rapti manor",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:33.418Z"
+}

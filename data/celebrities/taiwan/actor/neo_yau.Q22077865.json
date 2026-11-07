@@ -1,0 +1,33 @@
+{
+  "publicId": "b3560a23",
+  "wikipediaSlug": "Neo_Yau",
+  "wikipediaId": "Q22077865",
+  "name": "Neo Yau",
+  "fullName": "Neo Yau",
+  "profileSummary": "Neo Yau Hawk-Sau is a Hong Kong–based actor. He co-founded a political satire group called \"Mocking Jer,\" which specialised in creative derivative work which satirized local news and government. In 2015, he gained recognition with his performance as the main character Pang Shing-Wa in She Remembers, He Forgets. In 2020, he co-founded the YouTube channel \"Trial & Error\" who produces short drama videos.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Neo_yau_tmt_plaza.jpg/330px-Neo_yau_tmt_plaza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Neo_Yau",
+  "dateOfBirth": "1990-09-24",
+  "birthDateParsed": "1990-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q22077865",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:16.205Z"
+}

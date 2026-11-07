@@ -1,0 +1,35 @@
+{
+  "publicId": "023514f1",
+  "wikipediaSlug": "Oona_Chaplin",
+  "wikipediaId": "Q459348",
+  "name": "Oona Chaplin",
+  "fullName": "Oona Chaplin",
+  "profileSummary": "Oona Castilla Chaplin is an actress. Her roles include Talisa Maegyr in the HBO TV series Game of Thrones, Kitty Trevelyan in the BBC drama The Crimson Field, Zilpha Geary in the series Taboo, and Varang in the Avatar film series.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Oona_Chaplin_at_Avatar_fire_and_ash_premiere_London_2025.jpg/330px-Oona_Chaplin_at_Avatar_fire_and_ash_premiere_London_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oona_Chaplin",
+  "dateOfBirth": "1986-06-04",
+  "birthDateParsed": "1986-06-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q459348",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:45.384Z"
+}

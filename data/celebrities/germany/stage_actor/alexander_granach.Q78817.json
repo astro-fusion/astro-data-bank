@@ -1,0 +1,36 @@
+{
+  "publicId": "222e0620",
+  "wikipediaSlug": "Alexander_Granach",
+  "wikipediaId": "Q78817",
+  "name": "Alexander Granach",
+  "fullName": "Alexander Granach",
+  "profileSummary": "Alexander Granach was a German-Austrian actor in the 1920s and 1930s who emigrated to the United States in 1938.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Alexander_Granach_by_Eberth.jpg/330px-Alexander_Granach_by_Eberth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Granach",
+  "dateOfBirth": "1890-04-18",
+  "birthDateParsed": "1890-04-18",
+  "dateOfDeath": "1945-03-14",
+  "deathDateParsed": "1945-03-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.625555555",
+  "birthCoordinatesLng": "25.378055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "Theaterintendant"
+  ],
+  "qid": "Q78817",
+  "birthPlace": "Verbivtsi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:34.668Z"
+}

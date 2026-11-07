@@ -1,0 +1,34 @@
+{
+  "publicId": "8d9cd3df",
+  "wikipediaSlug": "René_Casados",
+  "wikipediaId": "Q3544554",
+  "name": "René Casados",
+  "fullName": "René Casados",
+  "profileSummary": "René Casados Morales is a Mexican actor best known for his roles in telenovelas.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Casados",
+  "dateOfBirth": "1961-10-21",
+  "birthDateParsed": "1961-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.46",
+  "birthCoordinatesLng": "-97.66",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "political analyst"
+  ],
+  "qid": "Q3544554",
+  "birthPlace": "Tamalín Municipality",
+  "fetchedAt": "2026-08-16T13:17:07.737Z"
+}

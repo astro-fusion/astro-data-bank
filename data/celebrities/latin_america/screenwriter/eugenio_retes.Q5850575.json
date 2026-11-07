@@ -1,0 +1,38 @@
+{
+  "publicId": "c67f04a7",
+  "wikipediaSlug": "Eugenio_Retes",
+  "wikipediaId": "Q5850575",
+  "name": "Eugenio Retes",
+  "fullName": "Eugenio Retes",
+  "profileSummary": "Eugenio Retes Bisetti was an actor and writer of Peruvian-Chilean origin who achieved popularity in Chilean comedy plays in the 1930s and in the 1940s and 1950s in musical comedy films directed by Eugenio de Liguoro and José Bohr.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eugenio_Retes.JPG/330px-Eugenio_Retes.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugenio_Retes",
+  "dateOfBirth": "1895-09-06",
+  "birthDateParsed": "1895-09-06",
+  "dateOfDeath": "1987-03-01",
+  "deathDateParsed": "1987-03-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.06",
+  "birthCoordinatesLng": "-77.0375",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "stage actor",
+    "film actor",
+    "writer",
+    "actor",
+    "author"
+  ],
+  "qid": "Q5850575",
+  "birthPlace": "Lima",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:57.985Z"
+}

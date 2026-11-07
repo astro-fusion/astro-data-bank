@@ -1,0 +1,34 @@
+{
+  "publicId": "ffef2e4a",
+  "wikipediaSlug": "Juan_José_Paso",
+  "wikipediaId": "Q960163",
+  "name": "Juan José Paso",
+  "fullName": "Juan José Paso",
+  "profileSummary": "Juan José Esteban Paso, was an Argentine politician who participated in the events that started the Argentine War of Independence known as May Revolution of 1810.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Juanjpaso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Paso",
+  "dateOfBirth": "1758-01-02",
+  "birthDateParsed": "1758-01-02",
+  "dateOfDeath": "1833-09-10",
+  "deathDateParsed": "1833-09-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q960163",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:30.101Z"
+}

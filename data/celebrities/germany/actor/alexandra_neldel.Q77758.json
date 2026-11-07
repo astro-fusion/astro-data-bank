@@ -1,0 +1,35 @@
+{
+  "publicId": "c9e15028",
+  "wikipediaSlug": "Alexandra_Neldel",
+  "wikipediaId": "Q77758",
+  "name": "Alexandra Neldel",
+  "fullName": "Alexandra Neldel",
+  "profileSummary": "Alexandra Monika Neldel is a German actress from Berlin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/MJK_45927_Alexandra_Neldel_%28Deutscher_Filmpreis_2019%29.jpg/330px-MJK_45927_Alexandra_Neldel_%28Deutscher_Filmpreis_2019%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Neldel",
+  "dateOfBirth": "1976-02-11",
+  "birthDateParsed": "1976-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "voice actor"
+  ],
+  "qid": "Q77758",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:26.178Z"
+}

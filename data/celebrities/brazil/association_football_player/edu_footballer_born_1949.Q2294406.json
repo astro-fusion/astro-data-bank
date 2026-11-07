@@ -1,0 +1,33 @@
+{
+  "publicId": "55806b90",
+  "wikipediaSlug": "Edu_(footballer,_born_1949)",
+  "wikipediaId": "Q2294406",
+  "name": "Edu (footballer, born 1949)",
+  "fullName": "Edu (footballer, born 1949)",
+  "profileSummary": "Jonas Eduardo Américo, called Edu, is a Brazilian former footballer who played as a forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Edu_1970.jpg/330px-Edu_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edu_(footballer%2C_born_1949)",
+  "dateOfBirth": "1949-08-06",
+  "birthDateParsed": "1949-08-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.900913888",
+  "birthCoordinatesLng": "-47.057294444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2294406",
+  "birthPlace": "Campinas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:04.437Z"
+}

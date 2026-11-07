@@ -1,0 +1,33 @@
+{
+  "publicId": "c6730c2f",
+  "wikipediaSlug": "Gilberto_Silva",
+  "wikipediaId": "Q190142",
+  "name": "Gilberto Silva",
+  "fullName": "Gilberto Silva",
+  "profileSummary": "Gilberto Aparecido da Silva is a Brazilian former professional footballer who played as a defensive midfielder, most notably for Brazilian side Atlético Mineiro and for English Premier League club Arsenal, as well as for the Brazil national team. He currently serves as an ambassador for both Arsenal and FIFA.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2021_-_Press_conferences_SM7_0168_%2851649502936%29_%28cropped%29.jpg/330px-2021_-_Press_conferences_SM7_0168_%2851649502936%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilberto_Silva",
+  "dateOfBirth": "1976-10-07",
+  "birthDateParsed": "1976-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.022777777",
+  "birthCoordinatesLng": "-45.543888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q190142",
+  "birthPlace": "Lagoa da Prata",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:27.570Z"
+}

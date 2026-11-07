@@ -1,0 +1,37 @@
+{
+  "publicId": "8d962be4",
+  "wikipediaSlug": "Marina_Mazepa",
+  "wikipediaId": "Q106742892",
+  "name": "Marina Mazepa",
+  "fullName": "Marina Mazepa",
+  "profileSummary": "Marina Mazepa is a Ukrainian actress, model, dancer, and contortionist. She is known for competing in the fourteenth season of America's Got Talent and reaching the quarterfinals. She has also competed in talent show competitions such as So You Think You Can Dance, France's Got Talent, and Ukraine's Everybody Dance! As an actress, she has appeared in films such as Malignant, The Unholy, and Resident Evil: Welcome to Raccoon City.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marina_Mazepa",
+  "dateOfBirth": "1997-05-06",
+  "birthDateParsed": "1997-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.2375",
+  "birthCoordinatesLng": "33.208333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "dancer",
+    "model",
+    "contortionist",
+    "choreographer"
+  ],
+  "qid": "Q106742892",
+  "birthPlace": "Konotop",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:32.957Z"
+}

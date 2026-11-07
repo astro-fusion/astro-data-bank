@@ -1,0 +1,34 @@
+{
+  "publicId": "18720c6b",
+  "wikipediaSlug": "Juan_Pedro_Aguirre",
+  "wikipediaId": "Q2509053",
+  "name": "Juan Pedro Aguirre",
+  "fullName": "Juan Pedro Aguirre",
+  "profileSummary": "Juan Pedro Julián Aguirre y López de Anaya was an Argentine revolutionary and politician who briefly served as the last Supreme Director of the United Provinces of the Río de la Plata in February 1820. A leading figure in early republican finance, he presided over the Bank of Buenos Aires (1822–1824) and became the first president of the Banco Nacional (1826), created during the Rivadavia reforms.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Juan_Pedro_Aguirre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Pedro_Aguirre",
+  "dateOfBirth": "1781-10-19",
+  "birthDateParsed": "1781-10-19",
+  "dateOfDeath": "1837-07-17",
+  "deathDateParsed": "1837-07-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2509053",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:05.771Z"
+}

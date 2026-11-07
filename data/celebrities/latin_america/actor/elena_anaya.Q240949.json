@@ -1,0 +1,34 @@
+{
+  "publicId": "a7909719",
+  "wikipediaSlug": "Elena_Anaya",
+  "wikipediaId": "Q240949",
+  "name": "Elena Anaya",
+  "fullName": "Elena Anaya",
+  "profileSummary": "Elena Anaya Gutiérrez is a Spanish actress. She garnered public recognition in Spain for her performance in Sex and Lucia (2001), which also earned her a nomination to the Goya Award for Best Supporting Actress. She starred in The Skin I Live In (2011), for which she won the Goya Award for Best Actress. She is also known for her roles as one of Dracula's brides in Van Helsing (2004), the Spanish tourist in Room in Rome (2010) and Doctor Poison in Wonder Woman (2017).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Elena_Anaya_at_Berlin_Film_Festival_2026%2C_%28P1230468%29.jpg/330px-Elena_Anaya_at_Berlin_Film_Festival_2026%2C_%28P1230468%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elena_Anaya",
+  "dateOfBirth": "1975-07-17",
+  "birthDateParsed": "1975-07-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "42.016666666",
+  "birthCoordinatesLng": "-4.533333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q240949",
+  "birthPlace": "Palencia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:02.778Z"
+}

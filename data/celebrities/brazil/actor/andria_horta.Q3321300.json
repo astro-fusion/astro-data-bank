@@ -1,0 +1,36 @@
+{
+  "publicId": "d421c291",
+  "wikipediaSlug": "Andréia_Horta",
+  "wikipediaId": "Q3321300",
+  "name": "Andréia Horta",
+  "fullName": "Andréia Horta",
+  "profileSummary": "Andréia de Assis Horta is a Brazilian actress. Horta was born in Juiz de Fora, Minas Gerais.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AndreiaHorta.jpg/330px-AndreiaHorta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9ia_Horta",
+  "dateOfBirth": "1983-07-27",
+  "birthDateParsed": "1983-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.75",
+  "birthCoordinatesLng": "-43.35",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "poet",
+    "television actor",
+    "writer"
+  ],
+  "qid": "Q3321300",
+  "birthPlace": "Juiz de Fora",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:00.028Z"
+}

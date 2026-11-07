@@ -1,0 +1,35 @@
+{
+  "publicId": "ba0147e6",
+  "wikipediaSlug": "Edmundo_(footballer)",
+  "wikipediaId": "Q445541",
+  "name": "Edmundo (footballer)",
+  "fullName": "Edmundo (footballer)",
+  "profileSummary": "Edmundo Alves de Souza Neto, better known simply as Edmundo, is a Brazilian football pundit and retired footballer who played as a forward. Nicknamed O Animal, he was a talented yet controversial footballer and drew attention both for his skill, as well as for his volatile behaviour, both on and off the pitch.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EdmundoVasco2008.jpg/330px-EdmundoVasco2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edmundo_(footballer)",
+  "dateOfBirth": "1971-04-02",
+  "birthDateParsed": "1971-04-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.883333333",
+  "birthCoordinatesLng": "-43.103611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "journalist",
+    "beach soccer player"
+  ],
+  "qid": "Q445541",
+  "birthPlace": "Niterói",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:02.371Z"
+}

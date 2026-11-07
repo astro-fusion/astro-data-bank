@@ -1,0 +1,35 @@
+{
+  "publicId": "30d44efb",
+  "wikipediaSlug": "Vicente_Fox",
+  "wikipediaId": "Q190572",
+  "name": "Vicente Fox",
+  "fullName": "Vicente Fox",
+  "profileSummary": "Vicente Fox Quesada is a Mexican businessman and politician who served as the 62nd president of Mexico from 2000 to 2006. After campaigning as a right-wing populist, Fox was elected president on the National Action Party (PAN) ticket in the 2000 election. He became the first president not from the Institutional Revolutionary Party (PRI) since 1929, and the first elected from an opposition party since Francisco I. Madero in 1911. Fox won the election with 43 percent of the vote. Considered a social-welfare promoter, along with Julio Frenk Mora, he formulated, signed and implemented the Seguro Popular which helped circa 55 million independent workers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vicente_Fox_Official_Photo_2000_%28Cropped%29_%28b%29.jpg/330px-Vicente_Fox_Official_Photo_2000_%28Cropped%29_%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vicente_Fox",
+  "dateOfBirth": "1942-07-02",
+  "birthDateParsed": "1942-07-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist",
+    "businessperson"
+  ],
+  "qid": "Q190572",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:19.740Z"
+}

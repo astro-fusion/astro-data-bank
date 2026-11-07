@@ -1,0 +1,37 @@
+{
+  "publicId": "197d8f4e",
+  "wikipediaSlug": "Ferdinand_Exl",
+  "wikipediaId": "Q1405249",
+  "name": "Ferdinand Exl",
+  "fullName": "Ferdinand Exl",
+  "profileSummary": "Ferdinand Exl (1875–1942) was an Austrian stage and film actor. He was married to the actress Anna Exl, with whom they had a daughter Ilse Exl who also took up acting.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdinand_Exl",
+  "dateOfBirth": "1875-08-27",
+  "birthDateParsed": "1875-08-27",
+  "dateOfDeath": "1942-10-28",
+  "deathDateParsed": "1942-10-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.268333333",
+  "birthCoordinatesLng": "11.393333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "theatre manager",
+    "actor",
+    "director"
+  ],
+  "qid": "Q1405249",
+  "birthPlace": "Innsbruck",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:01.920Z"
+}

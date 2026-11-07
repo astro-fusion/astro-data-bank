@@ -1,0 +1,31 @@
+{
+  "publicId": "24cb170b",
+  "wikipediaSlug": "Domingo_Faustino_Sarmiento",
+  "wikipediaId": "Q254041",
+  "name": "Domingo Faustino Sarmiento",
+  "fullName": "Domingo Faustino Sarmiento",
+  "profileSummary": "Domingo Faustino Sarmiento was President of Argentina from 1868 to 1874. He was a member of a group of intellectuals, known as the Generation of 1837, who had a great influence on 19th-century Argentina.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sarmiento.jpg/330px-Sarmiento.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento",
+  "dateOfBirth": "1811-02-15",
+  "birthDateParsed": "1811-02-15",
+  "dateOfDeath": "1888-09-11",
+  "deathDateParsed": "1888-09-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.5375",
+  "birthCoordinatesLng": "-68.536388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q254041",
+  "birthPlace": "San Juan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:10.868Z"
+}

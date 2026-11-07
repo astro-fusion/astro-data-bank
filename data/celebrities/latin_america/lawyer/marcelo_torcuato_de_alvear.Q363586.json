@@ -1,0 +1,35 @@
+{
+  "publicId": "4f7f6526",
+  "wikipediaSlug": "Marcelo_Torcuato_de_Alvear",
+  "wikipediaId": "Q363586",
+  "name": "Marcelo Torcuato de Alvear",
+  "fullName": "Marcelo Torcuato de Alvear",
+  "profileSummary": "Máximo Marcelo Torcuato de Alvear y Pacheco served as president of Argentina from 1922 to 1928.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Marcelo_T._de_Alvear%2C_ca._1915.jpg/330px-Marcelo_T._de_Alvear%2C_ca._1915.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelo_Torcuato_de_Alvear",
+  "dateOfBirth": "1868-10-04",
+  "birthDateParsed": "1868-10-04",
+  "dateOfDeath": "1942-03-23",
+  "deathDateParsed": "1942-03-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "sport shooter"
+  ],
+  "qid": "Q363586",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:56.333Z"
+}

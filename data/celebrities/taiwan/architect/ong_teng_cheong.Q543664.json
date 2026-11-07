@@ -1,0 +1,34 @@
+{
+  "publicId": "fa081708",
+  "wikipediaSlug": "Ong_Teng_Cheong",
+  "wikipediaId": "Q543664",
+  "name": "Ong Teng Cheong",
+  "fullName": "Ong Teng Cheong",
+  "profileSummary": "Ong Teng Cheong was a Singaporean architect and politician who served as the fifth president of Singapore between 1993 and 1999 after winning the 1993 presidential election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ong_Teng_Cheong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ong_Teng_Cheong",
+  "dateOfBirth": "1936-01-22",
+  "birthDateParsed": "1936-01-22",
+  "dateOfDeath": "2002-02-08",
+  "deathDateParsed": "2002-02-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "1.366666666",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architect",
+    "politician"
+  ],
+  "qid": "Q543664",
+  "birthPlace": "Straits Settlements",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:57.801Z"
+}

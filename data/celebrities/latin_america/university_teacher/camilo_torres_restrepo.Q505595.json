@@ -1,0 +1,42 @@
+{
+  "publicId": "eb640be6",
+  "wikipediaSlug": "Camilo_Torres_Restrepo",
+  "wikipediaId": "Q505595",
+  "name": "Camilo Torres Restrepo",
+  "fullName": "Camilo Torres Restrepo",
+  "profileSummary": "Jorge Camilo Torres Restrepo, also known by his nom de guerre Argemiro, was a Colombian Catholic political leader, revolutionary, guerilla, priest, author and a leader of the National Liberation Army (ELN). During his life, he sought to reconcile revolutionary socialism and Catholicism, an ideology which became known as Camilism. This ideology would significantly influence the later liberation theology movement, as well as being adopted by the Montoneros.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Camilo_Torres.jpg/330px-Camilo_Torres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Camilo_Torres_Restrepo",
+  "dateOfBirth": "1929-02-03",
+  "birthDateParsed": "1929-02-03",
+  "dateOfDeath": "1966-02-15",
+  "deathDateParsed": "1966-02-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "university teacher",
+    "Catholic priest",
+    "sociologist",
+    "partisan",
+    "revolutionary",
+    "politician",
+    "writer",
+    "priest",
+    "popular educator",
+    "researcher"
+  ],
+  "qid": "Q505595",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:36.322Z"
+}

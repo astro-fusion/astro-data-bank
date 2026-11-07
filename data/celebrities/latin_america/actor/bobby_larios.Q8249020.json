@@ -1,0 +1,37 @@
+{
+  "publicId": "80b0b78a",
+  "wikipediaSlug": "Bobby_Larios",
+  "wikipediaId": "Q8249020",
+  "name": "Bobby Larios",
+  "fullName": "Bobby Larios",
+  "profileSummary": "Bobby Larios is a Mexican actor, dancer, singer, conductor, radio host, and zen coach. He began his career in 1996. He resides in the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bl.jpg/330px-Bl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Larios",
+  "dateOfBirth": "1970-05-06",
+  "birthDateParsed": "1970-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "20.676388888",
+  "birthCoordinatesLng": "-103.342222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "singer",
+    "model"
+  ],
+  "qid": "Q8249020",
+  "birthPlace": "Guadalajara",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:22.814Z"
+}

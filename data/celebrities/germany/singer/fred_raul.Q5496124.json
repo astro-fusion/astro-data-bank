@@ -1,0 +1,37 @@
+{
+  "publicId": "c25f1fd9",
+  "wikipediaSlug": "Fred_Raul",
+  "wikipediaId": "Q5496124",
+  "name": "Fred Raul",
+  "fullName": "Fred Raul",
+  "profileSummary": "Fred Raul, born Alois Greschitz, was an Austrian actor of Hungarian ethnicity. He was best known for his marriage in 1968 to actress Marika Rökk, to whom he remained married until his death in 1985.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Raul",
+  "dateOfBirth": "1913-03-20",
+  "birthDateParsed": "1913-03-20",
+  "dateOfDeath": "1985-08-25",
+  "deathDateParsed": "1985-08-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.15888889",
+  "birthCoordinatesLng": "14.76333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "stage actor",
+    "film actor",
+    "actor",
+    "director"
+  ],
+  "qid": "Q5496124",
+  "birthPlace": "Allersdorf",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:36.373Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "2cb79513",
+  "wikipediaSlug": "Bianca_Marroquín",
+  "wikipediaId": "Q3875035",
+  "name": "Bianca Marroquín",
+  "fullName": "Bianca Marroquín",
+  "profileSummary": "Bianca Marroquín is a Mexican musical theatre and television actress known for being the first Mexican actress to have a starring role on Broadway. She has performed in the musical Chicago for over twenty years and is one of the few actresses to play both female leads, Roxie Hart and Velma Kelly.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bianca_Marroqu%C3%ADn.jpg/330px-Bianca_Marroqu%C3%ADn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bianca_Marroqu%C3%ADn",
+  "dateOfBirth": "1975-01-15",
+  "birthDateParsed": "1975-01-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q3875035",
+  "birthPlace": "Monterrey",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:48.614Z"
+}

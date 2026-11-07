@@ -1,0 +1,39 @@
+{
+  "publicId": "0bfebd0e",
+  "wikipediaSlug": "Gerhard_Schröder",
+  "wikipediaId": "Q2530",
+  "name": "Gerhard Schröder",
+  "fullName": "Gerhard Schröder",
+  "profileSummary": "Gerhard Fritz Kurt \"Gerd\" Schröder is a German former politician and lobbyist who served as Chancellor of Germany from 1998 to 2005. From 1999 to 2004, he was also the Leader of the Social Democratic Party of Germany (SPD). As chancellor, he led a coalition government of the SPD and Alliance 90/The Greens. Since leaving public office, Schröder has worked for Russian state-owned energy companies, including Nord Stream AG, Rosneft, and Gazprom.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%93%D0%B5%D1%80%D1%85%D0%B0%D1%80%D0%B4_%D0%A8%D1%80%D0%B5%D0%B4%D0%B5%D1%80_%2805-12-2019%29_%28cropped%29.jpg/330px-%D0%93%D0%B5%D1%80%D1%85%D0%B0%D1%80%D0%B4_%D0%A8%D1%80%D0%B5%D0%B4%D0%B5%D1%80_%2805-12-2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhard_Schr%C3%B6der",
+  "dateOfBirth": "1944-04-07",
+  "birthDateParsed": "1944-04-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.951944444",
+  "birthCoordinatesLng": "9.018055555",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "consultant",
+    "non-fiction writer",
+    "lobbyist",
+    "Chancellor of Germany",
+    "head of government"
+  ],
+  "qid": "Q2530",
+  "birthPlace": "Mossenberg-Wöhren",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:23.471Z"
+}

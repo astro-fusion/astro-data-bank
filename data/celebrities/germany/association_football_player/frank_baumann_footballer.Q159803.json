@@ -1,0 +1,33 @@
+{
+  "publicId": "c1c20bb9",
+  "wikipediaSlug": "Frank_Baumann_(footballer)",
+  "wikipediaId": "Q159803",
+  "name": "Frank Baumann (footballer)",
+  "fullName": "Frank Baumann (footballer)",
+  "profileSummary": "Frank Baumann is a German former professional footballer, best known for his spell at SV Werder Bremen, and the current sporting director of Schalke 04.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_baumann_tdf.jpg/330px-Frank_baumann_tdf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Baumann_(footballer)",
+  "dateOfBirth": "1975-10-29",
+  "birthDateParsed": "1975-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.794444444",
+  "birthCoordinatesLng": "9.929444444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q159803",
+  "birthPlace": "Würzburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:20.949Z"
+}

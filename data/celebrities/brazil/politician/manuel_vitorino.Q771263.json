@@ -1,0 +1,35 @@
+{
+  "publicId": "1131b1a2",
+  "wikipediaSlug": "Manuel_Vitorino",
+  "wikipediaId": "Q771263",
+  "name": "Manuel Vitorino",
+  "fullName": "Manuel Vitorino",
+  "profileSummary": "Manuel Vitorino Pereira  was Governor of Bahia from 1889 to 1890 and the vice president of Brazil, serving under President Prudente de Morais from 1894 to 1898. He also served as the President of the Senate from 1895 to 1898, and as Acting President of Brazil during 3 months.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Manoel_Victorino_Pereira.png/330px-Manoel_Victorino_Pereira.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Vitorino",
+  "dateOfBirth": "1853-01-30",
+  "birthDateParsed": "1853-01-30",
+  "dateOfDeath": "1902-11-09",
+  "deathDateParsed": "1902-11-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.983055555",
+  "birthCoordinatesLng": "-38.492777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "physician"
+  ],
+  "qid": "Q771263",
+  "birthPlace": "Salvador",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:10.604Z"
+}

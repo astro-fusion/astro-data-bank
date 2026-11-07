@@ -1,0 +1,38 @@
+{
+  "publicId": "079ef7d3",
+  "wikipediaSlug": "Lee_Kang-sheng",
+  "wikipediaId": "Q705351",
+  "name": "Lee Kang-sheng",
+  "fullName": "Lee Kang-sheng",
+  "profileSummary": "Lee Kang-sheng is a Taiwanese actor, film director and screenwriter. He has appeared in all of Tsai Ming-liang's feature films. Lee's directorial efforts include The Missing in 2003 and Help Me Eros in 2007.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MJK_72164_Lee_Kang-Sheng_%28Abiding_Nowhere%2C_Berlinale_2020%29.jpg/330px-MJK_72164_Lee_Kang-Sheng_%28Abiding_Nowhere%2C_Berlinale_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Kang-sheng",
+  "dateOfBirth": "1968-10-21",
+  "birthDateParsed": "1968-10-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "screenwriter",
+    "film actor",
+    "television actor",
+    "director"
+  ],
+  "qid": "Q705351",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:09.222Z"
+}

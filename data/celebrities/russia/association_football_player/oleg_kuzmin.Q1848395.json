@@ -1,0 +1,34 @@
+{
+  "publicId": "2db4cf6d",
+  "wikipediaSlug": "Oleg_Kuzmin",
+  "wikipediaId": "Q1848395",
+  "name": "Oleg Kuzmin",
+  "fullName": "Oleg Kuzmin",
+  "profileSummary": "Oleg Aleksandrovich Kuzmin is a Russian football coach and a former player. He works as an assistant coach with Rubin Kazan. He played as a right back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Loc-Rub_%287%29.jpg/330px-Loc-Rub_%287%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleg_Kuzmin",
+  "dateOfBirth": "1981-05-09",
+  "birthDateParsed": "1981-05-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1848395",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:32.460Z"
+}

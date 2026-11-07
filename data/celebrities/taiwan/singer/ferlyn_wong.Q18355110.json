@@ -1,0 +1,34 @@
+{
+  "publicId": "b800a860",
+  "wikipediaSlug": "Ferlyn_Wong",
+  "wikipediaId": "Q18355110",
+  "name": "Ferlyn Wong",
+  "fullName": "Ferlyn Wong",
+  "profileSummary": "Ferlyn Gilleen Wong Jing Ling, known professionally as Ferlyn G, is a Singaporean actress, singer, dancer, and model. She gained prominence as a member of the K-pop girl group Skarf from 2012 to 2014.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ferlyn_Wong_-_Wah%21Banana_skit_2022.jpg/330px-Ferlyn_Wong_-_Wah%21Banana_skit_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferlyn_Wong",
+  "dateOfBirth": "1992-02-01",
+  "birthDateParsed": "1992-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor"
+  ],
+  "qid": "Q18355110",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:00.318Z"
+}

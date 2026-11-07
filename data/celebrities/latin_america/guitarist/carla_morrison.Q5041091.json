@@ -1,0 +1,37 @@
+{
+  "publicId": "fd609ce4",
+  "wikipediaSlug": "Carla_Morrison",
+  "wikipediaId": "Q5041091",
+  "name": "Carla Morrison",
+  "fullName": "Carla Morrison",
+  "profileSummary": "Carla Patricia Morrison Flores is a Mexican indie pop guitarist and singer. She has released three studio albums and has received various awards and nominations including two Grammy Award nominations and three Latin Grammy Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/PressPhoto1.jpg/330px-PressPhoto1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carla_Morrison",
+  "dateOfBirth": "1986-07-19",
+  "birthDateParsed": "1986-07-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "32.572777777",
+  "birthCoordinatesLng": "-116.626666666",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guitarist",
+    "singer",
+    "composer",
+    "film director",
+    "musician"
+  ],
+  "qid": "Q5041091",
+  "birthPlace": "Tecate",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:02.757Z"
+}

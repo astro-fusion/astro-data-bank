@@ -1,0 +1,35 @@
+{
+  "publicId": "1aab5bfc",
+  "wikipediaSlug": "Luis_Echeverría",
+  "wikipediaId": "Q317681",
+  "name": "Luis Echeverría",
+  "fullName": "Luis Echeverría",
+  "profileSummary": "Luis Echeverría Álvarez was a Mexican lawyer, academic, and politician affiliated with the Institutional Revolutionary Party (PRI) who served as the 57th president of Mexico from 1970 to 1976. Previously, Echeverría was Secretary of the Interior from 1963 to 1969. He was the longest-lived president in Mexican history and the first to reach the age of 100.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Luis_Echeverr%C3%ADa_CAC_CC_001_18_13_0000_1280_%28cropped%29.jpg/330px-Luis_Echeverr%C3%ADa_CAC_CC_001_18_13_0000_1280_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Echeverr%C3%ADa",
+  "dateOfBirth": "1922-01-17",
+  "birthDateParsed": "1922-01-17",
+  "dateOfDeath": "2022-07-08",
+  "deathDateParsed": "2022-07-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q317681",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:38.011Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "8bc1f450",
+  "wikipediaSlug": "André_Mendonça",
+  "wikipediaId": "Q60396070",
+  "name": "André Mendonça",
+  "fullName": "André Mendonça",
+  "profileSummary": "André Luiz de Almeida Mendonça is a Brazilian attorney, Presbyterian pastor, and politician currently serving as Justice of the Supreme Federal Court. He is the third evangelical Christian positioned to join the top court, and former Minister of Justice and Public Security and Attorney General of the Union in the administration of President Jair Bolsonaro. Prior to assuming this role, he served as Attorney General of Brazil in the same administration.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ministro_Andr%C3%A9_Mendon%C3%A7a_em_outubro_de_2025_%283x4%29.jpg/330px-Ministro_Andr%C3%A9_Mendon%C3%A7a_em_outubro_de_2025_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Mendon%C3%A7a",
+  "dateOfBirth": "1972-12-27",
+  "birthDateParsed": "1972-12-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.9335988",
+  "birthCoordinatesLng": "-46.3286399",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "judge"
+  ],
+  "qid": "Q60396070",
+  "birthPlace": "Santos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:07.513Z"
+}

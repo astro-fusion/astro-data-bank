@@ -1,0 +1,35 @@
+{
+  "publicId": "9a5bdac6",
+  "wikipediaSlug": "Catalina_Pulido",
+  "wikipediaId": "Q2941609",
+  "name": "Catalina Pulido",
+  "fullName": "Catalina Pulido",
+  "profileSummary": "María Catalina Pulido Anker is a Chilean actress, model, and television presenter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Catalina_Pulido_%28cropped%29_%28cropped%29.jpg/330px-Catalina_Pulido_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catalina_Pulido",
+  "dateOfBirth": "1974-09-14",
+  "birthDateParsed": "1974-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "television presenter"
+  ],
+  "qid": "Q2941609",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:33.959Z"
+}

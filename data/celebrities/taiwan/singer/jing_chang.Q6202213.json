@@ -1,0 +1,33 @@
+{
+  "publicId": "33e764b6",
+  "wikipediaSlug": "Jing_Chang",
+  "wikipediaId": "Q6202213",
+  "name": "Jing Chang",
+  "fullName": "Jing Chang",
+  "profileSummary": "Jing Chang is a Taiwanese singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jing_Chang%40Taipei_New_Year%27s_Eve_Party_2011.JPG/330px-Jing_Chang%40Taipei_New_Year%27s_Eve_Party_2011.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jing_Chang",
+  "dateOfBirth": "1983-09-06",
+  "birthDateParsed": "1983-09-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q6202213",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:09.255Z"
+}

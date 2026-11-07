@@ -1,0 +1,37 @@
+{
+  "publicId": "2acf9775",
+  "wikipediaSlug": "Zhou_Xun",
+  "wikipediaId": "Q198030",
+  "name": "Zhou Xun",
+  "fullName": "Zhou Xun",
+  "profileSummary": "Zhou Xun is a Chinese actress and singer. Regarded as one of the Four Dan Actresses of China, Zhou became the first Chinese actor to achieve the \"Grand Slam\" in 2009, winning Best Actress at the three most prestigious Chinese-language film awards, the Golden Horse Awards, the Hong Kong Film Awards and the Golden Rooster Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Zhou_Xun_%28%E5%91%A8%E8%BF%85%29_at_the_29th_Shanghai_Television_Festival_Magnolia_Awards_on_June_28%2C_2024.png/330px-Zhou_Xun_%28%E5%91%A8%E8%BF%85%29_at_the_29th_Shanghai_Television_Festival_Magnolia_Awards_on_June_28%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhou_Xun",
+  "dateOfBirth": "1974-10-18",
+  "birthDateParsed": "1974-10-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "28.95445",
+  "birthCoordinatesLng": "118.8763",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor",
+    "model",
+    "environmentalist"
+  ],
+  "qid": "Q198030",
+  "birthPlace": "Quzhou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:42:01.073Z"
+}

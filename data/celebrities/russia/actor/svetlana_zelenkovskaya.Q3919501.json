@@ -1,0 +1,34 @@
+{
+  "publicId": "d01fe89b",
+  "wikipediaSlug": "Svetlana_Zelenkovskaya",
+  "wikipediaId": "Q3919501",
+  "name": "Svetlana Zelenkovskaya",
+  "fullName": "Svetlana Zelenkovskaya",
+  "profileSummary": "Svetlana Zelenkovskaya is a Belarusian and Ukrainian theater and film actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Svetlana_Zelenkovskaya",
+  "dateOfBirth": "1977-05-29",
+  "birthDateParsed": "1977-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.902246",
+  "birthCoordinatesLng": "27.561837",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q3919501",
+  "birthPlace": "Minsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:54.830Z"
+}

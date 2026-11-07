@@ -1,0 +1,36 @@
+{
+  "publicId": "308a85aa",
+  "wikipediaSlug": "Daniel_Muñoz_(actor)",
+  "wikipediaId": "Q5798568",
+  "name": "Daniel Muñoz (actor)",
+  "fullName": "Daniel Muñoz (actor)",
+  "profileSummary": "Daniel Patricio Muñoz Bravo is a Chilean actor, comedian, and cueca singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Daniel_Mu%C3%B1oz.JPG/330px-Daniel_Mu%C3%B1oz.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Mu%C3%B1oz_(actor)",
+  "dateOfBirth": "1966-02-11",
+  "birthDateParsed": "1966-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.5839",
+  "birthCoordinatesLng": "-70.9891",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q5798568",
+  "birthPlace": "San Fernando",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:25.598Z"
+}

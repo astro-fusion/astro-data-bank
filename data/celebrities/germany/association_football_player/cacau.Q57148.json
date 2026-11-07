@@ -1,0 +1,33 @@
+{
+  "publicId": "a730f02e",
+  "wikipediaSlug": "Cacau",
+  "wikipediaId": "Q57148",
+  "name": "Cacau",
+  "fullName": "Cacau",
+  "profileSummary": "Claudemir Jerônimo Barreto, known as Cacau, is a former professional footballer who played as a striker. Born in Brazil, he represented Germany at international level.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschland%2C_K%C3%B6ln-3523.jpg/330px-Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschland%2C_K%C3%B6ln-3523.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cacau",
+  "dateOfBirth": "1981-03-27",
+  "birthDateParsed": "1981-03-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.6533349",
+  "birthCoordinatesLng": "-46.5279508",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q57148",
+  "birthPlace": "Santo André",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:57.763Z"
+}

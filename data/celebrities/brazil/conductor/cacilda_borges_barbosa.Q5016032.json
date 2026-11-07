@@ -1,0 +1,35 @@
+{
+  "publicId": "fa14942f",
+  "wikipediaSlug": "Cacilda_Borges_Barbosa",
+  "wikipediaId": "Q5016032",
+  "name": "Cacilda Borges Barbosa",
+  "fullName": "Cacilda Borges Barbosa",
+  "profileSummary": "Cacilda Campos Borges Barbosa was a Brazilian pianist, conductor and composer. She was one of the pioneers of electronic music in Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cacilda_Borges_Barbosa_1932.jpg/330px-Cacilda_Borges_Barbosa_1932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cacilda_Borges_Barbosa",
+  "dateOfBirth": "1914-05-18",
+  "birthDateParsed": "1914-05-18",
+  "dateOfDeath": "2010-08-06",
+  "deathDateParsed": "2010-08-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "conductor",
+    "musicologist",
+    "composer"
+  ],
+  "qid": "Q5016032",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:09.183Z"
+}

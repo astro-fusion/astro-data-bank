@@ -1,0 +1,38 @@
+{
+  "publicId": "30f6f5a9",
+  "wikipediaSlug": "Alexander_Girardi",
+  "wikipediaId": "Q45302",
+  "name": "Alexander Girardi",
+  "fullName": "Alexander Girardi",
+  "profileSummary": "Alexander Girardi was an Austrian actor and tenor singer in operettas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/AlexanderGirardiJung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Girardi",
+  "dateOfBirth": "1850-12-05",
+  "birthDateParsed": "1850-12-05",
+  "dateOfDeath": "1918-04-20",
+  "deathDateParsed": "1918-04-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.070833333",
+  "birthCoordinatesLng": "15.438611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "opera singer",
+    "singer",
+    "screenwriter",
+    "musician"
+  ],
+  "qid": "Q45302",
+  "birthPlace": "Graz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:58.074Z"
+}

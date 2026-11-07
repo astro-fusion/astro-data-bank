@@ -1,0 +1,36 @@
+{
+  "publicId": "a650c4ce",
+  "wikipediaSlug": "Angelica_Lee",
+  "wikipediaId": "Q706623",
+  "name": "Angelica Lee",
+  "fullName": "Angelica Lee",
+  "profileSummary": "Lee Sinje is a Malaysian film actress and pop singer. She started her career in singing and later moved on to acting in Taiwan, Hong Kong and Malaysia. Lee starred in The Eye, the hit Asian horror film by the Pang Brothers, winning her the Golden Horse Award for Best Actress, Best Actress at the Hong Kong Film Awards and a Hong Kong Golden Bauhinia Awards. She is among the very few Asian artists to be awarded Best Newcomer Awards at the Berlin Film Festival in 2001 for her role in Betelnut Beauty.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/%E6%9D%8E%E5%BF%83%E6%BD%94.jpg/330px-%E6%9D%8E%E5%BF%83%E6%BD%94.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelica_Lee",
+  "dateOfBirth": "1976-01-23",
+  "birthDateParsed": "1976-01-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.116666666",
+  "birthCoordinatesLng": "100.366666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "screenwriter",
+    "film director"
+  ],
+  "qid": "Q706623",
+  "birthPlace": "Alor Setar",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:56.978Z"
+}

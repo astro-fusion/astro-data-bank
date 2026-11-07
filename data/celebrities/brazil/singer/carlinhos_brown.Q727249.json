@@ -1,0 +1,38 @@
+{
+  "publicId": "a8b489db",
+  "wikipediaSlug": "Carlinhos_Brown",
+  "wikipediaId": "Q727249",
+  "name": "Carlinhos Brown",
+  "fullName": "Carlinhos Brown",
+  "profileSummary": "Antônio Carlos Santos de Freitas, known professionally as Carlinhos Brown, is a Brazilian singer, percussionist, and record producer from Salvador, Bahia. His musical style blends funk, latin music, R&B, soul music, reggae, and traditional Brazilian percussion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Carlinhos_Brown_2007.07.35_010.jpg/330px-Carlinhos_Brown_2007.07.35_010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlinhos_Brown",
+  "dateOfBirth": "1962-11-23",
+  "birthDateParsed": "1962-11-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.983055555",
+  "birthCoordinatesLng": "-38.492777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "percussionist",
+    "record producer",
+    "guitarist",
+    "musician"
+  ],
+  "qid": "Q727249",
+  "birthPlace": "Salvador",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:09.923Z"
+}

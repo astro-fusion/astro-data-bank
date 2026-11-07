@@ -1,0 +1,33 @@
+{
+  "publicId": "b7b5ccee",
+  "wikipediaSlug": "Claudia_Burr",
+  "wikipediaId": "Q5771731",
+  "name": "Claudia Burr",
+  "fullName": "Claudia Burr",
+  "profileSummary": "Claudia Andrea Burr Huerta is a Chilean film and television actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudia_Burr",
+  "dateOfBirth": "1968-10-01",
+  "birthDateParsed": "1968-10-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5771731",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:37.108Z"
+}

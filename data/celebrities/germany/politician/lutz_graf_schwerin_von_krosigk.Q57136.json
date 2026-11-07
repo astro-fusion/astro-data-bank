@@ -1,0 +1,37 @@
+{
+  "publicId": "9e13c78e",
+  "wikipediaSlug": "Lutz_Graf_Schwerin_von_Krosigk",
+  "wikipediaId": "Q57136",
+  "name": "Lutz Graf Schwerin von Krosigk",
+  "fullName": "Lutz Graf Schwerin von Krosigk",
+  "profileSummary": "Johann Ludwig \"Lutz\" Graf Schwerin von Krosigk was a German senior government official who served as the minister of finance of Germany from 1932 to 1945 and de facto chancellor of Germany during May 1945.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ludwig_Schwerin_von_Krosigk.jpg/330px-Ludwig_Schwerin_von_Krosigk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lutz_Graf_Schwerin_von_Krosigk",
+  "dateOfBirth": "1887-08-22",
+  "birthDateParsed": "1887-08-22",
+  "dateOfDeath": "1977-03-04",
+  "deathDateParsed": "1977-03-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.82",
+  "birthCoordinatesLng": "11.6277778",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "jurist",
+    "diplomat",
+    "economist",
+    "military personnel"
+  ],
+  "qid": "Q57136",
+  "birthPlace": "Rathmannsdorf",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:38.263Z"
+}

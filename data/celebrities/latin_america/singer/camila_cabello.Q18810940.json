@@ -1,0 +1,37 @@
+{
+  "publicId": "ff3fcc66",
+  "wikipediaSlug": "Camila_Cabello",
+  "wikipediaId": "Q18810940",
+  "name": "Camila Cabello",
+  "fullName": "Camila Cabello",
+  "profileSummary": "Karla Camila Cabello Estrabao is an American singer and songwriter. She rose to prominence as a member of the girl group, Fifth Harmony, one of the best-selling girl groups of all time. While in the group, Cabello established herself as a solo artist with collaborative singles \"I Know What You Did Last Summer\" and \"Bad Things\", the latter making number four on the US Billboard Hot 100. She left Fifth Harmony in late 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Camila_Cabello_Sundance_2024_Cropped_%28cropped%29.jpg/330px-Camila_Cabello_Sundance_2024_Cropped_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Camila_Cabello",
+  "dateOfBirth": "1997-03-03",
+  "birthDateParsed": "1997-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.16305556",
+  "birthCoordinatesLng": "-82.29388889",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "actor",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q18810940",
+  "birthPlace": "Cojímar",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:49.154Z"
+}

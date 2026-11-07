@@ -1,0 +1,38 @@
+{
+  "publicId": "b01aa5f4",
+  "wikipediaSlug": "Diego_Luna",
+  "wikipediaId": "Q313044",
+  "name": "Diego Luna",
+  "fullName": "Diego Luna",
+  "profileSummary": "Diego Dionisio Luna Alexander is a Mexican actor, director, and producer. He is best known for his portrayal of Cassian Andor in Rogue One (2016) and its prequel series Andor (2022–2025), for which he was nominated twice for a Golden Globe Award for Best Actor – Television Series Drama.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Diego_Luna_-_Andor.jpg/330px-Diego_Luna_-_Andor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Luna",
+  "dateOfBirth": "1979-12-29",
+  "birthDateParsed": "1979-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.292222222",
+  "birthCoordinatesLng": "-99.653888888",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film producer",
+    "film actor",
+    "film director",
+    "stage actor",
+    "television producer",
+    "screenwriter",
+    "actor"
+  ],
+  "qid": "Q313044",
+  "birthPlace": "Toluca de Lerdo",
+  "fetchedAt": "2026-08-16T13:16:08.784Z"
+}

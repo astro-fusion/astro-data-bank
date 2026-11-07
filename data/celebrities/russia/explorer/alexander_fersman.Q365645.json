@@ -1,0 +1,37 @@
+{
+  "publicId": "180b1958",
+  "wikipediaSlug": "Alexander_Fersman",
+  "wikipediaId": "Q365645",
+  "name": "Alexander Fersman",
+  "fullName": "Alexander Fersman",
+  "profileSummary": "Alexander Evgenyevich Fersman was a Russian and Soviet geochemist and mineralogist, and a member of the Soviet Academy of Sciences (1919–1945).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Alexander_Fersman.jpg/330px-Alexander_Fersman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Fersman",
+  "dateOfBirth": "1883-11-08",
+  "birthDateParsed": "1883-11-08",
+  "dateOfDeath": "1945-05-20",
+  "deathDateParsed": "1945-05-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "mineralogist",
+    "geochemist",
+    "chemist",
+    "geologist"
+  ],
+  "qid": "Q365645",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:52.033Z"
+}

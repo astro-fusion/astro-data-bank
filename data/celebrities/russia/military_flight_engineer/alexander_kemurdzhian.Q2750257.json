@@ -1,0 +1,35 @@
+{
+  "publicId": "4780726f",
+  "wikipediaSlug": "Alexander_Kemurdzhian",
+  "wikipediaId": "Q2750257",
+  "name": "Alexander Kemurdzhian",
+  "fullName": "Alexander Kemurdzhian",
+  "profileSummary": "Aleksandr Leonovich Kemurdzhian was a Soviet mechanical engineer who worked at the VNIITransmash institute for most of the second half of the 20th century. He is best known for designing the metal chases for Lunokhod 1—the first ever planetary rover for space exploration in the Soviet space program.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alexander_Kemurdzhian_2021_stamp_of_Armenia.jpg/330px-Alexander_Kemurdzhian_2021_stamp_of_Armenia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Kemurdzhian",
+  "dateOfBirth": "1921-10-04",
+  "birthDateParsed": "1921-10-04",
+  "dateOfDeath": "2003-02-25",
+  "deathDateParsed": "2003-02-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "43.04",
+  "birthCoordinatesLng": "44.6775",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "academic",
+    "inventor"
+  ],
+  "qid": "Q2750257",
+  "birthPlace": "Vladikavkaz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:30.493Z"
+}

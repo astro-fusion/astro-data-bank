@@ -1,0 +1,34 @@
+{
+  "publicId": "e65f369c",
+  "wikipediaSlug": "Georg_Stollenwerk",
+  "wikipediaId": "Q491600",
+  "name": "Georg Stollenwerk",
+  "fullName": "Georg Stollenwerk",
+  "profileSummary": "Georg Stollenwerk was a German footballer and trainer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georg_Stollenwerk",
+  "dateOfBirth": "1930-12-19",
+  "birthDateParsed": "1930-12-19",
+  "dateOfDeath": "2014-04-30",
+  "deathDateParsed": "2014-04-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.8031684",
+  "birthCoordinatesLng": "6.4820806",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q491600",
+  "birthPlace": "Düren",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:46.331Z"
+}

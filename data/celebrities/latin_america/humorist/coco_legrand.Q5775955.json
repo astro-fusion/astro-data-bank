@@ -1,0 +1,35 @@
+{
+  "publicId": "f72b1b9e",
+  "wikipediaSlug": "Coco_Legrand",
+  "wikipediaId": "Q5775955",
+  "name": "Coco Legrand",
+  "fullName": "Coco Legrand",
+  "profileSummary": "Alejandro Javier González Legrand, better known as Coco Legrand, is a Chilean comedian, actor and TV presenter. His repertoire consists mainly of monologues that show daily experiences that allow us to review the most typical psychological features of society, satirizing them and thus rediscovering the profile of the average Chilean citizen.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sem_Intern_%2CCoco_Legrand_11_%28cropped%29.jpg/330px-Sem_Intern_%2CCoco_Legrand_11_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coco_Legrand",
+  "dateOfBirth": "1947-07-28",
+  "birthDateParsed": "1947-07-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "humorist",
+    "comedian",
+    "autobiographer"
+  ],
+  "qid": "Q5775955",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:43.428Z"
+}

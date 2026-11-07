@@ -1,0 +1,36 @@
+{
+  "publicId": "d931428c",
+  "wikipediaSlug": "Pedro_Aleixo",
+  "wikipediaId": "Q1797314",
+  "name": "Pedro Aleixo",
+  "fullName": "Pedro Aleixo",
+  "profileSummary": "Pedro Aleixo was a Brazilian lawyer, professor, and politician who served as President of the Chamber of Deputies in 1937 and as the vice president of Brazil from 15 March 1967 to 14 October 1969.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pedro_Aleixo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Aleixo",
+  "dateOfBirth": "1901-08-01",
+  "birthDateParsed": "1901-08-01",
+  "dateOfDeath": "1975-03-03",
+  "deathDateParsed": "1975-03-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.37787006",
+  "birthCoordinatesLng": "-43.41634962",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "statesperson",
+    "journalist",
+    "lawyer"
+  ],
+  "qid": "Q1797314",
+  "birthPlace": "Mariana",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:24.353Z"
+}

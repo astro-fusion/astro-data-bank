@@ -1,0 +1,33 @@
+{
+  "publicId": "5a38723b",
+  "wikipediaSlug": "Goh_Keng_Swee",
+  "wikipediaId": "Q713486",
+  "name": "Goh Keng Swee",
+  "fullName": "Goh Keng Swee",
+  "profileSummary": "Goh Keng Swee was a Singaporean statesman and economist who served as the second Deputy Prime Minister of Singapore between 1973 and 1985. Goh is widely recognised as one of the founding fathers of modern Singapore.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Goh_Keng_Swee%2C_1967_%283x4_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Goh_Keng_Swee",
+  "dateOfBirth": "1918-10-06",
+  "birthDateParsed": "1918-10-06",
+  "dateOfDeath": "2010-05-14",
+  "deathDateParsed": "2010-05-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "2.2",
+  "birthCoordinatesLng": "102.251",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q713486",
+  "birthPlace": "Malacca",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:15.750Z"
+}

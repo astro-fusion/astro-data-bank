@@ -1,0 +1,37 @@
+{
+  "publicId": "456d8daf",
+  "wikipediaSlug": "Albert_Steinrück",
+  "wikipediaId": "Q90663",
+  "name": "Albert Steinrück",
+  "fullName": "Albert Steinrück",
+  "profileSummary": "Albert Steinrück was a German stage and film actor of the silent era. He appeared in more than 80 films between 1910 and 1929. He starred in the 1923 film The Treasure, which was directed by Georg Wilhelm Pabst. He was also a leading role in the German expressionist 1920 film The Golem, in which he plays a rabbi.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Albert_Steinr%C3%BCck_by_Sasha_Stone.jpg/330px-Albert_Steinr%C3%BCck_by_Sasha_Stone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Steinr%C3%BCck",
+  "dateOfBirth": "1872-05-20",
+  "birthDateParsed": "1872-05-20",
+  "dateOfDeath": "1929-02-11",
+  "deathDateParsed": "1929-02-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.377777777",
+  "birthCoordinatesLng": "9.016666666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor",
+    "painter",
+    "director"
+  ],
+  "qid": "Q90663",
+  "birthPlace": "Bad Arolsen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:44.369Z"
+}

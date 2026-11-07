@@ -1,0 +1,35 @@
+{
+  "publicId": "9515be94",
+  "wikipediaSlug": "Aleksandr_Stoletov",
+  "wikipediaId": "Q983607",
+  "name": "Aleksandr Stoletov",
+  "fullName": "Aleksandr Stoletov",
+  "profileSummary": "Alexander Grigorievich Stoletov was a Russian physicist, founder of electrical engineering, and professor in Moscow University. He was the brother of general Nikolai Stoletov.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stoletov_AG.jpg/330px-Stoletov_AG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Stoletov",
+  "dateOfBirth": "1839-08-10",
+  "birthDateParsed": "1839-08-10",
+  "dateOfDeath": "1896-05-27",
+  "deathDateParsed": "1896-05-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "56.128611111",
+  "birthCoordinatesLng": "40.405833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physicist",
+    "engineer",
+    "university teacher"
+  ],
+  "qid": "Q983607",
+  "birthPlace": "Vladimir",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:30.192Z"
+}

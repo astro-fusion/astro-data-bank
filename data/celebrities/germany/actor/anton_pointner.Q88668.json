@@ -1,0 +1,34 @@
+{
+  "publicId": "64b59a75",
+  "wikipediaSlug": "Anton_Pointner",
+  "wikipediaId": "Q88668",
+  "name": "Anton Pointner",
+  "fullName": "Anton Pointner",
+  "profileSummary": "Anton Pointner was an Austrian stage and film actor. Pointner's career began on the stages of Austria and he performed in both silent and sound films in his native Austria, as well as in Germany and the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anton_Pointner_by_Alexander_Binder%2C_autographed.jpg/330px-Anton_Pointner_by_Alexander_Binder%2C_autographed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Pointner",
+  "dateOfBirth": "1884-12-08",
+  "birthDateParsed": "1884-12-08",
+  "dateOfDeath": "1949-09-08",
+  "deathDateParsed": "1949-09-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.8",
+  "birthCoordinatesLng": "13.045",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q88668",
+  "birthPlace": "Salzburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:58.787Z"
+}

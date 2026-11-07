@@ -1,0 +1,33 @@
+{
+  "publicId": "d70c1f29",
+  "wikipediaSlug": "Ari_Telch",
+  "wikipediaId": "Q4790130",
+  "name": "Ari Telch",
+  "fullName": "Ari Telch",
+  "profileSummary": "Ari Telch is a Mexican actor best known for his work in telenovelas and the stage.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ari_Telch",
+  "dateOfBirth": "1962-05-07",
+  "birthDateParsed": "1962-05-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q4790130",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:06.263Z"
+}

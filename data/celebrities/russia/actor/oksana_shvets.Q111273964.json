@@ -1,0 +1,33 @@
+{
+  "publicId": "99513dc0",
+  "wikipediaSlug": "Oksana_Shvets",
+  "wikipediaId": "Q111273964",
+  "name": "Oksana Shvets",
+  "fullName": "Oksana Shvets",
+  "profileSummary": "Oksana Oleksandrivna Shvets was a Ukrainian actress. She worked for the Kyiv National Academic Molodyy Theatre from its foundation in 1980 until her death, and was awarded the title Merited Artist of Ukraine, one of the highest Ukrainian honours for performing artists, in 1996. She also appeared on stage at the Ternopil Music and Drama Theatre and the Kyiv Theatre of Satire. She played in film and on television, such as in the 2013 Russian-Ukrainian series House with Lilies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Oksana_Shvets.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oksana_Shvets",
+  "dateOfBirth": "1955-02-10",
+  "birthDateParsed": "1955-02-10",
+  "dateOfDeath": "2022-03-17",
+  "deathDateParsed": "2022-03-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q111273964",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:47.230Z"
+}

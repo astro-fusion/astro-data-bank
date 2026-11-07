@@ -1,0 +1,33 @@
+{
+  "publicId": "75b487bb",
+  "wikipediaSlug": "Emerson_(footballer,_born_1976)",
+  "wikipediaId": "Q215952",
+  "name": "Emerson (footballer, born 1976)",
+  "fullName": "Emerson (footballer, born 1976)",
+  "profileSummary": "Emerson Ferreira da Rosa, simply known as Emerson, is a Brazilian former professional footballer who played as a defensive midfielder. At international level, he played 73 games for the Brazil national team between 1997 and 2006, scoring 6 goals. With Brazil, he has taken part in two FIFA World Cups, two editions of the Copa América, and three Confederations Cups, winning the 1999 Copa América and the 2005 FIFA Confederations Cup, while also reaching the 1998 World Cup Final.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Emerson_2005.jpg/330px-Emerson_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emerson_(footballer%2C_born_1976)",
+  "dateOfBirth": "1976-04-04",
+  "birthDateParsed": "1976-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.771944444",
+  "birthCoordinatesLng": "-52.342777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q215952",
+  "birthPlace": "Pelotas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:13.436Z"
+}

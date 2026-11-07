@@ -1,0 +1,35 @@
+{
+  "publicId": "f7df7b5a",
+  "wikipediaSlug": "Jorge_Zabaleta",
+  "wikipediaId": "Q643175",
+  "name": "Jorge Zabaleta",
+  "fullName": "Jorge Zabaleta",
+  "profileSummary": " Jorge Antonio Zabaleta Briceño  is a Chilean actor. He is the son of the musician Antonio Zabaleta and the nephew of Miguel Zabaleta, both members of the duo Red Juniors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/01Jorge_Zabaleta.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Zabaleta",
+  "dateOfBirth": "1970-04-18",
+  "birthDateParsed": "1970-04-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television presenter",
+    "television actor"
+  ],
+  "qid": "Q643175",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:25:01.285Z"
+}

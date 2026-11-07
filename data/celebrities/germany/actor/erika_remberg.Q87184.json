@@ -1,0 +1,35 @@
+{
+  "publicId": "853d4db4",
+  "wikipediaSlug": "Erika_Remberg",
+  "wikipediaId": "Q87184",
+  "name": "Erika Remberg",
+  "fullName": "Erika Remberg",
+  "profileSummary": "Erika Remberg was an Austrian film actress. She appeared in 31 films between 1950 and 1970. She was born in Medan, Indonesia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erika_Remberg.jpg/330px-Erika_Remberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erika_Remberg",
+  "dateOfBirth": "1932-02-15",
+  "birthDateParsed": "1932-02-15",
+  "dateOfDeath": "2017-11-10",
+  "deathDateParsed": "2017-11-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "3.589444444",
+  "birthCoordinatesLng": "98.673888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "writer"
+  ],
+  "qid": "Q87184",
+  "birthPlace": "Medan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:31.718Z"
+}

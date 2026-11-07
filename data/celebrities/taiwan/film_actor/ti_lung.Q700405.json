@@ -1,0 +1,37 @@
+{
+  "publicId": "cea3e4b6",
+  "wikipediaSlug": "Ti_Lung",
+  "wikipediaId": "Q700405",
+  "name": "Ti Lung",
+  "fullName": "Ti Lung",
+  "profileSummary": "Tommy Tam Fu-wing, known by his stage name Ti Lung (狄龍), is a Hong Kong actor and martial artist. He emerged in the 1970s as a star of Shaw Brothers Studio wuxia films, particularly The Duel, The Blood Brothers, Clans of Intrigue, The Avenging Eagle, The Sentimental Swordsman and its sequel. He is also known for starring in the classic John Woo film A Better Tomorrow and its sequel. He is a Hong Kong Film Award, Golden Horse Award, and Golden Bauhinia Award winner.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ti_Lung_20260426.jpg/330px-Ti_Lung_20260426.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ti_Lung",
+  "dateOfBirth": "1946-08-19",
+  "birthDateParsed": "1946-08-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.51957",
+  "birthCoordinatesLng": "113.03476",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "film director",
+    "actor",
+    "screenwriter"
+  ],
+  "qid": "Q700405",
+  "birthPlace": "Xinhui District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:17.719Z"
+}

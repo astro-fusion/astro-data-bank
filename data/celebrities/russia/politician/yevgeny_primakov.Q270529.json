@@ -1,0 +1,37 @@
+{
+  "publicId": "1029482c",
+  "wikipediaSlug": "Yevgeny_Primakov",
+  "wikipediaId": "Q270529",
+  "name": "Yevgeny Primakov",
+  "fullName": "Yevgeny Primakov",
+  "profileSummary": "Yevgeny Maksimovich Primakov was a Russian politician and diplomat who served as Prime Minister of Russia from 1998 to 1999. During his long career, he also served as Minister of Foreign Affairs from 1996 to 1998, the Director of Foreign Intelligence from 1991 to 1996, and Speaker of the Supreme Soviet of the Soviet Union from 1990 to 1991. Primakov was an academician (Arabist) and a member of the Presidium of the Russian Academy of Sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/E_Primakov_03_%28cropped%29.jpg/330px-E_Primakov_03_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yevgeny_Primakov",
+  "dateOfBirth": "1929-10-29",
+  "birthDateParsed": "1929-10-29",
+  "dateOfDeath": "2015-06-26",
+  "deathDateParsed": "2015-06-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "journalist",
+    "economist",
+    "arabist"
+  ],
+  "qid": "Q270529",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:41.074Z"
+}

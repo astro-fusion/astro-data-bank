@@ -1,0 +1,33 @@
+{
+  "publicId": "0e66227b",
+  "wikipediaSlug": "Horacio_Tomás_Liendo",
+  "wikipediaId": "Q5901921",
+  "name": "Horacio Tomás Liendo",
+  "fullName": "Horacio Tomás Liendo",
+  "profileSummary": "Horacio Tomás Liendo was an Argentinian military officer, who served in various positions during the National Reorganization Process such as Minister of Labour between 1976 and 1979, and also Minister of Interior in 1981. Moreover, he was in charge of the presidency of Argentina for 21 days in 1981.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Grl._Div._Horacio_T._Liendo.jpg/330px-Grl._Div._Horacio_T._Liendo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Horacio_Tom%C3%A1s_Liendo",
+  "dateOfBirth": "1924-12-17",
+  "birthDateParsed": "1924-12-17",
+  "dateOfDeath": "2007-08-24",
+  "deathDateParsed": "2007-08-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.416666666",
+  "birthCoordinatesLng": "-64.183333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel"
+  ],
+  "qid": "Q5901921",
+  "birthPlace": "Córdoba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:57.257Z"
+}

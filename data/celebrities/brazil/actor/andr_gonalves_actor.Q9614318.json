@@ -1,0 +1,35 @@
+{
+  "publicId": "223b87a1",
+  "wikipediaSlug": "André_Gonçalves_(actor)",
+  "wikipediaId": "Q9614318",
+  "name": "André Gonçalves (actor)",
+  "fullName": "André Gonçalves (actor)",
+  "profileSummary": "André Gonçalves Barbosa is a Brazilian actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Andr%C3%A9_Gon%C3%A7alves_em_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gon%C3%A7alves_(actor)",
+  "dateOfBirth": "1975-11-16",
+  "birthDateParsed": "1975-11-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q9614318",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:33.929Z"
+}

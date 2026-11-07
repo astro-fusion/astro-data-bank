@@ -1,0 +1,36 @@
+{
+  "publicId": "ef4d827a",
+  "wikipediaSlug": "Javier_Bardem",
+  "wikipediaId": "Q134895",
+  "name": "Javier Bardem",
+  "fullName": "Javier Bardem",
+  "profileSummary": "Javier Ángel Encinas Bardem is a Spanish actor. In a career spanning over three decades, he has received various accolades, including an Academy Award, a BAFTA Award, a Golden Globe Award, a Critics' Choice Movie Award, two Screen Actors Guild Awards, and seven Goya Awards, in addition to a Cannes Film Festival Award and two Volpi Cups.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Javier_Bardem_Cannes_2018.jpg/330px-Javier_Bardem_Cannes_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Javier_Bardem",
+  "dateOfBirth": "1969-03-01",
+  "birthDateParsed": "1969-03-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "28.127222222",
+  "birthCoordinatesLng": "-15.431388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "film producer"
+  ],
+  "qid": "Q134895",
+  "birthPlace": "Las Palmas de Gran Canaria",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:22.779Z"
+}

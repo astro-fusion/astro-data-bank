@@ -1,0 +1,38 @@
+{
+  "publicId": "7f0c5887",
+  "wikipediaSlug": "Zhao_Benshan",
+  "wikipediaId": "Q197424",
+  "name": "Zhao Benshan",
+  "fullName": "Zhao Benshan",
+  "profileSummary": "Zhao Benshan is a Chinese comedian and businessman. Starting as an errenzhuan performer in his native Liaoning, he rose to household fame in China for his comedy sketches on the CCTV New Year's Gala, the world's most-watched television program, which he performed on annually from 1990 to 2011. He starred in films such as Happy Times (2000), Getting Home (2007), The Grandmaster (2013), and directed or produced television series depicting rural life in Liaoning, including Liu Laogen, Ma Dashuai, and Xiangcun Aiqing.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zhao_ben_shan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhao_Benshan",
+  "dateOfBirth": "1957-10-02",
+  "birthDateParsed": "1957-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "42.28407",
+  "birthCoordinatesLng": "123.83654",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "film actor",
+    "politician",
+    "television actor",
+    "director",
+    "actor"
+  ],
+  "qid": "Q197424",
+  "birthPlace": "Tieling",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:33.775Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "84168069",
+  "wikipediaSlug": "Hon_Sui_Sen",
+  "wikipediaId": "Q5891957",
+  "name": "Hon Sui Sen",
+  "fullName": "Hon Sui Sen",
+  "profileSummary": "Benedict Hon Sui Sen was a Singaporean politician who served as Minister for Finance between 1970 and 1983. A member of the governing People's Action Party (PAP), he was the Member of Parliament (MP) for Havelock Constituency between 1970 and 1983.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e3/Hon_Sui_Sen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hon_Sui_Sen",
+  "dateOfBirth": "1916-04-16",
+  "birthDateParsed": "1916-04-16",
+  "dateOfDeath": "1983-10-14",
+  "deathDateParsed": "1983-10-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "5.4025",
+  "birthCoordinatesLng": "100.365",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5891957",
+  "birthPlace": "Penang",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:16.397Z"
+}

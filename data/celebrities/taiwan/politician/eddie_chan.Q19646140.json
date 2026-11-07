@@ -1,0 +1,33 @@
+{
+  "publicId": "b9d2e4cd",
+  "wikipediaSlug": "Eddie_Chan",
+  "wikipediaId": "Q19646140",
+  "name": "Eddie Chan",
+  "fullName": "Eddie Chan",
+  "profileSummary": "Eddie Chan Shu-fai is a Hong Kong pro-democracy politician of the New Territories West, social activist, former vice-convener of the Civil Human Rights Front, Secretary of the Hong Kong Catholic Justice and Peace Committee, president of the Lingnan University Student Union, Secretary-General of the Hong Kong Federation of Students and a former district Councillor for the Yuen Long District.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Eddie_Chan_Shu_Fai_2013.jpg/330px-Eddie_Chan_Shu_Fai_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_Chan",
+  "dateOfBirth": "1990-10-29",
+  "birthDateParsed": "1990-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q19646140",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:40.795Z"
+}

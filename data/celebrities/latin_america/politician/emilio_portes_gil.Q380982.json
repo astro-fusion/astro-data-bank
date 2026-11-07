@@ -1,0 +1,36 @@
+{
+  "publicId": "36e0bbb3",
+  "wikipediaSlug": "Emilio_Portes_Gil",
+  "wikipediaId": "Q380982",
+  "name": "Emilio Portes Gil",
+  "fullName": "Emilio Portes Gil",
+  "profileSummary": "Emilio Cándido Portes Gil was a Mexican politician, lawyer and diplomat who served as the 48th President of Mexico from 1928 to 1930, one of three to serve out the six-year term of president-elect General Álvaro Obregón, who had been assassinated in 1928. Since the 1917 Constitution forbade re-election of a serving president, incumbent President Plutarco Elías Calles could not formally retain the presidency. Portes Gil replaced him, but Calles, the \"Jefe Máximo\", retained effective political power during what is known as the Maximato.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Emilio_Portes%2C_portrait_%28cropped%29%28b%29.jpg/330px-Emilio_Portes%2C_portrait_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emilio_Portes_Gil",
+  "dateOfBirth": "1890-10-03",
+  "birthDateParsed": "1890-10-03",
+  "dateOfDeath": "1978-12-10",
+  "deathDateParsed": "1978-12-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "23.736111111",
+  "birthCoordinatesLng": "-99.146111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "judge",
+    "diplomat"
+  ],
+  "qid": "Q380982",
+  "birthPlace": "Ciudad Victoria",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:01.069Z"
+}

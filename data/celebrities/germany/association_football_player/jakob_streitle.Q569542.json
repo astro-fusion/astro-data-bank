@@ -1,0 +1,34 @@
+{
+  "publicId": "7894684e",
+  "wikipediaSlug": "Jakob_Streitle",
+  "wikipediaId": "Q569542",
+  "name": "Jakob Streitle",
+  "fullName": "Jakob Streitle",
+  "profileSummary": "Jakob Streitle was a German footballer. During the course of his career, he played as a defender for Bayern Munich.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jakob_Streitle",
+  "dateOfBirth": "1916-12-11",
+  "birthDateParsed": "1916-12-11",
+  "dateOfDeath": "1982-06-24",
+  "deathDateParsed": "1982-06-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.398611111",
+  "birthCoordinatesLng": "9.991111111",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q569542",
+  "birthPlace": "Ulm",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:39.399Z"
+}

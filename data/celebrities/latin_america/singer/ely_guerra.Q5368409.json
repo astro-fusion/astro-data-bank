@@ -1,0 +1,35 @@
+{
+  "publicId": "625cd14d",
+  "wikipediaSlug": "Ely_Guerra",
+  "wikipediaId": "Q5368409",
+  "name": "Ely Guerra",
+  "fullName": "Ely Guerra",
+  "profileSummary": "Ely Guerra is a Mexican singer-songwriter who was raised in Monterrey, Nuevo León, Mexico. The daughter of Alberto Guerra and Gloria Vázquez, Guerra lived the first years of her life in Monterrey, where she was born, before moving to San Luis Potosí and then to Guadalajara, due to her father's work. It was in Guadalajara that she first discovered her passion for music. She has a mezzo-soprano voice.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ely_Guerra_%282318300586%29.jpg/330px-Ely_Guerra_%282318300586%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ely_Guerra",
+  "dateOfBirth": "1972-02-13",
+  "birthDateParsed": "1972-02-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "recording artist"
+  ],
+  "qid": "Q5368409",
+  "birthPlace": "Monterrey",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:30.555Z"
+}

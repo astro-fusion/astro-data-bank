@@ -1,0 +1,37 @@
+{
+  "publicId": "516c9a61",
+  "wikipediaSlug": "Cyndi_Wang",
+  "wikipediaId": "Q696991",
+  "name": "Cyndi Wang",
+  "fullName": "Cyndi Wang",
+  "profileSummary": "Cyndi Wang Hsin-ling is a Taiwanese singer and actress. Wang began her music career with the release of her debut album Begin... (2003), gaining popularity for her bubblegum, sugary style and \"Sweetheart Princess\" persona. She is also known for her roles in TV dramas, such as The Car Is In Pursuit (2000), Westside Story (2003), Heaven's Wedding Gown (2004), and Smiling Pasta (2006).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CyndiWang.jpg/330px-CyndiWang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyndi_Wang",
+  "dateOfBirth": "1982-09-05",
+  "birthDateParsed": "1982-09-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.804722222",
+  "birthCoordinatesLng": "120.971388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor",
+    "recording artist"
+  ],
+  "qid": "Q696991",
+  "birthPlace": "Hsinchu City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:59.590Z"
+}

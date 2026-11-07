@@ -1,0 +1,35 @@
+{
+  "publicId": "796a2c07",
+  "wikipediaSlug": "Syamsul_Yusof",
+  "wikipediaId": "Q16223564",
+  "name": "Syamsul Yusof",
+  "fullName": "Syamsul Yusof",
+  "profileSummary": "Mohd Syamsul Mohd Yusof is a Malaysian actor, film director, writer, producer, rapper and singer. He is the son of producer and director Yusof Haslam. He is the youngest director to win the Malaysian Film Festival for Best Director award, doing so at the age of 25.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Syamsul_Yusof_on_MeleTOP.jpg/330px-Syamsul_Yusof_on_MeleTOP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Syamsul_Yusof",
+  "dateOfBirth": "1984-05-21",
+  "birthDateParsed": "1984-05-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.147777777",
+  "birthCoordinatesLng": "101.695277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "filmmaker"
+  ],
+  "qid": "Q16223564",
+  "birthPlace": "Kuala Lumpur",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:41.938Z"
+}

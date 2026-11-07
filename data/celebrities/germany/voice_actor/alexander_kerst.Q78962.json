@@ -1,0 +1,37 @@
+{
+  "publicId": "d5aec84b",
+  "wikipediaSlug": "Alexander_Kerst",
+  "wikipediaId": "Q78962",
+  "name": "Alexander Kerst",
+  "fullName": "Alexander Kerst",
+  "profileSummary": "Alexander Kerst was an Austrian television actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alexander_Kerst_by_Stuart_Mentiply.jpg/330px-Alexander_Kerst_by_Stuart_Mentiply.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Kerst",
+  "dateOfBirth": "1924-02-23",
+  "birthDateParsed": "1924-02-23",
+  "dateOfDeath": "2010-12-09",
+  "deathDateParsed": "2010-12-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.241148972",
+  "birthCoordinatesLng": "14.311574668",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "voice actor",
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q78962",
+  "birthPlace": "Kralupy nad Vltavou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:33.276Z"
+}

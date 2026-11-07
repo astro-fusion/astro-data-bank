@@ -1,0 +1,37 @@
+{
+  "publicId": "21597d14",
+  "wikipediaSlug": "Sara_Montiel",
+  "wikipediaId": "Q268587",
+  "name": "Sara Montiel",
+  "fullName": "Sara Montiel",
+  "profileSummary": "María Antonia Abad Fernández, known professionally as Sara Montiel, also Sarita Montiel, was a Spanish actress and singer. She began her career in the 1940s and became the most internationally popular and highest paid star of Spanish cinema in the 1960s. She appeared in nearly fifty films and recorded around 500 songs in five different languages.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sara_Montiel_en_1954_%28cropped%29.jpg/330px-Sara_Montiel_en_1954_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sara_Montiel",
+  "dateOfBirth": "1928-03-10",
+  "birthDateParsed": "1928-03-10",
+  "dateOfDeath": "2013-04-08",
+  "deathDateParsed": "2013-04-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "39.406666666",
+  "birthCoordinatesLng": "-3.125",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "vedette",
+    "film actor",
+    "recording artist"
+  ],
+  "qid": "Q268587",
+  "birthPlace": "Campo de Criptana",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:37.982Z"
+}

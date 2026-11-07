@@ -1,0 +1,38 @@
+{
+  "publicId": "0a3ef627",
+  "wikipediaSlug": "Cristián_de_la_Fuente",
+  "wikipediaId": "Q266788",
+  "name": "Cristián de la Fuente",
+  "fullName": "Cristián de la Fuente",
+  "profileSummary": "Cristián Andrés de la Fuente Sabarots is a Chilean actor, presenter, model and producer. He began his career appearing in Chilean telenovelas before moving to United States for starring in television series Family Law (1999–2001) and Hidden Hills (2002–2003). De la Fuente later made his big screen debut in the 2001 action film Driven and later appeared in films Vampires: Los Muertos (2002) and Basic (2003). In later years he was a regular cast member in In Plain Sight (2008–12) and Devious Maids (2015). De la Fuente also acted in a number of Spanish-language telenovelas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Conferencia_de_prensa_de_Cristi%C3%A1n.jpg/330px-Conferencia_de_prensa_de_Cristi%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristi%C3%A1n_de_la_Fuente",
+  "dateOfBirth": "1974-03-10",
+  "birthDateParsed": "1974-03-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "film actor",
+    "model",
+    "television actor",
+    "aircraft pilot",
+    "actor"
+  ],
+  "qid": "Q266788",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:04.535Z"
+}

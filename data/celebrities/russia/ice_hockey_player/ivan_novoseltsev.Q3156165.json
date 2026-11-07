@@ -1,0 +1,33 @@
+{
+  "publicId": "765417e9",
+  "wikipediaSlug": "Ivan_Novoseltsev",
+  "wikipediaId": "Q3156165",
+  "name": "Ivan Novoseltsev",
+  "fullName": "Ivan Novoseltsev",
+  "profileSummary": "Ivan Petrovich Novoseltsev is a Russian former professional ice hockey winger. He is the uncle of Vladislav Namestnikov.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ivan_Novoseltsev_Norfolk.jpg/330px-Ivan_Novoseltsev_Norfolk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Novoseltsev",
+  "dateOfBirth": "1979-01-23",
+  "birthDateParsed": "1979-01-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.614722222",
+  "birthCoordinatesLng": "36.987222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "ice hockey player"
+  ],
+  "qid": "Q3156165",
+  "birthPlace": "Golitsyno",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:21.895Z"
+}

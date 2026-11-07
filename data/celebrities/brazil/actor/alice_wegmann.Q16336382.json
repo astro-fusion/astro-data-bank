@@ -1,0 +1,36 @@
+{
+  "publicId": "023926b8",
+  "wikipediaSlug": "Alice_Wegmann",
+  "wikipediaId": "Q16336382",
+  "name": "Alice Wegmann",
+  "fullName": "Alice Wegmann",
+  "profileSummary": "Alice Wegmann Corrêa is a Brazilian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Alice_Wegmann_2023.jpg/330px-Alice_Wegmann_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Wegmann",
+  "dateOfBirth": "1995-11-03",
+  "birthDateParsed": "1995-11-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "artistic gymnast"
+  ],
+  "qid": "Q16336382",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:34.423Z"
+}

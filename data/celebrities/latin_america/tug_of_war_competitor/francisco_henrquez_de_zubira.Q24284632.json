@@ -1,0 +1,33 @@
+{
+  "publicId": "6f02e0e3",
+  "wikipediaSlug": "Francisco_Henríquez_de_Zubiría",
+  "wikipediaId": "Q24284632",
+  "name": "Francisco Henríquez de Zubiría",
+  "fullName": "Francisco Henríquez de Zubiría",
+  "profileSummary": "Francisco Henríquez de Zubiría was a French-born Colombian who represented France at the 1900 Summer Olympics in the tug of war team competition; they won a silver medal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Francisco_Henr%C3%ADquez_de_Zubir%C3%ADa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Henr%C3%ADquez_de_Zubir%C3%ADa",
+  "dateOfBirth": "1869-12-10",
+  "birthDateParsed": "1869-12-10",
+  "dateOfDeath": "1933-09-02",
+  "deathDateParsed": "1933-09-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "tug of war competitor"
+  ],
+  "qid": "Q24284632",
+  "birthPlace": "Paris",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:30.482Z"
+}

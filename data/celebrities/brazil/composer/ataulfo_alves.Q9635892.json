@@ -1,0 +1,34 @@
+{
+  "publicId": "89873283",
+  "wikipediaSlug": "Ataulfo_Alves",
+  "wikipediaId": "Q9635892",
+  "name": "Ataulfo Alves",
+  "fullName": "Ataulfo Alves",
+  "profileSummary": "Ataulfo Alves de Sousa was a Brazilian samba singer and composer, best known for his collaborations with Mário Lago, such as with Ai! que saudade da Amélia and Atire a primeira pedra, as well as songs such as Laranja madura and Mulata assanhada.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ataulfo_Alves_1939.png/330px-Ataulfo_Alves_1939.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ataulfo_Alves",
+  "dateOfBirth": "1909-05-02",
+  "birthDateParsed": "1909-05-02",
+  "dateOfDeath": "1969-04-20",
+  "deathDateParsed": "1969-04-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.195",
+  "birthCoordinatesLng": "-42.613888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "musician"
+  ],
+  "qid": "Q9635892",
+  "birthPlace": "Miraí",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:59.525Z"
+}

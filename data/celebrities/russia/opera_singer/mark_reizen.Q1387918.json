@@ -1,0 +1,37 @@
+{
+  "publicId": "48541cd7",
+  "wikipediaSlug": "Mark_Reizen",
+  "wikipediaId": "Q1387918",
+  "name": "Mark Reizen",
+  "fullName": "Mark Reizen",
+  "profileSummary": "Mark Osipovich Reizen or Reyzen was a Soviet and Russian opera bass singer and pedagogue. He was awarded the title of People's Artist of the USSR (1937).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Mark_Reizen_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Reizen",
+  "dateOfBirth": "1895-07-03",
+  "birthDateParsed": "1895-07-03",
+  "dateOfDeath": "1992-11-25",
+  "deathDateParsed": "1992-11-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.429166666",
+  "birthCoordinatesLng": "38.009444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer",
+    "music educator",
+    "university teacher",
+    "singer",
+    "musician"
+  ],
+  "qid": "Q1387918",
+  "birthPlace": "Zaitseve",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:31.796Z"
+}

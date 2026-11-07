@@ -1,0 +1,33 @@
+{
+  "publicId": "563075c2",
+  "wikipediaSlug": "Aleksandr_Gutsan",
+  "wikipediaId": "Q4153077",
+  "name": "Aleksandr Gutsan",
+  "fullName": "Aleksandr Gutsan",
+  "profileSummary": "Aleksandr Vladimirovich Gutsan is a Russian lawyer and statesman serving as Prosecutor General of Russia since September 24, 2025. Actual State Counsellor of Justice of Russia (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Alexander_Gutsan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Gutsan",
+  "dateOfBirth": "1960-07-06",
+  "birthDateParsed": "1960-07-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "59.355",
+  "birthCoordinatesLng": "30.066944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jurist"
+  ],
+  "qid": "Q4153077",
+  "birthPlace": "Siversky",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:24.452Z"
+}

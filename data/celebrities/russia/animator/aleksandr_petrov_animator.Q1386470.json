@@ -1,0 +1,36 @@
+{
+  "publicId": "411f88d4",
+  "wikipediaSlug": "Aleksandr_Petrov_(animator)",
+  "wikipediaId": "Q1386470",
+  "name": "Aleksandr Petrov (animator)",
+  "fullName": "Aleksandr Petrov (animator)",
+  "profileSummary": "Aleksandr Konstantinovich Petrov is a Russian animator and animation director known for his paint-on-glass animation technique. Many of his films are adaptations of short stories and novellas by authors such as Ernest Hemingway, Fyodor Dostoyevsky, and Alexander Pushkin. For his film The Old Man and the Sea he won an Academy Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Alexander_Petrov_Oscar_winner.jpg/330px-Alexander_Petrov_Oscar_winner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Petrov_(animator)",
+  "dateOfBirth": "1957-07-17",
+  "birthDateParsed": "1957-07-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "58.420555555",
+  "birthCoordinatesLng": "40.340277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "animator",
+    "painter",
+    "screenwriter",
+    "director"
+  ],
+  "qid": "Q1386470",
+  "birthPlace": "Prechistoye",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:16.175Z"
+}

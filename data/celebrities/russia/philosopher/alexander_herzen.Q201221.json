@@ -1,0 +1,43 @@
+{
+  "publicId": "2ce5ae23",
+  "wikipediaSlug": "Alexander_Herzen",
+  "wikipediaId": "Q201221",
+  "name": "Alexander Herzen",
+  "fullName": "Alexander Herzen",
+  "profileSummary": "Alexander Ivanovich Herzen was a Russian writer and thinker known as the precursor of Russian socialism and one of the main precursors of agrarian populism. With his writings, many composed while exiled in London, he attempted to influence the situation in Russia, contributing to a political climate that led to the emancipation of the serfs in 1861. He published the important social novel Who is to Blame? (1845–46). His autobiography, My Past and Thoughts, is often considered one of the best examples of that genre in Russian literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herzen_ge.png/330px-Herzen_ge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Herzen",
+  "dateOfBirth": "1812-03-25",
+  "birthDateParsed": "1812-03-25",
+  "dateOfDeath": "1870-01-21",
+  "deathDateParsed": "1870-01-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "writer",
+    "journalist",
+    "autobiographer",
+    "literary critic",
+    "prose writer",
+    "opinion journalist",
+    "pedagogue",
+    "politician",
+    "teacher",
+    "revolutionary"
+  ],
+  "qid": "Q201221",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:44.465Z"
+}

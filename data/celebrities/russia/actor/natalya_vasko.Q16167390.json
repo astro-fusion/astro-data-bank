@@ -1,0 +1,33 @@
+{
+  "publicId": "88253288",
+  "wikipediaSlug": "Natalya_Vasko",
+  "wikipediaId": "Q16167390",
+  "name": "Natalya Vasko",
+  "fullName": "Natalya Vasko",
+  "profileSummary": "Natalya Lubomyrivna Vasko is a Ukrainian actress and television presenter. From 1999 to 2019, she was a leading actress of the Kyiv National Academic Molodyy Theatre. She won the Golden Dzyga award in the \"Best Supporting Actress\" category in the film The Nest of the Turtledove (2017). She is also a member of the Ukrainian Film Academy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Natalya_Vasko_-_2019.png/330px-Natalya_Vasko_-_2019.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalya_Vasko",
+  "dateOfBirth": "1972-10-19",
+  "birthDateParsed": "1972-10-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.382222222",
+  "birthCoordinatesLng": "24.2275",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q16167390",
+  "birthPlace": "Sheptytskyi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:23.364Z"
+}

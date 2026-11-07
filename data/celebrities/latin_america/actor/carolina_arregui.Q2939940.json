@@ -1,0 +1,33 @@
+{
+  "publicId": "c1712118",
+  "wikipediaSlug": "Carolina_Arregui",
+  "wikipediaId": "Q2939940",
+  "name": "Carolina Arregui",
+  "fullName": "Carolina Arregui",
+  "profileSummary": "María Carolina Arregui Vuskovic is a Chilean television actress of Croatian and Basque descent. Although she never attended drama school, she is considered to be one of Chile's most popular and gifted actresses.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Carolina_Arregui_%2831384846775%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carolina_Arregui",
+  "dateOfBirth": "1965-08-26",
+  "birthDateParsed": "1965-08-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q2939940",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:01.356Z"
+}

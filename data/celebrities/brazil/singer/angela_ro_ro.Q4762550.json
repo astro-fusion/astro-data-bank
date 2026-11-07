@@ -1,0 +1,33 @@
+{
+  "publicId": "396db7b5",
+  "wikipediaSlug": "Angela_Ro_Ro",
+  "wikipediaId": "Q4762550",
+  "name": "Angela Ro Ro",
+  "fullName": "Angela Ro Ro",
+  "profileSummary": "Angela Maria Diniz Gonsalves, best known by the stage name Angela Ro Ro, based on an onomatopoeia of her laughter, was a Brazilian singer-songwriter. She was influenced by her idols Ella Fitzgerald, Maysa Matarazzo and Jacques Brel.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818087963604%29.jpg/330px-26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818087963604%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angela_Ro_Ro",
+  "dateOfBirth": "1949-12-05",
+  "birthDateParsed": "1949-12-05",
+  "dateOfDeath": "2025-09-08",
+  "deathDateParsed": "2025-09-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q4762550",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:09.491Z"
+}

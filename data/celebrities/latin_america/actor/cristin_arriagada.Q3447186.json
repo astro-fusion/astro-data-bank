@@ -1,0 +1,33 @@
+{
+  "publicId": "37312804",
+  "wikipediaSlug": "Cristián_Arriagada",
+  "wikipediaId": "Q3447186",
+  "name": "Cristián Arriagada",
+  "fullName": "Cristián Arriagada",
+  "profileSummary": "Cristián Andrés Arriagada Bižaca is a Chilean television, theatre and film actor. He is of Croat origin through his mother's side.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cristi%C3%A1n_Arriagada_%28cropped%29.jpg/330px-Cristi%C3%A1n_Arriagada_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristi%C3%A1n_Arriagada",
+  "dateOfBirth": "1981-03-15",
+  "birthDateParsed": "1981-03-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-53.1625",
+  "birthCoordinatesLng": "-70.908055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q3447186",
+  "birthPlace": "Punta Arenas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:31.271Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "2ff1a09b",
+  "wikipediaSlug": "Elva_Hsiao",
+  "wikipediaId": "Q241604",
+  "name": "Elva Hsiao",
+  "fullName": "Elva Hsiao",
+  "profileSummary": "Elva Hsiao is a Taiwanese singer. Having gained widespread popularity for her R&B-influenced ballads, she is recognized as one of the \"Four Little Divas\" of Mandopop.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Elva_Hsiao_in_2014_%281%29.jpg/330px-Elva_Hsiao_in_2014_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elva_Hsiao",
+  "dateOfBirth": "1979-08-24",
+  "birthDateParsed": "1979-08-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.956944444",
+  "birthCoordinatesLng": "121.223611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "film director"
+  ],
+  "qid": "Q241604",
+  "birthPlace": "Zhongli District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:30.752Z"
+}

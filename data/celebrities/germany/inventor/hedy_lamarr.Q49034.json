@@ -1,0 +1,41 @@
+{
+  "publicId": "6a9b2bfa",
+  "wikipediaSlug": "Hedy_Lamarr",
+  "wikipediaId": "Q49034",
+  "name": "Hedy Lamarr",
+  "fullName": "Hedy Lamarr",
+  "profileSummary": "Hedy Lamarr was an Austrian and American actress and inventor. Regarded as a successful film star, she also co-invented a radio guidance system during World War II.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg/330px-Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+  "dateOfBirth": "1914-11-09",
+  "birthDateParsed": "1914-11-09",
+  "dateOfDeath": "2000-01-19",
+  "deathDateParsed": "2000-01-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "inventor",
+    "autobiographer",
+    "screenwriter",
+    "film actor",
+    "film producer",
+    "musician",
+    "model",
+    "entertainer",
+    "actor"
+  ],
+  "qid": "Q49034",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:01.243Z"
+}

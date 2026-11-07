@@ -1,0 +1,36 @@
+{
+  "publicId": "a2592235",
+  "wikipediaSlug": "Karla_Souza",
+  "wikipediaId": "Q16300949",
+  "name": "Karla Souza",
+  "fullName": "Karla Souza",
+  "profileSummary": "Karla Susana Olivares Souza is a Mexican actress known for her roles as Laurel Castillo on the ABC legal drama series How to Get Away with Murder and Marina Hayworth on the ABC sitcom Home Economics. She won the International Emmy Award for Best Actress in 2023 for her role as Mariel Saenz in the television movie La Caída.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Karla_Souza_in_2026.png/330px-Karla_Souza_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karla_Souza",
+  "dateOfBirth": "1985-12-11",
+  "birthDateParsed": "1985-12-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "stage actor",
+    "model"
+  ],
+  "qid": "Q16300949",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:59.313Z"
+}

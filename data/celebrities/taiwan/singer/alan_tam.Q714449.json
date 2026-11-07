@@ -1,0 +1,37 @@
+{
+  "publicId": "c1daa9df",
+  "wikipediaSlug": "Alan_Tam",
+  "wikipediaId": "Q714449",
+  "name": "Alan Tam",
+  "fullName": "Alan Tam",
+  "profileSummary": "Alan Tam Wing-lun is a Hong Kong singer and actor. He played a major role in developing the Cantopop scene in the 1980s as he was known for singing romantic ballads with modern arrangements. From 1983 to 1987, Alan Tam received numerous music awards and won Most Popular Male Artist and IFPI Award for successive four years, which made him the most famous superstar singer of Hong Kong in the 1980s. In early 1988, he publicly quit all pop music award ceremonies and put most efforts in searching new direction for Cantopop music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Alantam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Tam",
+  "dateOfBirth": "1950-08-23",
+  "birthDateParsed": "1950-08-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "songwriter",
+    "television actor",
+    "recording artist"
+  ],
+  "qid": "Q714449",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:05.236Z"
+}

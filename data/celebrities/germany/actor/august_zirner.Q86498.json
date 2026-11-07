@@ -1,0 +1,34 @@
+{
+  "publicId": "99be8b32",
+  "wikipediaSlug": "August_Zirner",
+  "wikipediaId": "Q86498",
+  "name": "August Zirner",
+  "fullName": "August Zirner",
+  "profileSummary": "August Zirner is an American-Austrian actor, who starred in over 60 film productions. He is one of the most popular actors in Germany.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/August_Zirner%2C_ROMY_2010.jpg/330px-August_Zirner%2C_ROMY_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Zirner",
+  "dateOfBirth": "1956-01-07",
+  "birthDateParsed": "1956-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.109722222",
+  "birthCoordinatesLng": "-88.204166666",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q86498",
+  "birthPlace": "Urbana",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:06.830Z"
+}

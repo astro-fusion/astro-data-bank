@@ -1,0 +1,36 @@
+{
+  "publicId": "1a7f37b3",
+  "wikipediaSlug": "Carlos_Menem",
+  "wikipediaId": "Q185107",
+  "name": "Carlos Menem",
+  "fullName": "Carlos Menem",
+  "profileSummary": "Carlos Saúl Menem was an Argentine politician who served as the president of Argentina for ten years, from 1989 to 1999. He identified as Peronist, serving as President of the Justicialist Party for 13 years, and his political approach became known as Menemism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Menem_con_banda_presidencial.jpg/330px-Menem_con_banda_presidencial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Menem",
+  "dateOfBirth": "1930-07-02",
+  "birthDateParsed": "1930-07-02",
+  "dateOfDeath": "2021-02-14",
+  "deathDateParsed": "2021-02-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "-28.8",
+  "birthCoordinatesLng": "-66.93333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "businessperson",
+    "jurist"
+  ],
+  "qid": "Q185107",
+  "birthPlace": "Anillaco",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:48.182Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "daaa1c64",
+  "wikipediaSlug": "Juan_Gabriel",
+  "wikipediaId": "Q738404",
+  "name": "Juan Gabriel",
+  "fullName": "Juan Gabriel",
+  "profileSummary": "Alberto Aguilera Valadez, known professionally as Juan Gabriel, was a Mexican singer-songwriter. Colloquially nicknamed Juanga and El Divo de Juárez, Juan Gabriel was known for his flamboyant style, which broke norms and standards within the Latin music industry. Widely regarded as one of the best and most prolific Mexican composers and singers of all time, he is considered a pop icon.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Juan_Gabriel_in_1985_%28cropped%29.jpg/330px-Juan_Gabriel_in_1985_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Gabriel",
+  "dateOfBirth": "1950-01-07",
+  "birthDateParsed": "1950-01-07",
+  "dateOfDeath": "2016-08-28",
+  "deathDateParsed": "2016-08-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.145833333",
+  "birthCoordinatesLng": "-102.22",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "DJ producer",
+    "composer",
+    "recording artist"
+  ],
+  "qid": "Q738404",
+  "birthPlace": "Parácuaro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:24:05.431Z"
+}

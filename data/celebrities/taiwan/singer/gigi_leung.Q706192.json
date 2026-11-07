@@ -1,0 +1,35 @@
+{
+  "publicId": "a1f90eb7",
+  "wikipediaSlug": "Gigi_Leung",
+  "wikipediaId": "Q706192",
+  "name": "Gigi Leung",
+  "fullName": "Gigi Leung",
+  "profileSummary": "Gigi Leung Wing-kei is a Hong Kong singer and actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gigi_Leung_20230401.jpg/330px-Gigi_Leung_20230401.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gigi_Leung",
+  "dateOfBirth": "1976-03-25",
+  "birthDateParsed": "1976-03-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "recording artist"
+  ],
+  "qid": "Q706192",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:05.541Z"
+}

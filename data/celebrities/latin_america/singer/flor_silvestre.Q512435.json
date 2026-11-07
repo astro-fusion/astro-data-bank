@@ -1,0 +1,38 @@
+{
+  "publicId": "f30a4396",
+  "wikipediaSlug": "Flor_Silvestre",
+  "wikipediaId": "Q512435",
+  "name": "Flor Silvestre",
+  "fullName": "Flor Silvestre",
+  "profileSummary": "Guillermina Jiménez Chabolla known professionally as Flor Silvestre, was a Mexican singer and actress, specialized in the musical genres of ranchera, bolero, huapango and bolero ranchero.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flor_Silvestre_on_the_cover_of_Melod%C3%ADas_mexicanas.jpg/330px-Flor_Silvestre_on_the_cover_of_Melod%C3%ADas_mexicanas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Flor_Silvestre",
+  "dateOfBirth": "1930-08-16",
+  "birthDateParsed": "1930-08-16",
+  "dateOfDeath": "2020-11-25",
+  "deathDateParsed": "2020-11-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "20.569027777",
+  "birthCoordinatesLng": "-101.199611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "film actor",
+    "stage actor",
+    "equestrian",
+    "recording artist"
+  ],
+  "qid": "Q512435",
+  "birthPlace": "Salamanca",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:24:04.677Z"
+}

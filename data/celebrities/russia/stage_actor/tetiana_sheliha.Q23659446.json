@@ -1,0 +1,34 @@
+{
+  "publicId": "d4c322f8",
+  "wikipediaSlug": "Tetiana_Sheliha",
+  "wikipediaId": "Q23659446",
+  "name": "Tetiana Sheliha",
+  "fullName": "Tetiana Sheliha",
+  "profileSummary": "Tetiana Leonardivna Sheliha was a Ukrainian film and stage actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Cropped_Photo_of_Tetiana_Sheliha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tetiana_Sheliha",
+  "dateOfBirth": "1948-12-10",
+  "birthDateParsed": "1948-12-10",
+  "dateOfDeath": "2025-07-03",
+  "deathDateParsed": "2025-07-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q23659446",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:13.496Z"
+}

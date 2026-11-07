@@ -1,0 +1,34 @@
+{
+  "publicId": "6bad7222",
+  "wikipediaSlug": "Alexander_III_of_Russia",
+  "wikipediaId": "Q120180",
+  "name": "Alexander III of Russia",
+  "fullName": "Alexander III of Russia",
+  "profileSummary": "Alexander III was Emperor of Russia, King of Poland and Grand Duke of Finland from 13 March 1881 until his death in 1894. He was highly reactionary in domestic affairs and reversed some of the liberal reforms of his father, Alexander II, a policy of \"counter-reforms\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Tsar_Alexander_III_c._1885.jpg/330px-Tsar_Alexander_III_c._1885.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia",
+  "dateOfBirth": "1845-03-10",
+  "birthDateParsed": "1845-03-10",
+  "dateOfDeath": "1894-11-01",
+  "deathDateParsed": "1894-11-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.932777777",
+  "birthCoordinatesLng": "30.339722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch",
+    "art collector"
+  ],
+  "qid": "Q120180",
+  "birthPlace": "Anichkov Palace",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:04.286Z"
+}

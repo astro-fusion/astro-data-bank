@@ -1,0 +1,38 @@
+{
+  "publicId": "c5595d53",
+  "wikipediaSlug": "Jorge_Isaacs",
+  "wikipediaId": "Q1703852",
+  "name": "Jorge Isaacs",
+  "fullName": "Jorge Isaacs",
+  "profileSummary": "Jorge Isaacs Ferrer was a Colombian writer, politician and soldier. His only novel, María, became one of the most notable works of the Romantic movement in Spanish-language literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fi_322_Isaacs%2C_Jorge.jpg/330px-Fi_322_Isaacs%2C_Jorge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Isaacs",
+  "dateOfBirth": "1837-04-01",
+  "birthDateParsed": "1837-04-01",
+  "dateOfDeath": "1895-04-17",
+  "deathDateParsed": "1895-04-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "3.44",
+  "birthCoordinatesLng": "-76.519722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "politician",
+    "writer",
+    "soldier",
+    "poet",
+    "novelist"
+  ],
+  "qid": "Q1703852",
+  "birthPlace": "Cali",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:38.556Z"
+}

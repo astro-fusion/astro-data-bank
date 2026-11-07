@@ -1,0 +1,34 @@
+{
+  "publicId": "a8b3b678",
+  "wikipediaSlug": "Artur_Bernardes",
+  "wikipediaId": "Q311121",
+  "name": "Artur Bernardes",
+  "fullName": "Artur Bernardes",
+  "profileSummary": "Artur da Silva Bernardes was a Brazilian lawyer and politician who served as the 12th president of Brazil from 1922 to 1926. Bernades' presidency was marked by the crisis of the First Brazilian Republic and the almost uninterrupted duration of a state of emergency. During his long political career, from 1905 until his death, he was the main leader of the Republican Party of Minas Gerais (PRM) from 1918–1922 until the party's closure in 1937, and founder and leader of the Republican Party (PR).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Artur_Bernardes_%281922%29.jpg/330px-Artur_Bernardes_%281922%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artur_Bernardes",
+  "dateOfBirth": "1875-08-08",
+  "birthDateParsed": "1875-08-08",
+  "dateOfDeath": "1955-03-23",
+  "deathDateParsed": "1955-03-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.753888888",
+  "birthCoordinatesLng": "-42.881944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q311121",
+  "birthPlace": "Viçosa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:21:56.624Z"
+}

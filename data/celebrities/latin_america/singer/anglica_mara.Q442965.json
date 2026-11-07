@@ -1,0 +1,35 @@
+{
+  "publicId": "866166fb",
+  "wikipediaSlug": "Angélica_María",
+  "wikipediaId": "Q442965",
+  "name": "Angélica María",
+  "fullName": "Angélica María",
+  "profileSummary": "Angélica María Hartman Ortiz is a Mexican singer and actress. Referred to as \"La Novia de México\", she began her career as a child actress in films of the Golden Age of Mexican cinema, such as Pecado (1951), Una mujer decente (1951), and Mi esposa y la otra (1952). During the 1960s, she rose to prominence as a teen idol through her roles in films and telenovelas, concurrently launching a successful music career. Her recordings of compositions by Armando Manzanero established her as a popular singer of rock and roll and pop ballads, with hit songs including the Billboard Hot Latin Tracks top 40-singles \"El hombre de mi vida\", \"Reina y cenicienta\", \"Prohibido\", and \"El taconazo\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ang%C3%A9lica_Mar%C3%ADa_in_1978_%28cropped%29.jpg/330px-Ang%C3%A9lica_Mar%C3%ADa_in_1978_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ang%C3%A9lica_Mar%C3%ADa",
+  "dateOfBirth": "1944-09-27",
+  "birthDateParsed": "1944-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "29.976111111",
+  "birthCoordinatesLng": "-90.078333333",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "actor"
+  ],
+  "qid": "Q442965",
+  "birthPlace": "New Orleans",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:26.716Z"
+}

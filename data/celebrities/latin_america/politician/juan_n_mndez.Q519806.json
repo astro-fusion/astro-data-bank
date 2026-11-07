@@ -1,0 +1,34 @@
+{
+  "publicId": "bb5ff6b1",
+  "wikipediaSlug": "Juan_N._Méndez",
+  "wikipediaId": "Q519806",
+  "name": "Juan N. Méndez",
+  "fullName": "Juan N. Méndez",
+  "profileSummary": "Juan Nepomuceno Laureano Méndez Sánchez was a Mexican general, a Liberal politician and confidant of Porfirio Díaz, and interim president of the Republic for a few months during the Porfiriato. He served from 6 December 1876 until 17 February 1877.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Juan_N_Mendez.jpg/330px-Juan_N_Mendez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_N._M%C3%A9ndez",
+  "dateOfBirth": "1820-07-02",
+  "birthDateParsed": "1820-07-02",
+  "dateOfDeath": "1894-11-29",
+  "deathDateParsed": "1894-11-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.003611111",
+  "birthCoordinatesLng": "-97.888333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q519806",
+  "birthPlace": "Puebla",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:17.001Z"
+}

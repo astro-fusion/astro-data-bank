@@ -1,0 +1,37 @@
+{
+  "publicId": "c04037ae",
+  "wikipediaSlug": "Wee_Chong_Jin",
+  "wikipediaId": "Q7979278",
+  "name": "Wee Chong Jin",
+  "fullName": "Wee Chong Jin",
+  "profileSummary": "Wee Chong Jin was a Malayan-born Singaporean jurist who served as a chief justice of Singapore for 27 years, from 1963 to 1990, where he was the first Asian lawyer appointed as a judge to head the Supreme Court of Singapore, and the longest-serving chief justice in the Commonwealth.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/WeeChongJin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wee_Chong_Jin",
+  "dateOfBirth": "1917-09-28",
+  "birthDateParsed": "1917-09-28",
+  "dateOfDeath": "2005-06-05",
+  "deathDateParsed": "2005-06-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "5.4025",
+  "birthCoordinatesLng": "100.365",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "lawyer",
+    "politician",
+    "badminton player",
+    "jurist"
+  ],
+  "qid": "Q7979278",
+  "birthPlace": "Penang",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:51.450Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "ee7cd0c3",
+  "wikipediaSlug": "Rymma_Zyubina",
+  "wikipediaId": "Q28703320",
+  "name": "Rymma Zyubina",
+  "fullName": "Rymma Zyubina",
+  "profileSummary": "Rimma Anatolyevna Zyubina is a Ukrainian theater and film actress, TV presenter, public figure. Recognized as the best actress in 2017-2019 by the “Shot in Ukraine” rating. Winner of numerous theatrical awards, including the two-time winner of the Kyiv Pectoral Prize, as well as several international awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rimma_Ziubina3.jpg/330px-Rimma_Ziubina3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rymma_Zyubina",
+  "dateOfBirth": "1971-08-23",
+  "birthDateParsed": "1971-08-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.623888888",
+  "birthCoordinatesLng": "22.295",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q28703320",
+  "birthPlace": "Uzhhorod",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:27.738Z"
+}

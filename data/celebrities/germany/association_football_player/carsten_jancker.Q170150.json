@@ -1,0 +1,34 @@
+{
+  "publicId": "b20fbdd4",
+  "wikipediaSlug": "Carsten_Jancker",
+  "wikipediaId": "Q170150",
+  "name": "Carsten Jancker",
+  "fullName": "Carsten Jancker",
+  "profileSummary": "Carsten Jancker is a German football coach and former player. He played as a forward for various teams between 1993 and 2009, including 1. FC Köln, Rapid Wien, Bayern Munich, Udinese Calcio, FC Kaiserslautern, Shanghai Shenhua, and SV Mattersburg, as well as the Germany national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SC_Wiener_Neustadt_vs._Team_Wiener_Linien_20190803_%2899%29.jpg/330px-SC_Wiener_Neustadt_vs._Team_Wiener_Linien_20190803_%2899%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carsten_Jancker",
+  "dateOfBirth": "1974-08-28",
+  "birthDateParsed": "1974-08-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.86446",
+  "birthCoordinatesLng": "11.19089",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q170150",
+  "birthPlace": "Grevesmühlen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:57.108Z"
+}

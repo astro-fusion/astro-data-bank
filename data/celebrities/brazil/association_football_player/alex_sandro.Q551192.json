@@ -1,0 +1,33 @@
+{
+  "publicId": "93937dd2",
+  "wikipediaSlug": "Alex_Sandro",
+  "wikipediaId": "Q551192",
+  "name": "Alex Sandro",
+  "fullName": "Alex Sandro",
+  "profileSummary": "Alex Sandro Lobo Silva, better known as Alex Sandro is a Brazilian professional footballer who plays as a left-back for Campeonato Brasileiro Série A club Flamengo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alex_Sandro_Brazil_V_Morocco_13_June_2026-137_%28cropped%29.jpg/330px-Alex_Sandro_Brazil_V_Morocco_13_June_2026-137_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Sandro",
+  "dateOfBirth": "1991-01-26",
+  "birthDateParsed": "1991-01-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.137777777",
+  "birthCoordinatesLng": "-48.972777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q551192",
+  "birthPlace": "Catanduva",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:26.727Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "d18b06ba",
+  "wikipediaSlug": "Annie_Yi",
+  "wikipediaId": "Q706627",
+  "name": "Annie Yi",
+  "fullName": "Annie Yi",
+  "profileSummary": "Wu Chin-yi, professionally known as Annie Yi or Annie Shizuka Inoh, is a Taiwanese singer, actress, and writer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Annie_Yi.jpg/330px-Annie_Yi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annie_Yi",
+  "dateOfBirth": "1968-03-04",
+  "birthDateParsed": "1968-03-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "film actor",
+    "film director"
+  ],
+  "qid": "Q706627",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:52.135Z"
+}

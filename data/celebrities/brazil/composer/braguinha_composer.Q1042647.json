@@ -1,0 +1,39 @@
+{
+  "publicId": "648b244c",
+  "wikipediaSlug": "Braguinha_(composer)",
+  "wikipediaId": "Q1042647",
+  "name": "Braguinha (composer)",
+  "fullName": "Braguinha (composer)",
+  "profileSummary": "Carlos Alberto Ferreira Braga, commonly known as Braguinha or João de Barro, was a Brazilian songwriter and occasional singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/1/16/Braguinha_%28composer%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Braguinha_(composer)",
+  "dateOfBirth": "1907-03-29",
+  "birthDateParsed": "1907-03-29",
+  "dateOfDeath": "2006-12-24",
+  "deathDateParsed": "2006-12-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "songwriter",
+    "screenwriter",
+    "record producer",
+    "film director",
+    "poet",
+    "musician"
+  ],
+  "qid": "Q1042647",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:44.694Z"
+}

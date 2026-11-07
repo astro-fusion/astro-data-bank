@@ -1,0 +1,36 @@
+{
+  "publicId": "64b8bf03",
+  "wikipediaSlug": "Pedro_Vélez",
+  "wikipediaId": "Q772755",
+  "name": "Pedro Vélez",
+  "fullName": "Pedro Vélez",
+  "profileSummary": "José Pedro Antonio Vélez de Zúñiga was a Mexican politician and lawyer. In the aftermath of a successful coup against president Vicente Guerrero, he was placed at the head of a triumvirate that briefly led the Mexican government during the last days of 1829.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Portrait_of_Pedro_V%C3%A9lez_2.png/330px-Portrait_of_Pedro_V%C3%A9lez_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_V%C3%A9lez",
+  "dateOfBirth": "1787-07-28",
+  "birthDateParsed": "1787-07-28",
+  "dateOfDeath": "1848-08-05",
+  "deathDateParsed": "1848-08-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "22.771666666",
+  "birthCoordinatesLng": "-102.575277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "judge",
+    "politician",
+    "philosopher"
+  ],
+  "qid": "Q772755",
+  "birthPlace": "Zacatecas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:17.271Z"
+}

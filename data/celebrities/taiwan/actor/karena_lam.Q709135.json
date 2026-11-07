@@ -1,0 +1,37 @@
+{
+  "publicId": "b7b1d3fe",
+  "wikipediaSlug": "Karena_Lam",
+  "wikipediaId": "Q709135",
+  "name": "Karena Lam",
+  "fullName": "Karena Lam",
+  "profileSummary": "Karena Lam is a Taiwanese Canadian actress and singer based in Taiwan and Hong Kong.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Karena_Lam_from_%22Daughter%27s_Daughter%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854578156759%29_%28cropped%29.jpg/330px-Karena_Lam_from_%22Daughter%27s_Daughter%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854578156759%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karena_Lam",
+  "dateOfBirth": "1978-08-17",
+  "birthDateParsed": "1978-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.260833333",
+  "birthCoordinatesLng": "-123.113888888",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor",
+    "television actor",
+    "ceramicist"
+  ],
+  "qid": "Q709135",
+  "birthPlace": "Vancouver",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:55.859Z"
+}

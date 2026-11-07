@@ -1,0 +1,43 @@
+{
+  "publicId": "d3fd0690",
+  "wikipediaSlug": "Chico_Buarque",
+  "wikipediaId": "Q333632",
+  "name": "Chico Buarque",
+  "fullName": "Chico Buarque",
+  "profileSummary": "Francisco Buarque de Hollanda OMC • ComIH, popularly known as Chico Buarque, is a Brazilian singer-songwriter, guitarist, composer, playwright, writer, and poet. He is best known for his music, which often includes social, economic, and cultural reflections on Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Chico_Buarque_in_2023.jpg/330px-Chico_Buarque_in_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chico_Buarque",
+  "dateOfBirth": "1944-06-19",
+  "birthDateParsed": "1944-06-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "poet",
+    "writer",
+    "playwright",
+    "jazz musician",
+    "guitarist",
+    "novelist",
+    "actor",
+    "recording artist",
+    "musician"
+  ],
+  "qid": "Q333632",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:12.579Z"
+}

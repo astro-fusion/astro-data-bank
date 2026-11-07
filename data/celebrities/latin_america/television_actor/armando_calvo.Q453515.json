@@ -1,0 +1,36 @@
+{
+  "publicId": "30b476a7",
+  "wikipediaSlug": "Armando_Calvo",
+  "wikipediaId": "Q453515",
+  "name": "Armando Calvo",
+  "fullName": "Armando Calvo",
+  "profileSummary": "Armando Calvo was a Puerto Rican actor. His father was Juan Calvo Domenech, a Spanish actor and his mother was Minerva Lespier, a Puerto Rican. Calvo worked in Spain, Italy, and Mexico appearing in ninety films between 1939 and 1984. By the end of his career, there were over a hundred film credits in his resume. He died in Mexico on 6 July 1996 from renal and digestive issues.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Armando_Calvo_en_1948.jpg/330px-Armando_Calvo_en_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Calvo",
+  "dateOfBirth": "1919-12-25",
+  "birthDateParsed": "1919-12-25",
+  "dateOfDeath": "1996-07-06",
+  "deathDateParsed": "1996-07-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "18.465277777",
+  "birthCoordinatesLng": "-66.116666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "stage actor",
+    "actor"
+  ],
+  "qid": "Q453515",
+  "birthPlace": "San Juan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:23.419Z"
+}

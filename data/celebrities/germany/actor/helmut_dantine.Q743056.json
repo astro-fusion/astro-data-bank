@@ -1,0 +1,37 @@
+{
+  "publicId": "a3258df7",
+  "wikipediaSlug": "Helmut_Dantine",
+  "wikipediaId": "Q743056",
+  "name": "Helmut Dantine",
+  "fullName": "Helmut Dantine",
+  "profileSummary": "Helmut Dantine was an Austrian-American actor who often played Nazis in thriller films of the 1940s. His best-known performances are perhaps the German pilot in Mrs. Miniver and the desperate Bulgarian refugee in Casablanca, who tries gambling to obtain travel visa money for himself and his wife. As his acting career waned, he turned to producing.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Helmut_Dantine.jpg/330px-Helmut_Dantine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helmut_Dantine",
+  "dateOfBirth": "1917-10-07",
+  "birthDateParsed": "1917-10-07",
+  "dateOfDeath": "1982-05-03",
+  "deathDateParsed": "1982-05-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "television actor",
+    "film actor",
+    "film director"
+  ],
+  "qid": "Q743056",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:59.262Z"
+}

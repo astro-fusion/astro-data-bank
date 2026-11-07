@@ -1,0 +1,35 @@
+{
+  "publicId": "e60cb1b0",
+  "wikipediaSlug": "Christian_Nodal",
+  "wikipediaId": "Q30905763",
+  "name": "Christian Nodal",
+  "fullName": "Christian Nodal",
+  "profileSummary": "Christian Jesús González Nodal is a Mexican singer and songwriter. Born and raised in Sonora, he is mainly known for popularizing \"mariacheño\", a fusion genre between mariachi and norteño music. Nodal has won six Latin Grammy Awards, a Lo Nuestro Award, two Billboard Latin Music Awards, and a Latin American Music Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nodal.jpg/330px-Nodal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Nodal",
+  "dateOfBirth": "1999-01-11",
+  "birthDateParsed": "1999-01-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "30.714166666",
+  "birthCoordinatesLng": "-112.148333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician",
+    "singer",
+    "songwriter"
+  ],
+  "qid": "Q30905763",
+  "birthPlace": "Heroica Caborca",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:54.157Z"
+}

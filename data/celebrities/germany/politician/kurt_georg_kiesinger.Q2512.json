@@ -1,0 +1,38 @@
+{
+  "publicId": "5cba24f9",
+  "wikipediaSlug": "Kurt_Georg_Kiesinger",
+  "wikipediaId": "Q2512",
+  "name": "Kurt Georg Kiesinger",
+  "fullName": "Kurt Georg Kiesinger",
+  "profileSummary": "Kurt Georg Kiesinger was a German politician and lawyer who served as the chancellor of West Germany from 1 December 1966 to 21 October 1969. Before he became chancellor, he served as Minister-President of Baden-Württemberg from 1958 to 1966 and as President of the Bundesrat from 1962 to 1963. He was chairman of the Christian Democratic Union (CDU) from 1967 to 1971.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bundesarchiv_B_145_Bild-F029561-0008%2C_Essen%2C_CDU-Bundestagswahlkongress_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kurt_Georg_Kiesinger",
+  "dateOfBirth": "1904-04-06",
+  "birthDateParsed": "1904-04-06",
+  "dateOfDeath": "1988-03-09",
+  "deathDateParsed": "1988-03-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.211944444",
+  "birthCoordinatesLng": "9.023888888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "judge",
+    "jurist",
+    "head of government",
+    "member of parliament"
+  ],
+  "qid": "Q2512",
+  "birthPlace": "Albstadt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:29.908Z"
+}

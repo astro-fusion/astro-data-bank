@@ -1,0 +1,33 @@
+{
+  "publicId": "b3d7ff61",
+  "wikipediaSlug": "Diego_Chará",
+  "wikipediaId": "Q2467202",
+  "name": "Diego Chará",
+  "fullName": "Diego Chará",
+  "profileSummary": "Diego Ferney Chará Zamora is a Colombian professional footballer who plays as a defensive midfielder and captains Major League Soccer club Portland Timbers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Diego_Char%C3%A1_Portland_Timbers_vs_Colorado_Rapids_2016-10-16.jpg/330px-Diego_Char%C3%A1_Portland_Timbers_vs_Colorado_Rapids_2016-10-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Char%C3%A1",
+  "dateOfBirth": "1986-04-05",
+  "birthDateParsed": "1986-04-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.44",
+  "birthCoordinatesLng": "-76.519722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2467202",
+  "birthPlace": "Cali",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:39.696Z"
+}

@@ -1,0 +1,41 @@
+{
+  "publicId": "0242c99c",
+  "wikipediaSlug": "Javier_Milei",
+  "wikipediaId": "Q52395487",
+  "name": "Javier Milei",
+  "fullName": "Javier Milei",
+  "profileSummary": "Javier Gerardo Milei is an Argentine politician and economist who has served as the president of Argentina since 2023. He previously served as a member of the Chamber of Deputies from 2021 to 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg/330px-Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Javier_Milei",
+  "dateOfBirth": "1970-10-22",
+  "birthDateParsed": "1970-10-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "writer",
+    "presenter",
+    "radio personality",
+    "politician",
+    "pundit",
+    "civil servant",
+    "association football player",
+    "university teacher"
+  ],
+  "qid": "Q52395487",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:48.400Z"
+}

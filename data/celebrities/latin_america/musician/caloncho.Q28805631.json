@@ -1,0 +1,36 @@
+{
+  "publicId": "bcc0b7b3",
+  "wikipediaSlug": "Caloncho",
+  "wikipediaId": "Q28805631",
+  "name": "Caloncho",
+  "fullName": "Caloncho",
+  "profileSummary": "Óscar Alfonso Castro, better known as Caloncho, is a Mexican musician and singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/47979019356_ca0cc9271a_o_%28CROPPED%29.jpg/330px-47979019356_ca0cc9271a_o_%28CROPPED%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caloncho",
+  "dateOfBirth": "1986-12-20",
+  "birthDateParsed": "1986-12-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "27.486388888",
+  "birthCoordinatesLng": "-109.940833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician",
+    "singer",
+    "composer",
+    "activist"
+  ],
+  "qid": "Q28805631",
+  "birthPlace": "Ciudad Obregón",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:51.321Z"
+}

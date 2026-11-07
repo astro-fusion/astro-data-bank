@@ -1,0 +1,36 @@
+{
+  "publicId": "e4fb3155",
+  "wikipediaSlug": "Cristian_Castro",
+  "wikipediaId": "Q2409501",
+  "name": "Cristian Castro",
+  "fullName": "Cristian Castro",
+  "profileSummary": "Cristian Sáinz Castro is a Mexican pop singer. He is the son of actors Verónica Castro and Manuel \"El Loco\" Valdés, and nephew of actors Ramón Valdés and Germán \"Tin-Tan\" Valdés. Castro has sold over 12 million records, making him one of the best-selling Latin music artists of all-time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cristian_castro_vivo_2_%28cropped%29.jpg/330px-Cristian_castro_vivo_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Castro",
+  "dateOfBirth": "1974-12-08",
+  "birthDateParsed": "1974-12-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q2409501",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:16.729Z"
+}

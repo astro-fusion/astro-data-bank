@@ -1,0 +1,34 @@
+{
+  "publicId": "5d1a6152",
+  "wikipediaSlug": "Agepê",
+  "wikipediaId": "Q2826788",
+  "name": "Agepê",
+  "fullName": "Agepê",
+  "profileSummary": "Antônio Gilson Porfírio, better known as Agepê, was a Brazilian singer and composer. His nickname consists of the initials AGP, of his name.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Agep%C3%AA_%28D%C3%A9cada_de_1970%29_%28cropped%29.jpg/330px-Agep%C3%AA_%28D%C3%A9cada_de_1970%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agep%C3%AA",
+  "dateOfBirth": "1942-08-10",
+  "birthDateParsed": "1942-08-10",
+  "dateOfDeath": "1995-08-30",
+  "deathDateParsed": "1995-08-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer"
+  ],
+  "qid": "Q2826788",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:36.232Z"
+}

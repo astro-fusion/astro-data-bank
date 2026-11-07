@@ -1,0 +1,33 @@
+{
+  "publicId": "7e65429f",
+  "wikipediaSlug": "Hulk_(footballer)",
+  "wikipediaId": "Q62786",
+  "name": "Hulk (footballer)",
+  "fullName": "Hulk (footballer)",
+  "profileSummary": "Givanildo Vieira de Sousa, mononymously known as Hulk, is a Brazilian professional footballer who plays as a forward for Campeonato Brasileiro Série A club Fluminense.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Spar-Zen2015_%283%29.jpg/330px-Spar-Zen2015_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hulk_(footballer)",
+  "dateOfBirth": "1986-07-25",
+  "birthDateParsed": "1986-07-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-7.230555555",
+  "birthCoordinatesLng": "-35.881111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q62786",
+  "birthPlace": "Campina Grande",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:47.851Z"
+}

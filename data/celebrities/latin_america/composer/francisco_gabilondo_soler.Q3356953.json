@@ -1,0 +1,36 @@
+{
+  "publicId": "f3dc7480",
+  "wikipediaSlug": "Francisco_Gabilondo_Soler",
+  "wikipediaId": "Q3356953",
+  "name": "Francisco Gabilondo Soler",
+  "fullName": "Francisco Gabilondo Soler",
+  "profileSummary": "Francisco Gabilondo Soler was a Mexican composer and performer of children's songs. He recorded and performed those songs under the name of Cri-Cri: El Grillito Cantor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Francisco_Gabilondo_Soler_a_los_41_a%C3%B1os_de_edad.jpg/330px-Francisco_Gabilondo_Soler_a_los_41_a%C3%B1os_de_edad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Gabilondo_Soler",
+  "dateOfBirth": "1907-10-06",
+  "birthDateParsed": "1907-10-06",
+  "dateOfDeath": "1990-12-14",
+  "deathDateParsed": "1990-12-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.839364",
+  "birthCoordinatesLng": "-96.055621",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "children's writer",
+    "singer",
+    "astronomer"
+  ],
+  "qid": "Q3356953",
+  "birthPlace": "Veracruz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:24.877Z"
+}

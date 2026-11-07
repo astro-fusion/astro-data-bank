@@ -1,0 +1,38 @@
+{
+  "publicId": "b43fdc9d",
+  "wikipediaSlug": "Rene_Liu",
+  "wikipediaId": "Q706660",
+  "name": "Rene Liu",
+  "fullName": "Rene Liu",
+  "profileSummary": "Rene Liu Ruo-ying, also known by her nickname \"Milk Tea\", is a Taiwanese singer-songwriter, actress, and director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%E5%8A%89%E8%8B%A5%E8%8B%B1%E7%8D%B2%E5%BE%97%E7%AC%AC35%E5%B1%86%E9%87%91%E9%A6%AC%E7%8D%8E%E8%A9%95%E5%AF%A9%E5%9C%98%E7%89%B9%E5%88%A5%E7%8D%8E.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rene_Liu",
+  "dateOfBirth": "1969-06-01",
+  "birthDateParsed": "1969-06-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "film actor",
+    "television actor",
+    "film director",
+    "recording artist"
+  ],
+  "qid": "Q706660",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:16.897Z"
+}

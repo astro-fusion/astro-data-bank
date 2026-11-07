@@ -1,0 +1,35 @@
+{
+  "publicId": "87e9a684",
+  "wikipediaSlug": "Manuel_de_Sarratea",
+  "wikipediaId": "Q927664",
+  "name": "Manuel de Sarratea",
+  "fullName": "Manuel de Sarratea",
+  "profileSummary": "Manuel Mariano Hipólito de Sarratea y Altolaguirre was an Argentine diplomat, politician and soldier. He served in the First Triumvirate (1811–1812) and twice as governor of Buenos Aires Province in 1820, when he signed the Treaty of Pilar. He later held diplomatic posts in Great Britain, Brazil and France.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Manuel_de_Sarratea.jpg/330px-Manuel_de_Sarratea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_de_Sarratea",
+  "dateOfBirth": "1774-08-11",
+  "birthDateParsed": "1774-08-11",
+  "dateOfDeath": "1849-09-21",
+  "deathDateParsed": "1849-09-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military personnel"
+  ],
+  "qid": "Q927664",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:57.836Z"
+}

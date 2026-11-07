@@ -1,0 +1,35 @@
+{
+  "publicId": "5cf369d5",
+  "wikipediaSlug": "Mariano_Paredes",
+  "wikipediaId": "Q440461",
+  "name": "Mariano Paredes",
+  "fullName": "Mariano Paredes",
+  "profileSummary": "José Mariano Epifanio Paredes y Arrillaga was a Mexican conservative general who served as president of Mexico between December 1845 and July 1846. He assumed office through a coup against the liberal administration led by José Joaquín de Herrera. He was the grandfather of 38th Mexican President Pedro Lascuráin Paredes.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Presidente_Mariano_Paredes_y_Arrillaga.jpg/330px-Presidente_Mariano_Paredes_y_Arrillaga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariano_Paredes",
+  "dateOfBirth": "1797-01-07",
+  "birthDateParsed": "1797-01-07",
+  "dateOfDeath": "1849-09-07",
+  "deathDateParsed": "1849-09-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "minister",
+    "military personnel"
+  ],
+  "qid": "Q440461",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:50.432Z"
+}

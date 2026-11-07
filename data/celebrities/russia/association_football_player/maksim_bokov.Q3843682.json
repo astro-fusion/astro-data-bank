@@ -1,0 +1,34 @@
+{
+  "publicId": "f6b2fefd",
+  "wikipediaSlug": "Maksim_Bokov",
+  "wikipediaId": "Q3843682",
+  "name": "Maksim Bokov",
+  "fullName": "Maksim Bokov",
+  "profileSummary": "Maksim Eduardovich Bokov is a Russian football coach and a former player.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maksim_Bokov",
+  "dateOfBirth": "1973-08-29",
+  "birthDateParsed": "1973-08-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q3843682",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:24.577Z"
+}

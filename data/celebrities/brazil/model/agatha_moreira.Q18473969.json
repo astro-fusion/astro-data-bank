@@ -1,0 +1,36 @@
+{
+  "publicId": "d3174e8e",
+  "wikipediaSlug": "Agatha_Moreira",
+  "wikipediaId": "Q18473969",
+  "name": "Agatha Moreira",
+  "fullName": "Agatha Moreira",
+  "profileSummary": "Agatha Cerqueira Pereira Moreira is a Brazilian actress and former model. She became known after her participation in the twentieth season of the teen telenovela Malhação in 2012; before this, she worked as model in several countries where she did numerous advertising campaigns, appeared in magazine articles and was the face for various known brands. She starred in Em Família in 2014 and was recognized for her performance in Verdades Secretas in 2015. More recently she has starred in several other novelas, including her breakout role in A Dona do Pedaço, in 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/AgathaMoreira.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agatha_Moreira",
+  "dateOfBirth": "1992-01-19",
+  "birthDateParsed": "1992-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q18473969",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:35.181Z"
+}

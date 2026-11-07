@@ -1,0 +1,34 @@
+{
+  "publicId": "f465005c",
+  "wikipediaSlug": "Alexandra_Richter",
+  "wikipediaId": "Q16336329",
+  "name": "Alexandra Richter",
+  "fullName": "Alexandra Richter",
+  "profileSummary": "Alexandra Richter Barbosa da Fonseca is a Brazilian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Alexandra_Richter_2012.jpg/330px-Alexandra_Richter_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Richter",
+  "dateOfBirth": "1967-06-05",
+  "birthDateParsed": "1967-06-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q16336329",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:33.727Z"
+}

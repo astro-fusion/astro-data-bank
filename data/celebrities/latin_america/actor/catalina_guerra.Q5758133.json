@@ -1,0 +1,33 @@
+{
+  "publicId": "7b3253ff",
+  "wikipediaSlug": "Catalina_Guerra",
+  "wikipediaId": "Q5758133",
+  "name": "Catalina Guerra",
+  "fullName": "Catalina Guerra",
+  "profileSummary": "Catalina Guerra Münchmeyer is a Chilean actress of theater, films and television.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Catalina_Guerra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catalina_Guerra",
+  "dateOfBirth": "1969-08-19",
+  "birthDateParsed": "1969-08-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5758133",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:36.448Z"
+}

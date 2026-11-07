@@ -1,0 +1,39 @@
+{
+  "publicId": "57b94efb",
+  "wikipediaSlug": "Aina_Vilberh",
+  "wikipediaId": "Q22918544",
+  "name": "Aina Vilberh",
+  "fullName": "Aina Vilberh",
+  "profileSummary": "Aina Zinovievna Vilberh is a Ukrainian singer, songwriter, vocal teacher and actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Aina_Vilberh_in_2021.jpg/330px-Aina_Vilberh_in_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aina_Vilberh",
+  "dateOfBirth": "1985-01-10",
+  "birthDateParsed": "1985-01-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "46.8",
+  "birthCoordinatesLng": "33.466666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "composer",
+    "writer",
+    "music educator",
+    "recording artist",
+    "voice actor"
+  ],
+  "qid": "Q22918544",
+  "birthPlace": "Kakhovka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:35.838Z"
+}

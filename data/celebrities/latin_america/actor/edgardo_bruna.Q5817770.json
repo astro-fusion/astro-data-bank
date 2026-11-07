@@ -1,0 +1,35 @@
+{
+  "publicId": "4b94018e",
+  "wikipediaSlug": "Edgardo_Bruna",
+  "wikipediaId": "Q5817770",
+  "name": "Edgardo Bruna",
+  "fullName": "Edgardo Bruna",
+  "profileSummary": "Edgardo Bruna del Campo was a Chilean actor, musician, theater director, and social activist, recognized for his long career in various productions and plays.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edgardo_Bruna_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgardo_Bruna",
+  "dateOfBirth": "1943-02-08",
+  "birthDateParsed": "1943-02-08",
+  "dateOfDeath": "2017-03-19",
+  "deathDateParsed": "2017-03-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "activist",
+    "television actor"
+  ],
+  "qid": "Q5817770",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:22.052Z"
+}

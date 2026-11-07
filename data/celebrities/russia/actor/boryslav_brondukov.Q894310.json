@@ -1,0 +1,34 @@
+{
+  "publicId": "b7665bb5",
+  "wikipediaSlug": "Boryslav_Brondukov",
+  "wikipediaId": "Q894310",
+  "name": "Boryslav Brondukov",
+  "fullName": "Boryslav Brondukov",
+  "profileSummary": "Boryslav Mykolayovych Brondukov was a Soviet and Ukrainian film character actor, People's Artist of Ukraine.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Brondukov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Boryslav_Brondukov",
+  "dateOfBirth": "1938-03-01",
+  "birthDateParsed": "1938-03-01",
+  "dateOfDeath": "2004-03-10",
+  "deathDateParsed": "2004-03-10",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q894310",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:07.321Z"
+}

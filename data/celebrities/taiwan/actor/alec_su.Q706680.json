@@ -1,0 +1,39 @@
+{
+  "publicId": "335c3f5f",
+  "wikipediaSlug": "Alec_Su",
+  "wikipediaId": "Q706680",
+  "name": "Alec Su",
+  "fullName": "Alec Su",
+  "profileSummary": "Alec Su You-peng is a Taiwanese actor and singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alec_Su.jpg/330px-Alec_Su.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alec_Su",
+  "dateOfBirth": "1973-09-11",
+  "birthDateParsed": "1973-09-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor",
+    "television producer",
+    "film director",
+    "recording artist"
+  ],
+  "qid": "Q706680",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:22.116Z"
+}

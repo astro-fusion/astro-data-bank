@@ -1,0 +1,39 @@
+{
+  "publicId": "93bbc964",
+  "wikipediaSlug": "Claudia_Sheinbaum",
+  "wikipediaId": "Q5771800",
+  "name": "Claudia Sheinbaum",
+  "fullName": "Claudia Sheinbaum",
+  "profileSummary": "Claudia Sheinbaum Pardo is a Mexican politician, energy and climate change scientist, and academic who has been serving as the 66th president of Mexico since 2024. She is the first woman and the first person with Jewish heritage to hold the office. A member of the National Regeneration Movement (Morena), she previously served as Head of Government of Mexico City from 2018 to 2023. In 2025, Forbes ranked Sheinbaum as the fifth most powerful woman in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Claudia_Sheinbaum_in_2025_%283x4_cropped%29.jpg/330px-Claudia_Sheinbaum_in_2025_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudia_Sheinbaum",
+  "dateOfBirth": "1962-06-24",
+  "birthDateParsed": "1962-06-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "environmentalist",
+    "researcher",
+    "physicist",
+    "university teacher",
+    "mayor",
+    "engineer"
+  ],
+  "qid": "Q5771800",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:04.518Z"
+}

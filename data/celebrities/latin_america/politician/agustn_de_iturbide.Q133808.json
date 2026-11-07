@@ -1,0 +1,35 @@
+{
+  "publicId": "f2b9f2b9",
+  "wikipediaSlug": "Agustín_de_Iturbide",
+  "wikipediaId": "Q133808",
+  "name": "Agustín de Iturbide",
+  "fullName": "Agustín de Iturbide",
+  "profileSummary": "Agustín Cosme Damián de Iturbide y Arámburu, commonly known as Agustín de Iturbide and later by his regnal name Agustín I, was a Mexican army officer and politician who served as the first Emperor of Mexico from 1822 until his abdication in 1823.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Agustin_I_of_Mexico.jpg/330px-Agustin_I_of_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide",
+  "dateOfBirth": "1783-09-27",
+  "birthDateParsed": "1783-09-27",
+  "dateOfDeath": "1824-07-19",
+  "deathDateParsed": "1824-07-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.702777777",
+  "birthCoordinatesLng": "-101.192222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "vexillologist"
+  ],
+  "qid": "Q133808",
+  "birthPlace": "Morelia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:12:47.926Z"
+}

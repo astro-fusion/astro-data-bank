@@ -1,0 +1,34 @@
+{
+  "publicId": "1cc5e496",
+  "wikipediaSlug": "Juan_Lavalle",
+  "wikipediaId": "Q2528692",
+  "name": "Juan Lavalle",
+  "fullName": "Juan Lavalle",
+  "profileSummary": "Juan Galo Lavalle was an Argentine military and political figure from the Unitarian Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lavalle.jpg/330px-Lavalle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Lavalle",
+  "dateOfBirth": "1797-10-17",
+  "birthDateParsed": "1797-10-17",
+  "dateOfDeath": "1841-10-09",
+  "deathDateParsed": "1841-10-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2528692",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:32.323Z"
+}

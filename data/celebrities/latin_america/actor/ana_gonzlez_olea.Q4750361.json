@@ -1,0 +1,35 @@
+{
+  "publicId": "224ee987",
+  "wikipediaSlug": "Ana_González_Olea",
+  "wikipediaId": "Q4750361",
+  "name": "Ana González Olea",
+  "fullName": "Ana González Olea",
+  "profileSummary": "Ana González Olea was an actress in Chilean theater, television and radio. She was commonly known by her nickname La Desideria.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/La_Desideria_-_Ana_Gonzalez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Gonz%C3%A1lez_Olea",
+  "dateOfBirth": "1915-05-04",
+  "birthDateParsed": "1915-05-04",
+  "dateOfDeath": "2008-02-21",
+  "deathDateParsed": "2008-02-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.483333333",
+  "birthCoordinatesLng": "-70.533333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q4750361",
+  "birthPlace": "Peñalolén",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:00.818Z"
+}

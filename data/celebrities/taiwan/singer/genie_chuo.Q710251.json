@@ -1,0 +1,36 @@
+{
+  "publicId": "d88ed4c6",
+  "wikipediaSlug": "Genie_Chuo",
+  "wikipediaId": "Q710251",
+  "name": "Genie Chuo",
+  "fullName": "Genie Chuo",
+  "profileSummary": "Genie Chuo is a Taiwanese singer, actress and television host.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Genie_Chuo%2C_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Genie_Chuo",
+  "dateOfBirth": "1986-01-20",
+  "birthDateParsed": "1986-01-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q710251",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:31.486Z"
+}

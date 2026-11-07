@@ -1,0 +1,37 @@
+{
+  "publicId": "c3c510c8",
+  "wikipediaSlug": "Anneliese_Uhlig",
+  "wikipediaId": "Q566200",
+  "name": "Anneliese Uhlig",
+  "fullName": "Anneliese Uhlig",
+  "profileSummary": "Anneliese Uhlig was a German-born film actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Anneliese_Uhlig_resize.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anneliese_Uhlig",
+  "dateOfBirth": "1918-08-27",
+  "birthDateParsed": "1918-08-27",
+  "dateOfDeath": "2017-06-17",
+  "deathDateParsed": "2017-06-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.450833333",
+  "birthCoordinatesLng": "7.013055555",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "stage actor",
+    "film actor",
+    "actor",
+    "writer"
+  ],
+  "qid": "Q566200",
+  "birthPlace": "Essen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:11.861Z"
+}

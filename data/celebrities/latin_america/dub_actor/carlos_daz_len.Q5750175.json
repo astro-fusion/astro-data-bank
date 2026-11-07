@@ -1,0 +1,34 @@
+{
+  "publicId": "e2d75c96",
+  "wikipediaSlug": "Carlos_Díaz_León",
+  "wikipediaId": "Q5750175",
+  "name": "Carlos Díaz León",
+  "fullName": "Carlos Díaz León",
+  "profileSummary": "Carlos Eugenio Díaz León is a Chilean actor and director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Carlos_D%C3%ADaz_Le%C3%B3n.JPG/330px-Carlos_D%C3%ADaz_Le%C3%B3n.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_D%C3%ADaz_Le%C3%B3n",
+  "dateOfBirth": "1973-04-03",
+  "birthDateParsed": "1973-04-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "dub actor",
+    "television actor"
+  ],
+  "qid": "Q5750175",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:45.961Z"
+}

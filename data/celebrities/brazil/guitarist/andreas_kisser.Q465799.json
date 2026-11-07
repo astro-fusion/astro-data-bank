@@ -1,0 +1,33 @@
+{
+  "publicId": "6ce3aee5",
+  "wikipediaSlug": "Andreas_Kisser",
+  "wikipediaId": "Q465799",
+  "name": "Andreas Kisser",
+  "fullName": "Andreas Kisser",
+  "profileSummary": "Andreas Rudolf Kisser is a Brazilian musician, best known for being the lead guitarist for the metal band Sepultura. He has been featured on every Sepultura release since their second album, Schizophrenia. Additionally, Kisser has also been involved in other bands such as the rock supergroup Hail!, Sexoturica and, more recently, De La Tierra.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2018_Sepultura_-_by_2eight_-_DSC8955.jpg/330px-2018_Sepultura_-_by_2eight_-_DSC8955.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Kisser",
+  "dateOfBirth": "1968-08-24",
+  "birthDateParsed": "1968-08-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.693888888",
+  "birthCoordinatesLng": "-46.565",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "guitarist"
+  ],
+  "qid": "Q465799",
+  "birthPlace": "São Bernardo do Campo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:20.233Z"
+}

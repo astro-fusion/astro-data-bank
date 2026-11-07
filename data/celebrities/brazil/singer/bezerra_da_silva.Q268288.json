@@ -1,0 +1,37 @@
+{
+  "publicId": "62f3ddcf",
+  "wikipediaSlug": "Bezerra_da_Silva",
+  "wikipediaId": "Q268288",
+  "name": "Bezerra da Silva",
+  "fullName": "Bezerra da Silva",
+  "profileSummary": "José Bezerra da Silva was a Brazilian samba musician of the partido alto style.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bezerra_da_Silva",
+  "dateOfBirth": "1927-02-23",
+  "birthDateParsed": "1927-02-23",
+  "dateOfDeath": "2005-01-17",
+  "deathDateParsed": "2005-01-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-8.053888888",
+  "birthCoordinatesLng": "-34.880833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "violinist",
+    "percussionist",
+    "musician"
+  ],
+  "qid": "Q268288",
+  "birthPlace": "Recife",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:46.134Z"
+}

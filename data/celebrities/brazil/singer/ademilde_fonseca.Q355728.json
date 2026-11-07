@@ -1,0 +1,33 @@
+{
+  "publicId": "565f877a",
+  "wikipediaSlug": "Ademilde_Fonseca",
+  "wikipediaId": "Q355728",
+  "name": "Ademilde Fonseca",
+  "fullName": "Ademilde Fonseca",
+  "profileSummary": "Ademilde Fonseca was a Brazilian Choro singer, a genre of music that fuses popular European music and the music of African slaves.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ademilde_Fonseca_%281959%29.tif/lossy-page1-330px-Ademilde_Fonseca_%281959%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ademilde_Fonseca",
+  "dateOfBirth": "1921-03-04",
+  "birthDateParsed": "1921-03-04",
+  "dateOfDeath": "2012-03-27",
+  "deathDateParsed": "2012-03-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "-5.792777777",
+  "birthCoordinatesLng": "-35.328888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q355728",
+  "birthPlace": "São Gonçalo do Amarante",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:56.192Z"
+}

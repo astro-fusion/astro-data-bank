@@ -1,0 +1,35 @@
+{
+  "publicId": "807842f6",
+  "wikipediaSlug": "Viktor_Khristenko",
+  "wikipediaId": "Q317667",
+  "name": "Viktor Khristenko",
+  "fullName": "Viktor Khristenko",
+  "profileSummary": "Viktor Borisovich Khristenko is a Russian politician who was chairman of the board of the Eurasian Economic Commission from 1 February 2012 to 1 February 2016. He was First Deputy Prime Minister of Russia from 31 May 1999 to 10 January 2000 and Minister of Industry from 9 March 2004 to 31 January 2012.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Khristenko_%28cropped%29.jpg/330px-Khristenko_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Khristenko",
+  "dateOfBirth": "1957-08-28",
+  "birthDateParsed": "1957-08-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.15",
+  "birthCoordinatesLng": "61.4",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "statesperson",
+    "economist",
+    "politician"
+  ],
+  "qid": "Q317667",
+  "birthPlace": "Chelyabinsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:39.073Z"
+}

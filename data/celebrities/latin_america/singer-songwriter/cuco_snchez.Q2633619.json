@@ -1,0 +1,38 @@
+{
+  "publicId": "8ebda729",
+  "wikipediaSlug": "Cuco_Sánchez",
+  "wikipediaId": "Q2633619",
+  "name": "Cuco Sánchez",
+  "fullName": "Cuco Sánchez",
+  "profileSummary": "José Refugio \"Cuco\" Sánchez Saldaña was a Mexican singer, songwriter, musician, and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cuco_S%C3%A1nchez_en_1961_%28cropped%29.webp/330px-Cuco_S%C3%A1nchez_en_1961_%28cropped%29.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cuco_S%C3%A1nchez",
+  "dateOfBirth": "1921-05-03",
+  "birthDateParsed": "1921-05-03",
+  "dateOfDeath": "2000-10-05",
+  "deathDateParsed": "2000-10-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "22.395833333",
+  "birthCoordinatesLng": "-97.936944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "composer",
+    "actor",
+    "musician",
+    "guitarist"
+  ],
+  "qid": "Q2633619",
+  "birthPlace": "Altamira",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:42.593Z"
+}

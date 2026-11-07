@@ -1,0 +1,37 @@
+{
+  "publicId": "eb63b664",
+  "wikipediaSlug": "August_Diehl",
+  "wikipediaId": "Q62557",
+  "name": "August Diehl",
+  "fullName": "August Diehl",
+  "profileSummary": "August Diehl is a German actor, primarily known to international audiences for playing Gestapo major Dieter Hellstrom in Quentin Tarantino's Inglourious Basterds (2009) and Michael \"Mike\" Krause, Evelyn Salt's husband, in the movie Salt. He is also known for his leading roles in the films The Counterfeiters (2007), The Young Karl Marx (2017), and Terrence Malick's A Hidden Life (2019).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/August_Diehl_asv2024-09.jpg/330px-August_Diehl_asv2024-09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Diehl",
+  "dateOfBirth": "1976-01-04",
+  "birthDateParsed": "1976-01-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.5",
+  "birthCoordinatesLng": "13.28",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "musician",
+    "guitarist"
+  ],
+  "qid": "Q62557",
+  "birthPlace": "West Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:42.194Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "edd3072e",
+  "wikipediaSlug": "Hans_Rohde",
+  "wikipediaId": "Q877336",
+  "name": "Hans Rohde",
+  "fullName": "Hans Rohde",
+  "profileSummary": "Hans \"Bubi\" Rohde was a German footballer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Rohde",
+  "dateOfBirth": "1914-12-07",
+  "birthDateParsed": "1914-12-07",
+  "dateOfDeath": "1979-12-03",
+  "deathDateParsed": "1979-12-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q877336",
+  "birthPlace": "Hamburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:43.598Z"
+}

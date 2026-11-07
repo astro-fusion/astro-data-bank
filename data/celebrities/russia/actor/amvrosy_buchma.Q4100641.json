@@ -1,0 +1,38 @@
+{
+  "publicId": "6aa131b0",
+  "wikipediaSlug": "Amvrosy_Buchma",
+  "wikipediaId": "Q4100641",
+  "name": "Amvrosy Buchma",
+  "fullName": "Amvrosy Buchma",
+  "profileSummary": "Amvrosy Maksymiliyanovych Buchma was a Ukrainian and Soviet stage and film actor, director and pedagogue. He stepped onto the stage professionally for the first time in 1905 with the Ruska Besida Theatre.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amvrosy_Buchma.jpg/330px-Amvrosy_Buchma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amvrosy_Buchma",
+  "dateOfBirth": "1891-03-14",
+  "birthDateParsed": "1891-03-14",
+  "dateOfDeath": "1957-01-06",
+  "deathDateParsed": "1957-01-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.8425",
+  "birthCoordinatesLng": "24.032222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "theatre director",
+    "drama teacher",
+    "theatre manager",
+    "director"
+  ],
+  "qid": "Q4100641",
+  "birthPlace": "Lviv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:28.703Z"
+}

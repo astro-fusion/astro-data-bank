@@ -1,0 +1,39 @@
+{
+  "publicId": "4f3e5037",
+  "wikipediaSlug": "Antonio_Aguilar",
+  "wikipediaId": "Q1958523",
+  "name": "Antonio Aguilar",
+  "fullName": "Antonio Aguilar",
+  "profileSummary": "José Pascual Antonio Aguilar Márquez Barraza, known as Antonio Aguilar and acredited as Tony Aguilar, was a Mexican singer and actor. He recorded over 150 albums, which sold 25 million copies, and acted in more than 120 films. He was given the honorific nickname \"El Charro de México\" because he is credited with popularizing the Mexican equestrian sport la charrería to international audiences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Antonio_Aguilar_in_The_Undefeated.jpg/330px-Antonio_Aguilar_in_The_Undefeated.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Aguilar",
+  "dateOfBirth": "1919-05-17",
+  "birthDateParsed": "1919-05-17",
+  "dateOfDeath": "2007-06-19",
+  "deathDateParsed": "2007-06-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "22.093888888",
+  "birthCoordinatesLng": "-102.868333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "screenwriter",
+    "film producer",
+    "equestrian",
+    "television actor",
+    "film director"
+  ],
+  "qid": "Q1958523",
+  "birthPlace": "Tayahua",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:27.236Z"
+}

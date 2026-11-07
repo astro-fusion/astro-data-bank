@@ -1,0 +1,36 @@
+{
+  "publicId": "0ee19b51",
+  "wikipediaSlug": "Elisabeth_Trissenaar",
+  "wikipediaId": "Q86718",
+  "name": "Elisabeth Trissenaar",
+  "fullName": "Elisabeth Trissenaar",
+  "profileSummary": "Elisabeth Trissenaar was an Austrian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Elisabeth_Trissenaar03.jpg/330px-Elisabeth_Trissenaar03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elisabeth_Trissenaar",
+  "dateOfBirth": "1944-04-13",
+  "birthDateParsed": "1944-04-13",
+  "dateOfDeath": "2024-01-14",
+  "deathDateParsed": "2024-01-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q86718",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:19.937Z"
+}

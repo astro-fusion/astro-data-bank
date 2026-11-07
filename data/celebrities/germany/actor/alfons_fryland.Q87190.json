@@ -1,0 +1,34 @@
+{
+  "publicId": "cc6a0c58",
+  "wikipediaSlug": "Alfons_Fryland",
+  "wikipediaId": "Q87190",
+  "name": "Alfons Fryland",
+  "fullName": "Alfons Fryland",
+  "profileSummary": "Alfons Fryland was an Austrian film actor. He appeared in 47 films between 1921 and 1933. He was born in Vienna, Austria-Hungary and died in Graz, Austria.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Nicola_Perscheid_-_Alphons_Fryland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfons_Fryland",
+  "dateOfBirth": "1888-05-01",
+  "birthDateParsed": "1888-05-01",
+  "dateOfDeath": "1953-11-29",
+  "deathDateParsed": "1953-11-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q87190",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:18.071Z"
+}

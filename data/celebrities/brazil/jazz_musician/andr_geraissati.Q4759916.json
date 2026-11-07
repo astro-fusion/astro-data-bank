@@ -1,0 +1,33 @@
+{
+  "publicId": "73e78fa5",
+  "wikipediaSlug": "André_Geraissati",
+  "wikipediaId": "Q4759916",
+  "name": "André Geraissati",
+  "fullName": "André Geraissati",
+  "profileSummary": "André Luiz Geraissati was a Brazilian guitarist. He played with Grupo D'Alma, Egberto Gismonti, Bobby McFerrin, and Wynton Marsalis.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Photo_of_Andr%C3%A9_Geraissati.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Geraissati",
+  "dateOfBirth": "1951-09-07",
+  "birthDateParsed": "1951-09-07",
+  "dateOfDeath": "2025-11-19",
+  "deathDateParsed": "2025-11-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jazz musician"
+  ],
+  "qid": "Q4759916",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:01.090Z"
+}

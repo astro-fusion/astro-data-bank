@@ -1,0 +1,36 @@
+{
+  "publicId": "44ada9dc",
+  "wikipediaSlug": "S._Jayakumar_(Singaporean_politician)",
+  "wikipediaId": "Q1521378",
+  "name": "S. Jayakumar (Singaporean politician)",
+  "fullName": "S. Jayakumar (Singaporean politician)",
+  "profileSummary": "Shunmugam Jayakumar is a Singaporean former politician, diplomat, jurist and author who served as the 5th Deputy Prime Minister of Singapore between 2004 and 2009. A member of the governing People's Action Party (PAP), he was the Member of Parliament (MP) for Bedok Constituency between 1980 and 1988, the Bedok division of Bedok Group Representation Constituency (GRC) between 1988 and 1997, and the Bedok division of East Coast GRC between 1997 and 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Jayakumar_%281%29.jpg/330px-Jayakumar_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/S._Jayakumar_(Singaporean_politician)",
+  "dateOfBirth": "1939-08-12",
+  "birthDateParsed": "1939-08-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "jurist",
+    "diplomat"
+  ],
+  "qid": "Q1521378",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:44.170Z"
+}

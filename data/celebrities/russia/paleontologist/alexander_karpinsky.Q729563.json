@@ -1,0 +1,37 @@
+{
+  "publicId": "39ecbf62",
+  "wikipediaSlug": "Alexander_Karpinsky",
+  "wikipediaId": "Q729563",
+  "name": "Alexander Karpinsky",
+  "fullName": "Alexander Karpinsky",
+  "profileSummary": "Alexander Petrovich Karpinsky was a prominent Russian and Soviet geologist and mineralogist, and the president of the Russian Academy of Sciences, and later Academy of Sciences of the USSR, in 1917–1936.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Karpinsky_A_P.jpg/330px-Karpinsky_A_P.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Karpinsky",
+  "dateOfBirth": "1847-01-07",
+  "birthDateParsed": "1847-01-07",
+  "dateOfDeath": "1936-07-15",
+  "deathDateParsed": "1936-07-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.765693192",
+  "birthCoordinatesLng": "60.196465381",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "paleontologist",
+    "geologist",
+    "professor",
+    "mining engineer",
+    "botanist"
+  ],
+  "qid": "Q729563",
+  "birthPlace": "Krasnoturyinsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:57.340Z"
+}

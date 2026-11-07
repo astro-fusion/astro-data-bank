@@ -1,0 +1,34 @@
+{
+  "publicId": "0aa6ee5c",
+  "wikipediaSlug": "Monica_Mok",
+  "wikipediaId": "Q6900019",
+  "name": "Monica Mok",
+  "fullName": "Monica Mok",
+  "profileSummary": "Monica Mok is a Chinese-born Australian model and film actress. She was nominated for the Best New Performer award at the 28th Hong Kong Film Awards for her role in the film Ocean Flame.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Mok",
+  "dateOfBirth": "1981-09-06",
+  "birthDateParsed": "1981-09-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q6900019",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:46.770Z"
+}

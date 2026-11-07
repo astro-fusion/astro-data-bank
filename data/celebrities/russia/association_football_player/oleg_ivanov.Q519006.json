@@ -1,0 +1,33 @@
+{
+  "publicId": "e61a62f5",
+  "wikipediaSlug": "Oleg_Ivanov",
+  "wikipediaId": "Q519006",
+  "name": "Oleg Ivanov",
+  "fullName": "Oleg Ivanov",
+  "profileSummary": "Oleg Aleksandrovich Ivanov is a Russian professional football coach and a former central midfielder who is an assistant manager with Rubin Kazan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Oleg_Ivanov_2021.jpg/330px-Oleg_Ivanov_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleg_Ivanov",
+  "dateOfBirth": "1986-08-04",
+  "birthDateParsed": "1986-08-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q519006",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:31.753Z"
+}

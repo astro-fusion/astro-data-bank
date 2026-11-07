@@ -1,0 +1,37 @@
+{
+  "publicId": "d3d4bd0a",
+  "wikipediaSlug": "Erra_Fazira",
+  "wikipediaId": "Q5257870",
+  "name": "Erra Fazira",
+  "fullName": "Erra Fazira",
+  "profileSummary": "Erra Fazira is a Malaysian actress, singer, fashion model, television host, producer and beauty pageant titleholder who was crowned Miss Malaysia World 1992.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Erra_Fazira_on_MeleTOP.jpg/330px-Erra_Fazira_on_MeleTOP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erra_Fazira",
+  "dateOfBirth": "1974-02-09",
+  "birthDateParsed": "1974-02-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.32",
+  "birthCoordinatesLng": "101.58",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "beauty pageant contestant",
+    "recording artist",
+    "singer"
+  ],
+  "qid": "Q5257870",
+  "birthPlace": "Rawang, Selangor",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:05.839Z"
+}

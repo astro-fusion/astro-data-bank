@@ -1,0 +1,36 @@
+{
+  "publicId": "e19c8daa",
+  "wikipediaSlug": "Adriana_Lessa",
+  "wikipediaId": "Q1276066",
+  "name": "Adriana Lessa",
+  "fullName": "Adriana Lessa",
+  "profileSummary": "Adriana Victor Lessa is a Brazilian actress, singer, television presenter, and dancer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Adriana_Lessa_3_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Lessa",
+  "dateOfBirth": "1971-02-01",
+  "birthDateParsed": "1971-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.466666666",
+  "birthCoordinatesLng": "-46.533333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "actor",
+    "television actor",
+    "singer"
+  ],
+  "qid": "Q1276066",
+  "birthPlace": "Guarulhos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:05.486Z"
+}

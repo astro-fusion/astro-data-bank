@@ -1,0 +1,41 @@
+{
+  "publicId": "44f58d14",
+  "wikipediaSlug": "Ary_Barroso",
+  "wikipediaId": "Q717755",
+  "name": "Ary Barroso",
+  "fullName": "Ary Barroso",
+  "profileSummary": "Ary Evangelista de Resende Barroso was a Brazilian composer, pianist, soccer commentator, and talent-show host on radio and TV. He was one of Brazil's most successful songwriters in the first half of the 20th century. Barroso also composed many songs for Carmen Miranda during her career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ari_Barroso_sendo_agraciado_pelo_presidente_Caf%C3%A9_Filho_com_a_Ordem_do_M%C3%A9rito%2C_sem_data.tif/lossy-page1-330px-Ari_Barroso_sendo_agraciado_pelo_presidente_Caf%C3%A9_Filho_com_a_Ordem_do_M%C3%A9rito%2C_sem_data.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ary_Barroso",
+  "dateOfBirth": "1903-11-07",
+  "birthDateParsed": "1903-11-07",
+  "dateOfDeath": "1964-02-09",
+  "deathDateParsed": "1964-02-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.12",
+  "birthCoordinatesLng": "-42.942777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "songwriter",
+    "journalist",
+    "pianist",
+    "film score composer",
+    "actor",
+    "composer",
+    "conductor",
+    "singer",
+    "musician"
+  ],
+  "qid": "Q717755",
+  "birthPlace": "Ubá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:20.784Z"
+}

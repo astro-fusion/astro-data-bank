@@ -1,0 +1,37 @@
+{
+  "publicId": "225541d0",
+  "wikipediaSlug": "Ariel_Levy_(actor)",
+  "wikipediaId": "Q5704066",
+  "name": "Ariel Levy (actor)",
+  "fullName": "Ariel Levy (actor)",
+  "profileSummary": "Ariel Levy Dor is a Chilean actor and professional wrestler. He is best known for playing Javier Fernández, the main character in the Nicolás López comic film trilogy Qué pena tu..., Ariel in Aftershock and Alejandro in The Green Inferno.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Quinta_Vergara_Inauguraci%C3%B3n_FICVI%C3%91A_%286429992753%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariel_Levy_(actor)",
+  "dateOfBirth": "1984-09-28",
+  "birthDateParsed": "1984-09-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "professional wrestler",
+    "writer",
+    "television actor"
+  ],
+  "qid": "Q5704066",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:49.495Z"
+}

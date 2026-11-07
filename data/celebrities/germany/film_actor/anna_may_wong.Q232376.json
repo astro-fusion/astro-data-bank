@@ -1,0 +1,38 @@
+{
+  "publicId": "31a2a22f",
+  "wikipediaSlug": "Anna_May_Wong",
+  "wikipediaId": "Q232376",
+  "name": "Anna May Wong",
+  "fullName": "Anna May Wong",
+  "profileSummary": "Wong Liu Tsong, known professionally as Anna May Wong, was an American actress, considered the first Chinese American film star in Hollywood, as well as the first Chinese American actress to gain international recognition. Her varied career spanned vaudeville, silent film, sound film, television, stage, and radio.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Anna_May_Wong_-_portrait.jpg/330px-Anna_May_Wong_-_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_May_Wong",
+  "dateOfBirth": "1904-01-03",
+  "birthDateParsed": "1904-01-03",
+  "dateOfDeath": "1961-02-03",
+  "deathDateParsed": "1961-02-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "34.05223",
+  "birthCoordinatesLng": "-118.24368",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "television actor",
+    "singer",
+    "writer",
+    "actor"
+  ],
+  "qid": "Q232376",
+  "birthPlace": "Los Angeles",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:29.494Z"
+}

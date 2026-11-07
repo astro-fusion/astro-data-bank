@@ -1,0 +1,34 @@
+{
+  "publicId": "684511e0",
+  "wikipediaSlug": "Frida_Richard",
+  "wikipediaId": "Q89883",
+  "name": "Frida Richard",
+  "fullName": "Frida Richard",
+  "profileSummary": "Frida Richard was an Austrian actress. She was a prolific actress in both the silent and sound eras.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Richard-frida-foto-ernst-foerster-1879-1943-in-brieger-lothar-das-frauengesicht-der-gegenwart-stuttgart-enke-1930-s078.jpg/330px-Richard-frida-foto-ernst-foerster-1879-1943-in-brieger-lothar-das-frauengesicht-der-gegenwart-stuttgart-enke-1930-s078.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frida_Richard",
+  "dateOfBirth": "1873-11-01",
+  "birthDateParsed": "1873-11-01",
+  "dateOfDeath": "1946-09-12",
+  "deathDateParsed": "1946-09-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q89883",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:49.626Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "5adc19a7",
+  "wikipediaSlug": "Kristian_Kostov",
+  "wikipediaId": "Q21932286",
+  "name": "Kristian Kostov",
+  "fullName": "Kristian Kostov",
+  "profileSummary": "Kristian Konstantinov Kostov is a Bulgarian-Kazakh singer. He was a finalist in season one of The Voice Kids Russia and a runner-up in the fourth season of X Factor Bulgaria. He represented Bulgaria in the Eurovision Song Contest 2017 with the song \"Beautiful Mess\", finishing in second place. In January 2018, Kostov won the EBBA Public Choice award. In January 2019, he was one of seven singers who performed in the seventh season of Singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ESC2017_-_Bulgaria_11.jpg/330px-ESC2017_-_Bulgaria_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristian_Kostov",
+  "dateOfBirth": "2000-03-15",
+  "birthDateParsed": "2000-03-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "actor",
+    "model"
+  ],
+  "qid": "Q21932286",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T02:18:26.030Z"
+}

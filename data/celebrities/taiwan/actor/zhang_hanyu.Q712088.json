@@ -1,0 +1,35 @@
+{
+  "publicId": "c3605f91",
+  "wikipediaSlug": "Zhang_Hanyu",
+  "wikipediaId": "Q712088",
+  "name": "Zhang Hanyu",
+  "fullName": "Zhang Hanyu",
+  "profileSummary": "Zhang Hanyu is a Chinese actor. He rose to fame for his role in the film Assembly (2007), for which he won the Best Actor at the Hundred Flowers Awards, the Golden Horse Film Awards, the Huading Awards and the Huabiao Awards. He is also known for the films The Message (2009), The Chef, the Actor, the Scoundrel (2013), The Taking of Tiger Mountain (2014), Operation Mekong (2016), The Captain (2019), and Chinese Doctors (2021), as well as the television series All Men Are Brothers (2011).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ZHANGHANYU.2007.jpg/330px-ZHANGHANYU.2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhang_Hanyu",
+  "dateOfBirth": "1964-12-19",
+  "birthDateParsed": "1964-12-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "voice actor"
+  ],
+  "qid": "Q712088",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:30.689Z"
+}

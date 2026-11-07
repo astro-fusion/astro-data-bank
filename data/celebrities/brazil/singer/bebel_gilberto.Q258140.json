@@ -1,0 +1,37 @@
+{
+  "publicId": "1e35c2c9",
+  "wikipediaSlug": "Bebel_Gilberto",
+  "wikipediaId": "Q258140",
+  "name": "Bebel Gilberto",
+  "fullName": "Bebel Gilberto",
+  "profileSummary": "Isabel Buarque de Hollanda Gilberto de Oliveira, known as Bebel Gilberto, is a Brazilian popular singer often associated with bossa nova. She is the daughter of João Gilberto and singer Miúcha. Her uncle is singer and composer Chico Buarque.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bebel_Gilberto_Budapest.jpg/330px-Bebel_Gilberto_Budapest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bebel_Gilberto",
+  "dateOfBirth": "1966-05-12",
+  "birthDateParsed": "1966-05-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.728333333",
+  "birthCoordinatesLng": "-73.994166666",
+  "birthTimezone": "America/New_York",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "jazz musician",
+    "composer",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q258140",
+  "birthPlace": "Manhattan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:24.389Z"
+}

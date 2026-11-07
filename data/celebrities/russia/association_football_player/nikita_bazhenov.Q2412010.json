@@ -1,0 +1,33 @@
+{
+  "publicId": "ebca5345",
+  "wikipediaSlug": "Nikita_Bazhenov",
+  "wikipediaId": "Q2412010",
+  "name": "Nikita Bazhenov",
+  "fullName": "Nikita Bazhenov",
+  "profileSummary": "Nikita Aleksandrovich Bazhenov is a Russian former association footballer who played as a striker.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/BazhenovNik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikita_Bazhenov",
+  "dateOfBirth": "1985-02-01",
+  "birthDateParsed": "1985-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2412010",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:47.378Z"
+}

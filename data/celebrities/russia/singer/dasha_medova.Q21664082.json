@@ -1,0 +1,38 @@
+{
+  "publicId": "a673c414",
+  "wikipediaSlug": "Dasha_Medova",
+  "wikipediaId": "Q21664082",
+  "name": "Dasha Medova",
+  "fullName": "Dasha Medova",
+  "profileSummary": "Darya Volodymyrivna Kobets, known professionally as Dasha Medova and later Mira Kulum, is a Ukrainian singer, songwriter, actress, TV presenter and model. She was a member of Dmitriy Kostyuk's version of Nu Virgos from 2013 to 2014. She disappeared without a trace in 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Daria_Kobets_2015_%28crop%29.jpg/330px-Daria_Kobets_2015_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dasha_Medova",
+  "dateOfBirth": "1990-10-23",
+  "birthDateParsed": "1990-10-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "46.6425",
+  "birthCoordinatesLng": "32.625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "presenter",
+    "actor",
+    "composer",
+    "model",
+    "television presenter"
+  ],
+  "qid": "Q21664082",
+  "birthPlace": "Kherson",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:30.153Z"
+}

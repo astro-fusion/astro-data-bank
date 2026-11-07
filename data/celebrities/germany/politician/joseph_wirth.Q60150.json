@@ -1,0 +1,33 @@
+{
+  "publicId": "34574b3d",
+  "wikipediaSlug": "Joseph_Wirth",
+  "wikipediaId": "Q60150",
+  "name": "Joseph Wirth",
+  "fullName": "Joseph Wirth",
+  "profileSummary": "Karl Joseph Wirth was a German politician of the Catholic Centre Party who was chancellor of Germany from May 1921 to November 1922, during the early years of the Weimar Republic. He was also minister of four government departments between 1920 and 1931. Wirth was strongly influenced by Christian social teaching throughout his political career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bundesarchiv_Bild_146III-105%2C_Joseph_Wirth_%28cropped%29.jpg/330px-Bundesarchiv_Bild_146III-105%2C_Joseph_Wirth_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Wirth",
+  "dateOfBirth": "1879-09-06",
+  "birthDateParsed": "1879-09-06",
+  "dateOfDeath": "1956-01-03",
+  "deathDateParsed": "1956-01-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.995",
+  "birthCoordinatesLng": "7.85",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q60150",
+  "birthPlace": "Freiburg im Breisgau",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:29.161Z"
+}

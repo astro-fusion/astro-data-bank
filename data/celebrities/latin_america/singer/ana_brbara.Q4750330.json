@@ -1,0 +1,37 @@
+{
+  "publicId": "b34ebb33",
+  "wikipediaSlug": "Ana_Bárbara",
+  "wikipediaId": "Q4750330",
+  "name": "Ana Bárbara",
+  "fullName": "Ana Bárbara",
+  "profileSummary": "Altagracia Ugalde Motta, better known as Ana Bárbara, is a Mexican singer. She has become a prominent figure within Latin entertainment since her professional debut in 1994 and is one of the leading female figures in regional Mexican and grupero music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ana_B%C3%A1rbara_2007.jpg/330px-Ana_B%C3%A1rbara_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_B%C3%A1rbara",
+  "dateOfBirth": "1971-01-10",
+  "birthDateParsed": "1971-01-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "21.93032",
+  "birthCoordinatesLng": "-99.99169",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "choreographer",
+    "songwriter",
+    "recording artist"
+  ],
+  "qid": "Q4750330",
+  "birthPlace": "Rioverde",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:24.207Z"
+}

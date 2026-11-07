@@ -1,0 +1,41 @@
+{
+  "publicId": "830786ee",
+  "wikipediaSlug": "Alexander_Chayanov",
+  "wikipediaId": "Q968167",
+  "name": "Alexander Chayanov",
+  "fullName": "Alexander Chayanov",
+  "profileSummary": "Alexander Vasilyevich Chayanov was a Russian, then Soviet agrarian economist, scholar of rural sociology, and advocate of agrarianism and cooperatives.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Alexander_Chayanov_1910.jpg/330px-Alexander_Chayanov_1910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Chayanov",
+  "dateOfBirth": "1888-01-29",
+  "birthDateParsed": "1888-01-29",
+  "dateOfDeath": "1937-10-03",
+  "deathDateParsed": "1937-10-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "anthropologist",
+    "geopolitical analyst",
+    "historian",
+    "sociologist",
+    "local historian",
+    "writer",
+    "agronomist",
+    "business manager"
+  ],
+  "qid": "Q968167",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:46.312Z"
+}

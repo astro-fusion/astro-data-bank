@@ -1,0 +1,38 @@
+{
+  "publicId": "a20fd962",
+  "wikipediaSlug": "Valery_Zorkin",
+  "wikipediaId": "Q506261",
+  "name": "Valery Zorkin",
+  "fullName": "Valery Zorkin",
+  "profileSummary": "Valery Dmitrievich Zorkin is a Russian legal scholar and judge serving as the 4th and current President of the Constitutional Court of Russia. He also served as the 1st President of the Constitutional Court from 1991 to 1993.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Valery_Zorkin_official_portrait.png/330px-Valery_Zorkin_official_portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valery_Zorkin",
+  "dateOfBirth": "1943-02-18",
+  "birthDateParsed": "1943-02-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.95",
+  "birthCoordinatesLng": "131.635",
+  "birthTimezone": "Asia/Tokyo",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "politician",
+    "lawyer",
+    "jurist",
+    "university teacher",
+    "scientist"
+  ],
+  "qid": "Q506261",
+  "birthPlace": "Oktyabrsky District, Primorsky Krai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:38.424Z"
+}

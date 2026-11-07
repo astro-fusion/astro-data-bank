@@ -1,0 +1,35 @@
+{
+  "publicId": "096aa629",
+  "wikipediaSlug": "Cláudio_Taffarel",
+  "wikipediaId": "Q295891",
+  "name": "Cláudio Taffarel",
+  "fullName": "Cláudio Taffarel",
+  "profileSummary": "Cláudio André Mergen Taffarel is a Brazilian professional football coach and former player who is the goalkeeping coach of the Brazil national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Taffarel_2018.png/330px-Taffarel_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cl%C3%A1udio_Taffarel",
+  "dateOfBirth": "1966-05-08",
+  "birthDateParsed": "1966-05-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-27.870833333",
+  "birthCoordinatesLng": "-54.480833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "goalkeeper coach"
+  ],
+  "qid": "Q295891",
+  "birthPlace": "Santa Rosa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:40.263Z"
+}

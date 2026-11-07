@@ -1,0 +1,38 @@
+{
+  "publicId": "c8a26549",
+  "wikipediaSlug": "Gustav_Stresemann",
+  "wikipediaId": "Q103955",
+  "name": "Gustav Stresemann",
+  "fullName": "Gustav Stresemann",
+  "profileSummary": "Gustav Ernst Stresemann was a German statesman during the Weimar Republic who served as chancellor of Germany from August to November 1923 and as foreign minister from 1923 to 1929. His most notable achievement was the reconciliation between Germany and France, for which he and French Prime Minister Aristide Briand received the Nobel Peace Prize in 1926. During a period of political instability and fragile, short-lived governments, Stresemann was seen at his death as \"the person who maintained the precarious balance of the political system.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesarchiv_Bild_146-1989-040-27%2C_Gustav_Stresemann.jpg/330px-Bundesarchiv_Bild_146-1989-040-27%2C_Gustav_Stresemann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustav_Stresemann",
+  "dateOfBirth": "1878-05-10",
+  "birthDateParsed": "1878-05-10",
+  "dateOfDeath": "1929-10-03",
+  "deathDateParsed": "1929-10-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "head of government",
+    "author",
+    "member of parliament",
+    "foreign minister"
+  ],
+  "qid": "Q103955",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:24.976Z"
+}

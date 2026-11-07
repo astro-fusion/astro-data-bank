@@ -1,0 +1,40 @@
+{
+  "publicId": "bfc3da93",
+  "wikipediaSlug": "Branco_Mello",
+  "wikipediaId": "Q4956461",
+  "name": "Branco Mello",
+  "fullName": "Branco Mello",
+  "profileSummary": "Branco Mello is a Brazilian musician and actor, best known as the vocalist and bassist of Brazilian rock band Titãs. He has also played small but significant roles in films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Brancomello_%28cropped%29.jpg/330px-Brancomello_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Branco_Mello",
+  "dateOfBirth": "1962-03-16",
+  "birthDateParsed": "1962-03-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.07",
+  "birthCoordinatesLng": "-48.433611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "songwriter",
+    "record producer",
+    "children's writer",
+    "guitarist",
+    "actor",
+    "film director"
+  ],
+  "qid": "Q4956461",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:36.960Z"
+}

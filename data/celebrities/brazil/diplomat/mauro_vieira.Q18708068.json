@@ -1,0 +1,33 @@
+{
+  "publicId": "bcdd8ba0",
+  "wikipediaSlug": "Mauro_Vieira",
+  "wikipediaId": "Q18708068",
+  "name": "Mauro Vieira",
+  "fullName": "Mauro Vieira",
+  "profileSummary": "Mauro Luiz Iecker Vieira is a Brazilian diplomat serving as Minister of Foreign Affairs of Brazil since 1 January 2023 under President Luiz Inácio Lula da Silva. Vieira occupied the same office between 2015 and 2016 during President Dilma Rousseff's second term.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mauro_Vieira_em_2023.jpeg/330px-Mauro_Vieira_em_2023.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mauro_Vieira",
+  "dateOfBirth": "1951-02-15",
+  "birthDateParsed": "1951-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat"
+  ],
+  "qid": "Q18708068",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:14.494Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "6c00f24c",
+  "wikipediaSlug": "Angela_Winkler",
+  "wikipediaId": "Q66377",
+  "name": "Angela Winkler",
+  "fullName": "Angela Winkler",
+  "profileSummary": "Angela Winkler is a German actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Angela_Winkler_at_Cabaret_Phoney_Island.jpg/330px-Angela_Winkler_at_Cabaret_Phoney_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angela_Winkler",
+  "dateOfBirth": "1944-01-22",
+  "birthDateParsed": "1944-01-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.121686",
+  "birthCoordinatesLng": "13.508255",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q66377",
+  "birthPlace": "Templin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:45.062Z"
+}

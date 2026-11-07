@@ -1,0 +1,35 @@
+{
+  "publicId": "fd0df685",
+  "wikipediaSlug": "Felipe_Calderón",
+  "wikipediaId": "Q57269",
+  "name": "Felipe Calderón",
+  "fullName": "Felipe Calderón",
+  "profileSummary": "Felipe de Jesús Calderón Hinojosa is a Mexican politician and lawyer who served as the 63rd president of Mexico from 2006 to 2012 and Secretary of Energy during the presidency of Vicente Fox between 2003 and 2004. He was a member of the National Action Party for 30 years before quitting the party in November 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Presidente_Felipe_Calderon_%28cropped%29_%28b%29.jpg/330px-Presidente_Felipe_Calderon_%28cropped%29_%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Felipe_Calder%C3%B3n",
+  "dateOfBirth": "1962-08-18",
+  "birthDateParsed": "1962-08-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.702777777",
+  "birthCoordinatesLng": "-101.192222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "economist"
+  ],
+  "qid": "Q57269",
+  "birthPlace": "Morelia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:12:53.390Z"
+}

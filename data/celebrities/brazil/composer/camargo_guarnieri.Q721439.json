@@ -1,0 +1,37 @@
+{
+  "publicId": "518e7503",
+  "wikipediaSlug": "Camargo_Guarnieri",
+  "wikipediaId": "Q721439",
+  "name": "Camargo Guarnieri",
+  "fullName": "Camargo Guarnieri",
+  "profileSummary": "Mozart Camargo Guarnieri was a Brazilian composer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Camargo_Guarnieri_%28sem_data%29.tiff/lossy-page1-330px-Camargo_Guarnieri_%28sem_data%29.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Camargo_Guarnieri",
+  "dateOfBirth": "1907-02-01",
+  "birthDateParsed": "1907-02-01",
+  "dateOfDeath": "1993-01-13",
+  "deathDateParsed": "1993-01-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.101944444",
+  "birthCoordinatesLng": "-47.715",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "conductor",
+    "musicologist",
+    "pianist",
+    "poet"
+  ],
+  "qid": "Q721439",
+  "birthPlace": "Tietê",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:12.040Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "9d861c2f",
+  "wikipediaSlug": "Rómulo_Díaz_de_la_Vega",
+  "wikipediaId": "Q2500617",
+  "name": "Rómulo Díaz de la Vega",
+  "fullName": "Rómulo Díaz de la Vega",
+  "profileSummary": "José María Rómulo Díaz de la Vega Fuentes was a Mexican military officer and politician. As commander of the garrison in Mexico City, he was the de facto president of Mexico in 1855, after the resignation of President Martín Carrera during the revolutionary Plan of Ayutla left a power vacuum.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Presidente_Rom%C3%BAlo_D%C3%ADaz_de_la_Vega.jpg/330px-Presidente_Rom%C3%BAlo_D%C3%ADaz_de_la_Vega.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/R%C3%B3mulo_D%C3%ADaz_de_la_Vega",
+  "dateOfBirth": "1800-05-23",
+  "birthDateParsed": "1800-05-23",
+  "dateOfDeath": "1877-10-03",
+  "deathDateParsed": "1877-10-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2500617",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:16.491Z"
+}

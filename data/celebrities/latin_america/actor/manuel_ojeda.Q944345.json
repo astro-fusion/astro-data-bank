@@ -1,0 +1,33 @@
+{
+  "publicId": "c477523e",
+  "wikipediaSlug": "Manuel_Ojeda",
+  "wikipediaId": "Q944345",
+  "name": "Manuel Ojeda",
+  "fullName": "Manuel Ojeda",
+  "profileSummary": "Manuel Salvador Ojeda Armenta was a Mexican actor. Ojeda was one of the most active actors of television and cinema in Mexico. He played the villain, Zolo, in the Hollywood film Romancing the Stone.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/El_primer_actor_Manuel_Ojeda_%28cropped%29.jpg/330px-El_primer_actor_Manuel_Ojeda_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Ojeda",
+  "dateOfBirth": "1940-11-04",
+  "birthDateParsed": "1940-11-04",
+  "dateOfDeath": "2022-08-11",
+  "deathDateParsed": "2022-08-11",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "24.148611111",
+  "birthCoordinatesLng": "-110.306666666",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q944345",
+  "birthPlace": "La Paz",
+  "fetchedAt": "2026-08-16T13:16:40.737Z"
+}

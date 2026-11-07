@@ -1,0 +1,34 @@
+{
+  "publicId": "0025312f",
+  "wikipediaSlug": "Nicholas_Teo",
+  "wikipediaId": "Q707157",
+  "name": "Nicholas Teo",
+  "fullName": "Nicholas Teo",
+  "profileSummary": "Nicholas Teo is a Malaysian Chinese singer under Good Tengz Entertainment Sdn Bhd. (Malaysia)",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicholas_Teo",
+  "dateOfBirth": "1981-11-29",
+  "birthDateParsed": "1981-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.5575",
+  "birthCoordinatesLng": "110.343888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor"
+  ],
+  "qid": "Q707157",
+  "birthPlace": "Kuching",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:43.604Z"
+}

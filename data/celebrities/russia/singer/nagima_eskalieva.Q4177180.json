@@ -1,0 +1,33 @@
+{
+  "publicId": "fb327d01",
+  "wikipediaSlug": "Nagima_Eskalieva",
+  "wikipediaId": "Q4177180",
+  "name": "Nagima Eskalieva",
+  "fullName": "Nagima Eskalieva",
+  "profileSummary": "Nagima Eskalieva is a Kazakh singer and awarded national artist of the Kazakh Soviet Socialist Republic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nagima_Eskaliyeva.jpg/330px-Nagima_Eskaliyeva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nagima_Eskalieva",
+  "dateOfBirth": "1954-02-03",
+  "birthDateParsed": "1954-02-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.24",
+  "birthCoordinatesLng": "76.915",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q4177180",
+  "birthPlace": "Almaty",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T02:18:29.827Z"
+}

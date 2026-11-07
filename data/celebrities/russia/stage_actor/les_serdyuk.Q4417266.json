@@ -1,0 +1,34 @@
+{
+  "publicId": "c36b1698",
+  "wikipediaSlug": "Les_Serdyuk",
+  "wikipediaId": "Q4417266",
+  "name": "Les Serdyuk",
+  "fullName": "Les Serdyuk",
+  "profileSummary": "Oleksandr Oleksandrovych Serdyuk, also known as Les Serdyuk, was a Soviet and Ukrainian theater and film actor. He received the title of People's Artist of Ukraine (1996).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Les_Serdyuk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Les_Serdyuk",
+  "dateOfBirth": "1940-10-14",
+  "birthDateParsed": "1940-10-14",
+  "dateOfDeath": "2010-05-25",
+  "deathDateParsed": "2010-05-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.9925",
+  "birthCoordinatesLng": "36.231111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q4417266",
+  "birthPlace": "Kharkiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:30:40.714Z"
+}

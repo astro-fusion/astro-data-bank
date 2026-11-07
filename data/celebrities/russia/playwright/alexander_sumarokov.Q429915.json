@@ -1,0 +1,39 @@
+{
+  "publicId": "8cbbd631",
+  "wikipediaSlug": "Alexander_Sumarokov",
+  "wikipediaId": "Q429915",
+  "name": "Alexander Sumarokov",
+  "fullName": "Alexander Sumarokov",
+  "profileSummary": "Alexander Petrovich Sumarokov was a Russian poet and playwright who single-handedly created classical theatre in Russia, thus assisting Mikhail Lomonosov to inaugurate the reign of classicism in Russian literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sumarokov_by_A.Losenko.jpg/330px-Sumarokov_by_A.Losenko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Sumarokov",
+  "dateOfBirth": "1717-11-25",
+  "birthDateParsed": "1717-11-25",
+  "dateOfDeath": "1777-10-12",
+  "deathDateParsed": "1777-10-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "61.058333333",
+  "birthCoordinatesLng": "28.186111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "poet",
+    "librettist",
+    "writer",
+    "literary critic",
+    "satirist",
+    "impressionist"
+  ],
+  "qid": "Q429915",
+  "birthPlace": "Lappeenranta",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:42.594Z"
+}

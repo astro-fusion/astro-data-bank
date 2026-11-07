@@ -1,0 +1,33 @@
+{
+  "publicId": "6a23dbf2",
+  "wikipediaSlug": "Candy_Chen",
+  "wikipediaId": "Q5372443",
+  "name": "Candy Chen",
+  "fullName": "Candy Chen",
+  "profileSummary": "Candy Chen is a dancer, actress, host, singer, rapper and a model. She is featured on the Taiwanese variety shows: Blackie's Teenage Club and Blackie Lollipop. Candy was a member of the Taiwanese girl group Hey Girl from 2010 to 2011, and a member of Twinko from 2013 to 2016. She is 1/8th Dutch. She changed her name to Chen Yi-Ling in July 2012 to follow her mother's maiden name. Her English name becomes Nina Chen. In November 2013, she changed her name to Candy Chen and Chen Si Ya.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Candy2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Candy_Chen",
+  "dateOfBirth": "1993-01-03",
+  "birthDateParsed": "1993-01-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.956944444",
+  "birthCoordinatesLng": "121.223611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q5372443",
+  "birthPlace": "Zhongli District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:38.544Z"
+}

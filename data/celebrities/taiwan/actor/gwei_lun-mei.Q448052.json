@@ -1,0 +1,36 @@
+{
+  "publicId": "e4233f39",
+  "wikipediaSlug": "Gwei_Lun-mei",
+  "wikipediaId": "Q448052",
+  "name": "Gwei Lun-mei",
+  "fullName": "Gwei Lun-mei",
+  "profileSummary": "Gwei Lun-mei is a Taiwanese actress. She started her acting career in 2002, with the film Blue Gate Crossing. Gwei then appeared in a few more films before achieving wide recognition for the film Secret (2007), directed by Jay Chou, in which Gwei played the character of Lu Hsiao-yu.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gwei_Lun-mei_20220611.jpg/330px-Gwei_Lun-mei_20220611.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gwei_Lun-mei",
+  "dateOfBirth": "1983-12-25",
+  "birthDateParsed": "1983-12-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "voice actor"
+  ],
+  "qid": "Q448052",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:31.366Z"
+}

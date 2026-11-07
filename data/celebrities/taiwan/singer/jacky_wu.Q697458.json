@@ -1,0 +1,36 @@
+{
+  "publicId": "65957e20",
+  "wikipediaSlug": "Jacky_Wu",
+  "wikipediaId": "Q697458",
+  "name": "Jacky Wu",
+  "fullName": "Jacky Wu",
+  "profileSummary": "Jacky Wu is a Taiwanese television show host, singer, and actor. He hosts numerous variety shows, such as the long running popular Taiwanese variety show Guess.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Jacky_Wu_20221013.jpg/330px-Jacky_Wu_20221013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacky_Wu",
+  "dateOfBirth": "1962-09-26",
+  "birthDateParsed": "1962-09-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.99",
+  "birthCoordinatesLng": "120.185",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television presenter",
+    "television actor"
+  ],
+  "qid": "Q697458",
+  "birthPlace": "Tainan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:13.343Z"
+}

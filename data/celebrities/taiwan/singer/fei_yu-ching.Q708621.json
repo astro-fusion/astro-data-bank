@@ -1,0 +1,35 @@
+{
+  "publicId": "cf8b88b6",
+  "wikipediaSlug": "Fei_Yu-ching",
+  "wikipediaId": "Q708621",
+  "name": "Fei Yu-ching",
+  "fullName": "Fei Yu-ching",
+  "profileSummary": "Fei Yu-ching is a Taiwanese singer and television host.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20121110%E8%B2%BB%E7%8E%89%E6%B8%85.jpg/330px-20121110%E8%B2%BB%E7%8E%89%E6%B8%85.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fei_Yu-ching",
+  "dateOfBirth": "1955-07-17",
+  "birthDateParsed": "1955-07-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "television presenter"
+  ],
+  "qid": "Q708621",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:26.375Z"
+}

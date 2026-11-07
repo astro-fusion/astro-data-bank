@@ -1,0 +1,33 @@
+{
+  "publicId": "d9a4dc70",
+  "wikipediaSlug": "Alexander_Opekushin",
+  "wikipediaId": "Q31885",
+  "name": "Alexander Opekushin",
+  "fullName": "Alexander Opekushin",
+  "profileSummary": "Alexander Mikhailovich Opekushin was a Russian sculptor, known primarily for his monumental works.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Opekushin_AM.jpg/330px-Opekushin_AM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Opekushin",
+  "dateOfBirth": "1838-11-28",
+  "birthDateParsed": "1838-11-28",
+  "dateOfDeath": "1923-03-04",
+  "deathDateParsed": "1923-03-04",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sculptor"
+  ],
+  "qid": "Q31885",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:43.915Z"
+}

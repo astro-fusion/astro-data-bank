@@ -1,0 +1,36 @@
+{
+  "publicId": "0aa0531f",
+  "wikipediaSlug": "Liu_Ye_(actor)",
+  "wikipediaId": "Q714389",
+  "name": "Liu Ye (actor)",
+  "fullName": "Liu Ye (actor)",
+  "profileSummary": "Liu Ye is a Chinese actor. He made his feature film debut in Postmen in the Mountains (1999), and rose to fame for his role in Lan Yu (2001), which earned him a Golden Horse Award for Best Leading Actor. His other notable works include the film Cock and Bull (2016), as well as the television series Blood Color Romance (2005) and All Quiet in Peking (2014).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%E5%8A%89%E7%87%81.jpg/330px-%E5%8A%89%E7%87%81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Liu_Ye_(actor)",
+  "dateOfBirth": "1978-03-23",
+  "birthDateParsed": "1978-03-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.8461",
+  "birthCoordinatesLng": "126.56157",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q714389",
+  "birthPlace": "Jilin City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:38.310Z"
+}

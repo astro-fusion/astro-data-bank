@@ -1,0 +1,33 @@
+{
+  "publicId": "6df683cd",
+  "wikipediaSlug": "Tan_Howe_Liang",
+  "wikipediaId": "Q709924",
+  "name": "Tan Howe Liang",
+  "fullName": "Tan Howe Liang",
+  "profileSummary": "Tan Howe Liang, was a Singaporean weightlifter who was the first Singaporean to win an Olympic Games medal. He did so in the 1960 Summer Olympics in Rome where he won the silver medal in the lightweight category. Tan also broke the oldest-standing world record in the lightweight category in the clean and jerk in 1958. He was the only Singaporean Olympic medalist until the 2008 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Tan_Howe_Liang%2C_2008_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tan_Howe_Liang",
+  "dateOfBirth": "1933-05-05",
+  "birthDateParsed": "1933-05-05",
+  "dateOfDeath": "2024-12-03",
+  "deathDateParsed": "2024-12-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "23.353888888",
+  "birthCoordinatesLng": "116.682222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "weightlifter"
+  ],
+  "qid": "Q709924",
+  "birthPlace": "Shantou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:50.714Z"
+}

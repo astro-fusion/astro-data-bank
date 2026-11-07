@@ -1,0 +1,33 @@
+{
+  "publicId": "4aa58a2b",
+  "wikipediaSlug": "Carlos_Barbosa-Lima",
+  "wikipediaId": "Q5041816",
+  "name": "Carlos Barbosa-Lima",
+  "fullName": "Carlos Barbosa-Lima",
+  "profileSummary": "Antonio Carlos Ribeiro Barbosa Lima was a Brazilian classical and jazz guitarist. He spent most of his professional life as a resident in the United States, devoting much of his time as a recitalist on international concert tours. He appeared often as a soloist and with orchestras.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBL_Red_Bricks_9x12_200_dpi.jpg/330px-CBL_Red_Bricks_9x12_200_dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Barbosa-Lima",
+  "dateOfBirth": "1944-12-17",
+  "birthDateParsed": "1944-12-17",
+  "dateOfDeath": "2022-02-23",
+  "deathDateParsed": "2022-02-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "classical guitarist"
+  ],
+  "qid": "Q5041816",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:11.307Z"
+}

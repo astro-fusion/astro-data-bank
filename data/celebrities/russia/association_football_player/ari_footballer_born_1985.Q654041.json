@@ -1,0 +1,33 @@
+{
+  "publicId": "2dad8da9",
+  "wikipediaSlug": "Ari_(footballer,_born_1985)",
+  "wikipediaId": "Q654041",
+  "name": "Ari (footballer, born 1985)",
+  "fullName": "Ari (footballer, born 1985)",
+  "profileSummary": "Ariclenes da Silva Ferreira, commonly known as Ari, is a professional football official and a former striker. Born in Brazil, he played for the Russia national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ari_Atl%C3%A9tico.png/330px-Ari_Atl%C3%A9tico.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ari_(footballer%2C_born_1985)",
+  "dateOfBirth": "1985-12-11",
+  "birthDateParsed": "1985-12-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-3.7275",
+  "birthCoordinatesLng": "-38.5275",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q654041",
+  "birthPlace": "Fortaleza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:44.550Z"
+}

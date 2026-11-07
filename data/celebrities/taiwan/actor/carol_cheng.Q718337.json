@@ -1,0 +1,36 @@
+{
+  "publicId": "e7e32cbf",
+  "wikipediaSlug": "Carol_Cheng",
+  "wikipediaId": "Q718337",
+  "name": "Carol Cheng",
+  "fullName": "Carol Cheng",
+  "profileSummary": "Carol Cheng Yu Ling, nicknamed Do Do, is a Hong Kong host and actress. Cheng made her break in TVB series, Man in the Net (1979–1980). She is the first to win both the Hong Kong Film Award for Best Actress and the TVB Anniversary Award for Best Actress, which are the highest honors for an actress in film and television in Hong Kong.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Carol_Cheng_Yu_Ling_2018.jpg/330px-Carol_Cheng_Yu_Ling_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carol_Cheng",
+  "dateOfBirth": "1957-09-09",
+  "birthDateParsed": "1957-09-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "television presenter",
+    "radio personality"
+  ],
+  "qid": "Q718337",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:06.884Z"
+}

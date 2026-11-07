@@ -1,0 +1,43 @@
+{
+  "publicId": "876df6c4",
+  "wikipediaSlug": "Arno_Assmann",
+  "wikipediaId": "Q107729",
+  "name": "Arno Assmann",
+  "fullName": "Arno Assmann",
+  "profileSummary": "Arno Assmann was a German actor, film director and television writer. He committed suicide.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arno_Assmann",
+  "dateOfBirth": "1908-07-30",
+  "birthDateParsed": "1908-07-30",
+  "dateOfDeath": "1979-11-30",
+  "deathDateParsed": "1979-11-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.11",
+  "birthCoordinatesLng": "17.0325",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "voice actor",
+    "film director",
+    "stage actor",
+    "film actor",
+    "screenwriter",
+    "television actor",
+    "theatre manager",
+    "comedian",
+    "actor",
+    "director",
+    "musician"
+  ],
+  "qid": "Q107729",
+  "birthPlace": "Wrocław",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:33.660Z"
+}

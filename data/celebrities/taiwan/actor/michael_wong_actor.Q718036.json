@@ -1,0 +1,35 @@
+{
+  "publicId": "52dc60b1",
+  "wikipediaSlug": "Michael_Wong_(actor)",
+  "wikipediaId": "Q718036",
+  "name": "Michael Wong (actor)",
+  "fullName": "Michael Wong (actor)",
+  "profileSummary": "Michael Fitzgerald Wong a.k.a. Wong Man-tak is a Chinese-American actor based in Hong Kong.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Michael_Fitzgereld_Wong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Wong_(actor)",
+  "dateOfBirth": "1965-04-16",
+  "birthDateParsed": "1965-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "42.65",
+  "birthCoordinatesLng": "-73.766666666",
+  "birthTimezone": "America/New_York",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q718036",
+  "birthPlace": "Albany",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:30.530Z"
+}

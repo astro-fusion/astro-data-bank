@@ -1,0 +1,32 @@
+{
+  "publicId": "da9e2617",
+  "wikipediaSlug": "Manuel_Saval",
+  "wikipediaId": "Q2517548",
+  "name": "Manuel Saval",
+  "fullName": "Manuel Saval",
+  "profileSummary": "Juan Manuel Ruiz Saval was a Mexican stage, film and television actor who appeared in over twenty telenovelas. His best known role was opposite Victoria Ruffo in the telenovela Simplemente Maria.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Saval",
+  "dateOfBirth": "1956-06-22",
+  "birthDateParsed": "1956-06-22",
+  "dateOfDeath": "2009-06-23",
+  "deathDateParsed": "2009-06-23",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "29.075",
+  "birthCoordinatesLng": "-110.958333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q2517548",
+  "birthPlace": "Hermosillo",
+  "fetchedAt": "2026-08-16T13:17:03.442Z"
+}

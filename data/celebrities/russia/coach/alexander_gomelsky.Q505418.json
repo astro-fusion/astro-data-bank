@@ -1,0 +1,35 @@
+{
+  "publicId": "deab4e19",
+  "wikipediaSlug": "Alexander_Gomelsky",
+  "wikipediaId": "Q505418",
+  "name": "Alexander Gomelsky",
+  "fullName": "Alexander Gomelsky",
+  "profileSummary": "Alexander Yakovlevich Gomelsky was a Russian professional basketball player and coach. The Father of Soviet and Russian basketball, he was inducted into the Naismith Memorial Basketball Hall of Fame in 1995 and the FIBA Hall of Fame in 2007.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Alexander_Gomelsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Gomelsky",
+  "dateOfBirth": "1928-01-18",
+  "birthDateParsed": "1928-01-18",
+  "dateOfDeath": "2005-08-16",
+  "deathDateParsed": "2005-08-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.990833333",
+  "birthCoordinatesLng": "29.774722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "coach",
+    "basketball coach",
+    "basketball player"
+  ],
+  "qid": "Q505418",
+  "birthPlace": "Kronstadt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:07.523Z"
+}

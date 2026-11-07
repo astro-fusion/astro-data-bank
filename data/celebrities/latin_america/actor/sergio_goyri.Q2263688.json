@@ -1,0 +1,36 @@
+{
+  "publicId": "d99e5105",
+  "wikipediaSlug": "Sergio_Goyri",
+  "wikipediaId": "Q2263688",
+  "name": "Sergio Goyri",
+  "fullName": "Sergio Goyri",
+  "profileSummary": "Sergio Goyri Pérez is a Mexican actor known for his performances in soap operas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sergio_Goyri.JPG/330px-Sergio_Goyri.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergio_Goyri",
+  "dateOfBirth": "1958-11-14",
+  "birthDateParsed": "1958-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.003611111",
+  "birthCoordinatesLng": "-97.888333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "film director",
+    "singer",
+    "screenwriter"
+  ],
+  "qid": "Q2263688",
+  "birthPlace": "Puebla",
+  "fetchedAt": "2026-08-16T13:17:04.095Z"
+}

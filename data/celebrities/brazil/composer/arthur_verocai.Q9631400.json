@@ -1,0 +1,39 @@
+{
+  "publicId": "2b194e6c",
+  "wikipediaSlug": "Arthur_Verocai",
+  "wikipediaId": "Q9631400",
+  "name": "Arthur Verocai",
+  "fullName": "Arthur Verocai",
+  "profileSummary": "Arthur Côrtes Verocai is a Brazilian composer, singer, and producer. He is best known for his 1972 self-titled debut album which garnered a cult following during the 2000s in the United Kingdom and the United States.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Verocai",
+  "dateOfBirth": "1945-06-17",
+  "birthDateParsed": "1945-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "conductor",
+    "pianist",
+    "guitarist",
+    "record producer",
+    "music arranger",
+    "songwriter"
+  ],
+  "qid": "Q9631400",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:30.865Z"
+}

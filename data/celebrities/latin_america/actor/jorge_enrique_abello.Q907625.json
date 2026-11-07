@@ -1,0 +1,35 @@
+{
+  "publicId": "3c92e5b3",
+  "wikipediaSlug": "Jorge_Enrique_Abello",
+  "wikipediaId": "Q907625",
+  "name": "Jorge Enrique Abello",
+  "fullName": "Jorge Enrique Abello",
+  "profileSummary": "Jorge Enrique Abello Moreno is a Colombian actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jorge_Enrique_Abello_2017.jpg/330px-Jorge_Enrique_Abello_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Enrique_Abello",
+  "dateOfBirth": "1968-02-28",
+  "birthDateParsed": "1968-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "television actor"
+  ],
+  "qid": "Q907625",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:26.621Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "8ee60a54",
+  "wikipediaSlug": "Anna_Thalbach",
+  "wikipediaId": "Q90067",
+  "name": "Anna Thalbach",
+  "fullName": "Anna Thalbach",
+  "profileSummary": "Anna Maria Joachim genannt Thalbach, known as Anna Maria Thalbach, is a German actress. Her mother, Katharina Thalbach, is also an actress. Her daughter Nellie is an actress as well. In 2002, she was in Alexander Pfeuffer's short film Breakfast?.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anna_Thalbach-1376.jpg/330px-Anna_Thalbach-1376.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Thalbach",
+  "dateOfBirth": "1973-06-01",
+  "birthDateParsed": "1973-06-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.518611111",
+  "birthCoordinatesLng": "13.404444444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "voice actor",
+    "dub actor",
+    "speaker",
+    "musician"
+  ],
+  "qid": "Q90067",
+  "birthPlace": "East Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:13.926Z"
+}

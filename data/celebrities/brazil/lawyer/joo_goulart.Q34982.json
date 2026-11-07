@@ -1,0 +1,34 @@
+{
+  "publicId": "49ad21ef",
+  "wikipediaSlug": "João_Goulart",
+  "wikipediaId": "Q34982",
+  "name": "João Goulart",
+  "fullName": "João Goulart",
+  "profileSummary": "João Belchior Marques Goulart, commonly known as Jango, was a Brazilian politician who served as the 24th president of Brazil from 1961 until a military coup d'état deposed him in 1964. He was considered the last left-wing president of Brazil until Luiz Inácio Lula da Silva took office in 2003.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jo%C3%A3o_%E2%80%9CJango%E2%80%9D_Goulart%2C_Presidente_do_Brasil%2C_foto_oficial%2C_1961.jpg/330px-Jo%C3%A3o_%E2%80%9CJango%E2%80%9D_Goulart%2C_Presidente_do_Brasil%2C_foto_oficial%2C_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Goulart",
+  "dateOfBirth": "1918-03-01",
+  "birthDateParsed": "1918-03-01",
+  "dateOfDeath": "1976-12-06",
+  "deathDateParsed": "1976-12-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "-28.660833333",
+  "birthCoordinatesLng": "-56.003888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q34982",
+  "birthPlace": "São Borja",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:09.898Z"
+}

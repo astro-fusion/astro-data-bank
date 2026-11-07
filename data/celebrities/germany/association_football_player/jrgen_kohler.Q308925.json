@@ -1,0 +1,34 @@
+{
+  "publicId": "80e2d463",
+  "wikipediaSlug": "Jürgen_Kohler",
+  "wikipediaId": "Q308925",
+  "name": "Jürgen Kohler",
+  "fullName": "Jürgen Kohler",
+  "profileSummary": "Jürgen Kohler is a German former professional footballer and manager, who played as a centre-back. He is currently the U17 manager of Bonner SC. During his playing career, he won the World Cup with the German national team in 1990 and the European Championship in 1996. At club level, he won the UEFA Champions League, the UEFA Cup, three German championships, and one Italian championship as a player of Bayern Munich, Juventus Turin and Borussia Dortmund.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/J%C3%BCrgen_Kohler_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Kohler",
+  "dateOfBirth": "1965-10-06",
+  "birthDateParsed": "1965-10-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.513333333",
+  "birthCoordinatesLng": "8.2875",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q308925",
+  "birthPlace": "Lambsheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:18.562Z"
+}

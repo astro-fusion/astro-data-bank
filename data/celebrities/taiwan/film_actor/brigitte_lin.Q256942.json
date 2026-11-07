@@ -1,0 +1,34 @@
+{
+  "publicId": "53c99188",
+  "wikipediaSlug": "Brigitte_Lin",
+  "wikipediaId": "Q256942",
+  "name": "Brigitte Lin",
+  "fullName": "Brigitte Lin",
+  "profileSummary": "Brigitte Lin Ching-hsia is a Taiwanese actress. Regarded as a screen icon, Lin played a key role in boosting Taiwan's film production with her romantic heroine roles in the 1970s before transitioning to Hong Kong, where she achieved great success with her androgynous roles in wuxia films. Following her marriage in 1994, she retired from acting and transitioned to writing in the 2000s, publishing four essay collections. In 2023, she received the Lifetime Achievement Award at the 60th Golden Horse Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Brigitte_Lin_%28cropped%29.jpg/330px-Brigitte_Lin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigitte_Lin",
+  "dateOfBirth": "1954-11-03",
+  "birthDateParsed": "1954-11-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q256942",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:51.674Z"
+}

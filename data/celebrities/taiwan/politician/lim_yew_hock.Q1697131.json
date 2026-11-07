@@ -1,0 +1,35 @@
+{
+  "publicId": "b463de6f",
+  "wikipediaSlug": "Lim_Yew_Hock",
+  "wikipediaId": "Q1697131",
+  "name": "Lim Yew Hock",
+  "fullName": "Lim Yew Hock",
+  "profileSummary": "Lim Yew Hock was a Singaporean and Malaysian politician and diplomat who served as Chief Minister of Singapore from 1956 to 1959. He was the Member of Parliament (MP) for Cairnhill between 1959 and 1963, and had earlier served as a member of the Legislative Council of Singapore and later the Legislative Assembly of Singapore from 1948 to 1959. Between 1959 and 1963, Lim was the Leader of the Opposition in the Assembly. Following Singapore's separation from Malaysia in 1965, Lim became less involved in Singaporean politics and moved to Malaya.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lim_Yew_Hock%2C_1956_%28cropped%29.png/330px-Lim_Yew_Hock%2C_1956_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lim_Yew_Hock",
+  "dateOfBirth": "1914-10-15",
+  "birthDateParsed": "1914-10-15",
+  "dateOfDeath": "1984-11-30",
+  "deathDateParsed": "1984-11-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "trade unionist"
+  ],
+  "qid": "Q1697131",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:19.225Z"
+}

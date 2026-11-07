@@ -1,0 +1,39 @@
+{
+  "publicId": "b66314a1",
+  "wikipediaSlug": "Kamaliya",
+  "wikipediaId": "Q2781934",
+  "name": "Kamaliya",
+  "fullName": "Kamaliya",
+  "profileSummary": "Kamaliya Zahoor, known professionally as simply Kamaliya, is a Ukrainian singer, actress, television personality, model and former Mrs. World beauty pageant titleholder. She has become widely known in the United Kingdom through her participation in the British reality television programme Meet the Russians.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kamaliya_at_YUNA.jpg/330px-Kamaliya_at_YUNA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamaliya",
+  "dateOfBirth": "1977-05-18",
+  "birthDateParsed": "1977-05-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.006111111",
+  "birthCoordinatesLng": "115.396388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "model",
+    "actor",
+    "singer-songwriter",
+    "violinist",
+    "fashion model",
+    "musician"
+  ],
+  "qid": "Q2781934",
+  "birthPlace": "Step’",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:03.675Z"
+}

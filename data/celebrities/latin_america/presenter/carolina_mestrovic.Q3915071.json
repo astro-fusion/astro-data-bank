@@ -1,0 +1,35 @@
+{
+  "publicId": "403547ac",
+  "wikipediaSlug": "Carolina_Mestrovic",
+  "wikipediaId": "Q3915071",
+  "name": "Carolina Mestrovic",
+  "fullName": "Carolina Mestrovic",
+  "profileSummary": "Carolina Veronica Mestrovic Moroni is a Chilean singer, actress and TV host known for her role in TVN's Rojo fame contrafama, where she won the \"singers category\" in 2008.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Carolina_Mestrovic_2017.jpg/330px-Carolina_Mestrovic_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carolina_Mestrovic",
+  "dateOfBirth": "1991-07-20",
+  "birthDateParsed": "1991-07-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-18.478388888",
+  "birthCoordinatesLng": "-70.321222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "presenter",
+    "singer",
+    "actor"
+  ],
+  "qid": "Q3915071",
+  "birthPlace": "Arica",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:51.646Z"
+}

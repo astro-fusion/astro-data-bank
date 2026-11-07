@@ -1,0 +1,33 @@
+{
+  "publicId": "2e0e47ac",
+  "wikipediaSlug": "Carlos_Luz",
+  "wikipediaId": "Q269572",
+  "name": "Carlos Luz",
+  "fullName": "Carlos Luz",
+  "profileSummary": "Carlos Coimbra da Luz was a Brazilian politician, lawyer, teacher and journalist who served as acting president of Brazil from November 8 to November 11, 1955. He is the shortest serving president of Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CarlosLuz.jpg/330px-CarlosLuz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Luz",
+  "dateOfBirth": "1894-08-04",
+  "birthDateParsed": "1894-08-04",
+  "dateOfDeath": "1961-02-09",
+  "deathDateParsed": "1961-02-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.694722222",
+  "birthCoordinatesLng": "-45.255277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q269572",
+  "birthPlace": "Três Corações",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:09.727Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "0e900695",
+  "wikipediaSlug": "Ana_Nóbrega",
+  "wikipediaId": "Q15069113",
+  "name": "Ana Nóbrega",
+  "fullName": "Ana Nóbrega",
+  "profileSummary": "Ana Paula de Araújo Aderaldo Nóbrega is a Brazilian Christian singer and songwriter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Images_images2_ARTIGOS_COLUNAS_00001Ana-Nobrega.jpg/330px-Images_images2_ARTIGOS_COLUNAS_00001Ana-Nobrega.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_N%C3%B3brega",
+  "dateOfBirth": "1980-07-17",
+  "birthDateParsed": "1980-07-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-3.7275",
+  "birthCoordinatesLng": "-38.5275",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "songwriter"
+  ],
+  "qid": "Q15069113",
+  "birthPlace": "Fortaleza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:54.810Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "4b2b7054",
+  "wikipediaSlug": "Diego_Muñoz",
+  "wikipediaId": "Q5806424",
+  "name": "Diego Muñoz",
+  "fullName": "Diego Muñoz",
+  "profileSummary": "Diego Muñoz Erenchun is a Chilean actor of film, television and theatre. He is also creative director of the fiction area of Centro Mori.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Diego_Mu%C3%B1oz_entrevista_%282%29.png/330px-Diego_Mu%C3%B1oz_entrevista_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Mu%C3%B1oz",
+  "dateOfBirth": "1976-02-11",
+  "birthDateParsed": "1976-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5806424",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:44.048Z"
+}

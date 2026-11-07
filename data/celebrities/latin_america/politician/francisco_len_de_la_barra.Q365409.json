@@ -1,0 +1,37 @@
+{
+  "publicId": "dbfe872f",
+  "wikipediaSlug": "Francisco_León_de_la_Barra",
+  "wikipediaId": "Q365409",
+  "name": "Francisco León de la Barra",
+  "fullName": "Francisco León de la Barra",
+  "profileSummary": "Francisco León de la Barra y Quijano was a Mexican political figure, diplomat, lawyer and politician who served as the 36th President of Mexico from May 25 to November 6, 1911 during the Mexican Revolution, following the resignations of President Porfirio Díaz and Vice President Ramón Corral. He previously served as Secretary of Foreign Affairs for one month during the Díaz administration and again from 1913 to 1914 under President Victoriano Huerta. He was known to conservatives as \"The White President\" or the \"Pure President\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Francisco_Le%C3%B3n_%28cropped%29.jpg/330px-Francisco_Le%C3%B3n_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Le%C3%B3n_de_la_Barra",
+  "dateOfBirth": "1863-06-16",
+  "birthDateParsed": "1863-06-16",
+  "dateOfDeath": "1939-09-23",
+  "deathDateParsed": "1939-09-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "20.588055555",
+  "birthCoordinatesLng": "-100.388055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer",
+    "judge",
+    "jurist"
+  ],
+  "qid": "Q365409",
+  "birthPlace": "Santiago de Querétaro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:18.274Z"
+}

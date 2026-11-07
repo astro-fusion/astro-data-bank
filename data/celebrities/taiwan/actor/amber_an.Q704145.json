@@ -1,0 +1,38 @@
+{
+  "publicId": "c8ea7e09",
+  "wikipediaSlug": "Amber_An",
+  "wikipediaId": "Q704145",
+  "name": "Amber An",
+  "fullName": "Amber An",
+  "profileSummary": "Amber An, born Liao Ching-ling, is a Taiwanese actress, singer, television host, and model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Amber_An_%28%E5%AE%89%E5%BF%83%E4%BA%9E%29_appeared_on_the_red_carpet_of_the_58th_Golden_Bell_Awards_on_October_21%2C_2023.jpg/330px-Amber_An_%28%E5%AE%89%E5%BF%83%E4%BA%9E%29_appeared_on_the_red_carpet_of_the_58th_Golden_Bell_Awards_on_October_21%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amber_An",
+  "dateOfBirth": "1985-09-18",
+  "birthDateParsed": "1985-09-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.143888888",
+  "birthCoordinatesLng": "120.679444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "model",
+    "television actor",
+    "singer",
+    "recording artist"
+  ],
+  "qid": "Q704145",
+  "birthPlace": "Taichung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:45.684Z"
+}

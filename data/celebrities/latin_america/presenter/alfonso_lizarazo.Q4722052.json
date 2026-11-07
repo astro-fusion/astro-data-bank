@@ -1,0 +1,34 @@
+{
+  "publicId": "14aea717",
+  "wikipediaSlug": "Alfonso_Lizarazo",
+  "wikipediaId": "Q4722052",
+  "name": "Alfonso Lizarazo",
+  "fullName": "Alfonso Lizarazo",
+  "profileSummary": "Alfonso Lizarazo Sánchez was a Colombian television presenter and politician, he was the first host of Campeones de la risa, which in 1973 became known as Sábados Felices. He presented the program until 1998, when he was elected to the Senate of Colombia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/Cropped_Photo_of_Alfonso_Lizarazo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfonso_Lizarazo",
+  "dateOfBirth": "1940-12-29",
+  "birthDateParsed": "1940-12-29",
+  "dateOfDeath": "2026-08-04",
+  "deathDateParsed": "2026-08-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "7.118611111",
+  "birthCoordinatesLng": "-73.116111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "presenter",
+    "politician"
+  ],
+  "qid": "Q4722052",
+  "birthPlace": "Bucaramanga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:26.362Z"
+}

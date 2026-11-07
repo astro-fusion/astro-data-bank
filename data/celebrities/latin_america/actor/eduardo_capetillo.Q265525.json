@@ -1,0 +1,36 @@
+{
+  "publicId": "53d5d191",
+  "wikipediaSlug": "Eduardo_Capetillo",
+  "wikipediaId": "Q265525",
+  "name": "Eduardo Capetillo",
+  "fullName": "Eduardo Capetillo",
+  "profileSummary": "Eduardo Capetillo Vázquez is a Mexican actor and singer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Capetillo",
+  "dateOfBirth": "1970-04-13",
+  "birthDateParsed": "1970-04-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q265525",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:12.462Z"
+}

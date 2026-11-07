@@ -1,0 +1,33 @@
+{
+  "publicId": "a9a1d4ae",
+  "wikipediaSlug": "Bernd_Förster",
+  "wikipediaId": "Q62076",
+  "name": "Bernd Förster",
+  "fullName": "Bernd Förster",
+  "profileSummary": "Bernhard \"Bernd\" Georg Josef Förster is a former German footballer who played as a defender and midfielder.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernd_F%C3%B6rster",
+  "dateOfBirth": "1956-05-03",
+  "birthDateParsed": "1956-05-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.35",
+  "birthCoordinatesLng": "9.133333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q62076",
+  "birthPlace": "Mosbach",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:09.091Z"
+}

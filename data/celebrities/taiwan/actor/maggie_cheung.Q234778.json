@@ -1,0 +1,36 @@
+{
+  "publicId": "461dee30",
+  "wikipediaSlug": "Maggie_Cheung",
+  "wikipediaId": "Q234778",
+  "name": "Maggie Cheung",
+  "fullName": "Maggie Cheung",
+  "profileSummary": "Maggie Cheung is a Hong Kong actress. She is considered to be one of the most successful and internationally acclaimed actresses in Asia. Cheung is the recipient of numerous accolades, including six Hong Kong Film Awards and five Golden Horse Awards, holding the record for most awards in the Best Actress category. Internationally, she is best known for winning the Silver Bear for Center Stage (1991) and the Cannes Film Festival Award for Clean (2004), making her the first Asian actress to receive the latter and the only Asian actress to have won Best Actress awards at two of the three major European film festivals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Maggie_Cheung_%28cropped%29.jpg/330px-Maggie_Cheung_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maggie_Cheung",
+  "dateOfBirth": "1964-09-20",
+  "birthDateParsed": "1964-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "beauty pageant contestant",
+    "film actor"
+  ],
+  "qid": "Q234778",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:40.792Z"
+}

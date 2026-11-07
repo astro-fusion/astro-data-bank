@@ -1,0 +1,35 @@
+{
+  "publicId": "49cdd903",
+  "wikipediaSlug": "Claudia_Palacios",
+  "wikipediaId": "Q2891155",
+  "name": "Claudia Palacios",
+  "fullName": "Claudia Palacios",
+  "profileSummary": "Claudia Isabel Palacios Giraldo is a Colombian journalist and newscaster. She is best known as the weekend news anchor on CNN en Español, a position she held from 2004 through 2012. She is currently both a news anchor on CM& Television in Colombia and a journalist for the Colombian magazine El Pueblo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Claudia_Palacios.jpg/330px-Claudia_Palacios.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudia_Palacios",
+  "dateOfBirth": "1977-07-21",
+  "birthDateParsed": "1977-07-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.44",
+  "birthCoordinatesLng": "-76.519722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "writer",
+    "news presenter"
+  ],
+  "qid": "Q2891155",
+  "birthPlace": "Cali",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:34.063Z"
+}

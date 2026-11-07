@@ -1,0 +1,36 @@
+{
+  "publicId": "00558a5a",
+  "wikipediaSlug": "Manuel_Dorrego",
+  "wikipediaId": "Q2562334",
+  "name": "Manuel Dorrego",
+  "fullName": "Manuel Dorrego",
+  "profileSummary": "Manuel Dorrego was an Argentine statesman and soldier. He was governor of Buenos Aires in 1820 and then again from 1827 to 1828.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorrego_a_color.jpg/330px-Dorrego_a_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Dorrego",
+  "dateOfBirth": "1787-06-11",
+  "birthDateParsed": "1787-06-11",
+  "dateOfDeath": "1828-12-13",
+  "deathDateParsed": "1828-12-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military personnel",
+    "journalist"
+  ],
+  "qid": "Q2562334",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:59.485Z"
+}

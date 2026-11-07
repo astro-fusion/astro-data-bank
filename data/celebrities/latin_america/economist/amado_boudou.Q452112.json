@@ -1,0 +1,34 @@
+{
+  "publicId": "02a59cc2",
+  "wikipediaSlug": "Amado_Boudou",
+  "wikipediaId": "Q452112",
+  "name": "Amado Boudou",
+  "fullName": "Amado Boudou",
+  "profileSummary": "Amado Boudou is an Argentine economist and politician who served as the Vice President of Argentina from 2011 to 2015. He previously served as Minister of Economy from 2009 to 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amado_Boudou%2C_2009-07-08%2C_en_Casa_Rosada_%28Buenos_Aires%29.jpg/330px-Amado_Boudou%2C_2009-07-08%2C_en_Casa_Rosada_%28Buenos_Aires%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amado_Boudou",
+  "dateOfBirth": "1962-11-19",
+  "birthDateParsed": "1962-11-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician"
+  ],
+  "qid": "Q452112",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:44.302Z"
+}

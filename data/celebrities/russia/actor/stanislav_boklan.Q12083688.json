@@ -1,0 +1,34 @@
+{
+  "publicId": "fe8e9818",
+  "wikipediaSlug": "Stanislav_Boklan",
+  "wikipediaId": "Q12083688",
+  "name": "Stanislav Boklan",
+  "fullName": "Stanislav Boklan",
+  "profileSummary": "Stanislav Volodymyrovych Boklan is a Ukrainian theater and film actor. Some notable works include The Guide (2013), Battle for Sevastopol (2015), Servant of the People 2 (2016), and the television series Servant of the People (2015–2019).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%D0%90%D0%BA%D1%82%D1%91%D1%80_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%91%D0%BE%D0%BA%D0%BB%D0%B0%D0%BD_%28cropped%29.JPG/330px-%D0%90%D0%BA%D1%82%D1%91%D1%80_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%91%D0%BE%D0%BA%D0%BB%D0%B0%D0%BD_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stanislav_Boklan",
+  "dateOfBirth": "1960-01-12",
+  "birthDateParsed": "1960-01-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.283333333",
+  "birthCoordinatesLng": "29.533333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q12083688",
+  "birthPlace": "Brusyliv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:36.520Z"
+}

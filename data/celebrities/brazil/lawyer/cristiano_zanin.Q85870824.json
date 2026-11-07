@@ -1,0 +1,33 @@
+{
+  "publicId": "9266a8ce",
+  "wikipediaSlug": "Cristiano_Zanin",
+  "wikipediaId": "Q85870824",
+  "name": "Cristiano Zanin",
+  "fullName": "Cristiano Zanin",
+  "profileSummary": "Cristiano Zanin Martins is a Brazilian attorney and professor who serves as justice of the Supreme Federal Court. He gained notoriety as personal attorney of president Luiz Inácio Lula da Silva in lawsuits related to Operation Car Wash.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/17.06.2026_-_Cristiano_Zanin_%28cropped%29.jpg/330px-17.06.2026_-_Cristiano_Zanin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristiano_Zanin",
+  "dateOfBirth": "1975-11-15",
+  "birthDateParsed": "1975-11-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.725165",
+  "birthCoordinatesLng": "-47.6493269",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer"
+  ],
+  "qid": "Q85870824",
+  "birthPlace": "Piracicaba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:37.711Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "ed91025f",
+  "wikipediaSlug": "Adrian_Hoven",
+  "wikipediaId": "Q87913",
+  "name": "Adrian Hoven",
+  "fullName": "Adrian Hoven",
+  "profileSummary": "Adrian Hoven was an Austrian actor, producer and film director. He appeared in 100 films between 1947 and 1981.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrian_Hoven",
+  "dateOfBirth": "1922-05-18",
+  "birthDateParsed": "1922-05-18",
+  "dateOfDeath": "1981-04-28",
+  "deathDateParsed": "1981-04-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.866666666",
+  "birthCoordinatesLng": "16.166666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "screenwriter",
+    "film producer",
+    "film actor",
+    "director"
+  ],
+  "qid": "Q87913",
+  "birthPlace": "Wöllersdorf-Steinabrückl",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:31.847Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "f55a4437",
+  "wikipediaSlug": "Ann_Smyrner",
+  "wikipediaId": "Q558746",
+  "name": "Ann Smyrner",
+  "fullName": "Ann Smyrner",
+  "profileSummary": "Ann Smyrner was a Danish actress who was active in the 1960s in Italy, the United States, Austria and West Germany. She played in adventure, comedy, science fiction, crime, and horror movies, among which are the Sidney Pink science fiction movies Reptilicus and Journey to the Seventh Planet.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ann_Smyrner",
+  "dateOfBirth": "1934-11-03",
+  "birthDateParsed": "1934-11-03",
+  "dateOfDeath": "2016-08-29",
+  "deathDateParsed": "2016-08-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.6779",
+  "birthCoordinatesLng": "12.5327",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "stage actor",
+    "actor"
+  ],
+  "qid": "Q558746",
+  "birthPlace": "Frederiksberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:45.055Z"
+}

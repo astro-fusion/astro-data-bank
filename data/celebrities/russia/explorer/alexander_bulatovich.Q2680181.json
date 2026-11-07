@@ -1,0 +1,40 @@
+{
+  "publicId": "e4cec658",
+  "wikipediaSlug": "Alexander_Bulatovich",
+  "wikipediaId": "Q2680181",
+  "name": "Alexander Bulatovich",
+  "fullName": "Alexander Bulatovich",
+  "profileSummary": "Alexander Ksaverievich Bulatovich tonsured Hieroschemamonk Anthony was a Russian military officer, explorer of Africa, writer, hieromonk and the leader of the imiaslavie movement in Eastern Orthodox Christianity.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bulatovich.jpg/330px-Bulatovich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Bulatovich",
+  "dateOfBirth": "1870-10-08",
+  "birthDateParsed": "1870-10-08",
+  "dateOfDeath": "1919-12-05",
+  "deathDateParsed": "1919-12-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.968611111",
+  "birthCoordinatesLng": "36.069444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "explorer",
+    "anthropologist",
+    "writer",
+    "geographer",
+    "military personnel",
+    "Eastern Orthodox priest",
+    "military officer",
+    "monk"
+  ],
+  "qid": "Q2680181",
+  "birthPlace": "Oryol",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:40.315Z"
+}

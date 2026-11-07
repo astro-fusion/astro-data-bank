@@ -1,0 +1,35 @@
+{
+  "publicId": "414da1ed",
+  "wikipediaSlug": "Aida_Cuevas",
+  "wikipediaId": "Q2827769",
+  "name": "Aida Cuevas",
+  "fullName": "Aida Cuevas",
+  "profileSummary": "Aída Cuevas is a Mexican singer and actress. Affectionately known as \"The Queen of Ranchera Music”, Cuevas has recorded 40 albums, selling over 10 million copies worldwide. Her work has earned her one Grammy Award and one Latin Grammy Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aida_Cuevas_2023.jpg/330px-Aida_Cuevas_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aida_Cuevas",
+  "dateOfBirth": "1963-09-24",
+  "birthDateParsed": "1963-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q2827769",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:15.426Z"
+}

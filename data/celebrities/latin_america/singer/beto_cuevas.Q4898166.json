@@ -1,0 +1,41 @@
+{
+  "publicId": "b82b72e2",
+  "wikipediaSlug": "Beto_Cuevas",
+  "wikipediaId": "Q4898166",
+  "name": "Beto Cuevas",
+  "fullName": "Beto Cuevas",
+  "profileSummary": "Luis Alberto Cuevas Olmedo, better known as Beto Cuevas, is a Chilean singer, songwriter, plastic artist, and painter. He is the lead singer for the Chilean band La Ley. In 2008 he launched his solo career with the release of his album, Miedo Escénico. In 2012 he released his second album, Transformación.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Beto_Cuevas_at_Premios_Juventud_2009.jpg/330px-Beto_Cuevas_at_Premios_Juventud_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beto_Cuevas",
+  "dateOfBirth": "1967-09-12",
+  "birthDateParsed": "1967-09-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "graphic designer",
+    "model",
+    "composer",
+    "plastic artist",
+    "DJ producer",
+    "painter",
+    "sculptor"
+  ],
+  "qid": "Q4898166",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:45.367Z"
+}

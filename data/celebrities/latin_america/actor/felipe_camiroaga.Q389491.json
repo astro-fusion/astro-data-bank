@@ -1,0 +1,34 @@
+{
+  "publicId": "f536527e",
+  "wikipediaSlug": "Felipe_Camiroaga",
+  "wikipediaId": "Q389491",
+  "name": "Felipe Camiroaga",
+  "fullName": "Felipe Camiroaga",
+  "profileSummary": "Felipe Humberto Camiroaga Fernández was a Chilean television presenter, actor and comedian, one of the most popular in his country.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Felipe_Camiroaga.jpg/330px-Felipe_Camiroaga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Felipe_Camiroaga",
+  "dateOfBirth": "1966-10-08",
+  "birthDateParsed": "1966-10-08",
+  "dateOfDeath": "2011-09-02",
+  "deathDateParsed": "2011-09-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television presenter"
+  ],
+  "qid": "Q389491",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:59.951Z"
+}

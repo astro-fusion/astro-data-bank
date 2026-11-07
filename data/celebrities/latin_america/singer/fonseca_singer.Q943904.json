@@ -1,0 +1,34 @@
+{
+  "publicId": "616974db",
+  "wikipediaSlug": "Fonseca_(singer)",
+  "wikipediaId": "Q943904",
+  "name": "Fonseca (singer)",
+  "fullName": "Fonseca (singer)",
+  "profileSummary": "Juan Fernando Fonseca Carrera is a Colombian singer. \nBorn in Bogotá, he chose music at an early age, studying music formally at institutions such as Javeriana University in Bogotá and Berklee College of Music in Boston. Fonseca's self-titled debut gained him considerable attention in Colombia. His second album released Corazón (2005) explored the crossroads where pop/rock influences meet vallenato, bullerengue, and tambora. Gratitud followed in 2008, with Ilusión arriving in 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Fonseca_Fever.jpg/330px-Fonseca_Fever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fonseca_(singer)",
+  "dateOfBirth": "1979-05-29",
+  "birthDateParsed": "1979-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter"
+  ],
+  "qid": "Q943904",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:00.673Z"
+}

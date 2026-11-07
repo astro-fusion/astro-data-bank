@@ -1,0 +1,33 @@
+{
+  "publicId": "c0367f11",
+  "wikipediaSlug": "Emre_Can",
+  "wikipediaId": "Q27694",
+  "name": "Emre Can",
+  "fullName": "Emre Can",
+  "profileSummary": "Emre Can is a German professional footballer who plays as a defensive midfielder or centre-back for Bundesliga club Borussia Dortmund, which he captains, and the Germany national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Emre_Can_in_2023.jpg/330px-Emre_Can_in_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emre_Can",
+  "dateOfBirth": "1994-01-12",
+  "birthDateParsed": "1994-01-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.110555555",
+  "birthCoordinatesLng": "8.682222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q27694",
+  "birthPlace": "Frankfurt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:31.344Z"
+}

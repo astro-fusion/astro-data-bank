@@ -1,0 +1,33 @@
+{
+  "publicId": "e4d17992",
+  "wikipediaSlug": "Alberto_Estrella",
+  "wikipediaId": "Q3294756",
+  "name": "Alberto Estrella",
+  "fullName": "Alberto Estrella",
+  "profileSummary": "Alberto Estrella is a Mexican actor. He has appeared in over 90 films and television shows since 1986.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Alberto_Estrella_%28cropped%29.jpg/330px-Alberto_Estrella_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Estrella",
+  "dateOfBirth": "1962-09-23",
+  "birthDateParsed": "1962-09-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q3294756",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:28.773Z"
+}

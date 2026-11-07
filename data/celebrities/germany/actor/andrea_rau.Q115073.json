@@ -1,0 +1,37 @@
+{
+  "publicId": "e04b22a5",
+  "wikipediaSlug": "Andrea_Rau",
+  "wikipediaId": "Q115073",
+  "name": "Andrea Rau",
+  "fullName": "Andrea Rau",
+  "profileSummary": "Andrea Rau is a German actress and producer who has appeared in several German films as well as appearing in the television series Derrick.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Rau",
+  "dateOfBirth": "1947-10-31",
+  "birthDateParsed": "1947-10-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.7775",
+  "birthCoordinatesLng": "9.18",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "film actor",
+    "fashion model",
+    "dancer"
+  ],
+  "qid": "Q115073",
+  "birthPlace": "Stuttgart",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:30.546Z"
+}

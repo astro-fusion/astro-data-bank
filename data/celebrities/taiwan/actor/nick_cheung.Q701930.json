@@ -1,0 +1,36 @@
+{
+  "publicId": "98c258df",
+  "wikipediaSlug": "Nick_Cheung",
+  "wikipediaId": "Q701930",
+  "name": "Nick Cheung",
+  "fullName": "Nick Cheung",
+  "profileSummary": "Nicholas Cheung Ka-fai is a Hong Kong actor, singer and director. He first gained recognition for his roles in The Conman (1998) and The Tricky Master (1999). He went on to star in the films Beast Stalker (2008), The Stool Pigeon (2010), Nightfall (2012), Unbeatable (2013), The White Storm (2013), Helios (2015), Keeper of Darkness (2015), Line Walker (2016), Bodies at Rest (2019), and Peg O' My Heart (2024). For his performances in Beast Stalker and Unbeatable, Cheung was awarded the Hong Kong Film Award for Best Actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20220717%E2%80%94Nick_Cheung_%E5%BC%B5%E5%AE%B6%E8%BC%9D%2C_40th_Hong_Kong_Film_Awards_%2800m05s%29_01.jpg/330px-20220717%E2%80%94Nick_Cheung_%E5%BC%B5%E5%AE%B6%E8%BC%9D%2C_40th_Hong_Kong_Film_Awards_%2800m05s%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nick_Cheung",
+  "dateOfBirth": "1964-12-02",
+  "birthDateParsed": "1964-12-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q701930",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:05.952Z"
+}

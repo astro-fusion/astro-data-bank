@@ -1,0 +1,35 @@
+{
+  "publicId": "fd4a3852",
+  "wikipediaSlug": "Dave_Wang",
+  "wikipediaId": "Q707895",
+  "name": "Dave Wang",
+  "fullName": "Dave Wang",
+  "profileSummary": "Dave Wang is a Hong Kong-Taiwanese singer, songwriter and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/DaveWang.png/330px-DaveWang.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Wang",
+  "dateOfBirth": "1962-10-20",
+  "birthDateParsed": "1962-10-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "songwriter"
+  ],
+  "qid": "Q707895",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:50.211Z"
+}

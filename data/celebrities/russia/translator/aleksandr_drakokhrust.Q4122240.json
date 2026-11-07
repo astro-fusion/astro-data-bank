@@ -1,0 +1,36 @@
+{
+  "publicId": "64ac867d",
+  "wikipediaSlug": "Aleksandr_Drakokhrust",
+  "wikipediaId": "Q4122240",
+  "name": "Aleksandr Drakokhrust",
+  "fullName": "Aleksandr Drakokhrust",
+  "profileSummary": "Aleksandr Abramovich Drakokhrust was a Russian language poet, journalist and translator from the Soviet Union.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Drakokhrust",
+  "dateOfBirth": "1923-11-07",
+  "birthDateParsed": "1923-11-07",
+  "dateOfDeath": "2008-11-14",
+  "deathDateParsed": "2008-11-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "translator",
+    "poet",
+    "writer",
+    "journalist"
+  ],
+  "qid": "Q4122240",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:45:56.283Z"
+}

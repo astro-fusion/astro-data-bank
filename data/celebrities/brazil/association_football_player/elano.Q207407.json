@@ -1,0 +1,34 @@
+{
+  "publicId": "8c176dc9",
+  "wikipediaSlug": "Elano",
+  "wikipediaId": "Q207407",
+  "name": "Elano",
+  "fullName": "Elano",
+  "profileSummary": "Elano Blumer, known as Elano, is a Brazilian football coach and former player who played as an attacking midfielder. He is the current youth football manager of Santos.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Elano_blumer.jpg/330px-Elano_blumer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elano",
+  "dateOfBirth": "1981-06-14",
+  "birthDateParsed": "1981-06-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.580833333",
+  "birthCoordinatesLng": "-47.518888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q207407",
+  "birthPlace": "Iracemápolis",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:15.246Z"
+}

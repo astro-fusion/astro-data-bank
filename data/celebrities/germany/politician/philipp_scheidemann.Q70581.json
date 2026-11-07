@@ -1,0 +1,33 @@
+{
+  "publicId": "8d904543",
+  "wikipediaSlug": "Philipp_Scheidemann",
+  "wikipediaId": "Q70581",
+  "name": "Philipp Scheidemann",
+  "fullName": "Philipp Scheidemann",
+  "profileSummary": "Philipp Heinrich Scheidemann was a German politician of the Social Democratic Party of Germany (SPD). In the first quarter of the 20th century, he played a leading role in both his party and in the young Weimar Republic. During the German Revolution of 1918–1919 that broke out after Germany's defeat in World War I, Scheidemann proclaimed a German Republic from a balcony of the Reichstag building. In 1919, he was elected Reich Minister President by the National Assembly meeting in Weimar to write a constitution for the republic. He resigned the office the same year due to a lack of unanimity in the cabinet on whether or not to accept the terms of the Treaty of Versailles.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bundesarchiv_Bild_146-1979-122-29A%2C_Philipp_Scheidemann_%28cropped%29.jpg/330px-Bundesarchiv_Bild_146-1979-122-29A%2C_Philipp_Scheidemann_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Philipp_Scheidemann",
+  "dateOfBirth": "1865-07-26",
+  "birthDateParsed": "1865-07-26",
+  "dateOfDeath": "1939-11-29",
+  "deathDateParsed": "1939-11-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.315777777",
+  "birthCoordinatesLng": "9.497916666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q70581",
+  "birthPlace": "Kassel",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:49.936Z"
+}

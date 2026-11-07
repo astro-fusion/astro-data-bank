@@ -1,0 +1,35 @@
+{
+  "publicId": "170f709c",
+  "wikipediaSlug": "Pedro_Lascuráin",
+  "wikipediaId": "Q315621",
+  "name": "Pedro Lascuráin",
+  "fullName": "Pedro Lascuráin",
+  "profileSummary": "Pedro José Domingo de la Calzada Manuel María Lascuráin Paredes was a Mexican politician and lawyer who served as the 38th president of Mexico for 45 minutes on 19 February 1913, the shortest presidency in history. The grandson of Mariano Paredes, the 15th president of Mexico, Lascuráin previously served as Mexico's foreign secretary for two terms and was the director of a small law school in Mexico City for 16 years.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pedro_Lascurain_%28cropped%29.jpg/330px-Pedro_Lascurain_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Lascur%C3%A1in",
+  "dateOfBirth": "1856-05-08",
+  "birthDateParsed": "1856-05-08",
+  "dateOfDeath": "1952-07-21",
+  "deathDateParsed": "1952-07-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "lawyer"
+  ],
+  "qid": "Q315621",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:06.894Z"
+}

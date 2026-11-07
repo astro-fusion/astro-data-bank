@@ -1,0 +1,34 @@
+{
+  "publicId": "fec437ee",
+  "wikipediaSlug": "Gordon_Lam",
+  "wikipediaId": "Q3110914",
+  "name": "Gordon Lam",
+  "fullName": "Gordon Lam",
+  "profileSummary": "Gordon Lam Ka-tung is a Hong Kong actor, film producer and screenwriter. Initially known for his supporting roles in films directed by Andrew Lau and Johnnie To, Lam eventually became a lead actor in the Hong Kong film industry, appearing in the 2013 box-office hit Firestorm and the Hong Kong Film Award-winning 2016 film Trivisa, which also netted him the Hong Kong Film Award for Best Actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gordon_Lam_20260426.jpg/330px-Gordon_Lam_20260426.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Lam",
+  "dateOfBirth": "1967-09-21",
+  "birthDateParsed": "1967-09-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q3110914",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:58.265Z"
+}

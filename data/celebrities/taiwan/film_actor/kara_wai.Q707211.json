@@ -1,0 +1,35 @@
+{
+  "publicId": "27c571b1",
+  "wikipediaSlug": "Kara_Wai",
+  "wikipediaId": "Q707211",
+  "name": "Kara Wai",
+  "fullName": "Kara Wai",
+  "profileSummary": "Kara Wai Ying-hung BBS is a Hong Kong actress best known internationally for her roles in wuxia films produced by the Shaw Brothers Studio in the 1970s and 1980s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SI_Twenty-First_Annual_Made_in_Hong_Kong_Film_Festival_01.jpg/330px-SI_Twenty-First_Annual_Made_in_Hong_Kong_Film_Festival_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kara_Wai",
+  "dateOfBirth": "1960-02-03",
+  "birthDateParsed": "1960-02-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q707211",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:57.962Z"
+}

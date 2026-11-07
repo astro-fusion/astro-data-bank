@@ -1,0 +1,33 @@
+{
+  "publicId": "8ec723d3",
+  "wikipediaSlug": "Alex_Chubrevich",
+  "wikipediaId": "Q16203614",
+  "name": "Alex Chubrevich",
+  "fullName": "Alex Chubrevich",
+  "profileSummary": "Alex Chubrevich is an Israeli professional basketball player for Maccabi Haifa of the Israeli Premier League. A Russian-born Jew, he is 2.12 m in height, and weighs 250 pounds (110 kg).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alex_Chubrevich_%282%29.JPG/330px-Alex_Chubrevich_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Chubrevich",
+  "dateOfBirth": "1986-07-23",
+  "birthDateParsed": "1986-07-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.55",
+  "birthCoordinatesLng": "137",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "basketball player"
+  ],
+  "qid": "Q16203614",
+  "birthPlace": "Komsomolsk-on-Amur",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:08.897Z"
+}

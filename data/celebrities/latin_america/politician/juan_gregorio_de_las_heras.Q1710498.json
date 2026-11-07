@@ -1,0 +1,34 @@
+{
+  "publicId": "2d7ad371",
+  "wikipediaSlug": "Juan_Gregorio_de_las_Heras",
+  "wikipediaId": "Q1710498",
+  "name": "Juan Gregorio de las Heras",
+  "fullName": "Juan Gregorio de las Heras",
+  "profileSummary": "Grand Marshal Juan Gregorio de las Heras was an Argentine soldier who took part in the Spanish American wars of independence and was also a governor of the province of Buenos Aires.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/General_Juan_Gregorio_Las_Heras.jpg/330px-General_Juan_Gregorio_Las_Heras.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Gregorio_de_las_Heras",
+  "dateOfBirth": "1780-07-11",
+  "birthDateParsed": "1780-07-11",
+  "dateOfDeath": "1866-02-06",
+  "deathDateParsed": "1866-02-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q1710498",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:31.090Z"
+}

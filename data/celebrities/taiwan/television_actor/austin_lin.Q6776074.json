@@ -1,0 +1,36 @@
+{
+  "publicId": "f2eb880d",
+  "wikipediaSlug": "Austin_Lin",
+  "wikipediaId": "Q6776074",
+  "name": "Austin Lin",
+  "fullName": "Austin Lin",
+  "profileSummary": "Austin Lin is a Taiwanese actor, singer and television host. Born and raised in Taipei, Taiwan, he took part in the second season of Taiwanese singing competition, One Million Star, in 2007. In 2009, he made his acting debut in Taiwanese film, Somewhere I Have Never Traveled, for which he also sang on the soundtrack. In 2016, he appeared in Taiwanese film, At Cafe 6, and won a Golden Horse Award for Best Supporting Actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lin_Bo_Hong_201116.jpg/330px-Lin_Bo_Hong_201116.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Austin_Lin",
+  "dateOfBirth": "1988-01-27",
+  "birthDateParsed": "1988-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "actor",
+    "film actor",
+    "singer"
+  ],
+  "qid": "Q6776074",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:06.694Z"
+}

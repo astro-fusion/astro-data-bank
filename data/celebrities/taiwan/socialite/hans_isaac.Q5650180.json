@@ -1,0 +1,36 @@
+{
+  "publicId": "11ae8c79",
+  "wikipediaSlug": "Hans_Isaac",
+  "wikipediaId": "Q5650180",
+  "name": "Hans Isaac",
+  "fullName": "Hans Isaac",
+  "profileSummary": "Gerald Hans Isaac is a Malaysian former actor, producer, director, and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hans_Isaac_on_MeleTOP.jpg/330px-Hans_Isaac_on_MeleTOP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Isaac",
+  "dateOfBirth": "1971-08-20",
+  "birthDateParsed": "1971-08-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.455555555",
+  "birthCoordinatesLng": "103.761111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "socialite",
+    "model",
+    "actor",
+    "film director"
+  ],
+  "qid": "Q5650180",
+  "birthPlace": "Johor Bahru",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:10:48.545Z"
+}

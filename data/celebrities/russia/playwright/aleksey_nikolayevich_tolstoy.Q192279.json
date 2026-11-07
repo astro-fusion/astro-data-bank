@@ -1,0 +1,40 @@
+{
+  "publicId": "c9144af8",
+  "wikipediaSlug": "Aleksey_Nikolayevich_Tolstoy",
+  "wikipediaId": "Q192279",
+  "name": "Aleksey Nikolayevich Tolstoy",
+  "fullName": "Aleksey Nikolayevich Tolstoy",
+  "profileSummary": "Aleksey Nikolayevich Tolstoy was a Russian and Soviet writer whose works span across many genres, but mainly belonged to science fiction and historical fiction.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ANTolstoy.jpg/330px-ANTolstoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksey_Nikolayevich_Tolstoy",
+  "dateOfBirth": "1883-01-10",
+  "birthDateParsed": "1883-01-10",
+  "dateOfDeath": "1945-02-23",
+  "deathDateParsed": "1945-02-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.013333333",
+  "birthCoordinatesLng": "48.8025",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "writer",
+    "poet",
+    "novelist",
+    "children's writer",
+    "screenwriter",
+    "science fiction writer",
+    "politician"
+  ],
+  "qid": "Q192279",
+  "birthPlace": "Pugachyov",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:28.864Z"
+}

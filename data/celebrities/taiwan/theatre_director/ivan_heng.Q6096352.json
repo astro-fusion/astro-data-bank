@@ -1,0 +1,35 @@
+{
+  "publicId": "12f2d21c",
+  "wikipediaSlug": "Ivan_Heng",
+  "wikipediaId": "Q6096352",
+  "name": "Ivan Heng",
+  "fullName": "Ivan Heng",
+  "profileSummary": "Ivan Heng Ai Jin is a Singaporean actor and theatre director of Peranakan descent. He is the founding artistic director of W!LD RICE, a theatre company in Singapore, and an outspoken advocate for respect for diversity and freedom of expression.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ivan_Heng_after_a_performance_of_La_Cage%2C_Esplanade_Theatre%2C_Singapore_-_20120729_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Heng",
+  "dateOfBirth": "1963-09-20",
+  "birthDateParsed": "1963-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "theatre director",
+    "actor",
+    "director"
+  ],
+  "qid": "Q6096352",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:27.797Z"
+}

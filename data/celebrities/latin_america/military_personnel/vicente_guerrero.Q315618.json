@@ -1,0 +1,34 @@
+{
+  "publicId": "c38f8444",
+  "wikipediaSlug": "Vicente_Guerrero",
+  "wikipediaId": "Q315618",
+  "name": "Vicente Guerrero",
+  "fullName": "Vicente Guerrero",
+  "profileSummary": "Vicente Ramón Guerrero Saldaña was a Mexican military officer from 1810 to 1821 and a statesman who became the nation's second president in 1829. He was one of the leading generals who fought against Spain during the Mexican War of Independence. According to historian Theodore G. Vincent, Vicente Guerrero lived alongside Indigenous people in Tlaltelulco and had the ability to speak Spanish and the languages of the Indigenous.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vicente_Guerrero.png/330px-Vicente_Guerrero.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vicente_Guerrero",
+  "dateOfBirth": "1782-08-10",
+  "birthDateParsed": "1782-08-10",
+  "dateOfDeath": "1831-02-14",
+  "deathDateParsed": "1831-02-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "17.56732",
+  "birthCoordinatesLng": "-99.39799",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "politician"
+  ],
+  "qid": "Q315618",
+  "birthPlace": "Tixtla de Guerrero",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:30.237Z"
+}

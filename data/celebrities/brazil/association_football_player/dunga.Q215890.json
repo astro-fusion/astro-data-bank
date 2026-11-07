@@ -1,0 +1,35 @@
+{
+  "publicId": "90c2c07d",
+  "wikipediaSlug": "Dunga",
+  "wikipediaId": "Q215890",
+  "name": "Dunga",
+  "fullName": "Dunga",
+  "profileSummary": "Carlos Caetano Bledorn Verri, commonly known as Dunga, is a Brazilian football manager and former professional player. Considered one of the greatest defensive midfielders of all time, as a player, he was known for his technique, athleticism, passing range, solid tackles and first touch.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Aecio_Neves_e_Dunga_-_17-06-2008_%288368243127%29_%28cropped%29.jpg/330px-Aecio_Neves_e_Dunga_-_17-06-2008_%288368243127%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dunga",
+  "dateOfBirth": "1963-10-31",
+  "birthDateParsed": "1963-10-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-28.387777777",
+  "birthCoordinatesLng": "-53.915",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "journalist",
+    "association football coach"
+  ],
+  "qid": "Q215890",
+  "birthPlace": "Ijuí",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:59.253Z"
+}

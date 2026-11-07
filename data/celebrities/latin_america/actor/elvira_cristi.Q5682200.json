@@ -1,0 +1,33 @@
+{
+  "publicId": "ca6940f7",
+  "wikipediaSlug": "Elvira_Cristi",
+  "wikipediaId": "Q5682200",
+  "name": "Elvira Cristi",
+  "fullName": "Elvira Cristi",
+  "profileSummary": "Elvira Teresa Cristi Bueno is a Chilean actress and model.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elvira_Cristi",
+  "dateOfBirth": "1976-11-26",
+  "birthDateParsed": "1976-11-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5682200",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:35.190Z"
+}

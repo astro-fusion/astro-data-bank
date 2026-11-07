@@ -1,0 +1,35 @@
+{
+  "publicId": "beee2cc8",
+  "wikipediaSlug": "José_Evaristo_Uriburu",
+  "wikipediaId": "Q270348",
+  "name": "José Evaristo Uriburu",
+  "fullName": "José Evaristo Uriburu",
+  "profileSummary": "José Félix Evaristo de Uriburu y Álvarez de Arenales was President of Argentina from 23 January 1895 to 12 October 1898.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jos%C3%A9_Evaristo_Uriburu_Witcomb.jpg/330px-Jos%C3%A9_Evaristo_Uriburu_Witcomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Evaristo_Uriburu",
+  "dateOfBirth": "1831-11-19",
+  "birthDateParsed": "1831-11-19",
+  "dateOfDeath": "1914-10-23",
+  "deathDateParsed": "1914-10-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "-24.788333333",
+  "birthCoordinatesLng": "-65.410555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "diplomat",
+    "politician"
+  ],
+  "qid": "Q270348",
+  "birthPlace": "Salta",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:13.475Z"
+}

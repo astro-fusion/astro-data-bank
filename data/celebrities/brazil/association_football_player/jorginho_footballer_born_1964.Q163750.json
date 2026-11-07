@@ -1,0 +1,34 @@
+{
+  "publicId": "988ab660",
+  "wikipediaSlug": "Jorginho_(footballer,_born_1964)",
+  "wikipediaId": "Q163750",
+  "name": "Jorginho (footballer, born 1964)",
+  "fullName": "Jorginho (footballer, born 1964)",
+  "profileSummary": "Jorge de Amorim Campos, better known as Jorginho, is a Brazilian professional football manager and former player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Jorginho_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorginho_(footballer%2C_born_1964)",
+  "dateOfBirth": "1964-08-17",
+  "birthDateParsed": "1964-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q163750",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:39.892Z"
+}

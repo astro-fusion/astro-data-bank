@@ -1,0 +1,34 @@
+{
+  "publicId": "4cd02093",
+  "wikipediaSlug": "Roque_González_Garza",
+  "wikipediaId": "Q148075",
+  "name": "Roque González Garza",
+  "fullName": "Roque González Garza",
+  "profileSummary": "Roque Victoriano González Garza was a Mexican general and politician who served as acting President of Mexico from January to June 1915. He was appointed by the Convention of Aguascalientes during the Mexican Revolution, and had previously been an important advisor to President Francisco Madero and a member of the Chamber of Deputies. He was later a founder of the anti-communist, xenophobic, antisemitic, nationalist Revolutionary Mexicanist Action party and its leader from 1933 to 1934.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Retrato_de_Roque_Gonz%C3%A1lez_Garza.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roque_Gonz%C3%A1lez_Garza",
+  "dateOfBirth": "1885-03-23",
+  "birthDateParsed": "1885-03-23",
+  "dateOfDeath": "1962-11-12",
+  "deathDateParsed": "1962-11-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.423055555",
+  "birthCoordinatesLng": "-100.991944444",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q148075",
+  "birthPlace": "Saltillo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:08.094Z"
+}

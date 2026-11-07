@@ -1,0 +1,38 @@
+{
+  "publicId": "d00c3d6e",
+  "wikipediaSlug": "Eduard_Köck",
+  "wikipediaId": "Q1289107",
+  "name": "Eduard Köck",
+  "fullName": "Eduard Köck",
+  "profileSummary": "Eduard Köck was an Austrian stage and film actor. He made a few silent film appearances, but most of his screen performances were character roles during the 1940s and 1950s.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduard_K%C3%B6ck",
+  "dateOfBirth": "1880-02-26",
+  "birthDateParsed": "1880-02-26",
+  "dateOfDeath": "1961-11-03",
+  "deathDateParsed": "1961-11-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.268333333",
+  "birthCoordinatesLng": "11.393333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "screenwriter",
+    "theatre director",
+    "actor",
+    "director"
+  ],
+  "qid": "Q1289107",
+  "birthPlace": "Innsbruck",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:42.721Z"
+}

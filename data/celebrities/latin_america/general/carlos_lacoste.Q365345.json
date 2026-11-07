@@ -1,0 +1,31 @@
+{
+  "publicId": "005ea442",
+  "wikipediaSlug": "Carlos_Lacoste",
+  "wikipediaId": "Q365345",
+  "name": "Carlos Lacoste",
+  "fullName": "Carlos Lacoste",
+  "profileSummary": "Carlos Alberto Lacoste was an Argentine naval officer and politician who briefly served as the interim President of Argentina in December 1981.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Valte._C._A._Lacoste.jpg/330px-Valte._C._A._Lacoste.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Lacoste",
+  "dateOfBirth": "1929-02-02",
+  "birthDateParsed": "1929-02-02",
+  "dateOfDeath": "2004-06-24",
+  "deathDateParsed": "2004-06-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q365345",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:59.546Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "f9066e42",
+  "wikipediaSlug": "Chen_Shu-fang",
+  "wikipediaId": "Q8944208",
+  "name": "Chen Shu-fang",
+  "fullName": "Chen Shu-fang",
+  "profileSummary": "Chen Shu-fang is a Taiwanese actress. She made her film debut in 1957 and television debut in 1971. In 2020, she was the recipient of the Best Actress and Best Supporting Actress at the 57th Golden Horse Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20201021%E9%99%B3%E6%B7%91%E8%8A%B3.jpg/330px-20201021%E9%99%B3%E6%B7%91%E8%8A%B3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Shu-fang",
+  "dateOfBirth": "1939-07-02",
+  "birthDateParsed": "1939-07-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.107",
+  "birthCoordinatesLng": "121.843",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "voice actor"
+  ],
+  "qid": "Q8944208",
+  "birthPlace": "Jiufen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:19.998Z"
+}

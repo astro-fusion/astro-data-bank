@@ -1,0 +1,38 @@
+{
+  "publicId": "c139182a",
+  "wikipediaSlug": "Afanasy_Fet",
+  "wikipediaId": "Q314212",
+  "name": "Afanasy Fet",
+  "fullName": "Afanasy Fet",
+  "profileSummary": "Afanasy Afanasyevich Fet, later known as Shenshin, was a Russian poet regarded as the finest master of lyric verse in Russian literature.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Fet_by_Repin.jpg/330px-Fet_by_Repin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Afanasy_Fet",
+  "dateOfBirth": "1820-12-05",
+  "birthDateParsed": "1820-12-05",
+  "dateOfDeath": "1892-12-03",
+  "deathDateParsed": "1892-12-03",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "translator",
+    "autobiographer",
+    "writer",
+    "musician",
+    "librettist"
+  ],
+  "qid": "Q314212",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:45:52.821Z"
+}

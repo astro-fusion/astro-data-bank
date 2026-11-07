@@ -1,0 +1,38 @@
+{
+  "publicId": "4fec4358",
+  "wikipediaSlug": "Angélica_Vale",
+  "wikipediaId": "Q2741080",
+  "name": "Angélica Vale",
+  "fullName": "Angélica Vale",
+  "profileSummary": "Angélica María Vale Hartman known as Angelica Vale. She is a Mexican-American actress and singer. She is the daughter of Angélica María, known as \"La Novia de México\", and Venezuelan comedian Raúl Vale. Although she has been working as an actress for nearly 30 years, she achieved widespread fame in 2006 as the protagonist of the Mexican telenovela La Fea Más Bella, in which she starred alongside her real-life mother.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2009_Ice_Age_3_Los_Angeles_Premiere_%283%29.jpg/330px-2009_Ice_Age_3_Los_Angeles_Premiere_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ang%C3%A9lica_Vale",
+  "dateOfBirth": "1969-11-11",
+  "birthDateParsed": "1969-11-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor",
+    "television actor",
+    "stage actor",
+    "voice actor"
+  ],
+  "qid": "Q2741080",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:14.750Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "74b64ef1",
+  "wikipediaSlug": "John_Banner",
+  "wikipediaId": "Q85154",
+  "name": "John Banner",
+  "fullName": "John Banner",
+  "profileSummary": "John Banner was an Austrian-born American actor, best known for his role as Sergeant Schultz in the situation comedy Hogan's Heroes (1965–1971). Schultz, constantly encountering evidence that inmates of his stalag were actively conducting anti-German espionage and sabotage activities, frequently feigned ignorance with the catchphrase, \"I see nothing! I hear nothing! I know nothing!\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/John_Banner_in_1965.jpg/330px-John_Banner_in_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Banner",
+  "dateOfBirth": "1910-01-28",
+  "birthDateParsed": "1910-01-28",
+  "dateOfDeath": "1973-01-28",
+  "deathDateParsed": "1973-01-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q85154",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:43.795Z"
+}

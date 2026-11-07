@@ -1,0 +1,35 @@
+{
+  "publicId": "4bf72e25",
+  "wikipediaSlug": "Jens_Nowotny",
+  "wikipediaId": "Q159050",
+  "name": "Jens Nowotny",
+  "fullName": "Jens Nowotny",
+  "profileSummary": "Jens Daniel Nowotny is a German former professional footballer who played as a centre-back or sweeper. He played in nearly 300 official games with Bayer Leverkusen in one full decade, helping them reach the 2002 Champions League final. Internationally, Nowotny appeared for Germany in one World Cup and two European Championships, gaining 48 caps.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jens_Nowotny_%E2%80%93_Tag_der_Legenden_2016_02.jpg/330px-Jens_Nowotny_%E2%80%93_Tag_der_Legenden_2016_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Nowotny",
+  "dateOfBirth": "1974-01-11",
+  "birthDateParsed": "1974-01-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.880833333",
+  "birthCoordinatesLng": "8.334166666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q159050",
+  "birthPlace": "Malsch",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:22.544Z"
+}

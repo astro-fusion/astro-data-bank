@@ -1,0 +1,38 @@
+{
+  "publicId": "7c34d71b",
+  "wikipediaSlug": "José_Alfredo_Jiménez",
+  "wikipediaId": "Q1352007",
+  "name": "José Alfredo Jiménez",
+  "fullName": "José Alfredo Jiménez",
+  "profileSummary": "José Alfredo Jiménez Sandoval was a Mexican actor and singer-songwriter, whose songs are regarded as the basis of modern Regional Mexican music and Rancheras.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Jos%C3%A9_Alfredo_Jim%C3%A9nez_%28exposici%C3%B3n_compositores%2C_CDMX%29_%28cropped%29.jpg/330px-Jos%C3%A9_Alfredo_Jim%C3%A9nez_%28exposici%C3%B3n_compositores%2C_CDMX%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Alfredo_Jim%C3%A9nez",
+  "dateOfBirth": "1926-01-19",
+  "birthDateParsed": "1926-01-19",
+  "dateOfDeath": "1973-11-23",
+  "deathDateParsed": "1973-11-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "21.1",
+  "birthCoordinatesLng": "-100.916666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "songwriter",
+    "mariachi",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q1352007",
+  "birthPlace": "Dolores Hidalgo Municipality",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:52.079Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "280a9405",
+  "wikipediaSlug": "Babu_Santana",
+  "wikipediaId": "Q6093859",
+  "name": "Babu Santana",
+  "fullName": "Babu Santana",
+  "profileSummary": "Alexandre da Silva Santana, known professionally as Babu Santana, is a Brazilian actor and singer. Born in Vidigal, Rio de Janeiro, Santana acted in plays at school since his 12 years and joined the theater group Nós do Morro when he was 17. His first roles in films were in 2002 when he acted in City of God and Something in the Air. In addition to being an actor, Babu is the vocalist of the band Babu Santana e Os Cabeças de Água-Viva, the band fuses samba, reggae, soul and funk. He is the father of two daughters and one son.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Babu_Santana_%28cropped%29.png/330px-Babu_Santana_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Babu_Santana",
+  "dateOfBirth": "1979-12-10",
+  "birthDateParsed": "1979-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "presenter",
+    "cantor"
+  ],
+  "qid": "Q6093859",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:33.237Z"
+}

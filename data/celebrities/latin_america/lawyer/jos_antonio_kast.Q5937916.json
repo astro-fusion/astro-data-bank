@@ -1,0 +1,34 @@
+{
+  "publicId": "14926739",
+  "wikipediaSlug": "José_Antonio_Kast",
+  "wikipediaId": "Q5937916",
+  "name": "José Antonio Kast",
+  "fullName": "José Antonio Kast",
+  "profileSummary": "José Antonio Kast Rist is a Chilean lawyer and politician who has served as the 38th president of Chile since 2026. Kast previously served as a member of the Chamber of Deputies from 2002 to 2018, representing districts in the Santiago Metropolitan Region.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Retrato_Presidente_Jos%C3%A9_Antonio_Kast_%28cropped%29.png/330px-Retrato_Presidente_Jos%C3%A9_Antonio_Kast_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Kast",
+  "dateOfBirth": "1966-01-18",
+  "birthDateParsed": "1966-01-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q5937916",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:34.544Z"
+}

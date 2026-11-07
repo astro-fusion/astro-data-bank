@@ -1,0 +1,35 @@
+{
+  "publicId": "55c41c80",
+  "wikipediaSlug": "Sihung_Lung",
+  "wikipediaId": "Q716792",
+  "name": "Sihung Lung",
+  "fullName": "Sihung Lung",
+  "profileSummary": "Sihung Lung was a Taiwanese actor. He appeared in over 100 films and TV series throughout his career and was best known for playing paternal roles in Ang Lee's films Pushing Hands, The Wedding Banquet and Eat Drink Man Woman.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/%E7%AC%AC28%E5%B1%86%E9%87%91%E9%A6%AC%E5%BD%B1%E5%B8%9D%E9%83%8E%E9%9B%84.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sihung_Lung",
+  "dateOfBirth": "1930-01-01",
+  "birthDateParsed": "1930-01-01",
+  "dateOfDeath": "2002-05-02",
+  "deathDateParsed": "2002-05-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "33.933056",
+  "birthCoordinatesLng": "118.283056",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q716792",
+  "birthPlace": "Suqian",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:04.830Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "65be0e12",
+  "wikipediaSlug": "Cármen_Lúcia",
+  "wikipediaId": "Q83019",
+  "name": "Cármen Lúcia",
+  "fullName": "Cármen Lúcia",
+  "profileSummary": "Cármen Lúcia Antunes Rocha is a Brazilian jurist and member of the Supreme Federal Court since 2006. She is the second woman to have been chosen as a justice for the Court and Chief Justice and a professor of Constitutional Law at Pontifical Catholic University of Minas Gerais. She was nominated by former President of Brazil Luiz Inácio Lula da Silva. Antunes Rocha's work has been marked by the rigor with which she tries corruption cases and her firm stance regarding women's rights.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Carmen_L%C3%BAcia_cerim%C3%B4nia_de_posse.jpg/330px-Carmen_L%C3%BAcia_cerim%C3%B4nia_de_posse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A1rmen_L%C3%BAcia",
+  "dateOfBirth": "1954-04-19",
+  "birthDateParsed": "1954-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-16.732222222",
+  "birthCoordinatesLng": "-43.863611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "judge",
+    "jurist"
+  ],
+  "qid": "Q83019",
+  "birthPlace": "Montes Claros",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:25.602Z"
+}

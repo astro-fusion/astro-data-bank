@@ -1,0 +1,35 @@
+{
+  "publicId": "7c5b4a3f",
+  "wikipediaSlug": "Jürgen_Grabowski",
+  "wikipediaId": "Q44917",
+  "name": "Jürgen Grabowski",
+  "fullName": "Jürgen Grabowski",
+  "profileSummary": "Jürgen Grabowski was a German footballer. He played for Eintracht Frankfurt. He won gold medals playing for the West Germany national football team that won the European championship in 1972 and the FIFA World Cup in 1974. Grabowski is considered the greatest Eintracht Frankfurt player ever.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2018-09-17_Eintracht_Frankfurt_Golf_Open_J%C3%BCrgen_Grabowski-8891_%28cropped%29.jpg/330px-2018-09-17_Eintracht_Frankfurt_Golf_Open_J%C3%BCrgen_Grabowski-8891_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Grabowski",
+  "dateOfBirth": "1944-07-07",
+  "birthDateParsed": "1944-07-07",
+  "dateOfDeath": "2022-03-10",
+  "deathDateParsed": "2022-03-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.0825",
+  "birthCoordinatesLng": "8.24",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q44917",
+  "birthPlace": "Wiesbaden",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:07.193Z"
+}

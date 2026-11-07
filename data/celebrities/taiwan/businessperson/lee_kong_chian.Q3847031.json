@@ -1,0 +1,35 @@
+{
+  "publicId": "e3c681ae",
+  "wikipediaSlug": "Lee_Kong_Chian",
+  "wikipediaId": "Q3847031",
+  "name": "Lee Kong Chian",
+  "fullName": "Lee Kong Chian",
+  "profileSummary": "Tan Sri Dato' Lee Kong Chian, also known by his alias Lee Geok Kun, was a prominent Chinese Singaporean businessman and philanthropist based in Malaya and Singapore between the 1930s and the 1960s. He was the founder of the Lee Foundation and one of the richest men in Southeast Asia in the 1950s and 1960s. He was also a son-in-law of Tan Kah Kee, another well-known Chinese businessman and philanthropist based in Southeast Asia. He is affectionately known today as the \"founding father\" of Oversea-Chinese Banking Corporation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lee_Kong_Chian%2C_1946.png/330px-Lee_Kong_Chian%2C_1946.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Kong_Chian",
+  "dateOfBirth": "1893-10-18",
+  "birthDateParsed": "1893-10-18",
+  "dateOfDeath": "1967-06-02",
+  "deathDateParsed": "1967-06-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "24.96327",
+  "birthCoordinatesLng": "118.3811",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "merchant",
+    "philanthropist"
+  ],
+  "qid": "Q3847031",
+  "birthPlace": "Nan'an",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:39.996Z"
+}

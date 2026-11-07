@@ -1,0 +1,37 @@
+{
+  "publicId": "ee2563d2",
+  "wikipediaSlug": "Adriana_Calcanhotto",
+  "wikipediaId": "Q217087",
+  "name": "Adriana Calcanhotto",
+  "fullName": "Adriana Calcanhotto",
+  "profileSummary": "Adriana da Cunha Calcanhotto is a Brazilian singer-songwriter. Her melancholic songs are often categorized in the MPB genre. She began her professional career in 1984 and released her first studio album in 1990. She is also a teacher and ambassador of the University of Coimbra in Portugal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Adriana_Calcanhotto_2015.JPG/330px-Adriana_Calcanhotto_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Calcanhotto",
+  "dateOfBirth": "1965-10-03",
+  "birthDateParsed": "1965-10-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-30.032777777",
+  "birthCoordinatesLng": "-51.23",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "guitarist",
+    "film director",
+    "musician"
+  ],
+  "qid": "Q217087",
+  "birthPlace": "Porto Alegre",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:21.300Z"
+}

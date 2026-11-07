@@ -1,0 +1,35 @@
+{
+  "publicId": "f2c25c91",
+  "wikipediaSlug": "Sun_Yueh",
+  "wikipediaId": "Q9041952",
+  "name": "Sun Yueh",
+  "fullName": "Sun Yueh",
+  "profileSummary": "Sun Yueh was a Taiwanese actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2011_SKL_RunUp_Yueh_Sun.jpg/330px-2011_SKL_RunUp_Yueh_Sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sun_Yueh",
+  "dateOfBirth": "1930-10-26",
+  "birthDateParsed": "1930-10-26",
+  "dateOfDeath": "2018-05-01",
+  "deathDateParsed": "2018-05-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "30.037195",
+  "birthCoordinatesLng": "121.15463",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q9041952",
+  "birthPlace": "Yuyao City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:18.848Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "0641c0c1",
+  "wikipediaSlug": "Chow_Yun-fat",
+  "wikipediaId": "Q181425",
+  "name": "Chow Yun-fat",
+  "fullName": "Chow Yun-fat",
+  "profileSummary": "Chow Yun-fat, previously known as Donald Chow, is a Hong Kong actor and filmmaker. In a film career spanning more than forty-five years, Chow has appeared in over 100 television drama series and films. Known for his versatility, encompassing action and melodrama, comedy and historical drama, his accolades include three Hong Kong Film Awards for Best Actor and two Golden Horse Awards for Best Actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chow_Yun_Fat_for_wiki.jpg/330px-Chow_Yun_Fat_for_wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chow_Yun-fat",
+  "dateOfBirth": "1955-05-18",
+  "birthDateParsed": "1955-05-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "film actor",
+    "singer",
+    "model",
+    "television actor"
+  ],
+  "qid": "Q181425",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:19.513Z"
+}

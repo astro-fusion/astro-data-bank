@@ -1,0 +1,36 @@
+{
+  "publicId": "35b0fc24",
+  "wikipediaSlug": "Eiza_González",
+  "wikipediaId": "Q572761",
+  "name": "Eiza González",
+  "fullName": "Eiza González",
+  "profileSummary": "Eiza González Reyna is a Mexican actress and singer. She gained popularity for starring in the Nickelodeon teen sitcom Sueña conmigo (2010–2011). As a singer, she released the albums Contracorriente (2009) and Te Acordarás de Mí (2012).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eiza_Gonz%C3%A1lez_-_AMC_The_Grove_-_Ash.jpg/330px-Eiza_Gonz%C3%A1lez_-_AMC_The_Grove_-_Ash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eiza_Gonz%C3%A1lez",
+  "dateOfBirth": "1990-01-30",
+  "birthDateParsed": "1990-01-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "songwriter",
+    "presenter"
+  ],
+  "qid": "Q572761",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:45.127Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "d5380839",
+  "wikipediaSlug": "Arath_de_la_Torre",
+  "wikipediaId": "Q2859568",
+  "name": "Arath de la Torre",
+  "fullName": "Arath de la Torre",
+  "profileSummary": "Arath De La Torre Balmaceda is a Mexican actor and comedian, best known for his roles in the telenovelas Soñadoras, Amigas y rivales, and Una familia con suerte.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Arath_de_la_Torre_at_the_2019_Metropolitan_Theater_Awards_%28cropped%29.jpg/330px-Arath_de_la_Torre_at_the_2019_Metropolitan_Theater_Awards_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arath_de_la_Torre",
+  "dateOfBirth": "1974-03-20",
+  "birthDateParsed": "1974-03-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor",
+    "comedian",
+    "presenter",
+    "producer",
+    "writer",
+    "director"
+  ],
+  "qid": "Q2859568",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:15:57.242Z"
+}

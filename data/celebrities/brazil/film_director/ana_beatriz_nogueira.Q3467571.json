@@ -1,0 +1,35 @@
+{
+  "publicId": "13b1012c",
+  "wikipediaSlug": "Ana_Beatriz_Nogueira",
+  "wikipediaId": "Q3467571",
+  "name": "Ana Beatriz Nogueira",
+  "fullName": "Ana Beatriz Nogueira",
+  "profileSummary": "Ana Beatriz Soares Nogueira is a Brazilian actress. In 1987, she won the Silver Bear for Best Actress at the 37th Berlin International Film Festival for her role in the film Vera, directed by Sérgio Toledo.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Beatriz_Nogueira",
+  "dateOfBirth": "1967-10-22",
+  "birthDateParsed": "1967-10-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q3467571",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:07.399Z"
+}

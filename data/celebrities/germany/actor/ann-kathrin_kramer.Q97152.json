@@ -1,0 +1,37 @@
+{
+  "publicId": "80a00390",
+  "wikipediaSlug": "Ann-Kathrin_Kramer",
+  "wikipediaId": "Q97152",
+  "name": "Ann-Kathrin Kramer",
+  "fullName": "Ann-Kathrin Kramer",
+  "profileSummary": "Ann-Kathrin Kramer is a German actress and writer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2019-03-12_Ann-Kathrin_Kramer_5871.jpg/330px-2019-03-12_Ann-Kathrin_Kramer_5871.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ann-Kathrin_Kramer",
+  "dateOfBirth": "1966-04-04",
+  "birthDateParsed": "1966-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.266666666",
+  "birthCoordinatesLng": "7.183333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "film actor",
+    "author",
+    "children's writer"
+  ],
+  "qid": "Q97152",
+  "birthPlace": "Wuppertal",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:35.757Z"
+}

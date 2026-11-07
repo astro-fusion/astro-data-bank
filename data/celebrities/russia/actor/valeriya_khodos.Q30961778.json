@@ -1,0 +1,35 @@
+{
+  "publicId": "45d441d8",
+  "wikipediaSlug": "Valeriya_Khodos",
+  "wikipediaId": "Q30961778",
+  "name": "Valeriya Khodos",
+  "fullName": "Valeriya Khodos",
+  "profileSummary": "Valeriya Ihorivna Khodos is a Ukrainian actress, director, and writer known for her work in film, television, and theater. She was born in Kyiv, then part of the Ukrainian SSR in the Soviet Union.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valeriya_Khodos",
+  "dateOfBirth": "1986-11-19",
+  "birthDateParsed": "1986-11-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "film actor"
+  ],
+  "qid": "Q30961778",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:39.418Z"
+}

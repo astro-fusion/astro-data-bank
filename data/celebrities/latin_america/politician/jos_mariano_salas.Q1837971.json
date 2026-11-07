@@ -1,0 +1,34 @@
+{
+  "publicId": "74b5bf55",
+  "wikipediaSlug": "José_Mariano_Salas",
+  "wikipediaId": "Q1837971",
+  "name": "José Mariano Salas",
+  "fullName": "José Mariano Salas",
+  "profileSummary": "José Mariano Salas Barbosa was a Mexican soldier and politician who served twice as interim president of Mexico, once in 1846, during the Mexican–American War, and once in 1859 during the Reform War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Photo_of_Mariano_Salas.jpg/330px-Photo_of_Mariano_Salas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mariano_Salas",
+  "dateOfBirth": "1797-05-11",
+  "birthDateParsed": "1797-05-11",
+  "dateOfDeath": "1867-12-24",
+  "deathDateParsed": "1867-12-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.994166666",
+  "birthCoordinatesLng": "-102.783888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q1837971",
+  "birthPlace": "Jiquilpan Municipality",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:29.590Z"
+}

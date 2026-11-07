@@ -1,0 +1,34 @@
+{
+  "publicId": "91954efa",
+  "wikipediaSlug": "Alexandra_Maria_Lara",
+  "wikipediaId": "Q65106",
+  "name": "Alexandra Maria Lara",
+  "fullName": "Alexandra Maria Lara",
+  "profileSummary": "Alexandra Maria Lara is a Romanian-German actress, best known internationally for her roles in the films Downfall (2004), Control (2007), Youth Without Youth (2007), The Reader (2008), Rush (2013), and Geostorm (2017). From 2022 to 2025, she served as co-president of the Deutsche Filmakademie.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MJK_68027_Alexandra_Maria_Lara_%28Berlinale_2020%29.jpg/330px-MJK_68027_Alexandra_Maria_Lara_%28Berlinale_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Maria_Lara",
+  "dateOfBirth": "1978-11-12",
+  "birthDateParsed": "1978-11-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "44.413361111",
+  "birthCoordinatesLng": "26.097777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q65106",
+  "birthPlace": "Bucharest",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:31.237Z"
+}

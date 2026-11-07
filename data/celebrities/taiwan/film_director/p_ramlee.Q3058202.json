@@ -1,0 +1,40 @@
+{
+  "publicId": "31a00d36",
+  "wikipediaSlug": "P._Ramlee",
+  "wikipediaId": "Q3058202",
+  "name": "P. Ramlee",
+  "fullName": "P. Ramlee",
+  "profileSummary": "Teuku Zakaria bin Teuku Nyak Puteh, better known by his stage name P. Ramlee, was a Malaysian actor, filmmaker, musician, and composer. Born in Penang, Malaya, he is regarded as a prominent icon in Southeast Asia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Tan_Sri_P._Ramlee.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/P._Ramlee",
+  "dateOfBirth": "1929-03-22",
+  "birthDateParsed": "1929-03-22",
+  "dateOfDeath": "1973-05-29",
+  "deathDateParsed": "1973-05-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "5.4145",
+  "birthCoordinatesLng": "100.3292",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "screenwriter",
+    "actor",
+    "songwriter",
+    "composer",
+    "singer",
+    "director",
+    "musician"
+  ],
+  "qid": "Q3058202",
+  "birthPlace": "George Town",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:42.542Z"
+}

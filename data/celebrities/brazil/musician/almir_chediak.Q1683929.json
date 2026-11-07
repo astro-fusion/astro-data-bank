@@ -1,0 +1,35 @@
+{
+  "publicId": "b1068131",
+  "wikipediaSlug": "Almir_Chediak",
+  "wikipediaId": "Q1683929",
+  "name": "Almir Chediak",
+  "fullName": "Almir Chediak",
+  "profileSummary": "Almir Santana Chediak was a Brazilian musical producer, entrepreneur, publisher, guitarist, teacher, composer, writer and researcher.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Almir_Chediak",
+  "dateOfBirth": "1950-06-21",
+  "birthDateParsed": "1950-06-21",
+  "dateOfDeath": "2003-05-25",
+  "deathDateParsed": "2003-05-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician",
+    "film score composer",
+    "record producer"
+  ],
+  "qid": "Q1683929",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:35.496Z"
+}

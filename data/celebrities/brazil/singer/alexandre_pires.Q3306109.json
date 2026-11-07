@@ -1,0 +1,35 @@
+{
+  "publicId": "08261330",
+  "wikipediaSlug": "Alexandre_Pires",
+  "wikipediaId": "Q3306109",
+  "name": "Alexandre Pires",
+  "fullName": "Alexandre Pires",
+  "profileSummary": "Alexandre Pires do Nascimento is a Brazilian singer-songwriter. Pires was previously the singer of group Só Pra Contrariar which he joined in the late 1980s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alexandre_Pires%2C_%E2%80%9CEm_casa_ao_vivo%E2%80%9C_%28cropped%29.jpg/330px-Alexandre_Pires%2C_%E2%80%9CEm_casa_ao_vivo%E2%80%9C_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Pires",
+  "dateOfBirth": "1976-01-08",
+  "birthDateParsed": "1976-01-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-18.918888888",
+  "birthCoordinatesLng": "-48.276944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "record producer"
+  ],
+  "qid": "Q3306109",
+  "birthPlace": "Uberlândia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:30.967Z"
+}

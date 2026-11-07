@@ -1,0 +1,33 @@
+{
+  "publicId": "af6ad1dd",
+  "wikipediaSlug": "Natalka_Denysenko",
+  "wikipediaId": "Q28702138",
+  "name": "Natalka Denysenko",
+  "fullName": "Natalka Denysenko",
+  "profileSummary": "Nataliya Oleksandrivna Denysenko is a Ukrainian actress, director and TV presenter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Natalka_Denysenko_2023_%28cropped%29.jpg/330px-Natalka_Denysenko_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalka_Denysenko",
+  "dateOfBirth": "1989-12-17",
+  "birthDateParsed": "1989-12-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.493888888",
+  "birthCoordinatesLng": "31.294722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q28702138",
+  "birthPlace": "Chernihiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:27.031Z"
+}

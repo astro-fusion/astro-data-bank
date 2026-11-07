@@ -1,0 +1,34 @@
+{
+  "publicId": "e4aa7d00",
+  "wikipediaSlug": "José_Alencar",
+  "wikipediaId": "Q349583",
+  "name": "José Alencar",
+  "fullName": "José Alencar",
+  "profileSummary": "José Alencar Gomes da Silva was a Brazilian businessman, entrepreneur and politician who served as the 23rd vice president of Brazil from 1 January 2003 to 1 January 2011. In business from a young age, Alencar became a self-made multimillionaire as the chief executive of Coteminas, a leading textile manufacturer. In the 1990s, Alencar groomed his son to succeed him at the company.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jose_alencar_23_out_2007.jpg/330px-Jose_alencar_23_out_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Alencar",
+  "dateOfBirth": "1931-10-17",
+  "birthDateParsed": "1931-10-17",
+  "dateOfDeath": "2011-03-29",
+  "deathDateParsed": "2011-03-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.130833333",
+  "birthCoordinatesLng": "-42.365833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "entrepreneur"
+  ],
+  "qid": "Q349583",
+  "birthPlace": "Muriaé",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:48.308Z"
+}

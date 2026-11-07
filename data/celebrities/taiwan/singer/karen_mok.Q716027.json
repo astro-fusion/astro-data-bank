@@ -1,0 +1,38 @@
+{
+  "publicId": "dff84612",
+  "wikipediaSlug": "Karen_Mok",
+  "wikipediaId": "Q716027",
+  "name": "Karen Mok",
+  "fullName": "Karen Mok",
+  "profileSummary": "Karen Joy Morris, better known as Karen Mok, is a Hong Kong actress and singer. She is considered one of the leading East Asian pop singers and actresses with a career spanning three decades. Mok is the first female Hong Kong singer to win the Golden Melody Award, and to date has won it three times.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Karen_Mok_%28%E8%8E%AB%E6%96%87%E8%94%9A%29_at_the_TV_show_%22The_Singing_Battle_%28%E5%A4%A9%E7%B1%81%E4%B9%8B%E6%88%98%29%22_on_31_Oct_2016_%28cropped%29.jpg/330px-Karen_Mok_%28%E8%8E%AB%E6%96%87%E8%94%9A%29_at_the_TV_show_%22The_Singing_Battle_%28%E5%A4%A9%E7%B1%81%E4%B9%8B%E6%88%98%29%22_on_31_Oct_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karen_Mok",
+  "dateOfBirth": "1970-06-02",
+  "birthDateParsed": "1970-06-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "model",
+    "film actor",
+    "recording artist",
+    "actor"
+  ],
+  "qid": "Q716027",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:54.457Z"
+}

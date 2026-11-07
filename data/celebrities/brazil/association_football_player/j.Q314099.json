@@ -1,0 +1,33 @@
+{
+  "publicId": "95e8335a",
+  "wikipediaSlug": "Jô",
+  "wikipediaId": "Q314099",
+  "name": "Jô",
+  "fullName": "Jô",
+  "profileSummary": "João Alves de Assis Silva, known as Jô or João Alves, is a Brazilian former professional footballer who played as a forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alves_J%C3%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B4",
+  "dateOfBirth": "1987-03-20",
+  "birthDateParsed": "1987-03-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q314099",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:37.095Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "2fddffd3",
+  "wikipediaSlug": "Antônio_Moreira_Borges",
+  "wikipediaId": "Q16940446",
+  "name": "Antônio Moreira Borges",
+  "fullName": "Antônio Moreira Borges",
+  "profileSummary": "Antonio Moreira Borges, better known as Father Antônio Maria, is a Brazilian Catholic priest and singer. He has performed duets with Roberto Carlos, Agnaldo Rayol and Angela Maria, as well as a presentation for the then Pope John Paul II.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Padre_Antonio_Maria_01.jpg/330px-Padre_Antonio_Maria_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Moreira_Borges",
+  "dateOfBirth": "1945-08-17",
+  "birthDateParsed": "1945-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "priest"
+  ],
+  "qid": "Q16940446",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:32.339Z"
+}

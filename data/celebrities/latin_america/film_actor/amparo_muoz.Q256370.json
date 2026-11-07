@@ -1,0 +1,35 @@
+{
+  "publicId": "37e43380",
+  "wikipediaSlug": "Amparo_Muñoz",
+  "wikipediaId": "Q256370",
+  "name": "Amparo Muñoz",
+  "fullName": "Amparo Muñoz",
+  "profileSummary": "Maria de Amparo Muñoz y Quesada was a Spanish actress, model and beauty queen who won the Miss Universe 1974 competition in Manila, Philippines, being the first and only Spaniard Miss Universe titleholder to date.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Amparo_Mu%C3%B1oz_Miss_Universe_1974.jpg/330px-Amparo_Mu%C3%B1oz_Miss_Universe_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amparo_Mu%C3%B1oz",
+  "dateOfBirth": "1954-06-21",
+  "birthDateParsed": "1954-06-21",
+  "dateOfDeath": "2011-02-27",
+  "deathDateParsed": "2011-02-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "36.7821366",
+  "birthCoordinatesLng": "-4.0992542",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "model",
+    "beauty pageant contestant"
+  ],
+  "qid": "Q256370",
+  "birthPlace": "Vélez-Málaga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:24.042Z"
+}

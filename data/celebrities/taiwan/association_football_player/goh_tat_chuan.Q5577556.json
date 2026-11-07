@@ -1,0 +1,33 @@
+{
+  "publicId": "5f7e8d36",
+  "wikipediaSlug": "Goh_Tat_Chuan",
+  "wikipediaId": "Q5577556",
+  "name": "Goh Tat Chuan",
+  "fullName": "Goh Tat Chuan",
+  "profileSummary": "Goh Tat Chuan is a former Singapore football player. A midfielder, he spent most of his time at Woodlands Wellington and was the 10th captain of the club.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Goh_Tat_Chuan",
+  "dateOfBirth": "1974-02-06",
+  "birthDateParsed": "1974-02-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q5577556",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:26.946Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "5e428feb",
+  "wikipediaSlug": "Adriana_Kugler",
+  "wikipediaId": "Q4685502",
+  "name": "Adriana Kugler",
+  "fullName": "Adriana Kugler",
+  "profileSummary": "Adriana Debora Kugler is an American economist who was a member of the Federal Reserve Board of Governors. She previously was U.S. executive director at the World Bank, nominated by President Joe Biden and confirmed by the U.S. Senate in April 2022. She is a professor of public policy at Georgetown University's McCourt School of Public Policy. She was the Chief Economist to U.S. Labor Secretary Hilda L. Solis from September 6, 2011 to January 4, 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Adriana_D._Kugler%2C_Federal_Reserve_Governor.jpg/330px-Adriana_D._Kugler%2C_Federal_Reserve_Governor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Kugler",
+  "dateOfBirth": "1969-10-23",
+  "birthDateParsed": "1969-10-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "44.975833333",
+  "birthCoordinatesLng": "-93.266666666",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist"
+  ],
+  "qid": "Q4685502",
+  "birthPlace": "Hennepin County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:09.160Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "c2c2576d",
+  "wikipediaSlug": "Fher_Olvera",
+  "wikipediaId": "Q2545615",
+  "name": "Fher Olvera",
+  "fullName": "Fher Olvera",
+  "profileSummary": "José Fernando Emilio \"Fher\" Olvera Sierra is a Mexican musician and songwriter who is the secondary guitarist, composer and lead singer of the rock band Maná.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fher_Olvera_in_Denver%2C_2023.jpg/330px-Fher_Olvera_in_Denver%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fher_Olvera",
+  "dateOfBirth": "1959-12-08",
+  "birthDateParsed": "1959-12-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.051388888",
+  "birthCoordinatesLng": "-98.217777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician",
+    "composer",
+    "singer",
+    "guitarist",
+    "songwriter"
+  ],
+  "qid": "Q2545615",
+  "birthPlace": "Heroica Puebla de Zaragoza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:55.600Z"
+}

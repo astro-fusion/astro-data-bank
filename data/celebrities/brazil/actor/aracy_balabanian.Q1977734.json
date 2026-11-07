@@ -1,0 +1,35 @@
+{
+  "publicId": "9f0e811c",
+  "wikipediaSlug": "Aracy_Balabanian",
+  "wikipediaId": "Q1977734",
+  "name": "Aracy Balabanian",
+  "fullName": "Aracy Balabanian",
+  "profileSummary": "Aracy Balabanian was a Brazilian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aracy_Balabanian_cropped.jpg/330px-Aracy_Balabanian_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aracy_Balabanian",
+  "dateOfBirth": "1940-02-22",
+  "birthDateParsed": "1940-02-22",
+  "dateOfDeath": "2023-08-07",
+  "deathDateParsed": "2023-08-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.468611111",
+  "birthCoordinatesLng": "-54.622222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "stage actor"
+  ],
+  "qid": "Q1977734",
+  "birthPlace": "Campo Grande",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:56.230Z"
+}

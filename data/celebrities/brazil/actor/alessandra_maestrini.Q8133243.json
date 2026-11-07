@@ -1,0 +1,33 @@
+{
+  "publicId": "09c1ea22",
+  "wikipediaSlug": "Alessandra_Maestrini",
+  "wikipediaId": "Q8133243",
+  "name": "Alessandra Maestrini",
+  "fullName": "Alessandra Maestrini",
+  "profileSummary": "Alessandra Maestrini is a Brazilian actress and singer. She began her artistic career performing in acclaimed musicals and theater plays before gaining prominence on television, playing the Polish-Paranaense maid Bozena in the sitcom Toma Lá, Dá Cá (2007–09).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Alessandra_Maestrini_2016.jpg/330px-Alessandra_Maestrini_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alessandra_Maestrini",
+  "dateOfBirth": "1977-05-17",
+  "birthDateParsed": "1977-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.501944444",
+  "birthCoordinatesLng": "-47.457777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q8133243",
+  "birthPlace": "Sorocaba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:44.295Z"
+}

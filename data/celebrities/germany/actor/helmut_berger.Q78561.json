@@ -1,0 +1,37 @@
+{
+  "publicId": "b5bd3d4c",
+  "wikipediaSlug": "Helmut_Berger",
+  "wikipediaId": "Q78561",
+  "name": "Helmut Berger",
+  "fullName": "Helmut Berger",
+  "profileSummary": "Helmut Berger was an Austrian actor, known for his portrayal of narcissistic and sexually ambiguous characters. He was one of the stars of European cinema in the late 1960s and 1970s, and is regarded as a sex symbol and pop icon of that period.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Helmut_Berger_1972.jpg/330px-Helmut_Berger_1972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helmut_Berger",
+  "dateOfBirth": "1944-05-29",
+  "birthDateParsed": "1944-05-29",
+  "dateOfDeath": "2023-05-18",
+  "deathDateParsed": "2023-05-18",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor",
+    "film director"
+  ],
+  "qid": "Q78561",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:11.843Z"
+}

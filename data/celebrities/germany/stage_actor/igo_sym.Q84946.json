@@ -1,0 +1,37 @@
+{
+  "publicId": "6479af04",
+  "wikipediaSlug": "Igo_Sym",
+  "wikipediaId": "Q84946",
+  "name": "Igo Sym",
+  "fullName": "Igo Sym",
+  "profileSummary": "Karol Juliusz \"Igo\" Sym was a Polish actor and collaborator with Nazi Germany. He was killed in Warsaw by members of the Polish resistance movement.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Igo_Sym.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Igo_Sym",
+  "dateOfBirth": "1896-07-03",
+  "birthDateParsed": "1896-07-03",
+  "dateOfDeath": "1941-03-07",
+  "deathDateParsed": "1941-03-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.268333333",
+  "birthCoordinatesLng": "11.393333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "theatre manager",
+    "actor",
+    "wartime collaboration"
+  ],
+  "qid": "Q84946",
+  "birthPlace": "Innsbruck",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:14.465Z"
+}

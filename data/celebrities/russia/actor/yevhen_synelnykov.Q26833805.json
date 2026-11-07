@@ -1,0 +1,40 @@
+{
+  "publicId": "344e3d67",
+  "wikipediaSlug": "Yevhen_Synelnykov",
+  "wikipediaId": "Q26833805",
+  "name": "Yevhen Synelnykov",
+  "fullName": "Yevhen Synelnykov",
+  "profileSummary": "Yevhen Oleksandrovych Synelnykov is a Ukrainian TV presenter, director, actor, one of the presenter travel show \"Oryol i Reshka\" TV channels \"Inter\" and \"Pyatnica!\".",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yevhen_Synelnykov",
+  "dateOfBirth": "1981-11-03",
+  "birthDateParsed": "1981-11-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "47.85",
+  "birthCoordinatesLng": "35.1175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "presenter",
+    "director",
+    "television presenter",
+    "traveler",
+    "principal director",
+    "journalist",
+    "television actor"
+  ],
+  "qid": "Q26833805",
+  "birthPlace": "Zaporizhzhia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:54.283Z"
+}

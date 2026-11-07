@@ -1,0 +1,33 @@
+{
+  "publicId": "7d3b758b",
+  "wikipediaSlug": "Diego_(footballer,_born_1985)",
+  "wikipediaId": "Q109428",
+  "name": "Diego (footballer, born 1985)",
+  "fullName": "Diego (footballer, born 1985)",
+  "profileSummary": "Diego Ribas da Cunha, commonly known as just Diego or Diego Ribas, is a Brazilian former professional footballer who played as an attacking midfielder. A full international for Brazil since 2003, Diego earned 34 caps and scored four international goals. He was part of the Brazilian squads which finished as runners-up at the 2003 CONCACAF Gold Cup, won the Copa América in 2004 and 2007, and earned a bronze medal at the 2008 Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Diego_Ribas_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_(footballer%2C_born_1985)",
+  "dateOfBirth": "1985-02-28",
+  "birthDateParsed": "1985-02-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.1776315",
+  "birthCoordinatesLng": "-47.8100983",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q109428",
+  "birthPlace": "Ribeirão Preto",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:53.538Z"
+}

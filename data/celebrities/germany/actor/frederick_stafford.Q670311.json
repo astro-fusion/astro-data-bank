@@ -1,0 +1,34 @@
+{
+  "publicId": "f596e3c5",
+  "wikipediaSlug": "Frederick_Stafford",
+  "wikipediaId": "Q670311",
+  "name": "Frederick Stafford",
+  "fullName": "Frederick Stafford",
+  "profileSummary": "Frederick Stafford was a Slovak-Australian actor. He was known as a leading man in Eurospy films, particularly as Hubert Bonnisseur de la Bath / OSS 117, and for his starring role in the Alfred Hitchcock film Topaz (1969).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frederick_Stafford_Topaz_trailer_%282%29_1969.png/330px-Frederick_Stafford_Topaz_trailer_%282%29_1969.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Stafford",
+  "dateOfBirth": "1928-03-11",
+  "birthDateParsed": "1928-03-11",
+  "dateOfDeath": "1979-07-28",
+  "deathDateParsed": "1979-07-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.583333333",
+  "birthCoordinatesLng": "17.833333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q670311",
+  "birthPlace": "Piešťany",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:32.371Z"
+}

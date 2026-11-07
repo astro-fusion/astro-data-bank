@@ -1,0 +1,35 @@
+{
+  "publicId": "cf2031dc",
+  "wikipediaSlug": "Oleg_Shatov",
+  "wikipediaId": "Q2037238",
+  "name": "Oleg Shatov",
+  "fullName": "Oleg Shatov",
+  "profileSummary": "Oleg Aleksandrovich Shatov is a Russian professional football manager and a former player who played as an attacking midfielder. Earlier in his career, he mostly played as a left winger or right winger.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oleg_Shatov_2022.jpg/330px-Oleg_Shatov_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleg_Shatov",
+  "dateOfBirth": "1990-07-29",
+  "birthDateParsed": "1990-07-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "57.916666666",
+  "birthCoordinatesLng": "59.966666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "futsal player"
+  ],
+  "qid": "Q2037238",
+  "birthPlace": "Nizhny Tagil",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:37.347Z"
+}

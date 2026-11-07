@@ -1,0 +1,34 @@
+{
+  "publicId": "51e6646b",
+  "wikipediaSlug": "Jesús_Mosquera",
+  "wikipediaId": "Q95952852",
+  "name": "Jesús Mosquera",
+  "fullName": "Jesús Mosquera",
+  "profileSummary": "Jesús Mosquera Bernal is a Spanish ex-footballer turned actor, best known for his portrayal of Hugo Beltrán in Toy Boy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jes%C3%BAs_Mosquera_in_2019.jpg/330px-Jes%C3%BAs_Mosquera_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Mosquera",
+  "dateOfBirth": "1993-02-23",
+  "birthDateParsed": "1993-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "36.541666666",
+  "birthCoordinatesLng": "-4.625",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "association football player"
+  ],
+  "qid": "Q95952852",
+  "birthPlace": "Fuengirola",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:35.923Z"
+}

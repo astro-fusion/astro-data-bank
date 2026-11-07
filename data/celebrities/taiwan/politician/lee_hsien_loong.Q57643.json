@@ -1,0 +1,35 @@
+{
+  "publicId": "0100b181",
+  "wikipediaSlug": "Lee_Hsien_Loong",
+  "wikipediaId": "Q57643",
+  "name": "Lee Hsien Loong",
+  "fullName": "Lee Hsien Loong",
+  "profileSummary": "Lee Hsien Loong, also known by his initials LHL, is a Singaporean politician and former military officer who has served as the Senior Minister of Singapore since 2024, having previously served as the third Prime Minister between 2004 and 2024. He also served as the secretary-general of the governing People's Action Party (PAP) between 2004 and 2024. As a Member of Parliament (MP), he has represented the Teck Ghee division of Ang Mo Kio Group Representation Constituency (GRC) since 1991, having previously represented Teck Ghee Single Member Constituency (SMC) between 1984 and 1991.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/1_lee_hsien_loong_2026.jpg/330px-1_lee_hsien_loong_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Hsien_Loong",
+  "dateOfBirth": "1952-02-10",
+  "birthDateParsed": "1952-02-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "head of government"
+  ],
+  "qid": "Q57643",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:13.989Z"
+}

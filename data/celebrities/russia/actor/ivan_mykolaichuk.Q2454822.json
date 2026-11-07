@@ -1,0 +1,39 @@
+{
+  "publicId": "6eab2a83",
+  "wikipediaSlug": "Ivan_Mykolaichuk",
+  "wikipediaId": "Q2454822",
+  "name": "Ivan Mykolaichuk",
+  "fullName": "Ivan Mykolaichuk",
+  "profileSummary": "Ivan Vasylyovych Mykolaichuk was a Ukrainian actor, producer, and screen writer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/Mykolajchuk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Mykolaichuk",
+  "dateOfBirth": "1941-06-15",
+  "birthDateParsed": "1941-06-15",
+  "dateOfDeath": "1987-08-03",
+  "deathDateParsed": "1987-08-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.371388888",
+  "birthCoordinatesLng": "25.565555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "screenwriter",
+    "film actor",
+    "film producer",
+    "film screenwriter",
+    "director"
+  ],
+  "qid": "Q2454822",
+  "birthPlace": "Chortoryia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:02.989Z"
+}

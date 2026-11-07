@@ -1,0 +1,35 @@
+{
+  "publicId": "b4e3a703",
+  "wikipediaSlug": "Julio_Argentino_Roca",
+  "wikipediaId": "Q356659",
+  "name": "Julio Argentino Roca",
+  "fullName": "Julio Argentino Roca",
+  "profileSummary": "Alejo Julio Argentino Roca Paz was an Argentine army general and statesman who served as President of Argentina from 1880 to 1886 and from 1898 to 1904. Roca is the most important representative of the Generation of '80 and is known for directing the Conquest of the Desert, a series of military campaigns against the indigenous peoples of Patagonia sometimes considered a genocide.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Julio_roca_portrait.jpg/330px-Julio_roca_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_Argentino_Roca",
+  "dateOfBirth": "1843-07-17",
+  "birthDateParsed": "1843-07-17",
+  "dateOfDeath": "1914-10-19",
+  "deathDateParsed": "1914-10-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "-27.4",
+  "birthCoordinatesLng": "-65.51666667",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "diplomat",
+    "politician"
+  ],
+  "qid": "Q356659",
+  "birthPlace": "Ingenio La Trinidad",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:19.973Z"
+}

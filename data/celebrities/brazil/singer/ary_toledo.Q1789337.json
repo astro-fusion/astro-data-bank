@@ -1,0 +1,38 @@
+{
+  "publicId": "6ebe7bde",
+  "wikipediaSlug": "Ary_Toledo",
+  "wikipediaId": "Q1789337",
+  "name": "Ary Toledo",
+  "fullName": "Ary Toledo",
+  "profileSummary": "Ary Christoni de Toledo Piza was a Brazilian humorist, singer, lyricist, and actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ary_Toledo",
+  "dateOfBirth": "1937-08-22",
+  "birthDateParsed": "1937-08-22",
+  "dateOfDeath": "2024-10-12",
+  "deathDateParsed": "2024-10-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.14615",
+  "birthCoordinatesLng": "-51.17095",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "composer",
+    "guitarist",
+    "lyricist",
+    "songwriter"
+  ],
+  "qid": "Q1789337",
+  "birthPlace": "Martinópolis",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:14.030Z"
+}

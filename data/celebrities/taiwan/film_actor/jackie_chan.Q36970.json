@@ -1,0 +1,41 @@
+{
+  "publicId": "6c7bf39b",
+  "wikipediaSlug": "Jackie_Chan",
+  "wikipediaId": "Q36970",
+  "name": "Jackie Chan",
+  "fullName": "Jackie Chan",
+  "profileSummary": "Chan Kong-sang, also known as Fang Shilong and known professionally as Jackie Chan and Sing Lung, is a Hong Kong martial artist, actor and filmmaker, known for his slapstick, acrobatic fighting style, comic timing, and innovative stunts, which he typically performs himself. With a film career spanning more than sixty years, he is regarded as one of the most iconic and influential martial artists in the history of cinema. Films in which he has appeared have grossed over $6 billion worldwide.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jackie_Chan.jpg/330px-Jackie_Chan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackie_Chan",
+  "dateOfBirth": "1954-04-07",
+  "birthDateParsed": "1954-04-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.275469444",
+  "birthCoordinatesLng": "114.143827777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "film producer",
+    "screenwriter",
+    "stunt performer",
+    "film director",
+    "choreographer",
+    "judoka",
+    "taekwondo athlete",
+    "actor"
+  ],
+  "qid": "Q36970",
+  "birthPlace": "Victoria Peak",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:40.132Z"
+}

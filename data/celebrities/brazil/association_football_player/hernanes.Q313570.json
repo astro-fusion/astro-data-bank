@@ -1,0 +1,33 @@
+{
+  "publicId": "5c0e5cd9",
+  "wikipediaSlug": "Hernanes",
+  "wikipediaId": "Q313570",
+  "name": "Hernanes",
+  "fullName": "Hernanes",
+  "profileSummary": "Anderson Hernanes de Carvalho Viana Lima, known as Hernanes, is a Brazilian former professional footballer who played as a central or attacking midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Brazil_and_Croatia_match_at_the_FIFA_World_Cup_2014-06-12_%2831%29_%28Hernanes%29.jpg/330px-Brazil_and_Croatia_match_at_the_FIFA_World_Cup_2014-06-12_%2831%29_%28Hernanes%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hernanes",
+  "dateOfBirth": "1985-05-29",
+  "birthDateParsed": "1985-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-7.602777777",
+  "birthCoordinatesLng": "-35.230833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q313570",
+  "birthPlace": "Aliança",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:57:02.282Z"
+}

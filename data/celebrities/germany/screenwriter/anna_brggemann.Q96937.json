@@ -1,0 +1,34 @@
+{
+  "publicId": "638900b9",
+  "wikipediaSlug": "Anna_Brüggemann",
+  "wikipediaId": "Q96937",
+  "name": "Anna Brüggemann",
+  "fullName": "Anna Brüggemann",
+  "profileSummary": "Anna Brüggemann is a German actress and screenwriter. She has appeared in more than sixty films since 1997.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MJK_68855_Anna_Br%C3%BCggemann_%28Bayern-Empfang%2C_Berlinale_2020%29.jpg/330px-MJK_68855_Anna_Br%C3%BCggemann_%28Bayern-Empfang%2C_Berlinale_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Br%C3%BCggemann",
+  "dateOfBirth": "1981-03-01",
+  "birthDateParsed": "1981-03-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "film actor"
+  ],
+  "qid": "Q96937",
+  "birthPlace": "Munich",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:00.577Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "71291004",
+  "wikipediaSlug": "Konstantin_Stepankov",
+  "wikipediaId": "Q3183886",
+  "name": "Konstantin Stepankov",
+  "fullName": "Konstantin Stepankov",
+  "profileSummary": "Kostiantyn Petrovich Stepankov was a Soviet and Ukrainian actor. He appeared in more than fifty films between 1958 and 1999. He was a member of the jury at the 11th Moscow International Film Festival.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Konstantin_Petrovich_Stepankov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Konstantin_Stepankov",
+  "dateOfBirth": "1928-06-03",
+  "birthDateParsed": "1928-06-03",
+  "dateOfDeath": "2004-07-22",
+  "deathDateParsed": "2004-07-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.529444444",
+  "birthCoordinatesLng": "27.102777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q3183886",
+  "birthPlace": "Pecheski",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:05.925Z"
+}

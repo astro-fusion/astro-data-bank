@@ -1,0 +1,33 @@
+{
+  "publicId": "33e7a995",
+  "wikipediaSlug": "Aleksandr_Golovin_(footballer)",
+  "wikipediaId": "Q15065431",
+  "name": "Aleksandr Golovin (footballer)",
+  "fullName": "Aleksandr Golovin (footballer)",
+  "profileSummary": "Aleksandr Sergeyevich Golovin is a Russian professional footballer who alternates between an attacking midfielder and a left winger for Ligue 1 club Monaco and captains the Russia national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleksandr_Golovin.jpg/330px-Aleksandr_Golovin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Golovin_(footballer)",
+  "dateOfBirth": "1996-05-30",
+  "birthDateParsed": "1996-05-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.516666666",
+  "birthCoordinatesLng": "87.266666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q15065431",
+  "birthPlace": "Kaltan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:55.251Z"
+}

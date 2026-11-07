@@ -1,0 +1,33 @@
+{
+  "publicId": "2257896e",
+  "wikipediaSlug": "Eric_del_Castillo",
+  "wikipediaId": "Q3322405",
+  "name": "Eric del Castillo",
+  "fullName": "Eric del Castillo",
+  "profileSummary": "J. Eduardo Eric del Castillo-Negrete Galván is a Mexican actor of theater, film and television who has dabbled as a screenwriter, director and arguer film, beginning his career in the Golden Age of Mexican cinema.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_del_Castillo",
+  "dateOfBirth": "1930-07-22",
+  "birthDateParsed": "1930-07-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.528888888",
+  "birthCoordinatesLng": "-100.815",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q3322405",
+  "birthPlace": "Celaya",
+  "fetchedAt": "2026-08-16T13:16:44.389Z"
+}

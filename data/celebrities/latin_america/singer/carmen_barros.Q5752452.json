@@ -1,0 +1,38 @@
+{
+  "publicId": "134a7ea0",
+  "wikipediaSlug": "Carmen_Barros",
+  "wikipediaId": "Q5752452",
+  "name": "Carmen Barros",
+  "fullName": "Carmen Barros",
+  "profileSummary": "Carmen Aída Barros Alfonso was a Chilean actress and singer of jazz, popular music, and opera. In addition, she was a professor of acting perception, diction, and vocal projection, and a theater and opera director. She was known for being the first to portray the character Carmela in the Isidora Aguirre play La pérgola de las flores in 1960.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Carmen_Barros.jpg/330px-Carmen_Barros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmen_Barros",
+  "dateOfBirth": "1925-01-07",
+  "birthDateParsed": "1925-01-07",
+  "dateOfDeath": "2023-12-21",
+  "deathDateParsed": "2023-12-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.466666666",
+  "birthCoordinatesLng": "-70.6",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "composer",
+    "opera singer",
+    "drama teacher",
+    "theatre director"
+  ],
+  "qid": "Q5752452",
+  "birthPlace": "Ñuñoa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:46.649Z"
+}

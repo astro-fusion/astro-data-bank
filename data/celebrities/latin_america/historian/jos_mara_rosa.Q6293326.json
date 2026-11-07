@@ -1,0 +1,36 @@
+{
+  "publicId": "c07f97ed",
+  "wikipediaSlug": "José_María_Rosa",
+  "wikipediaId": "Q6293326",
+  "name": "José María Rosa",
+  "fullName": "José María Rosa",
+  "profileSummary": "José María Rosa, also known as Pepe Rosa, was an Argentine historian, one of the most notable of the Argentine nationalist revisionist historians.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pepe_Rosa.jpg/330px-Pepe_Rosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Rosa",
+  "dateOfBirth": "1906-08-20",
+  "birthDateParsed": "1906-08-20",
+  "dateOfDeath": "1991-07-02",
+  "deathDateParsed": "1991-07-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "historian",
+    "diplomat",
+    "screenwriter",
+    "jurist"
+  ],
+  "qid": "Q6293326",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:12.793Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "ac82c7ec",
+  "wikipediaSlug": "Armando_Manzanero",
+  "wikipediaId": "Q1453045",
+  "name": "Armando Manzanero",
+  "fullName": "Armando Manzanero",
+  "profileSummary": "Armando Manzanero Canché was a Mexican musician, singer, composer, and music producer, widely considered the premier Mexican romantic composer of the postwar era and one of the most successful composers of Latin America. He received a Grammy Lifetime Achievement Award in the United States in 2014. He was the president of the Mexican Society of Authors and Composers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bustos_de_Armando_Manzanero_%28cropped%29.jpg/330px-Bustos_de_Armando_Manzanero_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Manzanero",
+  "dateOfBirth": "1935-12-07",
+  "birthDateParsed": "1935-12-07",
+  "dateOfDeath": "2020-12-28",
+  "deathDateParsed": "2020-12-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "20.366666666",
+  "birthCoordinatesLng": "-89.566666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "singer",
+    "pianist",
+    "actor",
+    "record producer",
+    "singer-songwriter",
+    "musician",
+    "poet"
+  ],
+  "qid": "Q1453045",
+  "birthPlace": "Ticul Municipality",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:27.714Z"
+}

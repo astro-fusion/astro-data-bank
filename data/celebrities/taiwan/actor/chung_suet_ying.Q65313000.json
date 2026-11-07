@@ -1,0 +1,35 @@
+{
+  "publicId": "23ea32e1",
+  "wikipediaSlug": "Chung_Suet_Ying",
+  "wikipediaId": "Q65313000",
+  "name": "Chung Suet Ying",
+  "fullName": "Chung Suet Ying",
+  "profileSummary": "Chung Suet Ying is a Hong Kong actress, lyricist, and radio presenter. She is best known for her role as Tsz-ying in Time (2021), which earned her nominations for Best New Performer and Best Supporting Actress in the 40th Hong Kong Film Awards. She also starred in the drama film The Lyricist Wannabe (2023) and received nominations for Best Leading Actress and Best Actress in the 60th Golden Horse Awards and 42nd Hong Kong Film Awards respectively.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chung_Suet_Ying_-_Golden_Horse_Award_for_Best_Leading_Actress_2024.png/330px-Chung_Suet_Ying_-_Golden_Horse_Award_for_Best_Leading_Actress_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chung_Suet_Ying",
+  "dateOfBirth": "1994-12-17",
+  "birthDateParsed": "1994-12-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "lyricist",
+    "radio personality"
+  ],
+  "qid": "Q65313000",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:29.411Z"
+}

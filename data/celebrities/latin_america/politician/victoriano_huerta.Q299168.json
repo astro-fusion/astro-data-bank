@@ -1,0 +1,35 @@
+{
+  "publicId": "8326e2e4",
+  "wikipediaSlug": "Victoriano_Huerta",
+  "wikipediaId": "Q299168",
+  "name": "Victoriano Huerta",
+  "fullName": "Victoriano Huerta",
+  "profileSummary": "José Victoriano Huerta Márquez was a Mexican general, statesman, engineer, and dictator who served as the 39th President of Mexico from 1913 to 1914 and came to power by coup against the democratically elected government of Francisco I. Madero with the aid of other Mexican generals and the U.S. Ambassador to Mexico. Establishing a military dictatorship, his violent seizure of power set off a new wave of armed conflict in the Mexican Revolution.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Victoriano_Huerta_en_1912.jpg/330px-Victoriano_Huerta_en_1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Victoriano_Huerta",
+  "dateOfBirth": "1850-12-22",
+  "birthDateParsed": "1850-12-22",
+  "dateOfDeath": "1916-01-13",
+  "deathDateParsed": "1916-01-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "22.117222222",
+  "birthCoordinatesLng": "-103.264722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military personnel"
+  ],
+  "qid": "Q299168",
+  "birthPlace": "Colotlán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:26.888Z"
+}

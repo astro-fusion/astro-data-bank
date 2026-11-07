@@ -1,0 +1,34 @@
+{
+  "publicId": "71d7b62e",
+  "wikipediaSlug": "Lázaro_Cárdenas",
+  "wikipediaId": "Q296718",
+  "name": "Lázaro Cárdenas",
+  "fullName": "Lázaro Cárdenas",
+  "profileSummary": "Lázaro Cárdenas del Río was a Mexican revolutionary, army officer, and politician who served as the 51st president of Mexico from 1934 to 1940. Previously, he served as a general in the Constitutional Army during the Mexican Revolution and as Governor of Michoacán and President of the Institutional Revolutionary Party. He later served as the Secretary of National Defence. During his presidency, which is considered the end of the Maximato, he implemented massive land reform programs, led the nationalization of the country's oil industry, and implemented a welfare state.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/L%C3%A1zaro_C%C3%A1rdenas%2C_Retrato.png/330px-L%C3%A1zaro_C%C3%A1rdenas%2C_Retrato.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A1zaro_C%C3%A1rdenas",
+  "dateOfBirth": "1895-05-21",
+  "birthDateParsed": "1895-05-21",
+  "dateOfDeath": "1970-10-19",
+  "deathDateParsed": "1970-10-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.989722222",
+  "birthCoordinatesLng": "-102.718611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q296718",
+  "birthPlace": "Jiquilpan de Juárez",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:42.794Z"
+}

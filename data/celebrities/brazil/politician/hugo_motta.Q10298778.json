@@ -1,0 +1,33 @@
+{
+  "publicId": "ab5ea200",
+  "wikipediaSlug": "Hugo_Motta",
+  "wikipediaId": "Q10298778",
+  "name": "Hugo Motta",
+  "fullName": "Hugo Motta",
+  "profileSummary": "Hugo Motta Wanderley da Nóbrega is a Brazilian physician and politician, affiliated with the Republicans. He is a federal deputy for the state of Paraíba, and is the current President of the Chamber of Deputies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hugo_Motta_em_fevereiro_de_2015.jpg/330px-Hugo_Motta_em_fevereiro_de_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Motta",
+  "dateOfBirth": "1989-09-11",
+  "birthDateParsed": "1989-09-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-7.12",
+  "birthCoordinatesLng": "-34.88",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q10298778",
+  "birthPlace": "João Pessoa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:01.631Z"
+}

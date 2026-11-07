@@ -1,0 +1,37 @@
+{
+  "publicId": "9fe3c22d",
+  "wikipediaSlug": "Alix_Bauer",
+  "wikipediaId": "Q2837276",
+  "name": "Alix Bauer",
+  "fullName": "Alix Bauer",
+  "profileSummary": "Alix Bauer Tapuach is a Mexican singer of Ashkenazi Jewish origin. She was a member of the pop music band Timbiriche from its formation in 1982 until her departure in 1989. She released her only solo album, Por Vez Primera, in 1991, and she participated in the supergroup Giratour Pop & Rock in 2019. She also had a brief acting career with a role in the soap opera Prisionera de Amor in 1994.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mariana_Garza_Sasha_Sokol_Alix_Bauer.jpg/330px-Mariana_Garza_Sasha_Sokol_Alix_Bauer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alix_Bauer",
+  "dateOfBirth": "1971-12-16",
+  "birthDateParsed": "1971-12-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "actor",
+    "writer",
+    "composer"
+  ],
+  "qid": "Q2837276",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:38.112Z"
+}

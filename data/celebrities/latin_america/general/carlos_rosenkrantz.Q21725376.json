@@ -1,0 +1,31 @@
+{
+  "publicId": "c05960b6",
+  "wikipediaSlug": "Carlos_Rosenkrantz",
+  "wikipediaId": "Q21725376",
+  "name": "Carlos Rosenkrantz",
+  "fullName": "Carlos Rosenkrantz",
+  "profileSummary": "Carlos Fernando Rosenkrantz is an Argentine lawyer and a member of the Supreme Court of Argentina since 2016, nominated by Mauricio Macri. He served as president of the court from 2018 to 2021, and currently serves as vice president of the court.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rosenkrantz_juez.jpg/330px-Rosenkrantz_juez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Rosenkrantz",
+  "dateOfBirth": "1958-10-28",
+  "birthDateParsed": "1958-10-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q21725376",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:09.972Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "aaa4e36a",
+  "wikipediaSlug": "Xu_Fan",
+  "wikipediaId": "Q510789",
+  "name": "Xu Fan",
+  "fullName": "Xu Fan",
+  "profileSummary": "Xu Fan is a Chinese actress, known for her roles in films such as The Dream Factory (1997), Be There or Be Square (1998), Sigh (2000), Cell Phone (2003), Aftershock (2009), and Back to 1942 (2012).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Xu_Fan",
+  "dateOfBirth": "1967-08-16",
+  "birthDateParsed": "1967-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "30.595",
+  "birthCoordinatesLng": "114.2975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q510789",
+  "birthPlace": "Wuhan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:39.577Z"
+}

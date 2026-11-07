@@ -1,0 +1,34 @@
+{
+  "publicId": "4f63f2b3",
+  "wikipediaSlug": "Miguel_de_la_Madrid",
+  "wikipediaId": "Q296691",
+  "name": "Miguel de la Madrid",
+  "fullName": "Miguel de la Madrid",
+  "profileSummary": "Miguel de la Madrid Hurtado was a Mexican politician and lawyer affiliated with the Institutional Revolutionary Party (PRI) who served as the 59th president of Mexico from 1982 to 1988.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Miguel_de_la_Madrid.jpg/330px-Miguel_de_la_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_de_la_Madrid",
+  "dateOfBirth": "1934-12-12",
+  "birthDateParsed": "1934-12-12",
+  "dateOfDeath": "2012-04-01",
+  "deathDateParsed": "2012-04-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.1",
+  "birthCoordinatesLng": "-103.9",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q296691",
+  "birthPlace": "Colima",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:41.367Z"
+}

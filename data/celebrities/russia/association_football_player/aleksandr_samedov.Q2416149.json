@@ -1,0 +1,33 @@
+{
+  "publicId": "4be5d7e1",
+  "wikipediaSlug": "Aleksandr_Samedov",
+  "wikipediaId": "Q2416149",
+  "name": "Aleksandr Samedov",
+  "fullName": "Aleksandr Samedov",
+  "profileSummary": "Aleksandr Sergeyevich Samedov is a Russian professional football official and a former player who played as a right winger. He has played for the Russia national football team since 2011 and was selected for the 2014 and 2018 FIFA World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Aleksandr_Samedov_2018_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Samedov",
+  "dateOfBirth": "1984-07-19",
+  "birthDateParsed": "1984-07-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2416149",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:42.150Z"
+}

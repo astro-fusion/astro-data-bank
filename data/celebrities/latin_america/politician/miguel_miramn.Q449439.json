@@ -1,0 +1,34 @@
+{
+  "publicId": "6f21f926",
+  "wikipediaSlug": "Miguel_Miramón",
+  "wikipediaId": "Q449439",
+  "name": "Miguel Miramón",
+  "fullName": "Miguel Miramón",
+  "profileSummary": "Miguel Gregorio de la Luz Atenógenes Miramón y Tarelo, known as Miguel Miramón, was a Mexican conservative general who disputed the Mexican presidency with Benito Juárez at the age of 27 during the Reform War, serving between February 1859 and December 1860. He was the first Mexican president to be born after the Mexican War of Independence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%28Padova%29_Ritratto_del_generale_don_Miguel_de_Miramon%2C_1867_-_T.Sanchez_-_Museo_Bottacin%2C_in_Palazzo_Zuckermann.jpg/330px-%28Padova%29_Ritratto_del_generale_don_Miguel_de_Miramon%2C_1867_-_T.Sanchez_-_Museo_Bottacin%2C_in_Palazzo_Zuckermann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Miram%C3%B3n",
+  "dateOfBirth": "1832-09-29",
+  "birthDateParsed": "1832-09-29",
+  "dateOfDeath": "1867-06-19",
+  "deathDateParsed": "1867-06-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q449439",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:51.166Z"
+}

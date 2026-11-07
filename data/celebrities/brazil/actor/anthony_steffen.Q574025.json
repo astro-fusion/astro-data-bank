@@ -1,0 +1,37 @@
+{
+  "publicId": "79cf5b91",
+  "wikipediaSlug": "Anthony_Steffen",
+  "wikipediaId": "Q574025",
+  "name": "Anthony Steffen",
+  "fullName": "Anthony Steffen",
+  "profileSummary": "Anthony Steffen, born Antônio Luiz de Teffé von Hoonholtz, was an Italian-Brazilian actor, screenwriter and film producer. Steffen achieved fame as a leading man in Spaghetti Western features. He was also known as Antonio Luigi de Teffe.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pistolerosegnato_2.jpg/330px-Pistolerosegnato_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Steffen",
+  "dateOfBirth": "1929-07-21",
+  "birthDateParsed": "1929-07-21",
+  "dateOfDeath": "2004-06-04",
+  "deathDateParsed": "2004-06-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "41.893055555",
+  "birthCoordinatesLng": "12.482777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "film actor",
+    "television actor",
+    "film producer"
+  ],
+  "qid": "Q574025",
+  "birthPlace": "Rome",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:54.857Z"
+}

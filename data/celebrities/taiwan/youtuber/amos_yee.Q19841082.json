@@ -1,0 +1,38 @@
+{
+  "publicId": "a0bc98c9",
+  "wikipediaSlug": "Amos_Yee",
+  "wikipediaId": "Q19841082",
+  "name": "Amos Yee",
+  "fullName": "Amos Yee",
+  "profileSummary": "Amos Yee Pang Sang is a Singaporean convicted child sex offender, media personality, and former child actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Amos_Yee_ICE_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amos_Yee",
+  "dateOfBirth": "1998-10-31",
+  "birthDateParsed": "1998-10-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "YouTuber",
+    "blogger",
+    "activist",
+    "content creator",
+    "sex offender",
+    "child actor"
+  ],
+  "qid": "Q19841082",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:01.674Z"
+}

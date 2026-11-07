@@ -1,0 +1,37 @@
+{
+  "publicId": "778c2615",
+  "wikipediaSlug": "Aleksei_Yeliseyev",
+  "wikipediaId": "Q381541",
+  "name": "Aleksei Yeliseyev",
+  "fullName": "Aleksei Yeliseyev",
+  "profileSummary": "Aleksei Stanislavovich Yeliseyev is a retired Soviet cosmonaut who flew on three missions in the Soyuz programme as a flight engineer: Soyuz 5, Soyuz 8, and Soyuz 10. He made the world's eighth spacewalk during Soyuz 5 in 1969.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Soviet_Union_1969_CPA_3811_stamp_%28Vladimir_Shatalov_and_Aleksei_Yeliseyev_%28Soyuz_8%29%29.png/330px-The_Soviet_Union_1969_CPA_3811_stamp_%28Vladimir_Shatalov_and_Aleksei_Yeliseyev_%28Soyuz_8%29%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksei_Yeliseyev",
+  "dateOfBirth": "1934-07-13",
+  "birthDateParsed": "1934-07-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.750277777",
+  "birthCoordinatesLng": "34.736111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "astronaut",
+    "politician",
+    "writer",
+    "flight engineer"
+  ],
+  "qid": "Q381541",
+  "birthPlace": "Zhizdra",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:08.479Z"
+}

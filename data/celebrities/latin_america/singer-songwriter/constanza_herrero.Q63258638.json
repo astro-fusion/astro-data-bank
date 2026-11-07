@@ -1,0 +1,33 @@
+{
+  "publicId": "8e6a3651",
+  "wikipediaSlug": "Constanza_Herrero",
+  "wikipediaId": "Q63258638",
+  "name": "Constanza Herrero",
+  "fullName": "Constanza Herrero",
+  "profileSummary": "Constanza Belén Herrero Parada, is an Australian-Chilean singer, songwriter, and actress. Constanza first gained recognition as a teenager after becoming a member of the MTV award winner band Six Pack performing at Viña del Mar International Song Festival under the artist name “Kota” and starring in the TV Series Karkú, which was broadcast by Nickelodeon. She won the John Lennon Songwriting Contest 2018 Grand Prize and Lennon Award with her original song “Me Voy”. In 2007 she released independently her first original songs in an EP called “Actúa Hoy” under the artist name “Kota”.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Constanza_Herrero_03_24_2019_-14_%2833635120328%29.jpg/330px-Constanza_Herrero_03_24_2019_-14_%2833635120328%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Constanza_Herrero",
+  "dateOfBirth": "1991-07-10",
+  "birthDateParsed": "1991-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter"
+  ],
+  "qid": "Q63258638",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:22.857Z"
+}

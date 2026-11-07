@@ -1,0 +1,33 @@
+{
+  "publicId": "998c725c",
+  "wikipediaSlug": "Elsa_del_Campillo",
+  "wikipediaId": "Q5830035",
+  "name": "Elsa del Campillo",
+  "fullName": "Elsa del Campillo",
+  "profileSummary": "Elsa Masriera Campillo, better known as Elsa del Campillo, was a Chilean actress who made her acting career in Argentina.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Elsadelcampillo.jpg/330px-Elsadelcampillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elsa_del_Campillo",
+  "dateOfBirth": "1912-08-16",
+  "birthDateParsed": "1912-08-16",
+  "dateOfDeath": "2009-12-28",
+  "deathDateParsed": "2009-12-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.06",
+  "birthCoordinatesLng": "-77.0375",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5830035",
+  "birthPlace": "Lima",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:57.341Z"
+}

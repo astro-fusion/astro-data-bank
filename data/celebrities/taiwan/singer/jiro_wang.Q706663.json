@@ -1,0 +1,36 @@
+{
+  "publicId": "d357eac3",
+  "wikipediaSlug": "Jiro_Wang",
+  "wikipediaId": "Q706663",
+  "name": "Jiro Wang",
+  "fullName": "Jiro Wang",
+  "profileSummary": "Jiro Wang is a Taiwanese singer and actor, who started his career as a model. Wang is a member of Taiwanese Mandopop vocal quartet boy band Fahrenheit.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/JIROWANG.jpg/330px-JIROWANG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiro_Wang",
+  "dateOfBirth": "1981-08-24",
+  "birthDateParsed": "1981-08-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "model"
+  ],
+  "qid": "Q706663",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:07.753Z"
+}

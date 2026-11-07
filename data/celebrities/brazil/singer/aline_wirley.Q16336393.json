@@ -1,0 +1,37 @@
+{
+  "publicId": "6fcd4fdf",
+  "wikipediaSlug": "Aline_Wirley",
+  "wikipediaId": "Q16336393",
+  "name": "Aline Wirley",
+  "fullName": "Aline Wirley",
+  "profileSummary": "Aline Wirley da Silva is a Brazilian actress and singer-songwriter. In 2002, she won the talent show Popstars and joined the Brazilian girl group Rouge until 2005, with which she released four studio albums, Rouge (2002), C'est La Vie (2003), Blá Blá Blá (2004) and Mil e Uma Noites (2005), selling in all 6 million copies and becoming best-seller Brazilian girl group.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aline_Wirley_-_BBB_23.png/330px-Aline_Wirley_-_BBB_23.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aline_Wirley",
+  "dateOfBirth": "1981-12-18",
+  "birthDateParsed": "1981-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.665",
+  "birthCoordinatesLng": "-45.009444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "stage actor",
+    "television actor",
+    "songwriter"
+  ],
+  "qid": "Q16336393",
+  "birthPlace": "Cachoeira Paulista",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:44.324Z"
+}

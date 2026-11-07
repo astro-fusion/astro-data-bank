@@ -1,0 +1,35 @@
+{
+  "publicId": "7c131c16",
+  "wikipediaSlug": "Chen_Hanwei",
+  "wikipediaId": "Q5090772",
+  "name": "Chen Hanwei",
+  "fullName": "Chen Hanwei",
+  "profileSummary": "Chen Hanwei is a Malaysian actor, host and former fashion coordinator based in Singapore.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chen_Hanwei_Star_Awards_2011_%28cropped%29.jpg/330px-Chen_Hanwei_Star_Awards_2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Hanwei",
+  "dateOfBirth": "1969-08-29",
+  "birthDateParsed": "1969-08-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.455555555",
+  "birthCoordinatesLng": "103.761111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q5090772",
+  "birthPlace": "Johor Bahru",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:10:47.863Z"
+}

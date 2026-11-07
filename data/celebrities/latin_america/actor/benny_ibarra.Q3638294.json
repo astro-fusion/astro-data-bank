@@ -1,0 +1,37 @@
+{
+  "publicId": "08e79e5b",
+  "wikipediaSlug": "Benny_Ibarra",
+  "wikipediaId": "Q3638294",
+  "name": "Benny Ibarra",
+  "fullName": "Benny Ibarra",
+  "profileSummary": "Benny Ibarra de Llano is a Mexican singer, musician, producer and actor. He was born into a family of artists. His mother, Julissa, was a singer and actress in the 1960s; and his father, Benny, an actor and 1960s rock singer in the Mexican band Los Yaki. His brother, Alejandro Ibarra, is a singer and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Benny_Ibarra_en_2025.png/330px-Benny_Ibarra_en_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benny_Ibarra",
+  "dateOfBirth": "1970-09-08",
+  "birthDateParsed": "1970-09-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "stage actor",
+    "recording artist"
+  ],
+  "qid": "Q3638294",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:16.136Z"
+}

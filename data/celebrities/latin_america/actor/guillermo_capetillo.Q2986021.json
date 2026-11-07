@@ -1,0 +1,35 @@
+{
+  "publicId": "41d6723c",
+  "wikipediaSlug": "Guillermo_Capetillo",
+  "wikipediaId": "Q2986021",
+  "name": "Guillermo Capetillo",
+  "fullName": "Guillermo Capetillo",
+  "profileSummary": "Guillermo Eduardo Capetillo de Flores is a Mexican actor, singer and matador.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guillermo_Capetillo",
+  "dateOfBirth": "1958-04-30",
+  "birthDateParsed": "1958-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "bullfighter",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q2986021",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:15:58.692Z"
+}

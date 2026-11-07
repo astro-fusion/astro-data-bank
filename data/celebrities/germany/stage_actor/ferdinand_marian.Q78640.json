@@ -1,0 +1,36 @@
+{
+  "publicId": "8529dab5",
+  "wikipediaSlug": "Ferdinand_Marian",
+  "wikipediaId": "Q78640",
+  "name": "Ferdinand Marian",
+  "fullName": "Ferdinand Marian",
+  "profileSummary": "Ferdinand Heinrich Johann Haschkowetz, known by the stage name Ferdinand Marian, was an Austrian actor. Though a prolific stage actor in Berlin and a popular matinée idol throughout the 1930s and early '40s, he is most remembered for playing the lead role of Joseph Süß Oppenheimer in the notorious Nazi propaganda film Jud Süß (1940).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdinand_Marian",
+  "dateOfBirth": "1902-08-14",
+  "birthDateParsed": "1902-08-14",
+  "dateOfDeath": "1946-08-07",
+  "deathDateParsed": "1946-08-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "author",
+    "actor"
+  ],
+  "qid": "Q78640",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:10.352Z"
+}

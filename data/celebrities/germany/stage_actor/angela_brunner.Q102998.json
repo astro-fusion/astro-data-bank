@@ -1,0 +1,36 @@
+{
+  "publicId": "d67f3434",
+  "wikipediaSlug": "Angela_Brunner",
+  "wikipediaId": "Q102998",
+  "name": "Angela Brunner",
+  "fullName": "Angela Brunner",
+  "profileSummary": "Angela Brunner was a German actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angela_Brunner",
+  "dateOfBirth": "1931-01-12",
+  "birthDateParsed": "1931-01-12",
+  "dateOfDeath": "2011-06-17",
+  "deathDateParsed": "2011-06-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "illustrator"
+  ],
+  "qid": "Q102998",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:53.741Z"
+}

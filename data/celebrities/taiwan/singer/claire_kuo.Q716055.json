@@ -1,0 +1,35 @@
+{
+  "publicId": "260cd739",
+  "wikipediaSlug": "Claire_Kuo",
+  "wikipediaId": "Q716055",
+  "name": "Claire Kuo",
+  "fullName": "Claire Kuo",
+  "profileSummary": "Claire Kuo is a Taiwanese singer and television host.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%E9%83%AD%E9%9D%9C.jpg/330px-%E9%83%AD%E9%9D%9C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claire_Kuo",
+  "dateOfBirth": "1980-08-05",
+  "birthDateParsed": "1980-08-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "recording artist",
+    "actor"
+  ],
+  "qid": "Q716055",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:51.692Z"
+}

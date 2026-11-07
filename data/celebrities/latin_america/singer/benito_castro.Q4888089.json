@@ -1,0 +1,34 @@
+{
+  "publicId": "b0774039",
+  "wikipediaSlug": "Benito_Castro",
+  "wikipediaId": "Q4888089",
+  "name": "Benito Castro",
+  "fullName": "Benito Castro",
+  "profileSummary": "Arturo \"Benito\" Castro Hernández was a Mexican musician, actor, and comedian. He was a member of Los Hermanos Castro, a male singing quartet.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/La_Guereja_y_Benito_Castro.jpg/330px-La_Guereja_y_Benito_Castro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benito_Castro",
+  "dateOfBirth": "1946-06-05",
+  "birthDateParsed": "1946-06-05",
+  "dateOfDeath": "2023-09-11",
+  "deathDateParsed": "2023-09-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor"
+  ],
+  "qid": "Q4888089",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:39.476Z"
+}

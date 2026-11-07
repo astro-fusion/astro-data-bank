@@ -1,0 +1,33 @@
+{
+  "publicId": "9dac9da7",
+  "wikipediaSlug": "Bruno_Guimarães",
+  "wikipediaId": "Q58323172",
+  "name": "Bruno Guimarães",
+  "fullName": "Bruno Guimarães",
+  "profileSummary": "Bruno Guimarães Rodriguez Moura is a Brazilian professional footballer who plays as a central midfielder for Premier League club Arsenal and the Brazil national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_%28cropped%29.jpg/330px-Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Guimar%C3%A3es",
+  "dateOfBirth": "1997-11-16",
+  "birthDateParsed": "1997-11-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q58323172",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:36.897Z"
+}

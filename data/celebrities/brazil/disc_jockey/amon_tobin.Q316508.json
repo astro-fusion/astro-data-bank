@@ -1,0 +1,36 @@
+{
+  "publicId": "3b1e3245",
+  "wikipediaSlug": "Amon_Tobin",
+  "wikipediaId": "Q316508",
+  "name": "Amon Tobin",
+  "fullName": "Amon Tobin",
+  "profileSummary": "Amon Adonai Santos de Araújo Tobin is a Brazilian electronic musician, composer and producer. He is noted for his unusual methodology in sound design and music production. He has released eight major studio albums under the London-based Ninja Tune record label. He has also released two albums under the alias Two Fingers with collaborator Doubleclick. His latest release, Nomark Selects V.2, was released on June 20, 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Amon_tobin_luxemburg.jpg/330px-Amon_tobin_luxemburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amon_Tobin",
+  "dateOfBirth": "1972-02-07",
+  "birthDateParsed": "1972-02-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "disc jockey",
+    "composer",
+    "record producer",
+    "musician"
+  ],
+  "qid": "Q316508",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:19.132Z"
+}

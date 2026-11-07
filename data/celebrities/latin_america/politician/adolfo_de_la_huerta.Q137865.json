@@ -1,0 +1,34 @@
+{
+  "publicId": "43d251ce",
+  "wikipediaSlug": "Adolfo_de_la_Huerta",
+  "wikipediaId": "Q137865",
+  "name": "Adolfo de la Huerta",
+  "fullName": "Adolfo de la Huerta",
+  "profileSummary": "Felipe Adolfo de la Huerta Marcor was a Mexican politician, the 45th President of Mexico from 1 June to 30 November 1920, following the assassination of President Venustiano Carranza, with Sonoran generals Álvaro Obregón and Plutarco Elías Calles under the Plan of Agua Prieta. He is considered \"an important figure among Constitutionalists during the Mexican Revolution.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Adolfo_de_la_Huerta_%28cropped%29.jpg/330px-Adolfo_de_la_Huerta_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolfo_de_la_Huerta",
+  "dateOfBirth": "1881-05-26",
+  "birthDateParsed": "1881-05-26",
+  "dateOfDeath": "1955-07-09",
+  "deathDateParsed": "1955-07-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "27.919166666",
+  "birthCoordinatesLng": "-110.8975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q137865",
+  "birthPlace": "Heroica Guaymas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:12:49.385Z"
+}

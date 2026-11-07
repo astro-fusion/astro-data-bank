@@ -1,0 +1,33 @@
+{
+  "publicId": "f7623883",
+  "wikipediaSlug": "Faustino_Asprilla",
+  "wikipediaId": "Q361409",
+  "name": "Faustino Asprilla",
+  "fullName": "Faustino Asprilla",
+  "profileSummary": "Faustino Hernán Asprilla Hinestroza is a Colombian former professional footballer who played as forward or winger, most notably for Parma, Newcastle United, and the Colombia national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tino_Asprilla_en_2019_02.jpg/330px-Tino_Asprilla_en_2019_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Faustino_Asprilla",
+  "dateOfBirth": "1969-11-10",
+  "birthDateParsed": "1969-11-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.084722222",
+  "birthCoordinatesLng": "-76.198611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q361409",
+  "birthPlace": "Tuluá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:13.923Z"
+}

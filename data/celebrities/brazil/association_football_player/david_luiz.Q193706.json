@@ -1,0 +1,33 @@
+{
+  "publicId": "1d79c176",
+  "wikipediaSlug": "David_Luiz",
+  "wikipediaId": "Q193706",
+  "name": "David Luiz",
+  "fullName": "David Luiz",
+  "profileSummary": "David Luiz Moreira Marinho is a Brazilian professional footballer who plays as a defender for Cypriot First Division club Pafos. He is primarily a centre-back, but has also been deployed as a defensive midfielder. Noted for his presence on the pitch as well as his specialty in taking free-kicks, David Luiz is considered amongst the best defenders of his generation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/David_Luiz_at_Baku_before_2019_UEFA_Europe_League_Final.jpg/330px-David_Luiz_at_Baku_before_2019_UEFA_Europe_League_Final.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Luiz",
+  "dateOfBirth": "1987-04-22",
+  "birthDateParsed": "1987-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.685833333",
+  "birthCoordinatesLng": "-46.622777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q193706",
+  "birthPlace": "Diadema",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:51.709Z"
+}

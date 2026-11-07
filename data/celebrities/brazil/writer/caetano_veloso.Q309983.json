@@ -1,0 +1,43 @@
+{
+  "publicId": "3b35282a",
+  "wikipediaSlug": "Caetano_Veloso",
+  "wikipediaId": "Q309983",
+  "name": "Caetano Veloso",
+  "fullName": "Caetano Veloso",
+  "profileSummary": "Caetano Emanuel Viana Teles Veloso is a Brazilian singer-songwriter, musician and political activist. Veloso first became known for his participation in the Brazilian musical movement Tropicália, which encompassed theatre, poetry and music in the 1960s, at the beginning of the Brazilian military dictatorship that took power in 1964. He has remained a constant creative influence and best-selling performing artist and composer ever since. Veloso has won nineteen Brazilian Music Awards, nine Latin Grammy Awards and two Grammy Awards. On 14 November 2012, Veloso was honored as the Latin Recording Academy Person of the Year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Caetano_Veloso_%28cropped%29.jpg/330px-Caetano_Veloso_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caetano_Veloso",
+  "dateOfBirth": "1942-08-07",
+  "birthDateParsed": "1942-08-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.546944444",
+  "birthCoordinatesLng": "-38.711944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "politician",
+    "singer",
+    "guitarist",
+    "jazz guitarist",
+    "singer-songwriter",
+    "record producer",
+    "film director",
+    "composer",
+    "musician",
+    "bandleader"
+  ],
+  "qid": "Q309983",
+  "birthPlace": "Santo Amaro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:58.786Z"
+}

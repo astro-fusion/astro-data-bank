@@ -1,0 +1,36 @@
+{
+  "publicId": "e612f277",
+  "wikipediaSlug": "Erik_Frey",
+  "wikipediaId": "Q90432",
+  "name": "Erik Frey",
+  "fullName": "Erik Frey",
+  "profileSummary": "Erik Frey was an Austrian film actor. He appeared in more than 110 films between 1936 and 1988. He was born and died in Vienna, Austria. He was married to the actress Jane Tilden and Susi Witt.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Frey",
+  "dateOfBirth": "1908-03-01",
+  "birthDateParsed": "1908-03-01",
+  "dateOfDeath": "1988-09-02",
+  "deathDateParsed": "1988-09-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "director"
+  ],
+  "qid": "Q90432",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:22.557Z"
+}

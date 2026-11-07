@@ -1,0 +1,37 @@
+{
+  "publicId": "82aee0ce",
+  "wikipediaSlug": "Peter_Yang",
+  "wikipediaId": "Q7177819",
+  "name": "Peter Yang",
+  "fullName": "Peter Yang",
+  "profileSummary": "Peter Yang Kwan, also known as Yang Qun, was a Hong Kong martial artist film actor, film producer and director, best known for his appearances in Hong Kong action cinema of the 1970s and 1980s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/%E6%A5%8A%E7%BE%A4_Peter_Yang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Yang",
+  "dateOfBirth": "1935-09-25",
+  "birthDateParsed": "1935-09-25",
+  "dateOfDeath": "2022-10-24",
+  "deathDateParsed": "2022-10-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "45.75",
+  "birthCoordinatesLng": "126.633333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "film producer",
+    "film director"
+  ],
+  "qid": "Q7177819",
+  "birthPlace": "Harbin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:04.107Z"
+}

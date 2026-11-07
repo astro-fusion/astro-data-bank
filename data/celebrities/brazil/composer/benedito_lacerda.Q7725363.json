@@ -1,0 +1,33 @@
+{
+  "publicId": "089dbb05",
+  "wikipediaSlug": "Benedito_Lacerda",
+  "wikipediaId": "Q7725363",
+  "name": "Benedito Lacerda",
+  "fullName": "Benedito Lacerda",
+  "profileSummary": "Benedicto Lacerda was a Brazilian composer, flutist, and maestro. A long-time player of música popular brasileira, he is most well known for his collaborations with famous saxophonist Pixinguinha.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Benedito_Lacerda%2C_1958.tif/lossy-page1-330px-Benedito_Lacerda%2C_1958.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benedito_Lacerda",
+  "dateOfBirth": "1903-03-14",
+  "birthDateParsed": "1903-03-14",
+  "dateOfDeath": "1958-02-16",
+  "deathDateParsed": "1958-02-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.370833333",
+  "birthCoordinatesLng": "-41.786944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer"
+  ],
+  "qid": "Q7725363",
+  "birthPlace": "Macaé",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:58.211Z"
+}

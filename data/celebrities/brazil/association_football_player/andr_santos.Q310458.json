@@ -1,0 +1,33 @@
+{
+  "publicId": "6bbe20da",
+  "wikipediaSlug": "André_Santos",
+  "wikipediaId": "Q310458",
+  "name": "André Santos",
+  "fullName": "André Santos",
+  "profileSummary": "André Clarindo dos Santos is a Brazilian former professional footballer who played as a left-back. He was also utilised as an attacking midfielder or left winger. On 15 June 2009, he made his first international appearance as a substitute in a match against Egypt. Santos participated and helped Brazil capture the 2009 FIFA Confederations Cup. He joined Arsenal from Fenerbahçe in August 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Andre_Santos_2.jpg/330px-Andre_Santos_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Santos",
+  "dateOfBirth": "1983-03-08",
+  "birthDateParsed": "1983-03-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q310458",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:15.890Z"
+}

@@ -1,0 +1,39 @@
+{
+  "publicId": "e439a792",
+  "wikipediaSlug": "Friedrich_Feher",
+  "wikipediaId": "Q87651",
+  "name": "Friedrich Feher",
+  "fullName": "Friedrich Feher",
+  "profileSummary": "Friedrich Feher was an Austrian actor and film director. He first entered the film business in 1913, starting out as an actor but quickly gravitating toward directing.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fritz_Feher%2C_silent_film_actor_%28SAYRE_9826%29_%28cropped%29.jpg/330px-Fritz_Feher%2C_silent_film_actor_%28SAYRE_9826%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_Feher",
+  "dateOfBirth": "1889-03-16",
+  "birthDateParsed": "1889-03-16",
+  "dateOfDeath": "1950-09-30",
+  "deathDateParsed": "1950-09-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "stage actor",
+    "film actor",
+    "screenwriter",
+    "theatre manager",
+    "actor",
+    "director"
+  ],
+  "qid": "Q87651",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:47.200Z"
+}

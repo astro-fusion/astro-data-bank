@@ -1,0 +1,35 @@
+{
+  "publicId": "8abd5a4b",
+  "wikipediaSlug": "David_Tao",
+  "wikipediaId": "Q710857",
+  "name": "David Tao",
+  "fullName": "David Tao",
+  "profileSummary": "David Tao is a Taiwanese singer-songwriter. His signature style incorporates R&B and rock. Tao's accolades include six Golden Melody Awards in Taiwan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%E9%99%B6%E5%96%86_%E5%86%8D%E4%BB%B6%E4%BD%A0%E5%A5%BD%E5%97%8E_%E6%96%B0%E6%AD%8C%E7%99%BC%E8%A1%A8%E6%9C%83.JPG/330px-%E9%99%B6%E5%96%86_%E5%86%8D%E4%BB%B6%E4%BD%A0%E5%A5%BD%E5%97%8E_%E6%96%B0%E6%AD%8C%E7%99%BC%E8%A1%A8%E6%9C%83.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Tao",
+  "dateOfBirth": "1969-07-11",
+  "birthDateParsed": "1969-07-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "songwriter"
+  ],
+  "qid": "Q710857",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:50.934Z"
+}

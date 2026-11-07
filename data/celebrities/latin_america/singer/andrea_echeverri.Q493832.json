@@ -1,0 +1,35 @@
+{
+  "publicId": "c211c43e",
+  "wikipediaSlug": "Andrea_Echeverri",
+  "wikipediaId": "Q493832",
+  "name": "Andrea Echeverri",
+  "fullName": "Andrea Echeverri",
+  "profileSummary": "Andrea Echeverri Arias is a Colombian rock/pop singer and guitarist. She holds a degree in Fine Arts from University of Los Andes and was a ceramist before becoming a musician. She is the lead singer in Aterciopelados where she also plays the acoustic guitar. In March 2005 her debut solo album Andrea Echeverri was released by Nacional Records, a label focused on promoting the best in Latin alternative music. According to NPR's Felix Contreras \"It's possible to chart the development of Latin Alternative music by following the career of Andrea Echeverri.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aterciopelados_-_Bumbershoot_2010_-_39.jpg/330px-Aterciopelados_-_Bumbershoot_2010_-_39.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Echeverri",
+  "dateOfBirth": "1965-09-13",
+  "birthDateParsed": "1965-09-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "painter",
+    "guitarist"
+  ],
+  "qid": "Q493832",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:35.580Z"
+}

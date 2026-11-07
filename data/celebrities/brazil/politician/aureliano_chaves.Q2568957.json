@@ -1,0 +1,34 @@
+{
+  "publicId": "50dd1ec5",
+  "wikipediaSlug": "Aureliano_Chaves",
+  "wikipediaId": "Q2568957",
+  "name": "Aureliano Chaves",
+  "fullName": "Aureliano Chaves",
+  "profileSummary": "Aureliano Chaves was a Brazilian politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aureliano_Chaves_%281982%29.jpg/330px-Aureliano_Chaves_%281982%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aureliano_Chaves",
+  "dateOfBirth": "1929-01-13",
+  "birthDateParsed": "1929-01-13",
+  "dateOfDeath": "2003-04-30",
+  "deathDateParsed": "2003-04-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.366944444",
+  "birthCoordinatesLng": "-45.512777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "engineer"
+  ],
+  "qid": "Q2568957",
+  "birthPlace": "Três Pontas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:00.809Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "daedbcc8",
+  "wikipediaSlug": "Dmitri_Tarasov_(footballer)",
+  "wikipediaId": "Q2652756",
+  "name": "Dmitri Tarasov (footballer)",
+  "fullName": "Dmitri Tarasov (footballer)",
+  "profileSummary": "Dmitri Alekseyevich Tarasov is a Russian former footballer who played as a central midfielder or defensive midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Loco_24.07.14_9.jpg/330px-Loco_24.07.14_9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dmitri_Tarasov_(footballer)",
+  "dateOfBirth": "1987-03-18",
+  "birthDateParsed": "1987-03-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2652756",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:06.696Z"
+}

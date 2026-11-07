@@ -1,0 +1,35 @@
+{
+  "publicId": "5305f86f",
+  "wikipediaSlug": "Black_Alien",
+  "wikipediaId": "Q4920263",
+  "name": "Black Alien",
+  "fullName": "Black Alien",
+  "profileSummary": "Gustavo de Almeida Ribeiro, better known by his stage name Black Alien, is a Brazilian rapper and composer. Since 1993, he has created music in several genres, collaborating with various artists, such as Os Paralamas do Sucesso, Forfun, Fernanda Abreu, Raimundos, Banda Black Rio, Pavilhão 9, Marcelinho da Lua, Dead Fish, Sabotage, among others.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mic_Master_Black_%286062524001%29.jpg/330px-Mic_Master_Black_%286062524001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_Alien",
+  "dateOfBirth": "1972-06-07",
+  "birthDateParsed": "1972-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.826944444",
+  "birthCoordinatesLng": "-43.053888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rapper",
+    "singer",
+    "composer"
+  ],
+  "qid": "Q4920263",
+  "birthPlace": "São Gonçalo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:56.317Z"
+}

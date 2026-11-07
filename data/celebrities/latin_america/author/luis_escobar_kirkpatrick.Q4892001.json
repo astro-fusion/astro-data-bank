@@ -1,0 +1,40 @@
+{
+  "publicId": "cb65dee6",
+  "wikipediaSlug": "Luis_Escobar_Kirkpatrick",
+  "wikipediaId": "Q4892001",
+  "name": "Luis Escobar Kirkpatrick",
+  "fullName": "Luis Escobar Kirkpatrick",
+  "profileSummary": "Luis Escobar y Kirkpatrick, 7th Marquess of Marismas del Guadalquivir, was a Spanish nobleman and actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Escobar_Kirkpatrick",
+  "dateOfBirth": "1908-12-05",
+  "birthDateParsed": "1908-12-05",
+  "dateOfDeath": "1991-02-16",
+  "deathDateParsed": "1991-02-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "author",
+    "writer",
+    "theatre director",
+    "stage actor",
+    "film actor",
+    "businessperson",
+    "Social chronicler",
+    "film director"
+  ],
+  "qid": "Q4892001",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:46.790Z"
+}

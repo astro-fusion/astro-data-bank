@@ -1,0 +1,38 @@
+{
+  "publicId": "0d974b99",
+  "wikipediaSlug": "Araba_Walton",
+  "wikipediaId": "Q108965",
+  "name": "Araba Walton",
+  "fullName": "Araba Walton",
+  "profileSummary": "Araba Walton is an Afro-German actress and singer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Araba_Walton",
+  "dateOfBirth": "1975-11-04",
+  "birthDateParsed": "1975-11-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.265555555",
+  "birthCoordinatesLng": "13.023055555",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "stage actor",
+    "film actor",
+    "musical theatre actor",
+    "musician"
+  ],
+  "qid": "Q108965",
+  "birthPlace": "Simbach am Inn",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:46.483Z"
+}

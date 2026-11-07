@@ -1,0 +1,33 @@
+{
+  "publicId": "05b70ff5",
+  "wikipediaSlug": "Kléber_(footballer,_born_1980)",
+  "wikipediaId": "Q552995",
+  "name": "Kléber (footballer, born 1980)",
+  "fullName": "Kléber (footballer, born 1980)",
+  "profileSummary": "Kléber Soriano de Carvalho Corrêa, commonly known as Kléber, is a Brazilian former professional footballer, who played as a left wing-back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleber2013.jpg/330px-Kleber2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kl%C3%A9ber_(footballer%2C_born_1980)",
+  "dateOfBirth": "1980-04-01",
+  "birthDateParsed": "1980-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q552995",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:39.219Z"
+}

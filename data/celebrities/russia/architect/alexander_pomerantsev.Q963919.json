@@ -1,0 +1,34 @@
+{
+  "publicId": "dc5abe45",
+  "wikipediaSlug": "Alexander_Pomerantsev",
+  "wikipediaId": "Q963919",
+  "name": "Alexander Pomerantsev",
+  "fullName": "Alexander Pomerantsev",
+  "profileSummary": "Alexander Nikanorovich Pomerantsev was a Russian architect and educator responsible for some of the most ambitious architectural projects realized in Imperial Russia and Bulgaria at the turn of the 20th century. An accomplished eclecticist, Pomerantsev practiced Art Nouveau, Byzantine, Russian Revival styles and collaborated with leading structural engineers of his period in creating new types of commercial buildings.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Alexander_Pomerantsev_1890s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Pomerantsev",
+  "dateOfBirth": "1849-12-30",
+  "birthDateParsed": "1849-12-30",
+  "dateOfDeath": "1918-10-27",
+  "deathDateParsed": "1918-10-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architect",
+    "university teacher"
+  ],
+  "qid": "Q963919",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:18.541Z"
+}

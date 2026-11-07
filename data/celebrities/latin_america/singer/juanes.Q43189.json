@@ -1,0 +1,37 @@
+{
+  "publicId": "687db743",
+  "wikipediaSlug": "Juanes",
+  "wikipediaId": "Q43189",
+  "name": "Juanes",
+  "fullName": "Juanes",
+  "profileSummary": "Juan Esteban Aristizábal Vásquez, known professionally as Juanes, is a Colombian musician and singer, a former member of the rock band Ekhymosis. Since releasing his solo debut album Fíjate Bien in 2000, Juanes has won 26 Latin Grammy Awards and sold more than 15 million records worldwide, making him one of the best-selling Latin music artists of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2023-11-16_Gala_de_los_Latin_Grammy%2C_14_%28cropped%29.jpg/330px-2023-11-16_Gala_de_los_Latin_Grammy%2C_14_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juanes",
+  "dateOfBirth": "1972-08-09",
+  "birthDateParsed": "1972-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.722777777",
+  "birthCoordinatesLng": "-75.2825",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "guitarist",
+    "music arranger",
+    "musician"
+  ],
+  "qid": "Q43189",
+  "birthPlace": "Carolina del Príncipe",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:32.235Z"
+}

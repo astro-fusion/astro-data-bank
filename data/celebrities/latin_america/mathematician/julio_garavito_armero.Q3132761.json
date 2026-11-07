@@ -1,0 +1,34 @@
+{
+  "publicId": "3d48287d",
+  "wikipediaSlug": "Julio_Garavito_Armero",
+  "wikipediaId": "Q3132761",
+  "name": "Julio Garavito Armero",
+  "fullName": "Julio Garavito Armero",
+  "profileSummary": "Julio Garavito Armero was a Colombian astronomer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Julio_Garavito_Armero.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_Garavito_Armero",
+  "dateOfBirth": "1865-01-05",
+  "birthDateParsed": "1865-01-05",
+  "dateOfDeath": "1920-03-11",
+  "deathDateParsed": "1920-03-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "astronomer"
+  ],
+  "qid": "Q3132761",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:27.887Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "3e3e1543",
+  "wikipediaSlug": "Vital_Soares",
+  "wikipediaId": "Q2593220",
+  "name": "Vital Soares",
+  "fullName": "Vital Soares",
+  "profileSummary": "Vital Henrique Batista Soares was a Brazilian lawyer and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vital_Soares_crop.png/330px-Vital_Soares_crop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vital_Soares",
+  "dateOfBirth": "1874-11-13",
+  "birthDateParsed": "1874-11-13",
+  "dateOfDeath": "1933-04-19",
+  "deathDateParsed": "1933-04-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "-13.37",
+  "birthCoordinatesLng": "-39.072777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "banker"
+  ],
+  "qid": "Q2593220",
+  "birthPlace": "Valença",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:40.279Z"
+}

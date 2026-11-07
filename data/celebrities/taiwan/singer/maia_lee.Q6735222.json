@@ -1,0 +1,34 @@
+{
+  "publicId": "fda0d431",
+  "wikipediaSlug": "Maia_Lee",
+  "wikipediaId": "Q6735222",
+  "name": "Maia Lee",
+  "fullName": "Maia Lee",
+  "profileSummary": "Maia Lee is a Singaporean singer and businesswoman.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maia_Lee",
+  "dateOfBirth": "1983-01-31",
+  "birthDateParsed": "1983-01-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter"
+  ],
+  "qid": "Q6735222",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:24.653Z"
+}

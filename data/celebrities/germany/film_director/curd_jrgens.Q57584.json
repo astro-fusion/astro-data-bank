@@ -1,0 +1,41 @@
+{
+  "publicId": "e93a6a6d",
+  "wikipediaSlug": "Curd_Jürgens",
+  "wikipediaId": "Q57584",
+  "name": "Curd Jürgens",
+  "fullName": "Curd Jürgens",
+  "profileSummary": "Curd Gustav Andreas Gottlieb Franz Jürgens was a German-Austrian stage and film actor. He was usually billed in English-speaking films as Curt Jurgens. He was best known for playing a Luftwaffe General based upon Ernst Udet in Des Teufels General. His English-language roles include James Bond villain Karl Stromberg in The Spy Who Loved Me (1977), Éric Carradine in And God Created Woman (1956), and Professor Immanuel Rath in The Blue Angel (1959), and a war-weary U-boat captain in The Enemy Below (1957).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schauspieler_Curd_J%C3%BCrgens_%28Kiel_68_409%29.jpg/330px-Schauspieler_Curd_J%C3%BCrgens_%28Kiel_68_409%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Curd_J%C3%BCrgens",
+  "dateOfBirth": "1915-12-13",
+  "birthDateParsed": "1915-12-13",
+  "dateOfDeath": "1982-06-18",
+  "deathDateParsed": "1982-06-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.078222222",
+  "birthCoordinatesLng": "11.514316666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "stage actor",
+    "film actor",
+    "actor",
+    "voice actor",
+    "television actor",
+    "singer",
+    "director",
+    "bass singer"
+  ],
+  "qid": "Q57584",
+  "birthPlace": "Solln",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:40.732Z"
+}

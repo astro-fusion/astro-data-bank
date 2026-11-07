@@ -1,0 +1,38 @@
+{
+  "publicId": "4da03679",
+  "wikipediaSlug": "Chavela_Vargas",
+  "wikipediaId": "Q236024",
+  "name": "Chavela Vargas",
+  "fullName": "Chavela Vargas",
+  "profileSummary": "María Isabel Anita Carmen de Jesús Vargas Lizano, known professionally as Chavela Vargas, was a Mexican singer, songwriter and actress. She gained widespread recognition for her distinctive interpretations of Mexican rancheras. However, her impact extends beyond this genre, encompassing various styles within popular Latin American music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chavela_Vargas_%282009%29.jpg/330px-Chavela_Vargas_%282009%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chavela_Vargas",
+  "dateOfBirth": "1919-04-17",
+  "birthDateParsed": "1919-04-17",
+  "dateOfDeath": "2012-08-05",
+  "deathDateParsed": "2012-08-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "10.0059992",
+  "birthCoordinatesLng": "-84.1538838",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "street artist",
+    "singer",
+    "musician",
+    "film actor",
+    "recording artist",
+    "actor"
+  ],
+  "qid": "Q236024",
+  "birthPlace": "San Joaquín",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:31.031Z"
+}

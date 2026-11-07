@@ -1,0 +1,33 @@
+{
+  "publicId": "3ec3b1ce",
+  "wikipediaSlug": "Anton_Bobyor",
+  "wikipediaId": "Q2633447",
+  "name": "Anton Bobyor",
+  "fullName": "Anton Bobyor",
+  "profileSummary": "Anton Anatolyevich Bobyor is a former Russian football midfielder who spent most of his career in PFC Krylia Sovetov Samara.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Anton_Bober_2012.jpg/330px-Anton_Bober_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Bobyor",
+  "dateOfBirth": "1982-09-28",
+  "birthDateParsed": "1982-09-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.714852",
+  "birthCoordinatesLng": "52.3696525",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2633447",
+  "birthPlace": "Naberezhnye Chelny",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:58.610Z"
+}

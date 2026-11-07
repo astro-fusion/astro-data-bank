@@ -1,0 +1,33 @@
+{
+  "publicId": "c8a76e18",
+  "wikipediaSlug": "Juan_Ferrara",
+  "wikipediaId": "Q3299666",
+  "name": "Juan Ferrara",
+  "fullName": "Juan Ferrara",
+  "profileSummary": "Juan Ferrara is a Mexican actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juan_Ferrara_en_1978_%28cropped%29.jpg/330px-Juan_Ferrara_en_1978_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Ferrara",
+  "dateOfBirth": "1943-11-08",
+  "birthDateParsed": "1943-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "20.676388888",
+  "birthCoordinatesLng": "-103.342222222",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q3299666",
+  "birthPlace": "Guadalajara",
+  "fetchedAt": "2026-08-16T13:16:08.338Z"
+}

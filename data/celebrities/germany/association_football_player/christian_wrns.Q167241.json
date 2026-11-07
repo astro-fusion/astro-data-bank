@@ -1,0 +1,34 @@
+{
+  "publicId": "8f727010",
+  "wikipediaSlug": "Christian_Wörns",
+  "wikipediaId": "Q167241",
+  "name": "Christian Wörns",
+  "fullName": "Christian Wörns",
+  "profileSummary": "Christian Wörns is a German former professional footballer who played as a defender. Wörns is widely considered one of the finest German defenders of his generation. He started his career with Waldhof Mannheim but played the majority of his career with Bayer Leverkusen and Borussia Dortmund. He also had a short stint with Paris Saint-Germain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Worns.jpg/330px-Worns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_W%C3%B6rns",
+  "dateOfBirth": "1972-05-10",
+  "birthDateParsed": "1972-05-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.487777777",
+  "birthCoordinatesLng": "8.466111111",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q167241",
+  "birthPlace": "Mannheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:07.075Z"
+}

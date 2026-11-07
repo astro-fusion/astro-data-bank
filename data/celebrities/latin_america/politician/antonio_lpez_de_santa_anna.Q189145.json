@@ -1,0 +1,35 @@
+{
+  "publicId": "a50bf14d",
+  "wikipediaSlug": "Antonio_López_de_Santa_Anna",
+  "wikipediaId": "Q189145",
+  "name": "Antonio López de Santa Anna",
+  "fullName": "Antonio López de Santa Anna",
+  "profileSummary": "Antonio de Padua María Severino López de Santa Anna y Pérez de Lebrón, often known as Santa Anna, was a Mexican general, politician, and caudillo who served as the eighth president of Mexico on multiple occasions between 1833 and 1855. A controversial and pivotal figure in Mexican politics during the 19th century, he has been called an \"uncrowned monarch\" by some historians who refer to the 30 years after Mexico's independence as the \"Age of Santa Anna.\" Santa Anna is often remembered in Mexico as a vendepatria due to the loss of Mexican territory to the United States during his rule.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Antonio_Lopez_de_Santa_Anna_c1853.png/330px-Antonio_Lopez_de_Santa_Anna_c1853.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna",
+  "dateOfBirth": "1794-02-21",
+  "birthDateParsed": "1794-02-21",
+  "dateOfDeath": "1876-06-21",
+  "deathDateParsed": "1876-06-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.53124",
+  "birthCoordinatesLng": "-96.91589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "military personnel"
+  ],
+  "qid": "Q189145",
+  "birthPlace": "Xalapa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:05.736Z"
+}

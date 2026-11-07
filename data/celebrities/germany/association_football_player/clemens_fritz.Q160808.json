@@ -1,0 +1,33 @@
+{
+  "publicId": "dd825e4a",
+  "wikipediaSlug": "Clemens_Fritz",
+  "wikipediaId": "Q160808",
+  "name": "Clemens Fritz",
+  "fullName": "Clemens Fritz",
+  "profileSummary": "Clemens Fritz is a German former professional footballer who played as a right-back and as a defensive midfielder. He is mostly known for his 11-year spell at Werder Bremen.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Clemens_Fritz_-_SV_Werder_Bremen_%282%29_%28cropped%29.jpg/330px-Clemens_Fritz_-_SV_Werder_Bremen_%282%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clemens_Fritz",
+  "dateOfBirth": "1980-12-07",
+  "birthDateParsed": "1980-12-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.978055555",
+  "birthCoordinatesLng": "11.028888888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q160808",
+  "birthPlace": "Erfurt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:03.896Z"
+}

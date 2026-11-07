@@ -1,0 +1,34 @@
+{
+  "publicId": "ff4951fe",
+  "wikipediaSlug": "Melo_Viana",
+  "wikipediaId": "Q3068276",
+  "name": "Melo Viana",
+  "fullName": "Melo Viana",
+  "profileSummary": "Fernando de Melo Viana was a Brazilian politician who was the vice president of Brazil from 15 November 1926 to 24 October 1930 serving under President Washington Luís. As vice president, he also served as the President of the Senate. Later, he served as President of the 1946 Constituent Assembly.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Melo_Viana%2C_Fundo_Correio_da_Manh%C3%A3_-_2.png/330px-Melo_Viana%2C_Fundo_Correio_da_Manh%C3%A3_-_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Melo_Viana",
+  "dateOfBirth": "1878-03-15",
+  "birthDateParsed": "1878-03-15",
+  "dateOfDeath": "1954-02-10",
+  "deathDateParsed": "1954-02-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "-19.885833333",
+  "birthCoordinatesLng": "-43.806944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q3068276",
+  "birthPlace": "Sabará",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:22.311Z"
+}

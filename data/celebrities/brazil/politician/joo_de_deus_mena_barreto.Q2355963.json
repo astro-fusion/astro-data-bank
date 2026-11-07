@@ -1,0 +1,34 @@
+{
+  "publicId": "7b24f696",
+  "wikipediaSlug": "João_de_Deus_Mena_Barreto",
+  "wikipediaId": "Q2355963",
+  "name": "João de Deus Mena Barreto",
+  "fullName": "João de Deus Mena Barreto",
+  "profileSummary": "João de Deus Mena Barreto was a Brazilian general and politician who briefly served as the president of Brazil while being a member of the provisional military junta of 1930. Born into a historically military family, Mena Barreto took up a military career in 1890. He fought in several internal conflicts, including the Federalist Revolution, a civil war, the 18 of the Copacabana Fort revolt, and a 1924 revolt in the North. With the Revolution of 1930 in Brazil, Mena Barreto and Augusto Tasso Fragoso orchestrated an uprising in the Federal District, overthrowing President Washington Luís and establishing the 1930 junta. After the junta transferred power to revolutionaries, Mena Barreto became the federal interventor for Rio de Janeiro and a mediator in the Constitutionalist Revolution of 1932.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jo%C3%A3o_de_Deus_Menna_Barreto%2C_General%2C_1931.tif/lossy-page1-330px-Jo%C3%A3o_de_Deus_Menna_Barreto%2C_General%2C_1931.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_de_Deus_Mena_Barreto",
+  "dateOfBirth": "1874-07-30",
+  "birthDateParsed": "1874-07-30",
+  "dateOfDeath": "1933-03-25",
+  "deathDateParsed": "1933-03-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "-30.032777777",
+  "birthCoordinatesLng": "-51.23",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2355963",
+  "birthPlace": "Porto Alegre",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:49.047Z"
+}

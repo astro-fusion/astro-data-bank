@@ -1,0 +1,35 @@
+{
+  "publicId": "8f782bf2",
+  "wikipediaSlug": "Lu_Yi-ching",
+  "wikipediaId": "Q3264585",
+  "name": "Lu Yi-ching",
+  "fullName": "Lu Yi-ching",
+  "profileSummary": "Lu Yi-ching is a Taiwanese actress. She has appeared in several films directed by Tsai Ming-liang, such as What Time Is It There? and The Wayward Cloud, and films by Cheng Wen-tang, including Blue Cha Cha. Lu lives in Taipei.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lu_Yi-ching",
+  "dateOfBirth": "1958-10-23",
+  "birthDateParsed": "1958-10-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q3264585",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:45.423Z"
+}

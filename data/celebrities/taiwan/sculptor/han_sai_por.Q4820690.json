@@ -1,0 +1,33 @@
+{
+  "publicId": "2b58f784",
+  "wikipediaSlug": "Han_Sai_Por",
+  "wikipediaId": "Q4820690",
+  "name": "Han Sai Por",
+  "fullName": "Han Sai Por",
+  "profileSummary": "Han Sai Por is a Singaporean sculptor and artist. A graduate of the Nanyang Academy of Fine Arts (NAFA), East Ham College of Art, Wolverhampton College of Art, and Lincoln University, New Zealand, she worked as a teacher and later as a part-time lecturer at NAFA, the LASALLE-SIA College of the Arts, and the National Institute of Education, Nanyang Technological University, before becoming a full-time artist in 1997.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/HanSaiPor-Seeds-NationalMuseumofSingapore-20090614-04.jpg/330px-HanSaiPor-Seeds-NationalMuseumofSingapore-20090614-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Han_Sai_Por",
+  "dateOfBirth": "1943-07-19",
+  "birthDateParsed": "1943-07-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sculptor"
+  ],
+  "qid": "Q4820690",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:59.316Z"
+}

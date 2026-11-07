@@ -1,0 +1,35 @@
+{
+  "publicId": "b328d8eb",
+  "wikipediaSlug": "Arkady_Gartsman",
+  "wikipediaId": "Q4133989",
+  "name": "Arkady Gartsman",
+  "fullName": "Arkady Gartsman",
+  "profileSummary": "Arkady Semyonovich Gartsman was a Ukrainian songwriter, screenwriter and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Arkady_Gartsman_nonfreee.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arkady_Gartsman",
+  "dateOfBirth": "1947-05-01",
+  "birthDateParsed": "1947-05-01",
+  "dateOfDeath": "2022-06-23",
+  "deathDateParsed": "2022-06-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "poet",
+    "screenwriter"
+  ],
+  "qid": "Q4133989",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:08.047Z"
+}

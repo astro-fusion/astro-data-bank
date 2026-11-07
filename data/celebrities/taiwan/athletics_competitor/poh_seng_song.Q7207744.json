@@ -1,0 +1,33 @@
+{
+  "publicId": "2e9f2951",
+  "wikipediaSlug": "Poh_Seng_Song",
+  "wikipediaId": "Q7207744",
+  "name": "Poh Seng Song",
+  "fullName": "Poh Seng Song",
+  "profileSummary": "Poh Seng Song is an athlete from Singapore who specialises in the 100 metres sprint and 4 x 100 metres relay.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Poh_Seng_Song_IVP.jpg/330px-Poh_Seng_Song_IVP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Poh_Seng_Song",
+  "dateOfBirth": "1984-04-24",
+  "birthDateParsed": "1984-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "athletics competitor"
+  ],
+  "qid": "Q7207744",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:00.006Z"
+}

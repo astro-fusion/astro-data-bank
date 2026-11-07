@@ -1,0 +1,34 @@
+{
+  "publicId": "467a87d0",
+  "wikipediaSlug": "Olena_Lavrenyuk",
+  "wikipediaId": "Q79055616",
+  "name": "Olena Lavrenyuk",
+  "fullName": "Olena Lavrenyuk",
+  "profileSummary": "Olena Lavrenyuk is a Ukrainian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olena_Lavreniuk_2022_film_premiere.jpg/330px-Olena_Lavreniuk_2022_film_premiere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olena_Lavrenyuk",
+  "dateOfBirth": "1985-12-18",
+  "birthDateParsed": "1985-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.8425",
+  "birthCoordinatesLng": "24.032222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q79055616",
+  "birthPlace": "Lviv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:56.302Z"
+}

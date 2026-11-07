@@ -1,0 +1,38 @@
+{
+  "publicId": "5c2ebf2d",
+  "wikipediaSlug": "Ricardo_Montalbán",
+  "wikipediaId": "Q333595",
+  "name": "Ricardo Montalbán",
+  "fullName": "Ricardo Montalbán",
+  "profileSummary": "Ricardo Gonzalo Pedro Montalbán y Merino was a Mexican and American film and television actor. Montalbán's career spanned seven decades, during which he became widely known for performances in genres from crime and drama to musicals and comedy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ricardo_Montalb%C3%A1n_en_Right_Cross_%281950%29.jpg/330px-Ricardo_Montalb%C3%A1n_en_Right_Cross_%281950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Montalb%C3%A1n",
+  "dateOfBirth": "1920-11-25",
+  "birthDateParsed": "1920-11-25",
+  "dateOfDeath": "2009-01-14",
+  "deathDateParsed": "2009-01-14",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.54389",
+  "birthCoordinatesLng": "-103.41898",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "character actor",
+    "stage actor",
+    "actor",
+    "voice actor",
+    "film director",
+    "art collector"
+  ],
+  "qid": "Q333595",
+  "birthPlace": "Torreón",
+  "fetchedAt": "2026-08-16T13:16:41.893Z"
+}

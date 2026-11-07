@@ -1,0 +1,33 @@
+{
+  "publicId": "daf60c2f",
+  "wikipediaSlug": "Raúl_Araiza",
+  "wikipediaId": "Q544358",
+  "name": "Raúl Araiza",
+  "fullName": "Raúl Araiza",
+  "profileSummary": "Raúl Araiza is a Mexican actor and television presenter.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Araiza",
+  "dateOfBirth": "1964-11-14",
+  "birthDateParsed": "1964-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q544358",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:45.018Z"
+}

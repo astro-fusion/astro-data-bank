@@ -1,0 +1,40 @@
+{
+  "publicId": "37c1af28",
+  "wikipediaSlug": "Franz_Höbling",
+  "wikipediaId": "Q1447359",
+  "name": "Franz Höbling",
+  "fullName": "Franz Höbling",
+  "profileSummary": "Franz Höbling was an Austrian actor and film director. He played the lead in the 1921 silent horror film Das grinsende Gesicht (1921). He co-starred several times with Magda Sonja.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Franz_H%C3%B6bling_%281886%E2%80%931965%29_1918.jpg/330px-Franz_H%C3%B6bling_%281886%E2%80%931965%29_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_H%C3%B6bling",
+  "dateOfBirth": "1886-09-09",
+  "birthDateParsed": "1886-09-09",
+  "dateOfDeath": "1965-02-14",
+  "deathDateParsed": "1965-02-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "opera singer",
+    "stage actor",
+    "film actor",
+    "singer",
+    "actor",
+    "director",
+    "musician"
+  ],
+  "qid": "Q1447359",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:00.739Z"
+}

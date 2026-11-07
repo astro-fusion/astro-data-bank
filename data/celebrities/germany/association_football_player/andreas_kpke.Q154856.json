@@ -1,0 +1,35 @@
+{
+  "publicId": "0d5f8fdb",
+  "wikipediaSlug": "Andreas_Köpke",
+  "wikipediaId": "Q154856",
+  "name": "Andreas Köpke",
+  "fullName": "Andreas Köpke",
+  "profileSummary": "Andreas \"Andy\" Köpke is a German former professional footballer who played as a goalkeeper. After being selected for the Germany national team squads that won the 1990 FIFA World Cup and reached the quarter-finals of the 1994 FIFA World Cup, he succeeded Bodo Illgner to become Germany's first-choice goalkeeper at UEFA Euro 1996 and the 1998 FIFA World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Andreas_K%C3%B6pke_850_0604.jpg/330px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Andreas_K%C3%B6pke_850_0604.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_K%C3%B6pke",
+  "dateOfBirth": "1962-03-12",
+  "birthDateParsed": "1962-03-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "54.323333333",
+  "birthCoordinatesLng": "10.139444444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q154856",
+  "birthPlace": "Kiel",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:44.086Z"
+}

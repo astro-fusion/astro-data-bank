@@ -1,0 +1,35 @@
+{
+  "publicId": "9eb233f9",
+  "wikipediaSlug": "Belchior_(singer)",
+  "wikipediaId": "Q4882073",
+  "name": "Belchior (singer)",
+  "fullName": "Belchior (singer)",
+  "profileSummary": "Belchior (Portuguese pronunciation: [bew.kiˈɔɾ], born Antônio Carlos Belchior, was a Brazilian singer, poet, songwriter, musician, record producer, biology teacher, illustrator and visual artist. He was one of the young artists born in Ceará who emerged in the early 1970s on the Brazilian cultural scene and one of the first MPB singers from the Brazilian northeast to reach mainstream success at the time. During an interview, when saying his full name, Antônio Carlos Gomes Belchior Fontenelle Fernandes, the singer jokingly added that he held the \"biggest name in MPB\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Belchior_%282004%29.jpg/330px-Belchior_%282004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Belchior_(singer)",
+  "dateOfBirth": "1946-10-26",
+  "birthDateParsed": "1946-10-26",
+  "dateOfDeath": "2017-04-30",
+  "deathDateParsed": "2017-04-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "-5.2",
+  "birthCoordinatesLng": "-39.3",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "guitarist"
+  ],
+  "qid": "Q4882073",
+  "birthPlace": "Ceará",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:49.128Z"
+}

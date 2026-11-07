@@ -1,0 +1,34 @@
+{
+  "publicId": "d004a3d8",
+  "wikipediaSlug": "Caitlin_Fang",
+  "wikipediaId": "Q110405283",
+  "name": "Caitlin Fang",
+  "fullName": "Caitlin Fang",
+  "profileSummary": "Caitlin Fang is a Taiwanese actress. She won the Golden Horse Award for Best New Performer and the Taipei Film Award for Best New Talent for her role in the film American Girl (2021). In 2022, at age 16, Fang became the youngest actor to receive nominations for all three acting awards from Golden Horse Award; namely, Best Leading Actress, Best New Performer and Best Supporting Actress − with the former two for American Girl and the latter for The Post-Truth World (2022). She was also named as a SSR-level newcomer actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caitlin_Fang_20220709.jpg/330px-Caitlin_Fang_20220709.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caitlin_Fang",
+  "dateOfBirth": "2006-05-17",
+  "birthDateParsed": "2006-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q110405283",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:30.063Z"
+}

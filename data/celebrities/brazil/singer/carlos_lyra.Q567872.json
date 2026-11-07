@@ -1,0 +1,40 @@
+{
+  "publicId": "101e9471",
+  "wikipediaSlug": "Carlos_Lyra",
+  "wikipediaId": "Q567872",
+  "name": "Carlos Lyra",
+  "fullName": "Carlos Lyra",
+  "profileSummary": "Carlos Eduardo Lyra Barbosa was a Brazilian singer, and composer of numerous bossa nova and Música popular brasileira classics. He has also worked as a writer, with notable contributions to musical films such as Para Viver um Grande Amor and Intimidade. He and Antônio Carlos Jobim were the first two music composers, together with lyricists Vinicius de Moraes and Ronaldo Boscoli, to be recorded by João Gilberto on his first LP entitled Chega de Saudade (1959), which is referred to as the first generation of Bossa Nova.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carlos_Lira%2C_sem_data.tif/lossy-page1-330px-Carlos_Lira%2C_sem_data.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Lyra",
+  "dateOfBirth": "1939-05-11",
+  "birthDateParsed": "1939-05-11",
+  "dateOfDeath": "2023-12-16",
+  "deathDateParsed": "2023-12-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "songwriter",
+    "jazz musician",
+    "guitarist",
+    "jazz guitarist",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q567872",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:08.503Z"
+}

@@ -1,0 +1,39 @@
+{
+  "publicId": "f2d7235b",
+  "wikipediaSlug": "Cazuza",
+  "wikipediaId": "Q731775",
+  "name": "Cazuza",
+  "fullName": "Cazuza",
+  "profileSummary": "Agenor de Miranda Araújo Neto, better known as Cazuza, was a Brazilian singer-songwriter, born in Rio de Janeiro. Along with Raul Seixas, Renato Russo and Os Mutantes, Cazuza, both while fronting Barão Vermelho and at solo career, is considered one of the best exponents of Brazilian rock music. In his 9-year career, he sold more than 5 million albums and achieved 11 number one singles and 18 Top 10 singles in Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cazuza_flickr_%28cropped%29.jpg/330px-Cazuza_flickr_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cazuza",
+  "dateOfBirth": "1958-04-04",
+  "birthDateParsed": "1958-04-04",
+  "dateOfDeath": "1990-07-09",
+  "deathDateParsed": "1990-07-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "composer",
+    "songwriter",
+    "poet",
+    "writer",
+    "musician"
+  ],
+  "qid": "Q731775",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:14.718Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "8b3e1d32",
+  "wikipediaSlug": "Marco_Antônio_(footballer,_born_1951)",
+  "wikipediaId": "Q2294414",
+  "name": "Marco Antônio (footballer, born 1951)",
+  "fullName": "Marco Antônio (footballer, born 1951)",
+  "profileSummary": "Marco Antônio Feliciano, known as just Marco Antônio, is a former Brazilian footballer. He played as a left-back for Fluminense and the Brazil national team. He won the 1970 FIFA World Cup at international level, while at club level, he is a five-time winner of Campeonato Carioca and received the “Brazilian Silver Ball” in 1975 and 1976.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Marco_Ant%C3%B4nio.jpg/330px-Marco_Ant%C3%B4nio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Ant%C3%B4nio_(footballer%2C_born_1951)",
+  "dateOfBirth": "1951-02-06",
+  "birthDateParsed": "1951-02-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.9335988",
+  "birthCoordinatesLng": "-46.3286399",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2294414",
+  "birthPlace": "Santos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:57:03.419Z"
+}

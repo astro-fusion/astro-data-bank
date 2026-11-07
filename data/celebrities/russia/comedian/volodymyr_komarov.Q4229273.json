@@ -1,0 +1,37 @@
+{
+  "publicId": "b80adbc9",
+  "wikipediaSlug": "Volodymyr_Komarov",
+  "wikipediaId": "Q4229273",
+  "name": "Volodymyr Komarov",
+  "fullName": "Volodymyr Komarov",
+  "profileSummary": "Volodymyr Valentynovych Komarov was a Ukrainian actor, comedian, and musician. He died on 29 March 2026, at the age of 62.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/70/Cropped_Photo_of_Volodymyr_Komarov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volodymyr_Komarov",
+  "dateOfBirth": "1964-02-29",
+  "birthDateParsed": "1964-02-29",
+  "dateOfDeath": "2026-03-29",
+  "deathDateParsed": "2026-03-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.46",
+  "birthCoordinatesLng": "32.27",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "clown",
+    "singer",
+    "accordionist",
+    "film actor"
+  ],
+  "qid": "Q4229273",
+  "birthPlace": "Kirovohrad Oblast",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:52.626Z"
+}

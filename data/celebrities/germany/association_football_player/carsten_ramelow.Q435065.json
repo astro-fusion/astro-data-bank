@@ -1,0 +1,33 @@
+{
+  "publicId": "74abbd86",
+  "wikipediaSlug": "Carsten_Ramelow",
+  "wikipediaId": "Q435065",
+  "name": "Carsten Ramelow",
+  "fullName": "Carsten Ramelow",
+  "profileSummary": "Carsten Ramelow is a German former professional footballer who played as either a central defender or a defensive midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Carsten_Ramelow_in_2014.jpg/330px-Carsten_Ramelow_in_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carsten_Ramelow",
+  "dateOfBirth": "1974-03-20",
+  "birthDateParsed": "1974-03-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.5",
+  "birthCoordinatesLng": "13.28",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q435065",
+  "birthPlace": "West Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:55.978Z"
+}

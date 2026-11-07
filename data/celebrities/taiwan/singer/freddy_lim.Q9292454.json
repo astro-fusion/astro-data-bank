@@ -1,0 +1,40 @@
+{
+  "publicId": "082e5e41",
+  "wikipediaSlug": "Freddy_Lim",
+  "wikipediaId": "Q9292454",
+  "name": "Freddy Lim",
+  "fullName": "Freddy Lim",
+  "profileSummary": "Lim Tshiong-tso, known also by his English name Freddy, is a Taiwanese politician and musician, currently serving as the Ambassador of Taiwan to Finland since 2025. He is the lead vocalist of the Taiwanese heavy-metal band Chthonic and the lead vocalist of the band Metal Clone X started by him and American guitarist Marty Friedman.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Amb_Freddy_Lim_portrait.jpg/330px-Amb_Freddy_Lim_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Freddy_Lim",
+  "dateOfBirth": "1976-02-01",
+  "birthDateParsed": "1976-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "songwriter",
+    "lyricist",
+    "politician",
+    "human rights defender",
+    "television actor",
+    "musician"
+  ],
+  "qid": "Q9292454",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:28.528Z"
+}

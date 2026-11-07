@@ -1,0 +1,37 @@
+{
+  "publicId": "3a6db00a",
+  "wikipediaSlug": "Valentina_Matviyenko",
+  "wikipediaId": "Q182654",
+  "name": "Valentina Matviyenko",
+  "fullName": "Valentina Matviyenko",
+  "profileSummary": "Valentina Ivanovna Matviyenko is a Russian politician and former diplomat serving as a Senator from Saint Petersburg and the Chairwoman of the Federation Council since 2011. Previously she was Governor of Saint Petersburg from 2003 to 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Valentina_Matviyenko_2025-04-02.jpg/330px-Valentina_Matviyenko_2025-04-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valentina_Matviyenko",
+  "dateOfBirth": "1949-04-07",
+  "birthDateParsed": "1949-04-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.183333333",
+  "birthCoordinatesLng": "27.066666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "expert pharmacist",
+    "diplomat",
+    "politician",
+    "statesperson",
+    "governor"
+  ],
+  "qid": "Q182654",
+  "birthPlace": "Shepetivka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:39.808Z"
+}

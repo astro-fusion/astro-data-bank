@@ -1,0 +1,34 @@
+{
+  "publicId": "8c84247b",
+  "wikipediaSlug": "Federico_Pinedo",
+  "wikipediaId": "Q5857789",
+  "name": "Federico Pinedo",
+  "fullName": "Federico Pinedo",
+  "profileSummary": "Federico Pinedo is an Argentine politician, served briefly as the acting President of Argentina in 2015, and provisional president of the Argentine Senate between 2015 and 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Federico_Pinedo_%28cropped%29.jpg/330px-Federico_Pinedo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Federico_Pinedo",
+  "dateOfBirth": "1955-12-29",
+  "birthDateParsed": "1955-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q5857789",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:46.938Z"
+}

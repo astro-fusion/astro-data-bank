@@ -1,0 +1,32 @@
+{
+  "publicId": "5bf1471d",
+  "wikipediaSlug": "Arturo_Peniche",
+  "wikipediaId": "Q778302",
+  "name": "Arturo Peniche",
+  "fullName": "Arturo Peniche",
+  "profileSummary": "Arturo Peniche is a Mexican telenovela actor who gained popularity in Latin America during the 1990s. He is the brother of actor Flavio Peniche, who appeared in the telenovela La Traición.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arturo_Peniche.jpg/330px-Arturo_Peniche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arturo_Peniche",
+  "dateOfBirth": "1962-05-17",
+  "birthDateParsed": "1962-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q778302",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:15:54.766Z"
+}

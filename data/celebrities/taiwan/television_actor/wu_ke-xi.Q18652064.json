@@ -1,0 +1,35 @@
+{
+  "publicId": "ee99a100",
+  "wikipediaSlug": "Wu_Ke-xi",
+  "wikipediaId": "Q18652064",
+  "name": "Wu Ke-xi",
+  "fullName": "Wu Ke-xi",
+  "profileSummary": "Wu Ke-Xi is a Taiwanese actress. She has had starring roles in most of Midi Z's films. In 2016, Wu was nominated for the Golden Horse Award for Best Leading Actress for her role in The Road to Mandalay.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wu_Ke-Xi_at_Berlinale_2024.jpg/330px-Wu_Ke-Xi_at_Berlinale_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wu_Ke-xi",
+  "dateOfBirth": "1983-02-06",
+  "birthDateParsed": "1983-02-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q18652064",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:59.333Z"
+}

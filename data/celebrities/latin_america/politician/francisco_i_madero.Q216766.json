@@ -1,0 +1,38 @@
+{
+  "publicId": "a58e1ceb",
+  "wikipediaSlug": "Francisco_I._Madero",
+  "wikipediaId": "Q216766",
+  "name": "Francisco I. Madero",
+  "fullName": "Francisco I. Madero",
+  "profileSummary": "Francisco Ignacio Madero González was a Mexican businessman, revolutionary, writer, politician, and statesman who served as the 37th president of Mexico from 1911 until he was deposed and assassinated in a coup d'état in February 1913. He came to prominence as an advocate for democracy and as an opponent of President and dictator Porfirio Díaz. After Díaz claimed to have won the fraudulent election of 1910 despite promising a return to democracy, Madero started the Mexican Revolution to oust Díaz. The Mexican revolution would continue until 1920, well after Madero and Díaz's deaths, with hundreds of thousands dead.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Francisco_I_Madero.jpg/330px-Francisco_I_Madero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_I._Madero",
+  "dateOfBirth": "1873-10-30",
+  "birthDateParsed": "1873-10-30",
+  "dateOfDeath": "1913-02-22",
+  "deathDateParsed": "1913-02-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.436944444",
+  "birthCoordinatesLng": "-102.183611111",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer",
+    "musician",
+    "military personnel",
+    "businessperson",
+    "revolutionary"
+  ],
+  "qid": "Q216766",
+  "birthPlace": "Parras de la Fuente",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:01.537Z"
+}

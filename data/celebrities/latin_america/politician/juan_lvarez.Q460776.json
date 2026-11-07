@@ -1,0 +1,34 @@
+{
+  "publicId": "1306fdb9",
+  "wikipediaSlug": "Juan_Álvarez",
+  "wikipediaId": "Q460776",
+  "name": "Juan Álvarez",
+  "fullName": "Juan Álvarez",
+  "profileSummary": "Juan Nepomuceno Álvarez Hurtado de Luna, generally known as Juan Álvarez, was a general, long-time caudillo in southern Mexico, and president of Mexico for two months in 1855, following the liberals' ouster of Antonio López de Santa Anna. His presidency inaugurated the pivotal era of La Reforma.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/General_Juan_%C3%81lvarez.jpg/330px-General_Juan_%C3%81lvarez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_%C3%81lvarez",
+  "dateOfBirth": "1790-01-27",
+  "birthDateParsed": "1790-01-27",
+  "dateOfDeath": "1867-08-21",
+  "deathDateParsed": "1867-08-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "17.206666666",
+  "birthCoordinatesLng": "-100.433055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q460776",
+  "birthPlace": "Atoyac de Álvarez",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:31.099Z"
+}

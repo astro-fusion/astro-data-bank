@@ -1,0 +1,36 @@
+{
+  "publicId": "9e59280b",
+  "wikipediaSlug": "Alejandro_Fernández",
+  "wikipediaId": "Q553528",
+  "name": "Alejandro Fernández",
+  "fullName": "Alejandro Fernández",
+  "profileSummary": "Alejandro Fernández Abarca is a Mexican singer. Born in Guadalajara, Jalisco, he is the son of the Mexican singer Vicente Fernández. Nicknamed as \"El Potrillo\" by the media and his fans, he has sold over 20 million records worldwide, making him one of the best-selling Latin music artists. He originally specialized in traditional, earthy forms of Mexican folk, such as mariachi and charro, until he successfully branched out into pop music. Over the course of his career, he has been awarded four Latin Grammy Awards and a star on the Hollywood Walk of Fame.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alejandro_Fern%C3%A1ndez_en_entrevista.png/330px-Alejandro_Fern%C3%A1ndez_en_entrevista.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Fern%C3%A1ndez",
+  "dateOfBirth": "1971-04-24",
+  "birthDateParsed": "1971-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "20.676388888",
+  "birthCoordinatesLng": "-103.342222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "television actor",
+    "recording artist"
+  ],
+  "qid": "Q553528",
+  "birthPlace": "Guadalajara",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:22.145Z"
+}

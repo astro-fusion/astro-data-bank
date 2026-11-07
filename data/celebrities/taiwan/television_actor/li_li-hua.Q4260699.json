@@ -1,0 +1,37 @@
+{
+  "publicId": "af8892c0",
+  "wikipediaSlug": "Li_Li-hua",
+  "wikipediaId": "Q4260699",
+  "name": "Li Li-hua",
+  "fullName": "Li Li-hua",
+  "profileSummary": "Li Li-hua was a Chinese actress, better known as an actress from the Shaw Brothers Studio. In 1957, Li married Hong Kong actor and director Yan Jun (嚴俊).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Li_Lihua%2C_by_Lang_Jingshan.jpg/330px-Li_Lihua%2C_by_Lang_Jingshan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Li-hua",
+  "dateOfBirth": "1924-07-17",
+  "birthDateParsed": "1924-07-17",
+  "dateOfDeath": "2017-03-19",
+  "deathDateParsed": "2017-03-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "actor",
+    "singer",
+    "manufacturer",
+    "film actor"
+  ],
+  "qid": "Q4260699",
+  "birthPlace": "Shanghai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:07.428Z"
+}

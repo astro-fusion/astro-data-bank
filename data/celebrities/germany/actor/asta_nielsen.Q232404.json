@@ -1,0 +1,38 @@
+{
+  "publicId": "a4bcac1e",
+  "wikipediaSlug": "Asta_Nielsen",
+  "wikipediaId": "Q232404",
+  "name": "Asta Nielsen",
+  "fullName": "Asta Nielsen",
+  "profileSummary": "Asta Sofie Amalie Nielsen was a Danish silent film actress who was one of the most popular leading ladies of the 1910s and one of the first international movie stars. Seventy of Nielsen's 74 films were made in Germany where she was known simply as Die Asta.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Asta_Nielsen.jpg/330px-Asta_Nielsen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Asta_Nielsen",
+  "dateOfBirth": "1881-09-11",
+  "birthDateParsed": "1881-09-11",
+  "dateOfDeath": "1972-05-25",
+  "deathDateParsed": "1972-05-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.6758",
+  "birthCoordinatesLng": "12.5442",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "autobiographer",
+    "stage actor",
+    "film actor",
+    "film director",
+    "film producer"
+  ],
+  "qid": "Q232404",
+  "birthPlace": "Gammel Kongevej",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:54.822Z"
+}

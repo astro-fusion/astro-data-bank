@@ -1,0 +1,35 @@
+{
+  "publicId": "5af49e17",
+  "wikipediaSlug": "Alexander_Golovanov",
+  "wikipediaId": "Q1969846",
+  "name": "Alexander Golovanov",
+  "fullName": "Alexander Golovanov",
+  "profileSummary": "Alexander Yevgeniyevich Golovanov was a Soviet pilot. On 3 August 1943, he became a Marshal of Aviation and on 19 August 1944 he was promoted to the rank of Chief marshal of the aviation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Golovanov",
+  "dateOfBirth": "1904-08-07",
+  "birthDateParsed": "1904-08-07",
+  "dateOfDeath": "1975-09-22",
+  "deathDateParsed": "1975-09-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "56.326944444",
+  "birthCoordinatesLng": "44.0075",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "politician",
+    "soldier"
+  ],
+  "qid": "Q1969846",
+  "birthPlace": "Nizhny Novgorod",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:21.796Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "4b254f57",
+  "wikipediaSlug": "Erich_Juskowiak",
+  "wikipediaId": "Q694909",
+  "name": "Erich Juskowiak",
+  "fullName": "Erich Juskowiak",
+  "profileSummary": "Erich Juskowiak was a German footballer who played as a left-back. He earned 31 caps and 4 goals for the West Germany national team between 1951 and 1959. He played in the World Cup Finals in 1958 where West Germany reached the semi-final.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Hamrin1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erich_Juskowiak",
+  "dateOfBirth": "1926-09-07",
+  "birthDateParsed": "1926-09-07",
+  "dateOfDeath": "1983-07-01",
+  "deathDateParsed": "1983-07-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.4699",
+  "birthCoordinatesLng": "6.8514",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q694909",
+  "birthPlace": "Oberhausen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:40.088Z"
+}

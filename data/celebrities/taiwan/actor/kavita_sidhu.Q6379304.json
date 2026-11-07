@@ -1,0 +1,34 @@
+{
+  "publicId": "0d5a7e74",
+  "wikipediaSlug": "Kavita_Sidhu",
+  "wikipediaId": "Q6379304",
+  "name": "Kavita Sidhu",
+  "fullName": "Kavita Sidhu",
+  "profileSummary": "Kavita Sidhu is a Malaysian actress and former beauty queen. She is of Indian Punjabi ancestry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kavita_Sidhu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kavita_Sidhu",
+  "dateOfBirth": "1971-11-29",
+  "birthDateParsed": "1971-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.6",
+  "birthCoordinatesLng": "101.07",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q6379304",
+  "birthPlace": "Ipoh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:02.820Z"
+}

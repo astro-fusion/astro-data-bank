@@ -1,0 +1,33 @@
+{
+  "publicId": "7b367900",
+  "wikipediaSlug": "Edmílson",
+  "wikipediaId": "Q296058",
+  "name": "Edmílson",
+  "fullName": "Edmílson",
+  "profileSummary": "José Edmílson Gomes de Moraes, known simply as Edmílson, is a Brazilian football executive and former professional footballer. He is currently a technical consultant for São Caetano.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Edm%C3%ADlson_-_002.jpg/330px-Edm%C3%ADlson_-_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edm%C3%ADlson",
+  "dateOfBirth": "1976-07-10",
+  "birthDateParsed": "1976-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.405833333",
+  "birthCoordinatesLng": "-48.505",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q296058",
+  "birthPlace": "Taquaritinga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:14.013Z"
+}

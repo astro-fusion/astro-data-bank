@@ -1,0 +1,35 @@
+{
+  "publicId": "6dff9d62",
+  "wikipediaSlug": "Alba_Flores",
+  "wikipediaId": "Q8193236",
+  "name": "Alba Flores",
+  "fullName": "Alba Flores",
+  "profileSummary": "Alba González Villa, known professionally as Alba Flores, is a Spanish actress. She is best known for her roles as Saray Vargas in the prison crime drama series Vis a Vis (2015–2019) and Nairobi in the heist series Money Heist (2017–2021).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Premios_Goya_2026_-_Alba_Flores_%28cropped%29.jpg/330px-Premios_Goya_2026_-_Alba_Flores_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alba_Flores",
+  "dateOfBirth": "1986-10-27",
+  "birthDateParsed": "1986-10-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "screenwriter"
+  ],
+  "qid": "Q8193236",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:26.450Z"
+}

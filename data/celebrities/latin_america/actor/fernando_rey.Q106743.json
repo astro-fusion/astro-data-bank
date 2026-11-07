@@ -1,0 +1,34 @@
+{
+  "publicId": "a5d50ac6",
+  "wikipediaSlug": "Fernando_Rey",
+  "wikipediaId": "Q106743",
+  "name": "Fernando Rey",
+  "fullName": "Fernando Rey",
+  "profileSummary": "Fernando Casado Arambillet, best known as Fernando Rey, was a Spanish film, theatre, and television actor, who worked in both Europe and the United States. A suave, international actor best known for his roles in the films of surrealist director Luis Buñuel and as the drug lord Alain Charnier in The French Connection (1971) and French Connection II (1975), he appeared in more than 150 films over half a century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Fernando_Rey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Rey",
+  "dateOfBirth": "1917-09-20",
+  "birthDateParsed": "1917-09-20",
+  "dateOfDeath": "1994-03-09",
+  "deathDateParsed": "1994-03-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "43.37385694",
+  "birthCoordinatesLng": "-8.400027032",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q106743",
+  "birthPlace": "A Coruña",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:47:56.826Z"
+}

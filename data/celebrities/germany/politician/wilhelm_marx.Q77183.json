@@ -1,0 +1,36 @@
+{
+  "publicId": "1d95ffab",
+  "wikipediaSlug": "Wilhelm_Marx",
+  "wikipediaId": "Q77183",
+  "name": "Wilhelm Marx",
+  "fullName": "Wilhelm Marx",
+  "profileSummary": "Wilhelm Marx was a German judge, lawyer, and politician who twice served as chancellor of Germany during the Weimar Republic, from 1923 to 1925 and again from 1926 to 1928. He also briefly held the position of Minister-President of Prussia in 1925. A leading figure in the Centre Party, he served as its chairman from 1922 to 1928. With a total tenure of three years and 73 days, he was the longest-serving chancellor of the Weimar Republic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Reichskanzler_Wilhelm_Marx_%28cropped%29%28b%29.jpg/330px-Reichskanzler_Wilhelm_Marx_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilhelm_Marx",
+  "dateOfBirth": "1863-01-15",
+  "birthDateParsed": "1863-01-15",
+  "dateOfDeath": "1946-08-05",
+  "deathDateParsed": "1946-08-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.942222222",
+  "birthCoordinatesLng": "6.957777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "judge",
+    "jurist",
+    "minister"
+  ],
+  "qid": "Q77183",
+  "birthPlace": "Cologne",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:53.250Z"
+}

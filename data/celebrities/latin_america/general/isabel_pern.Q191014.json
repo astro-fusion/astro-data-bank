@@ -1,0 +1,31 @@
+{
+  "publicId": "09ea560f",
+  "wikipediaSlug": "Isabel_Perón",
+  "wikipediaId": "Q191014",
+  "name": "Isabel Perón",
+  "fullName": "Isabel Perón",
+  "profileSummary": "Isabel Martínez de Perón is an Argentine politician who served as the president of Argentina from 1974 to 1976. She was one of the first female republican heads of state in the world, and the first woman to serve as president of a country. Perón was the third wife of President Juan Perón. During her husband's third term as president from 1973 to 1974, she served as both the vice president and first lady of Argentina. From 1974 until her resignation in 1985, she was also the second President of the Justicialist Party. Isabel Perón's politics exemplify right-wing Peronism and Orthodox Peronism. Ideologically, she is considered by academics to be close to corporate neo-fascism.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Isabel_Martinez_de_Peron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabel_Per%C3%B3n",
+  "dateOfBirth": "1931-02-04",
+  "birthDateParsed": "1931-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-29.413055555",
+  "birthCoordinatesLng": "-66.855833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q191014",
+  "birthPlace": "La Rioja",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:35.886Z"
+}

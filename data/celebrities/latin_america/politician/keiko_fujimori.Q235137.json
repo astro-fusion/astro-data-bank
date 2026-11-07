@@ -1,0 +1,33 @@
+{
+  "publicId": "5cac1aa0",
+  "wikipediaSlug": "Keiko_Fujimori",
+  "wikipediaId": "Q235137",
+  "name": "Keiko Fujimori",
+  "fullName": "Keiko Fujimori",
+  "profileSummary": "Keiko Sofía Fujimori Higuchi is a Peruvian politician who has served as the president of Peru since 2026. The eldest daughter of former president Alberto Fujimori, she is the leading figure of Fujimorism, the conservative political movement associated with her father, and has led its party, Popular Force, since 2009. Fujimori served as First Lady of Peru from 1994 to 2000 and as a member of Congress for Lima from 2006 to 2011. She is the second woman to be elected President of Peru.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Keiko_Fujimori_in_July_2026.jpg/330px-Keiko_Fujimori_in_July_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Keiko_Fujimori",
+  "dateOfBirth": "1975-05-25",
+  "birthDateParsed": "1975-05-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.06",
+  "birthCoordinatesLng": "-77.0375",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q235137",
+  "birthPlace": "Lima",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:34.078Z"
+}

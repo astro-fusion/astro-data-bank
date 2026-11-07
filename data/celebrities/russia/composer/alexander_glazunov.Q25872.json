@@ -1,0 +1,39 @@
+{
+  "publicId": "f8292dec",
+  "wikipediaSlug": "Alexander_Glazunov",
+  "wikipediaId": "Q25872",
+  "name": "Alexander Glazunov",
+  "fullName": "Alexander Glazunov",
+  "profileSummary": "Alexander Konstantinovich Glazunov was a Russian composer, music teacher, and conductor of the late Russian Romantic period. He was director of the Saint Petersburg Conservatory between 1905 and 1928 and was instrumental in the reorganization of the institute into the Petrograd Conservatory, then the Leningrad Conservatory, following the Bolshevik Revolution. He continued as head of the Conservatory until 1930, though he had left the Soviet Union in 1928 and did not return. The best-known student under his tenure during the early Soviet years was Dmitri Shostakovich.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Glazunov_by_Repin.jpg/330px-Glazunov_by_Repin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Glazunov",
+  "dateOfBirth": "1865-08-10",
+  "birthDateParsed": "1865-08-10",
+  "dateOfDeath": "1936-03-21",
+  "deathDateParsed": "1936-03-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "conductor",
+    "pedagogue",
+    "musicologist",
+    "music educator",
+    "university teacher",
+    "pianist"
+  ],
+  "qid": "Q25872",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:52.540Z"
+}

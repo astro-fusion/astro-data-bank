@@ -1,0 +1,35 @@
+{
+  "publicId": "ec4857c7",
+  "wikipediaSlug": "Kit_Chan",
+  "wikipediaId": "Q701106",
+  "name": "Kit Chan",
+  "fullName": "Kit Chan",
+  "profileSummary": "Chan Kit Yee (Chinese: 陈洁仪; Jyutping: Can4 Git3 Ji4; born 15 September 1972), known professionally as Kit Chan, is a Singaporean singer and actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kit_Chan.jpg/330px-Kit_Chan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kit_Chan",
+  "dateOfBirth": "1972-09-15",
+  "birthDateParsed": "1972-09-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "composer"
+  ],
+  "qid": "Q701106",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:17.118Z"
+}

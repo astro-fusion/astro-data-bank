@@ -1,0 +1,34 @@
+{
+  "publicId": "48ba8d2e",
+  "wikipediaSlug": "Eugenia_León",
+  "wikipediaId": "Q947710",
+  "name": "Eugenia León",
+  "fullName": "Eugenia León",
+  "profileSummary": "Eugenia León is a Mexican singer. She won first place at the prestigious OTI Festival 1985 in Seville, Spain, with the song \"El fandango aquí\" written by Marcial Alejandro. A recipient of the Latin Grammy Lifetime Achievement Award, she has had a career spanning more than 40 years and 26 recorded albums, of which several million copies have been sold. She has performed in some of the most important venues in Mexico, such as the Palacio de Bellas Artes, the Auditorio Nacional, the Sala Nezahualcóyotl, the Teatro de la Ciudad, and the Cervantino Festival.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/EugeniaLeon.jpg/330px-EugeniaLeon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugenia_Le%C3%B3n",
+  "dateOfBirth": "1956-06-07",
+  "birthDateParsed": "1956-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.536666666",
+  "birthCoordinatesLng": "-99.194722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor"
+  ],
+  "qid": "Q947710",
+  "birthPlace": "Tlalnepantla",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:24:04.160Z"
+}

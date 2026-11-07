@@ -1,0 +1,37 @@
+{
+  "publicId": "7b9081c7",
+  "wikipediaSlug": "Daniel_Emilfork",
+  "wikipediaId": "Q2465528",
+  "name": "Daniel Emilfork",
+  "fullName": "Daniel Emilfork",
+  "profileSummary": "Daniel Emilfork Berenstein, known professionally as Daniel Emilfork, was a Chilean stage and film actor who made his career in France.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DanielEmilfork-StudioHarcourt-1958.png/330px-DanielEmilfork-StudioHarcourt-1958.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Emilfork",
+  "dateOfBirth": "1924-04-07",
+  "birthDateParsed": "1924-04-07",
+  "dateOfDeath": "2006-10-17",
+  "deathDateParsed": "2006-10-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.433333333",
+  "birthCoordinatesLng": "-70.616666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "voice actor",
+    "stage actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q2465528",
+  "birthPlace": "Providencia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:49.248Z"
+}

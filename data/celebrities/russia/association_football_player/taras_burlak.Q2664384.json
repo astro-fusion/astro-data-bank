@@ -1,0 +1,33 @@
+{
+  "publicId": "0ace91be",
+  "wikipediaSlug": "Taras_Burlak",
+  "wikipediaId": "Q2664384",
+  "name": "Taras Burlak",
+  "fullName": "Taras Burlak",
+  "profileSummary": "Taras Aleksandrovich Burlak is a Russian former professional association footballer who played as centre-back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Taras_Burlak_2020.jpg/330px-Taras_Burlak_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Taras_Burlak",
+  "dateOfBirth": "1990-02-22",
+  "birthDateParsed": "1990-02-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.115",
+  "birthCoordinatesLng": "131.885277777",
+  "birthTimezone": "Asia/Tokyo",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2664384",
+  "birthPlace": "Vladivostok",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:56.709Z"
+}

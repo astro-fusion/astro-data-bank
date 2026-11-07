@@ -1,0 +1,33 @@
+{
+  "publicId": "d8bdeff9",
+  "wikipediaSlug": "Alexander_I_of_Russia",
+  "wikipediaId": "Q15193",
+  "name": "Alexander I of Russia",
+  "fullName": "Alexander I of Russia",
+  "profileSummary": "Alexander I of Russia, nicknamed \"the Blessed\", was Emperor of Russia from 1801, the first King of Congress Poland from 1815, and the Grand Duke of Finland from 1809 to his death in 1825. He ruled Russia during the chaotic period of the Napoleonic Wars.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg/330px-Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia",
+  "dateOfBirth": "1777-12-23",
+  "birthDateParsed": "1777-12-23",
+  "dateOfDeath": "1825-12-01",
+  "deathDateParsed": "1825-12-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "monarch"
+  ],
+  "qid": "Q15193",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:21.038Z"
+}

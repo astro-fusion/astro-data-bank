@@ -1,0 +1,35 @@
+{
+  "publicId": "198b80ce",
+  "wikipediaSlug": "Urbano_Santos_da_Costa_Araújo",
+  "wikipediaId": "Q2598211",
+  "name": "Urbano Santos da Costa Araújo",
+  "fullName": "Urbano Santos da Costa Araújo",
+  "profileSummary": "Urbano Santos da Costa Araújo was a Brazilian politician who was the vice president of Brazil from November 15, 1914, to November 15, 1918, under Venceslau Brás. As the vice president of Brazil, he also served as the president of the Senate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Urbano_Santos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Urbano_Santos_da_Costa_Ara%C3%BAjo",
+  "dateOfBirth": "1859-02-03",
+  "birthDateParsed": "1859-02-03",
+  "dateOfDeath": "1922-05-07",
+  "deathDateParsed": "1922-05-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "-2.132777777",
+  "birthCoordinatesLng": "-44.600833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "prosecutor"
+  ],
+  "qid": "Q2598211",
+  "birthPlace": "Guimarães",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:36.421Z"
+}

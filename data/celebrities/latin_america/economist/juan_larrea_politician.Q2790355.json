@@ -1,0 +1,37 @@
+{
+  "publicId": "d8c2dc5e",
+  "wikipediaSlug": "Juan_Larrea_(politician)",
+  "wikipediaId": "Q2790355",
+  "name": "Juan Larrea (politician)",
+  "fullName": "Juan Larrea (politician)",
+  "profileSummary": "Juan Larrea was a Spanish businessman and politician in Buenos Aires during the early nineteenth century. He headed a military unit during the second British invasion of the River Plate, and worked at the Buenos Aires Cabildo. He took part in the ill-fated Mutiny of Álzaga. Larrea and Domingo Matheu were the only two Spanish-born members of the Primera Junta, the first national government of Argentina.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Juanlarrea_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Larrea_(politician)",
+  "dateOfBirth": "1782-07-24",
+  "birthDateParsed": "1782-07-24",
+  "dateOfDeath": "1847-06-20",
+  "deathDateParsed": "1847-06-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "41.533333333",
+  "birthCoordinatesLng": "2.45",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "diplomat",
+    "politician",
+    "ship-owner",
+    "merchant"
+  ],
+  "qid": "Q2790355",
+  "birthPlace": "Mataró",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:54.873Z"
+}

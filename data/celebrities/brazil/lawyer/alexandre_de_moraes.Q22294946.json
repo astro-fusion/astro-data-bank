@@ -1,0 +1,36 @@
+{
+  "publicId": "6f36135b",
+  "wikipediaSlug": "Alexandre_de_Moraes",
+  "wikipediaId": "Q22294946",
+  "name": "Alexandre de Moraes",
+  "fullName": "Alexandre de Moraes",
+  "profileSummary": "Alexandre de Moraes is a Brazilian jurist, former politician, former president of the Superior Electoral Court, and current justice of the Supreme Federal Court. Moraes was appointed to the Supreme Court by President Michel Temer in 2017 when serving as Minister of Justice and Public Security. Previously, Moraes had acted as Secretary for Public Security in the state of São Paulo and had been a member of the Brazilian Public Prosecutor's Office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ministro_Alexandre_de_Moraes_como_presidente_do_TSE.jpg/330px-Ministro_Alexandre_de_Moraes_como_presidente_do_TSE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_de_Moraes",
+  "dateOfBirth": "1968-12-13",
+  "birthDateParsed": "1968-12-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "judge",
+    "jurist"
+  ],
+  "qid": "Q22294946",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:06.784Z"
+}

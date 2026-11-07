@@ -1,0 +1,35 @@
+{
+  "publicId": "e8f99389",
+  "wikipediaSlug": "Angelines_Fernández",
+  "wikipediaId": "Q2849435",
+  "name": "Angelines Fernández",
+  "fullName": "Angelines Fernández",
+  "profileSummary": "María de los Ángeles Fernández Abad, known professionally as Angelines Fernández, was a Mexican actress. She is best remembered for playing Doña Clotilde \"La Bruja del 71\" in the sitcom El Chavo del Ocho. She was an anti-Franco refugee who remained in Mexico from 1947 until the end of her life.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Angelines_Fern%C3%A1ndez_circa_1940s_photograph.png/330px-Angelines_Fern%C3%A1ndez_circa_1940s_photograph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelines_Fern%C3%A1ndez",
+  "dateOfBirth": "1924-07-30",
+  "birthDateParsed": "1924-07-30",
+  "dateOfDeath": "1994-03-25",
+  "deathDateParsed": "1994-03-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "comedian"
+  ],
+  "qid": "Q2849435",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:47:54.930Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "b47ddf8e",
+  "wikipediaSlug": "Juan_O'Donojú",
+  "wikipediaId": "Q973289",
+  "name": "Juan O'Donojú",
+  "fullName": "Juan O'Donojú",
+  "profileSummary": "Juan José Rafael Teodomiro de O'Donojú y O'Ryan was a Spanish-Irish military officer, diplomat and Viceroy of New Spain from 21 July 1821 to 28 September 1821 during the Mexican War of Independence. He was the last Viceroy of New Spain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Juan_O%27Donoju.jpg/330px-Juan_O%27Donoju.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_O'Donoj%C3%BA",
+  "dateOfBirth": "1762-07-30",
+  "birthDateParsed": "1762-07-30",
+  "dateOfDeath": "1821-10-08",
+  "deathDateParsed": "1821-10-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "37.388611111",
+  "birthCoordinatesLng": "-5.995",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "lieutenant general",
+    "captain general"
+  ],
+  "qid": "Q973289",
+  "birthPlace": "Seville",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:14.166Z"
+}

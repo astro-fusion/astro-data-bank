@@ -1,0 +1,34 @@
+{
+  "publicId": "be8b4c46",
+  "wikipediaSlug": "Anton_Walbrook",
+  "wikipediaId": "Q79005",
+  "name": "Anton Walbrook",
+  "fullName": "Anton Walbrook",
+  "profileSummary": "Adolf Anton Wilhelm Wohlbrück was an Austrian actor who settled in the United Kingdom under the name Anton Walbrook. A popular performer in Austria and pre-war Germany, he left Germany in 1936 out of concerns for his own safety and established a career in British cinema. Walbrook is perhaps best known for his roles in the original British film of Gaslight, The Life and Death of Colonel Blimp, The Red Shoes and Victoria the Great.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Anton_Walbrook_cleaned.jpg/330px-Anton_Walbrook_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Walbrook",
+  "dateOfBirth": "1896-11-19",
+  "birthDateParsed": "1896-11-19",
+  "dateOfDeath": "1967-08-09",
+  "deathDateParsed": "1967-08-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q79005",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:16.685Z"
+}

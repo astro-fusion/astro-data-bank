@@ -1,0 +1,35 @@
+{
+  "publicId": "40af8a95",
+  "wikipediaSlug": "Vyacheslav_Volodin",
+  "wikipediaId": "Q982461",
+  "name": "Vyacheslav Volodin",
+  "fullName": "Vyacheslav Volodin",
+  "profileSummary": "Vyacheslav Viktorovich Volodin is a Russian politician who serves as the 10th Chairman of the State Duma since 2016. He is a former aide to President Vladimir Putin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Vyacheslav_Volodin_%2815-01-2024%29.jpg/330px-Vyacheslav_Volodin_%2815-01-2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vyacheslav_Volodin",
+  "dateOfBirth": "1964-02-04",
+  "birthDateParsed": "1964-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.308333333",
+  "birthCoordinatesLng": "48.027222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "civil servant",
+    "jurist"
+  ],
+  "qid": "Q982461",
+  "birthPlace": "Alekseyevka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:47.977Z"
+}

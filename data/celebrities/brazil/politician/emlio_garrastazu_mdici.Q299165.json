@@ -1,0 +1,34 @@
+{
+  "publicId": "d2b92402",
+  "wikipediaSlug": "Emílio_Garrastazu_Médici",
+  "wikipediaId": "Q299165",
+  "name": "Emílio Garrastazu Médici",
+  "fullName": "Emílio Garrastazu Médici",
+  "profileSummary": "Emílio Garrastazu Médici was a Brazilian military leader and dictator who was the 28th president of Brazil from 1969 to 1974. His authoritarian rule marked the apex of the Brazilian military regime.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Em%C3%ADlio_Garrastazu_M%C3%A9dici%2C_presidente_da_Rep%C3%BAblica._%28cropped%29%282%29.tif/lossy-page1-330px-Em%C3%ADlio_Garrastazu_M%C3%A9dici%2C_presidente_da_Rep%C3%BAblica._%28cropped%29%282%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Em%C3%ADlio_Garrastazu_M%C3%A9dici",
+  "dateOfBirth": "1905-12-04",
+  "birthDateParsed": "1905-12-04",
+  "dateOfDeath": "1985-10-09",
+  "deathDateParsed": "1985-10-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.330833333",
+  "birthCoordinatesLng": "-54.106944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q299165",
+  "birthPlace": "Bagé",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:24.613Z"
+}

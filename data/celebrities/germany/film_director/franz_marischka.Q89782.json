@@ -1,0 +1,39 @@
+{
+  "publicId": "39f0a122",
+  "wikipediaSlug": "Franz_Marischka",
+  "wikipediaId": "Q89782",
+  "name": "Franz Marischka",
+  "fullName": "Franz Marischka",
+  "profileSummary": "Franz Marischka (1918–2009) was an Austrian actor, screenwriter and film director. He was the son of the director Hubert Marischka.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_Marischka",
+  "dateOfBirth": "1918-07-02",
+  "birthDateParsed": "1918-07-02",
+  "dateOfDeath": "2009-02-18",
+  "deathDateParsed": "2009-02-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.806944444",
+  "birthCoordinatesLng": "13.491666666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "screenwriter",
+    "film actor",
+    "military personnel",
+    "director",
+    "writer"
+  ],
+  "qid": "Q89782",
+  "birthPlace": "Unterach am Attersee",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:09.952Z"
+}

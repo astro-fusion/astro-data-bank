@@ -1,0 +1,33 @@
+{
+  "publicId": "9cc93d45",
+  "wikipediaSlug": "Adolf_Urban",
+  "wikipediaId": "Q364411",
+  "name": "Adolf Urban",
+  "fullName": "Adolf Urban",
+  "profileSummary": "Adolf Urban was a German footballer. Urban played as a forward for the football club Schalke 04, among others. He has made 21 appearances for Germany between 1935 and 1941, scoring 11 goals. He was also part of Germany's squad at the 1936 Summer Olympics.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolf_Urban",
+  "dateOfBirth": "1914-01-03",
+  "birthDateParsed": "1914-01-03",
+  "dateOfDeath": "1943-05-27",
+  "deathDateParsed": "1943-05-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.510277777",
+  "birthCoordinatesLng": "7.094166666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q364411",
+  "birthPlace": "Gelsenkirchen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:43.421Z"
+}

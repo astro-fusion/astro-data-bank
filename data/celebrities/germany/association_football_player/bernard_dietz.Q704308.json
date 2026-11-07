@@ -1,0 +1,34 @@
+{
+  "publicId": "d9d9d576",
+  "wikipediaSlug": "Bernard_Dietz",
+  "wikipediaId": "Q704308",
+  "name": "Bernard Dietz",
+  "fullName": "Bernard Dietz",
+  "profileSummary": "Bernard Dietz is a German former football player and manager. A former defender, he captained the West Germany national team to victory in the UEFA Euro 1980.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bernard_Dietz_1985.jpg/330px-Bernard_Dietz_1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_Dietz",
+  "dateOfBirth": "1948-03-22",
+  "birthDateParsed": "1948-03-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.69722222",
+  "birthCoordinatesLng": "7.74833333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q704308",
+  "birthPlace": "Bockum-Hövel",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:09.799Z"
+}

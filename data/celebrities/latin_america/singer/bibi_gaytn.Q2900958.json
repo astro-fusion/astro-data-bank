@@ -1,0 +1,35 @@
+{
+  "publicId": "a00126d8",
+  "wikipediaSlug": "Bibi_Gaytán",
+  "wikipediaId": "Q2900958",
+  "name": "Bibi Gaytán",
+  "fullName": "Bibi Gaytán",
+  "profileSummary": "Silvia \"Bibi\" Gaytán Barragán is a Mexican singer and actress. Since she was born, she has lived in Villahermosa, Tabasco and she considers herself \"Tabasqueña\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bibi_Gaytan.jpeg/330px-Bibi_Gaytan.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bibi_Gayt%C3%A1n",
+  "dateOfBirth": "1971-01-27",
+  "birthDateParsed": "1971-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "14.911071388",
+  "birthCoordinatesLng": "-92.26432",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q2900958",
+  "birthPlace": "Tapachula de Córdova y Ordóñez",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:35.211Z"
+}

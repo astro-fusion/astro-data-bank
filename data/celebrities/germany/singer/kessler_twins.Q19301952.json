@@ -1,0 +1,35 @@
+{
+  "publicId": "831fe7ab",
+  "wikipediaSlug": "Alice_Kessler",
+  "wikipediaId": "Q19301952",
+  "name": "Kessler Twins",
+  "fullName": "Kessler Twins",
+  "profileSummary": "Alice and Ellen Kessler, usually credited as the Kessler Twins, were twin German singers, dancers and actresses who were popular in Europe, especially Germany and Italy, during the 1950s and 1960s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gemelle_Kessler_1965_%28cropped%29.jpg/330px-Gemelle_Kessler_1965_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kessler_Twins",
+  "dateOfBirth": "1936-08-20",
+  "birthDateParsed": "1936-08-20",
+  "dateOfDeath": "2025-11-17",
+  "deathDateParsed": "2025-11-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.266666666",
+  "birthCoordinatesLng": "12.783333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "dancer",
+    "actor"
+  ],
+  "qid": "Q19301952",
+  "birthPlace": "Nerchau",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:42.179Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "c2105669",
+  "wikipediaSlug": "Anica_Dobra",
+  "wikipediaId": "Q452730",
+  "name": "Anica Dobra",
+  "fullName": "Anica Dobra",
+  "profileSummary": "Anica Dobra is a Serbian film and theatre actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Anica_Dobra%2C_1993_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anica_Dobra",
+  "dateOfBirth": "1963-06-03",
+  "birthDateParsed": "1963-06-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "44.817777777",
+  "birthCoordinatesLng": "20.456944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q452730",
+  "birthPlace": "Belgrade",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:48.588Z"
+}

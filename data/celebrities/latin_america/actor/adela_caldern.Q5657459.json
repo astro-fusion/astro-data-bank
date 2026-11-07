@@ -1,0 +1,33 @@
+{
+  "publicId": "78da8de8",
+  "wikipediaSlug": "Adela_Calderón",
+  "wikipediaId": "Q5657459",
+  "name": "Adela Calderón",
+  "fullName": "Adela Calderón",
+  "profileSummary": "Elena Adela Calderón García, known as Adela Calderón is a Chilean actress and comedienne who has appeared in television and stage.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adela_Calderon.jpg/330px-Adela_Calderon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adela_Calder%C3%B3n",
+  "dateOfBirth": "1959-02-21",
+  "birthDateParsed": "1959-02-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5657459",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:34.280Z"
+}

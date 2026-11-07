@@ -1,0 +1,33 @@
+{
+  "publicId": "ac22f849",
+  "wikipediaSlug": "Lionel_Lewis",
+  "wikipediaId": "Q3833182",
+  "name": "Lionel Lewis",
+  "fullName": "Lionel Lewis",
+  "profileSummary": "Lionel Lewis is a Singaporean former footballer who last played for Singapore national football team as a goalkeeper. He played for Home United from 2004 to 2012, having played for Geylang United and the Young Lions in his earlier years. Lewis made his international debut in 2002 and made 73 appearances for the Singapore national football team. He was named the 2004 Tiger Cup MVP, and was nominated for the 2006 Asian Footballer of the Year award. After his retirement from professional football he has worked for Nanyang Polytechnic managing student sports.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lionellewis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lionel_Lewis",
+  "dateOfBirth": "1982-12-16",
+  "birthDateParsed": "1982-12-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q3833182",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:44.919Z"
+}

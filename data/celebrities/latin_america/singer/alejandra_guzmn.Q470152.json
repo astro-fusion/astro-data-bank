@@ -1,0 +1,37 @@
+{
+  "publicId": "28fe4a31",
+  "wikipediaSlug": "Alejandra_Guzmán",
+  "wikipediaId": "Q470152",
+  "name": "Alejandra Guzmán",
+  "fullName": "Alejandra Guzmán",
+  "profileSummary": "Gabriela Alejandra Guzmán Pinal is a Mexican pop and rock singer. With more than 30 million records sold throughout her career, winner of a Latin Grammy Award, and nicknamed \"La Reina de Corazones\" and \"La Reina del Rock\", she is one of the most successful Mexican female singers. She is also daughter of actress Silvia Pinal and singer Enrique Guzmán.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alejandra_Guzm%C3%A1n.jpg/330px-Alejandra_Guzm%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandra_Guzm%C3%A1n",
+  "dateOfBirth": "1968-02-09",
+  "birthDateParsed": "1968-02-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "film actor",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q470152",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:11.853Z"
+}

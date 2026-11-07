@@ -1,0 +1,34 @@
+{
+  "publicId": "c716ac72",
+  "wikipediaSlug": "Tang_Wei",
+  "wikipediaId": "Q270687",
+  "name": "Tang Wei",
+  "fullName": "Tang Wei",
+  "profileSummary": "Tang Wei is a Chinese actress. She rose to international fame for her role in Golden Lion-winning Lust, Caution (2007) by Ang Lee, for which she was banned by the Chinese government due to the explicit sexual nature of her performance, until her comeback in Crossing Hennessy in 2010. She gained further acclaim for her performances in Late Autumn (2010), Finding Mr. Right (2013), The Golden Era (2014), Long Day's Journey into Night (2018), Decision to Leave (2022), and Wonderland (2024).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/20250425_Tang_Wei_%E6%B1%A4%E5%94%AF_03.jpg/330px-20250425_Tang_Wei_%E6%B1%A4%E5%94%AF_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tang_Wei",
+  "dateOfBirth": "1979-10-07",
+  "birthDateParsed": "1979-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "30.25",
+  "birthCoordinatesLng": "120.1675",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q270687",
+  "birthPlace": "Hangzhou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:17.563Z"
+}

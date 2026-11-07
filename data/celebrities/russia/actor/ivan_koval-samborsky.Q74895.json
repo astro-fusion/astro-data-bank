@@ -1,0 +1,35 @@
+{
+  "publicId": "9ff60cbb",
+  "wikipediaSlug": "Ivan_Koval-Samborsky",
+  "wikipediaId": "Q74895",
+  "name": "Ivan Koval-Samborsky",
+  "fullName": "Ivan Koval-Samborsky",
+  "profileSummary": "Ivan Koval-Samborsky was a Ukrainian stage and film actor. After establishing himself in the Soviet film industry in the 1920s, he briefly went to work in Germany during the late 1920s before returning to Russia following the arrival of sound. In 1938 he was arrested by the Soviet authorities, leading to his most recent film, the anti-Nazi The Swamp Soldiers, having to be reshot to minimize his role. He did not appear in another film until 1957.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Koval-Samborsky",
+  "dateOfBirth": "1893-09-16",
+  "birthDateParsed": "1893-09-16",
+  "dateOfDeath": "1962-01-10",
+  "deathDateParsed": "1962-01-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.9925",
+  "birthCoordinatesLng": "36.231111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q74895",
+  "birthPlace": "Kharkiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:30:40.193Z"
+}

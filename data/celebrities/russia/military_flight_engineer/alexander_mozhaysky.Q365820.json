@@ -1,0 +1,36 @@
+{
+  "publicId": "031d93f4",
+  "wikipediaSlug": "Alexander_Mozhaysky",
+  "wikipediaId": "Q365820",
+  "name": "Alexander Mozhaysky",
+  "fullName": "Alexander Mozhaysky",
+  "profileSummary": "Alexander Fedorovich Mozhaysky was an admiral in the Imperial Russian Navy, an aviation pioneer, and a researcher and designer of heavier-than-air craft.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alexander_Mozhayskiy.jpg/330px-Alexander_Mozhayskiy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Mozhaysky",
+  "dateOfBirth": "1825-03-21",
+  "birthDateParsed": "1825-03-21",
+  "dateOfDeath": "1890-04-01",
+  "deathDateParsed": "1890-04-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "60.466666666",
+  "birthCoordinatesLng": "26.945833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military flight engineer",
+    "military officer",
+    "aerospace engineer",
+    "inventor"
+  ],
+  "qid": "Q365820",
+  "birthPlace": "Kotka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:05.662Z"
+}

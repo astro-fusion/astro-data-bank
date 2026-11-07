@@ -1,0 +1,33 @@
+{
+  "publicId": "e36f127a",
+  "wikipediaSlug": "Felipe_Melo",
+  "wikipediaId": "Q204450",
+  "name": "Felipe Melo",
+  "fullName": "Felipe Melo",
+  "profileSummary": "Felipe Melo de Carvalho, known as Felipe Melo, is a Brazilian former professional footballer who played as a defensive midfielder or centre-back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/FelipeMeloFlu.png/330px-FelipeMeloFlu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Felipe_Melo",
+  "dateOfBirth": "1983-06-26",
+  "birthDateParsed": "1983-06-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.52306",
+  "birthCoordinatesLng": "-44.10417",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q204450",
+  "birthPlace": "Volta Redonda",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:12.303Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "099a4ff5",
+  "wikipediaSlug": "Júlio_Prestes",
+  "wikipediaId": "Q373560",
+  "name": "Júlio Prestes",
+  "fullName": "Júlio Prestes",
+  "profileSummary": "Júlio Prestes de Albuquerque was a Brazilian poet, lawyer and politician. He was the last elected President of Brazil of the period known as the Old Republic, but never took office because the government was overthrown in the Revolution of 1930. Prestes was the only politician to be elected President of Brazil and then impeded from taking office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/J%C3%BAlio_Prestes%2C_1930_-_Schmitd%2C_maria_do_resguardo_%28retouched%29.jpg/330px-J%C3%BAlio_Prestes%2C_1930_-_Schmitd%2C_maria_do_resguardo_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BAlio_Prestes",
+  "dateOfBirth": "1882-03-15",
+  "birthDateParsed": "1882-03-15",
+  "dateOfDeath": "1946-02-09",
+  "deathDateParsed": "1946-02-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.591666666",
+  "birthCoordinatesLng": "-48.053055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q373560",
+  "birthPlace": "Itapetininga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:37.020Z"
+}

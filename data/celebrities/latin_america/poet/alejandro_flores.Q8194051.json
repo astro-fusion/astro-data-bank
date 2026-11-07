@@ -1,0 +1,36 @@
+{
+  "publicId": "972f5fd5",
+  "wikipediaSlug": "Alejandro_Flores",
+  "wikipediaId": "Q8194051",
+  "name": "Alejandro Flores",
+  "fullName": "Alejandro Flores",
+  "profileSummary": "Alejandro Flores Pinaud  (1896–1962) was a Chilean poet, dramatist and actor. In 1946, the Chilean government distinguished his career with the National Art Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alejandro_Flores.JPG/330px-Alejandro_Flores.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Flores",
+  "dateOfBirth": "1896-02-09",
+  "birthDateParsed": "1896-02-09",
+  "dateOfDeath": "1962-01-06",
+  "deathDateParsed": "1962-01-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "playwright",
+    "actor",
+    "singer"
+  ],
+  "qid": "Q8194051",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:51.809Z"
+}

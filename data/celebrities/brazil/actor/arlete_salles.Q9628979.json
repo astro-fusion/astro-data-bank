@@ -1,0 +1,36 @@
+{
+  "publicId": "fd3bcabc",
+  "wikipediaSlug": "Arlete_Salles",
+  "wikipediaId": "Q9628979",
+  "name": "Arlete Salles",
+  "fullName": "Arlete Salles",
+  "profileSummary": "Arlete Sales Lopes is a Brazilian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arlete_Salles_%28cropped%29.jpg/330px-Arlete_Salles_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arlete_Salles",
+  "dateOfBirth": "1942-06-17",
+  "birthDateParsed": "1942-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-7.896944444",
+  "birthCoordinatesLng": "-35.18",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q9628979",
+  "birthPlace": "Paudalho",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:48.644Z"
+}

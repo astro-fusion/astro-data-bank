@@ -1,0 +1,33 @@
+{
+  "publicId": "93fc7a76",
+  "wikipediaSlug": "André_Schürrle",
+  "wikipediaId": "Q58377",
+  "name": "André Schürrle",
+  "fullName": "André Schürrle",
+  "profileSummary": "André Horst Schürrle is a German former professional footballer who played as a winger or forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sch%C3%BCrrle_2019.jpg/330px-Sch%C3%BCrrle_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Sch%C3%BCrrle",
+  "dateOfBirth": "1990-11-06",
+  "birthDateParsed": "1990-11-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.481111111",
+  "birthCoordinatesLng": "8.435277777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q58377",
+  "birthPlace": "Ludwigshafen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:44.750Z"
+}

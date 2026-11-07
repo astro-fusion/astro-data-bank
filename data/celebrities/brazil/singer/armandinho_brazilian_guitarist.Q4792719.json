@@ -1,0 +1,36 @@
+{
+  "publicId": "68c12a5a",
+  "wikipediaSlug": "Armandinho_(Brazilian_guitarist)",
+  "wikipediaId": "Q4792719",
+  "name": "Armandinho (Brazilian guitarist)",
+  "fullName": "Armandinho (Brazilian guitarist)",
+  "profileSummary": "Armandinho is a Brazilian composer and singer. He was born in Salvador, the son of Osmar Macêdo, from the world's first trio elétrico, the Trio Elétrico de Dodô e Osmar. In his early career, he played in his bands Trio Elétrico Mirim in 1962 and Hell's Angels in 1967.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Armandinho_-_MinC_-_Comit%C3%AA_do_Patrim%C3%B4nio_Mundial_%2819%29.jpg/330px-Armandinho_-_MinC_-_Comit%C3%AA_do_Patrim%C3%B4nio_Mundial_%2819%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Armandinho_(Brazilian_guitarist)",
+  "dateOfBirth": "1953-05-22",
+  "birthDateParsed": "1953-05-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.983055555",
+  "birthCoordinatesLng": "-38.492777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "mandolinist",
+    "composer",
+    "guitarist"
+  ],
+  "qid": "Q4792719",
+  "birthPlace": "Salvador",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:12.792Z"
+}

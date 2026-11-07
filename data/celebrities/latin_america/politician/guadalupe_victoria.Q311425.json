@@ -1,0 +1,35 @@
+{
+  "publicId": "3ea8a08c",
+  "wikipediaSlug": "Guadalupe_Victoria",
+  "wikipediaId": "Q311425",
+  "name": "Guadalupe Victoria",
+  "fullName": "Guadalupe Victoria",
+  "profileSummary": "Guadalupe Victoria, born José Miguel Ramón Adaucto Fernández y Félix, was a Mexican general and politician who fought for independence against the Spanish Empire in the Mexican War of Independence and after the adoption of the Constitution of 1824, was elected as the first president of the United Mexican States. He was a deputy in the Mexican Chamber of Deputies for Durango and a member of the Supreme Executive Power following the downfall of the First Mexican Empire, which was followed by the 1824 Constitution and his presidency. He later served as Governor of Puebla.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Guadalupe_Victoria_-_02.jpg/330px-Guadalupe_Victoria_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guadalupe_Victoria",
+  "dateOfBirth": "1786-09-29",
+  "birthDateParsed": "1786-09-29",
+  "dateOfDeath": "1845-03-21",
+  "deathDateParsed": "1845-03-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "24.97",
+  "birthCoordinatesLng": "-106.965555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "soldier"
+  ],
+  "qid": "Q311425",
+  "birthPlace": "Tamazula de Victoria",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:05.231Z"
+}

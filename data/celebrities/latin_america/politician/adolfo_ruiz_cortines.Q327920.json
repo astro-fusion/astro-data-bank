@@ -1,0 +1,34 @@
+{
+  "publicId": "ab7a74b8",
+  "wikipediaSlug": "Adolfo_Ruiz_Cortines",
+  "wikipediaId": "Q327920",
+  "name": "Adolfo Ruiz Cortines",
+  "fullName": "Adolfo Ruiz Cortines",
+  "profileSummary": "Adolfo Tomás Ruiz Cortines was a Mexican politician who served as President of Mexico from 1952 to 1958. A member of the Institutional Revolutionary Party (PRI), he previously served as Governor of Veracruz and Secretary of the Interior. During his presidency, which constituted the Mexican Miracle, women gained the right to vote, and he instituted numerous public health, education, infrastructure, and works projects.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Adolfo_Ruiz_Cortines_%28cropped%29.jpg/330px-Adolfo_Ruiz_Cortines_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolfo_Ruiz_Cortines",
+  "dateOfBirth": "1890-12-30",
+  "birthDateParsed": "1890-12-30",
+  "dateOfDeath": "1973-12-03",
+  "deathDateParsed": "1973-12-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.190277777",
+  "birthCoordinatesLng": "-96.153333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q327920",
+  "birthPlace": "Veracruz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:12:47.257Z"
+}

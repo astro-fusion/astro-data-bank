@@ -1,0 +1,36 @@
+{
+  "publicId": "a8d4612f",
+  "wikipediaSlug": "Hsieh_Ho-hsien",
+  "wikipediaId": "Q717907",
+  "name": "Hsieh Ho-hsien",
+  "fullName": "Hsieh Ho-hsien",
+  "profileSummary": "Hsieh Ho-hsien is a Taiwanese singer and actor. R.Chord is known mainly for writing the lyrics of the song, \"Gou Ai,\" which was played on the Taiwanese drama, The X-Family. \"Gou Ai\" was also performed on K.O.3an Guo by Pets Tseng. The song has also been parodied multiple times on K.O.3an Guo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/%E8%AC%9D%E5%92%8C%E5%BC%A6_%E5%8F%B0%E5%8D%97%E7%B0%BD%E5%94%B1%E6%9C%83_20110604.jpg/330px-%E8%AC%9D%E5%92%8C%E5%BC%A6_%E5%8F%B0%E5%8D%97%E7%B0%BD%E5%94%B1%E6%9C%83_20110604.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hsieh_Ho-hsien",
+  "dateOfBirth": "1987-04-15",
+  "birthDateParsed": "1987-04-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "television actor",
+    "singer-songwriter"
+  ],
+  "qid": "Q717907",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:01.279Z"
+}

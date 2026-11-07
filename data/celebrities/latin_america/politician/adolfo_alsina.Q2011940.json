@@ -1,0 +1,34 @@
+{
+  "publicId": "0686f906",
+  "wikipediaSlug": "Adolfo_Alsina",
+  "wikipediaId": "Q2011940",
+  "name": "Adolfo Alsina",
+  "fullName": "Adolfo Alsina",
+  "profileSummary": "Adolfo Alsina Maza was an Argentine lawyer and Unitarian politician, who was one of the founders of the Autonomist Party and the National Autonomist Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Adolfo_Alsina_Witcomb.jpg/330px-Adolfo_Alsina_Witcomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolfo_Alsina",
+  "dateOfBirth": "1829-01-04",
+  "birthDateParsed": "1829-01-04",
+  "dateOfDeath": "1877-12-29",
+  "deathDateParsed": "1877-12-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q2011940",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:22.871Z"
+}

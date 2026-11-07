@@ -1,0 +1,34 @@
+{
+  "publicId": "5e1a4c1f",
+  "wikipediaSlug": "Agostinho_dos_Santos",
+  "wikipediaId": "Q3606710",
+  "name": "Agostinho dos Santos",
+  "fullName": "Agostinho dos Santos",
+  "profileSummary": "Agostinho dos Santos was a Brazilian singer and composer of bossa nova, MPB and rock and roll, active from the early 1950s until his premature death in the crash of Varig Flight 820 in 1973, at the age of 41.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Agostinho_dos_Santos_%281956%29.tif/lossy-page1-330px-Agostinho_dos_Santos_%281956%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agostinho_dos_Santos",
+  "dateOfBirth": "1932-04-25",
+  "birthDateParsed": "1932-04-25",
+  "dateOfDeath": "1973-07-12",
+  "deathDateParsed": "1973-07-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer"
+  ],
+  "qid": "Q3606710",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:18.596Z"
+}

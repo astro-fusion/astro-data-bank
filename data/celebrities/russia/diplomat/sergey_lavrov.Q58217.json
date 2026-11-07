@@ -1,0 +1,36 @@
+{
+  "publicId": "e3f54833",
+  "wikipediaSlug": "Sergey_Lavrov",
+  "wikipediaId": "Q58217",
+  "name": "Sergey Lavrov",
+  "fullName": "Sergey Lavrov",
+  "profileSummary": "Sergey Viktorovich Lavrov is a Russian diplomat who has served as Minister of Foreign Affairs since 2004. He is the country's longest-serving foreign minister since the Soviet era.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D0%BE%D0%B2_%2821-01-2022%29_%28cropped%29_%282%29.jpg/330px-%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D0%BE%D0%B2_%2821-01-2022%29_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergey_Lavrov",
+  "dateOfBirth": "1950-03-21",
+  "birthDateParsed": "1950-03-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "politician",
+    "minister",
+    "foreign minister"
+  ],
+  "qid": "Q58217",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:36.281Z"
+}

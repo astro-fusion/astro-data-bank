@@ -1,0 +1,39 @@
+{
+  "publicId": "e3ca591e",
+  "wikipediaSlug": "Danny_Lee_(actor)",
+  "wikipediaId": "Q718083",
+  "name": "Danny Lee (actor)",
+  "fullName": "Danny Lee (actor)",
+  "profileSummary": "Danny Lee  is a Hong Kong actor, film producer, screenwriter, director, action director, martial artist and presenter. He is known for frequently portraying Hong Kong police officers in films such as Law with Two Phases, The Killer and The Untold Story, as well as being a Shaw Brothers alumnus, having starred in martial arts and action movies produced by that studio such as Infra-Man.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%E7%AC%AC21%E5%B1%86%E9%87%91%E9%A6%AC%E7%8D%8E%E5%BD%B1%E5%B8%9D%E6%9D%8E%E4%BF%AE%E8%B3%A2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Lee_(actor)",
+  "dateOfBirth": "1952-08-06",
+  "birthDateParsed": "1952-08-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cinematographer",
+    "film producer",
+    "film director",
+    "screenwriter",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q718083",
+  "birthPlace": "Shanghai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:23.729Z"
+}

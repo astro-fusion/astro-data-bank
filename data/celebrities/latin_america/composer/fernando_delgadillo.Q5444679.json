@@ -1,0 +1,37 @@
+{
+  "publicId": "c76e3c15",
+  "wikipediaSlug": "Fernando_Delgadillo",
+  "wikipediaId": "Q5444679",
+  "name": "Fernando Delgadillo",
+  "fullName": "Fernando Delgadillo",
+  "profileSummary": "Fernando Delgadillo is a Mexican musician and composer. He is considered a major representative of the Folk music genre in Mexico often referred to as ¨Trova¨. He is considered the ¨Creador de la canción informal¨",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fernando_Delgadillo.jpg/330px-Fernando_Delgadillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Delgadillo",
+  "dateOfBirth": "1965-12-07",
+  "birthDateParsed": "1965-12-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.47",
+  "birthCoordinatesLng": "-99.29",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "musician",
+    "singer",
+    "guitarist",
+    "songwriter"
+  ],
+  "qid": "Q5444679",
+  "birthPlace": "Naucalpan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:41.784Z"
+}

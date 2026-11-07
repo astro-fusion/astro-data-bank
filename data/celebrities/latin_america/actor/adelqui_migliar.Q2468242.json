@@ -1,0 +1,37 @@
+{
+  "publicId": "be8435bd",
+  "wikipediaSlug": "Adelqui_Migliar",
+  "wikipediaId": "Q2468242",
+  "name": "Adelqui Migliar",
+  "fullName": "Adelqui Migliar",
+  "profileSummary": "Adelqui Migliar, also known as Adelqui Millar, was a Chilean film actor, director, writer and producer. He appeared in 31 silent films between 1916 and 1928. He also directed 24 films between 1922 and 1954. He was born in Concepción, Chile, and lived and worked in the Netherlands, the United Kingdom and the United States. He died in Santiago, Chile.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adelqui_Migliar.jpg/330px-Adelqui_Migliar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adelqui_Migliar",
+  "dateOfBirth": "1891-08-05",
+  "birthDateParsed": "1891-08-05",
+  "dateOfDeath": "1956-08-06",
+  "deathDateParsed": "1956-08-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "-36.826944444",
+  "birthCoordinatesLng": "-73.050277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "film director",
+    "painter",
+    "film producer"
+  ],
+  "qid": "Q2468242",
+  "birthPlace": "Concepción",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:31.472Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "24c13015",
+  "wikipediaSlug": "David_Raum",
+  "wikipediaId": "Q28540571",
+  "name": "David Raum",
+  "fullName": "David Raum",
+  "profileSummary": "David Raum is a German professional footballer who plays as a left midfielder or left-back for Bundesliga club RB Leipzig, which he captains, and the Germany national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/David_Raum_Ecuador_v_Germany_25_June_2026-117.jpg/330px-David_Raum_Ecuador_v_Germany_25_June_2026-117.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Raum",
+  "dateOfBirth": "1998-04-22",
+  "birthDateParsed": "1998-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.453888888",
+  "birthCoordinatesLng": "11.0775",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q28540571",
+  "birthPlace": "Nuremberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:17.747Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "95c98461",
+  "wikipediaSlug": "Li_Jiawei",
+  "wikipediaId": "Q254727",
+  "name": "Li Jiawei",
+  "fullName": "Li Jiawei",
+  "profileSummary": "Li Jiawei is a retired Chinese-born former Singaporean table tennis player, four-time Olympian, and twice Olympic medalist. She trained in Beijing's famous Shichahai Sports School with Olympic medalist Zhang Yining. In 1995, she moved to Singapore and in the following year, she commenced her international career as a competitive table tennis player. She became a Singapore citizen at the age of 18 under the Foreign Sports Talent Scheme.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LiJiawei-AustrianOpen-Wels-20071028-02-detail.jpg/330px-LiJiawei-AustrianOpen-Wels-20071028-02-detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Jiawei",
+  "dateOfBirth": "1981-08-09",
+  "birthDateParsed": "1981-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "table tennis player"
+  ],
+  "qid": "Q254727",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:53.884Z"
+}

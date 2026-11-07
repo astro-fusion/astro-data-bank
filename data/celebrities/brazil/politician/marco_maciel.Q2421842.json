@@ -1,0 +1,38 @@
+{
+  "publicId": "454b78b9",
+  "wikipediaSlug": "Marco_Maciel",
+  "wikipediaId": "Q2421842",
+  "name": "Marco Maciel",
+  "fullName": "Marco Maciel",
+  "profileSummary": "Marco Antônio de Oliveira Maciel was a Brazilian politician, lawyer, and law school professor who served as the 22nd vice president of Brazil from 1 January 1995 to 1 January 2003, twice elected on the same ticket as President Fernando Henrique Cardoso in the 1994 and 1998 general elections. He was a founder of the conservative PFL party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Marco_maciel_2010.jpg/330px-Marco_maciel_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Maciel",
+  "dateOfBirth": "1940-07-21",
+  "birthDateParsed": "1940-07-21",
+  "dateOfDeath": "2021-06-12",
+  "deathDateParsed": "2021-06-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "-8.053888888",
+  "birthCoordinatesLng": "-34.880833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "governor",
+    "jurist",
+    "vice president",
+    "minister"
+  ],
+  "qid": "Q2421842",
+  "birthPlace": "Recife",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:13.040Z"
+}

@@ -1,0 +1,42 @@
+{
+  "publicId": "0aef91aa",
+  "wikipediaSlug": "Bernhard_Wicki",
+  "wikipediaId": "Q78924",
+  "name": "Bernhard Wicki",
+  "fullName": "Bernhard Wicki",
+  "profileSummary": "Bernhard Wolfgang Wicki was an Austrian-Swiss actor, film director and screenwriter. He was a key figure in the revitalization of post-war German-language cinema, particularly in West Germany, and also directed several Hollywood films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/Bernhard_Wicki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernhard_Wicki",
+  "dateOfBirth": "1919-10-28",
+  "birthDateParsed": "1919-10-28",
+  "dateOfDeath": "2000-01-05",
+  "deathDateParsed": "2000-01-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.2",
+  "birthCoordinatesLng": "15.616666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "voice actor",
+    "screenwriter",
+    "film actor",
+    "television actor",
+    "photographer",
+    "director",
+    "writer",
+    "musician"
+  ],
+  "qid": "Q78924",
+  "birthPlace": "St. Pölten",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:29.603Z"
+}

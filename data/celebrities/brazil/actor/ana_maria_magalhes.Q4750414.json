@@ -1,0 +1,35 @@
+{
+  "publicId": "bc452386",
+  "wikipediaSlug": "Ana_Maria_Magalhães",
+  "wikipediaId": "Q4750414",
+  "name": "Ana Maria Magalhães",
+  "fullName": "Ana Maria Magalhães",
+  "profileSummary": "Ana Maria Portinho Magalhães is a Brazilian film actress and director.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Maria_Magalh%C3%A3es",
+  "dateOfBirth": "1950-01-21",
+  "birthDateParsed": "1950-01-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "screenwriter"
+  ],
+  "qid": "Q4750414",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:10.400Z"
+}

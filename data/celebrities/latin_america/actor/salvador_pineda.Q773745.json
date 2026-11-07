@@ -1,0 +1,33 @@
+{
+  "publicId": "e978b48c",
+  "wikipediaSlug": "Salvador_Pineda",
+  "wikipediaId": "Q773745",
+  "name": "Salvador Pineda",
+  "fullName": "Salvador Pineda",
+  "profileSummary": "Salvador Pineda Popoca is a Mexican actor, who has participated in over 20 Mexican telenovelas and Mexican movies, as well as two Hollywood low budget movies. Born to Mexican politician Salvador Pineda who served under Mexican President Adolfo Ruiz Cortines, and Gloria Pineda, house-wife. His uncle is the renowned Mexican cardiologist Ignacio Chavez Sanchez.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvador_Pineda",
+  "dateOfBirth": "1952-02-12",
+  "birthDateParsed": "1952-02-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q773745",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:21.240Z"
+}

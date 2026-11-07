@@ -1,0 +1,36 @@
+{
+  "publicId": "5ed79d53",
+  "wikipediaSlug": "Humberto_Zurita",
+  "wikipediaId": "Q939319",
+  "name": "Humberto Zurita",
+  "fullName": "Humberto Zurita",
+  "profileSummary": "Humberto Zurita Moreno is a Mexican actor, director and producer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Humberto_Zurita_in_the_1980s_%28cropped%29.jpg/330px-Humberto_Zurita_in_the_1980s_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Humberto_Zurita",
+  "dateOfBirth": "1954-09-02",
+  "birthDateParsed": "1954-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.54389",
+  "birthCoordinatesLng": "-103.41898",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "stage actor",
+    "film director",
+    "television producer"
+  ],
+  "qid": "Q939319",
+  "birthPlace": "Torreón",
+  "fetchedAt": "2026-08-16T13:16:17.393Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "a9a5611b",
+  "wikipediaSlug": "Nico_Turoff",
+  "wikipediaId": "Q1514591",
+  "name": "Nico Turoff",
+  "fullName": "Nico Turoff",
+  "profileSummary": "Nico Turoff was a Ukrainian boxer and actor. He appeared in more than one hundred films from 1926 to 1979.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_Turoff",
+  "dateOfBirth": "1899-12-06",
+  "birthDateParsed": "1899-12-06",
+  "dateOfDeath": "1978-06-22",
+  "deathDateParsed": "1978-06-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.063055555",
+  "birthCoordinatesLng": "33.403888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "boxer",
+    "actor"
+  ],
+  "qid": "Q1514591",
+  "birthPlace": "Kremenchuk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:57.041Z"
+}

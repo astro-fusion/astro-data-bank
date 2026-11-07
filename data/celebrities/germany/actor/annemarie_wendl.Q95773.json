@@ -1,0 +1,35 @@
+{
+  "publicId": "36dd8b17",
+  "wikipediaSlug": "Annemarie_Wendl",
+  "wikipediaId": "Q95773",
+  "name": "Annemarie Wendl",
+  "fullName": "Annemarie Wendl",
+  "profileSummary": "Annemarie Wendl was a German actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Annemarie_Wendl.jpg/330px-Annemarie_Wendl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annemarie_Wendl",
+  "dateOfBirth": "1914-12-26",
+  "birthDateParsed": "1914-12-26",
+  "dateOfDeath": "2006-09-03",
+  "deathDateParsed": "2006-09-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.02798",
+  "birthCoordinatesLng": "12.55857",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q95773",
+  "birthPlace": "Trostberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:44.355Z"
+}

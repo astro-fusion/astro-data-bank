@@ -1,0 +1,35 @@
+{
+  "publicId": "de8fa3d1",
+  "wikipediaSlug": "José_Justo_Corro",
+  "wikipediaId": "Q1208264",
+  "name": "José Justo Corro",
+  "fullName": "José Justo Corro",
+  "profileSummary": "José Justo Corro y Silva was a Mexican lawyer and statesman who was made president of Mexico on 2 March 1836, after the sudden death of President Miguel Barragán. During his administration, he oversaw the transition from the First Mexican Republic to the Centralist Republic of Mexico and the publication of the new constitution: the Siete Leyes. The nation also faced the ongoing Texas Revolution, and Mexican independence was recognized by Spain and by the Holy See.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jose_Justo_Corro.PNG/330px-Jose_Justo_Corro.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Justo_Corro",
+  "dateOfBirth": "1794-07-19",
+  "birthDateParsed": "1794-07-19",
+  "dateOfDeath": "1864-12-18",
+  "deathDateParsed": "1864-12-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "20.676388888",
+  "birthCoordinatesLng": "-103.342222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "minister",
+    "politician"
+  ],
+  "qid": "Q1208264",
+  "birthPlace": "Guadalajara",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:14.915Z"
+}

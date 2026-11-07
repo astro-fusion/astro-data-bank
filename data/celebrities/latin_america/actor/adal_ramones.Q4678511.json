@@ -1,0 +1,35 @@
+{
+  "publicId": "5eb3db6d",
+  "wikipediaSlug": "Adal_Ramones",
+  "wikipediaId": "Q4678511",
+  "name": "Adal Ramones",
+  "fullName": "Adal Ramones",
+  "profileSummary": "Adalberto Javier Ramones Martínez is a Mexican television presenter and comedian, known for his commentary on Mexican and international social life. Ramones was the host of the popular Mexican television show Otro Rollo, which was produced by Televisa and broadcast in 53 other countries, including the United States, where it aired on Univision.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Adal_Ramones.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adal_Ramones",
+  "dateOfBirth": "1954-12-03",
+  "birthDateParsed": "1954-12-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "comedian",
+    "television presenter",
+    "television director"
+  ],
+  "qid": "Q4678511",
+  "birthPlace": "Monterrey",
+  "fetchedAt": "2026-08-16T13:16:19.163Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "777c5abe",
+  "wikipediaSlug": "Aline_Dias",
+  "wikipediaId": "Q25443152",
+  "name": "Aline Dias",
+  "fullName": "Aline Dias",
+  "profileSummary": "Aline Dias Pacheco is a Brazilian actress and model.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aline_Dias",
+  "dateOfBirth": "1991-09-19",
+  "birthDateParsed": "1991-09-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.531944444",
+  "birthCoordinatesLng": "-42.642777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q25443152",
+  "birthPlace": "Leopoldina",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:46.366Z"
+}

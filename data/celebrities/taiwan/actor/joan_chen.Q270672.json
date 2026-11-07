@@ -1,0 +1,38 @@
+{
+  "publicId": "4fdb7cd5",
+  "wikipediaSlug": "Joan_Chen",
+  "wikipediaId": "Q270672",
+  "name": "Joan Chen",
+  "fullName": "Joan Chen",
+  "profileSummary": "Joan Chen is a Chinese-born American actress and film director. She is the recipient of numerous accolades, including four Taipei Golden Horse Awards and an AACTA Award. She made her film debut in the Chinese film Youth (1977) before starring in the film Little Flower (1979). She came to the attention of American audiences for her portrayal of Wanrong in the Bernardo Bertolucci historical epic film The Last Emperor (1987), which won nine Academy Awards including Best Picture.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Joan_Chen_Sundance_2025_Cropped_%28cropped%29.jpg/330px-Joan_Chen_Sundance_2025_Cropped_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Chen",
+  "dateOfBirth": "1961-04-26",
+  "birthDateParsed": "1961-04-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "film director",
+    "television actor",
+    "film producer",
+    "film actor"
+  ],
+  "qid": "Q270672",
+  "birthPlace": "Shanghai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:41.527Z"
+}

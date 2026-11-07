@@ -1,0 +1,33 @@
+{
+  "publicId": "45b77515",
+  "wikipediaSlug": "Fabian_Ernst",
+  "wikipediaId": "Q160890",
+  "name": "Fabian Ernst",
+  "fullName": "Fabian Ernst",
+  "profileSummary": "Fabian Ernst is a German former professional footballer who played as a midfielder. He was regarded as a two-way player who can stop the opposition and start attacks with his passing from central midfield.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fabian_Ernst_%E2%80%93_Tag_der_Legenden_2016_01.jpg/330px-Fabian_Ernst_%E2%80%93_Tag_der_Legenden_2016_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fabian_Ernst",
+  "dateOfBirth": "1979-05-30",
+  "birthDateParsed": "1979-05-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.374444444",
+  "birthCoordinatesLng": "9.738611111",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q160890",
+  "birthPlace": "Hanover",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:20.272Z"
+}

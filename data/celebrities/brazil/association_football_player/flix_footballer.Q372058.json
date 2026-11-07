@@ -1,0 +1,34 @@
+{
+  "publicId": "6a04f7e4",
+  "wikipediaSlug": "Félix_(footballer)",
+  "wikipediaId": "Q372058",
+  "name": "Félix (footballer)",
+  "fullName": "Félix (footballer)",
+  "profileSummary": "Félix Miélli Venerando was a Brazilian football player, more commonly known as Félix.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/F%C3%A9lix_Brasil.jpg/330px-F%C3%A9lix_Brasil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/F%C3%A9lix_(footballer)",
+  "dateOfBirth": "1937-12-24",
+  "birthDateParsed": "1937-12-24",
+  "dateOfDeath": "2012-08-24",
+  "deathDateParsed": "2012-08-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q372058",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:25.710Z"
+}

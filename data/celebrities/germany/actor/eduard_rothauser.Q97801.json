@@ -1,0 +1,36 @@
+{
+  "publicId": "f6cadae8",
+  "wikipediaSlug": "Eduard_Rothauser",
+  "wikipediaId": "Q97801",
+  "name": "Eduard Rothauser",
+  "fullName": "Eduard Rothauser",
+  "profileSummary": "Eduard Rothauser (1876–1956) was a Hungarian-born German actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduard_Rothauser",
+  "dateOfBirth": "1876-12-08",
+  "birthDateParsed": "1876-12-08",
+  "dateOfDeath": "1956-01-24",
+  "deathDateParsed": "1956-01-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.498333333",
+  "birthCoordinatesLng": "19.040833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "film screenwriter",
+    "film director"
+  ],
+  "qid": "Q97801",
+  "birthPlace": "Budapest",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:56.700Z"
+}

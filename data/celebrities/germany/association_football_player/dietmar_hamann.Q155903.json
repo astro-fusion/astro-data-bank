@@ -1,0 +1,34 @@
+{
+  "publicId": "c723d61d",
+  "wikipediaSlug": "Dietmar_Hamann",
+  "wikipediaId": "Q155903",
+  "name": "Dietmar Hamann",
+  "fullName": "Dietmar Hamann",
+  "profileSummary": "Dietmar Johann Wolfgang Hamann is a German football pundit and former professional player.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Hamann%2C_Dietmar_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dietmar_Hamann",
+  "dateOfBirth": "1973-08-27",
+  "birthDateParsed": "1973-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50",
+  "birthCoordinatesLng": "12.3",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q155903",
+  "birthPlace": "Waldsassen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:27.824Z"
+}

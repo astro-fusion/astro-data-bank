@@ -1,0 +1,34 @@
+{
+  "publicId": "f8050306",
+  "wikipediaSlug": "Delfim_Moreira",
+  "wikipediaId": "Q382830",
+  "name": "Delfim Moreira",
+  "fullName": "Delfim Moreira",
+  "profileSummary": "Delfim Moreira da Costa Ribeiro was a Brazilian politician who served as the tenth president of Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Delfim_Moreira_%281918%29.jpg/330px-Delfim_Moreira_%281918%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Delfim_Moreira",
+  "dateOfBirth": "1868-11-07",
+  "birthDateParsed": "1868-11-07",
+  "dateOfDeath": "1920-07-01",
+  "deathDateParsed": "1920-07-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.211944444",
+  "birthCoordinatesLng": "-45.263888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q382830",
+  "birthPlace": "Cristina",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:32.963Z"
+}

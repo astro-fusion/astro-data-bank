@@ -1,0 +1,37 @@
+{
+  "publicId": "97a30a5f",
+  "wikipediaSlug": "Simon_Yam",
+  "wikipediaId": "Q667260",
+  "name": "Simon Yam",
+  "fullName": "Simon Yam",
+  "profileSummary": "Simon Yam Tat-wah is a Hong Kong actor and film producer. He is best known for his collaborations with filmmaker Johnnie To in PTU (2003), Election (2005), Triangle (2007), and Sparrow (2008). His other notable films include SPL: Sha Po Lang (2005), Night & Fog (2009), and Echoes of the Rainbow (2010).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/151001_%EC%9E%84%EB%8B%AC%ED%99%94_%28cropped%29.jpg/330px-151001_%EC%9E%84%EB%8B%AC%ED%99%94_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Yam",
+  "dateOfBirth": "1955-03-19",
+  "birthDateParsed": "1955-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "film actor",
+    "film producer",
+    "television actor"
+  ],
+  "qid": "Q667260",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:05.282Z"
+}

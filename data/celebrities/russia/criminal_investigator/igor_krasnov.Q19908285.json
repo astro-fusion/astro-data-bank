@@ -1,0 +1,35 @@
+{
+  "publicId": "6ec68ee3",
+  "wikipediaSlug": "Igor_Krasnov",
+  "wikipediaId": "Q19908285",
+  "name": "Igor Krasnov",
+  "fullName": "Igor Krasnov",
+  "profileSummary": "Igor Viktorovich Krasnov is a Russian lawyer serving as the Chief Justice of Russia since September 24, 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Igor_Krasnov_%282025-11-05%29.png/330px-Igor_Krasnov_%282025-11-05%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Krasnov",
+  "dateOfBirth": "1975-12-24",
+  "birthDateParsed": "1975-12-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "64.543055555",
+  "birthCoordinatesLng": "40.5375",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "criminal investigator",
+    "prosecutor",
+    "judge"
+  ],
+  "qid": "Q19908285",
+  "birthPlace": "Arkhangelsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:27.083Z"
+}

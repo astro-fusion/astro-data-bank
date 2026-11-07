@@ -1,0 +1,34 @@
+{
+  "publicId": "621df5dd",
+  "wikipediaSlug": "Alexander_Gurwitsch",
+  "wikipediaId": "Q744148",
+  "name": "Alexander Gurwitsch",
+  "fullName": "Alexander Gurwitsch",
+  "profileSummary": "Alexander Gavrilovich Gurwitsch, sometimes Gurvich or Gurvitch was a Russian and later Soviet biologist and medical scientist who originated the morphogenetic field theory and discovered the biophoton.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Gurwitsch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Gurwitsch",
+  "dateOfBirth": "1874-09-26",
+  "birthDateParsed": "1874-09-26",
+  "dateOfDeath": "1954-07-27",
+  "deathDateParsed": "1954-07-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.589444444",
+  "birthCoordinatesLng": "34.551388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "cell biologist",
+    "biologist"
+  ],
+  "qid": "Q744148",
+  "birthPlace": "Poltava",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:08.209Z"
+}

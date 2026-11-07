@@ -1,0 +1,39 @@
+{
+  "publicId": "cd330335",
+  "wikipediaSlug": "Felix_Basch",
+  "wikipediaId": "Q86907",
+  "name": "Felix Basch",
+  "fullName": "Felix Basch",
+  "profileSummary": "Felix Basch (1885–1944) was an American-Austrian actor, screenwriter and film director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Felix_Basch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Felix_Basch",
+  "dateOfBirth": "1885-09-16",
+  "birthDateParsed": "1885-09-16",
+  "dateOfDeath": "1944-05-17",
+  "deathDateParsed": "1944-05-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "screenwriter",
+    "stage actor",
+    "film actor",
+    "film producer",
+    "actor",
+    "director"
+  ],
+  "qid": "Q86907",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:45.756Z"
+}

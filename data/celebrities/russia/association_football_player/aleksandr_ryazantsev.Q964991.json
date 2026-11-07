@@ -1,0 +1,33 @@
+{
+  "publicId": "b7807970",
+  "wikipediaSlug": "Aleksandr_Ryazantsev",
+  "wikipediaId": "Q964991",
+  "name": "Aleksandr Ryazantsev",
+  "fullName": "Aleksandr Ryazantsev",
+  "profileSummary": "Aleksandr Aleksandrovich Ryazantsev is a Russian football coach and a former player who works as an assistant coach with the Under-19 squad of CSKA Moscow.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aleksandr_Ryazantsev_2023.jpg/330px-Aleksandr_Ryazantsev_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Ryazantsev",
+  "dateOfBirth": "1986-09-05",
+  "birthDateParsed": "1986-09-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q964991",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:41.382Z"
+}

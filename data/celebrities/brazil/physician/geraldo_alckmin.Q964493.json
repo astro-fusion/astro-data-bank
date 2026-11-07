@@ -1,0 +1,34 @@
+{
+  "publicId": "d2891065",
+  "wikipediaSlug": "Geraldo_Alckmin",
+  "wikipediaId": "Q964493",
+  "name": "Geraldo Alckmin",
+  "fullName": "Geraldo Alckmin",
+  "profileSummary": "Geraldo José Rodrigues Alckmin Filho is a Brazilian physician and politician serving as the 26th vice president of Brazil since 2023. He previously was the Governor of São Paulo for two nonconsecutive terms, the longest serving since democratization, 2001 to 2006 and 2011 to 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/08.08.2026_-_FOTOS_OFICIAIS_-_55450293534.jpg/330px-08.08.2026_-_FOTOS_OFICIAIS_-_55450293534.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Geraldo_Alckmin",
+  "dateOfBirth": "1952-11-07",
+  "birthDateParsed": "1952-11-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.923888888",
+  "birthCoordinatesLng": "-45.461666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "politician"
+  ],
+  "qid": "Q964493",
+  "birthPlace": "Pindamonhangaba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:43.769Z"
+}

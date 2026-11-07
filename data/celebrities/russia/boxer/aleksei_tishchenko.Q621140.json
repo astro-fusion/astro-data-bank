@@ -1,0 +1,33 @@
+{
+  "publicId": "1124ba1b",
+  "wikipediaSlug": "Aleksei_Tishchenko",
+  "wikipediaId": "Q621140",
+  "name": "Aleksei Tishchenko",
+  "fullName": "Aleksei Tishchenko",
+  "profileSummary": "Aleksei Viktorovich Tishchenko is a former Russian Olympic boxer best known for dominating the lower weight classes and winning numerous titles. He was regarded as \"one of the best pound for pound Olympic boxers in the world\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aleksei_Tishchenko%2C_October_2020.jpg/330px-Aleksei_Tishchenko%2C_October_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksei_Tishchenko",
+  "dateOfBirth": "1984-05-29",
+  "birthDateParsed": "1984-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.516666666",
+  "birthCoordinatesLng": "81.2",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer"
+  ],
+  "qid": "Q621140",
+  "birthPlace": "Rubtsovsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:31.228Z"
+}

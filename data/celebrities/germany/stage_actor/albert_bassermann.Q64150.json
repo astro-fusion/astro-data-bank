@@ -1,0 +1,35 @@
+{
+  "publicId": "c597f839",
+  "wikipediaSlug": "Albert_Bassermann",
+  "wikipediaId": "Q64150",
+  "name": "Albert Bassermann",
+  "fullName": "Albert Bassermann",
+  "profileSummary": "Albert Bassermann was a German stage and screen actor. He was considered to be one of the greatest German-speaking actors of his generation and received the famous Iffland-Ring. Bassermann was nominated for the Academy Award for Best Supporting Actor for his performance in Foreign Correspondent (1940). He was married to Elsa Schiff with whom he frequently performed.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Albert_Bassermann_1918_%28cropped%29.jpg/330px-Albert_Bassermann_1918_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Bassermann",
+  "dateOfBirth": "1867-09-07",
+  "birthDateParsed": "1867-09-07",
+  "dateOfDeath": "1952-05-15",
+  "deathDateParsed": "1952-05-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.487777777",
+  "birthCoordinatesLng": "8.466111111",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q64150",
+  "birthPlace": "Mannheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:38.640Z"
+}

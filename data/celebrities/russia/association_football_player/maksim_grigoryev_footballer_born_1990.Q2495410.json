@@ -1,0 +1,33 @@
+{
+  "publicId": "b408783d",
+  "wikipediaSlug": "Maksim_Grigoryev_(footballer,_born_1990)",
+  "wikipediaId": "Q2495410",
+  "name": "Maksim Grigoryev (footballer, born 1990)",
+  "fullName": "Maksim Grigoryev (footballer, born 1990)",
+  "profileSummary": "Maksim Sergeyevich Grigoryev is a Russian professional footballer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rost-cska_%281%29.jpg/330px-Rost-cska_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maksim_Grigoryev_(footballer%2C_born_1990)",
+  "dateOfBirth": "1990-07-06",
+  "birthDateParsed": "1990-07-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.616666666",
+  "birthCoordinatesLng": "39.6",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2495410",
+  "birthPlace": "Lipetsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:22.591Z"
+}

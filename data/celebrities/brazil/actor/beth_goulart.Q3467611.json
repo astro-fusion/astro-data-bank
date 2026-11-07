@@ -1,0 +1,36 @@
+{
+  "publicId": "73c8b045",
+  "wikipediaSlug": "Beth_Goulart",
+  "wikipediaId": "Q3467611",
+  "name": "Beth Goulart",
+  "fullName": "Beth Goulart",
+  "profileSummary": "Elisabeth Xavier Miessa is a Brazilian actress, singer and playwright.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818705820452%29.jpg/330px-26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818705820452%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beth_Goulart",
+  "dateOfBirth": "1961-01-25",
+  "birthDateParsed": "1961-01-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "dancer",
+    "playwright"
+  ],
+  "qid": "Q3467611",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:07.849Z"
+}

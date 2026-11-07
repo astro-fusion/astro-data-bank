@@ -1,0 +1,35 @@
+{
+  "publicId": "fcc80a71",
+  "wikipediaSlug": "Tien_Niu",
+  "wikipediaId": "Q6799869",
+  "name": "Tien Niu",
+  "fullName": "Tien Niu",
+  "profileSummary": "Tien Niu is a Taiwanese actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%E6%81%AC%E5%A6%9E_2018.jpg/330px-%E6%81%AC%E5%A6%9E_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tien_Niu",
+  "dateOfBirth": "1958-01-23",
+  "birthDateParsed": "1958-01-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "31.3",
+  "birthCoordinatesLng": "120.619444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q6799869",
+  "birthPlace": "Suzhou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:42:00.656Z"
+}

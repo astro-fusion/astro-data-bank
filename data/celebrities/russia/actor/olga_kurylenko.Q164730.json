@@ -1,0 +1,36 @@
+{
+  "publicId": "f43acf68",
+  "wikipediaSlug": "Olga_Kurylenko",
+  "wikipediaId": "Q164730",
+  "name": "Olga Kurylenko",
+  "fullName": "Olga Kurylenko",
+  "profileSummary": "Olga Kostyantynivna Kurylenko is a Ukrainian-French actress and former model. She rose to prominence by playing the Bond girl Camille Montes in the James Bond film Quantum of Solace (2008).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Olga-Kurylenko.jpg/330px-Olga-Kurylenko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olga_Kurylenko",
+  "dateOfBirth": "1979-11-14",
+  "birthDateParsed": "1979-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "46.755555555",
+  "birthCoordinatesLng": "36.788888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "film actor",
+    "voice actor"
+  ],
+  "qid": "Q164730",
+  "birthPlace": "Berdiansk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:19.086Z"
+}

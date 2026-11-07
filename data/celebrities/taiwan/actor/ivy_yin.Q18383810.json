@@ -1,0 +1,35 @@
+{
+  "publicId": "2edb4b1c",
+  "wikipediaSlug": "Ivy_Yin",
+  "wikipediaId": "Q18383810",
+  "name": "Ivy Yin",
+  "fullName": "Ivy Yin",
+  "profileSummary": "Ivy Yin is a Taiwanese actress whose career includes roles in television films and series.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Ivy_Yin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivy_Yin",
+  "dateOfBirth": "1978-07-14",
+  "birthDateParsed": "1978-07-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.991278",
+  "birthCoordinatesLng": "121.314328",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q18383810",
+  "birthPlace": "Taoyuan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:08.071Z"
+}

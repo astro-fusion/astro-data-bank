@@ -1,0 +1,33 @@
+{
+  "publicId": "eb7fa5e3",
+  "wikipediaSlug": "Helmut_Haller",
+  "wikipediaId": "Q57375",
+  "name": "Helmut Haller",
+  "fullName": "Helmut Haller",
+  "profileSummary": "Helmut Haller was a German footballer who played as a forward. At international level, he represented West Germany at three World Cups. At club level, he played in both Germany and Italy, and won Italian league titles with Bologna and Juventus.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Helmut_Haller_-_1960s_-_Juventus_FC.jpg/330px-Helmut_Haller_-_1960s_-_Juventus_FC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helmut_Haller",
+  "dateOfBirth": "1939-07-21",
+  "birthDateParsed": "1939-07-21",
+  "dateOfDeath": "2012-10-11",
+  "deathDateParsed": "2012-10-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.368888888",
+  "birthCoordinatesLng": "10.897777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q57375",
+  "birthPlace": "Augsburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:08.196Z"
+}

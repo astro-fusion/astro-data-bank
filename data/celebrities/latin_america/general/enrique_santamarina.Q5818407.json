@@ -1,0 +1,31 @@
+{
+  "publicId": "84263565",
+  "wikipediaSlug": "Enrique_Santamarina",
+  "wikipediaId": "Q5818407",
+  "name": "Enrique Santamarina",
+  "fullName": "Enrique Santamarina",
+  "profileSummary": "Enrique Santamarina was an Argentine politician who was Vice President of Argentina from September 6, 1930 to October 20, 1930 under José Félix Uriburu, resigning due to an illness.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Enrique_santamarina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Santamarina",
+  "dateOfBirth": "1870-02-08",
+  "birthDateParsed": "1870-02-08",
+  "dateOfDeath": "1937-04-18",
+  "deathDateParsed": "1937-04-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "-37.316666666",
+  "birthCoordinatesLng": "-59.133333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q5818407",
+  "birthPlace": "Tandil",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:32.560Z"
+}

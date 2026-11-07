@@ -1,0 +1,38 @@
+{
+  "publicId": "934ec044",
+  "wikipediaSlug": "Alexander_Chizhevsky",
+  "wikipediaId": "Q1219622",
+  "name": "Alexander Chizhevsky",
+  "fullName": "Alexander Chizhevsky",
+  "profileSummary": "Alexander Leonidovich Chizhevsky was a Soviet-era interdisciplinary scientist, a biophysicist who founded \"heliobiology\" and \"aero-ionization\". He was also noted for his work in \"cosmo-biology\", biological rhythms and hematology.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/RR5110-0017R_100-%D0%BB%D0%B5%D1%82%D0%B8%D0%B5_%D1%81%D0%BE_%D0%B4%D0%BD%D1%8F_%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90.%D0%9B._%D0%A7%D0%B8%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.gif/330px-RR5110-0017R_100-%D0%BB%D0%B5%D1%82%D0%B8%D0%B5_%D1%81%D0%BE_%D0%B4%D0%BD%D1%8F_%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90.%D0%9B._%D0%A7%D0%B8%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Chizhevsky",
+  "dateOfBirth": "1897-02-07",
+  "birthDateParsed": "1897-02-07",
+  "dateOfDeath": "1964-12-20",
+  "deathDateParsed": "1964-12-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.683333333",
+  "birthCoordinatesLng": "22.5",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "inventor",
+    "physicist",
+    "philosopher",
+    "chemist",
+    "meteorologist",
+    "biophysicist"
+  ],
+  "qid": "Q1219622",
+  "birthPlace": "Ciechanowiec",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:29.155Z"
+}

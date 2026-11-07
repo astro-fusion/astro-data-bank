@@ -1,0 +1,37 @@
+{
+  "publicId": "4eab439c",
+  "wikipediaSlug": "Ana_Maria_Braga",
+  "wikipediaId": "Q1789267",
+  "name": "Ana Maria Braga",
+  "fullName": "Ana Maria Braga",
+  "profileSummary": "Ana Maria Braga Maffeis is a Brazilian television presenter and journalist. She is best known for hosting the long-running variety program Mais Você on Rede Globo, which she has presented since 1999. Before joining Globo, she gained national recognition at Rede Record, where she presented the morning show Note e Anote and the talk show Programa Ana Maria Braga. Born in São Joaquim da Barra, São Paulo, she graduated from São Paulo State University with degrees in biology and zoology. She also holds Italian citizenship through her father. In addition to her television work, she has appeared in several Brazilian films and telenovelas and has authored a number of books.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ana_Maria_Braga_in_2019_01.jpg/330px-Ana_Maria_Braga_in_2019_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Maria_Braga",
+  "dateOfBirth": "1949-04-01",
+  "birthDateParsed": "1949-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.580833333",
+  "birthCoordinatesLng": "-47.855",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "journalist",
+    "biologist",
+    "actor",
+    "singer"
+  ],
+  "qid": "Q1789267",
+  "birthPlace": "São Joaquim da Barra",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:44.985Z"
+}

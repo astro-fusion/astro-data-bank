@@ -1,0 +1,37 @@
+{
+  "publicId": "d985b1dd",
+  "wikipediaSlug": "Antonio_Nóbrega",
+  "wikipediaId": "Q4776839",
+  "name": "Antonio Nóbrega",
+  "fullName": "Antonio Nóbrega",
+  "profileSummary": "Antonio Nóbrega is a Brazilian singer, dancer and actor whose work features cultural traditions from Pernambuco.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ant%C3%B4nio_N%C3%B3brega%2C_2010_%28cropped%29.jpg/330px-Ant%C3%B4nio_N%C3%B3brega%2C_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_N%C3%B3brega",
+  "dateOfBirth": "1952-05-02",
+  "birthDateParsed": "1952-05-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-8.053888888",
+  "birthCoordinatesLng": "-34.880833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "dancer",
+    "multi-artist",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q4776839",
+  "birthPlace": "Recife",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:18.837Z"
+}

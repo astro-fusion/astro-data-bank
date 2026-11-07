@@ -1,0 +1,33 @@
+{
+  "publicId": "54c0f0a0",
+  "wikipediaSlug": "Antonia_Zegers",
+  "wikipediaId": "Q2857093",
+  "name": "Antonia Zegers",
+  "fullName": "Antonia Zegers",
+  "profileSummary": "Antonia Zegers Oportot is a Chilean actress. She has an extensive career in cinema, with participation in some of the most awarded Chilean films such as Tony Manero (2008), Post mortem (2010), La vida de los peces (2010), No (2012), El club (2015), A Fantastic Woman (2017), winner of the Academy Award for Best Foreign Language Film, and El Conde (2023).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Malaga_Film_Festival_2025_-_Antonia_Zegers-2_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Antonia_Zegers-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonia_Zegers",
+  "dateOfBirth": "1972-07-29",
+  "birthDateParsed": "1972-07-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q2857093",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:33.775Z"
+}

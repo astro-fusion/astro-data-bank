@@ -1,0 +1,37 @@
+{
+  "publicId": "ddb0f1ef",
+  "wikipediaSlug": "Lisa_Lu",
+  "wikipediaId": "Q713899",
+  "name": "Lisa Lu",
+  "fullName": "Lisa Lu",
+  "profileSummary": "Lisa Lu Yan is a Chinese-American actress. She has worked extensively in Hong Kong, American, and mainland Chinese film and television since her debut in 1958. She won the Golden Horse Awards three times, twice for Best Leading Actress and once for Best Supporting Actress, in the 1970s. She is the only person who is a member of both the Hollywood Foreign Press Association and the Academy of Motion Picture Arts and Sciences.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lisa_Lu_en_una_celebraci%C3%B3n.jpg/330px-Lisa_Lu_en_una_celebraci%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lisa_Lu",
+  "dateOfBirth": "1927-01-19",
+  "birthDateParsed": "1927-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "television actor",
+    "film actor",
+    "film producer",
+    "actor"
+  ],
+  "qid": "Q713899",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:46.098Z"
+}

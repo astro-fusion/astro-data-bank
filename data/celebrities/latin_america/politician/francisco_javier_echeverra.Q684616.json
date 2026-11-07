@@ -1,0 +1,34 @@
+{
+  "publicId": "0b46e75b",
+  "wikipediaSlug": "Francisco_Javier_Echeverría",
+  "wikipediaId": "Q684616",
+  "name": "Francisco Javier Echeverría",
+  "fullName": "Francisco Javier Echeverría",
+  "profileSummary": "Francisco Javier Echeverría was a Mexican businessman and finance minister who served as interim president of Mexico for about two weeks in late September 1841, during the fall of Anastasio Bustamante's administration.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Presidente_Francisco_Javier_Echeverr%C3%ADa.jpg/330px-Presidente_Francisco_Javier_Echeverr%C3%ADa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Javier_Echeverr%C3%ADa",
+  "dateOfBirth": "1797-07-02",
+  "birthDateParsed": "1797-07-02",
+  "dateOfDeath": "1852-09-17",
+  "deathDateParsed": "1852-09-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.53124",
+  "birthCoordinatesLng": "-96.91589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "minister"
+  ],
+  "qid": "Q684616",
+  "birthPlace": "Xalapa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:12.348Z"
+}

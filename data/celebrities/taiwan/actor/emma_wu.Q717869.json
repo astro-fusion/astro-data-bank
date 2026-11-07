@@ -1,0 +1,36 @@
+{
+  "publicId": "75fe504b",
+  "wikipediaSlug": "Emma_Wu",
+  "wikipediaId": "Q717869",
+  "name": "Emma Wu",
+  "fullName": "Emma Wu",
+  "profileSummary": "Emma Wu Ying-chieh, also known as Gui Gui, is a Taiwanese singer and actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/2019_ELLE_RUN_%E9%A2%A8%E6%A0%BC%E8%B7%AF%E8%B7%91_%E9%AC%BC%E9%AC%BC%E5%90%B3%E6%98%A0%E6%BD%94.jpg/330px-2019_ELLE_RUN_%E9%A2%A8%E6%A0%BC%E8%B7%AF%E8%B7%91_%E9%AC%BC%E9%AC%BC%E5%90%B3%E6%98%A0%E6%BD%94.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emma_Wu",
+  "dateOfBirth": "1989-08-11",
+  "birthDateParsed": "1989-08-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.12825",
+  "birthCoordinatesLng": "121.7419",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q717869",
+  "birthPlace": "Keelung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:43.099Z"
+}

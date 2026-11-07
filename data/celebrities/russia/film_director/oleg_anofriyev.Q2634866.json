@@ -1,0 +1,38 @@
+{
+  "publicId": "febb4182",
+  "wikipediaSlug": "Oleg_Anofriyev",
+  "wikipediaId": "Q2634866",
+  "name": "Oleg Anofriyev",
+  "fullName": "Oleg Anofriyev",
+  "profileSummary": "Oleg Andreyevich Anofriyev, PAR, was a Soviet and Russian theatre and film actor, voice actor, singer, songwriter, film director, and poet. He was born in Gelendzhik, but spent all his life in Moscow and graduated from Moscow Art Theatre in 1954. He was widely popular in USSR and was honored with the title Honored Artist of the RSFSR and later, People's Artist of the Russian Federation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Oleg_Anofriyev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleg_Anofriyev",
+  "dateOfBirth": "1930-07-20",
+  "birthDateParsed": "1930-07-20",
+  "dateOfDeath": "2018-03-28",
+  "deathDateParsed": "2018-03-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "44.560833333",
+  "birthCoordinatesLng": "38.076666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "singer",
+    "composer",
+    "poet",
+    "writer"
+  ],
+  "qid": "Q2634866",
+  "birthPlace": "Gelendzhik",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:05.568Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "a3c37806",
+  "wikipediaSlug": "Jacques_Breuer",
+  "wikipediaId": "Q86952",
+  "name": "Jacques Breuer",
+  "fullName": "Jacques Breuer",
+  "profileSummary": "Jacques Breuer was an Austrian screen and voice actor and film director who lived in Germany. His grandfather was the popular Austrian actor Siegfried Breuer and both his father, Siegfried Breuer Jr., and his younger brother, Pascal Breuer, are actors.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Breuer",
+  "dateOfBirth": "1956-10-20",
+  "birthDateParsed": "1956-10-20",
+  "dateOfDeath": "2024-09-05",
+  "deathDateParsed": "2024-09-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "film director",
+    "stage actor",
+    "television actor",
+    "film actor",
+    "dub actor",
+    "director"
+  ],
+  "qid": "Q86952",
+  "birthPlace": "Munich",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:13.127Z"
+}

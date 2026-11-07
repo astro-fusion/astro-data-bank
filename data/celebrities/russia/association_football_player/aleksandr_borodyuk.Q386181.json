@@ -1,0 +1,34 @@
+{
+  "publicId": "77a070db",
+  "wikipediaSlug": "Aleksandr_Borodyuk",
+  "wikipediaId": "Q386181",
+  "name": "Aleksandr Borodyuk",
+  "fullName": "Aleksandr Borodyuk",
+  "profileSummary": "Aleksandr Genrikhovich Borodyuk is a Russian football coach and former international player for USSR and Russia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aleksandr_Borodyuk.jpg/330px-Aleksandr_Borodyuk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Borodyuk",
+  "dateOfBirth": "1962-11-30",
+  "birthDateParsed": "1962-11-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.671666666",
+  "birthCoordinatesLng": "39.210555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q386181",
+  "birthPlace": "Voronezh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:43.848Z"
+}

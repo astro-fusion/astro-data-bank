@@ -1,0 +1,37 @@
+{
+  "publicId": "0fb46489",
+  "wikipediaSlug": "Elisa_Zulueta",
+  "wikipediaId": "Q5361392",
+  "name": "Elisa Zulueta",
+  "fullName": "Elisa Zulueta",
+  "profileSummary": "Elisa Zulueta is a Chilean television, theatre and film actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Goyas_2025_-_Elisa_Zulueta_%28cropped%29.jpg/330px-Goyas_2025_-_Elisa_Zulueta_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elisa_Zulueta",
+  "dateOfBirth": "1981-09-14",
+  "birthDateParsed": "1981-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "theatre director",
+    "actor",
+    "writer",
+    "podcaster",
+    "film director"
+  ],
+  "qid": "Q5361392",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:20.027Z"
+}

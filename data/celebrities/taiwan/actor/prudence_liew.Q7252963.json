@@ -1,0 +1,35 @@
+{
+  "publicId": "cc21cef7",
+  "wikipediaSlug": "Prudence_Liew",
+  "wikipediaId": "Q7252963",
+  "name": "Prudence Liew",
+  "fullName": "Prudence Liew",
+  "profileSummary": "Prudence Liew Mei-Gwan is a Hong Kong pop singer and actress. A Golden Horse Award winner and platinum selling singer, she has released 16 studio albums and appeared in numerous films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Prudence_Liew_Concert_2008-4-20.jpg/330px-Prudence_Liew_Concert_2008-4-20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prudence_Liew",
+  "dateOfBirth": "1964-12-10",
+  "birthDateParsed": "1964-12-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "songwriter",
+    "singer"
+  ],
+  "qid": "Q7252963",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:19.626Z"
+}

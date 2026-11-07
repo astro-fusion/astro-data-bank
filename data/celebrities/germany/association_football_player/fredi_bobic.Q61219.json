@@ -1,0 +1,33 @@
+{
+  "publicId": "2ea89a64",
+  "wikipediaSlug": "Fredi_Bobic",
+  "wikipediaId": "Q61219",
+  "name": "Fredi Bobic",
+  "fullName": "Fredi Bobic",
+  "profileSummary": "Fredi Bobic is a German football executive and former player who played as a striker. He is currently the head of football operations and the sporting director at Ekstraklasa club Legia Warsaw.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fredi_Bobic_Champions_for_Charity_%28cropped%29.jpg/330px-Fredi_Bobic_Champions_for_Charity_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fredi_Bobic",
+  "dateOfBirth": "1971-10-30",
+  "birthDateParsed": "1971-10-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "46.55",
+  "birthCoordinatesLng": "15.633333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q61219",
+  "birthPlace": "Maribor",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:18.914Z"
+}

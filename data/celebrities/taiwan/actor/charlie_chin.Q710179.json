@@ -1,0 +1,33 @@
+{
+  "publicId": "c3c28481",
+  "wikipediaSlug": "Charlie_Chin",
+  "wikipediaId": "Q710179",
+  "name": "Charlie Chin",
+  "fullName": "Charlie Chin",
+  "profileSummary": "Charlie Chin Hsiang-lin is a Taiwanese actor. He was born on May 19, 1948, in Nanking and grew up in Hong Kong. Throughout the twenty-four years of his acting career, Chin had participated in over one hundred films. As a member of the \"Two Qins, Two Lins\" (二秦二林), Charlie Chin is known for portraying the romantic interest of the female lead in a love triangle in Literary Romantic Films (愛情文藝片) in the 1970s. He received two Golden Horse Awards for his performance as best leading actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%E7%A7%A6%E7%A5%A5%E6%9E%97_%28cropped%29.jpg/330px-%E7%A7%A6%E7%A5%A5%E6%9E%97_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Chin",
+  "dateOfBirth": "1948-05-19",
+  "birthDateParsed": "1948-05-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "32.060833333",
+  "birthCoordinatesLng": "118.778888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q710179",
+  "birthPlace": "Nanjing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:34.679Z"
+}

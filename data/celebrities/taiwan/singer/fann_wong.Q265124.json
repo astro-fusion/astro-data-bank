@@ -1,0 +1,35 @@
+{
+  "publicId": "4bbd762a",
+  "wikipediaSlug": "Fann_Wong",
+  "wikipediaId": "Q265124",
+  "name": "Fann Wong",
+  "fullName": "Fann Wong",
+  "profileSummary": "Fann Woon Fong, known professionally as Fann Wong, is a Singaporean actress, singer, businesswoman and model. She has been referred to as one of MediaCorp's Ah Jie for being one of the most successful actresses from Singapore.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fann_Wong_20190827.jpg/330px-Fann_Wong_20190827.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fann_Wong",
+  "dateOfBirth": "1971-01-27",
+  "birthDateParsed": "1971-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "model",
+    "actor"
+  ],
+  "qid": "Q265124",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:30.166Z"
+}

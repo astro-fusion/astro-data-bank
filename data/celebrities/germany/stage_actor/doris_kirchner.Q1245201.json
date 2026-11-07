@@ -1,0 +1,35 @@
+{
+  "publicId": "d7103dae",
+  "wikipediaSlug": "Doris_Kirchner",
+  "wikipediaId": "Q1245201",
+  "name": "Doris Kirchner",
+  "fullName": "Doris Kirchner",
+  "profileSummary": "Doris Kirchner was an Austrian stage, film and television actress. Kirchner died in Ahrensburg, Germany on 26 March 2015, at the age of 84.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Doris_Kirchner",
+  "dateOfBirth": "1930-05-03",
+  "birthDateParsed": "1930-05-03",
+  "dateOfDeath": "2015-03-26",
+  "deathDateParsed": "2015-03-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.070833333",
+  "birthCoordinatesLng": "15.438611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q1245201",
+  "birthPlace": "Graz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:57.393Z"
+}

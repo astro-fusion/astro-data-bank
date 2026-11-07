@@ -1,0 +1,35 @@
+{
+  "publicId": "a09096bc",
+  "wikipediaSlug": "Juan_Perón",
+  "wikipediaId": "Q93330",
+  "name": "Juan Perón",
+  "fullName": "Juan Perón",
+  "profileSummary": "Juan Domingo Perón was an Argentine military officer and politician who was the 29th and 40th president of Argentina, serving from 1946 to his overthrow in 1955, and from 1973 until his death in 1974. He was the only Argentine president elected three times and holds the highest percentage of votes in clean elections. Perón was one of the most important, and controversial, Argentine politicians of the 20th century; his influence extends to today. Perón's ideas, policies and movement are known as Peronism, which continues to be a force in Argentine politics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Juan_Domingo_Per%C3%B3n_%28cropped%29.jpg/330px-Juan_Domingo_Per%C3%B3n_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Per%C3%B3n",
+  "dateOfBirth": "1895-10-08",
+  "birthDateParsed": "1895-10-08",
+  "dateOfDeath": "1974-07-01",
+  "deathDateParsed": "1974-07-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "-35.186388888",
+  "birthCoordinatesLng": "-59.096111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "politician",
+    "statesperson"
+  ],
+  "qid": "Q93330",
+  "birthPlace": "Lobos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:53.659Z"
+}

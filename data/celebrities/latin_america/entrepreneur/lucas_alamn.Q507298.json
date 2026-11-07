@@ -1,0 +1,41 @@
+{
+  "publicId": "0c5a3f8a",
+  "wikipediaSlug": "Lucas_Alamán",
+  "wikipediaId": "Q507298",
+  "name": "Lucas Alamán",
+  "fullName": "Lucas Alamán",
+  "profileSummary": "Lucas Alamán was a Mexican scientist, conservative statesman, historian, and writer. He came from an elite Guanajuato family and was well-traveled and highly educated. He was an eyewitness to the early fighting in the Mexican War of Independence when he witnessed the troops of insurgent leader Miguel Hidalgo y Costilla sack Guanajuato City, an incident that informed his already conservative and antidemocratic thought.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lucas_Alam%C3%A1n%2C_portrait.jpg/330px-Lucas_Alam%C3%A1n%2C_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Alam%C3%A1n",
+  "dateOfBirth": "1792-10-17",
+  "birthDateParsed": "1792-10-17",
+  "dateOfDeath": "1853-06-02",
+  "deathDateParsed": "1853-06-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "21.017777777",
+  "birthCoordinatesLng": "-101.256666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "entrepreneur",
+    "historian",
+    "politician",
+    "writer",
+    "diplomat",
+    "minister",
+    "botanist",
+    "botanical collector",
+    "scientific collector"
+  ],
+  "qid": "Q507298",
+  "birthPlace": "Guanajuato",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:53.892Z"
+}

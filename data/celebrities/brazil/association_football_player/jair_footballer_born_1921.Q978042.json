@@ -1,0 +1,34 @@
+{
+  "publicId": "4ac099a3",
+  "wikipediaSlug": "Jair_(footballer,_born_1921)",
+  "wikipediaId": "Q978042",
+  "name": "Jair (footballer, born 1921)",
+  "fullName": "Jair (footballer, born 1921)",
+  "profileSummary": "Jair da Rosa Pinto, or simply Jair, was an association footballer who played offensive midfielder – one of the leading Brazilian men's footballers of the 1940s and 1950s, who is best remembered for his performance in Brazil's 1950 FIFA World Cup campaign. Usually playing as an inside-forward, Jair da Rosa was noted for his free-role style of play and was most known for his pace and technical ability.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jair_Rosa_Pinto_%28cropped%29.jpg/330px-Jair_Rosa_Pinto_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jair_(footballer%2C_born_1921)",
+  "dateOfBirth": "1921-03-21",
+  "birthDateParsed": "1921-03-21",
+  "dateOfDeath": "2005-07-28",
+  "deathDateParsed": "2005-07-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.406944444",
+  "birthCoordinatesLng": "-44.257777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q978042",
+  "birthPlace": "Quatis",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:59.009Z"
+}

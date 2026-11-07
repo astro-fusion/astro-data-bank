@@ -1,0 +1,34 @@
+{
+  "publicId": "abfdf79f",
+  "wikipediaSlug": "Camilo_Torres_Tenorio",
+  "wikipediaId": "Q2836330",
+  "name": "Camilo Torres Tenorio",
+  "fullName": "Camilo Torres Tenorio",
+  "profileSummary": "José Camilo Clemente de Torres Tenorio was a Neogranadine independence leader and lawyer who also served as president of the United Provinces of New Granada. He is credited as being an early founder of the nation due to his role in early struggles for independence from Spain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Camilo_Torres.JPG/330px-Camilo_Torres.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Camilo_Torres_Tenorio",
+  "dateOfBirth": "1766-11-22",
+  "birthDateParsed": "1766-11-22",
+  "dateOfDeath": "1816-10-05",
+  "deathDateParsed": "1816-10-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "2.454166666",
+  "birthCoordinatesLng": "-76.609166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q2836330",
+  "birthPlace": "Popayán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:04.603Z"
+}

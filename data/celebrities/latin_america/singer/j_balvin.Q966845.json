@@ -1,0 +1,37 @@
+{
+  "publicId": "fd2904ce",
+  "wikipediaSlug": "J_Balvin",
+  "wikipediaId": "Q966845",
+  "name": "J Balvin",
+  "fullName": "J Balvin",
+  "profileSummary": "José Álvaro Osorio Balvín, known professionally as J Balvin, is a Colombian singer. He is one of the best-selling Latin artists, with 35 million records sold worldwide. Balvin was born in Medellín. At age 17, he moved to the United States to learn English, living in both Oklahoma and New York. He then returned to Medellín and gained popularity performing at clubs in the city.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg/330px-J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J_Balvin",
+  "dateOfBirth": "1985-05-07",
+  "birthDateParsed": "1985-05-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.250200154",
+  "birthCoordinatesLng": "-75.5675845",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "record producer",
+    "songwriter",
+    "collector",
+    "rapper"
+  ],
+  "qid": "Q966845",
+  "birthPlace": "Medellín",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:31.138Z"
+}

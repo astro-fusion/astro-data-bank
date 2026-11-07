@@ -1,0 +1,35 @@
+{
+  "publicId": "cac19b0c",
+  "wikipediaSlug": "Jairzinho",
+  "wikipediaId": "Q210102",
+  "name": "Jairzinho",
+  "fullName": "Jairzinho",
+  "profileSummary": "Jair Ventura Filho, better known as Jairzinho, is a Brazilian former professional footballer. A quick, skillful, and powerful right winger known for his finishing ability and eye for goal, he was a key member and leading scorer of the Brazil national team that won the 1970 FIFA World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jairzinho_1970s.jpg/330px-Jairzinho_1970s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jairzinho",
+  "dateOfBirth": "1944-12-25",
+  "birthDateParsed": "1944-12-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "beach soccer player"
+  ],
+  "qid": "Q210102",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:46.524Z"
+}

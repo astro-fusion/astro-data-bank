@@ -1,0 +1,35 @@
+{
+  "publicId": "63a65cdc",
+  "wikipediaSlug": "Arturo_Rawson",
+  "wikipediaId": "Q1991688",
+  "name": "Arturo Rawson",
+  "fullName": "Arturo Rawson",
+  "profileSummary": "Arturo Rawson was the provisional President of Argentina from June 4, 1943, to June 7, 1943.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gral._Arturo_Rawson.jpg/330px-Gral._Arturo_Rawson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arturo_Rawson",
+  "dateOfBirth": "1885-06-04",
+  "birthDateParsed": "1885-06-04",
+  "dateOfDeath": "1952-10-08",
+  "deathDateParsed": "1952-10-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "-27.784444444",
+  "birthCoordinatesLng": "-64.266944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "soldier",
+    "diplomat",
+    "politician"
+  ],
+  "qid": "Q1991688",
+  "birthPlace": "Santiago del Estero",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:39.916Z"
+}

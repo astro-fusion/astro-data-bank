@@ -1,0 +1,34 @@
+{
+  "publicId": "6eccaad9",
+  "wikipediaSlug": "Tang_Ching",
+  "wikipediaId": "Q7682663",
+  "name": "Tang Ching",
+  "fullName": "Tang Ching",
+  "profileSummary": "Tang Ching was a Chinese film actor and businessman. Born in Zhengzhou, China, he primarily worked in the Cinema of Taiwan and the Cinema of Hong Kong, and starred in at least 70 films between 1956 and 1984, most of them kung-fu films of the 1970s.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tang_Ching",
+  "dateOfBirth": "1924-01-01",
+  "birthDateParsed": "1924-01-01",
+  "dateOfDeath": "2019-07-17",
+  "deathDateParsed": "2019-07-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "34.74919",
+  "birthCoordinatesLng": "113.66051",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "film actor"
+  ],
+  "qid": "Q7682663",
+  "birthPlace": "Zhengzhou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:29.198Z"
+}

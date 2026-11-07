@@ -1,0 +1,37 @@
+{
+  "publicId": "40aefaa7",
+  "wikipediaSlug": "Baby_Bash",
+  "wikipediaId": "Q708231",
+  "name": "Baby Bash",
+  "fullName": "Baby Bash",
+  "profileSummary": "Ronald Ray Bryant, better known by his stage name Baby Bash, is an American rapper. His first two albums, Savage Dreams (2001) and On Tha Cool (2002), were released by the independent Houston-based label Dope House Records under his former stage name \"Baby Beesh\". It was changed to \"Baby Bash\" before he signed with Universal Records in 2003 and released his pop rap single, \"Suga Suga\", in July of that year. The song became his first hit, peaking at number seven on the Billboard Hot 100 and serving as lead single for his third album and major label debut, Tha Smokin' Nephew (2003).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Baby_Bash_2010.jpg/330px-Baby_Bash_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baby_Bash",
+  "dateOfBirth": "1975-10-18",
+  "birthDateParsed": "1975-10-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "38.104088",
+  "birthCoordinatesLng": "-122.256638",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "rapper",
+    "singer",
+    "songwriter",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q708231",
+  "birthPlace": "Vallejo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:49.950Z"
+}

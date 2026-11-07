@@ -1,0 +1,37 @@
+{
+  "publicId": "55ff7cef",
+  "wikipediaSlug": "Becky_G",
+  "wikipediaId": "Q1393997",
+  "name": "Becky G",
+  "fullName": "Becky G",
+  "profileSummary": "Rebbeca Marie Gomez, known professionally as Becky G, is an American singer. She first gained recognition in 2011 for her cover versions of popular songs, which she uploaded to YouTube. Her debut single \"Becky from the Block\" and her debut EP, Play It Again, were released in 2013, although both failed to chart. In 2014, Gomez achieved mainstream success with the release of \"Shower\", which reached the top twenty on the US Billboard Hot 100. In 2016, she released her first full Spanish-language single, \"Sola\", as her debut into the Latin music market.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Becky_G_2023_01.jpg/330px-Becky_G_2023_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Becky_G",
+  "dateOfBirth": "1997-03-02",
+  "birthDateParsed": "1997-03-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "33.9575",
+  "birthCoordinatesLng": "-118.346111111",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "dancer",
+    "singer",
+    "songwriter",
+    "rapper"
+  ],
+  "qid": "Q1393997",
+  "birthPlace": "Inglewood",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:51.796Z"
+}

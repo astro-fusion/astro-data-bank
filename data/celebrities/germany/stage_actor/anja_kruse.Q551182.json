@@ -1,0 +1,36 @@
+{
+  "publicId": "7c722dcd",
+  "wikipediaSlug": "Anja_Kruse",
+  "wikipediaId": "Q551182",
+  "name": "Anja Kruse",
+  "fullName": "Anja Kruse",
+  "profileSummary": "Anja Kruse is a German film and television actress. She played the title role in the 1984 historical series Beautiful Wilhelmine.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Anja_Kruse_Berlinale_2010.jpg/330px-Anja_Kruse_Berlinale_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anja_Kruse",
+  "dateOfBirth": "1956-08-05",
+  "birthDateParsed": "1956-08-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.450833333",
+  "birthCoordinatesLng": "7.013055555",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q551182",
+  "birthPlace": "Essen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:11.107Z"
+}

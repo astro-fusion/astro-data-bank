@@ -1,0 +1,35 @@
+{
+  "publicId": "fab20dc6",
+  "wikipediaSlug": "Dirk_Schuster",
+  "wikipediaId": "Q463936",
+  "name": "Dirk Schuster",
+  "fullName": "Dirk Schuster",
+  "profileSummary": "Eberhard Dirk Schuster is a German professional football manager and former player, currently in charge of Georgian Erovnuli Liga club Torpedo Kutaisi. He previously managed Darmstadt 98, among others, leading the club from the 3. Liga to the Bundesliga and being named Manager of the Year in Germany in 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dirk-Schuster-2016-07.jpg/330px-Dirk-Schuster-2016-07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dirk_Schuster",
+  "dateOfBirth": "1967-12-29",
+  "birthDateParsed": "1967-12-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.8323531",
+  "birthCoordinatesLng": "12.918914",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q463936",
+  "birthPlace": "Chemnitz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:32.697Z"
+}

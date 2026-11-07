@@ -1,0 +1,36 @@
+{
+  "publicId": "a1f8f0dc",
+  "wikipediaSlug": "Frankie_Kao",
+  "wikipediaId": "Q5491000",
+  "name": "Frankie Kao",
+  "fullName": "Frankie Kao",
+  "profileSummary": "Ko Yuan-cheng, better known by his stage names Frankie Kao and Kao Ling-feng, was a Taiwanese singer, television presenter, and actor born to Vietnamese parents of Chinese descent. His birth name was 葛元誠, and he employed the moniker the Frog Prince, which was given to him by his close friend, comedian Ni Min-jan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Frankie_Gao.jpg/330px-Frankie_Gao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frankie_Kao",
+  "dateOfBirth": "1950-02-28",
+  "birthDateParsed": "1950-02-28",
+  "dateOfDeath": "2014-02-17",
+  "deathDateParsed": "2014-02-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "22.615",
+  "birthCoordinatesLng": "120.2975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television presenter",
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q5491000",
+  "birthPlace": "Kaohsiung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:42.363Z"
+}

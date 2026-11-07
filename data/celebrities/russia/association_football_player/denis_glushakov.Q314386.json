@@ -1,0 +1,34 @@
+{
+  "publicId": "374ece74",
+  "wikipediaSlug": "Denis_Glushakov",
+  "wikipediaId": "Q314386",
+  "name": "Denis Glushakov",
+  "fullName": "Denis Glushakov",
+  "profileSummary": "Denis Borisovich Glushakov is a Russian former international footballer who played as a defensive midfielder and box-to-box midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Denis_Glushakov_in_2020.jpg/330px-Denis_Glushakov_in_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Glushakov",
+  "dateOfBirth": "1987-01-27",
+  "birthDateParsed": "1987-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.916666666",
+  "birthCoordinatesLng": "40.4",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "futsal player"
+  ],
+  "qid": "Q314386",
+  "birthPlace": "Millerovo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:08.527Z"
+}

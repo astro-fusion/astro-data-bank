@@ -1,0 +1,34 @@
+{
+  "publicId": "8648adb3",
+  "wikipediaSlug": "Abel_González_Chávez",
+  "wikipediaId": "Q4939513",
+  "name": "Abel González Chávez",
+  "fullName": "Abel González Chávez",
+  "profileSummary": "Abel González Chávez was a Colombian radio/television host. From 1996 to 2019, González hosted a daily radio program on Emisora Atlántico called Satélite.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Abel_Gonz%C3%A1lez_Ch%C3%A1vez.jpg/330px-Abel_Gonz%C3%A1lez_Ch%C3%A1vez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abel_Gonz%C3%A1lez_Ch%C3%A1vez",
+  "dateOfBirth": "1943-07-26",
+  "birthDateParsed": "1943-07-26",
+  "dateOfDeath": "2019-08-27",
+  "deathDateParsed": "2019-08-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "10.983333333",
+  "birthCoordinatesLng": "-74.801944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "radio personality",
+    "journalist"
+  ],
+  "qid": "Q4939513",
+  "birthPlace": "Barranquilla",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:58.847Z"
+}

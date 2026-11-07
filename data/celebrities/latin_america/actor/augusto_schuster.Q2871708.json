@@ -1,0 +1,35 @@
+{
+  "publicId": "5a71b329",
+  "wikipediaSlug": "Augusto_Schuster",
+  "wikipediaId": "Q2871708",
+  "name": "Augusto Schuster",
+  "fullName": "Augusto Schuster",
+  "profileSummary": "Augusto José Schuster Picó or just Augusto Schuster or the mononym Schuster is a Chilean actor, singer, dancer and model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gala_Billboard_Latin_Music_Showcase_Chile_2018_-_Augusto_Schuster_-_01.jpg/330px-Gala_Billboard_Latin_Music_Showcase_Chile_2018_-_Augusto_Schuster_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusto_Schuster",
+  "dateOfBirth": "1992-08-24",
+  "birthDateParsed": "1992-08-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-36.826944444",
+  "birthCoordinatesLng": "-73.050277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "dancer"
+  ],
+  "qid": "Q2871708",
+  "birthPlace": "Concepción",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:07.529Z"
+}

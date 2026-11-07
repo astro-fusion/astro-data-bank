@@ -1,0 +1,37 @@
+{
+  "publicId": "593d111c",
+  "wikipediaSlug": "Jimmy_Lin",
+  "wikipediaId": "Q702592",
+  "name": "Jimmy Lin",
+  "fullName": "Jimmy Lin",
+  "profileSummary": "Jimmy Lin Chih-ying is a Taiwanese singer, actor, and race car driver.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jimmy_Lin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Lin",
+  "dateOfBirth": "1974-10-15",
+  "birthDateParsed": "1974-10-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "racing automobile driver",
+    "recording artist"
+  ],
+  "qid": "Q702592",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:45.485Z"
+}

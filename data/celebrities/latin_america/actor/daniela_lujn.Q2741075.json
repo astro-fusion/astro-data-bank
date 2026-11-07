@@ -1,0 +1,34 @@
+{
+  "publicId": "60d0b2bc",
+  "wikipediaSlug": "Daniela_Luján",
+  "wikipediaId": "Q2741075",
+  "name": "Daniela Luján",
+  "fullName": "Daniela Luján",
+  "profileSummary": "Daniela Luján is a Mexican pop singer and actress. She rose to prominence with Una familia de diez, portraying Gabriela \"Gaby\" del Valle de López, and later appeared in Sortilegio as Lisette Albarrán and De que te quiero, te quiero as Karina Montiel roles that marked her artistic maturity. In her musical career, some critics have referred to her as the \"Princess of Cumbia\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Daniela_Luj%C3%A1n_en_Los_Metro_2019_%28cropped%29.jpg/330px-Daniela_Luj%C3%A1n_en_Los_Metro_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniela_Luj%C3%A1n",
+  "dateOfBirth": "1988-04-05",
+  "birthDateParsed": "1988-04-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer"
+  ],
+  "qid": "Q2741075",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:17.449Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "43f5ae4b",
+  "wikipediaSlug": "Wilhelm_Cuno",
+  "wikipediaId": "Q77179",
+  "name": "Wilhelm Cuno",
+  "fullName": "Wilhelm Cuno",
+  "profileSummary": "Wilhelm Carl Josef Cuno was a German businessman and politician who was the chancellor of Germany from 1922 to 1923 for a total of 264 days. His tenure included the beginning of the occupation of the Ruhr by French and Belgian troops and the period in which inflation in Germany accelerated towards hyperinflation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wilhelm_Cuno%2C_1876-1933%2C_half-length_portrait%2C_facing_right_LCCN2005680053.tif/lossy-page1-330px-Wilhelm_Cuno%2C_1876-1933%2C_half-length_portrait%2C_facing_right_LCCN2005680053.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilhelm_Cuno",
+  "dateOfBirth": "1876-07-02",
+  "birthDateParsed": "1876-07-02",
+  "dateOfDeath": "1933-01-03",
+  "deathDateParsed": "1933-01-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.610555555",
+  "birthCoordinatesLng": "10.693055555",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q77179",
+  "birthPlace": "Suhl",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:09:01.041Z"
+}

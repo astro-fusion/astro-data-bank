@@ -1,0 +1,35 @@
+{
+  "publicId": "551095c8",
+  "wikipediaSlug": "Cherry_Ngan",
+  "wikipediaId": "Q15923684",
+  "name": "Cherry Ngan",
+  "fullName": "Cherry Ngan",
+  "profileSummary": "Cherry Ngan is a Hong Kong singer, actress and model. She is best known for her role in the 2013 Chinese film The Way We Dance for which she nominated as best actress at both the Hong Kong Film Award and the Golden Horse Awards. As well as acting Ngan has appeared in a number of advertising campaigns including those for McDonald's, Olympus, and K-Swiss. In 2017, she released her debut single Flash (閃光).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cherry201809.jpg/330px-Cherry201809.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cherry_Ngan",
+  "dateOfBirth": "1993-12-27",
+  "birthDateParsed": "1993-12-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "singer"
+  ],
+  "qid": "Q15923684",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:28.744Z"
+}

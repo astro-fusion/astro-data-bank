@@ -1,0 +1,33 @@
+{
+  "publicId": "c8ed00b8",
+  "wikipediaSlug": "Pavel_Mamayev",
+  "wikipediaId": "Q1332571",
+  "name": "Pavel Mamayev",
+  "fullName": "Pavel Mamayev",
+  "profileSummary": "Pavel Konstantinovich Mamayev is a Russian former footballer who played as midfielder. He primarily played as a right midfielder or central midfielder. At CSKA Moscow he played as a defensive midfielder or deep-lying playmaker. On 8 May 2019, he was convicted in court of \"intended infliction of minor harm to a health official\" and sentenced to imprisonment until late 2019. He was released on 17 September 2019.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pavel_Mamayev_2019.jpg/330px-Pavel_Mamayev_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavel_Mamayev",
+  "dateOfBirth": "1988-09-17",
+  "birthDateParsed": "1988-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q1332571",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:46.685Z"
+}

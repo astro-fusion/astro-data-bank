@@ -1,0 +1,36 @@
+{
+  "publicId": "f452dd57",
+  "wikipediaSlug": "Pelagio_Antonio_de_Labastida_y_Dávalos",
+  "wikipediaId": "Q928967",
+  "name": "Pelagio Antonio de Labastida y Dávalos",
+  "fullName": "Pelagio Antonio de Labastida y Dávalos",
+  "profileSummary": "Pelagio Antonio de Labastida y Dávalos was a Roman Catholic Mexican prelate, lawyer, and doctor of canon law. He notably served as the Archbishop of Mexico (1863-1891), and was a regent of the Second Mexican Empire (1863) until eventually being dismissed from the position and replaced by Juan Bautista Ormaechea.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antonio_de_Labastida_y_D%C3%A1valos.jpg/330px-Antonio_de_Labastida_y_D%C3%A1valos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pelagio_Antonio_de_Labastida_y_D%C3%A1valos",
+  "dateOfBirth": "1816-03-21",
+  "birthDateParsed": "1816-03-21",
+  "dateOfDeath": "1891-02-04",
+  "deathDateParsed": "1891-02-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.983333333",
+  "birthCoordinatesLng": "-102.283333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "Catholic priest",
+    "politician",
+    "Catholic deacon",
+    "Catholic bishop"
+  ],
+  "qid": "Q928967",
+  "birthPlace": "Zamora de Hidalgo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:19.060Z"
+}

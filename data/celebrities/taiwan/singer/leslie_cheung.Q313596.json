@@ -1,0 +1,40 @@
+{
+  "publicId": "0042c396",
+  "wikipediaSlug": "Leslie_Cheung",
+  "wikipediaId": "Q313596",
+  "name": "Leslie Cheung",
+  "fullName": "Leslie Cheung",
+  "profileSummary": "Leslie Cheung Kwok-wing was a Hong Kong singer-songwriter and actor. One of the most influential cultural icons in the Sinophone world, Cheung was known for his debonair demeanour, flamboyant screen characters, and avant-garde, androgynous stage presence. Throughout his 26-year career, he released over 40 music albums and acted in 56 films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Leslie_Cheung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leslie_Cheung",
+  "dateOfBirth": "1956-09-12",
+  "birthDateParsed": "1956-09-12",
+  "dateOfDeath": "2003-04-01",
+  "deathDateParsed": "2003-04-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "film director",
+    "actor",
+    "songwriter",
+    "film actor",
+    "television actor",
+    "recording artist"
+  ],
+  "qid": "Q313596",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:06.763Z"
+}

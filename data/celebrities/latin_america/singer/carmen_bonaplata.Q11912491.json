@@ -1,0 +1,33 @@
+{
+  "publicId": "5e5acc0a",
+  "wikipediaSlug": "Carmen_Bonaplata",
+  "wikipediaId": "Q11912491",
+  "name": "Carmen Bonaplata",
+  "fullName": "Carmen Bonaplata",
+  "profileSummary": "Carmen Bonaplata-Bau (1871–1911) was a Spanish operatic soprano who made her début at the Teatro Dal Verme in Milan in 1886 in the title role of Verdi's Aida. From 1892, she appeared on several occasions at La Scala but also sang in New York (1896), Buenos Aires (1897) and in her native Barcelona (1902). She frequently performed the role of Aida until her retirement from the stage in 1904.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Carmen_Bonaplata_New_York-crop.jpg/330px-Carmen_Bonaplata_New_York-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmen_Bonaplata",
+  "dateOfBirth": "1869-01-25",
+  "birthDateParsed": "1869-01-25",
+  "dateOfDeath": "1911-02-11",
+  "deathDateParsed": "1911-02-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "41.3825",
+  "birthCoordinatesLng": "2.176944444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q11912491",
+  "birthPlace": "Barcelona",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:25.096Z"
+}

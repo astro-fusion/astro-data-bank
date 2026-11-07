@@ -1,0 +1,37 @@
+{
+  "publicId": "8714d77a",
+  "wikipediaSlug": "Fernando_Henrique_Cardoso",
+  "wikipediaId": "Q230578",
+  "name": "Fernando Henrique Cardoso",
+  "fullName": "Fernando Henrique Cardoso",
+  "profileSummary": "Fernando Henrique Cardoso, also known by his initials FHC, is a Brazilian sociologist, professor, and politician who served as the 34th president of Brazil from 1 January 1995 to 1 January 2003. He was the first Brazilian president to be reelected for a subsequent term. An accomplished scholar of dependency theory noted for his research on slavery and political theory, Cardoso has earned many honors including the Prince of Asturias Award for International Cooperation (2000) and the Kluge Prize from the US Library of Congress (2012).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernando_Henrique_Cardoso_%281999%29.jpg/330px-Fernando_Henrique_Cardoso_%281999%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Henrique_Cardoso",
+  "dateOfBirth": "1931-06-18",
+  "birthDateParsed": "1931-06-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "sociologist",
+    "writer",
+    "university teacher"
+  ],
+  "qid": "Q230578",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:10.473Z"
+}

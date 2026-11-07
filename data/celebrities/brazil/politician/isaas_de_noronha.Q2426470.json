@@ -1,0 +1,34 @@
+{
+  "publicId": "ec621b26",
+  "wikipediaSlug": "Isaías_de_Noronha",
+  "wikipediaId": "Q2426470",
+  "name": "Isaías de Noronha",
+  "fullName": "Isaías de Noronha",
+  "profileSummary": "José Isaías de Noronha was a Brazilian Navy Admiral who briefly served as president of Brazil while being a member of the provisional military junta of 1930. Born into a military family, Noronha took up a naval career. He served aboard ships such as Andrada and Recife and commanded ships such as Piauí, Sergipe, and Minas Geraes. In 1930, he became one of the three members of the military junta which ruled Brazil between October and November 1930. When the junta acquiesced to revolutionaries, Noronha initially remained as minister of the Navy in the administration of President Getúlio Vargas. He was also president of the Naval Club before and after the junta.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Isa%C3%ADas_de_Noronha_2%2C_sem_data.tif/lossy-page1-330px-Isa%C3%ADas_de_Noronha_2%2C_sem_data.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isa%C3%ADas_de_Noronha",
+  "dateOfBirth": "1874-07-06",
+  "birthDateParsed": "1874-07-06",
+  "dateOfDeath": "1963-01-29",
+  "deathDateParsed": "1963-01-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2426470",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:56.831Z"
+}

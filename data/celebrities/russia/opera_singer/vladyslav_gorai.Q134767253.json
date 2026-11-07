@@ -1,0 +1,33 @@
+{
+  "publicId": "22f694c9",
+  "wikipediaSlug": "Vladyslav_Gorai",
+  "wikipediaId": "Q134767253",
+  "name": "Vladyslav Gorai",
+  "fullName": "Vladyslav Gorai",
+  "profileSummary": "Vladyslav Vikentiiovych Gorai or Horay was a Ukrainian operatic tenor. Based at the Odesa Opera and Ballet Theatre, he appeared internationally. He portrayed the Duke in Verdi's Rigoletto and Rodolfo in Puccini's La bohème, but also performed contemporary opera such as the world premiere of Oleksandr Rodin's Kateryna in Odesa in September 2022.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Vladyslav_Gorai_%281a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladyslav_Gorai",
+  "dateOfBirth": "1967-08-05",
+  "birthDateParsed": "1967-08-05",
+  "dateOfDeath": "2025-06-08",
+  "deathDateParsed": "2025-06-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.768888888",
+  "birthCoordinatesLng": "29.27",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer"
+  ],
+  "qid": "Q134767253",
+  "birthPlace": "Malyn",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:42.546Z"
+}

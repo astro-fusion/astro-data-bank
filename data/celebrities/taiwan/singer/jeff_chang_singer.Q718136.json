@@ -1,0 +1,35 @@
+{
+  "publicId": "a01ab9dc",
+  "wikipediaSlug": "Jeff_Chang_(singer)",
+  "wikipediaId": "Q718136",
+  "name": "Jeff Chang (singer)",
+  "fullName": "Jeff Chang (singer)",
+  "profileSummary": "Jeff Chang Shin-che is a Taiwanese singer and actor, who is known for his numerous chart-topping sentimental Mandarin pop ballads.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/%E8%94%A1%E8%80%81%E5%B8%88%E7%9C%9F%E5%B9%BD%E9%BB%98_%E9%98%BF%E5%93%B2live%E7%9C%9F%E5%A5%BD%E5%90%AC_%E7%87%95%E5%A7%BF%E6%83%8A%E5%96%9C%E5%94%B1%E4%BA%86%E6%88%91%E4%B9%9F%E5%BE%88%E6%83%B3%E4%BB%96_%E8%80%B3%E6%9C%B5%E5%BE%88%E6%BB%A1%E8%B6%B3%E7%9A%84%E4%B8%80%E5%9C%BA%E6%8B%BC%E7%9B%98%E6%BC%94%E5%94%B1%E4%BC%9A_%E5%BC%A0%E4%BF%A1%E5%93%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeff_Chang_(singer)",
+  "dateOfBirth": "1967-03-26",
+  "birthDateParsed": "1967-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.704888888",
+  "birthCoordinatesLng": "120.476069444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "recording artist"
+  ],
+  "qid": "Q718136",
+  "birthPlace": "Yunlin County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:49.324Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "a91027f0",
+  "wikipediaSlug": "Alberto_Teisaire",
+  "wikipediaId": "Q2831838",
+  "name": "Alberto Teisaire",
+  "fullName": "Alberto Teisaire",
+  "profileSummary": "Alberto Teisaire was an Argentine naval officer and Vice President of Argentina.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Almirante_Alberto_Teisaire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Teisaire",
+  "dateOfBirth": "1891-05-20",
+  "birthDateParsed": "1891-05-20",
+  "dateOfDeath": "1963-09-11",
+  "deathDateParsed": "1963-09-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "-32.889722222",
+  "birthCoordinatesLng": "-68.844444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2831838",
+  "birthPlace": "Mendoza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:52.842Z"
+}

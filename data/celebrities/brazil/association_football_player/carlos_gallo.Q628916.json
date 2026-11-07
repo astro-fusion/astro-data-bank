@@ -1,0 +1,34 @@
+{
+  "publicId": "6392a469",
+  "wikipediaSlug": "Carlos_Gallo",
+  "wikipediaId": "Q628916",
+  "name": "Carlos Gallo",
+  "fullName": "Carlos Gallo",
+  "profileSummary": "Carlos Roberto Rocha Gallo, known as Carlos, is a Brazilian former professional footballer who played as a goalkeeper. He competed in the men's tournament at the 1976 Summer Olympics and won a gold medal in football at the 1975 Pan American Games.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Gallo",
+  "dateOfBirth": "1956-04-04",
+  "birthDateParsed": "1956-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.03",
+  "birthCoordinatesLng": "-46.975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q628916",
+  "birthPlace": "Vinhedo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:40.942Z"
+}

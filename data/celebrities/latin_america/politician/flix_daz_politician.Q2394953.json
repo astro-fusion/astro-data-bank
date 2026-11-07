@@ -1,0 +1,34 @@
+{
+  "publicId": "2c28e2c7",
+  "wikipediaSlug": "Félix_Díaz_(politician)",
+  "wikipediaId": "Q2394953",
+  "name": "Félix Díaz (politician)",
+  "fullName": "Félix Díaz (politician)",
+  "profileSummary": "Félix Díaz Prieto was a Mexican politician and general born in Oaxaca, Oaxaca. He was a leading figure in the rebellion against President Francisco I. Madero during the Mexican Revolution. He was the nephew of president Porfirio Díaz.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/F%C3%A9lix_D%C3%ADaz_(politician)",
+  "dateOfBirth": "1868-02-08",
+  "birthDateParsed": "1868-02-08",
+  "dateOfDeath": "1945-07-09",
+  "deathDateParsed": "1945-07-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.793611111",
+  "birthCoordinatesLng": "-108.996944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2394953",
+  "birthPlace": "Los Mochis",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:28.208Z"
+}

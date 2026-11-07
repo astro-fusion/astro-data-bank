@@ -1,0 +1,33 @@
+{
+  "publicId": "f919c32f",
+  "wikipediaSlug": "Artur_Yusupov_(footballer)",
+  "wikipediaId": "Q3624488",
+  "name": "Artur Yusupov (footballer)",
+  "fullName": "Artur Yusupov (footballer)",
+  "profileSummary": "Artur Rimovich Yusupov is a Russian former professional footballer who played as a central midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Artur_Yusupov_2021.jpg/330px-Artur_Yusupov_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artur_Yusupov_(footballer)",
+  "dateOfBirth": "1989-09-01",
+  "birthDateParsed": "1989-09-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.183333333",
+  "birthCoordinatesLng": "50.116666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q3624488",
+  "birthPlace": "Samara",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:48.513Z"
+}

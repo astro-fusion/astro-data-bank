@@ -1,0 +1,35 @@
+{
+  "publicId": "6eda7b95",
+  "wikipediaSlug": "Catalina_Sandino_Moreno",
+  "wikipediaId": "Q229972",
+  "name": "Catalina Sandino Moreno",
+  "fullName": "Catalina Sandino Moreno",
+  "profileSummary": "Catalina Sandino Moreno is a Colombian actress. She gained recognition for her leading titular performance in Maria Full of Grace (2004), which earned her the Silver Bear for Best Actress and a nomination for the Academy Award in the same category.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Catalina_Sandino_Moreno_at_the_61st_Cannes_Film_Festival%2C_May_2008.jpg/330px-Catalina_Sandino_Moreno_at_the_61st_Cannes_Film_Festival%2C_May_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catalina_Sandino_Moreno",
+  "dateOfBirth": "1981-04-19",
+  "birthDateParsed": "1981-04-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "painter",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q229972",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:07.153Z"
+}

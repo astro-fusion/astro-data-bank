@@ -1,0 +1,33 @@
+{
+  "publicId": "82f18589",
+  "wikipediaSlug": "Igor_Denisov",
+  "wikipediaId": "Q188921",
+  "name": "Igor Denisov",
+  "fullName": "Igor Denisov",
+  "profileSummary": "Igor Vladimirovich Denisov is a Russian former professional footballer who played as a midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Loco-Spar18_%287%29_%28cropped%29.jpg/330px-Loco-Spar18_%287%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Denisov",
+  "dateOfBirth": "1984-05-17",
+  "birthDateParsed": "1984-05-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q188921",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:11.271Z"
+}

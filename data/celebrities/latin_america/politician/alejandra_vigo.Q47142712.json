@@ -1,0 +1,34 @@
+{
+  "publicId": "df4b6a60",
+  "wikipediaSlug": "Alejandra_Vigo",
+  "wikipediaId": "Q47142712",
+  "name": "Alejandra Vigo",
+  "fullName": "Alejandra Vigo",
+  "profileSummary": "Alejandra María Vigo is an Argentine trade unionist and politician, currently serving as a National Senator for Córdoba since 2021. A member of the Justicialist Party, Vigo forms part of the provincial Hacemos por Córdoba (HPC) alliance. She was previously a National Deputy from 2017 to 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Alejandra_Mar%C3%ADa_Vigo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandra_Vigo",
+  "dateOfBirth": "1957-09-22",
+  "birthDateParsed": "1957-09-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.5375",
+  "birthCoordinatesLng": "-68.536388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "trade unionist"
+  ],
+  "qid": "Q47142712",
+  "birthPlace": "San Juan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:58.712Z"
+}

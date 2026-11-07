@@ -1,0 +1,34 @@
+{
+  "publicId": "89315367",
+  "wikipediaSlug": "Claudio_Arredondo",
+  "wikipediaId": "Q5771863",
+  "name": "Claudio Arredondo",
+  "fullName": "Claudio Arredondo",
+  "profileSummary": "Claudio Alejandro Marcelo Arredondo Medina is a Chilean film, theater and television actor and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Claudio_Arredondo_%284192308751%29_%28cropped%29.jpg/330px-Claudio_Arredondo_%284192308751%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudio_Arredondo",
+  "dateOfBirth": "1962-11-29",
+  "birthDateParsed": "1962-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "politician"
+  ],
+  "qid": "Q5771863",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:42.693Z"
+}

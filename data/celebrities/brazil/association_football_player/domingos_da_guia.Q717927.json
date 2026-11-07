@@ -1,0 +1,33 @@
+{
+  "publicId": "5b7c2ba7",
+  "wikipediaSlug": "Domingos_da_Guia",
+  "wikipediaId": "Q717927",
+  "name": "Domingos da Guia",
+  "fullName": "Domingos da Guia",
+  "profileSummary": "Domingos Antônio da Guia was a Brazilian footballer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Daguia_boca.jpg/330px-Daguia_boca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Domingos_da_Guia",
+  "dateOfBirth": "1912-11-19",
+  "birthDateParsed": "1912-11-19",
+  "dateOfDeath": "2000-05-18",
+  "deathDateParsed": "2000-05-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q717927",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:48.421Z"
+}

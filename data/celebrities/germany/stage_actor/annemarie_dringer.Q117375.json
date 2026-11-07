@@ -1,0 +1,35 @@
+{
+  "publicId": "c4186625",
+  "wikipediaSlug": "Annemarie_Düringer",
+  "wikipediaId": "Q117375",
+  "name": "Annemarie Düringer",
+  "fullName": "Annemarie Düringer",
+  "profileSummary": "\nAnnemarie Düringer was a Swiss actress. She was born in Arlesheim, Basel-Landschaft.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annemarie_D%C3%BCringer",
+  "dateOfBirth": "1925-11-26",
+  "birthDateParsed": "1925-11-26",
+  "dateOfDeath": "2014-11-26",
+  "deathDateParsed": "2014-11-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.492222222",
+  "birthCoordinatesLng": "7.620277777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q117375",
+  "birthPlace": "Arlesheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:47.171Z"
+}

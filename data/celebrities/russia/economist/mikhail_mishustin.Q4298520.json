@@ -1,0 +1,39 @@
+{
+  "publicId": "4ca92670",
+  "wikipediaSlug": "Mikhail_Mishustin",
+  "wikipediaId": "Q4298520",
+  "name": "Mikhail Mishustin",
+  "fullName": "Mikhail Mishustin",
+  "profileSummary": "Mikhail Vladimirovich Mishustin is a Russian politician and economist serving as the prime minister of Russia since 2020. He previously served as the director of the Federal Taxation Service from 2010 to 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mikhail_Mishustin_%282026-02-25%29.jpg/330px-Mikhail_Mishustin_%282026-02-25%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Mishustin",
+  "dateOfBirth": "1966-03-03",
+  "birthDateParsed": "1966-03-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "56.016666666",
+  "birthCoordinatesLng": "37.483333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician",
+    "non-fiction writer",
+    "civil servant",
+    "engineer",
+    "beamter",
+    "head of government"
+  ],
+  "qid": "Q4298520",
+  "birthPlace": "Lobnya",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:34.905Z"
+}

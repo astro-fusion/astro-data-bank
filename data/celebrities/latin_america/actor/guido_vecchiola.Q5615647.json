@@ -1,0 +1,34 @@
+{
+  "publicId": "5ef96aa7",
+  "wikipediaSlug": "Guido_Vecchiola",
+  "wikipediaId": "Q5615647",
+  "name": "Guido Vecchiola",
+  "fullName": "Guido Vecchiola",
+  "profileSummary": "Guido Vecchiola Arellano, is a Chilean actor in telenovelas, film and stage. He is of Italian and Basque descent.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Guido_Vecchiola_2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guido_Vecchiola",
+  "dateOfBirth": "1973-11-16",
+  "birthDateParsed": "1973-11-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-26.3479",
+  "birthCoordinatesLng": "-70.6224",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q5615647",
+  "birthPlace": "Chañaral",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:55.296Z"
+}

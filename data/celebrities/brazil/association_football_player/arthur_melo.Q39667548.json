@@ -1,0 +1,33 @@
+{
+  "publicId": "d15aa69e",
+  "wikipediaSlug": "Arthur_Melo",
+  "wikipediaId": "Q39667548",
+  "name": "Arthur Melo",
+  "fullName": "Arthur Melo",
+  "profileSummary": "Arthur Henrique Ramos de Oliveira Melo, known as Arthur or Arthur Melo, is a Brazilian professional footballer who plays as a midfielder for Serie A club Juventus.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_52_%28Arthur_Melo%29.jpg/330px-FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_52_%28Arthur_Melo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Melo",
+  "dateOfBirth": "1996-08-12",
+  "birthDateParsed": "1996-08-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-16.680555555",
+  "birthCoordinatesLng": "-49.256388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q39667548",
+  "birthPlace": "Goiânia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:17.275Z"
+}

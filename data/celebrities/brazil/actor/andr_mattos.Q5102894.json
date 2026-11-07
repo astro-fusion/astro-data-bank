@@ -1,0 +1,34 @@
+{
+  "publicId": "b427342f",
+  "wikipediaSlug": "André_Mattos",
+  "wikipediaId": "Q5102894",
+  "name": "André Mattos",
+  "fullName": "André Mattos",
+  "profileSummary": "André de Mello Tavares de Mattos is a Brazilian actor. Most known for his roles as Fininho on the sitcom Escolinha do Professor Raimundo, John VI of Portugal on the minisseries O Quinto dos Infernos, and Madruga on the telenovela Senhora do Destino. In cinema, his most known role is Fortunato in Elite Squad: The Enemy Within, for which he won Grande Prêmio do Cinema Brasileiro for Best Supporting Actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Andr%C3%A9_Mattos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Mattos",
+  "dateOfBirth": "1961-10-08",
+  "birthDateParsed": "1961-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q5102894",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:26.745Z"
+}

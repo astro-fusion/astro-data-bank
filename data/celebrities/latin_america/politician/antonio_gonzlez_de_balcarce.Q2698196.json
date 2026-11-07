@@ -1,0 +1,34 @@
+{
+  "publicId": "20c82835",
+  "wikipediaSlug": "Antonio_González_de_Balcarce",
+  "wikipediaId": "Q2698196",
+  "name": "Antonio González de Balcarce",
+  "fullName": "Antonio González de Balcarce",
+  "profileSummary": "Antonio González de Balcarce was an Argentine soldier and statesman of the independence era. He briefly served as interim Supreme Director of the United Provinces of the Río de la Plata between April and July 1816, and earlier led the patriot victory at the Battle of Suipacha, the first major triumph of the revolutionary forces in Upper Peru. He was also governor-intendant of Buenos Aires during 1814, and later served as second-in-command to José de San Martín in Chile.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Antonio_Gonz%C3%A1lez_Balcarce.jpg/330px-Antonio_Gonz%C3%A1lez_Balcarce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Gonz%C3%A1lez_de_Balcarce",
+  "dateOfBirth": "1774-06-24",
+  "birthDateParsed": "1774-06-24",
+  "dateOfDeath": "1819-08-05",
+  "deathDateParsed": "1819-08-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q2698196",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:29.524Z"
+}

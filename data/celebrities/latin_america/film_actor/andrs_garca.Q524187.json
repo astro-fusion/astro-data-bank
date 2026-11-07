@@ -1,0 +1,35 @@
+{
+  "publicId": "930c2a02",
+  "wikipediaSlug": "Andrés_García",
+  "wikipediaId": "Q524187",
+  "name": "Andrés García",
+  "fullName": "Andrés García",
+  "profileSummary": "Andrés García García was a Dominican-born Mexican actor. He emerged as a leading man in action and adventure films during the late 1960s and early 1970s, later becoming a popular star of telenovelas. He was nominated for an Ariel Award for Best Supporting Actor for his performance in the film El principio (1973), and won a Premios TVyNovelas for Best Actor for El Privilegio de Amar (1999).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Andres_Garcia.jpg/330px-Andres_Garcia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Garc%C3%ADa",
+  "dateOfBirth": "1941-05-24",
+  "birthDateParsed": "1941-05-24",
+  "dateOfDeath": "2023-04-04",
+  "deathDateParsed": "2023-04-04",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "18.4625",
+  "birthCoordinatesLng": "-69.936111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "stage actor",
+    "YouTuber",
+    "actor"
+  ],
+  "qid": "Q524187",
+  "birthPlace": "Santo Domingo",
+  "fetchedAt": "2026-08-16T13:16:10.218Z"
+}

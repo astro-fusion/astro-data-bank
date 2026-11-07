@@ -1,0 +1,33 @@
+{
+  "publicId": "67c86ab1",
+  "wikipediaSlug": "Edílson_(footballer,_born_1971)",
+  "wikipediaId": "Q535429",
+  "name": "Edílson (footballer, born 1971)",
+  "fullName": "Edílson (footballer, born 1971)",
+  "profileSummary": "Edílson da Silva Ferreira is a Brazilian football pundit and retired footballer who played as a forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Edilson_Capetinha_in_BBB_26.png/330px-Edilson_Capetinha_in_BBB_26.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ed%C3%ADlson_(footballer%2C_born_1971)",
+  "dateOfBirth": "1971-09-17",
+  "birthDateParsed": "1971-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.983055555",
+  "birthCoordinatesLng": "-38.492777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q535429",
+  "birthPlace": "Salvador",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:11.593Z"
+}

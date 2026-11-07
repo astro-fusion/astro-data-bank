@@ -1,0 +1,34 @@
+{
+  "publicId": "c638d262",
+  "wikipediaSlug": "Joaquín_Cordero",
+  "wikipediaId": "Q3290538",
+  "name": "Joaquín Cordero",
+  "fullName": "Joaquín Cordero",
+  "profileSummary": "Joaquín Cordero was a Mexican actor of the cinema, theatre and telenovelas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Joaqu%C3%ADn_Cordero_en_1954_%28cropped%29.jpg/330px-Joaqu%C3%ADn_Cordero_en_1954_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Cordero",
+  "dateOfBirth": "1923-08-16",
+  "birthDateParsed": "1923-08-16",
+  "dateOfDeath": "2013-02-19",
+  "deathDateParsed": "2013-02-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.051388888",
+  "birthCoordinatesLng": "-98.217777777",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q3290538",
+  "birthPlace": "Heroica Puebla de Zaragoza",
+  "fetchedAt": "2026-08-16T13:16:40.109Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "4ce35946",
+  "wikipediaSlug": "Ana_Reeves",
+  "wikipediaId": "Q4750480",
+  "name": "Ana Reeves",
+  "fullName": "Ana Reeves",
+  "profileSummary": "Ana Reeves Salinas, best known as Anita Reeves, is a Chilean television, film and theatre actress and occasional theatre director. In 2004 Reeves received the APES prize for \"Best Comedian Actress\" owing to her role in the telenovela Versus. In 2008 she received a tribute to her career on the III Festival Nacional e Internacional Teatro La Olla. In 2010, in the Pedro Sienna Awards she received the prize for \"Best Supporting Actress Performance\" for the film The Maid.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Premios_Caleuche_2019_-_2019-01-22_-_32.jpg/330px-Premios_Caleuche_2019_-_2019-01-22_-_32.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Reeves",
+  "dateOfBirth": "1946-12-22",
+  "birthDateParsed": "1946-12-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q4750480",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:37.605Z"
+}

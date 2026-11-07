@@ -1,0 +1,34 @@
+{
+  "publicId": "d19a0f2a",
+  "wikipediaSlug": "Eurico_Gaspar_Dutra",
+  "wikipediaId": "Q296679",
+  "name": "Eurico Gaspar Dutra",
+  "fullName": "Eurico Gaspar Dutra",
+  "profileSummary": "Eurico Gaspar Dutra was a Brazilian military leader and politician who served as the president of Brazil from 1946 to 1951. He was the first president of the Fourth Brazilian Republic, which followed the Vargas Regime.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/GASPARDUTRA.jpg/330px-GASPARDUTRA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurico_Gaspar_Dutra",
+  "dateOfBirth": "1883-05-18",
+  "birthDateParsed": "1883-05-18",
+  "dateOfDeath": "1974-06-11",
+  "deathDateParsed": "1974-06-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "-15.595833333",
+  "birthCoordinatesLng": "-56.096944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q296679",
+  "birthPlace": "Cuiabá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:11.917Z"
+}

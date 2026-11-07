@@ -1,0 +1,34 @@
+{
+  "publicId": "c99b8140",
+  "wikipediaSlug": "Antônio_Pompêo",
+  "wikipediaId": "Q9622736",
+  "name": "Antônio Pompêo",
+  "fullName": "Antônio Pompêo",
+  "profileSummary": "Antônio Pompêo was a Brazilian actor. He appeared in the television shows Balacobaco, Rebelde, A Casa das Sete Mulheres, O Rei do Gado, Mulheres de Areia and Pedra sobre Pedra. He also appeared in the films Xica (1976), Quilombo (1985), A Samba for Sherlock (2001) and Que sera, sera (2002). He was born in São José do Rio Preto or São José do Rio Pardo, São Paulo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Antonio_Pompeo_cropped.jpg/330px-Antonio_Pompeo_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Pomp%C3%AAo",
+  "dateOfBirth": "1953-02-23",
+  "birthDateParsed": "1953-02-23",
+  "dateOfDeath": "2016-01-05",
+  "deathDateParsed": "2016-01-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.595833333",
+  "birthCoordinatesLng": "-46.888888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q9622736",
+  "birthPlace": "São José do Rio Pardo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:47.970Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "693d44dd",
+  "wikipediaSlug": "Aldair",
+  "wikipediaId": "Q297721",
+  "name": "Aldair",
+  "fullName": "Aldair",
+  "profileSummary": "Aldair Nascimento dos Santos, known simply as Aldair, is a Brazilian retired footballer who played as a centre back, and who was part of the Brazil national team that won the 1994 FIFA World Cup.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Aldair.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aldair",
+  "dateOfBirth": "1965-11-30",
+  "birthDateParsed": "1965-11-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-14.788888888",
+  "birthCoordinatesLng": "-39.048888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q297721",
+  "birthPlace": "Ilhéus",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:15.218Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "6f47e63d",
+  "wikipediaSlug": "Annekathrin_Bürger",
+  "wikipediaId": "Q566034",
+  "name": "Annekathrin Bürger",
+  "fullName": "Annekathrin Bürger",
+  "profileSummary": "Annekathrin Bürger is a German stage, film and television actress. She was a prominent actress in East Germany, appearing in a number of films made by the state-run DEFA film studios as well as in television series such as Wolf Among Wolves (1965) set in 1920s Berlin. In 1972, she played the female lead in the Red Western Tecumseh.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bundesarchiv_Bild_183-1989-1104-050%2C_Berlin%2C_Demonstration%2C_Annekathrin_B%C3%BCrger_sang.jpg/330px-Bundesarchiv_Bild_183-1989-1104-050%2C_Berlin%2C_Demonstration%2C_Annekathrin_B%C3%BCrger_sang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annekathrin_B%C3%BCrger",
+  "dateOfBirth": "1937-04-03",
+  "birthDateParsed": "1937-04-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "singer",
+    "musician"
+  ],
+  "qid": "Q566034",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:58.465Z"
+}

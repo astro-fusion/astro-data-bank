@@ -1,0 +1,34 @@
+{
+  "publicId": "ffe155cf",
+  "wikipediaSlug": "Ana_Lima_(actress)",
+  "wikipediaId": "Q4750399",
+  "name": "Ana Lima (actress)",
+  "fullName": "Ana Lima (actress)",
+  "profileSummary": "Ana Célia Lima is a Brazilian actress. She was married to musician Gabriel o Pensador, also being his backing vocals.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ana_Lima_%28atriz%29_cropped.jpg/330px-Ana_Lima_%28atriz%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Lima_(actress)",
+  "dateOfBirth": "1973-08-28",
+  "birthDateParsed": "1973-08-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.732777777",
+  "birthCoordinatesLng": "-42.028888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q4750399",
+  "birthPlace": "Carangola",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:19.215Z"
+}

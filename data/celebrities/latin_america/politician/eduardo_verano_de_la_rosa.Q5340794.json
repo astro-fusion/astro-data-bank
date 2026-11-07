@@ -1,0 +1,33 @@
+{
+  "publicId": "a87f3bb9",
+  "wikipediaSlug": "Eduardo_Verano_de_la_Rosa",
+  "wikipediaId": "Q5340794",
+  "name": "Eduardo Verano de la Rosa",
+  "fullName": "Eduardo Verano de la Rosa",
+  "profileSummary": "Eduardo Ignacio Verano de la Rosa is a Colombian politician and businessman who is an active member of the Colombian Liberal Party. He served as Governor of Atlántico Department from 2008 to 2011 and from 2016 to 2019, and as Colombian Minister of Environment from 1997 to 1998.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eduardo_Verano_de_la_Rosa_2024.jpg/330px-Eduardo_Verano_de_la_Rosa_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Verano_de_la_Rosa",
+  "dateOfBirth": "1950-10-08",
+  "birthDateParsed": "1950-10-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "10.983333333",
+  "birthCoordinatesLng": "-74.801944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q5340794",
+  "birthPlace": "Barranquilla",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:46.704Z"
+}

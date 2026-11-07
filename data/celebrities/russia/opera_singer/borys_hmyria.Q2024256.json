@@ -1,0 +1,33 @@
+{
+  "publicId": "12c1b9b8",
+  "wikipediaSlug": "Borys_Hmyria",
+  "wikipediaId": "Q2024256",
+  "name": "Borys Hmyria",
+  "fullName": "Borys Hmyria",
+  "profileSummary": "Borys Romanovych Hmyria PAU, was a Ukrainian and Soviet bass singer of opera and art song. He was known for his vocal range and performance style through his combination of the qualities of a basso cantante and basso profondo, enabling him to perform multiple roles in performance.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coin_of_Ukraine_Hmyria_r.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Borys_Hmyria",
+  "dateOfBirth": "1903-08-05",
+  "birthDateParsed": "1903-08-05",
+  "dateOfDeath": "1969-08-01",
+  "deathDateParsed": "1969-08-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.583054119",
+  "birthCoordinatesLng": "34.482346384",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer"
+  ],
+  "qid": "Q2024256",
+  "birthPlace": "Lebedyn",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:29.890Z"
+}

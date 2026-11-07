@@ -1,0 +1,34 @@
+{
+  "publicId": "768d7d43",
+  "wikipediaSlug": "Juan_Martín_de_Pueyrredón",
+  "wikipediaId": "Q303615",
+  "name": "Juan Martín de Pueyrredón",
+  "fullName": "Juan Martín de Pueyrredón",
+  "profileSummary": "Juan Martín de Pueyrredón y O'Dogan was an Argentine general and politician of the early 19th century. He was appointed Supreme Director of the United Provinces of the Río de la Plata after the Argentine Declaration of Independence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pueyrred%C3%B3n_por_Pueyrred%C3%B3n.jpg/330px-Pueyrred%C3%B3n_por_Pueyrred%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Mart%C3%ADn_de_Pueyrred%C3%B3n",
+  "dateOfBirth": "1777-12-18",
+  "birthDateParsed": "1777-12-18",
+  "dateOfDeath": "1850-03-13",
+  "deathDateParsed": "1850-03-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q303615",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:01.296Z"
+}

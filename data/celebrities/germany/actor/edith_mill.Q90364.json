@@ -1,0 +1,34 @@
+{
+  "publicId": "809aa792",
+  "wikipediaSlug": "Edith_Mill",
+  "wikipediaId": "Q90364",
+  "name": "Edith Mill",
+  "fullName": "Edith Mill",
+  "profileSummary": "Edith Mill was an Austrian stage and film actress. Her real name was Edith Rosalia Martha Müll,",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edith_Mill",
+  "dateOfBirth": "1925-08-16",
+  "birthDateParsed": "1925-08-16",
+  "dateOfDeath": "2007-11-10",
+  "deathDateParsed": "2007-11-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q90364",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:46.728Z"
+}

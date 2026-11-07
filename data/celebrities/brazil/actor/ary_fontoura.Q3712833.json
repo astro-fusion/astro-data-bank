@@ -1,0 +1,35 @@
+{
+  "publicId": "9af83da6",
+  "wikipediaSlug": "Ary_Fontoura",
+  "wikipediaId": "Q3712833",
+  "name": "Ary Fontoura",
+  "fullName": "Ary Fontoura",
+  "profileSummary": "Ary Beira Fontoura is a Brazilian actor, writer, director, poet, blogger and TV-presenter. He was born in Curitiba, Paraná.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ary_Fontoura.jpg/330px-Ary_Fontoura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ary_Fontoura",
+  "dateOfBirth": "1933-01-27",
+  "birthDateParsed": "1933-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-25.429722222",
+  "birthCoordinatesLng": "-49.271944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q3712833",
+  "birthPlace": "Curitiba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:55.533Z"
+}

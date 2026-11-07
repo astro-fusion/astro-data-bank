@@ -1,0 +1,36 @@
+{
+  "publicId": "9eb4e1f2",
+  "wikipediaSlug": "Brigitte_Horney",
+  "wikipediaId": "Q68898",
+  "name": "Brigitte Horney",
+  "fullName": "Brigitte Horney",
+  "profileSummary": "Brigitte Horney was a German theatre and film actress. Best remembered was her role as Empress Katherine the Great in the 1943 version of the UFA film version of Baron Münchhausen, directed by Josef von Báky, with Hans Albers in the title role.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c5/Brigitte_Horney_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigitte_Horney",
+  "dateOfBirth": "1911-03-29",
+  "birthDateParsed": "1911-03-29",
+  "dateOfDeath": "1988-07-27",
+  "deathDateParsed": "1988-07-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q68898",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:57.045Z"
+}

@@ -1,0 +1,31 @@
+{
+  "publicId": "55f807ff",
+  "wikipediaSlug": "Carlos_Pellegrini",
+  "wikipediaId": "Q270446",
+  "name": "Carlos Pellegrini",
+  "fullName": "Carlos Pellegrini",
+  "profileSummary": "Carlos Enrique José Pellegrini Bevans was Vice President of Argentina and became President of Argentina from August 6, 1890 to October 12, 1892, upon Miguel Ángel Juárez Celman's resignation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Retrato_de_Carlos_Pellegrini.jpg/330px-Retrato_de_Carlos_Pellegrini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Pellegrini",
+  "dateOfBirth": "1846-10-11",
+  "birthDateParsed": "1846-10-11",
+  "dateOfDeath": "1906-07-17",
+  "deathDateParsed": "1906-07-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q270446",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:59.193Z"
+}

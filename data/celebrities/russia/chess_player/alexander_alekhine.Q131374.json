@@ -1,0 +1,37 @@
+{
+  "publicId": "958d967a",
+  "wikipediaSlug": "Alexander_Alekhine",
+  "wikipediaId": "Q131374",
+  "name": "Alexander Alekhine",
+  "fullName": "Alexander Alekhine",
+  "profileSummary": "Alexander Alexandrovich Alekhine was a Russian and French chess player and the fourth World Chess Champion, a title he held for two reigns.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alexandre_Alekhine_01.jpg/330px-Alexandre_Alekhine_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Alekhine",
+  "dateOfBirth": "1892-10-10",
+  "birthDateParsed": "1892-10-10",
+  "dateOfDeath": "1946-03-24",
+  "deathDateParsed": "1946-03-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chess player",
+    "chess theoretician",
+    "writer",
+    "jurist",
+    "translator"
+  ],
+  "qid": "Q131374",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:45:53.296Z"
+}

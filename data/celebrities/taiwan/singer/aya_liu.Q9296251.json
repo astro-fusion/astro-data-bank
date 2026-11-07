@@ -1,0 +1,36 @@
+{
+  "publicId": "782f9ade",
+  "wikipediaSlug": "Aya_Liu",
+  "wikipediaId": "Q9296251",
+  "name": "Aya Liu",
+  "fullName": "Aya Liu",
+  "profileSummary": "Aya Liu is a Taiwanese television host, singer and actress. Liu won the Best Host in a Variety Programme Award at the Golden Bell Awards in 2008 for co-hosting Guess.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aya_Liu",
+  "dateOfBirth": "1978-09-14",
+  "birthDateParsed": "1978-09-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q9296251",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:35.392Z"
+}

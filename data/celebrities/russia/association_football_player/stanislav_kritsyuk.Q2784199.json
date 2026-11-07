@@ -1,0 +1,33 @@
+{
+  "publicId": "2d395cbd",
+  "wikipediaSlug": "Stanislav_Kritsyuk",
+  "wikipediaId": "Q2784199",
+  "name": "Stanislav Kritsyuk",
+  "fullName": "Stanislav Kritsyuk",
+  "profileSummary": "Stanislav Vasilyevich Kritsyuk is a Russian former professional footballer who played as a goalkeeper.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Stanislav-kritsyuk-zenit-2021.jpg/330px-Stanislav-kritsyuk-zenit-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stanislav_Kritsyuk",
+  "dateOfBirth": "1990-12-01",
+  "birthDateParsed": "1990-12-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "53.516666666",
+  "birthCoordinatesLng": "49.416666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2784199",
+  "birthPlace": "Tolyatti",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:57.885Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "b0319c41",
+  "wikipediaSlug": "Pablo_Montero",
+  "wikipediaId": "Q521235",
+  "name": "Pablo Montero",
+  "fullName": "Pablo Montero",
+  "profileSummary": "Pablo Montero is a Mexican singer and actor. Montero's primary profession is singing, but he also acts regularly in telenovelas produced by Televisa productions in supporting roles. Montero is widely recognized and considered one of the most popular supporting actors in telenovelas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pablo_Montero%2C_2011.jpg/330px-Pablo_Montero%2C_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pablo_Montero",
+  "dateOfBirth": "1974-08-23",
+  "birthDateParsed": "1974-08-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "25.54389",
+  "birthCoordinatesLng": "-103.41898",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "television actor",
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q521235",
+  "birthPlace": "Torreón",
+  "fetchedAt": "2026-08-16T13:16:42.535Z"
+}

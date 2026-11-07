@@ -1,0 +1,33 @@
+{
+  "publicId": "5602d947",
+  "wikipediaSlug": "Leivinha",
+  "wikipediaId": "Q2306110",
+  "name": "Leivinha",
+  "fullName": "Leivinha",
+  "profileSummary": "João Leiva Campos Filho, usually called Leivinha, was a Brazilian footballer who played as a forward or as a winger.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leivinha.jpg/330px-Leivinha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leivinha",
+  "dateOfBirth": "1949-09-11",
+  "birthDateParsed": "1949-09-11",
+  "dateOfDeath": "2026-06-04",
+  "deathDateParsed": "2026-06-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.467777777",
+  "birthCoordinatesLng": "-49.220833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2306110",
+  "birthPlace": "Novo Horizonte",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:59.739Z"
+}

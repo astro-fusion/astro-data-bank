@@ -1,0 +1,35 @@
+{
+  "publicId": "c8c620a0",
+  "wikipediaSlug": "Bobby_Chen",
+  "wikipediaId": "Q3641390",
+  "name": "Bobby Chen",
+  "fullName": "Bobby Chen",
+  "profileSummary": "Bobby Chen is a Taiwanese singer and record producer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E9%99%B3%E6%98%87.jpg/330px-%E9%99%B3%E6%98%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Chen",
+  "dateOfBirth": "1958-10-29",
+  "birthDateParsed": "1958-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.1156",
+  "birthCoordinatesLng": "120.535",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "record producer",
+    "presenter"
+  ],
+  "qid": "Q3641390",
+  "birthPlace": "Hsichou Township",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:37.824Z"
+}

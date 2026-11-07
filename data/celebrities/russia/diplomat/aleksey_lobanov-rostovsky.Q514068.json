@@ -1,0 +1,40 @@
+{
+  "publicId": "7efe5e37",
+  "wikipediaSlug": "Aleksey_Lobanov-Rostovsky",
+  "wikipediaId": "Q514068",
+  "name": "Aleksey Lobanov-Rostovsky",
+  "fullName": "Aleksey Lobanov-Rostovsky",
+  "profileSummary": "Prince Aleksey Borisovich Lobanov-Rostovsky was a Russian statesman, probably best remembered for having concluded the Li-Lobanov Treaty with China, the Peace of Constantinople with the Ottoman Empire, and for his publication of the Russian Genealogical Book.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lobanov.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksey_Lobanov-Rostovsky",
+  "dateOfBirth": "1824-12-30",
+  "birthDateParsed": "1824-12-30",
+  "dateOfDeath": "1896-08-30",
+  "deathDateParsed": "1896-08-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.6667",
+  "birthCoordinatesLng": "39.2167",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "coin collecting",
+    "numismatist",
+    "genealogist",
+    "collector",
+    "civil servant",
+    "politician",
+    "ambassador"
+  ],
+  "qid": "Q514068",
+  "birthPlace": "Voronezh Governorate",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:33.127Z"
+}

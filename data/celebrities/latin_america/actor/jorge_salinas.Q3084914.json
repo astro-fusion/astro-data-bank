@@ -1,0 +1,33 @@
+{
+  "publicId": "fa2023d6",
+  "wikipediaSlug": "Jorge_Salinas",
+  "wikipediaId": "Q3084914",
+  "name": "Jorge Salinas",
+  "fullName": "Jorge Salinas",
+  "profileSummary": "Jorge Salinas Pérez is a Mexican television and film actor, best known for his leading roles in telenovelas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Jorge_Salinas_Perez.jpg/330px-Jorge_Salinas_Perez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Salinas",
+  "dateOfBirth": "1968-07-27",
+  "birthDateParsed": "1968-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q3084914",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:04.187Z"
+}

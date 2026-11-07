@@ -1,0 +1,36 @@
+{
+  "publicId": "ea1ca0ed",
+  "wikipediaSlug": "Cheer_Chen",
+  "wikipediaId": "Q710513",
+  "name": "Cheer Chen",
+  "fullName": "Cheer Chen",
+  "profileSummary": "Cheer Chen Chi-chen is a Taiwanese singer-songwriter. Her most recent album, Sofa Sea, was released in 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cheer_Chen_%28cropped%29.jpg/330px-Cheer_Chen_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cheer_Chen",
+  "dateOfBirth": "1975-06-06",
+  "birthDateParsed": "1975-06-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "pianist",
+    "songwriter",
+    "recording artist"
+  ],
+  "qid": "Q710513",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:00.282Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "edd3ef1b",
+  "wikipediaSlug": "Hou_Hsiao-hsien",
+  "wikipediaId": "Q435626",
+  "name": "Hou Hsiao-hsien",
+  "fullName": "Hou Hsiao-hsien",
+  "profileSummary": "Hou Hsiao-hsien is a retired Taiwanese film director, screenwriter, producer and actor. He is a leading figure in world cinema and in Taiwan's New Wave cinema movement. He won the Golden Lion at the Venice Film Festival in 1989 for his film A City of Sadness (1989), and the Best Director award at the Cannes Film Festival in 2015 for The Assassin (2015). Other highly regarded works of his include The Puppetmaster (1993) and Flowers of Shanghai (1998).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_Assassin_Paris_premiere_7.JPG/330px-The_Assassin_Paris_premiere_7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hou_Hsiao-hsien",
+  "dateOfBirth": "1947-04-08",
+  "birthDateParsed": "1947-04-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.321388888",
+  "birthCoordinatesLng": "116.119444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "singer",
+    "screenwriter",
+    "film actor",
+    "film producer",
+    "television actor",
+    "director"
+  ],
+  "qid": "Q435626",
+  "birthPlace": "Meixian District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:55.855Z"
+}

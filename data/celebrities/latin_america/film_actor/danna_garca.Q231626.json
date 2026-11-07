@@ -1,0 +1,35 @@
+{
+  "publicId": "5a4d223f",
+  "wikipediaSlug": "Danna_García",
+  "wikipediaId": "Q231626",
+  "name": "Danna García",
+  "fullName": "Danna García",
+  "profileSummary": "Danna María García Osuna is a Colombian actress and model best known for playing main roles in telenovelas in Colombia, Mexico and the US.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Danna_Garc%C3%ADa.png/330px-Danna_Garc%C3%ADa.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danna_Garc%C3%ADa",
+  "dateOfBirth": "1978-02-04",
+  "birthDateParsed": "1978-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.250200154",
+  "birthCoordinatesLng": "-75.5675845",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor",
+    "musician"
+  ],
+  "qid": "Q231626",
+  "birthPlace": "Medellín",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:37.562Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "7a034cb3",
+  "wikipediaSlug": "Christoph_Metzelder",
+  "wikipediaId": "Q152984",
+  "name": "Christoph Metzelder",
+  "fullName": "Christoph Metzelder",
+  "profileSummary": "Christoph Tobias Metzelder is a German former professional footballer who played as a centre-back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2016-02-01_1054_Christoph_Metzelder_%28cropped%29.JPG/330px-2016-02-01_1054_Christoph_Metzelder_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christoph_Metzelder",
+  "dateOfBirth": "1980-11-05",
+  "birthDateParsed": "1980-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.75",
+  "birthCoordinatesLng": "7.183333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "functionary"
+  ],
+  "qid": "Q152984",
+  "birthPlace": "Haltern am See",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:05.940Z"
+}

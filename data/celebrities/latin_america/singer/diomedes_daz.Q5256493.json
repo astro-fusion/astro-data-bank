@@ -1,0 +1,34 @@
+{
+  "publicId": "1ab47e90",
+  "wikipediaSlug": "Diomedes_Díaz",
+  "wikipediaId": "Q5256493",
+  "name": "Diomedes Díaz",
+  "fullName": "Diomedes Díaz",
+  "profileSummary": "Diomedes Díaz Maestre was a Colombian vallenato singer and composer. He has been named the \"King of Vallenato\" and is nicknamed El Cacique de La Junta, which was given to him by another vallenato singer, Rafael Orozco Maestre, in honor of Díaz's birthplace. Diomedes is the greatest Colombian singer-songwriter of vallenato music and the biggest seller of records in that musical genre, surpassing 20 million copies.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Diomedesdiaz2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diomedes_D%C3%ADaz",
+  "dateOfBirth": "1957-05-26",
+  "birthDateParsed": "1957-05-26",
+  "dateOfDeath": "2013-12-22",
+  "deathDateParsed": "2013-12-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "10.770833333",
+  "birthCoordinatesLng": "-73.003055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer"
+  ],
+  "qid": "Q5256493",
+  "birthPlace": "San Juan del Cesar",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:09.793Z"
+}

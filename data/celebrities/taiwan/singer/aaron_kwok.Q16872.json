@@ -1,0 +1,38 @@
+{
+  "publicId": "de6ae177",
+  "wikipediaSlug": "Aaron_Kwok",
+  "wikipediaId": "Q16872",
+  "name": "Aaron Kwok",
+  "fullName": "Aaron Kwok",
+  "profileSummary": "Aaron Kwok Fu-shing is a Hong Kong singer, dancer, and actor, known as one of Hong Kong's \"Four Heavenly Kings\". Active since the 1980s, he has released over 30 studio albums in Cantonese and Mandarin, mostly in the dance-pop genre, with elements of rock, R&B, soul, electronica and traditional Chinese music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aaron_Kwok_at_the_Tokyo_International_Film_Festival_-_2019_%2849014147617%29_%28cropped%29.jpg/330px-Aaron_Kwok_at_the_Tokyo_International_Film_Festival_-_2019_%2849014147617%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Kwok",
+  "dateOfBirth": "1965-10-26",
+  "birthDateParsed": "1965-10-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "racing automobile driver",
+    "film actor",
+    "television actor",
+    "recording artist"
+  ],
+  "qid": "Q16872",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:01.797Z"
+}

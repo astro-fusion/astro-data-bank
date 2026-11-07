@@ -1,0 +1,38 @@
+{
+  "publicId": "72b744c2",
+  "wikipediaSlug": "Shu_Qi",
+  "wikipediaId": "Q233859",
+  "name": "Shu Qi",
+  "fullName": "Shu Qi",
+  "profileSummary": "Lin Li-hui, known professionally as Shu Qi, is a Taiwanese actress and filmmaker. One of Asia's most successful actors, she won four Hong Kong Film Awards, two Golden Horse Awards, an Asian Film Award, and served on the main competition jury at Berlinale, Cannes and Venice Film Festival. Shu first gained recognition in Viva Erotica (1996). Since then, she has collaborated with director Hou Hsiao-hsien on three films: Millennium Mambo (2001), Three Times (2005), and The Assassin (2015). She also starred in the film series If You Are the One (2008-2025), A Beautiful Life (2011), Journey to the West: Conquering the Demons (2013), and Gone with the Bullets (2014). She made her directorial debut with Girl (2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Shu_Qi_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg/330px-Shu_Qi_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shu_Qi",
+  "dateOfBirth": "1976-04-16",
+  "birthDateParsed": "1976-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.95",
+  "birthCoordinatesLng": "121.53333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "model",
+    "film actor",
+    "television actor",
+    "film director"
+  ],
+  "qid": "Q233859",
+  "birthPlace": "Xindian District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:09.944Z"
+}

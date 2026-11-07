@@ -1,0 +1,33 @@
+{
+  "publicId": "60b69077",
+  "wikipediaSlug": "Prince_Maximilian_of_Baden",
+  "wikipediaId": "Q76908",
+  "name": "Prince Maximilian of Baden",
+  "fullName": "Prince Maximilian of Baden",
+  "profileSummary": "Maximilian, Margrave of Baden, also known as Max von Baden, was a German aristocrat, general and politician. A member of the House of Baden, in October and November 1918 he briefly served as the last chancellor of the German Empire and minister-president of Prussia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bundesarchiv_Bild_183-R04103%2C_Prinz_Max_von_Baden%28cropped%29.jpg/330px-Bundesarchiv_Bild_183-R04103%2C_Prinz_Max_von_Baden%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Maximilian_of_Baden",
+  "dateOfBirth": "1867-07-10",
+  "birthDateParsed": "1867-07-10",
+  "dateOfDeath": "1929-11-06",
+  "deathDateParsed": "1929-11-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.761944444",
+  "birthCoordinatesLng": "8.240833333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q76908",
+  "birthPlace": "Baden-Baden",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:51.356Z"
+}

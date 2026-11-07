@@ -1,0 +1,33 @@
+{
+  "publicId": "7adedc84",
+  "wikipediaSlug": "El_Chapo_de_Sinaloa",
+  "wikipediaId": "Q3049789",
+  "name": "El Chapo de Sinaloa",
+  "fullName": "El Chapo de Sinaloa",
+  "profileSummary": "Ernesto Pérez better known by his stage name El Chapo de Sinaloa, is a regional Mexican singer and actor. He started out professionally as a norteño singer, but has since been primarily focused with banda, as well as some mariachi songs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jo%C5%9Be_Manuel_Figueroa_with_El_Chapo_de_Sinaloa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Chapo_de_Sinaloa",
+  "dateOfBirth": "1968-10-23",
+  "birthDateParsed": "1968-10-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.365277777",
+  "birthCoordinatesLng": "-107.550833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q3049789",
+  "birthPlace": "Culiacán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:24:06.063Z"
+}

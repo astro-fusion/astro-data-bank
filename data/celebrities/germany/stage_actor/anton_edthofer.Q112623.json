@@ -1,0 +1,35 @@
+{
+  "publicId": "75cfe04d",
+  "wikipediaSlug": "Anton_Edthofer",
+  "wikipediaId": "Q112623",
+  "name": "Anton Edthofer",
+  "fullName": "Anton Edthofer",
+  "profileSummary": "Anton Franz Edthofer was an Austrian actor. He married Helene Thimig on December 4, 1948 and they remained married until his death.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Anton_Edthofer_%281883%E2%80%931971%29_um_1918.jpg/330px-Anton_Edthofer_%281883%E2%80%931971%29_um_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton_Edthofer",
+  "dateOfBirth": "1883-09-18",
+  "birthDateParsed": "1883-09-18",
+  "dateOfDeath": "1971-02-25",
+  "deathDateParsed": "1971-02-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q112623",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:53.314Z"
+}

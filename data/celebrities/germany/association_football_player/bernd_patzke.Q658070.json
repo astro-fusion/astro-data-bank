@@ -1,0 +1,34 @@
+{
+  "publicId": "609118cf",
+  "wikipediaSlug": "Bernd_Patzke",
+  "wikipediaId": "Q658070",
+  "name": "Bernd Patzke",
+  "fullName": "Bernd Patzke",
+  "profileSummary": "Bernd Patzke is a German former football player and manager.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bernd_Patzke_%28cropped%29.png/330px-Bernd_Patzke_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernd_Patzke",
+  "dateOfBirth": "1943-03-14",
+  "birthDateParsed": "1943-03-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q658070",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:04.555Z"
+}

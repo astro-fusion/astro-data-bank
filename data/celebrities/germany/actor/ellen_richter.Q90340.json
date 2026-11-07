@@ -1,0 +1,35 @@
+{
+  "publicId": "05570ef1",
+  "wikipediaSlug": "Ellen_Richter",
+  "wikipediaId": "Q90340",
+  "name": "Ellen Richter",
+  "fullName": "Ellen Richter",
+  "profileSummary": "Ellen Richter was an Austrian film actress of the silent era. She was married to Willi Wolff, who directed many of her films. Ellen Richter composed her own production company to create her films. She worked primarily in Germany and was one of the foremost actresses of Weimar cinema.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ellen_Richter_Binder2.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_Richter",
+  "dateOfBirth": "1891-07-28",
+  "birthDateParsed": "1891-07-28",
+  "dateOfDeath": "1969-09-11",
+  "deathDateParsed": "1969-09-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "film actor"
+  ],
+  "qid": "Q90340",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:55.590Z"
+}

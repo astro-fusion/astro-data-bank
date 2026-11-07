@@ -1,0 +1,37 @@
+{
+  "publicId": "37567c6e",
+  "wikipediaSlug": "Aribert_Wäscher",
+  "wikipediaId": "Q110687",
+  "name": "Aribert Wäscher",
+  "fullName": "Aribert Wäscher",
+  "profileSummary": "Aribert Wäscher was a German film actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fotothek_df_pk_0000055_036_Szenenbilder.jpg/330px-Fotothek_df_pk_0000055_036_Szenenbilder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aribert_W%C3%A4scher",
+  "dateOfBirth": "1895-12-01",
+  "birthDateParsed": "1895-12-01",
+  "dateOfDeath": "1961-12-14",
+  "deathDateParsed": "1961-12-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "54.781944444",
+  "birthCoordinatesLng": "9.436666666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "director",
+    "writer"
+  ],
+  "qid": "Q110687",
+  "birthPlace": "Flensburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:56.217Z"
+}

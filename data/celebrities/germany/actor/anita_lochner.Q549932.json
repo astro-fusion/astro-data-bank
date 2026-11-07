@@ -1,0 +1,38 @@
+{
+  "publicId": "5dcb95eb",
+  "wikipediaSlug": "Anita_Lochner",
+  "wikipediaId": "Q549932",
+  "name": "Anita Lochner",
+  "fullName": "Anita Lochner",
+  "profileSummary": "Anita Lochner is a German film and television actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anita_Lochner",
+  "dateOfBirth": "1950-04-24",
+  "birthDateParsed": "1950-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.110555555",
+  "birthCoordinatesLng": "8.682222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "television actor",
+    "film actor",
+    "dub actor",
+    "translator"
+  ],
+  "qid": "Q549932",
+  "birthPlace": "Frankfurt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:01.712Z"
+}

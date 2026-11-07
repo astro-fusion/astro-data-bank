@@ -1,0 +1,35 @@
+{
+  "publicId": "63ca2387",
+  "wikipediaSlug": "Roy_Chiao",
+  "wikipediaId": "Q1346626",
+  "name": "Roy Chiao",
+  "fullName": "Roy Chiao",
+  "profileSummary": "Roy Chiao Hung was a Hong Kong-American actor. Nicknamed \"the Lion of Cinema\" for his athletic physical stature and powerful screen presence, he was a popular leading man throughout the 1950s and '60s, and continued his acting career well into the 1990s. He was an early star of wuxia films associated with the Hong Kong New Wave, thanks to his roles in A Touch of Zen (1971) and The Fate of Lee Khan (1973), both directed by King Hu.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f0/Roy_Chiao_as_Lao_Che.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roy_Chiao",
+  "dateOfBirth": "1927-03-16",
+  "birthDateParsed": "1927-03-16",
+  "dateOfDeath": "1999-04-15",
+  "deathDateParsed": "1999-04-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q1346626",
+  "birthPlace": "Shanghai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:02.758Z"
+}

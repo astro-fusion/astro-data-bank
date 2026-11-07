@@ -1,0 +1,33 @@
+{
+  "publicId": "071b865f",
+  "wikipediaSlug": "Leandro_(footballer,_born_1959)",
+  "wikipediaId": "Q969872",
+  "name": "Leandro (footballer, born 1959)",
+  "fullName": "Leandro (footballer, born 1959)",
+  "profileSummary": "José Leandro de Souza Ferreira, known as Leandro, is a Brazilian former footballer who played as a defender.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leandro_(footballer%2C_born_1959)",
+  "dateOfBirth": "1959-03-17",
+  "birthDateParsed": "1959-03-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.878888888",
+  "birthCoordinatesLng": "-42.018888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q969872",
+  "birthPlace": "Cabo Frio",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:50.953Z"
+}

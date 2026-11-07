@@ -1,0 +1,34 @@
+{
+  "publicId": "d65afd37",
+  "wikipediaSlug": "Diniyar_Bilyaletdinov",
+  "wikipediaId": "Q192825",
+  "name": "Diniyar Bilyaletdinov",
+  "fullName": "Diniyar Bilyaletdinov",
+  "profileSummary": "Diniyar Rinatovich Bilyaletdinov is a Russian former professional footballer who played as a midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Spar-Rub15_%287%29.jpg/330px-Spar-Rub15_%287%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diniyar_Bilyaletdinov",
+  "dateOfBirth": "1985-02-27",
+  "birthDateParsed": "1985-02-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q192825",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:59.960Z"
+}

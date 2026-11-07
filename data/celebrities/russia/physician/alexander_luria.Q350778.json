@@ -1,0 +1,36 @@
+{
+  "publicId": "0b7ca848",
+  "wikipediaSlug": "Alexander_Luria",
+  "wikipediaId": "Q350778",
+  "name": "Alexander Luria",
+  "fullName": "Alexander Luria",
+  "profileSummary": "Alexander Romanovich Luria was a Soviet neuropsychologist, often credited as the father of modern neuropsychology. He developed an extensive and original battery of neuropsychological tests during his clinical work with brain-injured victims of World War II, which are still used in various forms. He made an in-depth analysis of the functioning of various brain regions and the integrative processes of the brain in general. Luria's magnum opus, Higher Cortical Functions in Man (1962), is a much-used psychological textbook which has been translated into many languages and which he supplemented with The Working Brain in 1973.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alexander_Luria.jpg/330px-Alexander_Luria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Luria",
+  "dateOfBirth": "1902-07-16",
+  "birthDateParsed": "1902-07-16",
+  "dateOfDeath": "1977-08-14",
+  "deathDateParsed": "1977-08-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.790833333",
+  "birthCoordinatesLng": "49.114444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "psychologist",
+    "special education teacher",
+    "anthropologist"
+  ],
+  "qid": "Q350778",
+  "birthPlace": "Kazan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:03.856Z"
+}

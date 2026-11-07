@@ -1,0 +1,35 @@
+{
+  "publicId": "f86c49b0",
+  "wikipediaSlug": "Juan_Pistarini",
+  "wikipediaId": "Q3114308",
+  "name": "Juan Pistarini",
+  "fullName": "Juan Pistarini",
+  "profileSummary": "Juan Pistarini was an Argentine general and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tte._Gral._Juan_Pistarini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Pistarini",
+  "dateOfBirth": "1882-12-23",
+  "birthDateParsed": "1882-12-23",
+  "dateOfDeath": "1956-05-29",
+  "deathDateParsed": "1956-05-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "-36.2167",
+  "birthCoordinatesLng": "-65.434",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "engineer",
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q3114308",
+  "birthPlace": "Victorica",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:27.794Z"
+}

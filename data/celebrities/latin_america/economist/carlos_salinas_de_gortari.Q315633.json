@@ -1,0 +1,34 @@
+{
+  "publicId": "494407ca",
+  "wikipediaSlug": "Carlos_Salinas_de_Gortari",
+  "wikipediaId": "Q315633",
+  "name": "Carlos Salinas de Gortari",
+  "fullName": "Carlos Salinas de Gortari",
+  "profileSummary": "Carlos Salinas de Gortari is a Mexican economist and former politician who served as the 60th president of Mexico from 1988 to 1994. He is considered the frontman of Mexican neoliberalism, and was responsible for formulating, promoting, signing, and implementing the North American Free Trade Agreement (NAFTA). Affiliated with the Institutional Revolutionary Party (PRI), earlier in his career he worked in the Secretariat of Programming and Budget, eventually becoming Secretary. He secured the party's nomination for the 1988 general election and was elected amid widespread accusations of electoral fraud.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carlos_Salinas.jpg/330px-Carlos_Salinas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Salinas_de_Gortari",
+  "dateOfBirth": "1948-04-03",
+  "birthDateParsed": "1948-04-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician"
+  ],
+  "qid": "Q315633",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:12:52.712Z"
+}

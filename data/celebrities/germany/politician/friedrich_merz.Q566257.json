@@ -1,0 +1,39 @@
+{
+  "publicId": "daec00a0",
+  "wikipediaSlug": "Friedrich_Merz",
+  "wikipediaId": "Q566257",
+  "name": "Friedrich Merz",
+  "fullName": "Friedrich Merz",
+  "profileSummary": "Joachim-Friedrich Martin Josef Merz is a German politician who has served as Chancellor of Germany since 6 May 2025. He has also served as Leader of the Christian Democratic Union (CDU) since January 2022, leading the CDU/CSU (Union) parliamentary group as Leader of the Opposition in the Bundestag from February 2022 to May 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/330px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_Merz",
+  "dateOfBirth": "1955-11-11",
+  "birthDateParsed": "1955-11-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.395555555",
+  "birthCoordinatesLng": "8.567777777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "Gerichtsassessor",
+    "lobbyist",
+    "manager",
+    "jurist",
+    "lawyer",
+    "judge"
+  ],
+  "qid": "Q566257",
+  "birthPlace": "Brilon",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:16.111Z"
+}

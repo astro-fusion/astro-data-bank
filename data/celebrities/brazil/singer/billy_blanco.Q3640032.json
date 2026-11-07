@@ -1,0 +1,36 @@
+{
+  "publicId": "f4998326",
+  "wikipediaSlug": "Billy_Blanco",
+  "wikipediaId": "Q3640032",
+  "name": "Billy Blanco",
+  "fullName": "Billy Blanco",
+  "profileSummary": "William Blanco Abrunhosa Trindade, commonly known as Billy Blanco, was a Brazilian architect, musician, composer, and writer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Billy_Blanco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Blanco",
+  "dateOfBirth": "1924-05-08",
+  "birthDateParsed": "1924-05-08",
+  "dateOfDeath": "2011-07-08",
+  "deathDateParsed": "2011-07-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "-1.455833333",
+  "birthCoordinatesLng": "-48.503888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "architect",
+    "guitarist"
+  ],
+  "qid": "Q3640032",
+  "birthPlace": "Belém",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:02.310Z"
+}

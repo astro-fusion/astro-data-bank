@@ -1,0 +1,39 @@
+{
+  "publicId": "ec06d3f4",
+  "wikipediaSlug": "Sammo_Hung",
+  "wikipediaId": "Q311219",
+  "name": "Sammo Hung",
+  "fullName": "Sammo Hung",
+  "profileSummary": "Sammo Hung Kam-bo is a Hong Kong actor, martial artist, and filmmaker, known for his work in martial arts films, Hong Kong action cinema, and as a fight choreographer for other actors such as Kim Tai-chung, Jackie Chan, Yuen Biao, and Yuen Wah.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sammo_Hung_20240414.jpg/330px-Sammo_Hung_20240414.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sammo_Hung",
+  "dateOfBirth": "1952-01-07",
+  "birthDateParsed": "1952-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film producer",
+    "film director",
+    "screenwriter",
+    "actor",
+    "stunt performer",
+    "stunt coordinator",
+    "director"
+  ],
+  "qid": "Q311219",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:41.979Z"
+}

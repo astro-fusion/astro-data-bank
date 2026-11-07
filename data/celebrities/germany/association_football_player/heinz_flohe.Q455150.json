@@ -1,0 +1,35 @@
+{
+  "publicId": "06373456",
+  "wikipediaSlug": "Heinz_Flohe",
+  "wikipediaId": "Q455150",
+  "name": "Heinz Flohe",
+  "fullName": "Heinz Flohe",
+  "profileSummary": "Heinz \"Flocke\" Flohe was a German footballer and manager.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Heinz_Flohe.jpeg/330px-Heinz_Flohe.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinz_Flohe",
+  "dateOfBirth": "1948-01-28",
+  "birthDateParsed": "1948-01-28",
+  "dateOfDeath": "2013-06-15",
+  "deathDateParsed": "2013-06-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.661277777",
+  "birthCoordinatesLng": "6.787255555",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q455150",
+  "birthPlace": "Euskirchen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:10.050Z"
+}

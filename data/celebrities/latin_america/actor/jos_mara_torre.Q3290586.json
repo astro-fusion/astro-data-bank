@@ -1,0 +1,33 @@
+{
+  "publicId": "3d551bed",
+  "wikipediaSlug": "José_María_Torre",
+  "wikipediaId": "Q3290586",
+  "name": "José María Torre",
+  "fullName": "José María Torre",
+  "profileSummary": "José María Torre is a Mexican actor and fashion designer known for his roles in telenovelas. He is the brother of Fátima Torre and Andrea Torre. He started his career at the age of five doing television commercials.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jos%C3%A9_Mar%C3%ADa_Torre_in_2012.jpg/330px-Jos%C3%A9_Mar%C3%ADa_Torre_in_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Torre",
+  "dateOfBirth": "1977-11-04",
+  "birthDateParsed": "1977-11-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "fashion designer"
+  ],
+  "qid": "Q3290586",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:04.886Z"
+}

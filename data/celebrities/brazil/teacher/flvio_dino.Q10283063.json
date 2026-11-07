@@ -1,0 +1,35 @@
+{
+  "publicId": "9f43bd09",
+  "wikipediaSlug": "Flávio_Dino",
+  "wikipediaId": "Q10283063",
+  "name": "Flávio Dino",
+  "fullName": "Flávio Dino",
+  "profileSummary": "Flávio Dino de Castro e Costa is a Brazilian attorney, Supreme Court Justice, politician and professor. A former federal judge, Dino was elected to the Chamber of Deputies in 2006 under the Communist Party banner, serving a four-year term until 2011, representing the state of Maranhão. He was elected as the governor of Maranhão after running in the 2014 election. He became the governor of Maranhão on 1 January 2015. He was reelected in 2018. In 2021, Dino left the Communist Party to join the Socialist Party, and was appointed Minister of Justice by President Lula.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fl%C3%A1vio_Dino_no_voto_da_A%C3%A7%C3%A3o_Penal_%28AP%29_2668_%28cropped%29.jpg/330px-Fl%C3%A1vio_Dino_no_voto_da_A%C3%A7%C3%A3o_Penal_%28AP%29_2668_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fl%C3%A1vio_Dino",
+  "dateOfBirth": "1968-04-30",
+  "birthDateParsed": "1968-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-2.53",
+  "birthCoordinatesLng": "-44.302777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "teacher",
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q10283063",
+  "birthPlace": "São Luís",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:22.516Z"
+}

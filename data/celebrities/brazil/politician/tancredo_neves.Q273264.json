@@ -1,0 +1,35 @@
+{
+  "publicId": "5e8380e7",
+  "wikipediaSlug": "Tancredo_Neves",
+  "wikipediaId": "Q273264",
+  "name": "Tancredo Neves",
+  "fullName": "Tancredo Neves",
+  "profileSummary": "Tancredo de Almeida Neves was a Brazilian politician, lawyer, and entrepreneur. He served as Minister of Justice and Internal Affairs from 1953 to 1954, President of the Council of Ministers from 1961 to 1962, Minister of Finance in 1962, and as Governor of Minas Gerais from 1983 to 1984. He was elected President of the Republic in 1985, but died before he had the chance to take office; the vice-president-elect, José Sarney, took office as president in his place.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tancredo_de_Almeida_Neves%2C_primeiro_ministro.tiff/lossy-page1-330px-Tancredo_de_Almeida_Neves%2C_primeiro_ministro.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tancredo_Neves",
+  "dateOfBirth": "1910-03-04",
+  "birthDateParsed": "1910-03-04",
+  "dateOfDeath": "1985-04-21",
+  "deathDateParsed": "1985-04-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.135833333",
+  "birthCoordinatesLng": "-44.261944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "entrepreneur"
+  ],
+  "qid": "Q273264",
+  "birthPlace": "São João del Rei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:37.932Z"
+}

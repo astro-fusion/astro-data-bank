@@ -1,0 +1,33 @@
+{
+  "publicId": "f05e9828",
+  "wikipediaSlug": "Abdullah_Tarmugi",
+  "wikipediaId": "Q4666073",
+  "name": "Abdullah Tarmugi",
+  "fullName": "Abdullah Tarmugi",
+  "profileSummary": "Abdullah bin Tarmugi is a Singaporean former politician who served as Minister-in-charge of Muslim Affairs from 1993 to 2002 and Speaker of the Parliament of Singapore between 2002 and 2011. A member of the People's Action Party (PAP), Abdullah was a Member of Parliament (MP) for Siglap from 1984 to 2011.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Abdullah_Tarmugi_2024.jpg/330px-Abdullah_Tarmugi_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_Tarmugi",
+  "dateOfBirth": "1944-08-25",
+  "birthDateParsed": "1944-08-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q4666073",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:57.183Z"
+}

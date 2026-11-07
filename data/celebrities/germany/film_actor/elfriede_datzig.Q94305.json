@@ -1,0 +1,33 @@
+{
+  "publicId": "34af07ce",
+  "wikipediaSlug": "Elfriede_Datzig",
+  "wikipediaId": "Q94305",
+  "name": "Elfriede Datzig",
+  "fullName": "Elfriede Datzig",
+  "profileSummary": "Elfriede Datzig was an Austrian film actress. Following the Anschluss, Datzig appeared in a number of films made by Wien-Film such as the 1939 comedy Anton the Last. She married the actor Albert Hehn. After the war, she formed a band and sang with Mady Rahl for the USO. In 1946, she died at the age of 23 due to an allergic reaction to penicillin.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elfriede_Datzig",
+  "dateOfBirth": "1922-07-26",
+  "birthDateParsed": "1922-07-26",
+  "dateOfDeath": "1946-01-27",
+  "deathDateParsed": "1946-01-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q94305",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:52.672Z"
+}

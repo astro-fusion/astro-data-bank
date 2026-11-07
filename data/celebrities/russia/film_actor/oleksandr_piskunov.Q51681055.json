@@ -1,0 +1,33 @@
+{
+  "publicId": "c4a0ede4",
+  "wikipediaSlug": "Oleksandr_Piskunov",
+  "wikipediaId": "Q51681055",
+  "name": "Oleksandr Piskunov",
+  "fullName": "Oleksandr Piskunov",
+  "profileSummary": "Oleksandr Volodymyrovych Piskunov is a Ukrainian theatre and film actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Oleksandr_Piskunov.jpg/330px-Oleksandr_Piskunov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleksandr_Piskunov",
+  "dateOfBirth": "1991-12-31",
+  "birthDateParsed": "1991-12-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "47.566667",
+  "birthCoordinatesLng": "34.4",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q51681055",
+  "birthPlace": "Nikopol",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:22.679Z"
+}

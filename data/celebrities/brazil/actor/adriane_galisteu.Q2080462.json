@@ -1,0 +1,36 @@
+{
+  "publicId": "e34a8f83",
+  "wikipediaSlug": "Adriane_Galisteu",
+  "wikipediaId": "Q2080462",
+  "name": "Adriane Galisteu",
+  "fullName": "Adriane Galisteu",
+  "profileSummary": "Adriane Kelemen Galisteu Iódice, better known as Adriane Galisteu, is a Brazilian actress, TV host and former model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Adriane_Galisteu.png/330px-Adriane_Galisteu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriane_Galisteu",
+  "dateOfBirth": "1973-04-18",
+  "birthDateParsed": "1973-04-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television presenter",
+    "model",
+    "television actor"
+  ],
+  "qid": "Q2080462",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:31:55.472Z"
+}

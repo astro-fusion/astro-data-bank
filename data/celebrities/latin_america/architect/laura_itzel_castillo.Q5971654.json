@@ -1,0 +1,35 @@
+{
+  "publicId": "daad3ac5",
+  "wikipediaSlug": "Laura_Itzel_Castillo",
+  "wikipediaId": "Q5971654",
+  "name": "Laura Itzel Castillo",
+  "fullName": "Laura Itzel Castillo",
+  "profileSummary": "Laura Itzel Castillo Juárez is a Mexican architect and politician. She has served in both chambers of the Congress of the Union and in the forerunner of the Congress of Mexico City.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Laura_Itzel_Castillo.jpg/330px-Laura_Itzel_Castillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laura_Itzel_Castillo",
+  "dateOfBirth": "1957-11-16",
+  "birthDateParsed": "1957-11-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architect",
+    "painter",
+    "politician"
+  ],
+  "qid": "Q5971654",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:39.446Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "f21721eb",
+  "wikipediaSlug": "José_Sarney",
+  "wikipediaId": "Q244997",
+  "name": "José Sarney",
+  "fullName": "José Sarney",
+  "profileSummary": "José Sarney de Araújo Costa is a Brazilian politician, lawyer, and writer who served as the 31st president of Brazil from 1985 to 1990. He briefly served as the 20th vice president of Brazil for a month between March and April 1985.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Foto_Oficial_Sarney_EBC.jpg/330px-Foto_Oficial_Sarney_EBC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Sarney",
+  "dateOfBirth": "1930-04-24",
+  "birthDateParsed": "1930-04-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-2.520833333",
+  "birthCoordinatesLng": "-45.082777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "journalist",
+    "politician",
+    "writer",
+    "poet",
+    "novelist"
+  ],
+  "qid": "Q244997",
+  "birthPlace": "Pinheiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:46.923Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "4ff7aa61",
+  "wikipediaSlug": "Jeremy_Monteiro",
+  "wikipediaId": "Q6181706",
+  "name": "Jeremy Monteiro",
+  "fullName": "Jeremy Monteiro",
+  "profileSummary": "Jeremy Ian Monteiro is a Singaporean jazz pianist, singer, composer, and music educator. In Singapore he was mentioned by the local press as Singapore's \"King of Swing\". Monteiro was awarded the Cultural Medallion by the National Arts Council, Singapore in 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jeremy_Monteiro_%28cropped%29.jpg/330px-Jeremy_Monteiro_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeremy_Monteiro",
+  "dateOfBirth": "1960-06-20",
+  "birthDateParsed": "1960-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "singer",
+    "jazz musician",
+    "pianist"
+  ],
+  "qid": "Q6181706",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:29.327Z"
+}

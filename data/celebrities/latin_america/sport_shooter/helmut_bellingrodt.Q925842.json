@@ -1,0 +1,33 @@
+{
+  "publicId": "2aedb3e2",
+  "wikipediaSlug": "Helmut_Bellingrodt",
+  "wikipediaId": "Q925842",
+  "name": "Helmut Bellingrodt",
+  "fullName": "Helmut Bellingrodt",
+  "profileSummary": "Helmut Bellingrodt is a Colombian Olympic sports shooter who won two Olympic silver medals. He participated in the 1972 Munich, 1976 Montreal, and 1984 Los Angeles Summer Olympic Games. He was the first Colombian athlete to win two Olympic medals, as well as the Colombian athlete with the most until Jackeline Rentería Castillo tied with a second bronze in wrestling – 55 kg at the London 2012 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Helmut_Bellingrodt.jpg/330px-Helmut_Bellingrodt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helmut_Bellingrodt",
+  "dateOfBirth": "1949-07-10",
+  "birthDateParsed": "1949-07-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "10.983333333",
+  "birthCoordinatesLng": "-74.801944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sport shooter"
+  ],
+  "qid": "Q925842",
+  "birthPlace": "Barranquilla",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:03.018Z"
+}

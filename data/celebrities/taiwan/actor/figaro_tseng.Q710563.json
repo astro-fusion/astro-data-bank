@@ -1,0 +1,35 @@
+{
+  "publicId": "34e83903",
+  "wikipediaSlug": "Figaro_Tseng",
+  "wikipediaId": "Q710563",
+  "name": "Figaro Tseng",
+  "fullName": "Figaro Tseng",
+  "profileSummary": "Figaro Tseng is a Taiwanese actor, singer and art painter. He was part of Taiwanese boy band Comic Boyz from 2002 to 2005. They released three albums: Hey Hah!! Comic Boyz (2002); Youth Memoir (2003); Goodbye  (2005). He has also acted in Taiwanese dramas and hosted television shows.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Figaro_Tseng_20201116.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Figaro_Tseng",
+  "dateOfBirth": "1981-11-18",
+  "birthDateParsed": "1981-11-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.615",
+  "birthCoordinatesLng": "120.2975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "painter",
+    "television actor"
+  ],
+  "qid": "Q710563",
+  "birthPlace": "Kaohsiung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:55.128Z"
+}

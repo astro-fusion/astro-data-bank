@@ -1,0 +1,34 @@
+{
+  "publicId": "af909b72",
+  "wikipediaSlug": "Horst_Hrubesch",
+  "wikipediaId": "Q366559",
+  "name": "Horst Hrubesch",
+  "fullName": "Horst Hrubesch",
+  "profileSummary": "Horst Hrubesch is a German professional football manager and former player who last managed the Germany women's national team. As a player, Hrubesch won three West German championships with his club side, Hamburger SV, as well as the European Cup title in 1983. He was a key member of the West Germany team that won the 1980 European Championship and made it to the final of the 1982 World Cup, losing to Italy. His nickname was Das Kopfball-Ungeheuer for his heading skills as a centre forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Horst_Hrubesch_%E2%80%93_Tag_der_Legenden_2016_01.jpg/330px-Horst_Hrubesch_%E2%80%93_Tag_der_Legenden_2016_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Horst_Hrubesch",
+  "dateOfBirth": "1951-04-17",
+  "birthDateParsed": "1951-04-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.681388888",
+  "birthCoordinatesLng": "7.819166666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q366559",
+  "birthPlace": "Hamm",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:19.246Z"
+}

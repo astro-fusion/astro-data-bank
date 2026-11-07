@@ -1,0 +1,41 @@
+{
+  "publicId": "9a7cf268",
+  "wikipediaSlug": "Freddy_Quinn",
+  "wikipediaId": "Q466120",
+  "name": "Freddy Quinn",
+  "fullName": "Freddy Quinn",
+  "profileSummary": "Freddy Quinn is a former Austrian singer and actor whose popularity in the German-speaking world soared in the late 1950s and 1960s. As Hans Albers had done two generations before him, Quinn adopted the persona of the rootless wanderer who goes to sea but longs for a home, family and friends. His father was long believed to be a supposed merchant named Johann Quinn (1912–1943), who was of Irish descent and was said to have been married to Quinn's mother for a few months in 1934. However, in his 2025 autobiography, Freddy Quinn wrote that this man never existed and that he never met his actual father; furthermore, he had adopted his Irish last name from an American soldier he had met in his early twenties. His mother, Edith Henriette Nidl, was an Austrian journalist. He is often associated with the Schlager scene.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Freddy_Quinn_%281977%29.jpg/330px-Freddy_Quinn_%281977%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Freddy_Quinn",
+  "dateOfBirth": "1931-09-27",
+  "birthDateParsed": "1931-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "circus performer",
+    "film actor",
+    "guitarist",
+    "recording artist",
+    "composer",
+    "music arranger",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q466120",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:43.137Z"
+}

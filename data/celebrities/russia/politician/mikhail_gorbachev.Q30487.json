@@ -1,0 +1,38 @@
+{
+  "publicId": "776291fa",
+  "wikipediaSlug": "Mikhail_Gorbachev",
+  "wikipediaId": "Q30487",
+  "name": "Mikhail Gorbachev",
+  "fullName": "Mikhail Gorbachev",
+  "profileSummary": "Mikhail Sergeyevich Gorbachev was a Soviet and Russian politician who was the last leader of the Soviet Union from 1985 until the country's dissolution in 1991. He served as General Secretary of the Communist Party from 1985, and additionally as head of state from 1988. Ideologically, he initially adhered to Marxism–Leninism, but moved towards social democracy by the early 1990s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg/330px-RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev",
+  "dateOfBirth": "1931-03-02",
+  "birthDateParsed": "1931-03-02",
+  "dateOfDeath": "2022-08-30",
+  "deathDateParsed": "2022-08-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "45.9175",
+  "birthCoordinatesLng": "41.307222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "jurist",
+    "environmentalist",
+    "economist",
+    "lawyer",
+    "film actor"
+  ],
+  "qid": "Q30487",
+  "birthPlace": "Privolnoye",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:27.630Z"
+}

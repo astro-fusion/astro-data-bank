@@ -1,0 +1,33 @@
+{
+  "publicId": "a7a29e6f",
+  "wikipediaSlug": "Artyom_Bezrodny",
+  "wikipediaId": "Q2423547",
+  "name": "Artyom Bezrodny",
+  "fullName": "Artyom Bezrodny",
+  "profileSummary": "Artyom Anatolyevich Bezrodny was a Ukrainia and Russian association footballer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artyom_Bezrodny",
+  "dateOfBirth": "1979-02-10",
+  "birthDateParsed": "1979-02-10",
+  "dateOfDeath": "2016-09-13",
+  "deathDateParsed": "2016-09-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.906666666",
+  "birthCoordinatesLng": "34.799166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2423547",
+  "birthPlace": "Sumy",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:59.306Z"
+}

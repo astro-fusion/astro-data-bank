@@ -1,0 +1,37 @@
+{
+  "publicId": "98aa9b4b",
+  "wikipediaSlug": "Amir_Haddad",
+  "wikipediaId": "Q16887680",
+  "name": "Amir Haddad",
+  "fullName": "Amir Haddad",
+  "profileSummary": "Laurent Amir Khalifa Khedider Haddad, better known as Amir Haddad or simply as Amir, is a French-Israeli singer-songwriter and actor. He took part in 2006 in the Israeli music competition Kokhav Nolad, released his album Vayehi in 2011 and was a finalist in French competition The Voice: la plus belle voix as part of Team Jenifer finishing third in the competition. He represented France in the Eurovision Song Contest 2016 with the song \"J'ai cherché\", which finished in sixth place.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ESC2016_-_France_Meet_%26_Greet_26_%28crop%29_%28cropped%29.jpg/330px-ESC2016_-_France_Meet_%26_Greet_26_%28crop%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amir_Haddad",
+  "dateOfBirth": "1984-06-20",
+  "birthDateParsed": "1984-06-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.856666666",
+  "birthCoordinatesLng": "2.352222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "recording artist",
+    "singer",
+    "composer",
+    "pop singer"
+  ],
+  "qid": "Q16887680",
+  "birthPlace": "Paris",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:31:52.554Z"
+}

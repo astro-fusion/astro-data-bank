@@ -1,0 +1,34 @@
+{
+  "publicId": "6dca59f8",
+  "wikipediaSlug": "Lara_Veronin",
+  "wikipediaId": "Q715420",
+  "name": "Lara Veronin",
+  "fullName": "Lara Veronin",
+  "profileSummary": "Lara Veronin, also known as Lara Liang traditional Chinese: 梁心頤; simplified Chinese: 梁心颐; pinyin: Liáng Xīnyí), is a Taiwanese-American singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lara_Veronin_%28cropped%29.jpg/330px-Lara_Veronin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lara_Veronin",
+  "dateOfBirth": "1988-05-02",
+  "birthDateParsed": "1988-05-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "37",
+  "birthCoordinatesLng": "-120",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor"
+  ],
+  "qid": "Q715420",
+  "birthPlace": "California",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:22.679Z"
+}

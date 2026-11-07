@@ -1,0 +1,36 @@
+{
+  "publicId": "c302a2bd",
+  "wikipediaSlug": "Ethan_Juan",
+  "wikipediaId": "Q706649",
+  "name": "Ethan Juan",
+  "fullName": "Ethan Juan",
+  "profileSummary": "Ethan Juan is a Taiwanese actor and model. He gained popularity for idol dramas Green Forest, My Home (2005), Wayward Kenting (2007), Fated to Love You (2008), and My Queen (2009) and had a frequent collaboration with Doze Niu, who directed Monga (2010), earning Juan Best Leading Actor at the 47th Golden Horse Awards. His other notable films include The Guillotines (2010), The Assassin (2015), Detective Dee: The Four Heavenly Kings (2018), and The Pig, The Snake and The Pigeon (2023).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ethan_Juan_at_the_Taichung_premiere_of_The_Abandoned_in_2023.jpg/330px-Ethan_Juan_at_the_Taichung_premiere_of_The_Abandoned_in_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ethan_Juan",
+  "dateOfBirth": "1982-11-08",
+  "birthDateParsed": "1982-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.143888888",
+  "birthCoordinatesLng": "120.679444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "model"
+  ],
+  "qid": "Q706649",
+  "birthPlace": "Taichung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:35.903Z"
+}

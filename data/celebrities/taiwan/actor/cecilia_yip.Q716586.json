@@ -1,0 +1,33 @@
+{
+  "publicId": "42070cdc",
+  "wikipediaSlug": "Cecilia_Yip",
+  "wikipediaId": "Q716586",
+  "name": "Cecilia Yip",
+  "fullName": "Cecilia Yip",
+  "profileSummary": "Cecilia Yip Tung is a Hong Kong actress whose work is known throughout Asia, especially in mainland China, Hong Kong and Taiwan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%E8%91%89%E7%AB%A5.jpg/330px-%E8%91%89%E7%AB%A5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cecilia_Yip",
+  "dateOfBirth": "1963-03-08",
+  "birthDateParsed": "1963-03-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q716586",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:06.187Z"
+}

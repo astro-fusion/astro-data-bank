@@ -1,0 +1,36 @@
+{
+  "publicId": "2f6d7452",
+  "wikipediaSlug": "Ashin",
+  "wikipediaId": "Q704318",
+  "name": "Ashin",
+  "fullName": "Ashin",
+  "profileSummary": "Chen Hsin-hung, known professionally as Ashin, is a Taiwan singer and songwriter. He is best known as the vocalist of the rock band Mayday. He is also the founder and designer of the clothing line StayReal, a shareholder of the music label B'in Music, and was elected a board member of the Taiwan Public Television Service in 2013.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mayday_Ashin_%40Taipei_Dome_20260704.jpg/330px-Mayday_Ashin_%40Taipei_Dome_20260704.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashin",
+  "dateOfBirth": "1975-12-06",
+  "birthDateParsed": "1975-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "writer",
+    "composer",
+    "songwriter"
+  ],
+  "qid": "Q704318",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:20.926Z"
+}

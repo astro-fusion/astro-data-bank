@@ -1,0 +1,34 @@
+{
+  "publicId": "6b10a4fb",
+  "wikipediaSlug": "Edith_Elmay",
+  "wikipediaId": "Q1284969",
+  "name": "Edith Elmay",
+  "fullName": "Edith Elmay",
+  "profileSummary": "Edith Elmay was an Austrian film and television actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Edith_Elmay",
+  "dateOfBirth": "1932-07-24",
+  "birthDateParsed": "1932-07-24",
+  "dateOfDeath": "2020-08-07",
+  "deathDateParsed": "2020-08-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q1284969",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:55.986Z"
+}

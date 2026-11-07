@@ -1,0 +1,35 @@
+{
+  "publicId": "fbad0eac",
+  "wikipediaSlug": "Beatriz_Segall",
+  "wikipediaId": "Q2893028",
+  "name": "Beatriz Segall",
+  "fullName": "Beatriz Segall",
+  "profileSummary": "Beatriz Segall was a Brazilian actress. One of her most notable works is the role of Odete Roitman on the telenovela Vale Tudo (1988), considered the greatest villain in the history of Brazilian television.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Beatriz_Segall.jpg/330px-Beatriz_Segall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beatriz_Segall",
+  "dateOfBirth": "1926-07-25",
+  "birthDateParsed": "1926-07-25",
+  "dateOfDeath": "2018-09-05",
+  "deathDateParsed": "2018-09-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q2893028",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:01.404Z"
+}

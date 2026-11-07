@@ -1,0 +1,33 @@
+{
+  "publicId": "2160fa20",
+  "wikipediaSlug": "Chetes",
+  "wikipediaId": "Q5094167",
+  "name": "Chetes",
+  "fullName": "Chetes",
+  "profileSummary": "Luis Gerardo Garza Cisneros, better known by his stage name Chetes, is a Mexican rock musician, known as the frontman of the Avanzada Regia rock bands Zurdok and Vaquero as well as for his solo work.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Concierto_de_la_Semana_de_las_Juventudes_%28S%C3%A1bado%29_%2838395231681%29.jpg/330px-Concierto_de_la_Semana_de_las_Juventudes_%28S%C3%A1bado%29_%2838395231681%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chetes",
+  "dateOfBirth": "1979-09-19",
+  "birthDateParsed": "1979-09-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician"
+  ],
+  "qid": "Q5094167",
+  "birthPlace": "Monterrey",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:26.386Z"
+}

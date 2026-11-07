@@ -1,0 +1,37 @@
+{
+  "publicId": "67a2edbe",
+  "wikipediaSlug": "Afonso_Pena",
+  "wikipediaId": "Q311185",
+  "name": "Afonso Pena",
+  "fullName": "Afonso Pena",
+  "profileSummary": "Afonso Augusto Moreira Pena was a Brazilian lawyer, professor, and politician who served as the sixth president of Brazil, from 1906 until his death in 1909. Pena was elected in 1906, the chosen successor of president Rodrigues Alves. Pena was the first politician from Minas Gerais to win the presidency, ending the series of politicians from São Paulo who had held the presidency since 1894. Before his presidency, he served as the 4th vice president of Brazil, under Rodrigues Alves (1903–1906) after the death of Silviano Brandão. Pena was a monarchist. He was the only member of Emperor Pedro II's cabinet to become president of Brazil and the first Brazilian president to die in office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Afonso_Pena_%283x4_cropped%29.jpg/330px-Afonso_Pena_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Afonso_Pena",
+  "dateOfBirth": "1847-11-30",
+  "birthDateParsed": "1847-11-30",
+  "dateOfDeath": "1909-06-14",
+  "deathDateParsed": "1909-06-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "-19.958888888",
+  "birthCoordinatesLng": "-43.415",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "professor",
+    "banker",
+    "governor"
+  ],
+  "qid": "Q311185",
+  "birthPlace": "Santa Bárbara",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:21:57.651Z"
+}

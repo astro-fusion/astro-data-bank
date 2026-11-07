@@ -1,0 +1,36 @@
+{
+  "publicId": "7401c0c2",
+  "wikipediaSlug": "Carmen_Miranda",
+  "wikipediaId": "Q121655",
+  "name": "Carmen Miranda",
+  "fullName": "Carmen Miranda",
+  "profileSummary": "Maria do Carmo Miranda da Cunha, known professionally as Carmen Miranda, was a Portuguese-born Brazilian singer, dancer, and actress. Nicknamed \"the Brazilian Bombshell,\" she was known for her signature fruit hat outfits that she wore in her American films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Carmen_Miranda_in_That_Night_in_Rio_%281941%29.jpg/330px-Carmen_Miranda_in_That_Night_in_Rio_%281941%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmen_Miranda",
+  "dateOfBirth": "1909-02-09",
+  "birthDateParsed": "1909-02-09",
+  "dateOfDeath": "1955-08-05",
+  "deathDateParsed": "1955-08-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "41.208611111",
+  "birthCoordinatesLng": "-8.104166666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "dancer",
+    "film actor"
+  ],
+  "qid": "Q121655",
+  "birthPlace": "Várzea da Ovelha e Aliviada",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:57.537Z"
+}

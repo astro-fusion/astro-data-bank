@@ -1,0 +1,35 @@
+{
+  "publicId": "ff99d9c9",
+  "wikipediaSlug": "Adriana_Esteves",
+  "wikipediaId": "Q2742655",
+  "name": "Adriana Esteves",
+  "fullName": "Adriana Esteves",
+  "profileSummary": "Adriana Esteves Agostinho Brichta is a Brazilian actress best known for her work in telenovelas, such as Brazil Avenue (2012) and A Mother's Love (2021).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Adriana_Esteves_em_2019.jpg/330px-Adriana_Esteves_em_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Esteves",
+  "dateOfBirth": "1969-12-15",
+  "birthDateParsed": "1969-12-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q2742655",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:19.891Z"
+}

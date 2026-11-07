@@ -1,0 +1,34 @@
+{
+  "publicId": "6de89ea7",
+  "wikipediaSlug": "Anastasia_Zyurkalova",
+  "wikipediaId": "Q4194974",
+  "name": "Anastasia Zyurkalova",
+  "fullName": "Anastasia Zyurkalova",
+  "profileSummary": "Anastasia Dmytrivna Ziurkalova is a Ukrainian stage and film actress. She is best known for roles in the film Aurora  (2006) and TV series The Sniffer (2015).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nastya_Zyurkalova.jpg/330px-Nastya_Zyurkalova.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anastasia_Zyurkalova",
+  "dateOfBirth": "1991-10-23",
+  "birthDateParsed": "1991-10-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q4194974",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:15.002Z"
+}

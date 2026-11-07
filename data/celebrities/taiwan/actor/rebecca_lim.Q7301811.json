@@ -1,0 +1,33 @@
+{
+  "publicId": "c845ce94",
+  "wikipediaSlug": "Rebecca_Lim",
+  "wikipediaId": "Q7301811",
+  "name": "Rebecca Lim",
+  "fullName": "Rebecca Lim",
+  "profileSummary": "Rebecca Lim Hui Ling is a Singaporean actress and host. Lim has won Best Actress in a Leading Role at the Asian Television Awards and two Best Actress in a Leading Role awards, a Best Supporting Actress award. Lim also won Best Performance in a Leading Role at the Seoul International Drama Awards. Lim has been the cover girl for numerous fashion magazines, and has been invited to Paris Fashion Week 2019 for Christian Dior and Hermes show. In 2020, Lim was awarded the Best Actress National Winner - Malaysia for her performance in The Bridge.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rebecca_Lim_%40_Celebrities_Try_to_Spell_Commonly_Misspelled_Words.jpg/330px-Rebecca_Lim_%40_Celebrities_Try_to_Spell_Commonly_Misspelled_Words.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rebecca_Lim",
+  "dateOfBirth": "1986-09-26",
+  "birthDateParsed": "1986-09-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q7301811",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:34.030Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "c964536e",
+  "wikipediaSlug": "Andrea_Velasco",
+  "wikipediaId": "Q5675227",
+  "name": "Andrea Velasco",
+  "fullName": "Andrea Velasco",
+  "profileSummary": "Andrea María Velasco Alessandri is a Chilean film, theater and television actress, singer and writer. She is well known for her work in romantic comedies, late night TV shows, and her music and literature career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Andrea_Velasco_en_gala_pel%C3%ADcula_Los_33.jpg/330px-Andrea_Velasco_en_gala_pel%C3%ADcula_Los_33.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Velasco",
+  "dateOfBirth": "1981-12-07",
+  "birthDateParsed": "1981-12-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor"
+  ],
+  "qid": "Q5675227",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:48.760Z"
+}

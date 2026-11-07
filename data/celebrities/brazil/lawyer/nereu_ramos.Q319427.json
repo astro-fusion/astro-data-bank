@@ -1,0 +1,34 @@
+{
+  "publicId": "972accc4",
+  "wikipediaSlug": "Nereu_Ramos",
+  "wikipediaId": "Q319427",
+  "name": "Nereu Ramos",
+  "fullName": "Nereu Ramos",
+  "profileSummary": "Nereu de Oliveira Ramos was a Brazilian lawyer and politician. He briefly served as interim president of Brazil in the aftermath of the political crisis which culminated in the suicide of President Getúlio Vargas and the impeachment of Deputy Carlos Luz and President Café Filho.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Presidente_Nereu_Ramos.jpg/330px-Presidente_Nereu_Ramos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nereu_Ramos",
+  "dateOfBirth": "1888-09-03",
+  "birthDateParsed": "1888-09-03",
+  "dateOfDeath": "1958-06-16",
+  "deathDateParsed": "1958-06-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "-27.815833333",
+  "birthCoordinatesLng": "-50.325833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q319427",
+  "birthPlace": "Lages",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:16.602Z"
+}

@@ -1,0 +1,39 @@
+{
+  "publicId": "5282116b",
+  "wikipediaSlug": "Aura_Cristina_Geithner",
+  "wikipediaId": "Q4353854",
+  "name": "Aura Cristina Geithner",
+  "fullName": "Aura Cristina Geithner",
+  "profileSummary": " Aura Cristina Geithner is a Colombian actress, model, singer and philanthropist. In her teens, she lived in Mexico and studied painting and international public relations. Her twin brother, Harry Geithner, is also an actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aura_Cristina_Geithner%2C_2014.jpg/330px-Aura_Cristina_Geithner%2C_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aura_Cristina_Geithner",
+  "dateOfBirth": "1967-03-09",
+  "birthDateParsed": "1967-03-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor",
+    "model",
+    "singer",
+    "television presenter",
+    "philanthropist"
+  ],
+  "qid": "Q4353854",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:08.489Z"
+}

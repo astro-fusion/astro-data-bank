@@ -1,0 +1,36 @@
+{
+  "publicId": "036b08a5",
+  "wikipediaSlug": "Zhambyl_Zhabayuly",
+  "wikipediaId": "Q2072231",
+  "name": "Zhambyl Zhabayuly",
+  "fullName": "Zhambyl Zhabayuly",
+  "profileSummary": "Jambyl Jabaiūly was a Soviet and Qazaq aqyn.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Soviet_Union_1971_CPA_4065_stamp_%28Jambyl_Jabayev_%28after_Anatoly_Yar-Kravchenko%29%29.jpg/330px-The_Soviet_Union_1971_CPA_4065_stamp_%28Jambyl_Jabayev_%28after_Anatoly_Yar-Kravchenko%29%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhambyl_Zhabayuly",
+  "dateOfBirth": "1846-02-28",
+  "birthDateParsed": "1846-02-28",
+  "dateOfDeath": "1945-06-22",
+  "deathDateParsed": "1945-06-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "45",
+  "birthCoordinatesLng": "78",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "singer-songwriter",
+    "akın",
+    "writer"
+  ],
+  "qid": "Q2072231",
+  "birthPlace": "Almaty Region",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T02:18:30.654Z"
+}

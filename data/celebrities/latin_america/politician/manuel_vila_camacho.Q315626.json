@@ -1,0 +1,34 @@
+{
+  "publicId": "66590e02",
+  "wikipediaSlug": "Manuel_Ávila_Camacho",
+  "wikipediaId": "Q315626",
+  "name": "Manuel Ávila Camacho",
+  "fullName": "Manuel Ávila Camacho",
+  "profileSummary": "Manuel Ávila Camacho was a Mexican politician and military leader who served as the president of Mexico from 1940 to 1946. Having participated in the Mexican Revolution and achieving a high rank, he came to the presidency of Mexico because of his direct connection to General Lázaro Cárdenas and served him as the Chief of his General Staff during the Mexican Revolution and afterwards. He was called affectionately by Mexicans \"The Gentleman President\". As president, he pursued \"national policies of unity, adjustment, and moderation.\" His administration completed the transition from military to civilian leadership, ended confrontational anticlericalism, reversed the push for socialist education, and restored a working relationship with the US during World War II.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manuel_%C3%81vila_Camacho%2C_Retrato_%28cropped%29%282%29.png/330px-Manuel_%C3%81vila_Camacho%2C_Retrato_%28cropped%29%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_%C3%81vila_Camacho",
+  "dateOfBirth": "1897-04-24",
+  "birthDateParsed": "1897-04-24",
+  "dateOfDeath": "1955-10-13",
+  "deathDateParsed": "1955-10-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.817990555",
+  "birthCoordinatesLng": "-97.3608775",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "soldier"
+  ],
+  "qid": "Q315626",
+  "birthPlace": "Teziutlán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:49.213Z"
+}

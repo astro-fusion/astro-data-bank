@@ -1,0 +1,42 @@
+{
+  "publicId": "d7056102",
+  "wikipediaSlug": "Sylvia_Chang",
+  "wikipediaId": "Q292693",
+  "name": "Sylvia Chang",
+  "fullName": "Sylvia Chang",
+  "profileSummary": "Sylvia Chang is a Taiwanese actress, singer, director, screenwriter, and producer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sylvia_Chang_from_%22Daughter%27s_Daughter%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577973591%29.jpg/330px-Sylvia_Chang_from_%22Daughter%27s_Daughter%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577973591%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvia_Chang",
+  "dateOfBirth": "1953-07-21",
+  "birthDateParsed": "1953-07-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.48",
+  "birthCoordinatesLng": "120.449722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "writer",
+    "film director",
+    "screenwriter",
+    "film producer",
+    "film actor",
+    "stage actor",
+    "voice actor",
+    "director"
+  ],
+  "qid": "Q292693",
+  "birthPlace": "Chiayi City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:22.097Z"
+}

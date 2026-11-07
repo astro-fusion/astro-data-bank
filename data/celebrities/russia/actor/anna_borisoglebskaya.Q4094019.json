@@ -1,0 +1,33 @@
+{
+  "publicId": "7027c12d",
+  "wikipediaSlug": "Anna_Borisoglebskaya",
+  "wikipediaId": "Q4094019",
+  "name": "Anna Borisoglebskaya",
+  "fullName": "Anna Borisoglebskaya",
+  "profileSummary": "Anna Ivanivna Borisoglebskaya was a Ukrainian actress and People's Artist of the Ukrainian SSR (1936).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Borisoglebskaya",
+  "dateOfBirth": "1868-07-25",
+  "birthDateParsed": "1868-07-25",
+  "dateOfDeath": "1939-09-29",
+  "deathDateParsed": "1939-09-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "56.283333333",
+  "birthCoordinatesLng": "28.483333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q4094019",
+  "birthPlace": "Sebezh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:32.274Z"
+}

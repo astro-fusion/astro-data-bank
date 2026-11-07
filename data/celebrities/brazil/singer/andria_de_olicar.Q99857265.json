@@ -1,0 +1,34 @@
+{
+  "publicId": "ed14d34a",
+  "wikipediaSlug": "Andréia_de_Olicar",
+  "wikipediaId": "Q99857265",
+  "name": "Andréia de Olicar",
+  "fullName": "Andréia de Olicar",
+  "profileSummary": "Andreia de Olicar, the stage name of Andréia de Oliveira Carvalho Ribeiro, was a Brazilian pastor, singer and composer of contemporary Christian music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Andr%C3%A9ia_de_Olicar.jpg/330px-Andr%C3%A9ia_de_Olicar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9ia_de_Olicar",
+  "dateOfBirth": "1976-03-23",
+  "birthDateParsed": "1976-03-23",
+  "dateOfDeath": "2020-08-09",
+  "deathDateParsed": "2020-08-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.678888888",
+  "birthCoordinatesLng": "-42.081944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "pastor"
+  ],
+  "qid": "Q99857265",
+  "birthPlace": "Itaocara",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:34.784Z"
+}

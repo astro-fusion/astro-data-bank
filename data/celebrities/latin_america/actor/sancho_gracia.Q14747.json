@@ -1,0 +1,36 @@
+{
+  "publicId": "5f75ea22",
+  "wikipediaSlug": "Sancho_Gracia",
+  "wikipediaId": "Q14747",
+  "name": "Sancho Gracia",
+  "fullName": "Sancho Gracia",
+  "profileSummary": "Félix Ángel Sancho Gracia was a Spanish motion picture and television actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sancho_Gracia.jpg/330px-Sancho_Gracia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sancho_Gracia",
+  "dateOfBirth": "1936-09-27",
+  "birthDateParsed": "1936-09-27",
+  "dateOfDeath": "2012-08-08",
+  "deathDateParsed": "2012-08-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "film director"
+  ],
+  "qid": "Q14747",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:47.421Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "8dc4f529",
+  "wikipediaSlug": "João_Figueiredo",
+  "wikipediaId": "Q192377",
+  "name": "João Figueiredo",
+  "fullName": "João Figueiredo",
+  "profileSummary": "João Baptista de Oliveira Figueiredo was a Brazilian military officer who served as the 30th president of Brazil from 1979 to 1985, and the last of the military regime that ruled the country following the 1964 Brazilian coup d'état. He was chief of the Secret Service (SNI) during the term of his predecessor, Ernesto Geisel, who appointed him to the presidency at the end of his own term.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jo%C3%A3o_Figueiredo%2C_presidente_do_Brasil%2C_1979_%28vers%C3%A3o_colorida%29.jpg/330px-Jo%C3%A3o_Figueiredo%2C_presidente_do_Brasil%2C_1979_%28vers%C3%A3o_colorida%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Figueiredo",
+  "dateOfBirth": "1918-01-15",
+  "birthDateParsed": "1918-01-15",
+  "dateOfDeath": "1999-12-24",
+  "deathDateParsed": "1999-12-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "military personnel"
+  ],
+  "qid": "Q192377",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:34.063Z"
+}

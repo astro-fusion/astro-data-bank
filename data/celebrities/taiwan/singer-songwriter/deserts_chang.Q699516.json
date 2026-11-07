@@ -1,0 +1,33 @@
+{
+  "publicId": "1f30dd5f",
+  "wikipediaSlug": "Deserts_Chang",
+  "wikipediaId": "Q699516",
+  "name": "Deserts Chang",
+  "fullName": "Deserts Chang",
+  "profileSummary": "Deserts Chang, born Chiao An-p'u, is a Taiwanese singer-songwriter, known for her poetic lyrics and social commentary. She won Best Lyricist at the 24th Golden Melody Awards in 2013 for her song \"Rose-Colored You\" (玫瑰色的你), and Song of the Year at the 34th Golden Melody Awards in 2023 for \"A Flash and How It Lasts\" (最好的時光).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%E9%87%91%E6%9B%B234_%E5%AE%89%E6%BA%A5%E7%8D%B2%E7%8D%8E%E5%BE%8C%E5%8F%B0%E6%8E%A1%E8%A8%AA%E5%BD%B1%E5%83%8F.jpg/330px-%E9%87%91%E6%9B%B234_%E5%AE%89%E6%BA%A5%E7%8D%B2%E7%8D%8E%E5%BE%8C%E5%8F%B0%E6%8E%A1%E8%A8%AA%E5%BD%B1%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deserts_Chang",
+  "dateOfBirth": "1981-05-30",
+  "birthDateParsed": "1981-05-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter"
+  ],
+  "qid": "Q699516",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:52.385Z"
+}

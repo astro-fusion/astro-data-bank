@@ -1,0 +1,36 @@
+{
+  "publicId": "d330055d",
+  "wikipediaSlug": "A-Lin",
+  "wikipediaId": "Q703112",
+  "name": "A-Lin",
+  "fullName": "A-Lin",
+  "profileSummary": "Lisang Pacidal Koyouan, professionally known as A-Lin, is a Taiwanese singer and songwriter of Amis descent. She made her debut in February 2006 under Avex Taiwan with the studio album Lovelorn, Not Guilty.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/A-Lin_at_the_2023_Golden_Melody_Awards_1.jpg/330px-A-Lin_at_the_2023_Golden_Melody_Awards_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A-Lin",
+  "dateOfBirth": "1983-09-20",
+  "birthDateParsed": "1983-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.615",
+  "birthCoordinatesLng": "120.2975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "songwriter",
+    "lyricist"
+  ],
+  "qid": "Q703112",
+  "birthPlace": "Kaohsiung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:47.178Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "b6394188",
+  "wikipediaSlug": "Akira_Chen",
+  "wikipediaId": "Q19853982",
+  "name": "Akira Chen",
+  "fullName": "Akira Chen",
+  "profileSummary": "Akira Chen is a Taiwanese actor and film director.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Akira_Chen",
+  "dateOfBirth": "1969-03-10",
+  "birthDateParsed": "1969-03-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.08333",
+  "birthCoordinatesLng": "120.45",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "politician",
+    "actor"
+  ],
+  "qid": "Q19853982",
+  "birthPlace": "Lukang Township",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:07.813Z"
+}

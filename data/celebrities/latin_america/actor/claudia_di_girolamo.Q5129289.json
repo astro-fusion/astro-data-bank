@@ -1,0 +1,36 @@
+{
+  "publicId": "f09e67b8",
+  "wikipediaSlug": "Claudia_di_Girolamo",
+  "wikipediaId": "Q5129289",
+  "name": "Claudia di Girolamo",
+  "fullName": "Claudia di Girolamo",
+  "profileSummary": "Claudia del Carmen Di Girolamo Quesney, is a Chilean actress and theater director of Italian descent, who has a prominent and distinguished artistic career in theater, film and television. Considered one of the best actresses of the performing arts in the history of Chilean television.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Di_Girolamo_en_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudia_di_Girolamo",
+  "dateOfBirth": "1956-12-30",
+  "birthDateParsed": "1956-12-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "theatre director",
+    "dramaturge",
+    "director"
+  ],
+  "qid": "Q5129289",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:02.621Z"
+}

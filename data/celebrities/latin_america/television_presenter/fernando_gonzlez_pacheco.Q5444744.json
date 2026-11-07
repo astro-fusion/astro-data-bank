@@ -1,0 +1,34 @@
+{
+  "publicId": "504783d9",
+  "wikipediaSlug": "Fernando_González_Pacheco",
+  "wikipediaId": "Q5444744",
+  "name": "Fernando González Pacheco",
+  "fullName": "Fernando González Pacheco",
+  "profileSummary": "Fernando González-Pacheco Castro, also known as Pacheco, was a Colombian television host, announcer, journalist and occasional actor with a career spanning over six decades. Pacheco was born in Spain and received the Colombian citizenship as he had been residing in Colombia since he was 4 years old.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Fernandogonzalezpacheco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Gonz%C3%A1lez_Pacheco",
+  "dateOfBirth": "1932-09-13",
+  "birthDateParsed": "1932-09-13",
+  "dateOfDeath": "2014-02-11",
+  "deathDateParsed": "2014-02-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "journalist"
+  ],
+  "qid": "Q5444744",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:01.085Z"
+}

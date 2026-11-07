@@ -1,0 +1,33 @@
+{
+  "publicId": "39ab752a",
+  "wikipediaSlug": "Careca",
+  "wikipediaId": "Q342489",
+  "name": "Careca",
+  "fullName": "Careca",
+  "profileSummary": "Antônio de Oliveira Filho, better known as Careca, is a Brazilian former professional footballer who played as a forward. A prolific striker, he was noted for his finishing ability, movement and pace.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Antonio_de_Oliveira_Filho_%28Careca%29_01.jpg/330px-Antonio_de_Oliveira_Filho_%28Careca%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Careca",
+  "dateOfBirth": "1960-10-05",
+  "birthDateParsed": "1960-10-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.793888888",
+  "birthCoordinatesLng": "-48.175833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q342489",
+  "birthPlace": "Araraquara",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:42.124Z"
+}

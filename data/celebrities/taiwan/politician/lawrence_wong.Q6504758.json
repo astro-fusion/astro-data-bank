@@ -1,0 +1,36 @@
+{
+  "publicId": "418a9129",
+  "wikipediaSlug": "Lawrence_Wong",
+  "wikipediaId": "Q6504758",
+  "name": "Lawrence Wong",
+  "fullName": "Lawrence Wong",
+  "profileSummary": "Lawrence Wong Shyun Tsai is a Singaporean politician and civil servant who has served as the fourth prime minister of Singapore since 2024. A member of the People's Action Party (PAP), he has also served as a Member of Parliament (MP) for Marsiling–Yew Tee Group Representation Constituency (GRC) since 2015 and the minister of finance since 2021. He was an MP for West Coast GRC from 2011 to 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Prime_Minister_of_Singapore_Lawrence_Wong_250530-D-PM193-4275_%282025%29.jpg/330px-Prime_Minister_of_Singapore_Lawrence_Wong_250530-D-PM193-4275_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lawrence_Wong",
+  "dateOfBirth": "1972-12-18",
+  "birthDateParsed": "1972-12-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "chief executive officer",
+    "economist",
+    "minister"
+  ],
+  "qid": "Q6504758",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:45.361Z"
+}

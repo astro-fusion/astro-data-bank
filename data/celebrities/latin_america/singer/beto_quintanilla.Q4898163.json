@@ -1,0 +1,33 @@
+{
+  "publicId": "3991a6f5",
+  "wikipediaSlug": "Beto_Quintanilla",
+  "wikipediaId": "Q4898163",
+  "name": "Beto Quintanilla",
+  "fullName": "Beto Quintanilla",
+  "profileSummary": "Norberto \"Beto\" Quintanilla Iracheta was a Regional Mexican singer and songwriter. He was known as \"El Mero León del Corrido\"",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beto_Quintanilla",
+  "dateOfBirth": "1948-05-23",
+  "birthDateParsed": "1948-05-23",
+  "dateOfDeath": "2007-03-18",
+  "deathDateParsed": "2007-03-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.257186111",
+  "birthCoordinatesLng": "-99.685813888",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q4898163",
+  "birthPlace": "General Terán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:05.594Z"
+}

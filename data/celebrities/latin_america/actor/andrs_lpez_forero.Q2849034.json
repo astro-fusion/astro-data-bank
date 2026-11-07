@@ -1,0 +1,33 @@
+{
+  "publicId": "a1445b03",
+  "wikipediaSlug": "Andrés_López_Forero",
+  "wikipediaId": "Q2849034",
+  "name": "Andrés López Forero",
+  "fullName": "Andrés López Forero",
+  "profileSummary": "Andrés López is a comedian and actor. He is considered a pioneer of stand-up comedy in Colombia. López gained notoriety in Colombia after releasing his show called La Pelota de Letras which earned him a Double Diamond award from Universal Music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Plan_Integral_Policial_para_la_Seguridad_del_Ciudadano_%E2%80%9CCoraz%C3%B3n_Verde%E2%80%9D_%287846365470%29.jpg/330px-Plan_Integral_Policial_para_la_Seguridad_del_Ciudadano_%E2%80%9CCoraz%C3%B3n_Verde%E2%80%9D_%287846365470%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_L%C3%B3pez_Forero",
+  "dateOfBirth": "1971-06-25",
+  "birthDateParsed": "1971-06-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q2849034",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:15:38.886Z"
+}

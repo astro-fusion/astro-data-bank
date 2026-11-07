@@ -1,0 +1,36 @@
+{
+  "publicId": "2c97ff7e",
+  "wikipediaSlug": "Vladimir_Kozlov",
+  "wikipediaId": "Q336143",
+  "name": "Vladimir Kozlov",
+  "fullName": "Vladimir Kozlov",
+  "profileSummary": "Oleg Aleksandrovich Prudius better known by his ring name Vladimir Kozlov, is a Ukrainian actor and professional wrestler. He is best known for his time in WWE, where he won the WWE Tag Team Championship once with Santino Marella. He is trained in freestyle wrestling, rugby, football, sambo, kickboxing, judo, jujutsu, Brazilian jiu-jitsu and mixed martial arts.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vladimir_Kozlov_2010_Tribute_to_the_Troops.jpg/330px-Vladimir_Kozlov_2010_Tribute_to_the_Troops.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Kozlov",
+  "dateOfBirth": "1979-04-27",
+  "birthDateParsed": "1979-04-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "professional wrestler",
+    "judoka",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q336143",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:38.727Z"
+}

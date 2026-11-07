@@ -1,0 +1,35 @@
+{
+  "publicId": "67e71753",
+  "wikipediaSlug": "Loretta_Yang",
+  "wikipediaId": "Q9298572",
+  "name": "Loretta Yang",
+  "fullName": "Loretta Yang",
+  "profileSummary": "Loretta Hui-shan Yang or Yang Hui-shan is a Taiwanese film actress and contemporary glass artist.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Loretta_Yang",
+  "dateOfBirth": "1952-07-16",
+  "birthDateParsed": "1952-07-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "glass artist"
+  ],
+  "qid": "Q9298572",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:53.739Z"
+}

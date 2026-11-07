@@ -1,0 +1,35 @@
+{
+  "publicId": "358a2950",
+  "wikipediaSlug": "Abelardo_de_la_Espriella",
+  "wikipediaId": "Q137204778",
+  "name": "Abelardo de la Espriella",
+  "fullName": "Abelardo de la Espriella",
+  "profileSummary": "Abelardo Gabriel de la Espriella Otero is a Colombian lawyer, businessman, and politician who has served as the president of Colombia since 2026. He is the founder and leader of the Defenders of the Homeland party, established initially as a movement in 2024.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/330px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abelardo_de_la_Espriella",
+  "dateOfBirth": "1978-07-31",
+  "birthDateParsed": "1978-07-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "businessperson"
+  ],
+  "qid": "Q137204778",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:24.768Z"
+}

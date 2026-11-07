@@ -1,0 +1,34 @@
+{
+  "publicId": "8d494739",
+  "wikipediaSlug": "Itamar_Franco",
+  "wikipediaId": "Q485946",
+  "name": "Itamar Franco",
+  "fullName": "Itamar Franco",
+  "profileSummary": "Itamar Augusto Cautiero Franco was a Brazilian politician who served as the 33rd president of Brazil from 29 December 1992 to 1 January 1995. Previously, he was the 21st vice president of Brazil from 1990 until the resignation of President Fernando Collor de Mello. During his long political career Franco also served as Senator, Mayor, Ambassador and Governor. At the time of his death he was a senator from Minas Gerais, having won the seat in the 2010 election.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Itamar_Franco_Faixa_Presidencial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Itamar_Franco",
+  "dateOfBirth": "1930-06-28",
+  "birthDateParsed": "1930-06-28",
+  "dateOfDeath": "2011-04-02",
+  "deathDateParsed": "2011-04-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "0",
+  "birthCoordinatesLng": "-30",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat",
+    "politician"
+  ],
+  "qid": "Q485946",
+  "birthPlace": "Atlantic Ocean",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:34.737Z"
+}

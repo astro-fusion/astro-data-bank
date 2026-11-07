@@ -1,0 +1,38 @@
+{
+  "publicId": "1c3d1236",
+  "wikipediaSlug": "Brigitte_Mira",
+  "wikipediaId": "Q69648",
+  "name": "Brigitte Mira",
+  "fullName": "Brigitte Mira",
+  "profileSummary": "Brigitte Mira was a German actress. She worked in both theater and film, and on many occasions, with Rainer Werner Fassbinder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Brigitte_Mira.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigitte_Mira",
+  "dateOfBirth": "1910-04-20",
+  "birthDateParsed": "1910-04-20",
+  "dateOfDeath": "2005-03-08",
+  "deathDateParsed": "2005-03-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "stage actor",
+    "film actor",
+    "cabaret performer",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q69648",
+  "birthPlace": "Hamburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:59.218Z"
+}

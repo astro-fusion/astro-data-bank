@@ -1,0 +1,39 @@
+{
+  "publicId": "6b2919c1",
+  "wikipediaSlug": "Daniella_Monet",
+  "wikipediaId": "Q464131",
+  "name": "Daniella Monet",
+  "fullName": "Daniella Monet",
+  "profileSummary": "Daniella Monet Gardner is an American actress, entrepreneur and television personality. She is best known for her role as Trina Vega in the Nickelodeon television series Victorious (2010–2013) and its spin-off Hollywood Arts (2026).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Daniella_Monet_2019_%28UjqqO8-cdw%29.jpg/330px-Daniella_Monet_2019_%28UjqqO8-cdw%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniella_Monet",
+  "dateOfBirth": "1989-03-01",
+  "birthDateParsed": "1989-03-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "34.2064",
+  "birthCoordinatesLng": "-118.639",
+  "birthTimezone": "America/Los_Angeles",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor",
+    "stage actor",
+    "entrepreneur",
+    "television personality"
+  ],
+  "qid": "Q464131",
+  "birthPlace": "West Hills",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:50.360Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "e2558e79",
+  "wikipediaSlug": "Enno_Cheng",
+  "wikipediaId": "Q5379225",
+  "name": "Enno Cheng",
+  "fullName": "Enno Cheng",
+  "profileSummary": "Enno Cheng is a Taiwanese indie singer-songwriter who is also an author and a film actress. She is currently part of the band Chocolate Tiger (猛虎巧克力) in addition to performing and releasing albums solo. She is the daughter of film director Cheng Wen-tang, who she often collaborates with by writing screenplays and film scores as well as performing in his films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Enno_Cheng_%28cropped%29.jpg/330px-Enno_Cheng_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Enno_Cheng",
+  "dateOfBirth": "1987-03-19",
+  "birthDateParsed": "1987-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.75",
+  "birthCoordinatesLng": "121.75",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "songwriter",
+    "actor"
+  ],
+  "qid": "Q5379225",
+  "birthPlace": "Yilan County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:43.853Z"
+}

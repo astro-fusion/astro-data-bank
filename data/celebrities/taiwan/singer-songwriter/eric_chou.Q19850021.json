@@ -1,0 +1,33 @@
+{
+  "publicId": "ec09ff94",
+  "wikipediaSlug": "Eric_Chou",
+  "wikipediaId": "Q19850021",
+  "name": "Eric Chou",
+  "fullName": "Eric Chou",
+  "profileSummary": "Eric Chou Hsing-che is a Taiwanese singer and songwriter. He has been dubbed by the Taiwanese media as \"king of the lovelorn people\". He debuted in August 2014 with the self-composed smash hit \"The Distance of Love\", which is the ending theme of the 2014 Taiwanese drama The Way We Were. It reached 100 million views on YouTube, making Chou the youngest Mandopop artist to reach the feat at that time. His debut studio album, My Way to Love, was released in December of that year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eric_Chou_2023_%28cropped%29.jpg/330px-Eric_Chou_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Chou",
+  "dateOfBirth": "1995-06-22",
+  "birthDateParsed": "1995-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter"
+  ],
+  "qid": "Q19850021",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:46.174Z"
+}

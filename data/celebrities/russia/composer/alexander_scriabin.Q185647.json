@@ -1,0 +1,35 @@
+{
+  "publicId": "57d64cc2",
+  "wikipediaSlug": "Alexander_Scriabin",
+  "wikipediaId": "Q185647",
+  "name": "Alexander Scriabin",
+  "fullName": "Alexander Scriabin",
+  "profileSummary": "Alexander Nikolayevich Scriabin was a Russian composer and pianist. Initially influenced by Frédéric Chopin, he composed in a relatively tonal, late-Romantic idiom. Later, independently of his contemporary Arnold Schoenberg, Scriabin developed a highly dissonant musical language that transcended traditional tonality without being strictly atonal, aligning with his personal brand of metaphysics. He embraced the concepts of Gesamtkunstwerk and synesthesia, creating a colour-coded circle of fifths inspired by theosophy to associate colours with harmonies. Scriabin is widely considered the primary Russian symbolist composer and a major figure of the Silver Age of Russian Poetry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Scriabin_1909_Cropped.jpg/330px-Scriabin_1909_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Scriabin",
+  "dateOfBirth": "1872-01-06",
+  "birthDateParsed": "1872-01-06",
+  "dateOfDeath": "1915-04-27",
+  "deathDateParsed": "1915-04-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "pianist",
+    "university teacher"
+  ],
+  "qid": "Q185647",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:17.182Z"
+}

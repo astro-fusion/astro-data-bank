@@ -1,0 +1,35 @@
+{
+  "publicId": "4d4f2391",
+  "wikipediaSlug": "Zhanar_Dugalova",
+  "wikipediaId": "Q18563062",
+  "name": "Zhanar Dugalova",
+  "fullName": "Zhanar Dugalova",
+  "profileSummary": "Zhanar Dugalova is a Kazakh singer who won the Turkvision Song Contest 2014 representing Kazakhstan with the song \"Izin kórem\". She is also a former member of Kazakhstani pop group KeshYou. Since August 2014 she has continued her career independently.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhanar_Dugalova",
+  "dateOfBirth": "1987-01-17",
+  "birthDateParsed": "1987-01-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "44.8479",
+  "birthCoordinatesLng": "65.49989",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "actor"
+  ],
+  "qid": "Q18563062",
+  "birthPlace": "Kyzylorda",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T02:18:32.392Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "1d2a343e",
+  "wikipediaSlug": "Arthur_Moreira_Lima",
+  "wikipediaId": "Q1041189",
+  "name": "Arthur Moreira Lima",
+  "fullName": "Arthur Moreira Lima",
+  "profileSummary": "Arthur Moreira Lima was a Brazilian concert pianist and one of the country's leading pianists of his generation. Chopin stood at the center of his playing, but Brazilian music was just as present in his concerts and recordings, especially the work of Ernesto Nazareth.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Arthur_Moreira_Lima.jpg/330px-Arthur_Moreira_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Moreira_Lima",
+  "dateOfBirth": "1940-07-16",
+  "birthDateParsed": "1940-07-16",
+  "dateOfDeath": "2024-10-30",
+  "deathDateParsed": "2024-10-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "pianist"
+  ],
+  "qid": "Q1041189",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:07.306Z"
+}

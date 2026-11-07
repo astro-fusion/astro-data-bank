@@ -1,0 +1,35 @@
+{
+  "publicId": "32011f39",
+  "wikipediaSlug": "Tanya_Chua",
+  "wikipediaId": "Q699063",
+  "name": "Tanya Chua",
+  "fullName": "Tanya Chua",
+  "profileSummary": "Tanya Chua Chian Ya is a Singaporean singer-songwriter. She launched her singing career by releasing her debut studio album Bored in 1997. She was part of the trio that sang \"Moments of Magic\" (1999), Singapore's official millennium song. Her albums, Amphibian (2005), Goodbye & Hello (2007), Sing It Out of Love (2011) and Depart (2021), each won her a Golden Melody Award for Best Mandarin Female Singer award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tanya_Chua_2022.jpg/330px-Tanya_Chua_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tanya_Chua",
+  "dateOfBirth": "1975-01-28",
+  "birthDateParsed": "1975-01-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter",
+    "record producer"
+  ],
+  "qid": "Q699063",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:39.212Z"
+}

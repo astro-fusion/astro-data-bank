@@ -1,0 +1,34 @@
+{
+  "publicId": "364fe392",
+  "wikipediaSlug": "Alexander_Frumkin",
+  "wikipediaId": "Q2448727",
+  "name": "Alexander Frumkin",
+  "fullName": "Alexander Frumkin",
+  "profileSummary": "Alexander Naumovich Frumkin was a Soviet Russian electrochemist, member of the Russian Academy of Sciences since 1932, founder of the Russian Journal of Electrochemistry Elektrokhimiya and receiver of the Hero of Socialist Labor award. The Russian Academy of Sciences' A.N. Frumkin Institute of Physical Chemistry and Electrochemistry is named after him.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Frumkin_Moscow_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Frumkin",
+  "dateOfBirth": "1895-10-24",
+  "birthDateParsed": "1895-10-24",
+  "dateOfDeath": "1976-05-27",
+  "deathDateParsed": "1976-05-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.022777777",
+  "birthCoordinatesLng": "28.835277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist",
+    "university teacher"
+  ],
+  "qid": "Q2448727",
+  "birthPlace": "Chișinău",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:56.038Z"
+}

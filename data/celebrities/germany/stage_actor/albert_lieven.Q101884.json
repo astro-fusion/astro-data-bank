@@ -1,0 +1,36 @@
+{
+  "publicId": "b2b74832",
+  "wikipediaSlug": "Albert_Lieven",
+  "wikipediaId": "Q101884",
+  "name": "Albert Lieven",
+  "fullName": "Albert Lieven",
+  "profileSummary": "Albert Lieven was a German actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Actor_Albert_Lieven.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Lieven",
+  "dateOfBirth": "1906-06-23",
+  "birthDateParsed": "1906-06-23",
+  "dateOfDeath": "1971-12-22",
+  "deathDateParsed": "1971-12-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.583333333",
+  "birthCoordinatesLng": "20.283333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "reporter"
+  ],
+  "qid": "Q101884",
+  "birthPlace": "Olsztynek",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:53.037Z"
+}

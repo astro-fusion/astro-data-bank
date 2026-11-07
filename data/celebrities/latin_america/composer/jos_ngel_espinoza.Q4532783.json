@@ -1,0 +1,35 @@
+{
+  "publicId": "b35a7f35",
+  "wikipediaSlug": "José_Ángel_Espinoza",
+  "wikipediaId": "Q4532783",
+  "name": "José Ángel Espinoza",
+  "fullName": "José Ángel Espinoza",
+  "profileSummary": "José Ángel Espinoza Aragón, also known as Ferrusquilla, was a Mexican singer-songwriter and film actor. He was the father of actress Angélica Aragón. There is a statue of him along Olas Altas Promenade in Mazatlán, Mexico. He also was a composer affiliated to the SACM.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Ferrusquilla.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_%C3%81ngel_Espinoza",
+  "dateOfBirth": "1919-10-02",
+  "birthDateParsed": "1919-10-02",
+  "dateOfDeath": "2015-11-06",
+  "deathDateParsed": "2015-11-06",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "26.71",
+  "birthCoordinatesLng": "-108.326111111",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "actor",
+    "film actor",
+    "songwriter",
+    "singer"
+  ],
+  "qid": "Q4532783",
+  "birthPlace": "Choix",
+  "fetchedAt": "2026-08-16T13:16:43.727Z"
+}

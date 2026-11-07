@@ -1,0 +1,36 @@
+{
+  "publicId": "c349633e",
+  "wikipediaSlug": "Alejandro_Ibarra",
+  "wikipediaId": "Q8194083",
+  "name": "Alejandro Ibarra",
+  "fullName": "Alejandro Ibarra",
+  "profileSummary": "Alejandro Ibarra is a Mexican actor and singer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Ibarra",
+  "dateOfBirth": "1973-04-28",
+  "birthDateParsed": "1973-04-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "stage actor",
+    "singer"
+  ],
+  "qid": "Q8194083",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:40.174Z"
+}

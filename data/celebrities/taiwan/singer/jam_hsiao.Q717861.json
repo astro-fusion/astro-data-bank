@@ -1,0 +1,37 @@
+{
+  "publicId": "3057b22a",
+  "wikipediaSlug": "Jam_Hsiao",
+  "wikipediaId": "Q717861",
+  "name": "Jam Hsiao",
+  "fullName": "Jam Hsiao",
+  "profileSummary": "Jam Hsiao Ching-teng is a Taiwanese singer and actor. At the age of 17, while still in high school, he began working as a restaurant singer. In May 2007, Hsiao took part in the first season of China Television (CTV)'s star search show, One Million Star. He signed a contract with Warner Music Taiwan in 2008 and released his debut album, Jam Hsiao, in the same year.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jam_at_2012_Macau_concert.jpg/330px-Jam_at_2012_Macau_concert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jam_Hsiao",
+  "dateOfBirth": "1987-03-30",
+  "birthDateParsed": "1987-03-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "film actor",
+    "songwriter",
+    "recording artist"
+  ],
+  "qid": "Q717861",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:08.528Z"
+}

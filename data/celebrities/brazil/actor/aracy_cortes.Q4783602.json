@@ -1,0 +1,34 @@
+{
+  "publicId": "700dfa35",
+  "wikipediaSlug": "Aracy_Cortes",
+  "wikipediaId": "Q4783602",
+  "name": "Aracy Cortes",
+  "fullName": "Aracy Cortes",
+  "profileSummary": "Zilda de Carvalho Espíndola, professionally known as Aracy Cortes, was a Brazilian singer, dancer and actress. She is best known for bringing the traditional Brazilian samba forms into theatre and for being the first artist to perform Ary Barroso's \"Aquarela do Brasil\" in 1939.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aracy_Cortes%2C_1965.tif/lossy-page1-330px-Aracy_Cortes%2C_1965.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aracy_Cortes",
+  "dateOfBirth": "1904-03-31",
+  "birthDateParsed": "1904-03-31",
+  "dateOfDeath": "1985-01-08",
+  "deathDateParsed": "1985-01-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer"
+  ],
+  "qid": "Q4783602",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:09.995Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "a0108926",
+  "wikipediaSlug": "Annie_Rosar",
+  "wikipediaId": "Q87192",
+  "name": "Annie Rosar",
+  "fullName": "Annie Rosar",
+  "profileSummary": "Annie Rosar was an Austrian stage and film actress who is best remembered today for her appearances in many Austrian comedy films from the 1930s to the early 1960s. In those movies, she was frequently cast in the comic roles of nagging wife, evil mother-in-law, or understanding housekeeper, whether in rural (Heimatfilme) or urban settings. She occasionally also appeared in serious films, including her cameo performance as the porter's wife in The Third Man (1949), and in Embezzled Heaven based on the novel by Franz Werfel in 1958.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Annie_Rosar_1917_F._Setzer.png/330px-Annie_Rosar_1917_F._Setzer.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Annie_Rosar",
+  "dateOfBirth": "1888-05-17",
+  "birthDateParsed": "1888-05-17",
+  "dateOfDeath": "1963-08-05",
+  "deathDateParsed": "1963-08-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.2331",
+  "birthCoordinatesLng": "16.3147",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q87192",
+  "birthPlace": "Währing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:33.972Z"
+}

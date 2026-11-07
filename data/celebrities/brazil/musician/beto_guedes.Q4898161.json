@@ -1,0 +1,37 @@
+{
+  "publicId": "d07ea46c",
+  "wikipediaSlug": "Beto_Guedes",
+  "wikipediaId": "Q4898161",
+  "name": "Beto Guedes",
+  "fullName": "Beto Guedes",
+  "profileSummary": "Alberto de Castro Guedes is a Brazilian singer, songwriter, and guitarist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Betoguedes_tvbrasil.png/330px-Betoguedes_tvbrasil.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beto_Guedes",
+  "dateOfBirth": "1951-08-13",
+  "birthDateParsed": "1951-08-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-16.732222222",
+  "birthCoordinatesLng": "-43.863611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician",
+    "songwriter",
+    "composer",
+    "guitarist",
+    "recording artist"
+  ],
+  "qid": "Q4898161",
+  "birthPlace": "Montes Claros",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:47.678Z"
+}

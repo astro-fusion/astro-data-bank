@@ -1,0 +1,35 @@
+{
+  "publicId": "9d018c44",
+  "wikipediaSlug": "Ivan_Silayev",
+  "wikipediaId": "Q714552",
+  "name": "Ivan Silayev",
+  "fullName": "Ivan Silayev",
+  "profileSummary": "Ivan Stepanovich Silayev was a Soviet and Russian politician. He served as Prime Minister of the Soviet Union through the offices of chairman of the Committee on the Operational Management of the Soviet economy and chairman of the Inter-republican Economic Committee. Responsible for overseeing the economy of the Soviet Union during the late Gorbachev era, he was the last head of government of the Soviet Union, succeeding Valentin Pavlov.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SilaevIS.jpg/330px-SilaevIS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Silayev",
+  "dateOfBirth": "1930-10-21",
+  "birthDateParsed": "1930-10-21",
+  "dateOfDeath": "2023-02-08",
+  "deathDateParsed": "2023-02-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "54.862088",
+  "birthCoordinatesLng": "42.88196",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "engineer",
+    "diplomat"
+  ],
+  "qid": "Q714552",
+  "birthPlace": "Bakhtyzino",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:26.346Z"
+}

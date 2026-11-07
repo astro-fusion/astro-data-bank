@@ -1,0 +1,33 @@
+{
+  "publicId": "bded3dde",
+  "wikipediaSlug": "Fang_Wu",
+  "wikipediaId": "Q9119783",
+  "name": "Fang Wu",
+  "fullName": "Fang Wu",
+  "profileSummary": "Fang Wu is a Taiwanese female singer-songwriter. Wu has participated in Super Idol and Duets China. She was once the member of the duo, BabyFace and Double 2 Band.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DEWsMhG.jpg/330px-DEWsMhG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fang_Wu",
+  "dateOfBirth": "1990-03-23",
+  "birthDateParsed": "1990-03-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.615",
+  "birthCoordinatesLng": "120.2975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q9119783",
+  "birthPlace": "Kaohsiung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:55.837Z"
+}

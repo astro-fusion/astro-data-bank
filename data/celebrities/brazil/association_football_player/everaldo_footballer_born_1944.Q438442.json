@@ -1,0 +1,33 @@
+{
+  "publicId": "cfdd3ca6",
+  "wikipediaSlug": "Everaldo_(footballer,_born_1944)",
+  "wikipediaId": "Q438442",
+  "name": "Everaldo (footballer, born 1944)",
+  "fullName": "Everaldo (footballer, born 1944)",
+  "profileSummary": " Everaldo Marques da Silva, nicknamed Everaldo, was a Brazilian footballer who played as a left back for Grêmio and the Brazil national team. He won the 1970 FIFA World Cup. The golden star in Grêmio's flag was added in 1970 in his homage.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Everaldo_Marques_da_Silva.jpg/330px-Everaldo_Marques_da_Silva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Everaldo_(footballer%2C_born_1944)",
+  "dateOfBirth": "1944-09-11",
+  "birthDateParsed": "1944-09-11",
+  "dateOfDeath": "1974-10-27",
+  "deathDateParsed": "1974-10-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "-30.032777777",
+  "birthCoordinatesLng": "-51.23",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q438442",
+  "birthPlace": "Porto Alegre",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:03.752Z"
+}

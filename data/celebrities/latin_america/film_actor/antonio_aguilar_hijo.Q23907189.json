@@ -1,0 +1,35 @@
+{
+  "publicId": "eb074bb3",
+  "wikipediaSlug": "Antonio_Aguilar,_hijo",
+  "wikipediaId": "Q23907189",
+  "name": "Antonio Aguilar, hijo",
+  "fullName": "Antonio Aguilar, hijo",
+  "profileSummary": "José Jesús Antonio Aguilar Jiménez, known as Antonio Aguilar, Hijo is a Mexican singer and actor. He is the eldest son of singers and actors Antonio Aguilar and Flor Silvestre.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Aguilar%2C_hijo",
+  "dateOfBirth": "1960-10-09",
+  "birthDateParsed": "1960-10-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "singer",
+    "equestrian"
+  ],
+  "qid": "Q23907189",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:45.838Z"
+}

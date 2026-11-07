@@ -1,0 +1,36 @@
+{
+  "publicId": "d608f446",
+  "wikipediaSlug": "Fritz_Karl",
+  "wikipediaId": "Q88861",
+  "name": "Fritz Karl",
+  "fullName": "Fritz Karl",
+  "profileSummary": "Fritz Karl is an Austrian film, television and stage actor born in Gmunden, Upper Austria. He is one of the busiest Austrian actors.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dreharbeiten_zu_%E2%80%9EDas_beste_St%C3%BCck_vom_Braten%E2%80%9C-1717.jpg/330px-Dreharbeiten_zu_%E2%80%9EDas_beste_St%C3%BCck_vom_Braten%E2%80%9C-1717.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Karl",
+  "dateOfBirth": "1967-12-21",
+  "birthDateParsed": "1967-12-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "47.918055555",
+  "birthCoordinatesLng": "13.799444444",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q88861",
+  "birthPlace": "Gmunden",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:37.085Z"
+}

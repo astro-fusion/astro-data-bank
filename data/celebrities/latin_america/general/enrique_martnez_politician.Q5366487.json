@@ -1,0 +1,31 @@
+{
+  "publicId": "30c32b7b",
+  "wikipediaSlug": "Enrique_Martínez_(politician)",
+  "wikipediaId": "Q5366487",
+  "name": "Enrique Martínez (politician)",
+  "fullName": "Enrique Martínez (politician)",
+  "profileSummary": "Enrique Martínez was an Argentine lawyer and politician, governor of Córdoba Province Argentine Vice President during the second Hipólito Yrigoyen administration.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dr_Enrique_Martinez.JPG/330px-Dr_Enrique_Martinez.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Mart%C3%ADnez_(politician)",
+  "dateOfBirth": "1887-07-25",
+  "birthDateParsed": "1887-07-25",
+  "dateOfDeath": "1938-02-20",
+  "deathDateParsed": "1938-02-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.416666666",
+  "birthCoordinatesLng": "-64.183333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q5366487",
+  "birthPlace": "Córdoba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:10.765Z"
+}

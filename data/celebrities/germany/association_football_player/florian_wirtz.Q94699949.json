@@ -1,0 +1,33 @@
+{
+  "publicId": "111ec5bb",
+  "wikipediaSlug": "Florian_Wirtz",
+  "wikipediaId": "Q94699949",
+  "name": "Florian Wirtz",
+  "fullName": "Florian Wirtz",
+  "profileSummary": "Florian Richard Wirtz is a German professional footballer who plays as an attacking midfielder or left midfielder for Premier League club Liverpool and the Germany national team. He is widely regarded as one of the best attacking midfielders in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg/330px-Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+  "dateOfBirth": "2003-05-03",
+  "birthDateParsed": "2003-05-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51",
+  "birthCoordinatesLng": "6.8",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q94699949",
+  "birthPlace": "Pulheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:40.801Z"
+}

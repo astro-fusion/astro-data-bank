@@ -1,0 +1,33 @@
+{
+  "publicId": "7a351cfc",
+  "wikipediaSlug": "Fernando_de_la_Mora_(tenor)",
+  "wikipediaId": "Q5445015",
+  "name": "Fernando de la Mora (tenor)",
+  "fullName": "Fernando de la Mora (tenor)",
+  "profileSummary": "Fernando de la Mora is a Mexican operatic tenor. He began his music education in the National Conservatory of Mexico and studied with Leticia Velázquez and Rosa Rimoch.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/6thAnniversayMAP24.JPG/330px-6thAnniversayMAP24.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_de_la_Mora_(tenor)",
+  "dateOfBirth": "1958-06-07",
+  "birthDateParsed": "1958-06-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer"
+  ],
+  "qid": "Q5445015",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:46.266Z"
+}

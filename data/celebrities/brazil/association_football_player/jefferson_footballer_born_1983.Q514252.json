@@ -1,0 +1,33 @@
+{
+  "publicId": "66d9433a",
+  "wikipediaSlug": "Jefferson_(footballer,_born_1983)",
+  "wikipediaId": "Q514252",
+  "name": "Jefferson (footballer, born 1983)",
+  "fullName": "Jefferson (footballer, born 1983)",
+  "profileSummary": "Jefferson de Oliveira Galvão, simply known as Jefferson, is a Brazilian former professional footballer who played as a goalkeeper.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Jefferson_Oliveira_Galvao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jefferson_(footballer%2C_born_1983)",
+  "dateOfBirth": "1983-01-02",
+  "birthDateParsed": "1983-01-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.9664177",
+  "birthCoordinatesLng": "-46.3861401",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q514252",
+  "birthPlace": "São Vicente",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:51.595Z"
+}

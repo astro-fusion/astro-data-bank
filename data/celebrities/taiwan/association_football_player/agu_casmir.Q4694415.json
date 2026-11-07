@@ -1,0 +1,33 @@
+{
+  "publicId": "0d12fc50",
+  "wikipediaSlug": "Agu_Casmir",
+  "wikipediaId": "Q4694415",
+  "name": "Agu Casmir",
+  "fullName": "Agu Casmir",
+  "profileSummary": "Agu Casmir is a former professional footballer who played as a striker or attacking midfielder. Born in Nigeria, he played for the Singapore national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/1_agu_casmir_2012.jpg/330px-1_agu_casmir_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agu_Casmir",
+  "dateOfBirth": "1984-03-22",
+  "birthDateParsed": "1984-03-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.456111111",
+  "birthCoordinatesLng": "3.393611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q4694415",
+  "birthPlace": "Lagos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:44.784Z"
+}

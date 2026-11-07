@@ -1,0 +1,33 @@
+{
+  "publicId": "a16db934",
+  "wikipediaSlug": "El_Potro_de_Sinaloa",
+  "wikipediaId": "Q5351886",
+  "name": "El Potro de Sinaloa",
+  "fullName": "El Potro de Sinaloa",
+  "profileSummary": "José Eulogio Hernández, better known by his stage name El Potro de Sinaloa, is a regional Mexican singer, specializing in the styles of banda and Pacific norteño.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/EL_POTRO_DE_SINALOA_MIC.png/330px-EL_POTRO_DE_SINALOA_MIC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Potro_de_Sinaloa",
+  "dateOfBirth": "1977-11-17",
+  "birthDateParsed": "1977-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.790277777",
+  "birthCoordinatesLng": "-107.387777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "musician"
+  ],
+  "qid": "Q5351886",
+  "birthPlace": "Culiacán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:57.751Z"
+}

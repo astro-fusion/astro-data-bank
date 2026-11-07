@@ -1,0 +1,33 @@
+{
+  "publicId": "2e16e263",
+  "wikipediaSlug": "Júlio_César_(football_goalkeeper,_born_1979)",
+  "wikipediaId": "Q182459",
+  "name": "Júlio César (football goalkeeper, born 1979)",
+  "fullName": "Júlio César (football goalkeeper, born 1979)",
+  "profileSummary": "Júlio César Soares de Espíndola, known as Júlio César, is a Brazilian former professional footballer who played as a goalkeeper.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/J%C3%BAlio_C%C3%A9sar_FC_Internazionale.jpg/330px-J%C3%BAlio_C%C3%A9sar_FC_Internazionale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar_(football_goalkeeper%2C_born_1979)",
+  "dateOfBirth": "1979-09-03",
+  "birthDateParsed": "1979-09-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.785833333",
+  "birthCoordinatesLng": "-43.311944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q182459",
+  "birthPlace": "Duque de Caxias",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:49.586Z"
+}

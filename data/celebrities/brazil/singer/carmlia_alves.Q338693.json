@@ -1,0 +1,33 @@
+{
+  "publicId": "0faa802a",
+  "wikipediaSlug": "Carmélia_Alves",
+  "wikipediaId": "Q338693",
+  "name": "Carmélia Alves",
+  "fullName": "Carmélia Alves",
+  "profileSummary": "Carmélia Alves, a Brazilian singer known as the \"Queen of Baião\", was one of the country's best-known performers of baião, a folk rhythm popular in Northeast Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Carm%C3%A9lia_Alves.jpg/330px-Carm%C3%A9lia_Alves.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carm%C3%A9lia_Alves",
+  "dateOfBirth": "1952-02-14",
+  "birthDateParsed": "1952-02-14",
+  "dateOfDeath": "2012-11-02",
+  "deathDateParsed": "2012-11-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q338693",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:13.255Z"
+}

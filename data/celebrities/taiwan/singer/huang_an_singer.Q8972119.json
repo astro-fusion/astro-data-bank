@@ -1,0 +1,35 @@
+{
+  "publicId": "49bc68e0",
+  "wikipediaSlug": "Huang_An_(singer)",
+  "wikipediaId": "Q8972119",
+  "name": "Huang An (singer)",
+  "fullName": "Huang An (singer)",
+  "profileSummary": "Michael Huang An is a Taiwanese comedian, singer, television host, and writer, best known for his 1992 hit song \"The New Mandarin Ducks and Butterflies Dream\", the ending theme of the mega-hit television series Justice Pao (1993), and the album of the same name, which ranks as one of Taiwan's best-selling albums of all time.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Huang_An_(singer)",
+  "dateOfBirth": "1962-12-08",
+  "birthDateParsed": "1962-12-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.67416",
+  "birthCoordinatesLng": "121.16111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "writer",
+    "television presenter"
+  ],
+  "qid": "Q8972119",
+  "birthPlace": "Hsinchu County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:10.041Z"
+}

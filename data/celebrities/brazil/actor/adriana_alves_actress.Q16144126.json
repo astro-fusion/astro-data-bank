@@ -1,0 +1,35 @@
+{
+  "publicId": "b531ceda",
+  "wikipediaSlug": "Adriana_Alves_(actress)",
+  "wikipediaId": "Q16144126",
+  "name": "Adriana Alves (actress)",
+  "fullName": "Adriana Alves (actress)",
+  "profileSummary": "Adriana Alves is a Brazilian actress and former model. She has mainly played roles in Brazilian telenovelas. She is most well known for her role as Palmira Pinto Feijó in Celebridade, for which she won several awards, including the Trófeu Raça Negra and the Top of Business trophy.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adriana_Alves.jpg/330px-Adriana_Alves.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Alves_(actress)",
+  "dateOfBirth": "1976-12-12",
+  "birthDateParsed": "1976-12-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "model"
+  ],
+  "qid": "Q16144126",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:21.983Z"
+}

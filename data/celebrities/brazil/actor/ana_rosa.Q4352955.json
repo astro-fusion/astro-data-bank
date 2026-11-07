@@ -1,0 +1,37 @@
+{
+  "publicId": "a6fa8996",
+  "wikipediaSlug": "Ana_Rosa",
+  "wikipediaId": "Q4352955",
+  "name": "Ana Rosa",
+  "fullName": "Ana Rosa",
+  "profileSummary": "Ana Rosa Guy Galego is a Brazilian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ana_Rosa-atriz.jpg/330px-Ana_Rosa-atriz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Rosa",
+  "dateOfBirth": "1942-06-18",
+  "birthDateParsed": "1942-06-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.536944444",
+  "birthCoordinatesLng": "-49.858333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "circus performer",
+    "dancer",
+    "voice actor"
+  ],
+  "qid": "Q4352955",
+  "birthPlace": "Promissão",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:11.789Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "5d9859c7",
+  "wikipediaSlug": "Bemvindo_Sequeira",
+  "wikipediaId": "Q4890711",
+  "name": "Bemvindo Sequeira",
+  "fullName": "Bemvindo Sequeira",
+  "profileSummary": "Bemvindo Sequeira is a Brazilian actor, comedian, author, theater, and television director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Benvindo_Siqueira_by_Savarese.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bemvindo_Sequeira",
+  "dateOfBirth": "1947-07-27",
+  "birthDateParsed": "1947-07-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.732777777",
+  "birthCoordinatesLng": "-42.028888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q4890711",
+  "birthPlace": "Carangola",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:20.116Z"
+}

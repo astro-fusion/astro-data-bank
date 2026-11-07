@@ -1,0 +1,34 @@
+{
+  "publicId": "814b7977",
+  "wikipediaSlug": "Aleksandr_Khinchin",
+  "wikipediaId": "Q723638",
+  "name": "Aleksandr Khinchin",
+  "fullName": "Aleksandr Khinchin",
+  "profileSummary": "Aleksandr Yakovlevich Khinchin was a Soviet mathematician and one of the most significant contributors to the Soviet school of probability theory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Aleksandr_Khinchin.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Khinchin",
+  "dateOfBirth": "1894-07-19",
+  "birthDateParsed": "1894-07-19",
+  "dateOfDeath": "1959-11-18",
+  "deathDateParsed": "1959-11-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "54.80639",
+  "birthCoordinatesLng": "35.92778",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q723638",
+  "birthPlace": "Kondrovo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:45:52.072Z"
+}

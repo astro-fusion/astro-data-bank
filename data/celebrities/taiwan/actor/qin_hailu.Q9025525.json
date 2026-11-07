@@ -1,0 +1,36 @@
+{
+  "publicId": "1e378818",
+  "wikipediaSlug": "Qin_Hailu",
+  "wikipediaId": "Q9025525",
+  "name": "Qin Hailu",
+  "fullName": "Qin Hailu",
+  "profileSummary": "Qin Hailu is a Chinese actress, screenwriter and singer. She has won Best Actress at the Golden Horse Film Festival and Awards, Hong Kong Film Critics Society Award and Golden Bauhinia Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%E7%A7%A6%E6%B5%B7%E7%92%90_%28cropped%29.jpg/330px-%E7%A7%A6%E6%B5%B7%E7%92%90_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Qin_Hailu",
+  "dateOfBirth": "1978-08-11",
+  "birthDateParsed": "1978-08-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "38.9",
+  "birthCoordinatesLng": "121.6",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "singer",
+    "film director"
+  ],
+  "qid": "Q9025525",
+  "birthPlace": "Dalian",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:29.774Z"
+}

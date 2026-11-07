@@ -1,0 +1,36 @@
+{
+  "publicId": "cc636b40",
+  "wikipediaSlug": "Toni_Cantó",
+  "wikipediaId": "Q947070",
+  "name": "Toni Cantó",
+  "fullName": "Toni Cantó",
+  "profileSummary": "Antonio Cantó García del Moral is a Spanish actor and former politician who was Citizens deputy and spokesman, representing Valencia Province in the Congress of Deputies from 2011 to April 2015 and again from December 2015 until 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/El_diputado_de_Ciudadanos%2C_Toni_Cant%C3%B3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Toni_Cant%C3%B3",
+  "dateOfBirth": "1965-01-14",
+  "birthDateParsed": "1965-01-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.47",
+  "birthCoordinatesLng": "-0.376388888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "politician",
+    "journalist",
+    "television presenter"
+  ],
+  "qid": "Q947070",
+  "birthPlace": "Valencia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:50.041Z"
+}

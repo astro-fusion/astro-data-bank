@@ -1,0 +1,34 @@
+{
+  "publicId": "e621d0ae",
+  "wikipediaSlug": "Li_Xiaolu",
+  "wikipediaId": "Q715783",
+  "name": "Li Xiaolu",
+  "fullName": "Li Xiaolu",
+  "profileSummary": "Li Xiaolu, also known as Jacqueline Li, is a Chinese actress and singer. She is best known for her role in Joan Chen's directing debut Xiu Xiu: The Sent Down Girl (1998), idol drama All the Misfortunes Caused by the Angel (2001) and the popular youth series Struggle (2007). At age 16, she was the youngest actress to win the Golden Horse Award for Best Leading Actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%E6%9D%8E%E5%B0%8F%E7%92%90.jpg/330px-%E6%9D%8E%E5%B0%8F%E7%92%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Xiaolu",
+  "dateOfBirth": "1982-09-30",
+  "birthDateParsed": "1982-09-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "30.5",
+  "birthCoordinatesLng": "117.033333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor"
+  ],
+  "qid": "Q715783",
+  "birthPlace": "Anqing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:57.168Z"
+}

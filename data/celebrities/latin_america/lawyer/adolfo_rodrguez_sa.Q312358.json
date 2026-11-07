@@ -1,0 +1,34 @@
+{
+  "publicId": "c3697db0",
+  "wikipediaSlug": "Adolfo_Rodríguez_Saá",
+  "wikipediaId": "Q312358",
+  "name": "Adolfo Rodríguez Saá",
+  "fullName": "Adolfo Rodríguez Saá",
+  "profileSummary": "Adolfo Rodríguez-Saá is an Argentine Peronist politician. Born in a family that was highly influential in the history of the San Luis Province, he became the province's governor in 1983, after the end of the National Reorganization Process military dictatorship. He remained governor up to 2001, being re-elected in successive elections.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Inauguration_of_Javier_Milei_11243_%28cropped%29.jpg/330px-Inauguration_of_Javier_Milei_11243_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolfo_Rodr%C3%ADguez_Sa%C3%A1",
+  "dateOfBirth": "1947-07-25",
+  "birthDateParsed": "1947-07-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.299444444",
+  "birthCoordinatesLng": "-66.339166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q312358",
+  "birthPlace": "San Luis",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:23.592Z"
+}

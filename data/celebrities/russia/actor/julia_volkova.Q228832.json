@@ -1,0 +1,37 @@
+{
+  "publicId": "9335310a",
+  "wikipediaSlug": "Julia_Volkova",
+  "wikipediaId": "Q228832",
+  "name": "Julia Volkova",
+  "fullName": "Julia Volkova",
+  "profileSummary": "Yulia Olegovna Volkova, better known by the alternative spelling of Julia, is a Russian singer best known for being a member of the Russian girl group t.A.T.u., along with Lena Katina. Formed in Moscow, Russia by Ivan Shapovalov in 1999, the group signed a record deal with Universal Music Russia, and eventually Universal's sub-label Interscope Records in 2001.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Julia_Volkova_at_TEC_Continent_140920.jpg/330px-Julia_Volkova_at_TEC_Continent_140920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julia_Volkova",
+  "dateOfBirth": "1985-02-20",
+  "birthDateParsed": "1985-02-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "composer",
+    "television presenter",
+    "film director"
+  ],
+  "qid": "Q228832",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:00.478Z"
+}

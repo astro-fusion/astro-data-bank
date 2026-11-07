@@ -1,0 +1,35 @@
+{
+  "publicId": "17300905",
+  "wikipediaSlug": "Hans_Jakob_(footballer)",
+  "wikipediaId": "Q673828",
+  "name": "Hans Jakob (footballer)",
+  "fullName": "Hans Jakob (footballer)",
+  "profileSummary": "Hans Jakob was a German football player. He was born in Munich.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Jakob_(footballer)",
+  "dateOfBirth": "1908-06-16",
+  "birthDateParsed": "1908-06-16",
+  "dateOfDeath": "1994-03-23",
+  "deathDateParsed": "1994-03-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q673828",
+  "birthPlace": "Munich",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:44.284Z"
+}

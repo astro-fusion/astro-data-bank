@@ -1,0 +1,35 @@
+{
+  "publicId": "ab9095f2",
+  "wikipediaSlug": "Viktor_Zubkov",
+  "wikipediaId": "Q147425",
+  "name": "Viktor Zubkov",
+  "fullName": "Viktor Zubkov",
+  "profileSummary": "Viktor Alekseyevich Zubkov is a Russian civil servant, politician and businessman who served as the 36th Prime Minister of Russia from September 2007 to May 2008. He was Vladimir Putin's First Deputy Prime Minister during the presidency of Dmitry Medvedev.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Viktor_Zubkov_official_portrait.jpg/330px-Viktor_Zubkov_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Zubkov",
+  "dateOfBirth": "1941-09-15",
+  "birthDateParsed": "1941-09-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "58.469166666",
+  "birthCoordinatesLng": "59.631944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "entrepreneur",
+    "economist"
+  ],
+  "qid": "Q147425",
+  "birthPlace": "Arbat",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:37.069Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "c253b081",
+  "wikipediaSlug": "Alexander_Acha",
+  "wikipediaId": "Q4718185",
+  "name": "Alexander Acha",
+  "fullName": "Alexander Acha",
+  "profileSummary": "Raúl Alexander Acha Johnson-Alemán is a Mexican singer-songwriter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/POST_2009_06_11_16_20_08_alexander_acha_en_rd_ar_090609_blog.jpg/330px-POST_2009_06_11_16_20_08_alexander_acha_en_rd_ar_090609_blog.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Acha",
+  "dateOfBirth": "1985-01-25",
+  "birthDateParsed": "1985-01-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "pianist",
+    "songwriter",
+    "DJ producer",
+    "film score composer"
+  ],
+  "qid": "Q4718185",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:38.812Z"
+}

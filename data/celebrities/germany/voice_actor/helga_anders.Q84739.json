@@ -1,0 +1,37 @@
+{
+  "publicId": "b2fefcfd",
+  "wikipediaSlug": "Helga_Anders",
+  "wikipediaId": "Q84739",
+  "name": "Helga Anders",
+  "fullName": "Helga Anders",
+  "profileSummary": "Helga Anders was an Austrian actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Helga_Anders",
+  "dateOfBirth": "1948-01-11",
+  "birthDateParsed": "1948-01-11",
+  "dateOfDeath": "1986-03-31",
+  "deathDateParsed": "1986-03-31",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.268333333",
+  "birthCoordinatesLng": "11.393333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "voice actor",
+    "film actor",
+    "stage actor",
+    "dub actor",
+    "actor"
+  ],
+  "qid": "Q84739",
+  "birthPlace": "Innsbruck",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:13.781Z"
+}

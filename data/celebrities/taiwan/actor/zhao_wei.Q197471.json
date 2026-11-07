@@ -1,0 +1,36 @@
+{
+  "publicId": "f579d163",
+  "wikipediaSlug": "Zhao_Wei",
+  "wikipediaId": "Q197471",
+  "name": "Zhao Wei",
+  "fullName": "Zhao Wei",
+  "profileSummary": "Zhao Wei, also known as Vicky or Vicki Zhao, is a Chinese actress, singer, filmmaker, and businesswoman. Regarded as one of China's Four Dan actresses, she rose to fame for her role in the television series My Fair Princess (1998–1999), followed by popular dramas and films such as Romance in the Rain (2001) and Shaolin Soccer, Moment in Peking (2005), Painted Skin (2008), Mulan (2009), and Tiger Mom (2015). For her performance in the drama film Dearest (2014), Zhao won the Hong Kong Film Award for Best Actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zhao_Wei.jpg/330px-Zhao_Wei.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhao_Wei",
+  "dateOfBirth": "1976-03-12",
+  "birthDateParsed": "1976-03-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "31.33398",
+  "birthCoordinatesLng": "118.36223",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film director",
+    "film actor"
+  ],
+  "qid": "Q197471",
+  "birthPlace": "Wuhu",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:30.871Z"
+}

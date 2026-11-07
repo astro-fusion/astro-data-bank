@@ -1,0 +1,38 @@
+{
+  "publicId": "2007b46e",
+  "wikipediaSlug": "Alexander_Suvorov",
+  "wikipediaId": "Q154232",
+  "name": "Alexander Suvorov",
+  "fullName": "Alexander Suvorov",
+  "profileSummary": "Count Alexander Vasilyevich Suvorov-Rymniksky, Prince of Italy was a Russian general and military theorist in the service of the Russian Empire.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Joseph_Kreutzinger_-_Portrait_of_Count_Alexander_Suvorov_-_WGA12281.jpg/330px-Joseph_Kreutzinger_-_Portrait_of_Count_Alexander_Suvorov_-_WGA12281.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Suvorov",
+  "dateOfBirth": "1730-11-24",
+  "birthDateParsed": "1730-11-24",
+  "dateOfDeath": "1800-05-18",
+  "deathDateParsed": "1800-05-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "military officer",
+    "military leader",
+    "soldier",
+    "military theorist",
+    "general field marshal"
+  ],
+  "qid": "Q154232",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:16.498Z"
+}

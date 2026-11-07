@@ -1,0 +1,34 @@
+{
+  "publicId": "db1fd19e",
+  "wikipediaSlug": "Vitalii_Linetskyi",
+  "wikipediaId": "Q4262141",
+  "name": "Vitalii Linetskyi",
+  "fullName": "Vitalii Linetskyi",
+  "profileSummary": "Vitaly Borisovich Linetsky was a Ukrainian theater and film actor, Honored Artist of Ukraine (2004).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vitalii_Linetskyi",
+  "dateOfBirth": "1971-10-22",
+  "birthDateParsed": "1971-10-22",
+  "dateOfDeath": "2014-07-16",
+  "deathDateParsed": "2014-07-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.922777777",
+  "birthCoordinatesLng": "24.710555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q4262141",
+  "birthPlace": "Ivano-Frankivsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:40.098Z"
+}

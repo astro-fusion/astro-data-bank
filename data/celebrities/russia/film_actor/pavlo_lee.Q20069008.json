@@ -1,0 +1,38 @@
+{
+  "publicId": "ba02926e",
+  "wikipediaSlug": "Pavlo_Lee",
+  "wikipediaId": "Q20069008",
+  "name": "Pavlo Lee",
+  "fullName": "Pavlo Lee",
+  "profileSummary": "Pavlo 'Pasha' Romanovych Lee was a Ukrainian actor and television presenter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE_%D0%9B%D1%96.jpg/330px-%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE_%D0%9B%D1%96.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavlo_Lee",
+  "dateOfBirth": "1988-07-10",
+  "birthDateParsed": "1988-07-10",
+  "dateOfDeath": "2022-03-06",
+  "deathDateParsed": "2022-03-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "45.2",
+  "birthCoordinatesLng": "33.358333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "military personnel",
+    "actor",
+    "television presenter",
+    "voice actor",
+    "dub actor"
+  ],
+  "qid": "Q20069008",
+  "birthPlace": "Yevpatoriya",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:58.567Z"
+}

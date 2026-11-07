@@ -1,0 +1,38 @@
+{
+  "publicId": "fe3d36ed",
+  "wikipediaSlug": "Chen_Kun",
+  "wikipediaId": "Q706092",
+  "name": "Chen Kun",
+  "fullName": "Chen Kun",
+  "profileSummary": "Chen Kun, sometimes credited as Aloys Chen, is a Chinese actor, singer and producer. He rose to fame for the television series Love Story in Shanghai (2001) and The Story of a Noble Family (2003). He gained critical acclaim for the films The Knot (2006) and Painted Skin (2008). His other notable works include films Flying Swords of Dragon Gate (2011), Mojin: The Lost Legend (2015) and Chongqing Hot Pot (2016), as well as television series The Rise of Phoenixes (2018) and The Wind Blows From Longxi (2022).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%E5%AF%BB%E9%BE%99%E8%AF%80.jpg/330px-%E5%AF%BB%E9%BE%99%E8%AF%80.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Kun",
+  "dateOfBirth": "1976-02-04",
+  "birthDateParsed": "1976-02-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "29.55",
+  "birthCoordinatesLng": "106.506944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "television actor",
+    "actor",
+    "philanthropist",
+    "writer"
+  ],
+  "qid": "Q706092",
+  "birthPlace": "Chongqing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:28.400Z"
+}

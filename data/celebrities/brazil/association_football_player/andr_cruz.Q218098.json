@@ -1,0 +1,33 @@
+{
+  "publicId": "22ffaabf",
+  "wikipediaSlug": "André_Cruz",
+  "wikipediaId": "Q218098",
+  "name": "André Cruz",
+  "fullName": "André Cruz",
+  "profileSummary": " André Alves da Cruz is a Brazilian former professional footballer who played as a central defender. He played for several clubs in Brazil and Europe, and also represented the Brazil national team, taking part in the 1989 and 1995 Copa América tournaments, and the 1998 FIFA World Cup, as well as the 1987 Pan American Games and the 1988 Summer Olympics.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Cruz",
+  "dateOfBirth": "1968-09-20",
+  "birthDateParsed": "1968-09-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.725165",
+  "birthCoordinatesLng": "-47.6493269",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q218098",
+  "birthPlace": "Piracicaba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:14.513Z"
+}

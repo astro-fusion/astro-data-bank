@@ -1,0 +1,35 @@
+{
+  "publicId": "56df2dd1",
+  "wikipediaSlug": "Anja_Kling",
+  "wikipediaId": "Q71656",
+  "name": "Anja Kling",
+  "fullName": "Anja Kling",
+  "profileSummary": "Anja Kling is a German actress. She is the younger sister of actress Gerit Kling.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2019-02-11_Premiere_Fernsehfilm_%E2%80%9EKlassentreffen%E2%80%9C_by_Sandro_Halank%E2%80%93034.jpg/330px-2019-02-11_Premiere_Fernsehfilm_%E2%80%9EKlassentreffen%E2%80%9C_by_Sandro_Halank%E2%80%93034.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anja_Kling",
+  "dateOfBirth": "1970-03-22",
+  "birthDateParsed": "1970-03-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.4",
+  "birthCoordinatesLng": "13.066666666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "film actor"
+  ],
+  "qid": "Q71656",
+  "birthPlace": "Potsdam",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:32.833Z"
+}

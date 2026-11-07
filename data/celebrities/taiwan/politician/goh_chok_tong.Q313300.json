@@ -1,0 +1,34 @@
+{
+  "publicId": "8bfb359e",
+  "wikipediaSlug": "Goh_Chok_Tong",
+  "wikipediaId": "Q313300",
+  "name": "Goh Chok Tong",
+  "fullName": "Goh Chok Tong",
+  "profileSummary": "Goh Chok Tong, also known by his initials GCT, is a Singaporean retired politician who served as the second prime minister of Singapore from 1990 to 2004 and as a senior minister of Singapore from 2004 to 2011. He served as the secretary-general of the People's Action Party (PAP) from 1992 to 2004 and was the member of Parliament (MP) for Marine Parade Single Member Constituency from 1976 to 1988, and Marine Parade Group Representation Constituency from 1988 to 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Goh_Chok_Tong_20080328.jpg/330px-Goh_Chok_Tong_20080328.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Goh_Chok_Tong",
+  "dateOfBirth": "1941-05-20",
+  "birthDateParsed": "1941-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "head of government"
+  ],
+  "qid": "Q313300",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:56.493Z"
+}

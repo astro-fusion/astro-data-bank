@@ -1,0 +1,33 @@
+{
+  "publicId": "5c64d259",
+  "wikipediaSlug": "Ariel_Mateluna",
+  "wikipediaId": "Q659197",
+  "name": "Ariel Mateluna",
+  "fullName": "Ariel Mateluna",
+  "profileSummary": "Ariel Mateluna is a Chilean actor. He appeared in more than twenty films since 2004.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Premios_Caleuche_2019_-_2019-01-22_-_13.jpg/330px-Premios_Caleuche_2019_-_2019-01-22_-_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariel_Mateluna",
+  "dateOfBirth": "1989-03-21",
+  "birthDateParsed": "1989-03-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q659197",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:32.396Z"
+}

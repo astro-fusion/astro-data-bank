@@ -1,0 +1,33 @@
+{
+  "publicId": "cdd6d29a",
+  "wikipediaSlug": "Celso_Bugallo",
+  "wikipediaId": "Q1053153",
+  "name": "Celso Bugallo",
+  "fullName": "Celso Bugallo",
+  "profileSummary": "Celso Bugallo Aguiar was a Spanish actor from Galicia. Recognized as a supporting actor, he featured in films such as Mondays in the Sun, The Sea Inside, The Night of the Sunflowers, and The Good Boss.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Celso_Bugallo_%28Crop%29.jpg/330px-Celso_Bugallo_%28Crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Celso_Bugallo",
+  "dateOfBirth": "1947-03-12",
+  "birthDateParsed": "1947-03-12",
+  "dateOfDeath": "2025-12-20",
+  "deathDateParsed": "2025-12-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "42.445975",
+  "birthCoordinatesLng": "-8.83872778",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q1053153",
+  "birthPlace": "Lagarei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:35.268Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "86f7745c",
+  "wikipediaSlug": "Alexander_Kazakov",
+  "wikipediaId": "Q620492",
+  "name": "Alexander Kazakov",
+  "fullName": "Alexander Kazakov",
+  "profileSummary": "Alexander Alexandrovich Kazakov was the most successful Russian flying ace and fighter pilot during the First World War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alexander_Kazakov_%28c._1917%29.png/330px-Alexander_Kazakov_%28c._1917%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Kazakov",
+  "dateOfBirth": "1889-01-14",
+  "birthDateParsed": "1889-01-14",
+  "dateOfDeath": "1919-08-01",
+  "deathDateParsed": "1919-08-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "46.633333333",
+  "birthCoordinatesLng": "32.6",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "flying ace"
+  ],
+  "qid": "Q620492",
+  "birthPlace": "Kherson Governorate",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:32.760Z"
+}

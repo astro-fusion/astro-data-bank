@@ -1,0 +1,34 @@
+{
+  "publicId": "336bf474",
+  "wikipediaSlug": "Adriana_Birolli",
+  "wikipediaId": "Q9299787",
+  "name": "Adriana Birolli",
+  "fullName": "Adriana Birolli",
+  "profileSummary": "Adriana Birolli Ferreira, known professionally as Adriana Birolli, is a Brazilian actress. She was born in Curitiba, Paraná.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Adriana_Birolli_001_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Birolli",
+  "dateOfBirth": "1987-11-25",
+  "birthDateParsed": "1987-11-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-25.429722222",
+  "birthCoordinatesLng": "-49.271944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q9299787",
+  "birthPlace": "Curitiba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:23.270Z"
+}

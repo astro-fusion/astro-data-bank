@@ -1,0 +1,35 @@
+{
+  "publicId": "f2142a4e",
+  "wikipediaSlug": "Artur_Lohai",
+  "wikipediaId": "Q61117564",
+  "name": "Artur Lohai",
+  "fullName": "Artur Lohai",
+  "profileSummary": "Artur Serhiiovych Lohai is a Ukrainian actor and singer the best known acting in reality television show Kiev Day and Night, portraying in real name character. He was The X Factor contestant in 2014.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%9B%D0%BE%D0%B3%D0%B0%D0%B9_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artur_Lohai",
+  "dateOfBirth": "1993-09-12",
+  "birthDateParsed": "1993-09-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "46.848888888",
+  "birthCoordinatesLng": "35.3675",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor"
+  ],
+  "qid": "Q61117564",
+  "birthPlace": "Melitopol",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:19.909Z"
+}

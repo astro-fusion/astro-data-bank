@@ -1,0 +1,35 @@
+{
+  "publicId": "cfbe36a4",
+  "wikipediaSlug": "Fritz_Walter",
+  "wikipediaId": "Q22717",
+  "name": "Fritz Walter",
+  "fullName": "Fritz Walter",
+  "profileSummary": "Friedrich \"Fritz\" Walter was a German footballer who spent his entire senior career at 1. FC Kaiserslautern. He usually played as an attacking midfielder or inside forward. In his time with the Germany and West Germany national teams, he appeared in 61 games and scored 33 goals, and was the captain of the team that won the 1954 FIFA World Cup. After his career, he was named honorary captain of the Germany national team. Walter held the record for the most assists provided in FIFA World Cup tournaments, recording either nine or ten assists. His record was eventually surpassed by Lionel Messi in 2026.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fritz_Walter_cropped_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Walter",
+  "dateOfBirth": "1920-10-31",
+  "birthDateParsed": "1920-10-31",
+  "dateOfDeath": "2002-06-17",
+  "deathDateParsed": "2002-06-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.444722222",
+  "birthCoordinatesLng": "7.768888888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q22717",
+  "birthPlace": "Kaiserslautern",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:21.681Z"
+}

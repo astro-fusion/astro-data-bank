@@ -1,0 +1,33 @@
+{
+  "publicId": "344e2b76",
+  "wikipediaSlug": "Ivanna_Sakhno",
+  "wikipediaId": "Q20069680",
+  "name": "Ivanna Sakhno",
+  "fullName": "Ivanna Sakhno",
+  "profileSummary": "Ivanna Anatoliyivna Sakhno is a Ukrainian actress and activist. She is known for her roles as Cadet Viktoriya in the science fiction monster film Pacific Rim Uprising (2018), the hitwoman Nadedja in the 2018 action comedy film The Spy Who Dumped Me, and Shin Hati in 2023's Ahsoka television series. She had already achieved certain prominence in Ukraine after appearing in 2005 in the first ever Ukrainian-language sitcom, Lesia + Roma, and the 2013 biopic Ivan the Powerful.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sakhno_Ukrinform_2023.png/330px-Sakhno_Ukrinform_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivanna_Sakhno",
+  "dateOfBirth": "1997-11-14",
+  "birthDateParsed": "1997-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q20069680",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:16.180Z"
+}

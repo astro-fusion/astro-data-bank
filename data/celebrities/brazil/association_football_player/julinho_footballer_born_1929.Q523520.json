@@ -1,0 +1,34 @@
+{
+  "publicId": "223b92dc",
+  "wikipediaSlug": "Julinho_(footballer,_born_1929)",
+  "wikipediaId": "Q523520",
+  "name": "Julinho (footballer, born 1929)",
+  "fullName": "Julinho (footballer, born 1929)",
+  "profileSummary": "Júlio Botelho, also known as Julinho was a Brazilian football player. He was primarily a right winger. Known for his dribbling ability and powerful shot, Julinho is regarded as one of the greatest wingers in football history. He was selected by Eric Batty in the World Soccer Magazine world XI in 1960.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/J%C3%BAlio_Botelho_%28cropped%29.jpg/330px-J%C3%BAlio_Botelho_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Julinho_(footballer%2C_born_1929)",
+  "dateOfBirth": "1929-07-29",
+  "birthDateParsed": "1929-07-29",
+  "dateOfDeath": "2003-01-10",
+  "deathDateParsed": "2003-01-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q523520",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:38.524Z"
+}

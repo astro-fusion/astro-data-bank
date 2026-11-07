@@ -1,0 +1,34 @@
+{
+  "publicId": "76195e18",
+  "wikipediaSlug": "Getúlio_Vargas",
+  "wikipediaId": "Q156844",
+  "name": "Getúlio Vargas",
+  "fullName": "Getúlio Vargas",
+  "profileSummary": "Getúlio Dornelles Vargas was a Brazilian military officer, lawyer, and politician who served as the 14th and 17th president of Brazil, from 1930 to 1945 and from 1951 until his suicide in 1954. Due to his long and controversial tenure as Brazil's provisional, constitutional, dictatorial and democratic leader, he is considered by historians as the most influential Brazilian politician of the 20th century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Getulio_Vargas_%281930%29.jpg/330px-Getulio_Vargas_%281930%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas",
+  "dateOfBirth": "1882-04-19",
+  "birthDateParsed": "1882-04-19",
+  "dateOfDeath": "1954-08-24",
+  "deathDateParsed": "1954-08-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "-28.660833333",
+  "birthCoordinatesLng": "-56.003888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q156844",
+  "birthPlace": "São Borja",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:09.155Z"
+}

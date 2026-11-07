@@ -1,0 +1,37 @@
+{
+  "publicId": "dd4a9262",
+  "wikipediaSlug": "Frank-Walter_Steinmeier",
+  "wikipediaId": "Q76658",
+  "name": "Frank-Walter Steinmeier",
+  "fullName": "Frank-Walter Steinmeier",
+  "profileSummary": "Frank-Walter Steinmeier is a German politician who has served as President of Germany since 2017. He was previously Minister for Foreign Affairs from 2005 to 2009 and again from 2013 to 2017, as well as Vice-Chancellor of Germany from 2007 to 2009. Steinmeier was Chairman-in-Office of the Organization for Security and Co-operation in Europe (OSCE) in 2016.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Frank-Walter_Steinmeier_2026.jpeg/330px-Frank-Walter_Steinmeier_2026.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank-Walter_Steinmeier",
+  "dateOfBirth": "1956-01-05",
+  "birthDateParsed": "1956-01-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.937777777",
+  "birthCoordinatesLng": "8.883333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "vice-chancellor",
+    "jurist",
+    "foreign minister"
+  ],
+  "qid": "Q76658",
+  "birthPlace": "Detmold",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:24.208Z"
+}

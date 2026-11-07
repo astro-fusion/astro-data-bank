@@ -1,0 +1,35 @@
+{
+  "publicId": "3098dba5",
+  "wikipediaSlug": "Aleksey_Pisemsky",
+  "wikipediaId": "Q470371",
+  "name": "Aleksey Pisemsky",
+  "fullName": "Aleksey Pisemsky",
+  "profileSummary": "Aleksey Feofilaktovich Pisemsky was a Russian novelist and dramatist who was regarded as an equal of Ivan Turgenev and Fyodor Dostoyevsky in the late 1850s, but whose reputation suffered a spectacular decline after his fall-out with Sovremennik magazine in the early 1860s. A realistic playwright, along with Aleksandr Ostrovsky he was responsible for the first dramatization of ordinary people in the history of Russian theatre. \"Pisemsky's great narrative gift and exceptionally strong grip on reality make him one of the best Russian novelists\" according to D.S. Mirsky.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Pisemsky_by_Repin.jpg/330px-Pisemsky_by_Repin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksey_Pisemsky",
+  "dateOfBirth": "1821-03-23",
+  "birthDateParsed": "1821-03-23",
+  "dateOfDeath": "1881-02-02",
+  "deathDateParsed": "1881-02-02",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "novelist",
+    "writer"
+  ],
+  "qid": "Q470371",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:42.968Z"
+}

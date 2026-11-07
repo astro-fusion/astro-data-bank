@@ -1,0 +1,37 @@
+{
+  "publicId": "3a82bd7e",
+  "wikipediaSlug": "Carmen_Cartellieri",
+  "wikipediaId": "Q86028",
+  "name": "Carmen Cartellieri",
+  "fullName": "Carmen Cartellieri",
+  "profileSummary": "Carmen Cartellieri, also known as Carmen Teschen, was an Austrian actress and producer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Silent_film_actress_Carmen_Castellieri_%28SAYRE_20372%29.jpg/330px-Silent_film_actress_Carmen_Castellieri_%28SAYRE_20372%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmen_Cartellieri",
+  "dateOfBirth": "1891-06-28",
+  "birthDateParsed": "1891-06-28",
+  "dateOfDeath": "1953-10-17",
+  "deathDateParsed": "1953-10-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.472222222",
+  "birthCoordinatesLng": "17.110555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "stage actor",
+    "film actor",
+    "screenwriter"
+  ],
+  "qid": "Q86028",
+  "birthPlace": "Prostějov",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:06.127Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "6bd675e5",
+  "wikipediaSlug": "André_Moraes",
+  "wikipediaId": "Q9614493",
+  "name": "André Moraes",
+  "fullName": "André Moraes",
+  "profileSummary": "André Moraes is a Brazilian Latin Grammy-nominated musician, film director, music producer and soundtrack composer. He has worked in the entertainment industry for two decades. He has been married to actress Ana Carolina Machado since 24 August 2010.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Moraes",
+  "dateOfBirth": "1977-03-06",
+  "birthDateParsed": "1977-03-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-15.793888888",
+  "birthCoordinatesLng": "-47.882777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "composer",
+    "pianist",
+    "record producer",
+    "film director",
+    "guitarist"
+  ],
+  "qid": "Q9614493",
+  "birthPlace": "Brasília",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:45.995Z"
+}

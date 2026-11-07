@@ -1,0 +1,35 @@
+{
+  "publicId": "c8cbc707",
+  "wikipediaSlug": "Maxim_Berezovsky",
+  "wikipediaId": "Q1353816",
+  "name": "Maxim Berezovsky",
+  "fullName": "Maxim Berezovsky",
+  "profileSummary": "Maxim Sozontovich Berezovsky was a composer of secular and liturgical music, and a conductor and opera singer, who worked at the Saint Petersburg Court Chapel in the Russian Empire, but who also spent much of his career in Italy. He made an important contribution to the music of Ukraine. Together with Artemy Vedel and Dmitry Bortniansky, both of whom have cited him as an influence, Berezovsky is considered by musicologists as one of the three great composers of 18th-century Ukrainian classical music, and one of the Russian Empire's first composers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Maxim_Berezovsky_frame_removed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maxim_Berezovsky",
+  "dateOfBirth": "1745-10-27",
+  "birthDateParsed": "1745-10-27",
+  "dateOfDeath": "1777-04-02",
+  "deathDateParsed": "1777-04-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.676457594",
+  "birthCoordinatesLng": "33.907781433",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "opera singer",
+    "court musician"
+  ],
+  "qid": "Q1353816",
+  "birthPlace": "Hlukhiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:29.094Z"
+}

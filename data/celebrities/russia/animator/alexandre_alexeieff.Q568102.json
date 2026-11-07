@@ -1,0 +1,41 @@
+{
+  "publicId": "410cbe47",
+  "wikipediaSlug": "Alexandre_Alexeieff",
+  "wikipediaId": "Q568102",
+  "name": "Alexandre Alexeieff",
+  "fullName": "Alexandre Alexeieff",
+  "profileSummary": "Alexandre Alexandrovitch Alexeieff was a Russian-born artist, filmmaker and illustrator who lived and worked mainly in Paris. He and his second wife Claire Parker (1906–1981) are credited with inventing the pinscreen as well as the animation technique totalization. In all, Alexeieff produced 6 films on the pinscreen, 41 advertising films and illustrated 41 books.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/Alexandre_Alexeieff.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Alexeieff",
+  "dateOfBirth": "1901-08-01",
+  "birthDateParsed": "1901-08-01",
+  "dateOfDeath": "1982-08-09",
+  "deathDateParsed": "1982-08-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.790833333",
+  "birthCoordinatesLng": "49.114444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "animator",
+    "illustrator",
+    "inventor",
+    "film director",
+    "scenographer",
+    "engraver",
+    "graphic artist",
+    "director",
+    "painter"
+  ],
+  "qid": "Q568102",
+  "birthPlace": "Kazan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:27.738Z"
+}

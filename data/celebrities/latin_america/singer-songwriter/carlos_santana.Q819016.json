@@ -1,0 +1,38 @@
+{
+  "publicId": "2e8081bf",
+  "wikipediaSlug": "Carlos_Santana",
+  "wikipediaId": "Q819016",
+  "name": "Carlos Santana",
+  "fullName": "Carlos Santana",
+  "profileSummary": "Carlos Humberto Santana Barragán is a Mexican and American guitarist, best known as a founding member of the rock band Santana. Born and raised in Mexico where he developed his musical background, he rose to fame in the late 1960s and early 1970s in the United States with Santana, which pioneered a fusion of rock and roll and Latin American jazz. Its sound featured his melodic, blues-based lines set against Latin American and African rhythms played on percussion instruments not generally heard in rock, such as timbales and congas. He experienced a resurgence of popularity and critical acclaim in the late 1990s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Santana_Acer_Arena_%285558151833%29_%28cropped%29.jpg/330px-Santana_Acer_Arena_%285558151833%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Santana",
+  "dateOfBirth": "1947-07-20",
+  "birthDateParsed": "1947-07-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.771388888",
+  "birthCoordinatesLng": "-104.365277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "singer",
+    "composer",
+    "jazz guitarist",
+    "guitarist",
+    "musician"
+  ],
+  "qid": "Q819016",
+  "birthPlace": "Autlán de Navarro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:36.707Z"
+}

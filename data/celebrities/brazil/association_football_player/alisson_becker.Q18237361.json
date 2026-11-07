@@ -1,0 +1,33 @@
+{
+  "publicId": "2f738f66",
+  "wikipediaSlug": "Alisson_Becker",
+  "wikipediaId": "Q18237361",
+  "name": "Alisson Becker",
+  "fullName": "Alisson Becker",
+  "profileSummary": "Álisson Ramsés Becker, also known simply as Alisson, is a Brazilian professional footballer who plays as a goalkeeper for Premier League club Liverpool and the Brazil national team. He is regarded as one of the best goalkeepers in the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Alisson_Becker_Brazil_V_Morocco_13_June_2026-117_%28cropped%29.jpg/330px-Alisson_Becker_Brazil_V_Morocco_13_June_2026-117_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alisson_Becker",
+  "dateOfBirth": "1992-10-02",
+  "birthDateParsed": "1992-10-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-29.677777777",
+  "birthCoordinatesLng": "-51.130833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q18237361",
+  "birthPlace": "Novo Hamburgo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:25.580Z"
+}

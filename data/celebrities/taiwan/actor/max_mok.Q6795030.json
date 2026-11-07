@@ -1,0 +1,34 @@
+{
+  "publicId": "ecb3e9d4",
+  "wikipediaSlug": "Max_Mok",
+  "wikipediaId": "Q6795030",
+  "name": "Max Mok",
+  "fullName": "Max Mok",
+  "profileSummary": "Max Mok is a Hong Kong actor and singer. Mok was recruited by the Shaw Brothers Studio and has been a major film star since the 1980s. Mok is perhaps best known as Leung Foon in Once Upon a Time in China II, III, IV and V, after replacing Yuen Biao who was in the first film. In the Philippines, he is known as Bronson Lee.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Mok",
+  "dateOfBirth": "1962-12-02",
+  "birthDateParsed": "1962-12-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer"
+  ],
+  "qid": "Q6795030",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:08.071Z"
+}

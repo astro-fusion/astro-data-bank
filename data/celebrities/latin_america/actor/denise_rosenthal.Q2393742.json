@@ -1,0 +1,37 @@
+{
+  "publicId": "e14c7909",
+  "wikipediaSlug": "Denise_Rosenthal",
+  "wikipediaId": "Q2393742",
+  "name": "Denise Rosenthal",
+  "fullName": "Denise Rosenthal",
+  "profileSummary": "Denise Sofía Rosenthal Schalchli, known professionally as Denise Rosenthal is a Chilean singer and songwriter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cumbre_del_Rock_Chileno_-_Denise_Rosenthal_-_04.jpg/330px-Cumbre_del_Rock_Chileno_-_Denise_Rosenthal_-_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denise_Rosenthal",
+  "dateOfBirth": "1990-11-08",
+  "birthDateParsed": "1990-11-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "dancer",
+    "model",
+    "writer"
+  ],
+  "qid": "Q2393742",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:00.744Z"
+}

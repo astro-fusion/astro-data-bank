@@ -1,0 +1,33 @@
+{
+  "publicId": "a4f03fcc",
+  "wikipediaSlug": "Egan_Bernal",
+  "wikipediaId": "Q21936667",
+  "name": "Egan Bernal",
+  "fullName": "Egan Bernal",
+  "profileSummary": "Egan Arley Bernal Gómez is a Colombian professional cyclist who rides for UCI WorldTeam Netcompany–Ineos. He won the 2019 Tour de France, becoming the first Latin American rider to do so, and the youngest winner since 1909. Two years later, Bernal took his second Grand Tour win at the 2021 Giro d'Italia. Bernal was involved in a serious crash in 2022, and although he returned to racing in 2023, he has not raced at the same level as before.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Egan_Bernal_KOERS_2019_01_%28cropped%29.jpg/330px-Egan_Bernal_KOERS_2019_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Egan_Bernal",
+  "dateOfBirth": "1997-01-13",
+  "birthDateParsed": "1997-01-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "5.024722222",
+  "birthCoordinatesLng": "-74.001388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "sport cyclist"
+  ],
+  "qid": "Q21936667",
+  "birthPlace": "Zipaquirá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:40.915Z"
+}

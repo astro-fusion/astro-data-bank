@@ -1,0 +1,33 @@
+{
+  "publicId": "3897577a",
+  "wikipediaSlug": "Ilya_Maksimov",
+  "wikipediaId": "Q4276205",
+  "name": "Ilya Maksimov",
+  "fullName": "Ilya Maksimov",
+  "profileSummary": "Ilya Vladimirovich Maksimov is a Russian former football central midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ilya_Maksimov_2017.jpg/330px-Ilya_Maksimov_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilya_Maksimov",
+  "dateOfBirth": "1987-02-02",
+  "birthDateParsed": "1987-02-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "56.326944444",
+  "birthCoordinatesLng": "44.0075",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q4276205",
+  "birthPlace": "Nizhny Novgorod",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:11.922Z"
+}

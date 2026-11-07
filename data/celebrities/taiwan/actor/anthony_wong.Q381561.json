@@ -1,0 +1,39 @@
+{
+  "publicId": "1080b07a",
+  "wikipediaSlug": "Anthony_Wong",
+  "wikipediaId": "Q381561",
+  "name": "Anthony Wong",
+  "fullName": "Anthony Wong",
+  "profileSummary": "Anthony Wong Chau-sang is a Hong Kong film actor, film director and singer, known for his intense portrayals of often-amoral characters. He has won the Hong Kong Film Award for Best Actor three times for The Untold Story (1993), Beast Cops (1998) and Still Human (2018), and won Taiwan's Golden Horse Award for Best Actor for The Sunny Side of the Street (2022). He is the first Hong Kong actor to have won Best Actor awards in films, stage theatre and TV. His other works include Hard Boiled (1992), Infernal Affairs trilogy (2002–2003) and the Hollywood film The Mummy: Tomb of the Dragon Emperor (2008).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Anthony_Wong_Chau-sang_2022-09-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Wong",
+  "dateOfBirth": "1961-09-02",
+  "birthDateParsed": "1961-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "stage actor",
+    "film actor",
+    "screenwriter",
+    "film producer",
+    "television actor"
+  ],
+  "qid": "Q381561",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:03.956Z"
+}

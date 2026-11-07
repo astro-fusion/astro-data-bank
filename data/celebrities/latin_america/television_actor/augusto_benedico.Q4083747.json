@@ -1,0 +1,34 @@
+{
+  "publicId": "270975df",
+  "wikipediaSlug": "Augusto_Benedico",
+  "wikipediaId": "Q4083747",
+  "name": "Augusto Benedico",
+  "fullName": "Augusto Benedico",
+  "profileSummary": "Augusto Benedico, born Augusto Pérez Lias, was a Mexican actor of Spanish origin best known for his role as \"Don Alberto Salvatierra\" in the soap opera Los ricos también lloran and his role as \"Don Fernando\" in the American educational television program Destinos: An Introduction to Spanish.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Augusto_Benedico_Der_W%C3%BCrgeengel.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusto_Benedico",
+  "dateOfBirth": "1909-12-20",
+  "birthDateParsed": "1909-12-20",
+  "dateOfDeath": "1992-01-19",
+  "deathDateParsed": "1992-01-19",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "38.345277777",
+  "birthCoordinatesLng": "-0.483055555",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "stage actor",
+    "actor"
+  ],
+  "qid": "Q4083747",
+  "birthPlace": "Alicante",
+  "fetchedAt": "2026-08-16T13:16:07.650Z"
+}

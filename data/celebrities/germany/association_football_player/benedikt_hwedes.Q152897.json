@@ -1,0 +1,33 @@
+{
+  "publicId": "f4ce24ed",
+  "wikipediaSlug": "Benedikt_Höwedes",
+  "wikipediaId": "Q152897",
+  "name": "Benedikt Höwedes",
+  "fullName": "Benedikt Höwedes",
+  "profileSummary": "Benedikt Höwedes is a German former professional footballer who played as a defender. He spent the majority of his playing career for Schalke 04, which he captained for six seasons, and represented the Germany national football team from 2011 to 2017. At international level, Höwedes won the World Cup with Germany in 2014, and was one of only three players to play every single minute of the tournament. Höwedes described himself as a 'multi-functional player' in the defence, who can play in the centre or as both a left or right-sided full back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Benedikt_H%C3%B6wedes_2018.jpg/330px-Benedikt_H%C3%B6wedes_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benedikt_H%C3%B6wedes",
+  "dateOfBirth": "1988-02-29",
+  "birthDateParsed": "1988-02-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.75",
+  "birthCoordinatesLng": "7.183333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q152897",
+  "birthPlace": "Haltern am See",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:05.231Z"
+}

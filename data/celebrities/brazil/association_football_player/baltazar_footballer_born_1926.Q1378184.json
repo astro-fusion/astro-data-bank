@@ -1,0 +1,34 @@
+{
+  "publicId": "5f4909d8",
+  "wikipediaSlug": "Baltazar_(footballer,_born_1926)",
+  "wikipediaId": "Q1378184",
+  "name": "Baltazar (footballer, born 1926)",
+  "fullName": "Baltazar (footballer, born 1926)",
+  "profileSummary": "Oswaldo da Silva, commonly known as Baltazar, was a Brazilian footballer. Nicknamed Cabecinha de Ouro by fans for his heading ability, he played as a forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Baltazar%2C_jogador_de_futebol%2C_sem_data.tif/lossy-page1-330px-Baltazar%2C_jogador_de_futebol%2C_sem_data.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baltazar_(footballer%2C_born_1926)",
+  "dateOfBirth": "1926-01-14",
+  "birthDateParsed": "1926-01-14",
+  "dateOfDeath": "1997-03-25",
+  "deathDateParsed": "1997-03-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.9335988",
+  "birthCoordinatesLng": "-46.3286399",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q1378184",
+  "birthPlace": "Santos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:18.716Z"
+}

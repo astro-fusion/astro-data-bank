@@ -1,0 +1,35 @@
+{
+  "publicId": "5b3d0c47",
+  "wikipediaSlug": "Hsieh_Hsin-ying",
+  "wikipediaId": "Q15902599",
+  "name": "Hsieh Hsin-ying",
+  "fullName": "Hsieh Hsin-ying",
+  "profileSummary": "Hsieh Hsin-ying, also known as Nikki Hsieh is a Taiwanese actress and model. Her works have expanded in different realms, including advertising, movies, and TV series. She appeared in the movies including Make Up, I WeirDo, and The Assassin. As for television, she appeared in Light the Night, Love @ Seventeen, and Meet Me @ 1006. In 2006, she participated in Reflections and won the 43rd Golden Horse Award for the Best Supporting Actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nikki_Hsieh_%28cropped%29.jpg/330px-Nikki_Hsieh_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hsieh_Hsin-ying",
+  "dateOfBirth": "1985-05-01",
+  "birthDateParsed": "1985-05-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.766666666",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q15902599",
+  "birthPlace": "Taiwan Island",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:42.025Z"
+}

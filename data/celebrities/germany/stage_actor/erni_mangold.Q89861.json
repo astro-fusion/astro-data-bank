@@ -1,0 +1,36 @@
+{
+  "publicId": "f2b94a7f",
+  "wikipediaSlug": "Erni_Mangold",
+  "wikipediaId": "Q89861",
+  "name": "Erni Mangold",
+  "fullName": "Erni Mangold",
+  "profileSummary": "Erni Mangold is an Austrian actress and stage director. Since 1948, she had appeared in more than 75 films and TV productions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Erni_Mangold_Romy_2015.jpg/330px-Erni_Mangold_Romy_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erni_Mangold",
+  "dateOfBirth": "1927-01-25",
+  "birthDateParsed": "1927-01-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.4725",
+  "birthCoordinatesLng": "15.98",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "director"
+  ],
+  "qid": "Q89861",
+  "birthPlace": "Grossweikersdorf",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:37.763Z"
+}

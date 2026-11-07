@@ -1,0 +1,34 @@
+{
+  "publicId": "f0654f68",
+  "wikipediaSlug": "Denisse_Guerrero",
+  "wikipediaId": "Q5257849",
+  "name": "Denisse Guerrero",
+  "fullName": "Denisse Guerrero",
+  "profileSummary": "Denisse Guerrero Flores is a Mexican musician and singer-songwriter, best known as the lead vocalist of the electropop band Belanova.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Denisse_Guerrero%2ABelanova%2A.jpg/330px-Denisse_Guerrero%2ABelanova%2A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Denisse_Guerrero",
+  "dateOfBirth": "1980-08-08",
+  "birthDateParsed": "1980-08-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.793611111",
+  "birthCoordinatesLng": "-108.996944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter"
+  ],
+  "qid": "Q5257849",
+  "birthPlace": "Los Mochis",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:32.368Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "33eb3050",
+  "wikipediaSlug": "Aleksey_Shakhmatov",
+  "wikipediaId": "Q729707",
+  "name": "Aleksey Shakhmatov",
+  "fullName": "Aleksey Shakhmatov",
+  "profileSummary": "Aleksey Aleksandrovich Shakhmatov was a Russian philologist and historian credited with laying the foundations for the science of textology. Shakhmatov held the title of Doctor of Russian language and philology. He was a full member of the Russian Academy of Sciences since 1899 and a chair of the Department of Russian language and philology of the Academy of Sciences (1908–1920), a member of the Constitutional Democratic Party (1905) and the Russian Empire State Council (1906–1911).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Shahmatov_Aleksey_Aleksandrovich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksey_Shakhmatov",
+  "dateOfBirth": "1864-06-17",
+  "birthDateParsed": "1864-06-17",
+  "dateOfDeath": "1920-08-16",
+  "deathDateParsed": "1920-08-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.379166666",
+  "birthCoordinatesLng": "28.200555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "linguist",
+    "dialectologist",
+    "historian",
+    "slavist"
+  ],
+  "qid": "Q729707",
+  "birthPlace": "Narva",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:40.960Z"
+}

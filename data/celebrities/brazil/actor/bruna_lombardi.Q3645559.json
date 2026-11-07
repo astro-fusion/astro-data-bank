@@ -1,0 +1,38 @@
+{
+  "publicId": "5762f2d9",
+  "wikipediaSlug": "Bruna_Lombardi",
+  "wikipediaId": "Q3645559",
+  "name": "Bruna Lombardi",
+  "fullName": "Bruna Lombardi",
+  "profileSummary": "Bruna Patricia Maria Teresa Romilda Lombardi is a Brazilian poet, writer, model, and film and TV actress. She is daughter of Italian film producer Ugo Lombardi.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bruna_Lombardi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruna_Lombardi",
+  "dateOfBirth": "1952-08-01",
+  "birthDateParsed": "1952-08-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "poet",
+    "model",
+    "novelist",
+    "blogger"
+  ],
+  "qid": "Q3645559",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:23.814Z"
+}

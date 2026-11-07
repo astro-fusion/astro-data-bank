@@ -1,0 +1,37 @@
+{
+  "publicId": "4963faae",
+  "wikipediaSlug": "Andrea_Sawatzki",
+  "wikipediaId": "Q66434",
+  "name": "Andrea Sawatzki",
+  "fullName": "Andrea Sawatzki",
+  "profileSummary": "Andrea Sawatzki is a German actress. From 2002 to 2010 she starred in the Hessischer Rundfunk version of the popular television crime series Tatort as police inspector Charlotte Sänger.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Andrea_Sawatzki-2495.jpg/330px-Andrea_Sawatzki-2495.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Sawatzki",
+  "dateOfBirth": "1963-02-23",
+  "birthDateParsed": "1963-02-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "47.655",
+  "birthCoordinatesLng": "11.313333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "film actor",
+    "stage actor",
+    "author"
+  ],
+  "qid": "Q66434",
+  "birthPlace": "Schlehdorf",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:40.824Z"
+}

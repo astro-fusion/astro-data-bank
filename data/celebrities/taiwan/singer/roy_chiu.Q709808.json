@@ -1,0 +1,38 @@
+{
+  "publicId": "77cd6158",
+  "wikipediaSlug": "Roy_Chiu",
+  "wikipediaId": "Q709808",
+  "name": "Roy Chiu",
+  "fullName": "Roy Chiu",
+  "profileSummary": "Roy Chiu is a Taiwanese actor, singer and racing driver. He earned two Golden Horse Award for Best Leading Actor nominations for his performances in Dear Ex (2018) and Man in Love (2021) and also received two Taipei Film Award for Best Actor for these two performances.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Roy_Chiu_20220615.jpg/330px-Roy_Chiu_20220615.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roy_Chiu",
+  "dateOfBirth": "1981-10-14",
+  "birthDateParsed": "1981-10-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "film actor",
+    "racing automobile driver",
+    "volleyball player"
+  ],
+  "qid": "Q709808",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:02.083Z"
+}

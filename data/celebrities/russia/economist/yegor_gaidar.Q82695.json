@@ -1,0 +1,37 @@
+{
+  "publicId": "7b523f94",
+  "wikipediaSlug": "Yegor_Gaidar",
+  "wikipediaId": "Q82695",
+  "name": "Yegor Gaidar",
+  "fullName": "Yegor Gaidar",
+  "profileSummary": "Yegor Timurovich Gaidar was a Soviet and Russian economist, politician, and author who was the acting Prime Minister of Russia in 1992 and simultaneously held several other cabinet roles. Gaidar was also in the State Duma from 1993 to 1996 and from 1999 to 2003 as a member of Democratic Choice of Russia and the Union of Right Forces.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ba-gaidar-e-t-1999-square_%28cropped%29.jpg/330px-Ba-gaidar-e-t-1999-square_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yegor_Gaidar",
+  "dateOfBirth": "1956-03-19",
+  "birthDateParsed": "1956-03-19",
+  "dateOfDeath": "2009-12-16",
+  "deathDateParsed": "2009-12-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician",
+    "journalist",
+    "university teacher",
+    "head of government"
+  ],
+  "qid": "Q82695",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:40.582Z"
+}

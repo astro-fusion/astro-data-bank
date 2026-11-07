@@ -1,0 +1,39 @@
+{
+  "publicId": "9e6a3e04",
+  "wikipediaSlug": "Bartolomé_Mitre",
+  "wikipediaId": "Q314362",
+  "name": "Bartolomé Mitre",
+  "fullName": "Bartolomé Mitre",
+  "profileSummary": "Bartolomé Mitre was an Argentine general, statesman and author. He was President of Argentina from 1862 to 1868 and the first president of unified Argentina.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bartolom%C3%A9_Mitre_01.jpg/330px-Bartolom%C3%A9_Mitre_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bartolom%C3%A9_Mitre",
+  "dateOfBirth": "1821-06-26",
+  "birthDateParsed": "1821-06-26",
+  "dateOfDeath": "1906-01-19",
+  "deathDateParsed": "1906-01-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "linguist",
+    "journalist",
+    "historian",
+    "politician",
+    "translator",
+    "author"
+  ],
+  "qid": "Q314362",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:40.423Z"
+}

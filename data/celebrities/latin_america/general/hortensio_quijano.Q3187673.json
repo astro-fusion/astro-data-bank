@@ -1,0 +1,31 @@
+{
+  "publicId": "67e92080",
+  "wikipediaSlug": "Hortensio_Quijano",
+  "wikipediaId": "Q3187673",
+  "name": "Hortensio Quijano",
+  "fullName": "Hortensio Quijano",
+  "profileSummary": "Juan Hortensio Quijano was the Vice President of Argentina under President Juan Perón from 1946 until his 1952 death in Buenos Aires.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Juan_Hortensio_Quijano.jpg/330px-Juan_Hortensio_Quijano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hortensio_Quijano",
+  "dateOfBirth": "1884-06-10",
+  "birthDateParsed": "1884-06-10",
+  "dateOfDeath": "1952-04-03",
+  "deathDateParsed": "1952-04-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "-29.783333333",
+  "birthCoordinatesLng": "-58.083333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q3187673",
+  "birthPlace": "Goya",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:44.545Z"
+}

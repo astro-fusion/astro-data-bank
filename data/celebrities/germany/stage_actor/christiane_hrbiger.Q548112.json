@@ -1,0 +1,37 @@
+{
+  "publicId": "d1acd27e",
+  "wikipediaSlug": "Christiane_Hörbiger",
+  "wikipediaId": "Q548112",
+  "name": "Christiane Hörbiger",
+  "fullName": "Christiane Hörbiger",
+  "profileSummary": "Christiane Hörbiger was an Austrian stage, film, and television actress. Her first major film role was Mary Vetsera in Kronprinz Rudolfs letzte Liebe in 1955. She appeared on the stage of the Burgtheater as Recha in Lessing's Nathan der Weise in 1959, became a member of Theater Heidelberg and later Schauspielhaus Zürich. From 1969 to 1972, she portrayed Die Buhlschaft in Hofmannsthal's Jedermann at the Salzburg Festival.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Christiane_H%C3%B6rbiger%2C_ROMY_2009_a.jpg/330px-Christiane_H%C3%B6rbiger%2C_ROMY_2009_a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christiane_H%C3%B6rbiger",
+  "dateOfBirth": "1938-10-13",
+  "birthDateParsed": "1938-10-13",
+  "dateOfDeath": "2022-11-30",
+  "deathDateParsed": "2022-11-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "voice actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q548112",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:21.320Z"
+}

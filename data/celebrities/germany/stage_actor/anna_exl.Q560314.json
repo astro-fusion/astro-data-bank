@@ -1,0 +1,37 @@
+{
+  "publicId": "18653ea4",
+  "wikipediaSlug": "Anna_Exl",
+  "wikipediaId": "Q560314",
+  "name": "Anna Exl",
+  "fullName": "Anna Exl",
+  "profileSummary": "Anna Exl was an Austrian stage and film actress. She was married to the actor Ferdinand Exl, with whom she had a daughter Ilse. Her younger sister Mimi Gstöttner-Auer was also an actress.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Exl",
+  "dateOfBirth": "1882-08-03",
+  "birthDateParsed": "1882-08-03",
+  "dateOfDeath": "1969-11-15",
+  "deathDateParsed": "1969-11-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "47.268333333",
+  "birthCoordinatesLng": "11.393333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "theatre manager",
+    "actor",
+    "Theaterintendant"
+  ],
+  "qid": "Q560314",
+  "birthPlace": "Innsbruck",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:42.068Z"
+}

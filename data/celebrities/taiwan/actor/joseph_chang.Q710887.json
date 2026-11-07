@@ -1,0 +1,35 @@
+{
+  "publicId": "e31c2f0e",
+  "wikipediaSlug": "Joseph_Chang",
+  "wikipediaId": "Q710887",
+  "name": "Joseph Chang",
+  "fullName": "Joseph Chang",
+  "profileSummary": "Joseph Chang Hsiao-chuan is a Taiwanese actor. He is best known for his role in the critically acclaimed 2006 Taiwanese film Eternal Summer, which earned him two Golden Horse Awards nominations for Best Supporting Actor and Best New Performer for his role as Yu Shouheng. He was also nominated in 2006, for Best Actor in a Miniseries or Television Film at the 41st Golden Bell Awards for his role as Paul in Corner of Auction World. He attended the Fu-Hsin Trade and Arts School (復興商工) in Taipei.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Joseph_Chang_20150318_2.jpg/330px-Joseph_Chang_20150318_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Chang",
+  "dateOfBirth": "1983-12-28",
+  "birthDateParsed": "1983-12-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.766666666",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q710887",
+  "birthPlace": "Taiwan Island",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:37.199Z"
+}

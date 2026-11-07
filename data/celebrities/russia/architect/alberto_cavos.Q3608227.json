@@ -1,0 +1,33 @@
+{
+  "publicId": "d87439c7",
+  "wikipediaSlug": "Alberto_Cavos",
+  "wikipediaId": "Q3608227",
+  "name": "Alberto Cavos",
+  "fullName": "Alberto Cavos",
+  "profileSummary": "Alberto Katerinovich Cavos was a Russian–Italian architect best known for his theatre designs, the builder of the Mariinsky Theatre in Saint Petersburg (1859–1860) and the Bolshoi Theatre in Moscow (1853–1856).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cosroe_Dusi%2C_Alberto_Cavos%2C_1849%2C_Hermitage_Museum_%D0%AD%D0%A0%D0%96-912.jpg/330px-Cosroe_Dusi%2C_Alberto_Cavos%2C_1849%2C_Hermitage_Museum_%D0%AD%D0%A0%D0%96-912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Cavos",
+  "dateOfBirth": "1800-12-12",
+  "birthDateParsed": "1800-12-12",
+  "dateOfDeath": "1863-05-22",
+  "deathDateParsed": "1863-05-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "architect"
+  ],
+  "qid": "Q3608227",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:05.017Z"
+}

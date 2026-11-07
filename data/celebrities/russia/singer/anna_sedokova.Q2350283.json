@@ -1,0 +1,38 @@
+{
+  "publicId": "e68ba077",
+  "wikipediaSlug": "Anna_Sedokova",
+  "wikipediaId": "Q2350283",
+  "name": "Anna Sedokova",
+  "fullName": "Anna Sedokova",
+  "profileSummary": "Anna Volodymyrivna Sedokova is a Ukrainian singer, actress, and television presenter. She rose to prominence in 2002 as a member of the Ukrainian pop girl group Nu Virgos—known as \"VIA Gra\" in both Ukraine and the Commonwealth of Independent States—in which she was nicknamed Anya (Аня). Following two years in the \"golden line-up\" of the group, she began pursuing a solo music career in 2006. Sedokova released a string of singles until her debut album Lichnoe (2016) was met with widespread commercial success, peaking at number two in Russia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%D0%90%D0%BD%D0%BD%D0%B0_%D0%A1%D0%B5%D0%B4%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0_%281%29.jpg/330px-%D0%90%D0%BD%D0%BD%D0%B0_%D0%A1%D0%B5%D0%B4%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Sedokova",
+  "dateOfBirth": "1982-12-16",
+  "birthDateParsed": "1982-12-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "model",
+    "actor",
+    "presenter",
+    "television presenter",
+    "radio personality"
+  ],
+  "qid": "Q2350283",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:30:35.697Z"
+}

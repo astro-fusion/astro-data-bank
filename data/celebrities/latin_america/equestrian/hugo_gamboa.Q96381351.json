@@ -1,0 +1,33 @@
+{
+  "publicId": "30b0f7b3",
+  "wikipediaSlug": "Hugo_Gamboa",
+  "wikipediaId": "Q96381351",
+  "name": "Hugo Gamboa",
+  "fullName": "Hugo Gamboa",
+  "profileSummary": "Hugo Gamboa is a Colombian former equestrian. He competed in two events at the 1992 Summer Olympics.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Gamboa",
+  "dateOfBirth": "1958-08-03",
+  "birthDateParsed": "1958-08-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "equestrian"
+  ],
+  "qid": "Q96381351",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:44.767Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "32a40019",
+  "wikipediaSlug": "Carla_Diaz",
+  "wikipediaId": "Q2641153",
+  "name": "Carla Diaz",
+  "fullName": "Carla Diaz",
+  "profileSummary": "Carla Carolina Moreira Diaz is a Brazilian actress and singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Carla_Diaz.jpg/330px-Carla_Diaz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carla_Diaz",
+  "dateOfBirth": "1990-11-28",
+  "birthDateParsed": "1990-11-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q2641153",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:51.505Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "2bed5468",
+  "wikipediaSlug": "Albrecht_Schoenhals",
+  "wikipediaId": "Q108469",
+  "name": "Albrecht Schoenhals",
+  "fullName": "Albrecht Schoenhals",
+  "profileSummary": "Albrecht Moritz James Karl Schoenhals was a German film actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albrecht_Schoenhals",
+  "dateOfBirth": "1888-03-07",
+  "birthDateParsed": "1888-03-07",
+  "dateOfDeath": "1978-12-04",
+  "deathDateParsed": "1978-12-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.487777777",
+  "birthCoordinatesLng": "8.466111111",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "physician",
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor",
+    "editor",
+    "translator",
+    "writer"
+  ],
+  "qid": "Q108469",
+  "birthPlace": "Mannheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:09.755Z"
+}

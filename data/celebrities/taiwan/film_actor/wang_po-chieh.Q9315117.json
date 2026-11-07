@@ -1,0 +1,35 @@
+{
+  "publicId": "d33dcfe7",
+  "wikipediaSlug": "Wang_Po-chieh",
+  "wikipediaId": "Q9315117",
+  "name": "Wang Po-chieh",
+  "fullName": "Wang Po-chieh",
+  "profileSummary": "Wang Po-chieh is a Taiwanese actor. Known for his roles in both film and television, he has won two Taipei Film Awards and been nominated for a Hundred Flowers Award, a Golden Horse Award and three Golden Bell Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wang_Po-chieh_2022_GBA.jpg/330px-Wang_Po-chieh_2022_GBA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wang_Po-chieh",
+  "dateOfBirth": "1989-09-25",
+  "birthDateParsed": "1989-09-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "model"
+  ],
+  "qid": "Q9315117",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:31.808Z"
+}

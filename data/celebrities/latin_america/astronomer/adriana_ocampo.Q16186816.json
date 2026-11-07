@@ -1,0 +1,34 @@
+{
+  "publicId": "fcd7d3f1",
+  "wikipediaSlug": "Adriana_Ocampo",
+  "wikipediaId": "Q16186816",
+  "name": "Adriana Ocampo",
+  "fullName": "Adriana Ocampo",
+  "profileSummary": "Adriana C. Ocampo Uria is a Colombian-Argentine-American planetary geologist and a former Science Program Manager at NASA Headquarters. In 1970, Ocampo emigrated to California and completed her Bachelor degree at California State University, Los Angeles, then she did her Master in Sciences at California State University, Northridge and finished her PhD at the Vrije Universiteit in the Netherlands. During high school and graduate studies she worked at the Jet Propulsion Laboratory, where she served as the science coordinator for many planetary missions.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adriana_ocampo_NASA.jpg/330px-Adriana_ocampo_NASA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Ocampo",
+  "dateOfBirth": "1955-01-05",
+  "birthDateParsed": "1955-01-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "10.983333333",
+  "birthCoordinatesLng": "-74.801944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "astronomer",
+    "geologist"
+  ],
+  "qid": "Q16186816",
+  "birthPlace": "Barranquilla",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:22.278Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "b2232960",
+  "wikipediaSlug": "Diego_Salazar",
+  "wikipediaId": "Q34886",
+  "name": "Diego Salazar",
+  "fullName": "Diego Salazar",
+  "profileSummary": "Diego Fernando Salazar Quintero is a Colombian weightlifter, Olympic medalist and two times gold medal winner at the Pan American Games. He was born in Barranquilla.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Diego_Salazar.JPG/330px-Diego_Salazar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Salazar",
+  "dateOfBirth": "1980-10-03",
+  "birthDateParsed": "1980-10-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.084722222",
+  "birthCoordinatesLng": "-76.198611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "weightlifter"
+  ],
+  "qid": "Q34886",
+  "birthPlace": "Tuluá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:00.006Z"
+}

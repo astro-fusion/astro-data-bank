@@ -1,0 +1,32 @@
+{
+  "publicId": "2d17bb56",
+  "wikipediaSlug": "Damian_Terriquez",
+  "wikipediaId": "Q123312039",
+  "name": "Damian Terriquez",
+  "fullName": "Damian Terriquez",
+  "profileSummary": "Damian Terriquez is an American actor best known for their role as Dizmal Failure on the Netflix's Glamorous . Before acting they were a dancer for Halsey, Dillon Francis and Tiësto. They are currently functioning as an entertainment surrogate for the Harris 2024 presidential campaign.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Damian_Terriquez_June_2023.jpg/330px-Damian_Terriquez_June_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Damian_Terriquez",
+  "dateOfBirth": "1998-01-24",
+  "birthDateParsed": "1998-01-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "32.715",
+  "birthCoordinatesLng": "-117.1625",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "dancer",
+    "actor"
+  ],
+  "qid": "Q123312039",
+  "birthPlace": "San Diego",
+  "fetchedAt": "2026-08-16T13:16:32.696Z"
+}

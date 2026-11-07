@@ -1,0 +1,35 @@
+{
+  "publicId": "12ac4768",
+  "wikipediaSlug": "Ludwig_Erhard",
+  "wikipediaId": "Q2496",
+  "name": "Ludwig Erhard",
+  "fullName": "Ludwig Erhard",
+  "profileSummary": "Ludwig Wilhelm Erhard was a German politician and economist who served as the second chancellor of West Germany from 1963 until 1966. Affiliated with the Christian Democratic Union (CDU), he is known for leading the West German postwar economic reforms and economic recovery in his role as Minister of Economic Affairs under Chancellor Konrad Adenauer from 1949 to 1963. During that period, he promoted the concept of the social market economy, on which Germany's economic policy in the 21st century continues to be based.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Einde_bezoek_bondskanselier_dr_Ludwig_Erhard_en_gaf_persconferentie_in_het_Haag%2C_Bestanddeelnr_916-1330.jpg/330px-Einde_bezoek_bondskanselier_dr_Ludwig_Erhard_en_gaf_persconferentie_in_het_Haag%2C_Bestanddeelnr_916-1330.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludwig_Erhard",
+  "dateOfBirth": "1897-02-04",
+  "birthDateParsed": "1897-02-04",
+  "dateOfDeath": "1977-05-05",
+  "deathDateParsed": "1977-05-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.478333333",
+  "birthCoordinatesLng": "10.990277777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "economist",
+    "politician",
+    "university teacher"
+  ],
+  "qid": "Q2496",
+  "birthPlace": "Fürth",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:36.066Z"
+}

@@ -1,0 +1,40 @@
+{
+  "publicId": "df2876ac",
+  "wikipediaSlug": "Albert_Hetterle",
+  "wikipediaId": "Q2638132",
+  "name": "Albert Hetterle",
+  "fullName": "Albert Hetterle",
+  "profileSummary": "Albert Hetterle was a German actor who also became intendant at the Maxim Gorki Theater in Berlin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bundesarchiv_Bild_183-70329-0007%2C_Berlin%2C_Schauspielb%C3%BChnen-Konferenz%2C_Albert_Hetterle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Hetterle",
+  "dateOfBirth": "1918-10-31",
+  "birthDateParsed": "1918-10-31",
+  "dateOfDeath": "2006-12-17",
+  "deathDateParsed": "2006-12-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "46.47747",
+  "birthCoordinatesLng": "30.73262",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "intendant",
+    "actor",
+    "theatre manager",
+    "director",
+    "Theaterintendant"
+  ],
+  "qid": "Q2638132",
+  "birthPlace": "Odesa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:07.161Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "afd9ef87",
+  "wikipediaSlug": "Lee_Siew_Choh",
+  "wikipediaId": "Q16015553",
+  "name": "Lee Siew Choh",
+  "fullName": "Lee Siew Choh",
+  "profileSummary": "Lee Siew Choh was a Singaporean politician and physician. He was the Member of the Legislative Assembly for Queenstown Constituency between 1959 and 1963 and the non-constituency Member of Parliament (NCMP) between 1988 and 1991.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/Lee_Siew_Choh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Siew_Choh",
+  "dateOfBirth": "1917-11-01",
+  "birthDateParsed": "1917-11-01",
+  "dateOfDeath": "2002-07-18",
+  "deathDateParsed": "2002-07-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "3.147777777",
+  "birthCoordinatesLng": "101.695277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physician"
+  ],
+  "qid": "Q16015553",
+  "birthPlace": "Kuala Lumpur",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:39.075Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "7c1ab47c",
+  "wikipediaSlug": "Elena_Moreno",
+  "wikipediaId": "Q56511058",
+  "name": "Elena Moreno",
+  "fullName": "Elena Moreno",
+  "profileSummary": "Elena Moreno was a Chilean actress. She was a theater and film actress, whose career spanned over 40 years.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elena_Moreno",
+  "dateOfBirth": "1892-06-12",
+  "birthDateParsed": "1892-06-12",
+  "dateOfDeath": "1974-11-02",
+  "deathDateParsed": "1974-11-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q56511058",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:48.884Z"
+}

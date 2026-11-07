@@ -1,0 +1,33 @@
+{
+  "publicId": "96888d68",
+  "wikipediaSlug": "Irena_Turkevycz-Martynec",
+  "wikipediaId": "Q12162959",
+  "name": "Irena Turkevycz-Martynec",
+  "fullName": "Irena Turkevycz-Martynec",
+  "profileSummary": "Irena Turkevycz-Martynec was born in Brody, Kingdom of Galicia and Lodomeria, and came to Canada, to Winnipeg, in 1949. She was a Prima donna in the Lviv Theatre of Opera and Ballet, and performed in Paris, Vienna, Berlin, Prague, and many other European cities during her long and storied career.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Irena_Turkevycz-Martynec.jpg/330px-Irena_Turkevycz-Martynec.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Irena_Turkevycz-Martynec",
+  "dateOfBirth": "1899-12-25",
+  "birthDateParsed": "1899-12-25",
+  "dateOfDeath": "1983-07-05",
+  "deathDateParsed": "1983-07-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.078055555",
+  "birthCoordinatesLng": "25.154166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer"
+  ],
+  "qid": "Q12162959",
+  "birthPlace": "Brody",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:46.264Z"
+}

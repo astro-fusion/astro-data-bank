@@ -1,0 +1,34 @@
+{
+  "publicId": "9296a848",
+  "wikipediaSlug": "Bueno_de_Paiva",
+  "wikipediaId": "Q3081987",
+  "name": "Bueno de Paiva",
+  "fullName": "Bueno de Paiva",
+  "profileSummary": "Francisco Álvaro Bueno de Paiva was a Brazilian politician who was Vice President of Brazil from 11 November 1920 to 15 November 1922 under Epitácio Pessoa. As the vice president of Brazil, he also served as the president of the Senate.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bueno_de_Paiva_%281926%29.tif/lossy-page1-330px-Bueno_de_Paiva_%281926%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bueno_de_Paiva",
+  "dateOfBirth": "1861-09-17",
+  "birthDateParsed": "1861-09-17",
+  "dateOfDeath": "1928-08-04",
+  "deathDateParsed": "1928-08-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.067777777",
+  "birthCoordinatesLng": "-46.568888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "magistrate"
+  ],
+  "qid": "Q3081987",
+  "birthPlace": "Andradas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:19.608Z"
+}

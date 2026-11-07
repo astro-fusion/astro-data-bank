@@ -1,0 +1,33 @@
+{
+  "publicId": "91170635",
+  "wikipediaSlug": "Lim_Bo_Seng",
+  "wikipediaId": "Q3240983",
+  "name": "Lim Bo Seng",
+  "fullName": "Lim Bo Seng",
+  "profileSummary": "Lim Bo Seng was a resistance fighter who played a crucial role in the anti-Japanese fund raising and movement in Singapore and Malaya during World War II. Born in Fujian, China, he moved to Singapore at a young age and was educated at Raffles Institution (RI) before pursuing engineering at the University of Hong Kong. Following his studies, he returned to manage his family's business ventures and emerged as a respected leader within the overseas Chinese community in Southeast Asia. With the outbreak of the Second Sino-Japanese War in 1937, Lim became deeply involved in patriotic and civic efforts, spearheading boycott campaigns against Japanese goods and raising funds in support of China's war resistance.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/LimBoSeng-1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lim_Bo_Seng",
+  "dateOfBirth": "1909-04-27",
+  "birthDateParsed": "1909-04-27",
+  "dateOfDeath": "1944-06-29",
+  "deathDateParsed": "1944-06-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "24.96327",
+  "birthCoordinatesLng": "118.3811",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer"
+  ],
+  "qid": "Q3240983",
+  "birthPlace": "Nan'an",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:58.552Z"
+}

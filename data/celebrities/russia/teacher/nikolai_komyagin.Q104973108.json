@@ -1,0 +1,36 @@
+{
+  "publicId": "c2a0edd5",
+  "wikipediaSlug": "Nikolai_Komyagin",
+  "wikipediaId": "Q104973108",
+  "name": "Nikolai Komyagin",
+  "fullName": "Nikolai Komyagin",
+  "profileSummary": "Nikolai Vladimirovich Komyagin was a Russian poet and musician, best known for being the vocalist of the experimental band Shortparis. He also worked as an actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/16.11.2019_Shortparis.jpg/330px-16.11.2019_Shortparis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolai_Komyagin",
+  "dateOfBirth": "1987-01-31",
+  "birthDateParsed": "1987-01-31",
+  "dateOfDeath": "2026-02-20",
+  "deathDateParsed": "2026-02-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.75",
+  "birthCoordinatesLng": "87.116666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "teacher",
+    "museum educator",
+    "singer",
+    "actor"
+  ],
+  "qid": "Q104973108",
+  "birthPlace": "Novokuznetsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:12.643Z"
+}

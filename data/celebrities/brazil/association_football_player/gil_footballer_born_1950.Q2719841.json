@@ -1,0 +1,34 @@
+{
+  "publicId": "37159857",
+  "wikipediaSlug": "Gil_(footballer,_born_1950)",
+  "wikipediaId": "Q2719841",
+  "name": "Gil (footballer, born 1950)",
+  "fullName": "Gil (footballer, born 1950)",
+  "profileSummary": "Gilberto Alves, nicknamed Gil, is a former footballer from Brazil. He played as a forward, in particular with Fluminense Football Club and the Brazil national team.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gil_(footballer%2C_born_1950)",
+  "dateOfBirth": "1950-12-24",
+  "birthDateParsed": "1950-12-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-19.985833333",
+  "birthCoordinatesLng": "-43.846944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q2719841",
+  "birthPlace": "Nova Lima",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:28.242Z"
+}

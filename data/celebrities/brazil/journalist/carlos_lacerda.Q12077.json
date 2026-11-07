@@ -1,0 +1,36 @@
+{
+  "publicId": "6c3ebc91",
+  "wikipediaSlug": "Carlos_Lacerda",
+  "wikipediaId": "Q12077",
+  "name": "Carlos Lacerda",
+  "fullName": "Carlos Lacerda",
+  "profileSummary": "Carlos Frederico Werneck de Lacerda was a Brazilian journalist and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Carlos_Lacerda%2C_1954.tif/lossy-page1-330px-Carlos_Lacerda%2C_1954.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Lacerda",
+  "dateOfBirth": "1914-04-30",
+  "birthDateParsed": "1914-04-30",
+  "dateOfDeath": "1977-05-21",
+  "deathDateParsed": "1977-05-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.403888888",
+  "birthCoordinatesLng": "-43.662777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "journalist",
+    "politician",
+    "lawyer",
+    "writer"
+  ],
+  "qid": "Q12077",
+  "birthPlace": "Vassouras",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:08.320Z"
+}

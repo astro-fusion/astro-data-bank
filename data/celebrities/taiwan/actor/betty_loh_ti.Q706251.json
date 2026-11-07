@@ -1,0 +1,33 @@
+{
+  "publicId": "a299a8c4",
+  "wikipediaSlug": "Betty_Loh_Ti",
+  "wikipediaId": "Q706251",
+  "name": "Betty Loh Ti",
+  "fullName": "Betty Loh Ti",
+  "profileSummary": "Betty Loh Ti, known as Loh Tih for short, was a Hong Kong actress originally from Shanghai. Known as the \"Classic Beauty\", she was one of the most celebrated actresses of Hong Kong cinema. She is most famous for her roles in the 1960 film The Enchanting Shadow, for which she was called \"China's most beautiful actress\" by the jury of the 1960 Cannes Film Festival, and The Love Eterne, which earned her the Golden Horse Award for Best Leading Actress in 1963. She died from barbiturate overdose at the age of 31.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Betty_Loh_Ti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Betty_Loh_Ti",
+  "dateOfBirth": "1937-08-29",
+  "birthDateParsed": "1937-08-29",
+  "dateOfDeath": "1968-12-27",
+  "deathDateParsed": "1968-12-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q706251",
+  "birthPlace": "Shanghai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:54.487Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "d48595e4",
+  "wikipediaSlug": "Silviano_Brandão",
+  "wikipediaId": "Q3484059",
+  "name": "Silviano Brandão",
+  "fullName": "Silviano Brandão",
+  "profileSummary": "Francisco Silviano de Almeida Brandão was a Brazilian politician who was elected Vice President of Brazil, but died before taking office.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Silviano_Brand%C3%A3o_-_CE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Silviano_Brand%C3%A3o",
+  "dateOfBirth": "1848-03-07",
+  "birthDateParsed": "1848-03-07",
+  "dateOfDeath": "1902-09-25",
+  "deathDateParsed": "1902-09-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.028888888",
+  "birthCoordinatesLng": "-45.835",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physician"
+  ],
+  "qid": "Q3484059",
+  "birthPlace": "Silvianópolis",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:28.790Z"
+}

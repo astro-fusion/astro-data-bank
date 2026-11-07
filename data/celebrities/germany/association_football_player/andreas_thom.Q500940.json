@@ -1,0 +1,34 @@
+{
+  "publicId": "87432bb6",
+  "wikipediaSlug": "Andreas_Thom",
+  "wikipediaId": "Q500940",
+  "name": "Andreas Thom",
+  "fullName": "Andreas Thom",
+  "profileSummary": "Andreas Thom is a German former professional footballer who played as a forward for BFC Dynamo, Bayer Leverkusen, Celtic and Hertha BSC. He played 51 times for East Germany throughout the 1980s and played ten times for the unified Germany national team in the early 1990s. He is now retired from playing and works as a youth coach at Hertha BSC.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bundesarchiv_Bild_183-1989-1216-015%2C_Transfer_Andreas_Thom_%28cropped%29.jpg/330px-Bundesarchiv_Bild_183-1989-1216-015%2C_Transfer_Andreas_Thom_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Thom",
+  "dateOfBirth": "1965-09-07",
+  "birthDateParsed": "1965-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.470422",
+  "birthCoordinatesLng": "13.786082",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q500940",
+  "birthPlace": "Rüdersdorf bei Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:53.902Z"
+}

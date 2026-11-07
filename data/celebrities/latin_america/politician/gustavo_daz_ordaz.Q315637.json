@@ -1,0 +1,37 @@
+{
+  "publicId": "37383f7a",
+  "wikipediaSlug": "Gustavo_Díaz_Ordaz",
+  "wikipediaId": "Q315637",
+  "name": "Gustavo Díaz Ordaz",
+  "fullName": "Gustavo Díaz Ordaz",
+  "profileSummary": "Gustavo Díaz Ordaz Bolaños was a Mexican politician and member of the Institutional Revolutionary Party (PRI). He served as the President of Mexico from 1964 to 1970. Previously, he served as a member of the Chamber of Deputies for Puebla's 1st district, a senator of the Congress of the Union for Puebla, and Secretary of the Interior.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gustavo_Diaz_Ordaz_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz",
+  "dateOfBirth": "1911-03-12",
+  "birthDateParsed": "1911-03-12",
+  "dateOfDeath": "1979-07-15",
+  "deathDateParsed": "1979-07-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "18.9894",
+  "birthCoordinatesLng": "-97.44702",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "diplomat",
+    "president",
+    "jurist"
+  ],
+  "qid": "Q315637",
+  "birthPlace": "Ciudad Serdan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:12.921Z"
+}

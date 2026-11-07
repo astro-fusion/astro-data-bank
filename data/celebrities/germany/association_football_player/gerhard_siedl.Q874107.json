@@ -1,0 +1,33 @@
+{
+  "publicId": "3389154b",
+  "wikipediaSlug": "Gerhard_Siedl",
+  "wikipediaId": "Q874107",
+  "name": "Gerhard Siedl",
+  "fullName": "Gerhard Siedl",
+  "profileSummary": "Gerhard Leopold Karl Siedl was a German footballer who played international football for both the Saar and West German national teams. In 1953, he scored the winning goal in Oslo against Norway in the qualifiers for the 1954 FIFA World Cup. The match was Saar's only road victory in its brief history.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhard_Siedl",
+  "dateOfBirth": "1929-03-22",
+  "birthDateParsed": "1929-03-22",
+  "dateOfDeath": "1998-05-09",
+  "deathDateParsed": "1998-05-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q874107",
+  "birthPlace": "Munich",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:57.283Z"
+}

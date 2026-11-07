@@ -1,0 +1,33 @@
+{
+  "publicId": "b23c3575",
+  "wikipediaSlug": "Ilya_Kutepov",
+  "wikipediaId": "Q4249487",
+  "name": "Ilya Kutepov",
+  "fullName": "Ilya Kutepov",
+  "profileSummary": "Ilya Olegovich Kutepov is a Russian former professional football player who played as centre-back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ilya_Kutepov_2022.jpg/330px-Ilya_Kutepov_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilya_Kutepov",
+  "dateOfBirth": "1993-07-29",
+  "birthDateParsed": "1993-07-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "45.05",
+  "birthCoordinatesLng": "41.983333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q4249487",
+  "birthPlace": "Stavropol",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:12.617Z"
+}

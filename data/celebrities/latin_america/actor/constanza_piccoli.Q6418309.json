@@ -1,0 +1,35 @@
+{
+  "publicId": "c3bb55b0",
+  "wikipediaSlug": "Constanza_Piccoli",
+  "wikipediaId": "Q6418309",
+  "name": "Constanza Piccoli",
+  "fullName": "Constanza Piccoli",
+  "profileSummary": "Constanza Patricia Piccoli Molina, also known as Coni Piccoli, is a Chilean actress and singer, who became known in Mega's children's series BKN and later in Karkú, aired by TVN and Nickelodeon. She has also been part of the cast of several telenovelas such as La familia de al lado and Aquí mando yo, among others.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Copihue_de_Oro_2018_-_Constanza_Piccoli_-_01_%28cropped%29.jpg/330px-Copihue_de_Oro_2018_-_Constanza_Piccoli_-_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Constanza_Piccoli",
+  "dateOfBirth": "1992-11-19",
+  "birthDateParsed": "1992-11-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "model"
+  ],
+  "qid": "Q6418309",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:46.180Z"
+}

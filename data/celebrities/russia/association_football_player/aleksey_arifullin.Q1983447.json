@@ -1,0 +1,33 @@
+{
+  "publicId": "abd7eb97",
+  "wikipediaSlug": "Aleksey_Arifullin",
+  "wikipediaId": "Q1983447",
+  "name": "Aleksey Arifullin",
+  "fullName": "Aleksey Arifullin",
+  "profileSummary": "Aleksey Sayarovich Arifullin was a Russian association footballer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksey_Arifullin",
+  "dateOfBirth": "1970-10-13",
+  "birthDateParsed": "1970-10-13",
+  "dateOfDeath": "2017-09-28",
+  "deathDateParsed": "2017-09-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q1983447",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:46.430Z"
+}

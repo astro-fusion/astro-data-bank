@@ -1,0 +1,33 @@
+{
+  "publicId": "adc87f5f",
+  "wikipediaSlug": "Jonas_Hofmann",
+  "wikipediaId": "Q822781",
+  "name": "Jonas Hofmann",
+  "fullName": "Jonas Hofmann",
+  "profileSummary": "Jonas Hofmann is a German professional footballer who plays as a right winger for Bundesliga club Bayer Leverkusen.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2022128153308_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0729_-_B70I6840_%28cropped%29_%28cropped%29.jpg/330px-2022128153308_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0729_-_B70I6840_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonas_Hofmann",
+  "dateOfBirth": "1992-07-14",
+  "birthDateParsed": "1992-07-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.412222222",
+  "birthCoordinatesLng": "8.71",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q822781",
+  "birthPlace": "Heidelberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:40.055Z"
+}

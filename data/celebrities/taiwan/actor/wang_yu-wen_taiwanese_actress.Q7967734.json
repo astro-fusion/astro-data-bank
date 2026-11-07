@@ -1,0 +1,35 @@
+{
+  "publicId": "b35d87b5",
+  "wikipediaSlug": "Wang_Yu-wen_(Taiwanese_actress)",
+  "wikipediaId": "Q7967734",
+  "name": "Wang Yu-wen (Taiwanese actress)",
+  "fullName": "Wang Yu-wen (Taiwanese actress)",
+  "profileSummary": "Wang Yu-wen is a Taiwanese actress. She appeared in Tsai Ming-liang's 1992 film Rebels of the Neon God, which earned her the nomination for Best Leading Actress at the 29th Golden Horse Awards. She also starred in Ang Lee's 1994 film Eat Drink Man Woman.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wang_Yu-wen_(Taiwanese_actress)",
+  "dateOfBirth": "1971-07-29",
+  "birthDateParsed": "1971-07-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q7967734",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:32.175Z"
+}

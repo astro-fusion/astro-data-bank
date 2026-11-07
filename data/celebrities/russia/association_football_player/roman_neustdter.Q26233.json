@@ -1,0 +1,33 @@
+{
+  "publicId": "439ae7e4",
+  "wikipediaSlug": "Roman_Neustädter",
+  "wikipediaId": "Q26233",
+  "name": "Roman Neustädter",
+  "fullName": "Roman Neustädter",
+  "profileSummary": "Roman Petrovich Neustädter is a former professional footballer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neustadter_2015.jpg/330px-Neustadter_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roman_Neust%C3%A4dter",
+  "dateOfBirth": "1988-02-18",
+  "birthDateParsed": "1988-02-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.4675",
+  "birthCoordinatesLng": "35.04",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q26233",
+  "birthPlace": "Dnipro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:36.669Z"
+}

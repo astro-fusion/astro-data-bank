@@ -1,0 +1,33 @@
+{
+  "publicId": "63ff4c91",
+  "wikipediaSlug": "Armando_Araiza",
+  "wikipediaId": "Q3875031",
+  "name": "Armando Araiza",
+  "fullName": "Armando Araiza",
+  "profileSummary": "Armando Araiza is a Mexican actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Araiza",
+  "dateOfBirth": "1969-09-01",
+  "birthDateParsed": "1969-09-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q3875031",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:29.911Z"
+}

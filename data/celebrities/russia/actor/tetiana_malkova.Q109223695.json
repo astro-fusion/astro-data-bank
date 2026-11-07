@@ -1,0 +1,35 @@
+{
+  "publicId": "8d014d98",
+  "wikipediaSlug": "Tetiana_Malkova",
+  "wikipediaId": "Q109223695",
+  "name": "Tetiana Malkova",
+  "fullName": "Tetiana Malkova",
+  "profileSummary": "Tetiana Olehivna Malkova is a Ukrainian actress and television presenter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tetiana_Malkova_2023_%28facecrop%29.jpg/330px-Tetiana_Malkova_2023_%28facecrop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tetiana_Malkova",
+  "dateOfBirth": "1988-09-16",
+  "birthDateParsed": "1988-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television presenter",
+    "film actor"
+  ],
+  "qid": "Q109223695",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:38.006Z"
+}

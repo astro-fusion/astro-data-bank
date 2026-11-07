@@ -1,0 +1,38 @@
+{
+  "publicId": "7118c2fd",
+  "wikipediaSlug": "Chen_Jianbin",
+  "wikipediaId": "Q8932472",
+  "name": "Chen Jianbin",
+  "fullName": "Chen Jianbin",
+  "profileSummary": "Chen Jianbin is a Chinese actor and director. He is best known for his roles in television series, including Cao Cao in Three Kingdoms (2010) and the Emperor Yongzheng in Empresses in the Palace (2011). In 2014, he broke a Golden Horse Awards record by winning the best actor, best supporting actor, and best new director all on the same night.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Chen_Jianbin_2024.jpg/330px-Chen_Jianbin_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Jianbin",
+  "dateOfBirth": "1970-06-27",
+  "birthDateParsed": "1970-06-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.8225",
+  "birthCoordinatesLng": "87.6125",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film director",
+    "director",
+    "pedagogue",
+    "film actor"
+  ],
+  "qid": "Q8932472",
+  "birthPlace": "Ürümqi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:38.551Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "9e95227e",
+  "wikipediaSlug": "Christian_Ho",
+  "wikipediaId": "Q113861496",
+  "name": "Christian Ho",
+  "fullName": "Christian Ho",
+  "profileSummary": "Christian Ho Zong Sean is a Singaporean racing driver who currently competes in the FIA Formula 3 Championship for Rodin Motorsport, having previously raced for DAMS in 2025.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/F4_Spain_2023_Spa_Christian_Ho.jpg/330px-F4_Spain_2023_Spa_Christian_Ho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Ho",
+  "dateOfBirth": "2006-10-31",
+  "birthDateParsed": "2006-10-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "racing driver"
+  ],
+  "qid": "Q113861496",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:13.354Z"
+}

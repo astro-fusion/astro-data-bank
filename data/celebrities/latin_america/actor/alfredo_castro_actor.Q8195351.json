@@ -1,0 +1,37 @@
+{
+  "publicId": "b701d834",
+  "wikipediaSlug": "Alfredo_Castro_(actor)",
+  "wikipediaId": "Q8195351",
+  "name": "Alfredo Castro (actor)",
+  "fullName": "Alfredo Castro (actor)",
+  "profileSummary": "Alfredo Arturo Castro Gómez, best known as Alfredo Castro, is a Chilean actor. With a well established trajectory in theater and television, he became one of the most well-known Latin American film actors of the 2010s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Goyas_2025_-_Alfredo_Castro.jpg/330px-Goyas_2025_-_Alfredo_Castro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfredo_Castro_(actor)",
+  "dateOfBirth": "1955-12-19",
+  "birthDateParsed": "1955-12-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.433333333",
+  "birthCoordinatesLng": "-70.616666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter",
+    "theatre director",
+    "film director",
+    "writer"
+  ],
+  "qid": "Q8195351",
+  "birthPlace": "Providencia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:02.052Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "b3dc4bae",
+  "wikipediaSlug": "Roman_Zobnin",
+  "wikipediaId": "Q116922",
+  "name": "Roman Zobnin",
+  "fullName": "Roman Zobnin",
+  "profileSummary": "Roman Sergeyevich Zobnin is a Russian professional footballer who plays as a central midfielder for Spartak Moscow. He also plays as a right midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Roman_Zobnin_2022.jpg/330px-Roman_Zobnin_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roman_Zobnin",
+  "dateOfBirth": "1994-02-11",
+  "birthDateParsed": "1994-02-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.289166666",
+  "birthCoordinatesLng": "104.28",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q116922",
+  "birthPlace": "Irkutsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:49.528Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "71e8431b",
+  "wikipediaSlug": "Eva_May",
+  "wikipediaId": "Q86007",
+  "name": "Eva May",
+  "fullName": "Eva May",
+  "profileSummary": "Eva Maria Mandl, known professionally as Eva May, was an Austrian actress. She was the daughter of the film director Joe May and his wife actress Mia May. In 1924, she committed suicide by gunshot.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Eva_May.jpg/330px-Eva_May.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eva_May",
+  "dateOfBirth": "1902-05-29",
+  "birthDateParsed": "1902-05-29",
+  "dateOfDeath": "1924-09-10",
+  "deathDateParsed": "1924-09-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor"
+  ],
+  "qid": "Q86007",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:45.103Z"
+}

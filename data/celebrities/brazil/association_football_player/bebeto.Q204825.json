@@ -1,0 +1,36 @@
+{
+  "publicId": "60eec74f",
+  "wikipediaSlug": "Bebeto",
+  "wikipediaId": "Q204825",
+  "name": "Bebeto",
+  "fullName": "Bebeto",
+  "profileSummary": "José Roberto Gama de Oliveira, known as Bebeto, is a Brazilian former professional football player who played as a forward. He entered politics in the 2010 Brazilian general elections and was elected to the Legislative Assembly of Rio de Janeiro representing the Democratic Labour Party.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bebeto_brazil_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bebeto",
+  "dateOfBirth": "1964-02-16",
+  "birthDateParsed": "1964-02-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.983055555",
+  "birthCoordinatesLng": "-38.492777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "politician",
+    "athlete"
+  ],
+  "qid": "Q204825",
+  "birthPlace": "Salvador",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:36.463Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "cff8fec5",
+  "wikipediaSlug": "Martín_Rodríguez_(politician)",
+  "wikipediaId": "Q280554",
+  "name": "Martín Rodríguez (politician)",
+  "fullName": "Martín Rodríguez (politician)",
+  "profileSummary": "Martín Rodríguez was an Argentine politician and soldier.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gobernador_Mart%C3%ADn_Rodr%C3%ADguez.jpg/330px-Gobernador_Mart%C3%ADn_Rodr%C3%ADguez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Rodr%C3%ADguez_(politician)",
+  "dateOfBirth": "1771-07-04",
+  "birthDateParsed": "1771-07-04",
+  "dateOfDeath": "1845-03-05",
+  "deathDateParsed": "1845-03-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q280554",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:55.528Z"
+}

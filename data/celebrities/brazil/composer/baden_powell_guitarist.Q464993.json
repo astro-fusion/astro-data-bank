@@ -1,0 +1,38 @@
+{
+  "publicId": "d7ef66e1",
+  "wikipediaSlug": "Baden_Powell_(guitarist)",
+  "wikipediaId": "Q464993",
+  "name": "Baden Powell (guitarist)",
+  "fullName": "Baden Powell (guitarist)",
+  "profileSummary": "Baden Powell de Aquino, known professionally as Baden Powell, was a Brazilian virtuoso guitarist and composer. He combined classical techniques with popular harmony and swing. He performed in many styles, including bossa nova, samba, Brazilian jazz, Latin jazz and MPB. He performed on stage during most of his lifetime. Powell composed many pieces for guitar, some of them now considered guitar standards, such as Abração em Madrid, Braziliense, Canto de Ossanha, Casa Velha, Consolação, Horizon, Imagem, Lotus, Samba, Samba em Prelúdio, Samba Triste, Simplesmente, Tristeza e Solidão, and Samba da Benção. He released Os Afro-sambas, a watershed album in MPB, with Vinicius de Moraes in 1966. He is widely regarded as one of the greatest Brazilian guitar players of all time.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vinicius_e_Baden_Powell%2C_1963.tif/lossy-page1-330px-Vinicius_e_Baden_Powell%2C_1963.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baden_Powell_(guitarist)",
+  "dateOfBirth": "1937-08-06",
+  "birthDateParsed": "1937-08-06",
+  "dateOfDeath": "2000-09-26",
+  "deathDateParsed": "2000-09-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.930833333",
+  "birthCoordinatesLng": "-41.868888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "guitarist",
+    "jazz musician",
+    "jazz guitarist",
+    "recording artist",
+    "musician"
+  ],
+  "qid": "Q464993",
+  "birthPlace": "Varre-Sai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:33.751Z"
+}

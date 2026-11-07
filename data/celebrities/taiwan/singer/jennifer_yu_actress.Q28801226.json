@@ -1,0 +1,35 @@
+{
+  "publicId": "263ffcb3",
+  "wikipediaSlug": "Jennifer_Yu_(actress)",
+  "wikipediaId": "Q28801226",
+  "name": "Jennifer Yu (actress)",
+  "fullName": "Jennifer Yu (actress)",
+  "profileSummary": "Jennifer Yu Heung-ying is a Hong Kong actress, singer, and model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jennifer_Yu_20240414.jpg/330px-Jennifer_Yu_20240414.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jennifer_Yu_(actress)",
+  "dateOfBirth": "1993-07-05",
+  "birthDateParsed": "1993-07-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "model"
+  ],
+  "qid": "Q28801226",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:09.478Z"
+}

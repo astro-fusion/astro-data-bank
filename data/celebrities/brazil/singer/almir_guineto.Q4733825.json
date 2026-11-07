@@ -1,0 +1,36 @@
+{
+  "publicId": "8f64918f",
+  "wikipediaSlug": "Almir_Guineto",
+  "wikipediaId": "Q4733825",
+  "name": "Almir Guineto",
+  "fullName": "Almir Guineto",
+  "profileSummary": "Almir de Souza Serra, better known by his stage name Almir Guineto, was a Brazilian sambista, singer and songwriter and instrumentalist, working in the genres of samba and pagode.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/25o_Premio_da_Musica_Brasileira_%2814004701387%29_%28cropped%29.jpg/330px-25o_Premio_da_Musica_Brasileira_%2814004701387%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Almir_Guineto",
+  "dateOfBirth": "1946-07-12",
+  "birthDateParsed": "1946-07-12",
+  "dateOfDeath": "2017-05-05",
+  "deathDateParsed": "2017-05-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "banjoist",
+    "composer",
+    "sambista"
+  ],
+  "qid": "Q4733825",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:20.582Z"
+}

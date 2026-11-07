@@ -1,0 +1,34 @@
+{
+  "publicId": "b22125ac",
+  "wikipediaSlug": "Andreas_Hinkel",
+  "wikipediaId": "Q57217",
+  "name": "Andreas Hinkel",
+  "fullName": "Andreas Hinkel",
+  "profileSummary": "Andreas Hinkel is a German football coach and a former player. Hinkel played as a right-back and earned 21 caps for the Germany national team. He was known for his attacking play on the flanks and defensive solidity.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Andreas_Hinkel_2020.jpg/330px-Andreas_Hinkel_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Hinkel",
+  "dateOfBirth": "1982-03-26",
+  "birthDateParsed": "1982-03-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.946388888",
+  "birthCoordinatesLng": "9.430555555",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q57217",
+  "birthPlace": "Backnang",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:53.214Z"
+}

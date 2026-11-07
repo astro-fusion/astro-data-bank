@@ -1,0 +1,35 @@
+{
+  "publicId": "568c12ea",
+  "wikipediaSlug": "Isabella_Gomez",
+  "wikipediaId": "Q28466230",
+  "name": "Isabella Gomez",
+  "fullName": "Isabella Gomez",
+  "profileSummary": "Isabella Gomez is a Colombian-American actress, best known for starring in One Day at a Time. She has previously had minor roles in Modern Family and Matador. She was later cast in a starring role in HBO Max's Head of the Class, the revival of the former ABC '80s sitcom television series of the same name, which premiered in October 2021.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Isabella_Gomez_2021.jpg/330px-Isabella_Gomez_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabella_Gomez",
+  "dateOfBirth": "1998-02-09",
+  "birthDateParsed": "1998-02-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.250200154",
+  "birthCoordinatesLng": "-75.5675845",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "voice actor"
+  ],
+  "qid": "Q28466230",
+  "birthPlace": "Medellín",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:31.566Z"
+}

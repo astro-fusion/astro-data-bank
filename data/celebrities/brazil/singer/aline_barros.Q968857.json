@@ -1,0 +1,35 @@
+{
+  "publicId": "f07391dd",
+  "wikipediaSlug": "Aline_Barros",
+  "wikipediaId": "Q968857",
+  "name": "Aline Barros",
+  "fullName": "Aline Barros",
+  "profileSummary": "Aline Barros Kistenmacker dos Santos is a Brazilian singer and songwriter. Several of her albums have been certified multiple times as Diamond by the Associação Brasileira dos Produtores de Discos (ABPD).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2016_Aline_Barros_%28cropped%29.jpg/330px-2016_Aline_Barros_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aline_Barros",
+  "dateOfBirth": "1976-10-07",
+  "birthDateParsed": "1976-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "songwriter"
+  ],
+  "qid": "Q968857",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:19.797Z"
+}

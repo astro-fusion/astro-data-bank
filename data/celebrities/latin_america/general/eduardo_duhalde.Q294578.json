@@ -1,0 +1,31 @@
+{
+  "publicId": "b6c5c74a",
+  "wikipediaSlug": "Eduardo_Duhalde",
+  "wikipediaId": "Q294578",
+  "name": "Eduardo Duhalde",
+  "fullName": "Eduardo Duhalde",
+  "profileSummary": "Eduardo Alberto Duhalde is a former politician from Argentina. A member of the Peronist party, Duhalde served as the President of Argentina from January 2002 to May 2003. In the 1990s, he also held the positions of vice president and governor of Buenos Aires.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Inauguration_of_Javier_Milei_11243_%28cropped2%29.jpg/330px-Inauguration_of_Javier_Milei_11243_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Duhalde",
+  "dateOfBirth": "1941-10-05",
+  "birthDateParsed": "1941-10-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.766666666",
+  "birthCoordinatesLng": "-58.4",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q294578",
+  "birthPlace": "Lomas de Zamora",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:21.379Z"
+}

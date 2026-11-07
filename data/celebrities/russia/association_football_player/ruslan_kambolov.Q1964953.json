@@ -1,0 +1,33 @@
+{
+  "publicId": "16103121",
+  "wikipediaSlug": "Ruslan_Kambolov",
+  "wikipediaId": "Q1964953",
+  "name": "Ruslan Kambolov",
+  "fullName": "Ruslan Kambolov",
+  "profileSummary": "Ruslan Aleksandrovich Kambolov is a Russian former footballer who played as a centre-back or defensive midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ruslan_Kambolov_Russia.jpg/330px-Ruslan_Kambolov_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruslan_Kambolov",
+  "dateOfBirth": "1990-01-01",
+  "birthDateParsed": "1990-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.04",
+  "birthCoordinatesLng": "44.6775",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q1964953",
+  "birthPlace": "Vladikavkaz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:35.256Z"
+}

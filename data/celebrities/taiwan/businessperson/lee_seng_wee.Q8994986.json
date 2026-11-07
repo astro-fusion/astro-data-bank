@@ -1,0 +1,34 @@
+{
+  "publicId": "ba95a34f",
+  "wikipediaSlug": "Lee_Seng_Wee",
+  "wikipediaId": "Q8994986",
+  "name": "Lee Seng Wee",
+  "fullName": "Lee Seng Wee",
+  "profileSummary": "Lee Seng Wee was a Singaporean banker and businessman.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Seng_Wee",
+  "dateOfBirth": "1930-04-04",
+  "birthDateParsed": "1930-04-04",
+  "dateOfDeath": "2015-08-07",
+  "deathDateParsed": "2015-08-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "banker"
+  ],
+  "qid": "Q8994986",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:30.849Z"
+}

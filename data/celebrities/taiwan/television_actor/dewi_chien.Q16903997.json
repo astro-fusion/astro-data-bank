@@ -1,0 +1,35 @@
+{
+  "publicId": "f3fe0f7e",
+  "wikipediaSlug": "Dewi_Chien",
+  "wikipediaId": "Q16903997",
+  "name": "Dewi Chien",
+  "fullName": "Dewi Chien",
+  "profileSummary": "Dewi Chien is a Taiwanese singer and actress. She is member of musical duo Dears. She is known for her role as Tao Min-min in the 2015 film Our Times.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dewi_Chien_%28cropped%29.jpg/330px-Dewi_Chien_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dewi_Chien",
+  "dateOfBirth": "1992-03-09",
+  "birthDateParsed": "1992-03-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.18042778",
+  "birthCoordinatesLng": "120.74661389",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q16903997",
+  "birthPlace": "Beitun District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:18.373Z"
+}

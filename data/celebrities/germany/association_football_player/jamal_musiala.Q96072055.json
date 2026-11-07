@@ -1,0 +1,33 @@
+{
+  "publicId": "54e061c2",
+  "wikipediaSlug": "Jamal_Musiala",
+  "wikipediaId": "Q96072055",
+  "name": "Jamal Musiala",
+  "fullName": "Jamal Musiala",
+  "profileSummary": "Jamal Musiala is a German professional footballer who plays as an attacking midfielder for Bundesliga club Bayern Munich and the Germany national team. Widely regarded as one of the best attacking midfielders in the world, Musiala is known for his dribbling, passing, goal threat, and technical skills.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg/330px-Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+  "dateOfBirth": "2003-02-26",
+  "birthDateParsed": "2003-02-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.7775",
+  "birthCoordinatesLng": "9.18",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q96072055",
+  "birthPlace": "Stuttgart",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:30.461Z"
+}

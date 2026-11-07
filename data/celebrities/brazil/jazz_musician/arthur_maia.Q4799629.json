@@ -1,0 +1,33 @@
+{
+  "publicId": "9b354d23",
+  "wikipediaSlug": "Arthur_Maia",
+  "wikipediaId": "Q4799629",
+  "name": "Arthur Maia",
+  "fullName": "Arthur Maia",
+  "profileSummary": "Arthur Maia was a Brazilian composer and musician. Maia played with musicians such as Djavan, Gilberto Gil, Marisa Monte, Lulu Santos and Ney Matogrosso. His compositions usually present a fusion of jazz, funk, swing music and reggae.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jazz%26Blues_2009_%283363306393%29.jpg/330px-Jazz%26Blues_2009_%283363306393%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Maia",
+  "dateOfBirth": "1962-04-09",
+  "birthDateParsed": "1962-04-09",
+  "dateOfDeath": "2018-12-15",
+  "deathDateParsed": "2018-12-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jazz musician"
+  ],
+  "qid": "Q4799629",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:11.366Z"
+}

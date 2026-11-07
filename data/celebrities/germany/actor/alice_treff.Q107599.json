@@ -1,0 +1,37 @@
+{
+  "publicId": "3b457108",
+  "wikipediaSlug": "Alice_Treff",
+  "wikipediaId": "Q107599",
+  "name": "Alice Treff",
+  "fullName": "Alice Treff",
+  "profileSummary": "Alice Martha Treff was a German film actress. She appeared in more than 120 films between 1932 and 2001. She was born and died in Berlin, Germany.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Treff",
+  "dateOfBirth": "1906-06-04",
+  "birthDateParsed": "1906-06-04",
+  "dateOfDeath": "2003-02-08",
+  "deathDateParsed": "2003-02-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "voice actor",
+    "film actor",
+    "stage actor",
+    "dub actor"
+  ],
+  "qid": "Q107599",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:26.974Z"
+}

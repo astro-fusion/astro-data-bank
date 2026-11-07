@@ -1,0 +1,35 @@
+{
+  "publicId": "f61204ba",
+  "wikipediaSlug": "Catalina_Palacios",
+  "wikipediaId": "Q2941607",
+  "name": "Catalina Palacios",
+  "fullName": "Catalina Palacios",
+  "profileSummary": "Catalina Isabel Palacios Galindo, nickname Cata Palacios is a Chilean actress, singer and television presenter. She is known mostly for being in the cast of the youth program Mekano, for her role in the 2005 television series Magi-K, and for being the host of the youth program Yingo. She has participated in the 2008 Chilean telethon, Chile ayuda a Chile, and Dancing with the Stars.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Copihue_de_Oro_2018_-_Catalina_Palacios_-_02.jpg/330px-Copihue_de_Oro_2018_-_Catalina_Palacios_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Catalina_Palacios",
+  "dateOfBirth": "1980-02-16",
+  "birthDateParsed": "1980-02-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television presenter"
+  ],
+  "qid": "Q2941607",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:01.993Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "432eb0c0",
+  "wikipediaSlug": "Andreas_Kupfer",
+  "wikipediaId": "Q499119",
+  "name": "Andreas Kupfer",
+  "fullName": "Andreas Kupfer",
+  "profileSummary": "Andreas Kupfer was a German football player.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Kupfer",
+  "dateOfBirth": "1914-05-07",
+  "birthDateParsed": "1914-05-07",
+  "dateOfDeath": "2001-04-30",
+  "deathDateParsed": "2001-04-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.05",
+  "birthCoordinatesLng": "10.233333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q499119",
+  "birthPlace": "Schweinfurt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:45.448Z"
+}

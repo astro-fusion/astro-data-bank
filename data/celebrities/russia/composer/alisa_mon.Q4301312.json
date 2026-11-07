@@ -1,0 +1,37 @@
+{
+  "publicId": "473c674c",
+  "wikipediaSlug": "Alisa_Mon",
+  "wikipediaId": "Q4301312",
+  "name": "Alisa Mon",
+  "fullName": "Alisa Mon",
+  "profileSummary": "Alisa Vladimirovna Mon is a Soviet and Russian pop singer who became popular in the late 1980s after performing the song \"Plantain\". The second wave of popularity was associated with her 1997 hit \"Diamond\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alisa_Mon.jpg/330px-Alisa_Mon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alisa_Mon",
+  "dateOfBirth": "1964-08-15",
+  "birthDateParsed": "1964-08-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.659444444",
+  "birthCoordinatesLng": "103.706111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "poet",
+    "writer",
+    "singer",
+    "lyricist"
+  ],
+  "qid": "Q4301312",
+  "birthPlace": "Slyudyanka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:13.345Z"
+}

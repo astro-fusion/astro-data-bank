@@ -1,0 +1,31 @@
+{
+  "publicId": "6d9a5e42",
+  "wikipediaSlug": "Carlos_María_de_Alvear",
+  "wikipediaId": "Q465493",
+  "name": "Carlos María de Alvear",
+  "fullName": "Carlos María de Alvear",
+  "profileSummary": "Carlos María de Alvear was an Argentine soldier, statesman and diplomat who served as the second Supreme Director of the United Provinces of the Río de la Plata from 9 January to 15 April 1815. He played a leading role in the capitulation of royalist-held Montevideo in June 1814 and later commanded the republican army in the Cisplatine War, winning the Battle of Ituzaingó.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CarlosAlvearcolor.jpg/330px-CarlosAlvearcolor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Mar%C3%ADa_de_Alvear",
+  "dateOfBirth": "1789-10-25",
+  "birthDateParsed": "1789-10-25",
+  "dateOfDeath": "1852-11-03",
+  "deathDateParsed": "1852-11-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "-28.298888888",
+  "birthCoordinatesLng": "-54.262777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q465493",
+  "birthPlace": "Santo Ângelo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:08.899Z"
+}

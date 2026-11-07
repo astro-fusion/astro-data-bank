@@ -1,0 +1,36 @@
+{
+  "publicId": "edf99a5a",
+  "wikipediaSlug": "Airto_Moreira",
+  "wikipediaId": "Q409259",
+  "name": "Airto Moreira",
+  "fullName": "Airto Moreira",
+  "profileSummary": "Airto Guimorvan Moreira is a Brazilian jazz drummer, composer and percussionist. He is married to jazz singer Flora Purim, and their daughter Diana Moreira is also a singer. Coming to prominence in the late 1960s as a member of the Brazilian ensemble Quarteto Novo, he moved to the United States and worked in jazz fusion with Miles Davis, Return to Forever, Weather Report and Santana.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Airto_Moreira.jpg/330px-Airto_Moreira.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Airto_Moreira",
+  "dateOfBirth": "1941-08-05",
+  "birthDateParsed": "1941-08-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-26.335833333",
+  "birthCoordinatesLng": "-49.905833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "percussionist",
+    "jazz musician",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q409259",
+  "birthPlace": "Itaiópolis",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:32.855Z"
+}

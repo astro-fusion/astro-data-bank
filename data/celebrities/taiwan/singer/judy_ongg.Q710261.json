@@ -1,0 +1,39 @@
+{
+  "publicId": "bbb53a17",
+  "wikipediaSlug": "Judy_Ongg",
+  "wikipediaId": "Q710261",
+  "name": "Judy Ongg",
+  "fullName": "Judy Ongg",
+  "profileSummary": "Judy Ongg is a Taiwanese-Japanese singer, actress, author, and woodblock printing artist. Born in Taipei, she graduated from The American School in Japan in 1969 and later from Sophia University in Tokyo, Japan, after which she became a naturalized Japanese citizen. Her career has spanned more than four decades.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Judy_ongg_2014.jpg/330px-Judy_ongg_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Judy_Ongg",
+  "dateOfBirth": "1950-01-24",
+  "birthDateParsed": "1950-01-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "child actor",
+    "printmaker",
+    "film actor",
+    "writer",
+    "television actor"
+  ],
+  "qid": "Q710261",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:53.066Z"
+}

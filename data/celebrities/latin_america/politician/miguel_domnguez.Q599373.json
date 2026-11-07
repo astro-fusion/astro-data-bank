@@ -1,0 +1,35 @@
+{
+  "publicId": "c68d27e1",
+  "wikipediaSlug": "Miguel_Domínguez",
+  "wikipediaId": "Q599373",
+  "name": "Miguel Domínguez",
+  "fullName": "Miguel Domínguez",
+  "profileSummary": "José Miguel Domínguez Alemán was a colonial official in New Spain who played a part in the Mexican independence movement. He was also a member of a transitional governing committee in the period between the abdication of Mexican Emperor Agustín de Iturbide and the installation of Guadalupe Victoria as the first president of independent Mexico. His wife, Josefa Ortiz de Domínguez, also known as La Corregidora, was a heroine of Mexican independence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Miguel_dominguez.jpg/330px-Miguel_dominguez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Dom%C3%ADnguez",
+  "dateOfBirth": "1756-01-14",
+  "birthDateParsed": "1756-01-14",
+  "dateOfDeath": "1830-04-22",
+  "deathDateParsed": "1830-04-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "judge"
+  ],
+  "qid": "Q599373",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:52.606Z"
+}

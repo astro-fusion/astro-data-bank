@@ -1,0 +1,39 @@
+{
+  "publicId": "e3019ffb",
+  "wikipediaSlug": "Maruv",
+  "wikipediaId": "Q56310176",
+  "name": "Maruv",
+  "fullName": "Maruv",
+  "profileSummary": "Anna Borysivna Korsun, known professionally as Maruv, is a Ukrainian singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MARUV.jpg/330px-MARUV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maruv",
+  "dateOfBirth": "1991-02-15",
+  "birthDateParsed": "1991-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.52",
+  "birthCoordinatesLng": "35.87",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "record producer",
+    "poet",
+    "manufacturer",
+    "recording artist",
+    "film producer"
+  ],
+  "qid": "Q56310176",
+  "birthPlace": "Pavlohrad",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:45.542Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "2a4d5e16",
+  "wikipediaSlug": "Alexander_Hrennikoff",
+  "wikipediaId": "Q1496223",
+  "name": "Alexander Hrennikoff",
+  "fullName": "Alexander Hrennikoff",
+  "profileSummary": "Alexander Pavlovich Hrennikoff was a Russian-Canadian structural engineer, a founder of the Finite Element Method.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Alexander_Hrennikoff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Hrennikoff",
+  "dateOfBirth": "1896-11-11",
+  "birthDateParsed": "1896-11-11",
+  "dateOfDeath": "1984-12-31",
+  "deathDateParsed": "1984-12-31",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "civil engineer"
+  ],
+  "qid": "Q1496223",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:19.226Z"
+}

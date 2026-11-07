@@ -1,0 +1,34 @@
+{
+  "publicId": "ec9481dc",
+  "wikipediaSlug": "Ariel_Camacho",
+  "wikipediaId": "Q19360835",
+  "name": "Ariel Camacho",
+  "fullName": "Ariel Camacho",
+  "profileSummary": "José Ariel Camacho Barraza was a Mexican musician and singer-songwriter. He predominantly performed regional Mexican music, mainly corridos. He was the lead singer and lead guitarist of his group, Ariel Camacho y Los Plebes del Rancho. In 2013, Ariel Camacho y Los Plebes del Rancho signed to JG Records where they frequently played in Tijuana, Baja California, Mexico. In 2014 they signed with DEL Records, which allowed them to play their music in the United States.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3c/Ariel_Camacho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariel_Camacho",
+  "dateOfBirth": "1992-08-07",
+  "birthDateParsed": "1992-08-07",
+  "dateOfDeath": "2015-02-25",
+  "deathDateParsed": "2015-02-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.565547222",
+  "birthCoordinatesLng": "-108.4718175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "songwriter"
+  ],
+  "qid": "Q19360835",
+  "birthPlace": "Guasave",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:58.244Z"
+}

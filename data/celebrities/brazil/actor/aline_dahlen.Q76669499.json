@@ -1,0 +1,34 @@
+{
+  "publicId": "d2046a71",
+  "wikipediaSlug": "Aline_Dahlen",
+  "wikipediaId": "Q76669499",
+  "name": "Aline Dahlen",
+  "fullName": "Aline Dahlen",
+  "profileSummary": "Aline Moraes Dahlen Ganthz, also known as Liz Moraes, is a Brazilian actress and bodybuilder. Known for her work in television and theatre, she gained national recognition for her roles in telenovelas of Rede Globo, playing characters such as Cintia in Pé na Jaca (2007), Rapunzel in Sítio do Picapau Amarelo (2007), Nívea in Faça Sua História (2008), and Gaúcha in Clandestinos (2010), among others. In 2014, she participated in Big Brother Brasil 14. In 2021, she was crowned the European champion in the Diva Fitness Model category at World Beauty Fitness & Fashion.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aline_em_Evento_no_Rio_de_Janeiro%2C_2015.jpg/330px-Aline_em_Evento_no_Rio_de_Janeiro%2C_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aline_Dahlen",
+  "dateOfBirth": "1981-06-14",
+  "birthDateParsed": "1981-06-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-30.032777777",
+  "birthCoordinatesLng": "-51.23",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "bodybuilder"
+  ],
+  "qid": "Q76669499",
+  "birthPlace": "Porto Alegre",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:36.563Z"
+}

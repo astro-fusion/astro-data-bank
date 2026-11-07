@@ -1,0 +1,35 @@
+{
+  "publicId": "ebb8871a",
+  "wikipediaSlug": "Amanda_Magalhães",
+  "wikipediaId": "Q99638104",
+  "name": "Amanda Magalhães",
+  "fullName": "Amanda Magalhães",
+  "profileSummary": "Amanda Magalhães is a Brazilian actress, singer-songwriter, pianist and producer, known for the role of Natália on the Netflix series 3%. In 2020, she released her debut album, Fragma.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Amanda_Magalh%C3%A3es_in_S%C3%A3o_Paulo_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanda_Magalh%C3%A3es",
+  "dateOfBirth": "1991-09-09",
+  "birthDateParsed": "1991-09-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "pianist",
+    "singer-songwriter"
+  ],
+  "qid": "Q99638104",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:35.868Z"
+}

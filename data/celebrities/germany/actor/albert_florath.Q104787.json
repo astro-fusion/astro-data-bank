@@ -1,0 +1,35 @@
+{
+  "publicId": "2fa17953",
+  "wikipediaSlug": "Albert_Florath",
+  "wikipediaId": "Q104787",
+  "name": "Albert Florath",
+  "fullName": "Albert Florath",
+  "profileSummary": "Albert Peter Adam Florath was a German stage and film actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Florath",
+  "dateOfBirth": "1888-12-07",
+  "birthDateParsed": "1888-12-07",
+  "dateOfDeath": "1957-03-11",
+  "deathDateParsed": "1957-03-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.016666666",
+  "birthCoordinatesLng": "8.533333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q104787",
+  "birthPlace": "Bielefeld",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:08.520Z"
+}

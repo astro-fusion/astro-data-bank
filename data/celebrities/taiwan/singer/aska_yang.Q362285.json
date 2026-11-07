@@ -1,0 +1,33 @@
+{
+  "publicId": "590d6ac2",
+  "wikipediaSlug": "Aska_Yang",
+  "wikipediaId": "Q362285",
+  "name": "Aska Yang",
+  "fullName": "Aska Yang",
+  "profileSummary": "Aska Yang is a Taiwanese Mandopop singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%E5%A4%A7%E7%94%B2%E5%AA%BD%E7%A5%96%E4%B9%8B%E5%85%89%E6%BC%94%E5%94%B1%E6%9C%83_%E6%A5%8A%E5%AE%97%E7%B7%AF_20140405.jpg/330px-%E5%A4%A7%E7%94%B2%E5%AA%BD%E7%A5%96%E4%B9%8B%E5%85%89%E6%BC%94%E5%94%B1%E6%9C%83_%E6%A5%8A%E5%AE%97%E7%B7%AF_20140405.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aska_Yang",
+  "dateOfBirth": "1978-04-04",
+  "birthDateParsed": "1978-04-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.956944444",
+  "birthCoordinatesLng": "121.223611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q362285",
+  "birthPlace": "Zhongli District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:33.314Z"
+}

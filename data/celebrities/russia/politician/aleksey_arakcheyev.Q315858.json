@@ -1,0 +1,34 @@
+{
+  "publicId": "68c316b2",
+  "wikipediaSlug": "Aleksey_Arakcheyev",
+  "wikipediaId": "Q315858",
+  "name": "Aleksey Arakcheyev",
+  "fullName": "Aleksey Arakcheyev",
+  "profileSummary": "Count Aleksey Andreyevich Arakcheyev was a Russian general and statesman during the reign of Tsar Alexander I.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arakcheev_Alexey_Andreevich.jpg/330px-Arakcheev_Alexey_Andreevich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksey_Arakcheyev",
+  "dateOfBirth": "1769-10-04",
+  "birthDateParsed": "1769-10-04",
+  "dateOfDeath": "1834-05-03",
+  "deathDateParsed": "1834-05-03",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q315858",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:41.628Z"
+}

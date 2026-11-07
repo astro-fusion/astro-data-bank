@@ -1,0 +1,34 @@
+{
+  "publicId": "45b7cbe8",
+  "wikipediaSlug": "Bastián_Bodenhöfer",
+  "wikipediaId": "Q4306829",
+  "name": "Bastián Bodenhöfer",
+  "fullName": "Bastián Bodenhöfer",
+  "profileSummary": "Bastián Lorenzo Bodenhöfer Alexander is a Chilean actor, theater director, musician and cultural manager. He served as cultural attaché of the Chile embassy in France between 2000 and 2002, during the government of president Ricardo Lagos. Bodenhöfer established himself as a renowned actor in the telenovela Ángel Malo in 1986. During the 1990s, due to his physical attractiveness, his solid presence and his talent, he became the highest paid male lead in Televisión Nacional de Chile.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Basti%C3%A1n_Bodenh%C3%B6fer_en_El_Mercader_de_Venecia.jpg/330px-Basti%C3%A1n_Bodenh%C3%B6fer_en_El_Mercader_de_Venecia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Basti%C3%A1n_Bodenh%C3%B6fer",
+  "dateOfBirth": "1961-07-01",
+  "birthDateParsed": "1961-07-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "theatre director"
+  ],
+  "qid": "Q4306829",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:15.467Z"
+}

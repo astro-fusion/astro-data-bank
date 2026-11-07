@@ -1,0 +1,35 @@
+{
+  "publicId": "da34d34f",
+  "wikipediaSlug": "Andréa_Beltrão",
+  "wikipediaId": "Q4760120",
+  "name": "Andréa Beltrão",
+  "fullName": "Andréa Beltrão",
+  "profileSummary": "Andréa Vianna Beltrão is a Brazilian actress. She is most known for acting in comic roles. Especially Zelda Scott, the female protagonist of Armação Ilimitada (1985–1988), Úrsula in Pedra sobre Pedra (1992), Tônia in Mulheres de Areia (1993), one of the main characters of the plot, Lisa, one of the protagonists of A Viagem (1994), Marilda in A Grande Família (2002–2009), Sueli in Tapas & Beijos (2011–2015), and Hebe Camargo, in the film and series Hebe: A Estrela do Brasil, in which she was nominated for the International Emmy Award for Best Actress in 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Andr%C3%A9a_Beltr%C3%A3o_2016.jpg/330px-Andr%C3%A9a_Beltr%C3%A3o_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9a_Beltr%C3%A3o",
+  "dateOfBirth": "1963-09-16",
+  "birthDateParsed": "1963-09-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "dancer",
+    "stage actor"
+  ],
+  "qid": "Q4760120",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:09.922Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "6eceb343",
+  "wikipediaSlug": "Gustavo_Rojas_Pinilla",
+  "wikipediaId": "Q455692",
+  "name": "Gustavo Rojas Pinilla",
+  "fullName": "Gustavo Rojas Pinilla",
+  "profileSummary": "Gustavo Rojas Pinilla was a Colombian army general, civil engineer and politician who ruled as President of Colombia in a military dictatorship from June 1953 to May 1957.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rojas_pinilla.jpg/330px-Rojas_pinilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavo_Rojas_Pinilla",
+  "dateOfBirth": "1900-03-12",
+  "birthDateParsed": "1900-03-12",
+  "dateOfDeath": "1975-01-17",
+  "deathDateParsed": "1975-01-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "5.540277777",
+  "birthCoordinatesLng": "-73.361388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "civil engineer",
+    "politician",
+    "engineer"
+  ],
+  "qid": "Q455692",
+  "birthPlace": "Tunja",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:04.332Z"
+}

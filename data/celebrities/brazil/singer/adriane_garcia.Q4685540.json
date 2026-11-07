@@ -1,0 +1,33 @@
+{
+  "publicId": "0c38b309",
+  "wikipediaSlug": "Adriane_Garcia",
+  "wikipediaId": "Q4685540",
+  "name": "Adriane Garcia",
+  "fullName": "Adriane Garcia",
+  "profileSummary": "Adriane Garcia is a Brazilian TV presenter, actress and former pop singer-songwriter. She has lived in Lisbon, Portugal since 2005.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriane_Garcia",
+  "dateOfBirth": "1983-09-19",
+  "birthDateParsed": "1983-09-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q4685540",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:08.133Z"
+}

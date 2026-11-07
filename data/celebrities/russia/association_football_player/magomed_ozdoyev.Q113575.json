@@ -1,0 +1,33 @@
+{
+  "publicId": "dd8acc38",
+  "wikipediaSlug": "Magomed_Ozdoyev",
+  "wikipediaId": "Q113575",
+  "name": "Magomed Ozdoyev",
+  "fullName": "Magomed Ozdoyev",
+  "profileSummary": "Magomed Mustafayevich Ozdoyev is a Russian professional footballer who plays as a central midfielder for Krasnodar.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Magomed_Ozdoyev_%28May_2024%29.png/330px-Magomed_Ozdoyev_%28May_2024%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Magomed_Ozdoyev",
+  "dateOfBirth": "1992-11-05",
+  "birthDateParsed": "1992-11-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.3125",
+  "birthCoordinatesLng": "45.698611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q113575",
+  "birthPlace": "Grozny",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:25.234Z"
+}

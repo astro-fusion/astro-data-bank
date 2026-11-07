@@ -1,0 +1,40 @@
+{
+  "publicId": "700d1378",
+  "wikipediaSlug": "Anthony_Quinn",
+  "wikipediaId": "Q83484",
+  "name": "Anthony Quinn",
+  "fullName": "Anthony Quinn",
+  "profileSummary": "Manuel Antonio Rodolfo Quinn Oaxaca, known as Anthony Quinn, was a Mexican and American actor. He was known for his portrayal of earthy, passionate characters \"marked by a brutal and elemental virility\" in over 100 film, television and stage roles between 1936 and 2001. He was a two-time Academy Award winner, and was also nominated for five Golden Globe Awards, two BAFTA Awards and a Tony Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Anthony_Quinn_around_the_1960s.jpg/330px-Anthony_Quinn_around_the_1960s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Quinn",
+  "dateOfBirth": "1915-04-21",
+  "birthDateParsed": "1915-04-21",
+  "dateOfDeath": "2001-06-03",
+  "deathDateParsed": "2001-06-03",
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "28.636944444",
+  "birthCoordinatesLng": "-106.076944444",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "sculptor",
+    "writer",
+    "film director",
+    "actor",
+    "television actor",
+    "painter",
+    "stage actor",
+    "director",
+    "musician"
+  ],
+  "qid": "Q83484",
+  "birthPlace": "Chihuahua City",
+  "fetchedAt": "2026-08-16T13:16:18.524Z"
+}

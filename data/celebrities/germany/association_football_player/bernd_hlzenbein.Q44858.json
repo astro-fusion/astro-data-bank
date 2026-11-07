@@ -1,0 +1,34 @@
+{
+  "publicId": "00f6065b",
+  "wikipediaSlug": "Bernd_Hölzenbein",
+  "wikipediaId": "Q44858",
+  "name": "Bernd Hölzenbein",
+  "fullName": "Bernd Hölzenbein",
+  "profileSummary": "Bernd Hölzenbein was a German professional footballer who played as a striker or winger. He played for Eintracht Frankfurt from 1967 to 1981 and is the club's all-time Bundesliga top scorer, having tallied 160 goals in 420 league matches. At the international level, Hölzenbein was a member of the West German team that won the World Cup in 1974. He was fouled in the final against the Netherlands, which led to the Germans' equalizing penalty.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2018-09-17_Eintracht_Frankfurt_Golf_Open_Bernd_H%C3%B6lzenbein-8819.jpg/330px-2018-09-17_Eintracht_Frankfurt_Golf_Open_Bernd_H%C3%B6lzenbein-8819.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernd_H%C3%B6lzenbein",
+  "dateOfBirth": "1946-03-09",
+  "birthDateParsed": "1946-03-09",
+  "dateOfDeath": "2024-04-15",
+  "deathDateParsed": "2024-04-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.4203",
+  "birthCoordinatesLng": "8.09944",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q44858",
+  "birthPlace": "Dehrn",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:15.706Z"
+}

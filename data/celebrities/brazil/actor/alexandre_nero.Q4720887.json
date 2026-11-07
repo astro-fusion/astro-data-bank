@@ -1,0 +1,38 @@
+{
+  "publicId": "8d9cbbe1",
+  "wikipediaSlug": "Alexandre_Nero",
+  "wikipediaId": "Q4720887",
+  "name": "Alexandre Nero",
+  "fullName": "Alexandre Nero",
+  "profileSummary": "Alexandre Nero Vieira is a Brazilian actor, singer, songwriter, musician, arranger, sound designer and musical director. In 2016, he was nominated for the International Emmy Awards for Best Actor, for his starring role in the telenovela A Regra do Jogo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Alexandre_Nero.png/330px-Alexandre_Nero.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Nero",
+  "dateOfBirth": "1970-02-13",
+  "birthDateParsed": "1970-02-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-25.429722222",
+  "birthCoordinatesLng": "-49.271944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "composer",
+    "film actor",
+    "television actor",
+    "multi-instrumentalist"
+  ],
+  "qid": "Q4720887",
+  "birthPlace": "Curitiba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:31:59.026Z"
+}

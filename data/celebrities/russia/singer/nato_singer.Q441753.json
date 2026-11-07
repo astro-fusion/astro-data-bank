@@ -1,0 +1,33 @@
+{
+  "publicId": "652a8256",
+  "wikipediaSlug": "N.A.T.o._(singer)",
+  "wikipediaId": "Q441753",
+  "name": "N.A.T.o. (singer)",
+  "fullName": "N.A.T.o. (singer)",
+  "profileSummary": "Natalya Shevlyakova, known by her stage name n.A.T.o., is a Russian singer, best known for her controversial image and her single \"Chor Javon\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nato_%28nATo%29.jpg/330px-Nato_%28nATo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/N.A.T.o._(singer)",
+  "dateOfBirth": "1979-10-03",
+  "birthDateParsed": "1979-10-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "41.7225",
+  "birthCoordinatesLng": "44.7925",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q441753",
+  "birthPlace": "Tbilisi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:04.849Z"
+}

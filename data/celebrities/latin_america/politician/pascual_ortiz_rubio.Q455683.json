@@ -1,0 +1,36 @@
+{
+  "publicId": "87dd060f",
+  "wikipediaSlug": "Pascual_Ortiz_Rubio",
+  "wikipediaId": "Q455683",
+  "name": "Pascual Ortiz Rubio",
+  "fullName": "Pascual Ortiz Rubio",
+  "profileSummary": "Pascual Ortiz Rubio was a Mexican military officer, topographical engineer, diplomat and politician who served as the 49th President of Mexico from 1930 to 1932. He was one of three presidents to serve out the six-year term (1928–1934) of assassinated president-elect Álvaro Obregón, while former president Plutarco Elías Calles retained power in a period known as the Maximato. Calles was so blatantly in control of the government that after an attempt on his life and pressures, Ortiz Rubio resigned the presidency in protest in September 1932, being the last Mexican president to date that has resigned.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pascual_Ortiz_Rubio_in_Los_Angeles%2C_1932.jpg/330px-Pascual_Ortiz_Rubio_in_Los_Angeles%2C_1932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascual_Ortiz_Rubio",
+  "dateOfBirth": "1877-03-10",
+  "birthDateParsed": "1877-03-10",
+  "dateOfDeath": "1963-11-04",
+  "deathDateParsed": "1963-11-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.702777777",
+  "birthCoordinatesLng": "-101.192222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "minister",
+    "diplomat",
+    "military personnel"
+  ],
+  "qid": "Q455683",
+  "birthPlace": "Morelia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:18.302Z"
+}

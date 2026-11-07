@@ -1,0 +1,38 @@
+{
+  "publicId": "af9156c8",
+  "wikipediaSlug": "Semen_Hulak-Artemovsky",
+  "wikipediaId": "Q1400433",
+  "name": "Semen Hulak-Artemovsky",
+  "fullName": "Semen Hulak-Artemovsky",
+  "profileSummary": "Semen Stepanovych Hulak-Artemovsky, was an opera composer, baritone, actor, dramatist and pioneer of Ukrainian theatre who worked in Imperial Russia.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Semen_Hulak-Artemovsky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Semen_Hulak-Artemovsky",
+  "dateOfBirth": "1813-02-16",
+  "birthDateParsed": "1813-02-16",
+  "dateOfDeath": "1873-04-18",
+  "deathDateParsed": "1873-04-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.2925",
+  "birthCoordinatesLng": "31.458055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "singer",
+    "opera singer",
+    "librettist",
+    "actor",
+    "playwright"
+  ],
+  "qid": "Q1400433",
+  "birthPlace": "Horodyshche",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:44.199Z"
+}

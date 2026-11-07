@@ -1,0 +1,38 @@
+{
+  "publicId": "a394f869",
+  "wikipediaSlug": "Alexey_Pajitnov",
+  "wikipediaId": "Q92600",
+  "name": "Alexey Pajitnov",
+  "fullName": "Alexey Pajitnov",
+  "profileSummary": "Alexey Leonidovich Pajitnov is a Russian and American computer engineer and video game designer. He is best known for creating, designing, and developing Tetris in 1985 while working at the Dorodnitsyn Computing Centre under the Academy of Sciences of the Soviet Union.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alexey_Pajitnov_GDC_2024_%28cropped%29.jpg/330px-Alexey_Pajitnov_GDC_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexey_Pajitnov",
+  "dateOfBirth": "1955-04-16",
+  "birthDateParsed": "1955-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.750555555",
+  "birthCoordinatesLng": "37.6175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "programmer",
+    "computer scientist",
+    "game designer",
+    "mathematician",
+    "businessperson",
+    "video game developer"
+  ],
+  "qid": "Q92600",
+  "birthPlace": "Moscow",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:15.669Z"
+}

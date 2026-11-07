@@ -1,0 +1,39 @@
+{
+  "publicId": "1d4e0fbd",
+  "wikipediaSlug": "Alexander_Dovzhenko",
+  "wikipediaId": "Q55198",
+  "name": "Alexander Dovzhenko",
+  "fullName": "Alexander Dovzhenko",
+  "profileSummary": "Alexander Petrovich Dovzhenko, also Oleksandr Petrovych Dovzhenko, was a Soviet film director and screenwriter of Ukrainian origin. He is often cited as one of the most important early Soviet filmmakers, alongside Sergei Eisenstein, Dziga Vertov, and Vsevolod Pudovkin, as well as being a pioneer of Soviet montage theory.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Alexander_Dovzhenko.jpg/330px-Alexander_Dovzhenko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Dovzhenko",
+  "dateOfBirth": "1894-09-10",
+  "birthDateParsed": "1894-09-10",
+  "dateOfDeath": "1956-11-25",
+  "deathDateParsed": "1956-11-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.522222222",
+  "birthCoordinatesLng": "32.501666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "screenwriter",
+    "film producer",
+    "writer",
+    "film editor",
+    "diplomat",
+    "director"
+  ],
+  "qid": "Q55198",
+  "birthPlace": "Sosnytsia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:33.925Z"
+}

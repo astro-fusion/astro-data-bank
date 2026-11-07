@@ -1,0 +1,38 @@
+{
+  "publicId": "eef6399c",
+  "wikipediaSlug": "Blandine_Ebinger",
+  "wikipediaId": "Q90022",
+  "name": "Blandine Ebinger",
+  "fullName": "Blandine Ebinger",
+  "profileSummary": "Blandine Ebinger was a German actress and chansonniere.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/B._Ebinger_Binder.jpg/330px-B._Ebinger_Binder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blandine_Ebinger",
+  "dateOfBirth": "1899-11-04",
+  "birthDateParsed": "1899-11-04",
+  "dateOfDeath": "1993-12-25",
+  "deathDateParsed": "1993-12-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "stage actor",
+    "film actor",
+    "cabaret performer",
+    "musician"
+  ],
+  "qid": "Q90022",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:25.369Z"
+}

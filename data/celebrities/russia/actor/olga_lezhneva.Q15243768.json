@@ -1,0 +1,33 @@
+{
+  "publicId": "a60886d1",
+  "wikipediaSlug": "Olga_Lezhneva",
+  "wikipediaId": "Q15243768",
+  "name": "Olga Lezhneva",
+  "fullName": "Olga Lezhneva",
+  "profileSummary": "Olga Mykolaivna Lezhneva is a film, and television actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olga_lezhneva.jpg/330px-Olga_lezhneva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Olga_Lezhneva",
+  "dateOfBirth": "1983-05-06",
+  "birthDateParsed": "1983-05-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.9925",
+  "birthCoordinatesLng": "36.231111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q15243768",
+  "birthPlace": "Kharkiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:48.756Z"
+}

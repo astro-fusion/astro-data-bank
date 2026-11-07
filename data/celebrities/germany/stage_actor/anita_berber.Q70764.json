@@ -1,0 +1,42 @@
+{
+  "publicId": "8b81c973",
+  "wikipediaSlug": "Anita_Berber",
+  "wikipediaId": "Q70764",
+  "name": "Anita Berber",
+  "fullName": "Anita Berber",
+  "profileSummary": "Anita Berber was a German dancer, actress, and writer who was the subject of an Otto Dix painting. She lived during the time of the Weimar Republic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anita_Berber_by_Magnus_Merck.jpg/330px-Anita_Berber_by_Magnus_Merck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anita_Berber",
+  "dateOfBirth": "1899-06-10",
+  "birthDateParsed": "1899-06-10",
+  "dateOfDeath": "1928-11-10",
+  "deathDateParsed": "1928-11-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.3406321",
+  "birthCoordinatesLng": "12.3747329",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "art model",
+    "film actor",
+    "dancer",
+    "writer",
+    "prostitute",
+    "actor",
+    "model",
+    "choreographer",
+    "cabaret performer"
+  ],
+  "qid": "Q70764",
+  "birthPlace": "Leipzig",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:42.899Z"
+}

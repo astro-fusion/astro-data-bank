@@ -1,0 +1,36 @@
+{
+  "publicId": "041556b8",
+  "wikipediaSlug": "Michael_Minsky",
+  "wikipediaId": "Q1928660",
+  "name": "Michael Minsky",
+  "fullName": "Michael Minsky",
+  "profileSummary": "Michael (Gregory) Minsky was a baritone singer, one of the finest interpreters of Russian and Ukrainian songs, and a conductor of the Don Cossack Choir Serge Jaroff.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Minsky",
+  "dateOfBirth": "1918-08-12",
+  "birthDateParsed": "1918-08-12",
+  "dateOfDeath": "1988-10-09",
+  "deathDateParsed": "1988-10-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.483333333",
+  "birthCoordinatesLng": "48.133333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "conductor",
+    "opera singer",
+    "choir director",
+    "musician"
+  ],
+  "qid": "Q1928660",
+  "birthPlace": "Bağay",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:33.285Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "fbb208c7",
+  "wikipediaSlug": "Chen_Shiang-chyi",
+  "wikipediaId": "Q5090886",
+  "name": "Chen Shiang-chyi",
+  "fullName": "Chen Shiang-chyi",
+  "profileSummary": "Chen Shiang-chyi is a Taiwanese actress who has starred in 24 different films since 1991. She is best known for her long-lasting collaboration with critically acclaimed film maker Tsai Ming-liang.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Chen_Shiang-chyi_%28%E9%99%B3%E6%B9%98%E7%90%AA%29_at_the_51st_Golden_Horse_Awards_in_November_2014.jpg/330px-Chen_Shiang-chyi_%28%E9%99%B3%E6%B9%98%E7%90%AA%29_at_the_51st_Golden_Horse_Awards_in_November_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chen_Shiang-chyi",
+  "dateOfBirth": "1969-11-27",
+  "birthDateParsed": "1969-11-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.615",
+  "birthCoordinatesLng": "120.2975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q5090886",
+  "birthPlace": "Kaohsiung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:08.709Z"
+}

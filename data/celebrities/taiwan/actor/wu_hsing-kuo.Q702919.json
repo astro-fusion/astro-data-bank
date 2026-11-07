@@ -1,0 +1,36 @@
+{
+  "publicId": "cff8e424",
+  "wikipediaSlug": "Wu_Hsing-kuo",
+  "wikipediaId": "Q702919",
+  "name": "Wu Hsing-kuo",
+  "fullName": "Wu Hsing-kuo",
+  "profileSummary": "Wu Hsing-kuo is a Taiwanese film and stage actor, known for both his performance of complex movie roles as much as for his innovative adaptations of Western classics into traditional Peking Opera.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Wu_Hsing-kuo_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wu_Hsing-kuo",
+  "dateOfBirth": "1953-04-12",
+  "birthDateParsed": "1953-04-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.615",
+  "birthCoordinatesLng": "120.2975",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "stage actor",
+    "singer"
+  ],
+  "qid": "Q702919",
+  "birthPlace": "Kaohsiung",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:45.034Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "e5bbcaf6",
+  "wikipediaSlug": "Aleksey_Konstantinovich_Tolstoy",
+  "wikipediaId": "Q212575",
+  "name": "Aleksey Konstantinovich Tolstoy",
+  "fullName": "Aleksey Konstantinovich Tolstoy",
+  "profileSummary": "Count Aleksey Konstantinovich Tolstoy, often referred to as A. K. Tolstoy, was a Russian poet, novelist, and playwright. He is considered to be the most important nineteenth-century Russian historical dramatist, primarily on account of the strength of his dramatic trilogy The Death of Ivan the Terrible (1866), Tsar Fyodor Ioannovich (1868), and Tsar Boris (1870). He also gained fame for his satirical works, published under his own name and under the collaborational pen name of Kozma Prutkov. His fictional works include the novella The Family of the Vourdalak, The Vampire (1841), and the historical novel Prince Serebrenni (1862).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A.K.Tolstoy_by_Repin.jpg/330px-A.K.Tolstoy_by_Repin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksey_Konstantinovich_Tolstoy",
+  "dateOfBirth": "1817-09-05",
+  "birthDateParsed": "1817-09-05",
+  "dateOfDeath": "1875-10-10",
+  "deathDateParsed": "1875-10-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "playwright",
+    "poet",
+    "writer",
+    "novelist",
+    "translator",
+    "film screenwriter"
+  ],
+  "qid": "Q212575",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:03.698Z"
+}

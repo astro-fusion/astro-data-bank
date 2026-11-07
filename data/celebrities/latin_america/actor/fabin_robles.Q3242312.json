@@ -1,0 +1,33 @@
+{
+  "publicId": "0002aead",
+  "wikipediaSlug": "Fabián_Robles",
+  "wikipediaId": "Q3242312",
+  "name": "Fabián Robles",
+  "fullName": "Fabián Robles",
+  "profileSummary": "Fabián Robles is a Mexican actor. Robles began his career in 1994 by participating in the soap opera El vuelo del águila.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Robles",
+  "dateOfBirth": "1974-04-16",
+  "birthDateParsed": "1974-04-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "21.121944444",
+  "birthCoordinatesLng": "-101.683333333",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q3242312",
+  "birthPlace": "León de Los Aldama",
+  "fetchedAt": "2026-08-16T13:16:41.360Z"
+}

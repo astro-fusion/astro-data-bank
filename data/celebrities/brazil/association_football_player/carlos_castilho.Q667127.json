@@ -1,0 +1,34 @@
+{
+  "publicId": "f2b10171",
+  "wikipediaSlug": "Carlos_Castilho",
+  "wikipediaId": "Q667127",
+  "name": "Carlos Castilho",
+  "fullName": "Carlos Castilho",
+  "profileSummary": "Carlos José Castilho was a Brazilian football goalkeeper. He was born in Rio de Janeiro and played for Fluminense from 1947 to 1964 and for Brazil. He was a member of the Brazil squad in four World Cups: 1950, 1954, 1958 and 1962.\nCastilho has the all-time record of matches played in Fluminense FC history, with 699 appearances.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Castilho%2C_1956.tif/lossy-page1-330px-Castilho%2C_1956.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Castilho",
+  "dateOfBirth": "1932-04-15",
+  "birthDateParsed": "1932-04-15",
+  "dateOfDeath": "1987-02-02",
+  "deathDateParsed": "1987-02-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q667127",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:38.341Z"
+}

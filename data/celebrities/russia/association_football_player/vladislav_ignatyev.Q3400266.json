@@ -1,0 +1,33 @@
+{
+  "publicId": "d051dea6",
+  "wikipediaSlug": "Vladislav_Ignatyev",
+  "wikipediaId": "Q3400266",
+  "name": "Vladislav Ignatyev",
+  "fullName": "Vladislav Ignatyev",
+  "profileSummary": "Vladislav Vyacheslavovich Ignatyev is a Russian former professional footballer who played as a right-back or right midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Vladislav_Ignatyev_2021.jpg/330px-Vladislav_Ignatyev_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladislav_Ignatyev",
+  "dateOfBirth": "1987-01-20",
+  "birthDateParsed": "1987-01-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.714852",
+  "birthCoordinatesLng": "52.3696525",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q3400266",
+  "birthPlace": "Naberezhnye Chelny",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:37:11.305Z"
+}

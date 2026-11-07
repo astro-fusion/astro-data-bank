@@ -1,0 +1,34 @@
+{
+  "publicId": "b4e340ee",
+  "wikipediaSlug": "Andreas_Brehme",
+  "wikipediaId": "Q159045",
+  "name": "Andreas Brehme",
+  "fullName": "Andreas Brehme",
+  "profileSummary": "Andreas \"Andi\" Brehme was a German professional football player and coach. At international level, he is best known for scoring the winning goal for Germany in the 1990 FIFA World Cup final against Argentina from an 85th-minute penalty kick. At club level, Brehme played for several teams in Germany and also had spells in Italy and Spain.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Andreas_Brehme_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Brehme",
+  "dateOfBirth": "1960-11-09",
+  "birthDateParsed": "1960-11-09",
+  "dateOfDeath": "2024-02-20",
+  "deathDateParsed": "2024-02-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "10",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q159045",
+  "birthPlace": "Hamburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:39.437Z"
+}

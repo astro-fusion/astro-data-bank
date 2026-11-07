@@ -1,0 +1,33 @@
+{
+  "publicId": "a46e8ebb",
+  "wikipediaSlug": "Alex_Ferrari_(singer)",
+  "wikipediaId": "Q2832941",
+  "name": "Alex Ferrari (singer)",
+  "fullName": "Alex Ferrari (singer)",
+  "profileSummary": "Alex Ferrari is a Brazilian singer, songwriter and producer known for \"Bara Bará Bere Berê\" made famous by the two Italian deejays Giulietto Kronika & DeeJay Trip, which reached number one in the official French Singles Chart.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Ferrari_(singer)",
+  "dateOfBirth": "1982-04-21",
+  "birthDateParsed": "1982-04-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-9.916111111",
+  "birthCoordinatesLng": "-63.040833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q2832941",
+  "birthPlace": "Ariquemes",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:32.107Z"
+}

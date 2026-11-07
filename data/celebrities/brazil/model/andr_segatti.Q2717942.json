@@ -1,0 +1,35 @@
+{
+  "publicId": "d67a78b2",
+  "wikipediaSlug": "André_Segatti",
+  "wikipediaId": "Q2717942",
+  "name": "André Segatti",
+  "fullName": "André Segatti",
+  "profileSummary": "André Luciano Segatti is a Brazilian actor, model and reality television personality, best known for being the runner-up of the second season of the Brazilian version of The Farm.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Andre_Segatti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Segatti",
+  "dateOfBirth": "1972-05-15",
+  "birthDateParsed": "1972-05-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q2717942",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:49.168Z"
+}

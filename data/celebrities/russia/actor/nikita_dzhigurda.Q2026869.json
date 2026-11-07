@@ -1,0 +1,43 @@
+{
+  "publicId": "dc9e0f82",
+  "wikipediaSlug": "Nikita_Dzhigurda",
+  "wikipediaId": "Q2026869",
+  "name": "Nikita Dzhigurda",
+  "fullName": "Nikita Dzhigurda",
+  "profileSummary": "Nikita Borisovich Dzhigurda or Nikita Borysovych Dzhyhurda is a Ukrainian actor and singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%D0%94%D0%B6%D0%B8%D0%B3%D1%83%D1%80%D0%B4%D0%B0_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikita_Dzhigurda",
+  "dateOfBirth": "1961-03-27",
+  "birthDateParsed": "1961-03-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film director",
+    "screenwriter",
+    "poet",
+    "singer-songwriter",
+    "composer",
+    "lyricist",
+    "guitarist",
+    "television presenter",
+    "film actor"
+  ],
+  "qid": "Q2026869",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:43.419Z"
+}

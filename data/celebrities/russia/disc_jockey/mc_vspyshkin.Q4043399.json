@@ -1,0 +1,35 @@
+{
+  "publicId": "292f2f99",
+  "wikipediaSlug": "MC_Vspyshkin",
+  "wikipediaId": "Q4043399",
+  "name": "MC Vspyshkin",
+  "fullName": "MC Vspyshkin",
+  "profileSummary": "Vladimir Aleksandrovich Turkov was a Russian radio presenter, cinema actor, DJ and singer, who was known by the stage name MC Vspyshkin.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/MC_Vspyshkin",
+  "dateOfBirth": "1936-10-31",
+  "birthDateParsed": "1936-10-31",
+  "dateOfDeath": "2011-11-14",
+  "deathDateParsed": "2011-11-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "disc jockey",
+    "radio personality",
+    "showman"
+  ],
+  "qid": "Q4043399",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:04.169Z"
+}

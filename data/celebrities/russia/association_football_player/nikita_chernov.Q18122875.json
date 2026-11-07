@@ -1,0 +1,33 @@
+{
+  "publicId": "7d3026a2",
+  "wikipediaSlug": "Nikita_Chernov",
+  "wikipediaId": "Q18122875",
+  "name": "Nikita Chernov",
+  "fullName": "Nikita Chernov",
+  "profileSummary": "Nikita Aleksandrovich Chernov is a Russian professional football player who plays as a centre-back for Krylia Sovetov Samara.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nikita_Chernov_2022.jpg/330px-Nikita_Chernov_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikita_Chernov",
+  "dateOfBirth": "1996-01-14",
+  "birthDateParsed": "1996-01-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.783333333",
+  "birthCoordinatesLng": "44.766666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q18122875",
+  "birthPlace": "Volzhsky",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:48.812Z"
+}

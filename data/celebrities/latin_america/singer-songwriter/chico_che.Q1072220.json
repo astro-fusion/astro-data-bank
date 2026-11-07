@@ -1,0 +1,34 @@
+{
+  "publicId": "caea27d5",
+  "wikipediaSlug": "Chico_Che",
+  "wikipediaId": "Q1072220",
+  "name": "Chico Che",
+  "fullName": "Chico Che",
+  "profileSummary": "Francisco José Hernández Mandujano, better known as Chico Che, was a musician, singer, songwriter, and performer from Villahermosa, Tabasco, Mexico.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/ChicoChe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chico_Che",
+  "dateOfBirth": "1945-12-07",
+  "birthDateParsed": "1945-12-07",
+  "dateOfDeath": "1989-03-29",
+  "deathDateParsed": "1989-03-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "musician"
+  ],
+  "qid": "Q1072220",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:16.010Z"
+}

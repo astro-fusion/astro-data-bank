@@ -1,0 +1,33 @@
+{
+  "publicId": "8576ed87",
+  "wikipediaSlug": "Kamahl",
+  "wikipediaId": "Q2885132",
+  "name": "Kamahl",
+  "fullName": "Kamahl",
+  "profileSummary": "Kandiah Kamalesvaran, better known by his stage name Kamahl, is an Australian singer and recording artist. He has been in the Australian music industry for over 70 years and has made some memorable TV and film appearances, as well as concerts.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kamahl_%287010668447%29.jpg/330px-Kamahl_%287010668447%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamahl",
+  "dateOfBirth": "1934-11-13",
+  "birthDateParsed": "1934-11-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.147777777",
+  "birthCoordinatesLng": "101.695277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q2885132",
+  "birthPlace": "Kuala Lumpur",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:10:47.209Z"
+}

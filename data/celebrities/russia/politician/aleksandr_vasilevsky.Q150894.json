@@ -1,0 +1,36 @@
+{
+  "publicId": "a2ba92bb",
+  "wikipediaSlug": "Aleksandr_Vasilevsky",
+  "wikipediaId": "Q150894",
+  "name": "Aleksandr Vasilevsky",
+  "fullName": "Aleksandr Vasilevsky",
+  "profileSummary": "Aleksandr Mikhaylovich Vasilevsky was a Soviet general who served as a top commander during World War II and achieved the rank of Marshal of the Soviet Union. During World War II, he served as the chief of the General Staff and deputy Minister of Defense, and later served as Minister of Defense from 1949 to 1953.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aleksandr_Vasilevsky_4.jpg/330px-Aleksandr_Vasilevsky_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Vasilevsky",
+  "dateOfBirth": "1895-09-30",
+  "birthDateParsed": "1895-09-30",
+  "dateOfDeath": "1977-12-05",
+  "deathDateParsed": "1977-12-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "57.2",
+  "birthCoordinatesLng": "41.916666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "memoirist",
+    "soldier"
+  ],
+  "qid": "Q150894",
+  "birthPlace": "Vichuga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:07.758Z"
+}

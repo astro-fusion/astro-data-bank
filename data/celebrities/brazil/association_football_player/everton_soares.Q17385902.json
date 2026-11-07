@@ -1,0 +1,33 @@
+{
+  "publicId": "7646fe0a",
+  "wikipediaSlug": "Everton_Soares",
+  "wikipediaId": "Q17385902",
+  "name": "Everton Soares",
+  "fullName": "Everton Soares",
+  "profileSummary": "Everton Sousa Soares, usually known as just Everton or Everton Cebolinha, is a Brazilian professional footballer who plays as a forward for Campeonato Brasileiro Série A club Flamengo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/EvertonBenfica1.jpg/330px-EvertonBenfica1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Everton_Soares",
+  "dateOfBirth": "1996-03-22",
+  "birthDateParsed": "1996-03-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-3.7275",
+  "birthCoordinatesLng": "-38.5275",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q17385902",
+  "birthPlace": "Fortaleza",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:17.326Z"
+}

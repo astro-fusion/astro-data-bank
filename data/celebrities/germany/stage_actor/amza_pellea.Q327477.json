@@ -1,0 +1,36 @@
+{
+  "publicId": "780acdcb",
+  "wikipediaSlug": "Amza_Pellea",
+  "wikipediaId": "Q327477",
+  "name": "Amza Pellea",
+  "fullName": "Amza Pellea",
+  "profileSummary": "Amza Pellea was a Romanian actor noted for playing Romanian national heroes on film.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Amza_Pellea.jpg/330px-Amza_Pellea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amza_Pellea",
+  "dateOfBirth": "1931-04-07",
+  "birthDateParsed": "1931-04-07",
+  "dateOfDeath": "1983-12-12",
+  "deathDateParsed": "1983-12-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "44.030833333",
+  "birthCoordinatesLng": "23.3525",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "screenwriter"
+  ],
+  "qid": "Q327477",
+  "birthPlace": "Băilești",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:51.668Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "abaa4fa6",
+  "wikipediaSlug": "Oleksiy_Khilskyi",
+  "wikipediaId": "Q121617526",
+  "name": "Oleksiy Khilskyi",
+  "fullName": "Oleksiy Khilskyi",
+  "profileSummary": "Oleksiy Yuriyovych Khilskyi was a Ukrainian theater and film actor, chief sergeant of the Armed Forces of Ukraine, a participant in the Russian-Ukrainian war.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleksiy_Khilskyi",
+  "dateOfBirth": "1987-11-14",
+  "birthDateParsed": "1987-11-14",
+  "dateOfDeath": "2023-08-17",
+  "deathDateParsed": "2023-08-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.516666666",
+  "birthCoordinatesLng": "34.613333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "military personnel"
+  ],
+  "qid": "Q121617526",
+  "birthPlace": "Kamyanske",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:26.209Z"
+}

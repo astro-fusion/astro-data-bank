@@ -1,0 +1,37 @@
+{
+  "publicId": "6277035a",
+  "wikipediaSlug": "Linda_Liao",
+  "wikipediaId": "Q717839",
+  "name": "Linda Liao",
+  "fullName": "Linda Liao",
+  "profileSummary": "Linda Liao is a Taiwanese singer, actress and VJ. She is known as a professional gamer for StarCraft II. She attended Queen's University in Kingston, Ontario, Canada.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Linda_Liao_%28cropped%29.jpg/330px-Linda_Liao_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Linda_Liao",
+  "dateOfBirth": "1981-05-24",
+  "birthDateParsed": "1981-05-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television presenter",
+    "singer",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q717839",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:02:25.541Z"
+}

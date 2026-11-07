@@ -1,0 +1,34 @@
+{
+  "publicId": "f4d2d781",
+  "wikipediaSlug": "Hong_Huifang",
+  "wikipediaId": "Q5894075",
+  "name": "Hong Huifang",
+  "fullName": "Hong Huifang",
+  "profileSummary": "Hong Huifang is a Singaporean actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hong_Huifang_2022-11-19_%282%29.jpg/330px-Hong_Huifang_2022-11-19_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hong_Huifang",
+  "dateOfBirth": "1960-01-07",
+  "birthDateParsed": "1960-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q5894075",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:30.701Z"
+}

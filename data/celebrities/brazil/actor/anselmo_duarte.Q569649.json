@@ -1,0 +1,39 @@
+{
+  "publicId": "be322f76",
+  "wikipediaSlug": "Anselmo_Duarte",
+  "wikipediaId": "Q569649",
+  "name": "Anselmo Duarte",
+  "fullName": "Anselmo Duarte",
+  "profileSummary": "Anselmo Duarte Bento was a Brazilian actor, screenwriter and film director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Anselmo_com_a_palma_de_ouro_1962.jpg/330px-Anselmo_com_a_palma_de_ouro_1962.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anselmo_Duarte",
+  "dateOfBirth": "1920-04-21",
+  "birthDateParsed": "1920-04-21",
+  "dateOfDeath": "2009-11-07",
+  "deathDateParsed": "2009-11-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.07",
+  "birthCoordinatesLng": "-48.433611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "screenwriter",
+    "film producer",
+    "film editor",
+    "film actor",
+    "director"
+  ],
+  "qid": "Q569649",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:48.442Z"
+}

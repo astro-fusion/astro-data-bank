@@ -1,0 +1,33 @@
+{
+  "publicId": "381f3b45",
+  "wikipediaSlug": "Nunes_Marques",
+  "wikipediaId": "Q99831978",
+  "name": "Nunes Marques",
+  "fullName": "Nunes Marques",
+  "profileSummary": "Kássio Nunes Marques is a Brazilian magistrate, currently a Justice at the Supreme Federal Court.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/K%C3%A1ssio_Nunes_Marques.jpg/330px-K%C3%A1ssio_Nunes_Marques.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Nunes_Marques",
+  "dateOfBirth": "1972-05-16",
+  "birthDateParsed": "1972-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-5.090277777",
+  "birthCoordinatesLng": "-42.816666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge"
+  ],
+  "qid": "Q99831978",
+  "birthPlace": "Teresina",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:25.033Z"
+}

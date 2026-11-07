@@ -1,0 +1,38 @@
+{
+  "publicId": "05caefb6",
+  "wikipediaSlug": "Oleksiy_Gorbunov",
+  "wikipediaId": "Q2834347",
+  "name": "Oleksiy Gorbunov",
+  "fullName": "Oleksiy Gorbunov",
+  "profileSummary": "Oleksiy Serhiyovych Gorbunov is a Ukrainian film, television and stage actor. He has been named an Honored Artist of Ukraine (1991) and a People's Artist of Ukraine (2016).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Alexei_Gorbunov_Odessa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleksiy_Gorbunov",
+  "dateOfBirth": "1961-10-29",
+  "birthDateParsed": "1961-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "presenter",
+    "singer",
+    "television presenter",
+    "radio personality",
+    "film actor"
+  ],
+  "qid": "Q2834347",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:45.072Z"
+}

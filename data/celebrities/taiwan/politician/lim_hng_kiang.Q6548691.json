@@ -1,0 +1,33 @@
+{
+  "publicId": "1deeb680",
+  "wikipediaSlug": "Lim_Hng_Kiang",
+  "wikipediaId": "Q6548691",
+  "name": "Lim Hng Kiang",
+  "fullName": "Lim Hng Kiang",
+  "profileSummary": "Lim Hng Kiang is a Singaporean former politician and military officer who served as Minister for Trade and Industry between 2004 and 2018, Minister in the Prime Minister's Office in 2003 and 2004, Minister for Health between 1999 and 2003 and Minister for National Development between 1994 and 1999. A member of the governing People's Action Party (PAP), he was the Member of Parliament (MP) for the Telok Blangah division of Tanjong Pagar Group Representation Constituency (GRC) between 1991 and 1997 and the same division in West Coast GRC between 1997 and 2020.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lim_Hng_Kiang_2017.jpg/330px-Lim_Hng_Kiang_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lim_Hng_Kiang",
+  "dateOfBirth": "1954-04-09",
+  "birthDateParsed": "1954-04-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician"
+  ],
+  "qid": "Q6548691",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:21.127Z"
+}

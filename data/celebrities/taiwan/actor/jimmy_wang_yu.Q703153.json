@@ -1,0 +1,39 @@
+{
+  "publicId": "63907f39",
+  "wikipediaSlug": "Jimmy_Wang_Yu",
+  "wikipediaId": "Q703153",
+  "name": "Jimmy Wang Yu",
+  "fullName": "Jimmy Wang Yu",
+  "profileSummary": "Jimmy Wang Yu was a Hong Kong-Taiwanese martial artist, actor, film director, producer, and screenwriter. Initially a contract player for Shaw Brothers, he rose to fame for his starring role in The One-Armed Swordsman (1967) and its sequels, and was one of the first major stars of martial arts and wuxia cinema. At the height of his fame in the 1970s, he was the highest-paid martial arts actor in the world. According to The New York Times, Wang was \"the biggest star of Asian martial arts cinema until the emergence of Bruce Lee.\"",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%E7%8E%8B%E7%BE%BD.png/330px-%E7%8E%8B%E7%BE%BD.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Wang_Yu",
+  "dateOfBirth": "1943-03-28",
+  "birthDateParsed": "1943-03-28",
+  "dateOfDeath": "2022-04-05",
+  "deathDateParsed": "2022-04-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "screenwriter",
+    "film actor",
+    "writer",
+    "film producer",
+    "director"
+  ],
+  "qid": "Q703153",
+  "birthPlace": "Shanghai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:31.546Z"
+}

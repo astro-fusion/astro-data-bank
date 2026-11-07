@@ -1,0 +1,37 @@
+{
+  "publicId": "770da38a",
+  "wikipediaSlug": "August_Schmölzer",
+  "wikipediaId": "Q88583",
+  "name": "August Schmölzer",
+  "fullName": "August Schmölzer",
+  "profileSummary": "August Schmölzer is an Austrian actor and writer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/August_Schm%C3%B6lzer%2C_ROMY_2009.jpg/330px-August_Schm%C3%B6lzer%2C_ROMY_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Schm%C3%B6lzer",
+  "dateOfBirth": "1958-06-27",
+  "birthDateParsed": "1958-06-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "46.928611111",
+  "birthCoordinatesLng": "15.258888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "stage actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q88583",
+  "birthPlace": "Sankt Stefan ob Stainz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:07.612Z"
+}

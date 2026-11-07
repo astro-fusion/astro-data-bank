@@ -1,0 +1,35 @@
+{
+  "publicId": "553156d5",
+  "wikipediaSlug": "Andrés_Rillón",
+  "wikipediaId": "Q17274791",
+  "name": "Andrés Rillón",
+  "fullName": "Andrés Rillón",
+  "profileSummary": "Andrés Eugenio Rillón Romani was a Chilean lawyer, actor, film director, and comedian.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Rill%C3%B3n",
+  "dateOfBirth": "1929-12-27",
+  "birthDateParsed": "1929-12-27",
+  "dateOfDeath": "2017-01-05",
+  "deathDateParsed": "2017-01-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.0245",
+  "birthCoordinatesLng": "-71.5518",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "lawyer",
+    "television actor"
+  ],
+  "qid": "Q17274791",
+  "birthPlace": "Viña del Mar",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:49.922Z"
+}

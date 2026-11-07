@@ -1,0 +1,35 @@
+{
+  "publicId": "4d1316f7",
+  "wikipediaSlug": "Masatoshi_Nagase",
+  "wikipediaId": "Q2422834",
+  "name": "Masatoshi Nagase",
+  "fullName": "Masatoshi Nagase",
+  "profileSummary": "Masatoshi Nagase  is a Japanese actor and singer. He is best known in the West for his roles in Friðrik Þór Friðriksson's Cold Fever and Jim Jarmusch's Mystery Train.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nagase_Masatoshi_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2017_%2839492519394%29.jpg/330px-Nagase_Masatoshi_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2017_%2839492519394%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Masatoshi_Nagase",
+  "dateOfBirth": "1966-07-15",
+  "birthDateParsed": "1966-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "31.907722222",
+  "birthCoordinatesLng": "131.420194444",
+  "birthTimezone": "Asia/Tokyo",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "photographer",
+    "film actor"
+  ],
+  "qid": "Q2422834",
+  "birthPlace": "Miyazaki",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:37.865Z"
+}

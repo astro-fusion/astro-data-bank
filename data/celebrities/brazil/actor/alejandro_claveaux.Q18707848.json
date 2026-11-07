@@ -1,0 +1,34 @@
+{
+  "publicId": "2b38d225",
+  "wikipediaSlug": "Alejandro_Claveaux",
+  "wikipediaId": "Q18707848",
+  "name": "Alejandro Claveaux",
+  "fullName": "Alejandro Claveaux",
+  "profileSummary": "Alejandro Claveaux Martinez is a Brazilian actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Alejandro_Claveaux.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Claveaux",
+  "dateOfBirth": "1983-03-01",
+  "birthDateParsed": "1983-03-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-16.680555555",
+  "birthCoordinatesLng": "-49.256388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q18707848",
+  "birthPlace": "Goiânia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:43.563Z"
+}

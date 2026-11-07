@@ -1,0 +1,35 @@
+{
+  "publicId": "e9cdb7c6",
+  "wikipediaSlug": "Artur_da_Costa_e_Silva",
+  "wikipediaId": "Q312361",
+  "name": "Artur da Costa e Silva",
+  "fullName": "Artur da Costa e Silva",
+  "profileSummary": "Artur da Costa e Silva was a Brazilian Army Marshal and the second president of the Brazilian military government that came to power after the 1964 coup d'état. He reached the rank of Marshal of the Brazilian Army, and held the post of Minister of War in the military government of president Castelo Branco.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Costa_e_Silva_%28cropped%29%282%29.jpg/330px-Costa_e_Silva_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Artur_da_Costa_e_Silva",
+  "dateOfBirth": "1899-10-03",
+  "birthDateParsed": "1899-10-03",
+  "dateOfDeath": "1969-12-17",
+  "deathDateParsed": "1969-12-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-29.8",
+  "birthCoordinatesLng": "-51.859722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "dictator"
+  ],
+  "qid": "Q312361",
+  "birthPlace": "Taquari",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:21:55.848Z"
+}

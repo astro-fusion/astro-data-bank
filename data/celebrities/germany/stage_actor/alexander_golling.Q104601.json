@@ -1,0 +1,37 @@
+{
+  "publicId": "191cc1f6",
+  "wikipediaSlug": "Alexander_Golling",
+  "wikipediaId": "Q104601",
+  "name": "Alexander Golling",
+  "fullName": "Alexander Golling",
+  "profileSummary": "Alexander Golling was a German actor. Golling was a member of the Nazi Party.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Golling",
+  "dateOfBirth": "1905-08-02",
+  "birthDateParsed": "1905-08-02",
+  "dateOfDeath": "1989-02-26",
+  "deathDateParsed": "1989-02-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.1375",
+  "birthCoordinatesLng": "11.575",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor",
+    "director",
+    "musician"
+  ],
+  "qid": "Q104601",
+  "birthPlace": "Munich",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:03.623Z"
+}

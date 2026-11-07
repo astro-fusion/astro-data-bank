@@ -1,0 +1,42 @@
+{
+  "publicId": "f09bfb6d",
+  "wikipediaSlug": "Alexander_Bogdanov",
+  "wikipediaId": "Q335142",
+  "name": "Alexander Bogdanov",
+  "fullName": "Alexander Bogdanov",
+  "profileSummary": "Alexander Aleksandrovich Bogdanov, born Alexander Malinovsky, was a Russian and later Soviet physician, philosopher, science fiction writer, and Bolshevik revolutionary. He was a polymath who pioneered blood transfusion, as well as general systems theory, and made important contributions to cybernetics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alexander_Bogdanov_1904-2.1A_Trim.jpg/330px-Alexander_Bogdanov_1904-2.1A_Trim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Bogdanov",
+  "dateOfBirth": "1873-08-22",
+  "birthDateParsed": "1873-08-22",
+  "dateOfDeath": "1928-04-07",
+  "deathDateParsed": "1928-04-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.405014",
+  "birthCoordinatesLng": "23.496733",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "economist",
+    "physician",
+    "writer",
+    "poet",
+    "sociologist",
+    "journalist",
+    "science fiction writer",
+    "politician",
+    "revolutionary"
+  ],
+  "qid": "Q335142",
+  "birthPlace": "Sokółka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:32.030Z"
+}

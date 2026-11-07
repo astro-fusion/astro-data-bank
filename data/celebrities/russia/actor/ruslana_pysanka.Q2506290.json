@@ -1,0 +1,37 @@
+{
+  "publicId": "09376f50",
+  "wikipediaSlug": "Ruslana_Pysanka",
+  "wikipediaId": "Q2506290",
+  "name": "Ruslana Pysanka",
+  "fullName": "Ruslana Pysanka",
+  "profileSummary": "Ruslana Ihorivna Pysanka was a Ukrainian actress and cinematographer. She hosted several television shows, and appeared in international films. Pysanka became known as a lead presenter of the weather forecast on the Inter channel.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ruslana_pysanka_doll_charity_cropped.jpg/330px-Ruslana_pysanka_doll_charity_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruslana_Pysanka",
+  "dateOfBirth": "1965-11-17",
+  "birthDateParsed": "1965-11-17",
+  "dateOfDeath": "2022-07-19",
+  "deathDateParsed": "2022-07-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "presenter",
+    "television presenter",
+    "weather presenter"
+  ],
+  "qid": "Q2506290",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:44.245Z"
+}

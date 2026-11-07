@@ -1,0 +1,34 @@
+{
+  "publicId": "939512e3",
+  "wikipediaSlug": "Arne_Friedrich",
+  "wikipediaId": "Q63676",
+  "name": "Arne Friedrich",
+  "fullName": "Arne Friedrich",
+  "profileSummary": "Arne Friedrich is a German football executive and former player who played as a defender. He formerly was the sporting director of Hertha BSC.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Arne_Friedrich_2019_%28cropped%29.jpg/330px-Arne_Friedrich_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arne_Friedrich",
+  "dateOfBirth": "1979-05-29",
+  "birthDateParsed": "1979-05-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.2",
+  "birthCoordinatesLng": "8.8",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q63676",
+  "birthPlace": "Bad Oeynhausen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:52.516Z"
+}

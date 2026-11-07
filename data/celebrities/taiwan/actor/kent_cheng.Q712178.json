@@ -1,0 +1,36 @@
+{
+  "publicId": "4edff311",
+  "wikipediaSlug": "Kent_Cheng",
+  "wikipediaId": "Q712178",
+  "name": "Kent Cheng",
+  "fullName": "Kent Cheng",
+  "profileSummary": "Kent Cheng Jak-si is a Hong Kong film and television actor. He is a two time recipient of the Hong Kong Film Award for Best Actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%E9%84%AD%E5%89%87%E4%BB%95.jpg/330px-%E9%84%AD%E5%89%87%E4%BB%95.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kent_Cheng",
+  "dateOfBirth": "1951-05-23",
+  "birthDateParsed": "1951-05-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.353888888",
+  "birthCoordinatesLng": "116.682222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film director",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q712178",
+  "birthPlace": "Shantou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:07.425Z"
+}

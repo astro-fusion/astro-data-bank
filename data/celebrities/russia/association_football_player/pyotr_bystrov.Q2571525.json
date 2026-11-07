@@ -1,0 +1,33 @@
+{
+  "publicId": "06f62904",
+  "wikipediaSlug": "Pyotr_Bystrov",
+  "wikipediaId": "Q2571525",
+  "name": "Pyotr Bystrov",
+  "fullName": "Pyotr Bystrov",
+  "profileSummary": "Pyotr Aleksandrovich Bystrov is a former Russian association footballer. He usually played as a central, left-sided or offensive midfielder. He has played for Russia. He grew up in St Petersburg with his mother, a ballet dancer. Though his father, a law professor, never married Elena, they both carry his surname. In 2007, Bystrov passed his law exams and wished to pursue a career as a sports lawyer working for the IOC.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Peotr_Bistrov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pyotr_Bystrov",
+  "dateOfBirth": "1979-07-15",
+  "birthDateParsed": "1979-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "56.326944444",
+  "birthCoordinatesLng": "44.0075",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2571525",
+  "birthPlace": "Nizhny Novgorod",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:34.557Z"
+}

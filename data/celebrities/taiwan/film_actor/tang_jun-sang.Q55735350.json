@@ -1,0 +1,36 @@
+{
+  "publicId": "5f509378",
+  "wikipediaSlug": "Tang_Jun-sang",
+  "wikipediaId": "Q55735350",
+  "name": "Tang Jun-sang",
+  "fullName": "Tang Jun-sang",
+  "profileSummary": "Tang Jun-sang is a South Korean actor. He gained recognition for his role in the television series Crash Landing on You (2019–2020) and leading role in both Move to Heaven (2021) and Racket Boys (2021).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tangjoonsang2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tang_Jun-sang",
+  "dateOfBirth": "2003-08-13",
+  "birthDateParsed": "2003-08-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "37.53922",
+  "birthCoordinatesLng": "127.01532",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "television actor",
+    "stage actor"
+  ],
+  "qid": "Q55735350",
+  "birthPlace": "Oksu-dong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:54.879Z"
+}

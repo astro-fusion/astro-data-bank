@@ -1,0 +1,33 @@
+{
+  "publicId": "1bcccdd4",
+  "wikipediaSlug": "Athena_Chu",
+  "wikipediaId": "Q262468",
+  "name": "Athena Chu",
+  "fullName": "Athena Chu",
+  "profileSummary": "Athena Chu is a Hong Kong actress and singer. She is best known for her role as Zixia Fairy in A Chinese Odyssey (1995).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Athena_Chu.jpg/330px-Athena_Chu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Athena_Chu",
+  "dateOfBirth": "1971-10-25",
+  "birthDateParsed": "1971-10-25",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q262468",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:03.667Z"
+}

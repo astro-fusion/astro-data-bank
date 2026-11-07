@@ -1,0 +1,33 @@
+{
+  "publicId": "37af0de7",
+  "wikipediaSlug": "André_Frambach",
+  "wikipediaId": "Q47537797",
+  "name": "André Frambach",
+  "fullName": "André Frambach",
+  "profileSummary": "André Luiz Pfaltzgraff Frambach is a Brazilian actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Andr%C3%A9_Luiz_Frambach.jpg/330px-Andr%C3%A9_Luiz_Frambach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Frambach",
+  "dateOfBirth": "1997-02-15",
+  "birthDateParsed": "1997-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.883333333",
+  "birthCoordinatesLng": "-43.103611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q47537797",
+  "birthPlace": "Niterói",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:39.394Z"
+}

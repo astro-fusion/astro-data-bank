@@ -1,0 +1,34 @@
+{
+  "publicId": "75f11196",
+  "wikipediaSlug": "Eugen_Neufeld",
+  "wikipediaId": "Q87327",
+  "name": "Eugen Neufeld",
+  "fullName": "Eugen Neufeld",
+  "profileSummary": "Eugen Neufeld was an Austrian-Jewish film actor. He was the older brother of actor and director Max Neufeld.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugen_Neufeld",
+  "dateOfBirth": "1882-12-06",
+  "birthDateParsed": "1882-12-06",
+  "dateOfDeath": "1950-10-18",
+  "deathDateParsed": "1950-10-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.848950584",
+  "birthCoordinatesLng": "17.132439069",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q87327",
+  "birthPlace": "Hodonín",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:12:10.589Z"
+}

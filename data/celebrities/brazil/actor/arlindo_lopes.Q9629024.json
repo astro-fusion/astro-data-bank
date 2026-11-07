@@ -1,0 +1,34 @@
+{
+  "publicId": "8953cb3b",
+  "wikipediaSlug": "Arlindo_Lopes",
+  "wikipediaId": "Q9629024",
+  "name": "Arlindo Lopes",
+  "fullName": "Arlindo Lopes",
+  "profileSummary": "Arlindo Lopes is a Brazilian actor, producer, and theatre director who has been active on stage as well as in national telenovelas and some film productions, including the 2002 film City of God.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/ArlindoLopes.png/330px-ArlindoLopes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arlindo_Lopes",
+  "dateOfBirth": "1979-03-07",
+  "birthDateParsed": "1979-03-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q9629024",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:34.593Z"
+}

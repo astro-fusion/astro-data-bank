@@ -1,0 +1,35 @@
+{
+  "publicId": "10cbef87",
+  "wikipediaSlug": "Aleksandr_Lyapunov",
+  "wikipediaId": "Q310788",
+  "name": "Aleksandr Lyapunov",
+  "fullName": "Aleksandr Lyapunov",
+  "profileSummary": "Aleksandr Mikhailovich Lyapunov was a Russian mathematician, mechanician and physicist. He was the son of the astronomer Mikhail Lyapunov and the brother of the pianist and composer Sergei Lyapunov.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Alexander_Ljapunow_jung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Lyapunov",
+  "dateOfBirth": "1857-06-06",
+  "birthDateParsed": "1857-06-06",
+  "dateOfDeath": "1918-11-03",
+  "deathDateParsed": "1918-11-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "57.626388888",
+  "birthCoordinatesLng": "39.893333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "physicist",
+    "university teacher"
+  ],
+  "qid": "Q310788",
+  "birthPlace": "Yaroslavl",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:07.054Z"
+}

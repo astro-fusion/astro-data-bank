@@ -1,0 +1,38 @@
+{
+  "publicId": "858bcab6",
+  "wikipediaSlug": "Antônio_Calloni",
+  "wikipediaId": "Q2360451",
+  "name": "Antônio Calloni",
+  "fullName": "Antônio Calloni",
+  "profileSummary": "Egízio Antônio Calloni is a Brazilian actor, best known for Os Dias Eram Assim (2017), Dois Irmãos (2017), Brazilian Western (2013) and he also dubbed Garfield in the first film and the second film.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ant%C3%B4nio_Calloni.jpg/330px-Ant%C3%B4nio_Calloni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Calloni",
+  "dateOfBirth": "1961-12-06",
+  "birthDateParsed": "1961-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "poet",
+    "film actor",
+    "television actor",
+    "voice actor"
+  ],
+  "qid": "Q2360451",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:22.392Z"
+}

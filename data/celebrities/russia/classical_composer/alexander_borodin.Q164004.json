@@ -1,0 +1,41 @@
+{
+  "publicId": "42098775",
+  "wikipediaSlug": "Alexander_Borodin",
+  "wikipediaId": "Q164004",
+  "name": "Alexander Borodin",
+  "fullName": "Alexander Borodin",
+  "profileSummary": "Alexander Porfiryevich Borodin was a Russian Romantic composer and chemist of Georgian–Russian parentage. He was one of the prominent 19th-century composers known as \"The Five\", a group dedicated to producing a \"uniquely Russian\" kind of classical music. Borodin is known best for his symphonies, his two string quartets, the symphonic poem In the Steppes of Central Asia and his opera Prince Igor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Borodin.jpg/330px-Borodin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Borodin",
+  "dateOfBirth": "1833-11-12",
+  "birthDateParsed": "1833-11-12",
+  "dateOfDeath": "1887-02-15",
+  "deathDateParsed": "1887-02-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "classical composer",
+    "chemist",
+    "pianist",
+    "flautist",
+    "cellist",
+    "physician",
+    "opera composer",
+    "composer",
+    "musician"
+  ],
+  "qid": "Q164004",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:45:56.976Z"
+}

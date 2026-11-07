@@ -1,0 +1,36 @@
+{
+  "publicId": "6f630f50",
+  "wikipediaSlug": "Kuno_Becker",
+  "wikipediaId": "Q374038",
+  "name": "Kuno Becker",
+  "fullName": "Kuno Becker",
+  "profileSummary": "Eduardo Kuno Becker Paz, professionally known as Kuno Becker, is a Mexican actor and film director who has appeared in telenovelas, Mexican and American films. He is perhaps best known for his roles as Rubén Barraisabal in Soñadoras and Santiago Muñez in the Goal! film series.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kuno_Becker_in_Cars_3_interview.jpg/330px-Kuno_Becker_in_Cars_3_interview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kuno_Becker",
+  "dateOfBirth": "1978-01-14",
+  "birthDateParsed": "1978-01-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "stage actor",
+    "film director",
+    "screenwriter",
+    "director"
+  ],
+  "qid": "Q374038",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:19.874Z"
+}

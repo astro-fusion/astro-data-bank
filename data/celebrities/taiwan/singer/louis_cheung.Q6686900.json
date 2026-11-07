@@ -1,0 +1,37 @@
+{
+  "publicId": "d373f4e8",
+  "wikipediaSlug": "Louis_Cheung",
+  "wikipediaId": "Q6686900",
+  "name": "Louis Cheung",
+  "fullName": "Louis Cheung",
+  "profileSummary": "Louis Cheung is a Hong Kong singer, songwriter, and actor. He is an alumnus of The Hong Kong Academy for Performing Arts, majoring in acting. His first play was in 1997, and he has performed in a total of more than 20 stage plays, including the classic \"A Streetcar Named Desire\", in which he played Stanley Kowalski.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Louis_Cheung_2022-11-05.jpg/330px-Louis_Cheung_2022-11-05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Cheung",
+  "dateOfBirth": "1980-01-11",
+  "birthDateParsed": "1980-01-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "songwriter",
+    "television actor",
+    "director"
+  ],
+  "qid": "Q6686900",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:39.487Z"
+}

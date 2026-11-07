@@ -1,0 +1,38 @@
+{
+  "publicId": "1227096e",
+  "wikipediaSlug": "Joan_Sebastian",
+  "wikipediaId": "Q9012072",
+  "name": "Joan Sebastian",
+  "fullName": "Joan Sebastian",
+  "profileSummary": "José Manuel Figueroa Sr., known professionally as Joan Sebastian, was a Mexican singer and songwriter. Born in Juliantla, Guerrero, he composed more than 1,000 songs, including compositions for artists such as Bronco, Vicente Fernández, Lucero, Pepe Aguilar, and Rocío Dúrcal. The first several years of his career were primarily focused on Soft rock and Latin pop songs, but later focused primarily on regional Mexican music, specifically banda, mariachi, and norteño. Throughout his career, he also recorded various country songs in Spanish. Sebastian was awarded seven Latin Grammy Awards and five Grammy Awards, making him the most awarded Mexican performer in Grammy history.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Joan_Sebastian_Pepsi_Center_%28cropped%29.jpg/330px-Joan_Sebastian_Pepsi_Center_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Sebastian",
+  "dateOfBirth": "1951-04-08",
+  "birthDateParsed": "1951-04-08",
+  "dateOfDeath": "2015-07-13",
+  "deathDateParsed": "2015-07-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "18.54",
+  "birthCoordinatesLng": "-99.554722222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "actor",
+    "poet",
+    "record producer",
+    "television actor",
+    "recording artist"
+  ],
+  "qid": "Q9012072",
+  "birthPlace": "Juliantla",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:24:06.554Z"
+}

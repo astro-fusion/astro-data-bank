@@ -1,0 +1,33 @@
+{
+  "publicId": "bc6b7b33",
+  "wikipediaSlug": "Araceli_Vitta",
+  "wikipediaId": "Q56994100",
+  "name": "Araceli Vitta",
+  "fullName": "Araceli Vitta",
+  "profileSummary": "Araceli Vitta Arambarri is a Chilean actress and public relations agent.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Araceli_Vitta",
+  "dateOfBirth": "1973-03-24",
+  "birthDateParsed": "1973-03-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q56994100",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:47.326Z"
+}

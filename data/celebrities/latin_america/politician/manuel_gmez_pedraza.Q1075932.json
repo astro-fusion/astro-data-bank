@@ -1,0 +1,36 @@
+{
+  "publicId": "ce51401f",
+  "wikipediaSlug": "Manuel_Gómez_Pedraza",
+  "wikipediaId": "Q1075932",
+  "name": "Manuel Gómez Pedraza",
+  "fullName": "Manuel Gómez Pedraza",
+  "profileSummary": "Manuel Gómez Pedraza y Rodríguez was a Mexican general who also became president of Mexico during the First Mexican Republic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Presidente_Manuel_G%C3%B3mez_Pedraza.jpg/330px-Presidente_Manuel_G%C3%B3mez_Pedraza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_G%C3%B3mez_Pedraza",
+  "dateOfBirth": "1789-04-22",
+  "birthDateParsed": "1789-04-22",
+  "dateOfDeath": "1851-05-14",
+  "deathDateParsed": "1851-05-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "20.588055555",
+  "birthCoordinatesLng": "-100.388055555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "minister",
+    "military personnel"
+  ],
+  "qid": "Q1075932",
+  "birthPlace": "Santiago de Querétaro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:01.580Z"
+}

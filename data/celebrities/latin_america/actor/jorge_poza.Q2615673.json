@@ -1,0 +1,33 @@
+{
+  "publicId": "1c266169",
+  "wikipediaSlug": "Jorge_Poza",
+  "wikipediaId": "Q2615673",
+  "name": "Jorge Poza",
+  "fullName": "Jorge Poza",
+  "profileSummary": "Jorge Alberto Poza Pérez is a Mexican film and television actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Poza",
+  "dateOfBirth": "1967-06-26",
+  "birthDateParsed": "1967-06-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q2615673",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:28.099Z"
+}

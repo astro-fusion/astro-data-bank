@@ -1,0 +1,36 @@
+{
+  "publicId": "cb21c9df",
+  "wikipediaSlug": "Ady_An",
+  "wikipediaId": "Q710529",
+  "name": "Ady An",
+  "fullName": "Ady An",
+  "profileSummary": "Ady An Yi-xuan is a Taiwanese actress and singer. She is known for TV dramas The Outsiders (2004), Chinese Paladin (2005), and Autumn's Concerto (2009).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ady_An",
+  "dateOfBirth": "1980-09-29",
+  "birthDateParsed": "1980-09-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q710529",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:26.077Z"
+}

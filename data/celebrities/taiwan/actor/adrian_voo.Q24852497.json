@@ -1,0 +1,33 @@
+{
+  "publicId": "231f443b",
+  "wikipediaSlug": "Adrian_Voo",
+  "wikipediaId": "Q24852497",
+  "name": "Adrian Voo",
+  "fullName": "Adrian Voo",
+  "profileSummary": "Adrian Voo is a Malaysian film actor. He came to prominence with supporting roles in the comedy films Amateur Night and Dear Dictator.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Adrian_Voo_-_June_2016_%28cropped%29.jpg/330px-Adrian_Voo_-_June_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrian_Voo",
+  "dateOfBirth": "1986-04-30",
+  "birthDateParsed": "1986-04-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.147777777",
+  "birthCoordinatesLng": "101.695277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q24852497",
+  "birthPlace": "Kuala Lumpur",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:15.630Z"
+}

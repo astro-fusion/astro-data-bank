@@ -1,0 +1,36 @@
+{
+  "publicId": "4410dad9",
+  "wikipediaSlug": "Andrea_Eckert",
+  "wikipediaId": "Q89070",
+  "name": "Andrea Eckert",
+  "fullName": "Andrea Eckert",
+  "profileSummary": "Andrea Eckert is an Austrian stage and film actress, singer and documentary filmmaker.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Nestroy_2010_%2823%29_Andrea_Eckert.jpg/330px-Nestroy_2010_%2823%29_Andrea_Eckert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Eckert",
+  "dateOfBirth": "1958-09-17",
+  "birthDateParsed": "1958-09-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "film director",
+    "actor"
+  ],
+  "qid": "Q89070",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:18.716Z"
+}

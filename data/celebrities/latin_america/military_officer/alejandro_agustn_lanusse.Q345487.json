@@ -1,0 +1,35 @@
+{
+  "publicId": "8e90f1da",
+  "wikipediaSlug": "Alejandro_Agustín_Lanusse",
+  "wikipediaId": "Q345487",
+  "name": "Alejandro Agustín Lanusse",
+  "fullName": "Alejandro Agustín Lanusse",
+  "profileSummary": "Alejandro Agustín Lanusse Gelly was the de facto president of the Argentine Republic between 26 March 1971 and 25 May 1973, during the military dictatorship of the country called the \"Argentine Revolution\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alejandro_Agust%C3%ADn_Lanusse.jpg/330px-Alejandro_Agust%C3%ADn_Lanusse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Agust%C3%ADn_Lanusse",
+  "dateOfBirth": "1918-08-28",
+  "birthDateParsed": "1918-08-28",
+  "dateOfDeath": "1996-08-26",
+  "deathDateParsed": "1996-08-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "diplomat",
+    "politician"
+  ],
+  "qid": "Q345487",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:51:24.307Z"
+}

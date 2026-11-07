@@ -1,0 +1,37 @@
+{
+  "publicId": "ca681984",
+  "wikipediaSlug": "Paz_Vega",
+  "wikipediaId": "Q234618",
+  "name": "Paz Vega",
+  "fullName": "Paz Vega",
+  "profileSummary": "María de la Paz Campos Trigo, known professionally as Paz Vega, is a Spanish actress. She became popular for her performance in comedy television series 7 vidas. Her film credits include Sex and Lucia (2001), Mine Alone (2001), The Other Side of the Bed (2002), Carmen (2003), Spanglish (2004), and Theresa: The Body of Christ (2007). She played the role of Catalina Creel in the 2019 television series Cradle of Wolves. She made her directorial debut with Rita (2024), which she also wrote.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Premios_Goya_2020_-_Paz_Vega_%28cropped%29.jpg/330px-Premios_Goya_2020_-_Paz_Vega_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paz_Vega",
+  "dateOfBirth": "1976-01-02",
+  "birthDateParsed": "1976-01-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "37.388611111",
+  "birthCoordinatesLng": "-5.995",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "film actor",
+    "actor",
+    "film director",
+    "film producer"
+  ],
+  "qid": "Q234618",
+  "birthPlace": "Seville",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:47.945Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "0fa7c4c6",
+  "wikipediaSlug": "Alexander_Radishchev",
+  "wikipediaId": "Q217470",
+  "name": "Alexander Radishchev",
+  "fullName": "Alexander Radishchev",
+  "profileSummary": "Alexander Nikolayevich Radishchev was a Russian author and social critic who was arrested and exiled under Catherine the Great. He brought the tradition of radicalism in Russian literature to prominence with his 1790 work Journey from St. Petersburg to Moscow. His depiction of socio-economic conditions in Russia resulted in his exile to Siberia until 1797. He was the grandfather of painter Alexey Bogolyubov.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Radishchev_color.jpg/330px-Radishchev_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Radishchev",
+  "dateOfBirth": "1749-08-31",
+  "birthDateParsed": "1749-08-31",
+  "dateOfDeath": "1802-09-23",
+  "deathDateParsed": "1802-09-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.05",
+  "birthCoordinatesLng": "46.433333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "writer",
+    "novelist",
+    "poet",
+    "economist",
+    "prose writer"
+  ],
+  "qid": "Q217470",
+  "birthPlace": "Radischevo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:17.885Z"
+}

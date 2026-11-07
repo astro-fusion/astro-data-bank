@@ -1,0 +1,36 @@
+{
+  "publicId": "bbe7d4d4",
+  "wikipediaSlug": "Tony_Leung_Chiu-wai",
+  "wikipediaId": "Q319001",
+  "name": "Tony Leung Chiu-wai",
+  "fullName": "Tony Leung Chiu-wai",
+  "profileSummary": "Tony Leung Chiu-wai is a Hong Kong actor and singer. He is one of Asia's most successful and internationally recognized actors. He has won many international acting prizes, including the Cannes Film Festival award for Best Actor. He was named by CNN as one of \"Asia's 25 Greatest Actors of All Time\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tony_Leung_as_the_President_of_the_International_Competition_Jury_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2024_%2854578353950%29.jpg/330px-Tony_Leung_as_the_President_of_the_International_Competition_Jury_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2024_%2854578353950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Leung_Chiu-wai",
+  "dateOfBirth": "1962-06-27",
+  "birthDateParsed": "1962-06-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q319001",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:14.748Z"
+}

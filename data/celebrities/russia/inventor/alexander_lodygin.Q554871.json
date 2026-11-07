@@ -1,0 +1,35 @@
+{
+  "publicId": "5430ecb9",
+  "wikipediaSlug": "Alexander_Lodygin",
+  "wikipediaId": "Q554871",
+  "name": "Alexander Lodygin",
+  "fullName": "Alexander Lodygin",
+  "profileSummary": "Alexander Nikolayevich Lodygin, known after immigration to US as Alexandre de Lodyguine was a Russian electrical engineer and inventor, one of the inventors of the incandescent light bulb.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lodygin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Lodygin",
+  "dateOfBirth": "1847-10-18",
+  "birthDateParsed": "1847-10-18",
+  "dateOfDeath": "1923-03-16",
+  "deathDateParsed": "1923-03-16",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.711666666",
+  "birthCoordinatesLng": "39.958611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "inventor",
+    "engineer",
+    "entrepreneur"
+  ],
+  "qid": "Q554871",
+  "birthPlace": "Sten'shino",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:07.072Z"
+}

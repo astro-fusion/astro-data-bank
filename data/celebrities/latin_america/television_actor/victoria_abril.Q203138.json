@@ -1,0 +1,38 @@
+{
+  "publicId": "e220abee",
+  "wikipediaSlug": "Victoria_Abril",
+  "wikipediaId": "Q203138",
+  "name": "Victoria Abril",
+  "fullName": "Victoria Abril",
+  "profileSummary": "Victoria Mérida Rojas, better known as Victoria Abril, is a Spanish film actress and singer based in France. She is possibly best known to international audiences for her performance in the film Tie Me Up! Tie Me Down! by director Pedro Almodóvar.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Victoria_Abril_Cannes_2013.jpg/330px-Victoria_Abril_Cannes_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Victoria_Abril",
+  "dateOfBirth": "1959-07-04",
+  "birthDateParsed": "1959-07-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "singer",
+    "jazz musician",
+    "film actor",
+    "television presenter",
+    "actor"
+  ],
+  "qid": "Q203138",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:38.646Z"
+}

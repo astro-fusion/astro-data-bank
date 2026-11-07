@@ -1,0 +1,38 @@
+{
+  "publicId": "efd8bf01",
+  "wikipediaSlug": "Horacio_Rosatti",
+  "wikipediaId": "Q5901983",
+  "name": "Horacio Rosatti",
+  "fullName": "Horacio Rosatti",
+  "profileSummary": "Horacio Daniel Rosatti is an Argentine lawyer, politician, and a member of the Supreme Court of Argentina since 2016, designated by president Mauricio Macri's and the Senate's approval. In September 2021, he was elected President of the court by his peers, and took office on 1 October.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Rosatti1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Horacio_Rosatti",
+  "dateOfBirth": "1956-08-11",
+  "birthDateParsed": "1956-08-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.633333333",
+  "birthCoordinatesLng": "-60.7",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "judge",
+    "lawyer",
+    "university teacher",
+    "jurist",
+    "sociology"
+  ],
+  "qid": "Q5901983",
+  "birthPlace": "Santa Fe",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:58.062Z"
+}

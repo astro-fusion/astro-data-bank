@@ -1,0 +1,34 @@
+{
+  "publicId": "370d0ed2",
+  "wikipediaSlug": "Maria_Mykolaichuk",
+  "wikipediaId": "Q12123268",
+  "name": "Maria Mykolaichuk",
+  "fullName": "Maria Mykolaichuk",
+  "profileSummary": "Maria Yevhenivna Mykolaichuk was a Ukrainian singer and actress. She was named People's Artist of Ukraine.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%D0%9C.%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D1%87%D1%83%D0%BA.jpg/330px-%D0%9C.%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D1%87%D1%83%D0%BA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Mykolaichuk",
+  "dateOfBirth": "1941-04-08",
+  "birthDateParsed": "1941-04-08",
+  "dateOfDeath": "2023-02-01",
+  "deathDateParsed": "2023-02-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.407222222",
+  "birthCoordinatesLng": "25.801111111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor"
+  ],
+  "qid": "Q12123268",
+  "birthPlace": "Vytylivka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:34.368Z"
+}

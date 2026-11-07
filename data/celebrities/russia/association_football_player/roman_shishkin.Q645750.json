@@ -1,0 +1,34 @@
+{
+  "publicId": "6bd5bdfd",
+  "wikipediaSlug": "Roman_Shishkin",
+  "wikipediaId": "Q645750",
+  "name": "Roman Shishkin",
+  "fullName": "Roman Shishkin",
+  "profileSummary": "Roman Aleksandrovich Shishkin is a Russian former association footballer who played as a right-back.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Roman_Shishkin_2019.jpg/330px-Roman_Shishkin_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roman_Shishkin",
+  "dateOfBirth": "1987-01-27",
+  "birthDateParsed": "1987-01-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.671666666",
+  "birthCoordinatesLng": "39.210555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q645750",
+  "birthPlace": "Voronezh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:33.875Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "85ce632c",
+  "wikipediaSlug": "Alexandre_Pato",
+  "wikipediaId": "Q138075",
+  "name": "Alexandre Pato",
+  "fullName": "Alexandre Pato",
+  "profileSummary": "Alexandre Rodrigues da Silva, commonly known as Alexandre Pato or simply Pato, is a Brazilian former professional footballer who played as a striker and could also operate as a second striker or winger.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alexandre_Pato_Real_Madrid-Milan.jpg/330px-Alexandre_Pato_Real_Madrid-Milan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Pato",
+  "dateOfBirth": "1989-09-02",
+  "birthDateParsed": "1989-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-26.228888888",
+  "birthCoordinatesLng": "-52.670833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q138075",
+  "birthPlace": "Pato Branco",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:28.024Z"
+}

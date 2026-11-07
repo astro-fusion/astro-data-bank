@@ -1,0 +1,38 @@
+{
+  "publicId": "27c5006d",
+  "wikipediaSlug": "Belinda_Peregrín",
+  "wikipediaId": "Q232514",
+  "name": "Belinda Peregrín",
+  "fullName": "Belinda Peregrín",
+  "profileSummary": "Belinda Peregrín Schüll, known mononymously as Belinda, is a Mexican singer-songwriter and actress. She immigrated with her family to Mexico City at the age of four. In 2000, she started her career as a child actress at the age of 10 when she was cast as the lead role in the Mexican children's telenovela Amigos x siempre. She later appeared in Aventuras en el tiempo (2001) and Cómplices Al Rescate (2002).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Belinda_Huawei_2021.jpg/330px-Belinda_Huawei_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Belinda_Peregr%C3%ADn",
+  "dateOfBirth": "1989-08-15",
+  "birthDateParsed": "1989-08-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "songwriter",
+    "film actor",
+    "musician"
+  ],
+  "qid": "Q232514",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:23.475Z"
+}

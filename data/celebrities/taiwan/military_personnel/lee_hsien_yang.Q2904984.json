@@ -1,0 +1,34 @@
+{
+  "publicId": "192ebaf8",
+  "wikipediaSlug": "Lee_Hsien_Yang",
+  "wikipediaId": "Q2904984",
+  "name": "Lee Hsien Yang",
+  "fullName": "Lee Hsien Yang",
+  "profileSummary": "Lee Hsien Yang is a Singaporean businessman and former brigadier-general. He has been a member of the Progress Singapore Party (PSP) since 2020.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Hsien_Yang",
+  "dateOfBirth": "1957-09-24",
+  "birthDateParsed": "1957-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "businessperson"
+  ],
+  "qid": "Q2904984",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:26.218Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "4029bd67",
+  "wikipediaSlug": "Enrique_Guzmán",
+  "wikipediaId": "Q3054680",
+  "name": "Enrique Guzmán",
+  "fullName": "Enrique Guzmán",
+  "profileSummary": "Enrique Alejandro Guzmán Vargas is a Mexican singer and actor. He is one of the pioneers of Rock & Roll in Mexico, along with César Costa, Angélica María, Johnny Laboriel and Alberto Vasquez, among others. He is also the father of Mexican singer Alejandra Guzmán by his former wife, actress and singer Silvia Pinal.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Teentops-enargentina.jpg/330px-Teentops-enargentina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Guzm%C3%A1n",
+  "dateOfBirth": "1943-02-01",
+  "birthDateParsed": "1943-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "10.506111111",
+  "birthCoordinatesLng": "-66.914444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "film actor",
+    "recording artist"
+  ],
+  "qid": "Q3054680",
+  "birthPlace": "Caracas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:18.864Z"
+}

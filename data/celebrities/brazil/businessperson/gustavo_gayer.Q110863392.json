@@ -1,0 +1,39 @@
+{
+  "publicId": "0436302e",
+  "wikipediaSlug": "Gustavo_Gayer",
+  "wikipediaId": "Q110863392",
+  "name": "Gustavo Gayer",
+  "fullName": "Gustavo Gayer",
+  "profileSummary": "Gustavo Gayer Machado de Araújo is a Brazilian businessman, politician, YouTuber and Internet celebrity. He became better known in 2020 due to the rise of conservatism and the far-right on social media, aligning himself with then-president Jair Bolsonaro. He is considered one of the most controversial politicians in Goiás state and one of the main Bolsonaro supporters in the state. He was named by the COVID-19 CPI as one of the YouTubers who profited most from spreading fake news about COVID-19. In 2022, he was elected federal deputy for Goiás with the second highest vote in the state.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gustavo_Gayer.jpg/330px-Gustavo_Gayer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavo_Gayer",
+  "dateOfBirth": "1981-04-13",
+  "birthDateParsed": "1981-04-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-16.680555555",
+  "birthCoordinatesLng": "-49.256388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "businessperson",
+    "politician",
+    "influencer",
+    "YouTuber",
+    "Internet activist",
+    "English teacher",
+    "political pundit"
+  ],
+  "qid": "Q110863392",
+  "birthPlace": "Goiânia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:59.138Z"
+}

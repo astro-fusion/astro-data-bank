@@ -1,0 +1,35 @@
+{
+  "publicId": "9f8c27ce",
+  "wikipediaSlug": "Anna_Maria_Mühe",
+  "wikipediaId": "Q63033",
+  "name": "Anna Maria Mühe",
+  "fullName": "Anna Maria Mühe",
+  "profileSummary": "Anna Maria Mühe is a German actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MJKr01268_Anna_Maria_M%C3%BChe_%28Medienboard_Party_2020%29.jpg/330px-MJKr01268_Anna_Maria_M%C3%BChe_%28Medienboard_Party_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Maria_M%C3%BChe",
+  "dateOfBirth": "1985-07-23",
+  "birthDateParsed": "1985-07-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q63033",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:29.048Z"
+}

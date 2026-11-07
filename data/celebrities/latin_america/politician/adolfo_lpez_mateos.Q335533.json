@@ -1,0 +1,34 @@
+{
+  "publicId": "bf4ed912",
+  "wikipediaSlug": "Adolfo_López_Mateos",
+  "wikipediaId": "Q335533",
+  "name": "Adolfo López Mateos",
+  "fullName": "Adolfo López Mateos",
+  "profileSummary": "Adolfo López Mateos was a centre-left Mexican politician and lawyer who served as President of Mexico from 1958 to 1964. Previously, he served as Secretary of Labor and Social Welfare from 1952 to 1957 and a Senator from the State of Mexico from 1946 to 1952.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Adolfo_L%C3%B3pez_Mateos_%281963%29_%28cropped%29%28c%29.jpg/330px-Adolfo_L%C3%B3pez_Mateos_%281963%29_%28cropped%29%28c%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolfo_L%C3%B3pez_Mateos",
+  "dateOfBirth": "1910-05-26",
+  "birthDateParsed": "1910-05-26",
+  "dateOfDeath": "1969-09-22",
+  "deathDateParsed": "1969-09-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.561111111",
+  "birthCoordinatesLng": "-99.246944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q335533",
+  "birthPlace": "Ciudad López Mateos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:12:50.575Z"
+}

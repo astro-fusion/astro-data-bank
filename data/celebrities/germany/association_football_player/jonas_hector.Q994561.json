@@ -1,0 +1,33 @@
+{
+  "publicId": "fec03f68",
+  "wikipediaSlug": "Jonas_Hector",
+  "wikipediaId": "Q994561",
+  "name": "Jonas Hector",
+  "fullName": "Jonas Hector",
+  "profileSummary": "Jonas Armin Hector is a German former professional footballer who played as a left-back and midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Jonas_Hector_850_0692.jpg/330px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Jonas_Hector_850_0692.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonas_Hector",
+  "dateOfBirth": "1990-05-27",
+  "birthDateParsed": "1990-05-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "49.233333333",
+  "birthCoordinatesLng": "7",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q994561",
+  "birthPlace": "Saarbrücken",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:38.682Z"
+}

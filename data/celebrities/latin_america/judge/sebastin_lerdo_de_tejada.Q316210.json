@@ -1,0 +1,35 @@
+{
+  "publicId": "d4b79f8e",
+  "wikipediaSlug": "Sebastián_Lerdo_de_Tejada",
+  "wikipediaId": "Q316210",
+  "name": "Sebastián Lerdo de Tejada",
+  "fullName": "Sebastián Lerdo de Tejada",
+  "profileSummary": "Sebastián Lerdo de Tejada y Corral was a Mexican liberal politician and jurist who served as the 31st president of Mexico from 1872 to 1876.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Presente_Sebasti%C3%A1n_Lerdo_de_Tejada.png/330px-Presente_Sebasti%C3%A1n_Lerdo_de_Tejada.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Lerdo_de_Tejada",
+  "dateOfBirth": "1823-04-24",
+  "birthDateParsed": "1823-04-24",
+  "dateOfDeath": "1889-04-21",
+  "deathDateParsed": "1889-04-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.53124",
+  "birthCoordinatesLng": "-96.91589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "judge",
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q316210",
+  "birthPlace": "Xalapa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:06.030Z"
+}

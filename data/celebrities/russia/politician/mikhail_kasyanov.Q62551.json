@@ -1,0 +1,34 @@
+{
+  "publicId": "1374b099",
+  "wikipediaSlug": "Mikhail_Kasyanov",
+  "wikipediaId": "Q62551",
+  "name": "Mikhail Kasyanov",
+  "fullName": "Mikhail Kasyanov",
+  "profileSummary": "Mikhail Mikhailovich Kasyanov is a Russian politician who served as Prime Minister of Russia from 2000 to 2004. Previously, he had served as First Deputy Prime Minister in 2000 and Minister of Finance from 1999 to 2000. During the 1990s, he worked in President Boris Yeltsin's administration in different positions before joining President Vladimir Putin's first administration. He has the federal state civilian service rank of 1st class Active State Councillor of the Russian Federation.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9A%D0%B0%D1%81%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2_%2810-02-2016%29.jpg/330px-%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9A%D0%B0%D1%81%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2_%2810-02-2016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Kasyanov",
+  "dateOfBirth": "1957-12-08",
+  "birthDateParsed": "1957-12-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.65361111",
+  "birthCoordinatesLng": "37.40194444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "economist"
+  ],
+  "qid": "Q62551",
+  "birthPlace": "Solntsevo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:59:28.306Z"
+}

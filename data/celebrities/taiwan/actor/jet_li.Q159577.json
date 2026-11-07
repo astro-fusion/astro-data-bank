@@ -1,0 +1,38 @@
+{
+  "publicId": "cbc8f277",
+  "wikipediaSlug": "Jet_Li",
+  "wikipediaId": "Q159577",
+  "name": "Jet Li",
+  "fullName": "Jet Li",
+  "profileSummary": "Jet Li Lianjie is a martial artist, actor, and philanthropist. With a career spanning more than forty years, he is regarded as one of the greatest Chinese film stars and one of the greatest martial artists in the history of cinema. His film career in Asia is credited with reviving Hong Kong kungfu films as well as Shaolin Temple.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jet_Li_2009_%28cropped%29.jpg/330px-Jet_Li_2009_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jet_Li",
+  "dateOfBirth": "1963-04-26",
+  "birthDateParsed": "1963-04-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "39.90403",
+  "birthCoordinatesLng": "116.407526",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "writer",
+    "film director",
+    "athlete",
+    "film actor"
+  ],
+  "qid": "Q159577",
+  "birthPlace": "Beijing",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:04.884Z"
+}

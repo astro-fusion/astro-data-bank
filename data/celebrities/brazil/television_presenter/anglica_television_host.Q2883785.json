@@ -1,0 +1,36 @@
+{
+  "publicId": "610c7bdf",
+  "wikipediaSlug": "Angélica_(television_host)",
+  "wikipediaId": "Q2883785",
+  "name": "Angélica (television host)",
+  "fullName": "Angélica (television host)",
+  "profileSummary": "Angélica Ksyvickis, known professionally by the mononym Angélica, is a Brazilian television host, actress, and former singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ang%C3%A9lica_cropped.jpg/330px-Ang%C3%A9lica_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ang%C3%A9lica_(television_host)",
+  "dateOfBirth": "1973-11-30",
+  "birthDateParsed": "1973-11-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.6533349",
+  "birthCoordinatesLng": "-46.5279508",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "singer",
+    "actor",
+    "recording artist"
+  ],
+  "qid": "Q2883785",
+  "birthPlace": "Santo André",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:21.521Z"
+}

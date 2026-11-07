@@ -1,0 +1,34 @@
+{
+  "publicId": "5170083a",
+  "wikipediaSlug": "Ada_Chaseliov",
+  "wikipediaId": "Q9582128",
+  "name": "Ada Chaseliov",
+  "fullName": "Ada Chaseliov",
+  "profileSummary": "Ada Chaseliov was a Brazilian film, stage, and television actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bd/Ada_Chaseliov_died_2015.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ada_Chaseliov",
+  "dateOfBirth": "1952-03-30",
+  "birthDateParsed": "1952-03-30",
+  "dateOfDeath": "2015-10-27",
+  "deathDateParsed": "2015-10-27",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q9582128",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:30.919Z"
+}

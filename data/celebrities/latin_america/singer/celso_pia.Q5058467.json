@@ -1,0 +1,33 @@
+{
+  "publicId": "be856a51",
+  "wikipediaSlug": "Celso_Piña",
+  "wikipediaId": "Q5058467",
+  "name": "Celso Piña",
+  "fullName": "Celso Piña",
+  "profileSummary": "Celso Piña Arvizu was a Mexican singer, composer and accordionist, mainly in the genre of cumbia, being one of the most important musicians in the style of \"cumbia rebajada\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MX_TV_A%C3%91O_DUAL_MEXICO-ALEMANIA_CELSO_PI%C3%91A_%2835052491012%29.jpg/330px-MX_TV_A%C3%91O_DUAL_MEXICO-ALEMANIA_CELSO_PI%C3%91A_%2835052491012%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Celso_Pi%C3%B1a",
+  "dateOfBirth": "1953-04-06",
+  "birthDateParsed": "1953-04-06",
+  "dateOfDeath": "2019-08-21",
+  "deathDateParsed": "2019-08-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q5058467",
+  "birthPlace": "Monterrey",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:24:07.918Z"
+}

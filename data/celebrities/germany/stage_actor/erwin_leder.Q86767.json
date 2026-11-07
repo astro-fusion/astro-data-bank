@@ -1,0 +1,38 @@
+{
+  "publicId": "0d4729fc",
+  "wikipediaSlug": "Erwin_Leder",
+  "wikipediaId": "Q86767",
+  "name": "Erwin Leder",
+  "fullName": "Erwin Leder",
+  "profileSummary": "Erwin Alois Robert Leder is an Austrian actor. He is best known for his role as Chief Mechanic Johann in Das Boot, a 1982 feature film directed by Wolfgang Petersen about a mission of one World War II U-boat and its crew. He is also known for the leading role as the nameless serial killer in the highly acclaimed cult film Angst, by Gerald Kargl, which was banned all over Europe for extreme violence in 1983.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Erwin_Leder_2012.jpg/330px-Erwin_Leder_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Erwin_Leder",
+  "dateOfBirth": "1951-07-30",
+  "birthDateParsed": "1951-07-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "48.2",
+  "birthCoordinatesLng": "15.616666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "singer",
+    "actor",
+    "director"
+  ],
+  "qid": "Q86767",
+  "birthPlace": "St. Pölten",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:33.731Z"
+}

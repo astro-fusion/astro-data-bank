@@ -1,0 +1,34 @@
+{
+  "publicId": "dee1cbc6",
+  "wikipediaSlug": "Ramón_Corral",
+  "wikipediaId": "Q1372429",
+  "name": "Ramón Corral",
+  "fullName": "Ramón Corral",
+  "profileSummary": "Ramón Corral Verdugo was a Mexican politician who served as the Vice President of Mexico under President Porfirio Díaz from 1904 when it was reestablished until their resignations in May 1911, due to mounting pressure from Liberal forces during the Mexican Revolution. He previously served as Governor of the Federal District and Secretary of the Interior.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ramon_Corral_Verdugo.jpg/330px-Ramon_Corral_Verdugo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Corral",
+  "dateOfBirth": "1854-01-10",
+  "birthDateParsed": "1854-01-10",
+  "dateOfDeath": "1912-11-10",
+  "deathDateParsed": "1912-11-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "27.024166666",
+  "birthCoordinatesLng": "-108.935",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q1372429",
+  "birthPlace": "Álamos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:17.825Z"
+}

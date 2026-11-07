@@ -1,0 +1,33 @@
+{
+  "publicId": "99adb4c6",
+  "wikipediaSlug": "Franz_Immig",
+  "wikipediaId": "Q473362",
+  "name": "Franz Immig",
+  "fullName": "Franz Immig",
+  "profileSummary": "Franz Immig was a footballer who played international football for both Germany and Saarland. Born in Sondernheim, Immig played for Karlsruher FV, Stuttgarter Kickers and 1. FC Saarbrücken.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_Immig",
+  "dateOfBirth": "1918-09-10",
+  "birthDateParsed": "1918-09-10",
+  "dateOfDeath": "1955-12-26",
+  "deathDateParsed": "1955-12-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.189911111",
+  "birthCoordinatesLng": "8.360808333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q473362",
+  "birthPlace": "Sondernheim",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:41.498Z"
+}

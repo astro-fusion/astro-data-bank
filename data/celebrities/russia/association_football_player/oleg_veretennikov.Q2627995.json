@@ -1,0 +1,34 @@
+{
+  "publicId": "321242ce",
+  "wikipediaSlug": "Oleg_Veretennikov",
+  "wikipediaId": "Q2627995",
+  "name": "Oleg Veretennikov",
+  "fullName": "Oleg Veretennikov",
+  "profileSummary": "Oleg Aleksandrovich Veretennikov is a professional Russian association football coach and a former international footballer. He is the runner-up goalscorer in the history of Russian Premier League, and holds several other goalscoring records.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Oleg_Veretennikov_01.jpg/330px-Oleg_Veretennikov_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleg_Veretennikov",
+  "dateOfBirth": "1970-01-05",
+  "birthDateParsed": "1970-01-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "56.8",
+  "birthCoordinatesLng": "59.916666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q2627995",
+  "birthPlace": "Revda",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:46.003Z"
+}

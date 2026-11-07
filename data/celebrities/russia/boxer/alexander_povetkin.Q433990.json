@@ -1,0 +1,34 @@
+{
+  "publicId": "18f01802",
+  "wikipediaSlug": "Alexander_Povetkin",
+  "wikipediaId": "Q433990",
+  "name": "Alexander Povetkin",
+  "fullName": "Alexander Povetkin",
+  "profileSummary": "Alexander Vladimirovich Povetkin is a Russian former professional boxer who competed from 2005 to 2021. He held the World Boxing Association (WBA) heavyweight title from 2011 to 2013; the World Boxing Council (WBC) heavyweight title from 2020 to 2021; and challenged twice for the unified heavyweight championship in 2013 and 2018.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Alexander_Povetkin_2015.png/330px-Alexander_Povetkin_2015.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Povetkin",
+  "dateOfBirth": "1979-09-02",
+  "birthDateParsed": "1979-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.737222222",
+  "birthCoordinatesLng": "36.187222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "boxer",
+    "kickboxer"
+  ],
+  "qid": "Q433990",
+  "birthPlace": "Kursk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:54.631Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "dc66ef61",
+  "wikipediaSlug": "Valentín_Canalizo",
+  "wikipediaId": "Q667722",
+  "name": "Valentín Canalizo",
+  "fullName": "Valentín Canalizo",
+  "profileSummary": "José Valentín Raimundo Canalizo Bocadillo, was a Mexican general and statesman who served twice as interim president during the Centralist Republic of Mexico and was later made Minister of War during the Mexican–American War.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Valentin_Canalizo_Oleo_%28480x600%29.png/330px-Valentin_Canalizo_Oleo_%28480x600%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Valent%C3%ADn_Canalizo",
+  "dateOfBirth": "1794-01-14",
+  "birthDateParsed": "1794-01-14",
+  "dateOfDeath": "1850-02-20",
+  "deathDateParsed": "1850-02-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "17.988055555",
+  "birthCoordinatesLng": "-92.919444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "minister",
+    "military personnel"
+  ],
+  "qid": "Q667722",
+  "birthPlace": "Tabasco",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:28.355Z"
+}

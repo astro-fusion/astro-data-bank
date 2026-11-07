@@ -1,0 +1,37 @@
+{
+  "publicId": "3a821d1d",
+  "wikipediaSlug": "Josef_Meinrad",
+  "wikipediaId": "Q85467",
+  "name": "Josef Meinrad",
+  "fullName": "Josef Meinrad",
+  "profileSummary": "Josef Meinrad was an Austrian actor. From 1959 until his death in 1996, Meinrad held the Republic of Austria's Iffland-Ring, which passes from actor to actor — each bequeathing the ring to the next holder, judging that actor to be the \"most significant and most worthy actor of the German-speaking theatre\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/USIS_-_Josef_Meinrad_1.jpg/330px-USIS_-_Josef_Meinrad_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josef_Meinrad",
+  "dateOfBirth": "1913-04-21",
+  "birthDateParsed": "1913-04-21",
+  "dateOfDeath": "1996-02-18",
+  "deathDateParsed": "1996-02-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "film director",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q85467",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:44.428Z"
+}

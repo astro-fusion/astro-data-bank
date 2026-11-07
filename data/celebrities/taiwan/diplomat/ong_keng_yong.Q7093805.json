@@ -1,0 +1,33 @@
+{
+  "publicId": "2ec9e90f",
+  "wikipediaSlug": "Ong_Keng_Yong",
+  "wikipediaId": "Q7093805",
+  "name": "Ong Keng Yong",
+  "fullName": "Ong Keng Yong",
+  "profileSummary": "Ong Keng Yong is a Singaporean diplomat who served as the 11th secretary-general of ASEAN between 2003 and 2007. He is currently the Executive Deputy Chairman of the S. Rajaratnam School of International Studies at the Nanyang Technological University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2017_Halifax_International_Security_Forum_%2824632137488%29_%28cropped%29_Ong_Keng_Yong.jpg/330px-2017_Halifax_International_Security_Forum_%2824632137488%29_%28cropped%29_Ong_Keng_Yong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ong_Keng_Yong",
+  "dateOfBirth": "1955-01-06",
+  "birthDateParsed": "1955-01-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat"
+  ],
+  "qid": "Q7093805",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:47.294Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "02eff0bd",
+  "wikipediaSlug": "Antonio_Banderas",
+  "wikipediaId": "Q41548",
+  "name": "Antonio Banderas",
+  "fullName": "Antonio Banderas",
+  "profileSummary": "José Antonio Domínguez Bandera, known professionally as Antonio Banderas, is a Spanish actor. Known for his work in films of several genres, he has received numerous accolades, including a Cannes Film Festival Award and a Goya Award, as well as nominations for an Academy Award, two Primetime Emmy Awards, five Golden Globe Awards, and a Tony Award.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Goyas_2025_-_Antonio_Banderas_%28cropped%29.jpg/330px-Goyas_2025_-_Antonio_Banderas_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Banderas",
+  "dateOfBirth": "1960-08-10",
+  "birthDateParsed": "1960-08-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "36.716666666",
+  "birthCoordinatesLng": "-4.416666666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film producer",
+    "film actor",
+    "film director",
+    "actor",
+    "director"
+  ],
+  "qid": "Q41548",
+  "birthPlace": "Málaga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:47:55.454Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "fa05bfdf",
+  "wikipediaSlug": "Aloysius_Pang",
+  "wikipediaId": "Q18637855",
+  "name": "Aloysius Pang",
+  "fullName": "Aloysius Pang",
+  "profileSummary": "Aloysius Pang Wei Chong was a Singaporean actor once managed under NoonTalk Media, best known for his involvement in multiple Mediacorp dramas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Aloysius_Pang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aloysius_Pang",
+  "dateOfBirth": "1990-08-24",
+  "birthDateParsed": "1990-08-24",
+  "dateOfDeath": "2019-01-24",
+  "deathDateParsed": "2019-01-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q18637855",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:01.008Z"
+}

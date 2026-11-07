@@ -1,0 +1,37 @@
+{
+  "publicId": "2885901b",
+  "wikipediaSlug": "Washington_Luís",
+  "wikipediaId": "Q311225",
+  "name": "Washington Luís",
+  "fullName": "Washington Luís",
+  "profileSummary": "Washington Luís Pereira de Sousa was a Brazilian politician who served as the 13th president of Brazil. Elected governor of São Paulo state in 1920 and president of Brazil in 1926, Washington Luís belonged to the Republican Party of São Paulo (PRP) and served as the last president of the First Brazilian Republic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Washington_Lu%C3%ADs_%28foto%29.jpg/330px-Washington_Lu%C3%ADs_%28foto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Washington_Lu%C3%ADs",
+  "dateOfBirth": "1869-10-26",
+  "birthDateParsed": "1869-10-26",
+  "dateOfDeath": "1957-08-04",
+  "deathDateParsed": "1957-08-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.370833333",
+  "birthCoordinatesLng": "-41.786944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "historian",
+    "governor",
+    "author"
+  ],
+  "qid": "Q311225",
+  "birthPlace": "Macaé",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:23:38.655Z"
+}

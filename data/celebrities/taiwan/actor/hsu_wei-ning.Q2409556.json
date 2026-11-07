@@ -1,0 +1,36 @@
+{
+  "publicId": "f8586857",
+  "wikipediaSlug": "Hsu_Wei-ning",
+  "wikipediaId": "Q2409556",
+  "name": "Hsu Wei-ning",
+  "fullName": "Hsu Wei-ning",
+  "profileSummary": "Hsu Wei-ning, also known as Tiffany Ann Hsu, is a Taiwanese actress. Hsu began her career as a model, and first came to attention for her supporting roles in the Taiwanese drama series It Started with a Kiss and its sequel They Kiss Again. She also worked as a VJ for MTV Taiwan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hsu_Wei-ning_20221005.jpg/330px-Hsu_Wei-ning_20221005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hsu_Wei-ning",
+  "dateOfBirth": "1984-08-07",
+  "birthDateParsed": "1984-08-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "model"
+  ],
+  "qid": "Q2409556",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:32.096Z"
+}

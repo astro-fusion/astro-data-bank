@@ -1,0 +1,39 @@
+{
+  "publicId": "9f886277",
+  "wikipediaSlug": "Lim_Boon_Keng",
+  "wikipediaId": "Q3847166",
+  "name": "Lim Boon Keng",
+  "fullName": "Lim Boon Keng",
+  "profileSummary": "Lim Boon Keng was a Peranakan physician who advocated social and educational reforms in Singapore in the early 20th century. He also served as the president of Xiamen University in China between 1921 and 1937.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lim_Boon_Keng%2C_1930s.jpg/330px-Lim_Boon_Keng%2C_1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lim_Boon_Keng",
+  "dateOfBirth": "1869-10-18",
+  "birthDateParsed": "1869-10-18",
+  "dateOfDeath": "1957-01-01",
+  "deathDateParsed": "1957-01-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "5.4025",
+  "birthCoordinatesLng": "100.365",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "philosopher",
+    "businessperson",
+    "physician",
+    "social reformer",
+    "Protestant reformer",
+    "reformer",
+    "pedagogue"
+  ],
+  "qid": "Q3847166",
+  "birthPlace": "Penang",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:35.994Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "cd3d4976",
+  "wikipediaSlug": "Jeanette_Aw",
+  "wikipediaId": "Q6171852",
+  "name": "Jeanette Aw",
+  "fullName": "Jeanette Aw",
+  "profileSummary": "Jeanette Aw Ee-Ping, also known as Ou Xuan, is a Singaporean actress, host, filmmaker, businesswoman and writer. Aw was named as one of the Seven Princesses of Mediacorp in 2006, after which she achieved wider success with her leading role in acclaimed drama The Little Nyonya. She was a full-time Mediacorp artiste from 2002 to 2017 and was once managed by Hype Records.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Minutes_Before_Walk_of_Fame_at_The_Star_Awards_2017_-_Jeanette_Aw.jpg/330px-Minutes_Before_Walk_of_Fame_at_The_Star_Awards_2017_-_Jeanette_Aw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeanette_Aw",
+  "dateOfBirth": "1979-06-28",
+  "birthDateParsed": "1979-06-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "businessperson",
+    "filmmaker",
+    "writer",
+    "film director"
+  ],
+  "qid": "Q6171852",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:28.574Z"
+}

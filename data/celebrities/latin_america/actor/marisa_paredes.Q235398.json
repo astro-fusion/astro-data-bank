@@ -1,0 +1,35 @@
+{
+  "publicId": "2f77fe94",
+  "wikipediaSlug": "Marisa_Paredes",
+  "wikipediaId": "Q235398",
+  "name": "Marisa Paredes",
+  "fullName": "Marisa Paredes",
+  "profileSummary": "María Luisa Paredes Bartolomé, known professionally as Marisa Paredes, was a Spanish actress with a 60-year-long career. She acted in more than 75 films, 80 TV shows, and 15 plays.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Goyas_2024_-_Marisa_Paredes_%28cropped%29.jpg/330px-Goyas_2024_-_Marisa_Paredes_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marisa_Paredes",
+  "dateOfBirth": "1946-04-03",
+  "birthDateParsed": "1946-04-03",
+  "dateOfDeath": "2024-12-17",
+  "deathDateParsed": "2024-12-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q235398",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:44.955Z"
+}

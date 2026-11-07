@@ -1,0 +1,33 @@
+{
+  "publicId": "f4f057f1",
+  "wikipediaSlug": "Anatoliy_Solovianenko",
+  "wikipediaId": "Q488006",
+  "name": "Anatoliy Solovianenko",
+  "fullName": "Anatoliy Solovianenko",
+  "profileSummary": "Anatoliy Borysovych Solovianenko was a Ukrainian operatic tenor, People's Artist of the USSR (1975), People's Artist of Ukraine, and Shevchenko National Prize winner. Father of Anatolii Solovianenko.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Anatoliy_Solovianenko_-_Soviet_Life%2C_October_1984.jpg/330px-Anatoliy_Solovianenko_-_Soviet_Life%2C_October_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anatoliy_Solovianenko",
+  "dateOfBirth": "1932-09-25",
+  "birthDateParsed": "1932-09-25",
+  "dateOfDeath": "1999-07-29",
+  "deathDateParsed": "1999-07-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.015833333",
+  "birthCoordinatesLng": "37.802777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer"
+  ],
+  "qid": "Q488006",
+  "birthPlace": "Donetsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:04:31.044Z"
+}

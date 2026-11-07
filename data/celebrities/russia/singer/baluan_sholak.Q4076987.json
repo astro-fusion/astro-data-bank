@@ -1,0 +1,35 @@
+{
+  "publicId": "749ad0d6",
+  "wikipediaSlug": "Baluan_Sholak",
+  "wikipediaId": "Q4076987",
+  "name": "Baluan Sholak",
+  "fullName": "Baluan Sholak",
+  "profileSummary": "Baluan Sholak, was a Kazakh Turkic composer, singer, poet, dombra player, dzhigit and wrestler.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Baluan_Sholak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Baluan_Sholak",
+  "dateOfBirth": "1864-12-11",
+  "birthDateParsed": "1864-12-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "44",
+  "birthCoordinatesLng": "72",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "poet"
+  ],
+  "qid": "Q4076987",
+  "birthPlace": "Jambyl Region",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T02:18:33.062Z"
+}

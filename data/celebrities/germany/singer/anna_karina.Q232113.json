@@ -1,0 +1,43 @@
+{
+  "publicId": "adb0b511",
+  "wikipediaSlug": "Anna_Karina",
+  "wikipediaId": "Q232113",
+  "name": "Anna Karina",
+  "fullName": "Anna Karina",
+  "profileSummary": "Anna Karina was a Danish and French film actress, director, writer, model, and singer. She was an early collaborator of French New Wave director Jean-Luc Godard, her first husband, performing in several of his films, including The Little Soldier (1960), A Woman Is a Woman (1961), My Life to Live (1962), Bande à part, Pierrot le Fou (1965), and Alphaville (1965). For her performance in A Woman Is a Woman, Karina won the Silver Bear Award for Best Actress at the Berlin Film Festival.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Anna_Karina_dans_Alphaville_%281965%29.jpg/330px-Anna_Karina_dans_Alphaville_%281965%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Karina",
+  "dateOfBirth": "1940-09-22",
+  "birthDateParsed": "1940-09-22",
+  "dateOfDeath": "2019-12-14",
+  "deathDateParsed": "2019-12-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.6779",
+  "birthCoordinatesLng": "12.5327",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film director",
+    "novelist",
+    "screenwriter",
+    "model",
+    "stage actor",
+    "film actor",
+    "writer",
+    "actor",
+    "director",
+    "film producer"
+  ],
+  "qid": "Q232113",
+  "birthPlace": "Frederiksberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:16.752Z"
+}

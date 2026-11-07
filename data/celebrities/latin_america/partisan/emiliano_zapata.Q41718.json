@@ -1,0 +1,35 @@
+{
+  "publicId": "8966a91f",
+  "wikipediaSlug": "Emiliano_Zapata",
+  "wikipediaId": "Q41718",
+  "name": "Emiliano Zapata",
+  "fullName": "Emiliano Zapata",
+  "profileSummary": "Emiliano Zapata Salazar was a Mexican revolutionary and guerrilla leader. He was a leading figure in the Mexican Revolution of 1910–1920, the main leader of the people's revolution in the Mexican state of Morelos, and the inspiration of the agrarian movement called Zapatismo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Emiliano_Zapata4.jpg/330px-Emiliano_Zapata4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emiliano_Zapata",
+  "dateOfBirth": "1879-08-08",
+  "birthDateParsed": "1879-08-08",
+  "dateOfDeath": "1919-04-10",
+  "deathDateParsed": "1919-04-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "18.7789286",
+  "birthCoordinatesLng": "-98.9813538",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "partisan",
+    "revolutionary",
+    "farmer"
+  ],
+  "qid": "Q41718",
+  "birthPlace": "Anenecuilco",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:02.976Z"
+}

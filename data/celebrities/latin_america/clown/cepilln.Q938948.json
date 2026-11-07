@@ -1,0 +1,37 @@
+{
+  "publicId": "91c8a4fc",
+  "wikipediaSlug": "Cepillín",
+  "wikipediaId": "Q938948",
+  "name": "Cepillín",
+  "fullName": "Cepillín",
+  "profileSummary": "Ricardo González Gutiérrez known as Cepillín was a Mexican clown as well as a singer, TV host and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cepill%C3%ADn.jpg/330px-Cepill%C3%ADn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cepill%C3%ADn",
+  "dateOfBirth": "1946-02-07",
+  "birthDateParsed": "1946-02-07",
+  "dateOfDeath": "2021-03-08",
+  "deathDateParsed": "2021-03-08",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.684444444",
+  "birthCoordinatesLng": "-100.318055555",
+  "birthTimezone": "America/Chicago",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "clown",
+    "actor",
+    "television actor",
+    "film actor",
+    "singer"
+  ],
+  "qid": "Q938948",
+  "birthPlace": "Monterrey",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:25.711Z"
+}

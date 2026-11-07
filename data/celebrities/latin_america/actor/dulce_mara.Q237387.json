@@ -1,0 +1,40 @@
+{
+  "publicId": "60ec0d79",
+  "wikipediaSlug": "Dulce_María",
+  "wikipediaId": "Q237387",
+  "name": "Dulce María",
+  "fullName": "Dulce María",
+  "profileSummary": "Dulce María Espinosa Saviñón, simply known as Dulce María, is a Mexican singer and actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dulce_Mar%C3%ADa_2023.jpg/330px-Dulce_Mar%C3%ADa_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dulce_Mar%C3%ADa",
+  "dateOfBirth": "1985-12-06",
+  "birthDateParsed": "1985-12-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "composer",
+    "poet",
+    "television actor",
+    "singer-songwriter",
+    "writer",
+    "film actor"
+  ],
+  "qid": "Q237387",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:06.284Z"
+}

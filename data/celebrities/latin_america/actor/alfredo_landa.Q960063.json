@@ -1,0 +1,34 @@
+{
+  "publicId": "de36afcb",
+  "wikipediaSlug": "Alfredo_Landa",
+  "wikipediaId": "Q960063",
+  "name": "Alfredo Landa",
+  "fullName": "Alfredo Landa",
+  "profileSummary": "Alfredo Landa Areta was a Spanish actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alfredo_Landa.jpg/330px-Alfredo_Landa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfredo_Landa",
+  "dateOfBirth": "1933-03-03",
+  "birthDateParsed": "1933-03-03",
+  "dateOfDeath": "2013-05-09",
+  "deathDateParsed": "2013-05-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "42.816666666",
+  "birthCoordinatesLng": "-1.65",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q960063",
+  "birthPlace": "Pamplona",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:47:56.161Z"
+}

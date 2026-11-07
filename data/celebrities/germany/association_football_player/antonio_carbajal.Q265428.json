@@ -1,0 +1,35 @@
+{
+  "publicId": "562748f9",
+  "wikipediaSlug": "Antonio_Carbajal",
+  "wikipediaId": "Q265428",
+  "name": "Antonio Carbajal",
+  "fullName": "Antonio Carbajal",
+  "profileSummary": "Antonio \"Tota\" Carbajal Rodríguez was a Mexican professional footballer who played as a goalkeeper. He was also called \"El Cinco Copas\", in reference to his record of having played five World Cups.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Antonio-Carbajal.jpg/330px-Antonio-Carbajal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Carbajal",
+  "dateOfBirth": "1929-06-07",
+  "birthDateParsed": "1929-06-07",
+  "dateOfDeath": "2023-05-09",
+  "deathDateParsed": "2023-05-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "athlete"
+  ],
+  "qid": "Q265428",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:41.526Z"
+}

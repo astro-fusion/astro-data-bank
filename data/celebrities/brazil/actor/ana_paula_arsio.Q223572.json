@@ -1,0 +1,36 @@
+{
+  "publicId": "d48a099f",
+  "wikipediaSlug": "Ana_Paula_Arósio",
+  "wikipediaId": "Q223572",
+  "name": "Ana Paula Arósio",
+  "fullName": "Ana Paula Arósio",
+  "profileSummary": "Ana Paula Arósio is a Brazilian former actress and model based in Swindon, England. She began her modeling career at age 12 and appeared on numerous magazine covers worldwide, becoming one of Brazil’s most visible young models before transitioning to acting as a teenager. She gained national recognition in television dramas and miniseries such as Hilda Furacão (1998) and Terra Nostra (1999), both of which were major hits in Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ana_Paula_Arosio_%40_AVON_event_03_cropped.jpg/330px-Ana_Paula_Arosio_%40_AVON_event_03_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Paula_Ar%C3%B3sio",
+  "dateOfBirth": "1975-07-16",
+  "birthDateParsed": "1975-07-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q223572",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:31:54.011Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "84f826c5",
+  "wikipediaSlug": "Josef_Schümmelfelder",
+  "wikipediaId": "Q213264",
+  "name": "Josef Schümmelfelder",
+  "fullName": "Josef Schümmelfelder",
+  "profileSummary": "Josef Schümmelfelder was a German international footballer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josef_Sch%C3%BCmmelfelder",
+  "dateOfBirth": "1891-10-31",
+  "birthDateParsed": "1891-10-31",
+  "dateOfDeath": "1966-02-12",
+  "deathDateParsed": "1966-02-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.735277777",
+  "birthCoordinatesLng": "7.102222222",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q213264",
+  "birthPlace": "Bonn",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:30.023Z"
+}

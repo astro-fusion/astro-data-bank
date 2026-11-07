@@ -1,0 +1,34 @@
+{
+  "publicId": "ae99f87f",
+  "wikipediaSlug": "Anita_Gutwell",
+  "wikipediaId": "Q87935",
+  "name": "Anita Gutwell",
+  "fullName": "Anita Gutwell",
+  "profileSummary": "Anita Gutwell was an Austrian actress who was a leading lady in 1950s classic films.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anita_Gutwell",
+  "dateOfBirth": "1931-11-14",
+  "birthDateParsed": "1931-11-14",
+  "dateOfDeath": "2022-01-04",
+  "deathDateParsed": "2022-01-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "46.616666666",
+  "birthCoordinatesLng": "14.3",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q87935",
+  "birthPlace": "Klagenfurt am Wörthersee",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:59.489Z"
+}

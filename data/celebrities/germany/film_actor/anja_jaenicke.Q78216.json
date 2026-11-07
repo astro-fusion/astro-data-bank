@@ -1,0 +1,37 @@
+{
+  "publicId": "b039a88e",
+  "wikipediaSlug": "Anja_Jaenicke",
+  "wikipediaId": "Q78216",
+  "name": "Anja Jaenicke",
+  "fullName": "Anja Jaenicke",
+  "profileSummary": "Anja Jaenicke is a German actress working mostly in German television and film.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/An-1.jpg/330px-An-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anja_Jaenicke",
+  "dateOfBirth": "1963-10-09",
+  "birthDateParsed": "1963-10-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.516666666",
+  "birthCoordinatesLng": "13.383333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "television actor",
+    "film director",
+    "actor",
+    "author"
+  ],
+  "qid": "Q78216",
+  "birthPlace": "Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:21.803Z"
+}

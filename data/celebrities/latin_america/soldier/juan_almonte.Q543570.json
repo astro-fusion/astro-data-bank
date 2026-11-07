@@ -1,0 +1,37 @@
+{
+  "publicId": "ed86394f",
+  "wikipediaSlug": "Juan_Almonte",
+  "wikipediaId": "Q543570",
+  "name": "Juan Almonte",
+  "fullName": "Juan Almonte",
+  "profileSummary": "Juan Nepomuceno Almonte Ramírez was a Mexican soldier, commander, minister of war, congressman, diplomat, presidential candidate, and regent. The natural son of Catholic cleric José María Morelos, a leading commander during the Mexican War of Independence, Almonte played an important role as a conservative in the Mexican Republic. He served as Minister of War during multiple administrations as well as in various diplomatic posts in the United States and in Europe. In 1840 he led government forces in an attempt to rescue president Anastasio Bustamante after the president was taken hostage by rebels in the National Palace. Almonte was minister to the United States in the years leading up to the Mexican–American War and lobbied against its interference in Texas, which Mexico considered a rebellious province. Almonte was a leading figure in conservative efforts to re-establish monarchy in Mexico, supporting the French imperial forces during the Second French intervention in Mexico and the establishment of the Second Mexican Empire under Maximilian I of Mexico. Almonte was serving as a diplomat in France when France withdrew military support of the Empire, which fell in 1867. He died two years later in 1869.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Juan_Nepomuceno_Almonte_%282%29.jpg/330px-Juan_Nepomuceno_Almonte_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Almonte",
+  "dateOfBirth": "1803-05-15",
+  "birthDateParsed": "1803-05-15",
+  "dateOfDeath": "1869-03-21",
+  "deathDateParsed": "1869-03-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.21",
+  "birthCoordinatesLng": "-101.91",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "soldier",
+    "diplomat",
+    "minister",
+    "politician",
+    "writer"
+  ],
+  "qid": "Q543570",
+  "birthPlace": "Michoacán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:16.286Z"
+}

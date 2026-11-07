@@ -1,0 +1,34 @@
+{
+  "publicId": "bda9ef44",
+  "wikipediaSlug": "Christian_Ziege",
+  "wikipediaId": "Q155884",
+  "name": "Christian Ziege",
+  "fullName": "Christian Ziege",
+  "profileSummary": "Christian Ziege is a German football manager and former player. He most recently coached FC Pinzgau.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Christian_Ziege.jpg/330px-Christian_Ziege.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Ziege",
+  "dateOfBirth": "1972-02-01",
+  "birthDateParsed": "1972-02-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "52.5",
+  "birthCoordinatesLng": "13.28",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q155884",
+  "birthPlace": "West Berlin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:55.309Z"
+}

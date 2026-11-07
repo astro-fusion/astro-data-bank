@@ -1,0 +1,34 @@
+{
+  "publicId": "f2358244",
+  "wikipediaSlug": "Leopoldo_Galtieri",
+  "wikipediaId": "Q124993",
+  "name": "Leopoldo Galtieri",
+  "fullName": "Leopoldo Galtieri",
+  "profileSummary": "Leopoldo Fortunato Galtieri Castelli was an Argentine military officer who served as the de facto President of Argentina from December 1981 to June 1982. Galtieri ruled as a military dictator during the National Reorganization Process as leader of the Third Junta with Jorge Anaya and Basilio Lami Dozo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Retrato_Oficial_Galtieri_%28cropped%29%28b%29.jpg/330px-Retrato_Oficial_Galtieri_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leopoldo_Galtieri",
+  "dateOfBirth": "1926-07-15",
+  "birthDateParsed": "1926-07-15",
+  "dateOfDeath": "2003-01-12",
+  "deathDateParsed": "2003-01-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.616666666",
+  "birthCoordinatesLng": "-58.566666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "politician"
+  ],
+  "qid": "Q124993",
+  "birthPlace": "Caseros",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:18.599Z"
+}

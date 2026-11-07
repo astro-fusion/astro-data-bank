@@ -1,0 +1,35 @@
+{
+  "publicId": "aeb898cd",
+  "wikipediaSlug": "Miriam_Yeung",
+  "wikipediaId": "Q2174226",
+  "name": "Miriam Yeung",
+  "fullName": "Miriam Yeung",
+  "profileSummary": "Miriam Yeung Chin-wah is a Hong Kong singer and actress. As of 2020, she has released more than 35 albums and has starred in more than 40 films. In 2012, Yeung won the Award for Best Actress at the 32nd Hong Kong Film Awards for portraying Cherie Yu in Love in the Buff.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Miriam_Yeung_20240608.jpg/330px-Miriam_Yeung_20240608.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miriam_Yeung",
+  "dateOfBirth": "1974-02-03",
+  "birthDateParsed": "1974-02-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "recording artist"
+  ],
+  "qid": "Q2174226",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:43.957Z"
+}

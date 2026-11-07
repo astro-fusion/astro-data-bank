@@ -1,0 +1,33 @@
+{
+  "publicId": "89b0ca09",
+  "wikipediaSlug": "Joel_Camargo",
+  "wikipediaId": "Q2447197",
+  "name": "Joel Camargo",
+  "fullName": "Joel Camargo",
+  "profileSummary": "Joel Camargo was a Brazilian professional footballer who played as a defender.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Joel_Camargo.jpg/330px-Joel_Camargo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Camargo",
+  "dateOfBirth": "1946-09-18",
+  "birthDateParsed": "1946-09-18",
+  "dateOfDeath": "2014-05-23",
+  "deathDateParsed": "2014-05-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.9335988",
+  "birthCoordinatesLng": "-46.3286399",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q2447197",
+  "birthPlace": "Santos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:49.138Z"
+}

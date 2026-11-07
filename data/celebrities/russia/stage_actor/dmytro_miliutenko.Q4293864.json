@@ -1,0 +1,35 @@
+{
+  "publicId": "2968f97f",
+  "wikipediaSlug": "Dmytro_Miliutenko",
+  "wikipediaId": "Q4293864",
+  "name": "Dmytro Miliutenko",
+  "fullName": "Dmytro Miliutenko",
+  "profileSummary": "Dmytro Milyutenko was a Ukrainian stage and film actor of the Soviet era.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dmytro_Miliutenko",
+  "dateOfBirth": "1899-02-21",
+  "birthDateParsed": "1899-02-21",
+  "dateOfDeath": "1966-01-25",
+  "deathDateParsed": "1966-01-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.85325",
+  "birthCoordinatesLng": "37.605888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "drama teacher"
+  ],
+  "qid": "Q4293864",
+  "birthPlace": "Sloviansk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:30:39.448Z"
+}

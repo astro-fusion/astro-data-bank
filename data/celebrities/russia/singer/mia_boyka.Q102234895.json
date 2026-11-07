@@ -1,0 +1,33 @@
+{
+  "publicId": "5c1d4844",
+  "wikipediaSlug": "Mia_Boyka",
+  "wikipediaId": "Q102234895",
+  "name": "Mia Boyka",
+  "fullName": "Mia Boyka",
+  "profileSummary": "Maria Nikolaevna Boyko, known professionally as Mia Boyka, is a Russian singer, influencer, TV presenter and film actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/146A1503_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2_%28cropped%29.jpg/330px-146A1503_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mia_Boyka",
+  "dateOfBirth": "1997-02-15",
+  "birthDateParsed": "1997-02-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "59.385277777",
+  "birthCoordinatesLng": "28.258611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q102234895",
+  "birthPlace": "Zakhonye-2",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T15:54:15.025Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "8368a4e2",
+  "wikipediaSlug": "Blanca_Estela_Pavón",
+  "wikipediaId": "Q4924758",
+  "name": "Blanca Estela Pavón",
+  "fullName": "Blanca Estela Pavón",
+  "profileSummary": "María Blanca Estela Pavón Vasconcelos  was a Mexican film actress and singer of the Golden Age of Mexican cinema.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blanca_Estela_Pav%C3%B3n_in_1949.jpg/330px-Blanca_Estela_Pav%C3%B3n_in_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Blanca_Estela_Pav%C3%B3n",
+  "dateOfBirth": "1926-02-21",
+  "birthDateParsed": "1926-02-21",
+  "dateOfDeath": "1949-09-26",
+  "deathDateParsed": "1949-09-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "17.991666666",
+  "birthCoordinatesLng": "-94.556944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q4924758",
+  "birthPlace": "Minatitlán",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:59.634Z"
+}

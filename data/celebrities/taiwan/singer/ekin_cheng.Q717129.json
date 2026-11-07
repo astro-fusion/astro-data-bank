@@ -1,0 +1,37 @@
+{
+  "publicId": "78520d2e",
+  "wikipediaSlug": "Ekin_Cheng",
+  "wikipediaId": "Q717129",
+  "name": "Ekin Cheng",
+  "fullName": "Ekin Cheng",
+  "profileSummary": "Ekin Cheng Yee Kin is a Hong Kong actor and singer. Early in his career, he used the name Dior as a first name. He has also been referred to his stage name Noodle (伊麵), after a popular noodle dish with a similar name and his wavy long hair. Currently Ekin is the name used.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lastsongforyoucast_-_Ekin_Cheng.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ekin_Cheng",
+  "dateOfBirth": "1967-10-04",
+  "birthDateParsed": "1967-10-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "television actor",
+    "recording artist",
+    "actor"
+  ],
+  "qid": "Q717129",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:21.756Z"
+}

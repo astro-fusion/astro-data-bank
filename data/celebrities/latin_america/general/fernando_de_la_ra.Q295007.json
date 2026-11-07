@@ -1,0 +1,31 @@
+{
+  "publicId": "d91f8ae3",
+  "wikipediaSlug": "Fernando_de_la_Rúa",
+  "wikipediaId": "Q295007",
+  "name": "Fernando de la Rúa",
+  "fullName": "Fernando de la Rúa",
+  "profileSummary": "Fernando de la Rúa was an Argentine politician who served as the President of Argentina from 1999 until his resignation in 2001. A member of the Radical Civic Union, he previously served as national senator for Buenos Aires across non-consecutive terms from 1973 to 1996, national deputy for Buenos Aires from 1991 to 1992, the first Chief of Government of Buenos Aires between 1996 and 1999, and President of the National Committee of the Radical Civic Union from 1997 to 1999.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg/330px-Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_de_la_R%C3%BAa",
+  "dateOfBirth": "1937-09-15",
+  "birthDateParsed": "1937-09-15",
+  "dateOfDeath": "2019-07-09",
+  "deathDateParsed": "2019-07-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "-31.416666666",
+  "birthCoordinatesLng": "-64.183333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q295007",
+  "birthPlace": "Córdoba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:35.577Z"
+}

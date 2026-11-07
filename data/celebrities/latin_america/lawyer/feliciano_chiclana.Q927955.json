@@ -1,0 +1,35 @@
+{
+  "publicId": "39407252",
+  "wikipediaSlug": "Feliciano_Chiclana",
+  "wikipediaId": "Q927955",
+  "name": "Feliciano Chiclana",
+  "fullName": "Feliciano Chiclana",
+  "profileSummary": "Feliciano Antonio Chiclana was an Argentine lawyer, soldier, and judge.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/FelicianoChiclana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Feliciano_Chiclana",
+  "dateOfBirth": "1761-06-09",
+  "birthDateParsed": "1761-06-09",
+  "dateOfDeath": "1826-09-17",
+  "deathDateParsed": "1826-09-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q927955",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:46.196Z"
+}

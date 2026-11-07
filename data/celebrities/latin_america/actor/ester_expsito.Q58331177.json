@@ -1,0 +1,33 @@
+{
+  "publicId": "46c4a0e4",
+  "wikipediaSlug": "Ester_Expósito",
+  "wikipediaId": "Q58331177",
+  "name": "Ester Expósito",
+  "fullName": "Ester Expósito",
+  "profileSummary": "Ester Expósito Gayoso is a Spanish actress. She is best known for her starring role as Carla Rosón Caleruega in the Netflix teen drama series Elite (2018–2021). Her other television credits include Estoy vivo (2017), La caza. Monteperdido (2019), Someone Has to Die (2020), and \tBandidos (2024–2025).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Goyas_2025_-_Ester_Exp%C3%B3sito_%28cropped_3%29.jpg/330px-Goyas_2025_-_Ester_Exp%C3%B3sito_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ester_Exp%C3%B3sito",
+  "dateOfBirth": "2000-01-26",
+  "birthDateParsed": "2000-01-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q58331177",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:33.339Z"
+}

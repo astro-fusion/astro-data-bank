@@ -1,0 +1,39 @@
+{
+  "publicId": "6f5bdcd4",
+  "wikipediaSlug": "Maryna_Poplavska",
+  "wikipediaId": "Q57551042",
+  "name": "Maryna Poplavska",
+  "fullName": "Maryna Poplavska",
+  "profileSummary": "Marianna (Maryna) Frantsivna Poplavska was a Ukrainian actress, producer, comedian, and teacher.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0.jpg/330px-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Maryna_Poplavska",
+  "dateOfBirth": "1970-03-09",
+  "birthDateParsed": "1970-03-09",
+  "dateOfDeath": "2018-10-20",
+  "deathDateParsed": "2018-10-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.583333333",
+  "birthCoordinatesLng": "27.633333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "teacher",
+    "pedagogue",
+    "manufacturer",
+    "comedian",
+    "KVN actor"
+  ],
+  "qid": "Q57551042",
+  "birthPlace": "Zviahel",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:17.617Z"
+}

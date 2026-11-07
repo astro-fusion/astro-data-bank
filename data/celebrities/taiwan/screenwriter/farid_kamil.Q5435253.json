@@ -1,0 +1,36 @@
+{
+  "publicId": "8aee1bd0",
+  "wikipediaSlug": "Farid_Kamil",
+  "wikipediaId": "Q5435253",
+  "name": "Farid Kamil",
+  "fullName": "Farid Kamil",
+  "profileSummary": "Farid Kamil Zahari is a Malaysian actor, director and screenwriter. He is a well-known male model turned actor who has made a big reputation of himself as one of Malaysia's most famous actors since Rosyam Nor in the 1990s for several of his outstanding performances in drama series and movies alike.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Farid_Kamil",
+  "dateOfBirth": "1981-05-05",
+  "birthDateParsed": "1981-05-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.116666666",
+  "birthCoordinatesLng": "100.366666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "actor",
+    "model",
+    "film director"
+  ],
+  "qid": "Q5435253",
+  "birthPlace": "Alor Setar",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:26.542Z"
+}

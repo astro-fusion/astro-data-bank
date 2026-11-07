@@ -1,0 +1,38 @@
+{
+  "publicId": "4a6a5571",
+  "wikipediaSlug": "Georg_von_Hertling",
+  "wikipediaId": "Q161084",
+  "name": "Georg von Hertling",
+  "fullName": "Georg von Hertling",
+  "profileSummary": "Georg Friedrich Karl Freiherr von Hertling, from 1914 Count von Hertling, was a German politician of the Catholic Centre Party. He was foreign minister and minister president of Bavaria, then imperial chancellor of the German Reich and minister president of Prussia from 1 November 1917 to 30 September 1918. He was the first party politician to hold the two offices; all of his predecessors were career civil servants or military men.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Georg_von_Hertling_portrait_%28cropped%29.jpg/330px-Georg_von_Hertling_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Georg_von_Hertling",
+  "dateOfBirth": "1843-08-31",
+  "birthDateParsed": "1843-08-31",
+  "dateOfDeath": "1919-01-04",
+  "deathDateParsed": "1919-01-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.866666666",
+  "birthCoordinatesLng": "8.65",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "professor of philosophy",
+    "head of government",
+    "author",
+    "philosopher",
+    "minister"
+  ],
+  "qid": "Q161084",
+  "birthPlace": "Darmstadt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:15.379Z"
+}

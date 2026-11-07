@@ -1,0 +1,37 @@
+{
+  "publicId": "8407cc24",
+  "wikipediaSlug": "Jerry_Yan",
+  "wikipediaId": "Q706232",
+  "name": "Jerry Yan",
+  "fullName": "Jerry Yan",
+  "profileSummary": "Jerry Yan, born Liao Yang-zhen, is a Taiwanese actor, model and singer. He rose to fame with his role in the TV series Meteor Garden (2001), after which he formed the boyband F4 with his co-stars. His other notable TV series include Loving, Never Forgetting (2014) and Count Your Lucky Stars (2020).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerry_Yan",
+  "dateOfBirth": "1977-01-01",
+  "birthDateParsed": "1977-01-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "film actor",
+    "model"
+  ],
+  "qid": "Q706232",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:47.827Z"
+}

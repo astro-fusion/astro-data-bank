@@ -1,0 +1,36 @@
+{
+  "publicId": "105a743a",
+  "wikipediaSlug": "Carl_Esmond",
+  "wikipediaId": "Q87145",
+  "name": "Carl Esmond",
+  "fullName": "Carl Esmond",
+  "profileSummary": "Willy Eichberger was an Austrian actor, credited in most of his English-language roles as Carl Esmond. He had a successful stage and screen career in Europe, before emigrating to the United States in the late 1930s as a refugee from Nazi Germany.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carl_Esmond_in_Sundown_%281941%29.jpg/330px-Carl_Esmond_in_Sundown_%281941%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Esmond",
+  "dateOfBirth": "1902-06-14",
+  "birthDateParsed": "1902-06-14",
+  "dateOfDeath": "2004-12-04",
+  "deathDateParsed": "2004-12-04",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "television actor",
+    "actor"
+  ],
+  "qid": "Q87145",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:17.375Z"
+}

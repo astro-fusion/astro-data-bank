@@ -1,0 +1,33 @@
+{
+  "publicId": "728d8b4c",
+  "wikipediaSlug": "Elias_(footballer,_born_1985)",
+  "wikipediaId": "Q510123",
+  "name": "Elias (footballer, born 1985)",
+  "fullName": "Elias (footballer, born 1985)",
+  "profileSummary": "Elias Mendes Trindade, known simply as Elias, is a Brazilian former professional footballer who played as a central midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Elias_Trindade_%282010%29.JPG/330px-Elias_Trindade_%282010%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elias_(footballer%2C_born_1985)",
+  "dateOfBirth": "1985-05-16",
+  "birthDateParsed": "1985-05-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q510123",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:05.083Z"
+}

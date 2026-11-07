@@ -1,0 +1,36 @@
+{
+  "publicId": "8a813052",
+  "wikipediaSlug": "Anastasio_Bustamante",
+  "wikipediaId": "Q354678",
+  "name": "Anastasio Bustamante",
+  "fullName": "Anastasio Bustamante",
+  "profileSummary": "Trinidad Anastasio de Sales Ruiz Bustamante y Oseguera was a Mexican medical doctor, general, and politician who served as the 4th President of Mexico three times from 1830 to 1832, 1837 to 1839, and 1839 to 1841. He also served as the 2nd Vice President of Mexico from 1829 to 1832 under Presidents Vicente Guerrero, José María Bocanegra, himself, and Melchor Múzquiz. He participated in the Mexican War of Independence initially as a royalist before siding with Agustín de Iturbide and supporting the Plan of Iguala.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anastasio_Bustamante_y_Oseguera%2C_portrait.jpg/330px-Anastasio_Bustamante_y_Oseguera%2C_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anastasio_Bustamante",
+  "dateOfBirth": "1780-07-27",
+  "birthDateParsed": "1780-07-27",
+  "dateOfDeath": "1853-02-06",
+  "deathDateParsed": "1853-02-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.994166666",
+  "birthCoordinatesLng": "-102.783888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "physician",
+    "military personnel",
+    "military officer"
+  ],
+  "qid": "Q354678",
+  "birthPlace": "Jiquilpan Municipality",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:12:51.262Z"
+}

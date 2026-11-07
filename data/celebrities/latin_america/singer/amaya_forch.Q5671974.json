@@ -1,0 +1,33 @@
+{
+  "publicId": "2ad1f5c2",
+  "wikipediaSlug": "Amaya_Forch",
+  "wikipediaId": "Q5671974",
+  "name": "Amaya Forch",
+  "fullName": "Amaya Forch",
+  "profileSummary": "Amaya Forch Barry is a Chilean actress and pop singer known for making appearances on various Chilean television programs.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Amaya_Forch.jpg/330px-Amaya_Forch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amaya_Forch",
+  "dateOfBirth": "1972-03-05",
+  "birthDateParsed": "1972-03-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q5671974",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:37.107Z"
+}

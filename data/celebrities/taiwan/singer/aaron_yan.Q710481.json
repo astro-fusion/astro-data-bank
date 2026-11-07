@@ -1,0 +1,38 @@
+{
+  "publicId": "391214ac",
+  "wikipediaSlug": "Aaron_Yan",
+  "wikipediaId": "Q710481",
+  "name": "Aaron Yan",
+  "fullName": "Aaron Yan",
+  "profileSummary": "Aaron Yan is a Taiwanese actor, singer, television host and businessman. He was also one of the members of Taiwanese boy band Fahrenheit.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/20210124_%E7%82%8E%E4%BA%9E%E7%B6%B8_%E6%91%A9%E7%99%BB%E5%8E%9F%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%9B%84%E7%B0%BD%E5%94%B1%E6%9C%83.jpg/330px-20210124_%E7%82%8E%E4%BA%9E%E7%B6%B8_%E6%91%A9%E7%99%BB%E5%8E%9F%E5%A7%8B%E4%BA%BA%E9%AB%98%E9%9B%84%E7%B0%BD%E5%94%B1%E6%9C%83.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Yan",
+  "dateOfBirth": "1985-11-20",
+  "birthDateParsed": "1985-11-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "songwriter",
+    "singer-songwriter",
+    "film actor"
+  ],
+  "qid": "Q710481",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:25.327Z"
+}

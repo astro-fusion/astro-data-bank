@@ -1,0 +1,33 @@
+{
+  "publicId": "7889dc2d",
+  "wikipediaSlug": "Cristina_Montt",
+  "wikipediaId": "Q927714",
+  "name": "Cristina Montt",
+  "fullName": "Cristina Montt",
+  "profileSummary": "Cristina Montt was a Chilean film star of silent and early sound films.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cristina_Montt.jpg/330px-Cristina_Montt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristina_Montt",
+  "dateOfBirth": "1895-05-10",
+  "birthDateParsed": "1895-05-10",
+  "dateOfDeath": "1969-04-22",
+  "deathDateParsed": "1969-04-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "-36.7145",
+  "birthCoordinatesLng": "-73.1141",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q927714",
+  "birthPlace": "Talcahuano",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:48.598Z"
+}

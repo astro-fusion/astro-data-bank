@@ -1,0 +1,35 @@
+{
+  "publicId": "1565b907",
+  "wikipediaSlug": "Agustín_Arana",
+  "wikipediaId": "Q5660531",
+  "name": "Agustín Arana",
+  "fullName": "Agustín Arana",
+  "profileSummary": "Agustín Arana is a Mexican actor and singer. He was a member of the Mexican singing group Garibaldi. This was the second Garibaldi group that succeeded the first group of the same name. He grew up in a farm and had many horses. His favorite was Lagartijó, a loyal animal who only let Agustín mount it. He was a semi-professional boxer and fought throughout Mexico.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Arana",
+  "dateOfBirth": "1968-08-27",
+  "birthDateParsed": "1968-08-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "18.85",
+  "birthCoordinatesLng": "-97.1",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor"
+  ],
+  "qid": "Q5660531",
+  "birthPlace": "Orizaba",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:58.937Z"
+}

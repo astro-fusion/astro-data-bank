@@ -1,0 +1,35 @@
+{
+  "publicId": "2531a654",
+  "wikipediaSlug": "Heinrich_Stuhlfauth",
+  "wikipediaId": "Q315778",
+  "name": "Heinrich Stuhlfauth",
+  "fullName": "Heinrich Stuhlfauth",
+  "profileSummary": "Heinrich Stuhlfauth was a German goalkeeper. He was part of Germany's team at the 1928 Summer Olympics.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Heinrich_Stuhlfauth_at_the_banner._EasyCredit-stadion.png/330px-Heinrich_Stuhlfauth_at_the_banner._EasyCredit-stadion.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinrich_Stuhlfauth",
+  "dateOfBirth": "1896-01-11",
+  "birthDateParsed": "1896-01-11",
+  "dateOfDeath": "1966-09-12",
+  "deathDateParsed": "1966-09-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "49.453888888",
+  "birthCoordinatesLng": "11.0775",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "goalkeeper"
+  ],
+  "qid": "Q315778",
+  "birthPlace": "Nuremberg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:37.968Z"
+}

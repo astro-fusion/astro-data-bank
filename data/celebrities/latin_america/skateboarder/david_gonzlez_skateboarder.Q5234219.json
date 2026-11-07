@@ -1,0 +1,33 @@
+{
+  "publicId": "ed459282",
+  "wikipediaSlug": "David_González_(skateboarder)",
+  "wikipediaId": "Q5234219",
+  "name": "David González (skateboarder)",
+  "fullName": "David González (skateboarder)",
+  "profileSummary": "David González is a Colombian professional skateboarder. In December 2012, he was named Thrasher magazine's \"Skater of the Year\".",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Gonz%C3%A1lez_(skateboarder)",
+  "dateOfBirth": "1990-08-09",
+  "birthDateParsed": "1990-08-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.334952323",
+  "birthCoordinatesLng": "-75.558288243",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "skateboarder"
+  ],
+  "qid": "Q5234219",
+  "birthPlace": "Bello",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:50.469Z"
+}

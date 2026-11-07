@@ -1,0 +1,34 @@
+{
+  "publicId": "ae43cc80",
+  "wikipediaSlug": "Deodoro_da_Fonseca",
+  "wikipediaId": "Q200812",
+  "name": "Deodoro da Fonseca",
+  "fullName": "Deodoro da Fonseca",
+  "profileSummary": "Manuel Deodoro da Fonseca was a Brazilian politician and military officer who served as the head of provisional government and the first president of Brazil. He was born in Alagoas in a military family, followed a military career, and became a national figure. Fonseca took office as provisional president after heading a military coup that deposed Emperor Pedro II and established the First Brazilian Republic in 1889, disestablishing the Empire. After his election in 1891, he stepped down the same year under great political pressure when he dissolved the National Congress. He died less than a year later.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deodoro_da_Fonseca_%281889%29.jpg/330px-Deodoro_da_Fonseca_%281889%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deodoro_da_Fonseca",
+  "dateOfBirth": "1827-08-05",
+  "birthDateParsed": "1827-08-05",
+  "dateOfDeath": "1892-08-23",
+  "deathDateParsed": "1892-08-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "-9.71",
+  "birthCoordinatesLng": "-35.895",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q200812",
+  "birthPlace": "Marechal Deodoro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:13.116Z"
+}

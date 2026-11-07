@@ -1,0 +1,35 @@
+{
+  "publicId": "2ba19247",
+  "wikipediaSlug": "Anita_Mui",
+  "wikipediaId": "Q232621",
+  "name": "Anita Mui",
+  "fullName": "Anita Mui",
+  "profileSummary": "Anita Mui Yim-fong was a Hong Konger singer and actress who made major contributions to the Cantopop music scene and received numerous awards and honours. She remained an idol throughout her career, and is regarded as \"Queen of Cantopop\". She was dubbed as the \"Daughter of Hong Kong\" and is considered one of the most iconic Cantopop singers.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Anita_Mui_singer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anita_Mui",
+  "dateOfBirth": "1963-10-10",
+  "birthDateParsed": "1963-10-10",
+  "dateOfDeath": "2003-12-30",
+  "deathDateParsed": "2003-12-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "22.3225",
+  "birthCoordinatesLng": "114.170555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor"
+  ],
+  "qid": "Q232621",
+  "birthPlace": "Mong Kok",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:57.695Z"
+}

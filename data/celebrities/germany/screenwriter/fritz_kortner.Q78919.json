@@ -1,0 +1,40 @@
+{
+  "publicId": "3839ead8",
+  "wikipediaSlug": "Fritz_Kortner",
+  "wikipediaId": "Q78919",
+  "name": "Fritz Kortner",
+  "fullName": "Fritz Kortner",
+  "profileSummary": "Fritz Kortner was an Austrian stage and film actor and theatre director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fritz-Kortner-1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Kortner",
+  "dateOfBirth": "1892-05-12",
+  "birthDateParsed": "1892-05-12",
+  "dateOfDeath": "1970-07-22",
+  "deathDateParsed": "1970-07-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "film actor",
+    "film director",
+    "stage actor",
+    "playwright",
+    "theatre director",
+    "actor",
+    "writer"
+  ],
+  "qid": "Q78919",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:11.051Z"
+}

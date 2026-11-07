@@ -1,0 +1,33 @@
+{
+  "publicId": "75cbafdd",
+  "wikipediaSlug": "Albert_Matterstock",
+  "wikipediaId": "Q2638462",
+  "name": "Albert Matterstock",
+  "fullName": "Albert Matterstock",
+  "profileSummary": "Albert Matterstock was a German film actor. He played the lead in the 1938 aviation film Target in the Clouds.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Matterstock",
+  "dateOfBirth": "1911-09-13",
+  "birthDateParsed": "1911-09-13",
+  "dateOfDeath": "1960-06-29",
+  "deathDateParsed": "1960-06-29",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.3406321",
+  "birthCoordinatesLng": "12.3747329",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q2638462",
+  "birthPlace": "Leipzig",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:57:07.854Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "c14c94c4",
+  "wikipediaSlug": "Miao_Tien",
+  "wikipediaId": "Q15899180",
+  "name": "Miao Tien",
+  "fullName": "Miao Tien",
+  "profileSummary": "Miao Tien was a Chinese film actor mostly active in Hong Kong and Taiwan.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Miao_Tien",
+  "dateOfBirth": "1925-12-06",
+  "birthDateParsed": "1925-12-06",
+  "dateOfDeath": "2005-02-19",
+  "deathDateParsed": "2005-02-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "34.19009",
+  "birthCoordinatesLng": "117.17355",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q15899180",
+  "birthPlace": "Tongshan District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:52.750Z"
+}

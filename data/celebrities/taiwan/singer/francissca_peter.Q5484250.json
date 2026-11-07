@@ -1,0 +1,36 @@
+{
+  "publicId": "66f4a629",
+  "wikipediaSlug": "Francissca_Peter",
+  "wikipediaId": "Q5484250",
+  "name": "Francissca Peter",
+  "fullName": "Francissca Peter",
+  "profileSummary": "Dato' Luciana Francissca Lucian Gabriel Peter, DIMP, also known as Fran, is a former Malaysian actress and singer-songwriter.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fran2019.jpg/330px-Fran2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francissca_Peter",
+  "dateOfBirth": "1961-09-06",
+  "birthDateParsed": "1961-09-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.6",
+  "birthCoordinatesLng": "101.07",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "composer",
+    "songwriter"
+  ],
+  "qid": "Q5484250",
+  "birthPlace": "Ipoh",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:18.803Z"
+}

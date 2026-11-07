@@ -1,0 +1,37 @@
+{
+  "publicId": "787d52ba",
+  "wikipediaSlug": "Franz_von_Papen",
+  "wikipediaId": "Q150552",
+  "name": "Franz von Papen",
+  "fullName": "Franz von Papen",
+  "profileSummary": "Franz Joseph Hermann Michael Maria von Papen, Erbsälzer zu Werl und Neuwerk was a German politician, diplomat, army officer, and Prussian nobleman. A national conservative, he served as Chancellor of Germany in 1932, and then as Vice-Chancellor under Adolf Hitler from 1933 to 1934. A committed monarchist, Papen is largely remembered for his role in bringing Hitler to power.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bundesarchiv_Bild_183-1988-0113-500%2C_Franz_v._Papen_%28cropped%29.jpg/330px-Bundesarchiv_Bild_183-1988-0113-500%2C_Franz_v._Papen_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_von_Papen",
+  "dateOfBirth": "1879-10-29",
+  "birthDateParsed": "1879-10-29",
+  "dateOfDeath": "1969-05-02",
+  "deathDateParsed": "1969-05-02",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.552777777",
+  "birthCoordinatesLng": "7.913888888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military personnel",
+    "military officer",
+    "military attaché"
+  ],
+  "qid": "Q150552",
+  "birthPlace": "Werl",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:16.643Z"
+}

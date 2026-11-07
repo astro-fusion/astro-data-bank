@@ -1,0 +1,40 @@
+{
+  "publicId": "2ec916fe",
+  "wikipediaSlug": "Alice_Braga",
+  "wikipediaId": "Q230903",
+  "name": "Alice Braga",
+  "fullName": "Alice Braga",
+  "profileSummary": "Alice Braga Moraes is a Brazilian actress and producer. She gained international recognition for her role as Anna Montez in the American science fiction film I Am Legend (2007), alongside Will Smith.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Alice_Braga_at_Queen_of_the_South_at_ATX_%28cropped%29.jpg/330px-Alice_Braga_at_Queen_of_the_South_at_ATX_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Braga",
+  "dateOfBirth": "1983-04-15",
+  "birthDateParsed": "1983-04-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "film actor",
+    "television actor",
+    "film producer",
+    "television producer",
+    "video game actor",
+    "voice actor",
+    "actor"
+  ],
+  "qid": "Q230903",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:31:54.716Z"
+}

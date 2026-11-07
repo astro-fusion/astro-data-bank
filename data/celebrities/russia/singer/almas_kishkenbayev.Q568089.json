@@ -1,0 +1,33 @@
+{
+  "publicId": "f7adc2cd",
+  "wikipediaSlug": "Almas_Kishkenbayev",
+  "wikipediaId": "Q568089",
+  "name": "Almas Kishkenbayev",
+  "fullName": "Almas Kishkenbayev",
+  "profileSummary": "Almas Kishkenbayev is a Kazakh singer who rose to popularity after winning SuperStar KZ, the Kazakh version of Pop Idol, shown by Perviy Kanal Evraziya.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Almas_Kishkenbayev",
+  "dateOfBirth": "1985-06-01",
+  "birthDateParsed": "1985-06-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "44.8479",
+  "birthCoordinatesLng": "65.49989",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q568089",
+  "birthPlace": "Kyzylorda",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T02:18:31.608Z"
+}

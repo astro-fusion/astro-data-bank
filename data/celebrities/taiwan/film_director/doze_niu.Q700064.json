@@ -1,0 +1,38 @@
+{
+  "publicId": "bcf766d6",
+  "wikipediaSlug": "Doze_Niu",
+  "wikipediaId": "Q700064",
+  "name": "Doze Niu",
+  "fullName": "Doze Niu",
+  "profileSummary": "Doze Niu is a Taiwanese actor, film director, show host, screenwriter, and producer. As a film director, he is best known for the Taiwanese film Monga.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Doze_Niu_at_Jinhu_Township%2C_Kinmen_County_20141017.jpg/330px-Doze_Niu_at_Jinhu_Township%2C_Kinmen_County_20141017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Doze_Niu",
+  "dateOfBirth": "1966-06-22",
+  "birthDateParsed": "1966-06-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "actor",
+    "television actor",
+    "film actor",
+    "screenwriter",
+    "director"
+  ],
+  "qid": "Q700064",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:08:37.749Z"
+}

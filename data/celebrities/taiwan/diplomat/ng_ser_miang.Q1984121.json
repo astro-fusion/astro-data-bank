@@ -1,0 +1,33 @@
+{
+  "publicId": "fcccc306",
+  "wikipediaSlug": "Ng_Ser_Miang",
+  "wikipediaId": "Q1984121",
+  "name": "Ng Ser Miang",
+  "fullName": "Ng Ser Miang",
+  "profileSummary": "Ng Ser Miang is a Singaporean entrepreneur, diplomat, retired sailor, and sports administrator. He founded Trans-Island Bus Services in 1982 and is a board member of Singapore Press Holdings. Ng has been the vice-president of the Singapore National Olympic Council since 1990, and served as the president of the 2010 Summer Youth Olympics organising committee. From 2009 to 2013, and again from 2020 to 2024, he served as a vice-president of the International Olympic Committee. In 2013, he was a candidate for the presidency of the International Olympic Committee, but lost to Thomas Bach. Domestically, Ng was a Nominated Member of Parliament (NMP) from 2002 to 2005, and served Singapore as the Ambassador to Norway and Hungary under prime ministers Goh Chok Tong and Lee Hsien Loong.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NgSerMiang-2010SummerYouthOlympics-20090426.jpg/330px-NgSerMiang-2010SummerYouthOlympics-20090426.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ng_Ser_Miang",
+  "dateOfBirth": "1949-04-06",
+  "birthDateParsed": "1949-04-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.353888888",
+  "birthCoordinatesLng": "116.682222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "diplomat"
+  ],
+  "qid": "Q1984121",
+  "birthPlace": "Shantou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:35:55.491Z"
+}

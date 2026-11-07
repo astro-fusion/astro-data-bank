@@ -1,0 +1,33 @@
+{
+  "publicId": "2b78b418",
+  "wikipediaSlug": "Aleksandr_Bukharov",
+  "wikipediaId": "Q923552",
+  "name": "Aleksandr Bukharov",
+  "fullName": "Aleksandr Bukharov",
+  "profileSummary": "Aleksandr Yevgenyevich Bukharov is a Russian former professional footballer who played as a striker.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Aleksandr_Bukharov_2018.jpg/330px-Aleksandr_Bukharov_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Bukharov",
+  "dateOfBirth": "1985-03-12",
+  "birthDateParsed": "1985-03-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.714852",
+  "birthCoordinatesLng": "52.3696525",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q923552",
+  "birthPlace": "Naberezhnye Chelny",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:57.972Z"
+}

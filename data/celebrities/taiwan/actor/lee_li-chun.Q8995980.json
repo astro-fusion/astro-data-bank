@@ -1,0 +1,36 @@
+{
+  "publicId": "c2a616a3",
+  "wikipediaSlug": "Lee_Li-chun",
+  "wikipediaId": "Q8995980",
+  "name": "Lee Li-chun",
+  "fullName": "Lee Li-chun",
+  "profileSummary": "Lee Li-chun is a Taiwanese actor and xiangsheng performer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Li-chun",
+  "dateOfBirth": "1952-05-02",
+  "birthDateParsed": "1952-05-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.67416",
+  "birthCoordinatesLng": "121.16111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "xiangsheng performer"
+  ],
+  "qid": "Q8995980",
+  "birthPlace": "Hsinchu County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:50.102Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "95b9f8c8",
+  "wikipediaSlug": "Omar_Fierro",
+  "wikipediaId": "Q7089692",
+  "name": "Omar Fierro",
+  "fullName": "Omar Fierro",
+  "profileSummary": "Omar Fierro is a Mexican television actor and host who has appeared in many soap operas in and outside Mexico, movies and television shows such as Cada Mañana, A Ganar con Omar and the Mexican version of Jeopardy!.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Omar_Fierro.jpg/330px-Omar_Fierro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Fierro",
+  "dateOfBirth": "1963-10-10",
+  "birthDateParsed": "1963-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television director",
+    "television producer",
+    "television presenter"
+  ],
+  "qid": "Q7089692",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:54.919Z"
+}

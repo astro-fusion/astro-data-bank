@@ -1,0 +1,33 @@
+{
+  "publicId": "caa3c2b1",
+  "wikipediaSlug": "John_VI_of_Portugal",
+  "wikipediaId": "Q676301",
+  "name": "John VI of Portugal",
+  "fullName": "John VI of Portugal",
+  "profileSummary": "Dom John VI, known as \"the Clement\", was King of the United Kingdom of Portugal, Brazil and the Algarves from 1816 to 1825, and after the recognition of Brazil's independence, titular Emperor of Brazil and King of Portugal until his death in 1826.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Retrato_de_D._Joao_VI_-_Gregorius%2C_Albertus_Jacob_Frans.jpg/330px-Retrato_de_D._Joao_VI_-_Gregorius%2C_Albertus_Jacob_Frans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_VI_of_Portugal",
+  "dateOfBirth": "1767-05-13",
+  "birthDateParsed": "1767-05-13",
+  "dateOfDeath": "1826-03-10",
+  "deathDateParsed": "1826-03-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "38.708042",
+  "birthCoordinatesLng": "-9.139016",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "king"
+  ],
+  "qid": "Q676301",
+  "birthPlace": "Lisbon",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:33.385Z"
+}

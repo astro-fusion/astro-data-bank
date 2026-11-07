@@ -1,0 +1,36 @@
+{
+  "publicId": "14f7dab1",
+  "wikipediaSlug": "Betty_Faria",
+  "wikipediaId": "Q1789381",
+  "name": "Betty Faria",
+  "fullName": "Betty Faria",
+  "profileSummary": "Elisabeth Maria Silva de Faria known professionally as Betty Faria is a Brazilian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Betty_Faria_cropped.jpg/330px-Betty_Faria_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Betty_Faria",
+  "dateOfBirth": "1941-05-08",
+  "birthDateParsed": "1941-05-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "model",
+    "film actor",
+    "television actor",
+    "showgirl"
+  ],
+  "qid": "Q1789381",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:26.014Z"
+}

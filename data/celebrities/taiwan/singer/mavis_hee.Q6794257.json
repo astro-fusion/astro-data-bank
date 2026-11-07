@@ -1,0 +1,36 @@
+{
+  "publicId": "41e08cf2",
+  "wikipediaSlug": "Mavis_Hee",
+  "wikipediaId": "Q6794257",
+  "name": "Mavis Hee",
+  "fullName": "Mavis Hee",
+  "profileSummary": "Mavis Hee Pee Hong, known professionally as Mavis Hee or Xu Meijing, is a Singaporean singer, songwriter and actress. She was the second runner-up and also Miss Photogenic and Miss Amity in Singapore's Miss Chinatown Pageant 1992.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mavis_hee_%28cropped%29.jpg/330px-Mavis_hee_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mavis_Hee",
+  "dateOfBirth": "1974-09-27",
+  "birthDateParsed": "1974-09-27",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "actor",
+    "lyricist"
+  ],
+  "qid": "Q6794257",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:25.584Z"
+}

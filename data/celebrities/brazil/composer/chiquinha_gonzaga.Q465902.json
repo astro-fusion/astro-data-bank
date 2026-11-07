@@ -1,0 +1,36 @@
+{
+  "publicId": "dbe8f904",
+  "wikipediaSlug": "Chiquinha_Gonzaga",
+  "wikipediaId": "Q465902",
+  "name": "Chiquinha Gonzaga",
+  "fullName": "Chiquinha Gonzaga",
+  "profileSummary": "Francisca Edwiges Neves Gonzaga, better known as Chiquinha Gonzaga was a Brazilian composer, pianist and the first woman conductor in Brazil.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Chiquinhagonzaga4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chiquinha_Gonzaga",
+  "dateOfBirth": "1847-10-17",
+  "birthDateParsed": "1847-10-17",
+  "dateOfDeath": "1935-02-28",
+  "deathDateParsed": "1935-02-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "conductor",
+    "pianist",
+    "activist"
+  ],
+  "qid": "Q465902",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:29:13.984Z"
+}

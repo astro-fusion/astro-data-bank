@@ -1,0 +1,35 @@
+{
+  "publicId": "7b306891",
+  "wikipediaSlug": "Alexandre_Levy",
+  "wikipediaId": "Q1362619",
+  "name": "Alexandre Levy",
+  "fullName": "Alexandre Levy",
+  "profileSummary": "Alexandre Levy was a Brazilian composer, pianist and conductor. Born in São Paulo, he pioneered a fusion of classical composition with Brazil's popular folk music and rhythms. His hometown grants a prestigious award in his name.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/11459_-_Alexandre_Levy_-_1%2C_Acervo_do_Museu_Paulista_da_USP.jpg/330px-11459_-_Alexandre_Levy_-_1%2C_Acervo_do_Museu_Paulista_da_USP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Levy",
+  "dateOfBirth": "1864-11-10",
+  "birthDateParsed": "1864-11-10",
+  "dateOfDeath": "1892-11-17",
+  "deathDateParsed": "1892-11-17",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "journalist",
+    "pianist"
+  ],
+  "qid": "Q1362619",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:17.863Z"
+}

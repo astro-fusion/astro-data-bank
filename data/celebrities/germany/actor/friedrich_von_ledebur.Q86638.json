@@ -1,0 +1,35 @@
+{
+  "publicId": "b0562957",
+  "wikipediaSlug": "Friedrich_von_Ledebur",
+  "wikipediaId": "Q86638",
+  "name": "Friedrich von Ledebur",
+  "fullName": "Friedrich von Ledebur",
+  "profileSummary": "Friedrich Anton Maria Hubertus Bonifacius Graf (Count) von Ledebur-Wicheln was an Austrian actor who was known for Moby Dick (1956), Alexander the Great (1955) and Slaughterhouse-Five (1972).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Friedrich_von_Ledebur_in_The_27th_Day_trailer_2.jpg/330px-Friedrich_von_Ledebur_in_The_27th_Day_trailer_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_von_Ledebur",
+  "dateOfBirth": "1900-06-03",
+  "birthDateParsed": "1900-06-03",
+  "dateOfDeath": "1986-12-25",
+  "deathDateParsed": "1986-12-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.533333333",
+  "birthCoordinatesLng": "22.133333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q86638",
+  "birthPlace": "Nisko",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:35.690Z"
+}

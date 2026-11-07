@@ -1,0 +1,33 @@
+{
+  "publicId": "403ff3e0",
+  "wikipediaSlug": "Eduard_Pendorf",
+  "wikipediaId": "Q1289520",
+  "name": "Eduard Pendorf",
+  "fullName": "Eduard Pendorf",
+  "profileSummary": "Eduard Pendorf was a German footballer who played as a midfielder for VfB Leipzig. In 1913 and 1922 he made three appearances for the Germany national team.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduard_Pendorf",
+  "dateOfBirth": "1892-10-18",
+  "birthDateParsed": "1892-10-18",
+  "dateOfDeath": "1958-11-03",
+  "deathDateParsed": "1958-11-03",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.572966666",
+  "birthCoordinatesLng": "8.593902777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q1289520",
+  "birthPlace": "Lehe",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:42.919Z"
+}

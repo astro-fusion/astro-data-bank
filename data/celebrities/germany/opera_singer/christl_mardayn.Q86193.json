@@ -1,0 +1,38 @@
+{
+  "publicId": "4b204334",
+  "wikipediaSlug": "Christl_Mardayn",
+  "wikipediaId": "Q86193",
+  "name": "Christl Mardayn",
+  "fullName": "Christl Mardayn",
+  "profileSummary": "Anna Christina Maria \"Christl\" Mardayn was an Austrian actress and singer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Christl_Mardayn",
+  "dateOfBirth": "1896-12-08",
+  "birthDateParsed": "1896-12-08",
+  "dateOfDeath": "1971-07-24",
+  "deathDateParsed": "1971-07-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer",
+    "stage actor",
+    "film actor",
+    "singer",
+    "actor",
+    "musician"
+  ],
+  "qid": "Q86193",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:44.692Z"
+}

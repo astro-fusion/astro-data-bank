@@ -1,0 +1,34 @@
+{
+  "publicId": "ae7bc1d7",
+  "wikipediaSlug": "Angie_Cepeda",
+  "wikipediaId": "Q769547",
+  "name": "Angie Cepeda",
+  "fullName": "Angie Cepeda",
+  "profileSummary": "Angélica María Cepeda Jiménez, professionally known as Angie Cepeda, is a Colombian actress. She is best known for her roles in the telenovela Pobre Diabla and the films Captain Pantoja and the Special Services and Love in the Time of Cholera. She is the younger sister of actress Lorna Cepeda.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Angie_Cepeda-F%C3%A9nix_2017_%28cropped%29.jpg/330px-Angie_Cepeda-F%C3%A9nix_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Angie_Cepeda",
+  "dateOfBirth": "1974-08-02",
+  "birthDateParsed": "1974-08-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "10.423611111",
+  "birthCoordinatesLng": "-75.525277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q769547",
+  "birthPlace": "Cartagena",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:05.064Z"
+}

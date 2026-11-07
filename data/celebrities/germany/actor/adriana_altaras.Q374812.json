@@ -1,0 +1,37 @@
+{
+  "publicId": "43129228",
+  "wikipediaSlug": "Adriana_Altaras",
+  "wikipediaId": "Q374812",
+  "name": "Adriana Altaras",
+  "fullName": "Adriana Altaras",
+  "profileSummary": "Adriana Altaras is a German actress, theatre director and author.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Adriana_Altaras_Frankfurter_Buchmesse_2018.jpg/330px-Adriana_Altaras_Frankfurter_Buchmesse_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Altaras",
+  "dateOfBirth": "1960-04-06",
+  "birthDateParsed": "1960-04-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "45.813055555",
+  "birthCoordinatesLng": "15.977222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "writer",
+    "stage actor",
+    "film actor",
+    "theatre director"
+  ],
+  "qid": "Q374812",
+  "birthPlace": "Zagreb",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:56:55.831Z"
+}

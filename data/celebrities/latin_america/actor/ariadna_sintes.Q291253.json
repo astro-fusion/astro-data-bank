@@ -1,0 +1,33 @@
+{
+  "publicId": "14e38a46",
+  "wikipediaSlug": "Ariadna_Sintes",
+  "wikipediaId": "Q291253",
+  "name": "Ariadna Sintes",
+  "fullName": "Ariadna Sintes",
+  "profileSummary": "Ariadna Sintes is a Cuban-Spanish actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ariadna_Sintes.JPG/330px-Ariadna_Sintes.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariadna_Sintes",
+  "dateOfBirth": "1986-10-07",
+  "birthDateParsed": "1986-10-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.136666666",
+  "birthCoordinatesLng": "-82.358888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q291253",
+  "birthPlace": "Havana",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:47:53.013Z"
+}

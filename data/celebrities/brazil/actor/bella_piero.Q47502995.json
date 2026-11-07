@@ -1,0 +1,36 @@
+{
+  "publicId": "898bde52",
+  "wikipediaSlug": "Bella_Piero",
+  "wikipediaId": "Q47502995",
+  "name": "Bella Piero",
+  "fullName": "Bella Piero",
+  "profileSummary": "Bella Piero is a Brazilian actress, best known for her work in the soap operas, \"Verdades Secretas\" and \"O Outro Lado do Paraíso\". On the big screen, she played \"Virginia,\" the protagonist of Caroline Fioratti's film \"My Drywall Cocoon,\" which will have its global première in the SXSW Film Festival in March 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bella_Piero_%28Ela_Decide%29.png/330px-Bella_Piero_%28Ela_Decide%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bella_Piero",
+  "dateOfBirth": "1996-01-06",
+  "birthDateParsed": "1996-01-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q47502995",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:36.002Z"
+}

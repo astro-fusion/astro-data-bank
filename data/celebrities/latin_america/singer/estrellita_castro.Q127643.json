@@ -1,0 +1,34 @@
+{
+  "publicId": "8a690b11",
+  "wikipediaSlug": "Estrellita_Castro",
+  "wikipediaId": "Q127643",
+  "name": "Estrellita Castro",
+  "fullName": "Estrellita Castro",
+  "profileSummary": "Estrella Castro Navarrete known professionally as Estrellita Castro was a Spanish singer and actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Estrellita_Castro.JPG/330px-Estrellita_Castro.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Estrellita_Castro",
+  "dateOfBirth": "1914-06-26",
+  "birthDateParsed": "1914-06-26",
+  "dateOfDeath": "1983-07-10",
+  "deathDateParsed": "1983-07-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "37.388611111",
+  "birthCoordinatesLng": "-5.995",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor"
+  ],
+  "qid": "Q127643",
+  "birthPlace": "Seville",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:33.986Z"
+}

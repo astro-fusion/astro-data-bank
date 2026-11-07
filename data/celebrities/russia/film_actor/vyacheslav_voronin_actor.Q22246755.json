@@ -1,0 +1,35 @@
+{
+  "publicId": "e677428e",
+  "wikipediaSlug": "Vyacheslav_Voronin_(actor)",
+  "wikipediaId": "Q22246755",
+  "name": "Vyacheslav Voronin (actor)",
+  "fullName": "Vyacheslav Voronin (actor)",
+  "profileSummary": "Vyacheslav Anatolyevich Voronin ; November 7, 1934 — October 7, 2016) was a Soviet, Russian, and Ukrainian actor. He was also a Merited Artist of Ukraine (2003).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Vyacheslav_Anatolyevich_Voronin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vyacheslav_Voronin_(actor)",
+  "dateOfBirth": "1934-11-17",
+  "birthDateParsed": "1934-11-17",
+  "dateOfDeath": "2016-10-07",
+  "deathDateParsed": "2016-10-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.833333333",
+  "birthCoordinatesLng": "41.466666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film actor",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q22246755",
+  "birthPlace": "Zherdevka",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:49.042Z"
+}

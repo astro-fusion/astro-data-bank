@@ -1,0 +1,35 @@
+{
+  "publicId": "a24f3dbb",
+  "wikipediaSlug": "Dias_Toffoli",
+  "wikipediaId": "Q10266077",
+  "name": "Dias Toffoli",
+  "fullName": "Dias Toffoli",
+  "profileSummary": "José Antonio Dias Toffoli is a Brazilian lawyer who has been a member of the Supreme Federal Court of Brazil since 2009, nominated by President Luiz Inácio Lula da Silva. Toffoli was the president of the Supreme Federal Court for the 2018–20 term.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dias_Toffoli_em_outubro_de_2019.jpg/330px-Dias_Toffoli_em_outubro_de_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dias_Toffoli",
+  "dateOfBirth": "1967-11-15",
+  "birthDateParsed": "1967-11-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.213888888",
+  "birthCoordinatesLng": "-49.945833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "judge",
+    "jurist"
+  ],
+  "qid": "Q10266077",
+  "birthPlace": "Marília",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:35.480Z"
+}

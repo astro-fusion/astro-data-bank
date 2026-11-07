@@ -1,0 +1,37 @@
+{
+  "publicId": "94961ab7",
+  "wikipediaSlug": "Bowie_Tsang",
+  "wikipediaId": "Q4951018",
+  "name": "Bowie Tsang",
+  "fullName": "Bowie Tsang",
+  "profileSummary": "Bowie Tsang Po Yee is a Hong Kong-Taiwanese television host, singer, actress, and writer. She is the daughter of Eric Tsang.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bowie_Tsang_20220419.jpg/330px-Bowie_Tsang_20220419.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bowie_Tsang",
+  "dateOfBirth": "1973-02-21",
+  "birthDateParsed": "1973-02-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "writer",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q4951018",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:20.182Z"
+}

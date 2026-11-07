@@ -1,0 +1,34 @@
+{
+  "publicId": "fd494f43",
+  "wikipediaSlug": "Vadim_Yevseyev",
+  "wikipediaId": "Q2548154",
+  "name": "Vadim Yevseyev",
+  "fullName": "Vadim Yevseyev",
+  "profileSummary": "Vadim Valentinovich Yevseyev is a Russian football coach and a former player who is the manager of Dynamo Makhachkala.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vadim_Evseev_2018.jpg/330px-Vadim_Evseev_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vadim_Yevseyev",
+  "dateOfBirth": "1976-01-08",
+  "birthDateParsed": "1976-01-08",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "55.916666666",
+  "birthCoordinatesLng": "37.733333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q2548154",
+  "birthPlace": "Mytishchi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:37:12.714Z"
+}

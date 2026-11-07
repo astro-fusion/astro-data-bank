@@ -1,0 +1,33 @@
+{
+  "publicId": "68b00f2b",
+  "wikipediaSlug": "Amparo_Noguera",
+  "wikipediaId": "Q4748066",
+  "name": "Amparo Noguera",
+  "fullName": "Amparo Noguera",
+  "profileSummary": "María Amparo Noguera Portales is a Chilean television, theatre and film actress and theatre director.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Premios_Caleuche_2019_-_2019-01-22_-_19.jpg/330px-Premios_Caleuche_2019_-_2019-01-22_-_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amparo_Noguera",
+  "dateOfBirth": "1965-03-06",
+  "birthDateParsed": "1965-03-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q4748066",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:36.520Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "872d905c",
+  "wikipediaSlug": "Takeshi_Kaneshiro",
+  "wikipediaId": "Q310252",
+  "name": "Takeshi Kaneshiro",
+  "fullName": "Takeshi Kaneshiro",
+  "profileSummary": "Takeshi Kaneshiro  is a Japanese actor and singer active in the Chinese world. He began his career as a pop idol before shifting his focus to acting. His notable films include Chungking Express (1994), Fallen Angels (1995), House of Flying Daggers (2004), Perhaps Love (2005), The Warlords (2007), Red Cliff (2008), Dragon (2011), and The Crossing (2014–2015).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Takeshi_Kaneshiro_at_BIFF_Square%2C_2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Takeshi_Kaneshiro",
+  "dateOfBirth": "1973-10-11",
+  "birthDateParsed": "1973-10-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "25.0375",
+  "birthCoordinatesLng": "121.5625",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "voice actor",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q310252",
+  "birthPlace": "Taipei",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:10:16.863Z"
+}

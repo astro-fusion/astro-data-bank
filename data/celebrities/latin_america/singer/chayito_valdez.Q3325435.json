@@ -1,0 +1,35 @@
+{
+  "publicId": "a067ef29",
+  "wikipediaSlug": "Chayito_Valdez",
+  "wikipediaId": "Q3325435",
+  "name": "Chayito Valdez",
+  "fullName": "Chayito Valdez",
+  "profileSummary": "María del Rosario Valdez Campos, known professionally as Chayito Valdez, was a Mexican singer and actress from Sinaloa. She was associated with and contributed to the folk music of Mexico.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Chayito_valdez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chayito_Valdez",
+  "dateOfBirth": "1945-05-28",
+  "birthDateParsed": "1945-05-28",
+  "dateOfDeath": "2016-06-19",
+  "deathDateParsed": "2016-06-19",
+  "birthTime": null,
+  "birthCoordinatesLat": "25.002777777",
+  "birthCoordinatesLng": "-107.502777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "film actor",
+    "television actor"
+  ],
+  "qid": "Q3325435",
+  "birthPlace": "Sinaloa",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:31.714Z"
+}

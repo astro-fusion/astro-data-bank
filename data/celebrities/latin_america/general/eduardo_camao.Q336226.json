@@ -1,0 +1,31 @@
+{
+  "publicId": "20b383e0",
+  "wikipediaSlug": "Eduardo_Camaño",
+  "wikipediaId": "Q336226",
+  "name": "Eduardo Camaño",
+  "fullName": "Eduardo Camaño",
+  "profileSummary": "Eduardo Oscar Camaño is an Argentine Justicialist Party politician. He was in charge of the executive branch in a caretaker capacity, effectively acting as president, for two days between 31 December 2001, and 1 January 2002.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecamano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Cama%C3%B1o",
+  "dateOfBirth": "1946-06-17",
+  "birthDateParsed": "1946-06-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q336226",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:09.228Z"
+}

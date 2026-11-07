@@ -1,0 +1,33 @@
+{
+  "publicId": "e8d966a6",
+  "wikipediaSlug": "Astrid_Medina",
+  "wikipediaId": "Q51708601",
+  "name": "Astrid Medina",
+  "fullName": "Astrid Medina",
+  "profileSummary": "Astrid Medina Pereira is a Colombian coffee producer who gained international prominence on winning the Colombian Cup of Excellence award in 2015.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Medina.jpg/330px-Astrid_Medina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Astrid_Medina",
+  "dateOfBirth": "1977-01-09",
+  "birthDateParsed": "1977-01-09",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.15",
+  "birthCoordinatesLng": "-75.816666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "farmer"
+  ],
+  "qid": "Q51708601",
+  "birthPlace": "Gaitania",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:24.873Z"
+}

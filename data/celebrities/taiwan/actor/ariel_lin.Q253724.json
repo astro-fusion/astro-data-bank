@@ -1,0 +1,37 @@
+{
+  "publicId": "2f86468c",
+  "wikipediaSlug": "Ariel_Lin",
+  "wikipediaId": "Q253724",
+  "name": "Ariel Lin",
+  "fullName": "Ariel Lin",
+  "profileSummary": "Ariel Lin Yi-chen is a Taiwanese actress and singer. She rose to fame for her role as Yuan Xiangqin in the Taiwanese drama It Started with a Kiss (2005) and the Chinese fantasy drama The Little Fairy (2006). Lin won Best Actress at the 43rd and 47th Golden Bell Awards for her roles in They Kiss Again (2007) and In Time with You (2011) respectively.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20240418-ArielLin.jpg/330px-20240418-ArielLin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariel_Lin",
+  "dateOfBirth": "1982-10-29",
+  "birthDateParsed": "1982-10-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24.75",
+  "birthCoordinatesLng": "121.75",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor",
+    "voice actor"
+  ],
+  "qid": "Q253724",
+  "birthPlace": "Yilan County",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:56.261Z"
+}

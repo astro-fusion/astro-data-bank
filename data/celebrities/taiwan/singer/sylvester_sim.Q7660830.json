@@ -1,0 +1,33 @@
+{
+  "publicId": "92cf82d7",
+  "wikipediaSlug": "Sylvester_Sim",
+  "wikipediaId": "Q7660830",
+  "name": "Sylvester Sim",
+  "fullName": "Sylvester Sim",
+  "profileSummary": "Sylvester Sim is a Singaporean singer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvester_Sim",
+  "dateOfBirth": "1983-01-19",
+  "birthDateParsed": "1983-01-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q7660830",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:47.615Z"
+}

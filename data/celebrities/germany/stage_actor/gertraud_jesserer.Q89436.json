@@ -1,0 +1,35 @@
+{
+  "publicId": "9aa8f238",
+  "wikipediaSlug": "Gertraud_Jesserer",
+  "wikipediaId": "Q89436",
+  "name": "Gertraud Jesserer",
+  "fullName": "Gertraud Jesserer",
+  "profileSummary": "Gertraud Jesserer was an Austrian film and television actress. Jesserer was the wife of German actor Peter Vogel and the mother of actor-journalist Nikolas Vogel. She died in a house fire in Vienna on 9 December 2021, at the age of 77.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2015-05-06-GertraudJesserer.jpg/330px-2015-05-06-GertraudJesserer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gertraud_Jesserer",
+  "dateOfBirth": "1943-12-13",
+  "birthDateParsed": "1943-12-13",
+  "dateOfDeath": "2021-12-09",
+  "deathDateParsed": "2021-12-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.208333333",
+  "birthCoordinatesLng": "16.3725",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q89436",
+  "birthPlace": "Vienna",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:21.874Z"
+}

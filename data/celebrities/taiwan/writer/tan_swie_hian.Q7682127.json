@@ -1,0 +1,34 @@
+{
+  "publicId": "4d41c6ec",
+  "wikipediaSlug": "Tan_Swie_Hian",
+  "wikipediaId": "Q7682127",
+  "name": "Tan Swie Hian",
+  "fullName": "Tan Swie Hian",
+  "profileSummary": "Tan Swie Hian is a Singaporean multidisciplinary artist known for his contemporary Chinese calligraphy, Chinese poetry and contemporary art sculptures found in Singapore and many parts of the world.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TAN_Swie_Hian.JPG/330px-TAN_Swie_Hian.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tan_Swie_Hian",
+  "dateOfBirth": "1943-05-05",
+  "birthDateParsed": "1943-05-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-2",
+  "birthCoordinatesLng": "118",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "writer",
+    "artist"
+  ],
+  "qid": "Q7682127",
+  "birthPlace": "Indonesia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:36:37.794Z"
+}

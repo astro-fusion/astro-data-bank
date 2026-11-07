@@ -1,0 +1,33 @@
+{
+  "publicId": "d740ec22",
+  "wikipediaSlug": "Horst-Dieter_Höttges",
+  "wikipediaId": "Q505919",
+  "name": "Horst-Dieter Höttges",
+  "fullName": "Horst-Dieter Höttges",
+  "profileSummary": "Horst-Dieter Höttges was a German professional footballer who played as a sweeper or right-back. Having started his career with hometown club Borussia Mönchengladbach, he spent most of his career with Werder Bremen. He made 420 Bundesliga appearances for Werder Bremen, a club record for outfield players, scoring 55 goals and helped the club win the Bundesliga title in the 1964–65 season, his first at Werder Bremen. At international level, he represented West Germany from 1965 to 1974, amassing 66 caps and scoring 1 goal. He was part of the West Germany squads that won the 1974 FIFA World Cup and the UEFA Euro 1972.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Horst-Dieter_H%C3%B6ttges_M%C3%A9xico_70.jpg/330px-Horst-Dieter_H%C3%B6ttges_M%C3%A9xico_70.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Horst-Dieter_H%C3%B6ttges",
+  "dateOfBirth": "1943-09-10",
+  "birthDateParsed": "1943-09-10",
+  "dateOfDeath": "2023-06-22",
+  "deathDateParsed": "2023-06-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.2",
+  "birthCoordinatesLng": "6.433333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q505919",
+  "birthPlace": "Mönchengladbach",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:09.368Z"
+}

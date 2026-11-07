@@ -1,0 +1,33 @@
+{
+  "publicId": "3f1efb50",
+  "wikipediaSlug": "Bidu_Sayão",
+  "wikipediaId": "Q266011",
+  "name": "Bidu Sayão",
+  "fullName": "Bidu Sayão",
+  "profileSummary": "Balduína \"Bidú\" de Oliveira Sayão was a Brazilian operatic soprano. One of Brazil's celebrated musicians, Sayão was a leading artist of the Metropolitan Opera in New York City from 1937 to 1952.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bidu_Say%C3%A3o.png/330px-Bidu_Say%C3%A3o.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bidu_Say%C3%A3o",
+  "dateOfBirth": "1902-05-11",
+  "birthDateParsed": "1902-05-11",
+  "dateOfDeath": "1999-03-13",
+  "deathDateParsed": "1999-03-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.851944444",
+  "birthCoordinatesLng": "-43.775",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "opera singer"
+  ],
+  "qid": "Q266011",
+  "birthPlace": "Itaguaí",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:33.044Z"
+}

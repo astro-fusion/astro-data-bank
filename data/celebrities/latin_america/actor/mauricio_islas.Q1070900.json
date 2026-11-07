@@ -1,0 +1,33 @@
+{
+  "publicId": "d4e45201",
+  "wikipediaSlug": "Mauricio_Islas",
+  "wikipediaId": "Q1070900",
+  "name": "Mauricio Islas",
+  "fullName": "Mauricio Islas",
+  "profileSummary": "Mauricio Islas is a Mexican actor. He is best known for his work in telenovelas produced by Televisa, TV Azteca, Telemundo, and Venevision.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Mauricio_Islas_en_Cielo_Rojo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mauricio_Islas",
+  "dateOfBirth": "1973-08-16",
+  "birthDateParsed": "1973-08-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q1070900",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:52.843Z"
+}

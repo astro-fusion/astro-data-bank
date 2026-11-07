@@ -1,0 +1,39 @@
+{
+  "publicId": "48664c07",
+  "wikipediaSlug": "Hugo_Haase",
+  "wikipediaId": "Q438913",
+  "name": "Hugo Haase",
+  "fullName": "Hugo Haase",
+  "profileSummary": "Hugo Haase was a German socialist politician, jurist and pacifist. With Friedrich Ebert, he co-chaired the Council of the People's Deputies during the German Revolution of 1918–19.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hugo_Haase_circa_1916_Edit.jpg/330px-Hugo_Haase_circa_1916_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Haase",
+  "dateOfBirth": "1863-09-29",
+  "birthDateParsed": "1863-09-29",
+  "dateOfDeath": "1919-11-07",
+  "deathDateParsed": "1919-11-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.78",
+  "birthCoordinatesLng": "20.494166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "peace activist",
+    "party leader",
+    "pacifist",
+    "member of parliament",
+    "social democrat"
+  ],
+  "qid": "Q438913",
+  "birthPlace": "Olsztyn",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:41.893Z"
+}

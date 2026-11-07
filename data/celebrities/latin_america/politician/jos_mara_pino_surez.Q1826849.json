@@ -1,0 +1,37 @@
+{
+  "publicId": "55a81983",
+  "wikipediaSlug": "José_María_Pino_Suárez",
+  "wikipediaId": "Q1826849",
+  "name": "José María Pino Suárez",
+  "fullName": "José María Pino Suárez",
+  "profileSummary": "José María Pino Suárez was a Mexican lawyer, statesman, politician, and journalist who served as the 7th and last Vice President of Mexico from 1911 until his assassination during the Ten Tragic Days coup in 1913. A close ally of President Francisco I. Madero and a prominent figure of the Mexican Revolution, he is considered a national hero for championing democratic reforms and advocating social justice. Between 1910 and 1913, he also served as President of the Senate, Secretary of Education, Governor of Yucatán, and Secretary of Justice in Madero's provisional government. He was the great-grandson of Pedro Sáinz de Baranda y Borreyro, the naval commander who founded the Mexican Navy and expelled the last Spanish forces from national territory during the Mexican War of Independence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vicepresidente_Jos%C3%A9_Mar%C3%ADa_Pino_Su%C3%A1rez_crop.jpg/330px-Vicepresidente_Jos%C3%A9_Mar%C3%ADa_Pino_Su%C3%A1rez_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Pino_Su%C3%A1rez",
+  "dateOfBirth": "1869-09-08",
+  "birthDateParsed": "1869-09-08",
+  "dateOfDeath": "1913-02-22",
+  "deathDateParsed": "1913-02-22",
+  "birthTime": null,
+  "birthCoordinatesLat": "17.470833333",
+  "birthCoordinatesLng": "-91.420833333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer",
+    "minister",
+    "journalist",
+    "writer"
+  ],
+  "qid": "Q1826849",
+  "birthPlace": "Tenosique de Pino Suárez",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:28.905Z"
+}

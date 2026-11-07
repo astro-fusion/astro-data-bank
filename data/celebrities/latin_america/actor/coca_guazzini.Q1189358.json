@@ -1,0 +1,33 @@
+{
+  "publicId": "6d0ea4d2",
+  "wikipediaSlug": "Coca_Guazzini",
+  "wikipediaId": "Q1189358",
+  "name": "Coca Guazzini",
+  "fullName": "Coca Guazzini",
+  "profileSummary": "Silvia Beatriz Guazzini Monsalve, best known as Coca Guazzini, is a Chilean television, theatre and film actress. Guazzini studied theatre at Universidad de Chile. She appeared in some popular Chilean telenovelas like Sucupira, Aquelarre and Tic Tac, in addition to participating in comedy programs such as De chincol a jote. In 2002 Coca Guazzini won the Apes Award for \"Best Actress\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Coca_Guazzini_en_Radio_Tierra.jpg/330px-Coca_Guazzini_en_Radio_Tierra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coca_Guazzini",
+  "dateOfBirth": "1953-12-22",
+  "birthDateParsed": "1953-12-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q1189358",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:00.023Z"
+}

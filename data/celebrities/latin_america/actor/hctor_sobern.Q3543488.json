@@ -1,0 +1,33 @@
+{
+  "publicId": "94e11b5f",
+  "wikipediaSlug": "Héctor_Soberón",
+  "wikipediaId": "Q3543488",
+  "name": "Héctor Soberón",
+  "fullName": "Héctor Soberón",
+  "profileSummary": "Héctor Soberón Lorenzo, better known as Héctor Soberón, is a Mexican actor.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Sober%C3%B3n",
+  "dateOfBirth": "1964-08-11",
+  "birthDateParsed": "1964-08-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q3543488",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:05.599Z"
+}

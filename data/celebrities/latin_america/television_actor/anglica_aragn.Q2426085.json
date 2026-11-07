@@ -1,0 +1,35 @@
+{
+  "publicId": "c48ca5e4",
+  "wikipediaSlug": "Angélica_Aragón",
+  "wikipediaId": "Q2426085",
+  "name": "Angélica Aragón",
+  "fullName": "Angélica Aragón",
+  "profileSummary": "Angélica Espinoza Stransky, known professionally as Angélica Aragón, is a Mexican film, television, and stage actress and singer. She is the daughter of Mexican composer José Ángel Espinoza (\"Ferrusquilla\"). Aragón is recognized for her performances in various Mexican films such as Cilantro y perejil (1997), Sexo, pudor y lágrimas (1999), and El crimen del Padre Amaro (2002), as well as in American productions like A Walk in the Clouds (1995) and Dirty Dancing: Havana Nights (2002). She is also well known for starring in two notable Mexican telenovelas: Vivir un poco (1985) and Mirada de mujer (1997).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ang%C3%A9lica_Arag%C3%B3n.jpg/330px-Ang%C3%A9lica_Arag%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ang%C3%A9lica_Arag%C3%B3n",
+  "dateOfBirth": "1953-07-11",
+  "birthDateParsed": "1953-07-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q2426085",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:13.354Z"
+}

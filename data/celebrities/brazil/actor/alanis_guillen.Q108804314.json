@@ -1,0 +1,34 @@
+{
+  "publicId": "75d218bd",
+  "wikipediaSlug": "Alanis_Guillen",
+  "wikipediaId": "Q108804314",
+  "name": "Alanis Guillen",
+  "fullName": "Alanis Guillen",
+  "profileSummary": "Alanis Guillen Caratella is a Brazilian actress and model.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Alanis_Guillen.png/330px-Alanis_Guillen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alanis_Guillen",
+  "dateOfBirth": "1998-05-20",
+  "birthDateParsed": "1998-05-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.6533349",
+  "birthCoordinatesLng": "-46.5279508",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model"
+  ],
+  "qid": "Q108804314",
+  "birthPlace": "Santo André",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:47.039Z"
+}

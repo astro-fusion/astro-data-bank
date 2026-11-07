@@ -1,0 +1,34 @@
+{
+  "publicId": "f634afa8",
+  "wikipediaSlug": "José_Mariano_Michelena",
+  "wikipediaId": "Q3117383",
+  "name": "José Mariano Michelena",
+  "fullName": "José Mariano Michelena",
+  "profileSummary": "José Mariano Michelena was a New Spain and later Mexican, soldier and politician. He was among the early conspirators seeking to achieve Mexican independence, and also introduced coffee to Mexico.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jose_mariano_michelena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mariano_Michelena",
+  "dateOfBirth": "1772-07-14",
+  "birthDateParsed": "1772-07-14",
+  "dateOfDeath": "1852-05-10",
+  "deathDateParsed": "1852-05-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.702777777",
+  "birthCoordinatesLng": "-101.192222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel"
+  ],
+  "qid": "Q3117383",
+  "birthPlace": "Morelia",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:25.469Z"
+}

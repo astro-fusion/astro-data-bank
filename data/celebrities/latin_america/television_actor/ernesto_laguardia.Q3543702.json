@@ -1,0 +1,33 @@
+{
+  "publicId": "c6655b71",
+  "wikipediaSlug": "Ernesto_Laguardia",
+  "wikipediaId": "Q3543702",
+  "name": "Ernesto Laguardia",
+  "fullName": "Ernesto Laguardia",
+  "profileSummary": "Ernesto Laguardia is a Mexican actor known for his performances in Mexican telenovelas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ernesto_Laguardia.png/330px-Ernesto_Laguardia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernesto_Laguardia",
+  "dateOfBirth": "1959-10-05",
+  "birthDateParsed": "1959-10-05",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q3543702",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:29.192Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "c2be718d",
+  "wikipediaSlug": "Juan_Ramón_Balcarce",
+  "wikipediaId": "Q2269490",
+  "name": "Juan Ramón Balcarce",
+  "fullName": "Juan Ramón Balcarce",
+  "profileSummary": "Juan Ramón González de Balcarce was an Argentine military leader and politician.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/JuanRamonGonzalezBalcarce.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Balcarce",
+  "dateOfBirth": "1773-03-16",
+  "birthDateParsed": "1773-03-16",
+  "dateOfDeath": "1836-11-12",
+  "deathDateParsed": "1836-11-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diplomat",
+    "military personnel"
+  ],
+  "qid": "Q2269490",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:05.111Z"
+}

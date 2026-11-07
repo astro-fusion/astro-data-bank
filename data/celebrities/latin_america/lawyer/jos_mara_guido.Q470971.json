@@ -1,0 +1,34 @@
+{
+  "publicId": "ce4664c3",
+  "wikipediaSlug": "José_María_Guido",
+  "wikipediaId": "Q470971",
+  "name": "José María Guido",
+  "fullName": "José María Guido",
+  "profileSummary": "José María Guido Cibeira was President of Argentina from 29 March 1962 to 12 October 1963, serving as the head of a provisional civilian government after the Argentine military overthrew President Arturo Frondizi. Guido's nineteen months in office were characterized by a severe economic recession, open conflict between competing factions within the armed forces, and anti-democratic measures including continued proscription of Peronists from Argentine politics. Yet Guido, with critical support from the \"legalist\" faction of the military, prevailed in his mission to return Argentina to constitutional government with a general election held on 7 July 1963.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jos%C3%A9_Mar%C3%ADa_Guido_official_portrait.jpg/330px-Jos%C3%A9_Mar%C3%ADa_Guido_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Guido",
+  "dateOfBirth": "1910-08-29",
+  "birthDateParsed": "1910-08-29",
+  "dateOfDeath": "1975-06-13",
+  "deathDateParsed": "1975-06-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q470971",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:02.623Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "2e6b86a0",
+  "wikipediaSlug": "Fiona_Xie",
+  "wikipediaId": "Q5451137",
+  "name": "Fiona Xie",
+  "fullName": "Fiona Xie",
+  "profileSummary": "Fiona Xie is a Singaporean actress, television host, socialite and businesswoman. She was named as one of the Seven Princesses of Mediacorp in 2006. She was prominently a full-time Mediacorp artiste from 2001 to 2009.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fiona_Xie_in_%22Run_Chicken_Run%22.jpg/330px-Fiona_Xie_in_%22Run_Chicken_Run%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiona_Xie",
+  "dateOfBirth": "1982-01-24",
+  "birthDateParsed": "1982-01-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "1.3",
+  "birthCoordinatesLng": "103.8",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor"
+  ],
+  "qid": "Q5451137",
+  "birthPlace": "Singapore",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:34:59.676Z"
+}

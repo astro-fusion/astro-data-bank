@@ -1,0 +1,33 @@
+{
+  "publicId": "05d4c343",
+  "wikipediaSlug": "Aleksandr_Kokorin",
+  "wikipediaId": "Q39233",
+  "name": "Aleksandr Kokorin",
+  "fullName": "Aleksandr Kokorin",
+  "profileSummary": "Aleksandr Aleksandrovich Kokorin is a Russian professional footballer who plays as a forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aleksandr_Kokorin_Sochi.jpg/330px-Aleksandr_Kokorin_Sochi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Kokorin",
+  "dateOfBirth": "1991-03-19",
+  "birthDateParsed": "1991-03-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.183333333",
+  "birthCoordinatesLng": "38.116666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q39233",
+  "birthPlace": "Valuyki",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:35:55.912Z"
+}

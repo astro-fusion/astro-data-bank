@@ -1,0 +1,39 @@
+{
+  "publicId": "2be5c2be",
+  "wikipediaSlug": "Alexander_Blok",
+  "wikipediaId": "Q164765",
+  "name": "Alexander Blok",
+  "fullName": "Alexander Blok",
+  "profileSummary": "Alexander Alexandrovich Blok was the most well-known Russian lyrical poet during the Silver Age of Russian Poetry.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Alexander_Blok.jpeg/330px-Alexander_Blok.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Blok",
+  "dateOfBirth": "1880-11-28",
+  "birthDateParsed": "1880-11-28",
+  "dateOfDeath": "1921-08-07",
+  "deathDateParsed": "1921-08-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "translator",
+    "playwright",
+    "writer",
+    "philosopher",
+    "opinion journalist",
+    "literary critic"
+  ],
+  "qid": "Q164765",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:02.970Z"
+}

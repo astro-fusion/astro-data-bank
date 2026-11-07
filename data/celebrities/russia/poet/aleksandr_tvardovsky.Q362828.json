@@ -1,0 +1,36 @@
+{
+  "publicId": "d3168382",
+  "wikipediaSlug": "Aleksandr_Tvardovsky",
+  "wikipediaId": "Q362828",
+  "name": "Aleksandr Tvardovsky",
+  "fullName": "Aleksandr Tvardovsky",
+  "profileSummary": "Aleksandr Trifonovich Tvardovsky was a Soviet poet and writer and chief editor of Novy Mir literary magazine from 1950 to 1954 and 1958 to 1970. During his editorship, the magazine published One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn. He is best known for his epic poem Vasili Tyorkin.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aleksandr_Tvardovsky_1941.jpg/330px-Aleksandr_Tvardovsky_1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Tvardovsky",
+  "dateOfBirth": "1910-06-21",
+  "birthDateParsed": "1910-06-21",
+  "dateOfDeath": "1971-12-18",
+  "deathDateParsed": "1971-12-18",
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "poet",
+    "writer",
+    "journalist",
+    "short story writer"
+  ],
+  "qid": "Q362828",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:42.295Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "3ea71cc0",
+  "wikipediaSlug": "Gilmar",
+  "wikipediaId": "Q257606",
+  "name": "Gilmar",
+  "fullName": "Gilmar",
+  "profileSummary": "Gylmar dos Santos Neves, known simply as Gilmar, was a Brazilian footballer who played goalkeeper for Corinthians and Santos and was a member of the Brazil national team in three World Cups. He was elected the best Brazilian goalkeeper of the 20th century and one of the best in the world by the IFFHS. He is remembered for his sober style on the pitch and his peaceful personality.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gilmar_%28cropped%29.jpg/330px-Gilmar_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilmar",
+  "dateOfBirth": "1930-08-22",
+  "birthDateParsed": "1930-08-22",
+  "dateOfDeath": "2013-08-25",
+  "deathDateParsed": "2013-08-25",
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.9335988",
+  "birthCoordinatesLng": "-46.3286399",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q257606",
+  "birthPlace": "Santos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:23.581Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "53f31010",
+  "wikipediaSlug": "Igor_Portnyagin",
+  "wikipediaId": "Q4373295",
+  "name": "Igor Portnyagin",
+  "fullName": "Igor Portnyagin",
+  "profileSummary": "Igor Igorevich Portnyagin is a Russian former professional footballer who played as a forward.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Igor_Portnyagin_2016.jpg/330px-Igor_Portnyagin_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Portnyagin",
+  "dateOfBirth": "1989-01-07",
+  "birthDateParsed": "1989-01-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "43.115",
+  "birthCoordinatesLng": "131.885277777",
+  "birthTimezone": "Asia/Tokyo",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q4373295",
+  "birthPlace": "Vladivostok",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:19.066Z"
+}

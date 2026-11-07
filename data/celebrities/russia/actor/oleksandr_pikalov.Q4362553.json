@@ -1,0 +1,42 @@
+{
+  "publicId": "b49957c0",
+  "wikipediaSlug": "Oleksandr_Pikalov",
+  "wikipediaId": "Q4362553",
+  "name": "Oleksandr Pikalov",
+  "fullName": "Oleksandr Pikalov",
+  "profileSummary": "Oleksandr Viktorovych Pikalov is a Ukrainian actor, comedian, and member of Kvartal 95 Studio.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/%D0%9F%D0%B8%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleksandr_Pikalov",
+  "dateOfBirth": "1976-01-30",
+  "birthDateParsed": "1976-01-30",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "47.91",
+  "birthCoordinatesLng": "33.39",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "humorist",
+    "engineer",
+    "presenter",
+    "comedian",
+    "screenwriter",
+    "television presenter",
+    "impressionist",
+    "showman",
+    "KVN actor"
+  ],
+  "qid": "Q4362553",
+  "birthPlace": "Kryvyi Rih",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:24.098Z"
+}

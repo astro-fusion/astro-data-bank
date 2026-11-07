@@ -1,0 +1,34 @@
+{
+  "publicId": "1afa89c2",
+  "wikipediaSlug": "Aki_Schmidt",
+  "wikipediaId": "Q514279",
+  "name": "Aki Schmidt",
+  "fullName": "Aki Schmidt",
+  "profileSummary": "Alfred \"Aki\" Schmidt was a German football player and manager.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Alfred_schmidt_fussballer.jpg/330px-Alfred_schmidt_fussballer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aki_Schmidt",
+  "dateOfBirth": "1935-09-05",
+  "birthDateParsed": "1935-09-05",
+  "dateOfDeath": "2016-11-11",
+  "deathDateParsed": "2016-11-11",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.513888888",
+  "birthCoordinatesLng": "7.465277777",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q514279",
+  "birthPlace": "Dortmund",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:42.253Z"
+}

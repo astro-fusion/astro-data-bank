@@ -1,0 +1,34 @@
+{
+  "publicId": "3aea0175",
+  "wikipediaSlug": "Juan_José_Viamonte",
+  "wikipediaId": "Q2269478",
+  "name": "Juan José Viamonte",
+  "fullName": "Juan José Viamonte",
+  "profileSummary": "Juan José Viamonte González was an Argentine general in the early 19th century.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Viamonte.jpg/330px-Viamonte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Viamonte",
+  "dateOfBirth": "1774-02-09",
+  "birthDateParsed": "1774-02-09",
+  "dateOfDeath": "1843-03-31",
+  "deathDateParsed": "1843-03-31",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military personnel",
+    "politician"
+  ],
+  "qid": "Q2269478",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:04.411Z"
+}

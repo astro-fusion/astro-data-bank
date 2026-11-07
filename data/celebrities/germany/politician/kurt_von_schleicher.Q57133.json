@@ -1,0 +1,35 @@
+{
+  "publicId": "ddd63f46",
+  "wikipediaSlug": "Kurt_von_Schleicher",
+  "wikipediaId": "Q57133",
+  "name": "Kurt von Schleicher",
+  "fullName": "Kurt von Schleicher",
+  "profileSummary": "Kurt Ferdinand Friedrich Hermann von Schleicher was a German military officer and the penultimate chancellor of Germany during the Weimar Republic. A rival for power with Adolf Hitler, Schleicher was assassinated by Hitler's Schutzstaffel (SS) during the Night of the Long Knives in 1934.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bundesarchiv_Bild_183-B0527-0001-020%2C_Kurt_von_Schleicher_%28cropped%29%282%29.jpg/330px-Bundesarchiv_Bild_183-B0527-0001-020%2C_Kurt_von_Schleicher_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kurt_von_Schleicher",
+  "dateOfBirth": "1882-04-07",
+  "birthDateParsed": "1882-04-07",
+  "dateOfDeath": "1934-06-30",
+  "deathDateParsed": "1934-06-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "52.414138888",
+  "birthCoordinatesLng": "12.554083333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military officer",
+    "head of government"
+  ],
+  "qid": "Q57133",
+  "birthPlace": "Brandenburg an der Havel",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:36.732Z"
+}

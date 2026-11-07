@@ -1,0 +1,35 @@
+{
+  "publicId": "550fa5ff",
+  "wikipediaSlug": "Augusto_Rademaker",
+  "wikipediaId": "Q1789343",
+  "name": "Augusto Rademaker",
+  "fullName": "Augusto Rademaker",
+  "profileSummary": "Augusto Hamann Rademaker Grünewald was a Brazilian admiral. Rademaker was one of the leaders of the Military Junta that ruled Brazil between the illness of Artur da Costa e Silva in August 1969 and the investiture ceremony of Emílio Garrastazu Médici in October of that same year, elected by fellow officer generals and confirmed by the Congress. In the same occasions Rademaker was picked and \"elected\" as vice president for the same term as Medici's (1969–1974).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Augusto_Hamann_Rademaker_Gr%C3%BCnewald%2C_Vice-presidente_da_Rep%C3%BAblica.tiff/lossy-page1-330px-Augusto_Hamann_Rademaker_Gr%C3%BCnewald%2C_Vice-presidente_da_Rep%C3%BAblica.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusto_Rademaker",
+  "dateOfBirth": "1905-05-11",
+  "birthDateParsed": "1905-05-11",
+  "dateOfDeath": "1985-09-13",
+  "deathDateParsed": "1985-09-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "military personnel",
+    "soldier"
+  ],
+  "qid": "Q1789343",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:21:55.102Z"
+}

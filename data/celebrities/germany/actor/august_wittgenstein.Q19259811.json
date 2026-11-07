@@ -1,0 +1,35 @@
+{
+  "publicId": "27e4f6cc",
+  "wikipediaSlug": "August_Wittgenstein",
+  "wikipediaId": "Q19259811",
+  "name": "August Wittgenstein",
+  "fullName": "August Wittgenstein",
+  "profileSummary": "Prince August Fredrik zu Sayn-Wittgenstein-Berleburg, known professionally as August Wittgenstein, is a German-Swedish actor and member of the princely House of Sayn-Wittgenstein-Berleburg. Wittgenstein has appeared in English, German, and Swedish language films, starring in the 2013 German television movie Open Desert. He is known for his portrayals of Georg Donatus, Hereditary Grand Duke of Hesse in The Crown and Count Alfred Eckbrecht von Dürckheim-Montmartin in Ludwig II as well as his roles as Karl Tennstedt in Das Boot and Andreas Wolf in Deadwind.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/August_Wittgenstein_at_the_2024_Toronto_International_Film_Festival_3_%28cropped%29.jpg/330px-August_Wittgenstein_at_the_2024_Toronto_International_Film_Festival_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Wittgenstein",
+  "dateOfBirth": "1981-01-22",
+  "birthDateParsed": "1981-01-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.875555555",
+  "birthCoordinatesLng": "8.016666666",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q19259811",
+  "birthPlace": "Siegen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:58:09.033Z"
+}

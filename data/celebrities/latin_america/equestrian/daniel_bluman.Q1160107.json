@@ -1,0 +1,33 @@
+{
+  "publicId": "6c834089",
+  "wikipediaSlug": "Daniel_Bluman",
+  "wikipediaId": "Q1160107",
+  "name": "Daniel Bluman",
+  "fullName": "Daniel Bluman",
+  "profileSummary": "Daniel Bluman is an Olympic show jumping rider. Born in Colombia, he represents Israel internationally and competed for his country of birth in the past. Bluman qualified to represent Israel at the 2020 Summer Olympics in Tokyo, but did not compete due to a clerical error in his horse's registration. Bluman represented Israel at the 2024 Paris Olympics at the Palace of Versailles in individual jumping and team jumping.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/CHI_Gen%C3%A8ve_2013_-_20131212_-_Daniel_Bluman_et_Cantando_Lyngriis.jpg/330px-CHI_Gen%C3%A8ve_2013_-_20131212_-_Daniel_Bluman_et_Cantando_Lyngriis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Bluman",
+  "dateOfBirth": "1990-03-15",
+  "birthDateParsed": "1990-03-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "6.250200154",
+  "birthCoordinatesLng": "-75.5675845",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "equestrian"
+  ],
+  "qid": "Q1160107",
+  "birthPlace": "Medellín",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:16:38.288Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "1417d1f0",
+  "wikipediaSlug": "Alexander_Gelfond",
+  "wikipediaId": "Q716017",
+  "name": "Alexander Gelfond",
+  "fullName": "Alexander Gelfond",
+  "profileSummary": "Alexander Osipovich Gelfond was a Soviet mathematician. Gelfond's theorem, also known as the Gelfond–Schneider theorem, is named after him.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Gelfond",
+  "dateOfBirth": "1906-10-24",
+  "birthDateParsed": "1906-10-24",
+  "dateOfDeath": "1968-11-07",
+  "deathDateParsed": "1968-11-07",
+  "birthTime": null,
+  "birthCoordinatesLat": "59.95",
+  "birthCoordinatesLng": "30.316666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "mathematician",
+    "university teacher"
+  ],
+  "qid": "Q716017",
+  "birthPlace": "Saint Petersburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:47:20.561Z"
+}

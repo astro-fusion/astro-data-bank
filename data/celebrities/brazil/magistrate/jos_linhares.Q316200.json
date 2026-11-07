@@ -1,0 +1,36 @@
+{
+  "publicId": "3198ae97",
+  "wikipediaSlug": "José_Linhares",
+  "wikipediaId": "Q316200",
+  "name": "José Linhares",
+  "fullName": "José Linhares",
+  "profileSummary": "José Linhares was a Brazilian lawyer who briefly served as the interim president of Brazil in the final months of the Estado Novo. As President of the Supreme Federal Court, he was called by the Armed Forces to take over the Presidency following the ousting of Getúlio Vargas in 1945, to the inauguration of Eurico Gaspar Dutra, in 1946, which marked the beginning of what is known today as the Fourth Brazilian Republic.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jos%C3%A9_Linhares_TSE.jpg/330px-Jos%C3%A9_Linhares_TSE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Linhares",
+  "dateOfBirth": "1886-01-28",
+  "birthDateParsed": "1886-01-28",
+  "dateOfDeath": "1957-01-26",
+  "deathDateParsed": "1957-01-26",
+  "birthTime": null,
+  "birthCoordinatesLat": "-4.328888888",
+  "birthCoordinatesLng": "-38.885",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "magistrate",
+    "politician",
+    "lawyer",
+    "judge"
+  ],
+  "qid": "Q316200",
+  "birthPlace": "Baturité",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:47.596Z"
+}

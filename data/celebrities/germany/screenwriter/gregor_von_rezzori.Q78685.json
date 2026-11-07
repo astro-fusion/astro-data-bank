@@ -1,0 +1,37 @@
+{
+  "publicId": "78c9c8cf",
+  "wikipediaSlug": "Gregor_von_Rezzori",
+  "wikipediaId": "Q78685",
+  "name": "Gregor von Rezzori",
+  "fullName": "Gregor von Rezzori",
+  "profileSummary": "Gregor von Rezzori, born Gregor Arnulph Herbert Hilarius von Rezzori d'Arezzo, was an Austrian-born, Romanian, Bukovina-German German-language novelist, memoirist, screenwriter, and author of radio plays, as well as an actor, journalist, visual artist, art critic, and art collector.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gregor_von_Rezzori_signature_%28cropped%29.jpg/330px-Gregor_von_Rezzori_signature_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gregor_von_Rezzori",
+  "dateOfBirth": "1914-05-13",
+  "birthDateParsed": "1914-05-13",
+  "dateOfDeath": "1998-04-23",
+  "deathDateParsed": "1998-04-23",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.290833333",
+  "birthCoordinatesLng": "25.934444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "screenwriter",
+    "journalist",
+    "writer",
+    "film actor",
+    "actor"
+  ],
+  "qid": "Q78685",
+  "birthPlace": "Chernivtsi",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:11:34.474Z"
+}

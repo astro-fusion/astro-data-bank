@@ -1,0 +1,33 @@
+{
+  "publicId": "d1b6665c",
+  "wikipediaSlug": "Danilo_(footballer,_born_July_1991)",
+  "wikipediaId": "Q437329",
+  "name": "Danilo (footballer, born July 1991)",
+  "fullName": "Danilo (footballer, born July 1991)",
+  "profileSummary": "Danilo Luiz da Silva, known as Danilo, is a Brazilian professional footballer who plays as a centre-back or right-back for Campeonato Brasileiro Série A club Flamengo.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Danilo_and_Bilal_El_Khannouss_at_2026_FIFA_World_Cup_by_YantsImages_%28cropped%29.jpg/330px-Danilo_and_Bilal_El_Khannouss_at_2026_FIFA_World_Cup_by_YantsImages_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danilo_(footballer%2C_born_July_1991)",
+  "dateOfBirth": "1991-07-15",
+  "birthDateParsed": "1991-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.725",
+  "birthCoordinatesLng": "-43.058888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q437329",
+  "birthPlace": "Bicas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:01.576Z"
+}

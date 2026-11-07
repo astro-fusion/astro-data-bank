@@ -1,0 +1,33 @@
+{
+  "publicId": "38e7dc48",
+  "wikipediaSlug": "Roberto_Palazuelos",
+  "wikipediaId": "Q2613111",
+  "name": "Roberto Palazuelos",
+  "fullName": "Roberto Palazuelos",
+  "profileSummary": "Roberto Palazuelos Badeaux, better known as Roberto Palazuelos or El Diamante Negro, is a Mexican actor, model, and producer best known for his work in Mexican telenovelas.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Roberto_palazuelos.jpg/330px-Roberto_palazuelos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Palazuelos",
+  "dateOfBirth": "1967-01-31",
+  "birthDateParsed": "1967-01-31",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "16.8628695",
+  "birthCoordinatesLng": "-99.8870087",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "actor",
+    "businessperson"
+  ],
+  "qid": "Q2613111",
+  "birthPlace": "Acapulco de Juárez",
+  "fetchedAt": "2026-08-16T13:16:57.015Z"
+}

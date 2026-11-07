@@ -1,0 +1,33 @@
+{
+  "publicId": "b1c66821",
+  "wikipediaSlug": "Yury_Gazinsky",
+  "wikipediaId": "Q8061503",
+  "name": "Yury Gazinsky",
+  "fullName": "Yury Gazinsky",
+  "profileSummary": "Yury Aleksandrovich Gazinsky is a Russian former professional footballer who played as a defensive midfielder.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Russia-Aizer_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yury_Gazinsky",
+  "dateOfBirth": "1989-07-20",
+  "birthDateParsed": "1989-07-20",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.55",
+  "birthCoordinatesLng": "137",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q8061503",
+  "birthPlace": "Komsomolsk-on-Amur",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:37:12.046Z"
+}

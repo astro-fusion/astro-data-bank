@@ -1,0 +1,33 @@
+{
+  "publicId": "ebc8b6b3",
+  "wikipediaSlug": "Ditmar_Jakobs",
+  "wikipediaId": "Q680309",
+  "name": "Ditmar Jakobs",
+  "fullName": "Ditmar Jakobs",
+  "profileSummary": "Ditmar Jakobs is a German former footballer who played as a defender. He played as a centre-back, a classical libero in the mold of Franz Beckenbauer or Willi Schulz.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ditmar_Jakobs",
+  "dateOfBirth": "1953-08-28",
+  "birthDateParsed": "1953-08-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "51.4699",
+  "birthCoordinatesLng": "6.8514",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q680309",
+  "birthPlace": "Oberhausen",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:34.089Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "847221e6",
+  "wikipediaSlug": "Bai_Ling",
+  "wikipediaId": "Q464612",
+  "name": "Bai Ling",
+  "fullName": "Bai Ling",
+  "profileSummary": "Bai Ling is a Chinese American actress and musician. After acting in numerous Chinese productions, she played small roles in American films such as The Crow (1994) and Nixon (1995) before starring as the female lead in Red Corner (1997). She then went on to portray roles in Wild Wild West (1999), Anna and the King (1999), Taxi 3 (2003), Sky Captain and the World of Tomorrow (2004), Southland Tales (2006), and Crank: High Voltage (2009).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bai_Ling_-_German_Comic_Con_2019.jpg/330px-Bai_Ling_-_German_Comic_Con_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bai_Ling",
+  "dateOfBirth": "1966-10-10",
+  "birthDateParsed": "1966-10-10",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "30.66",
+  "birthCoordinatesLng": "104.063333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "military personnel",
+    "television actor",
+    "model",
+    "film actor",
+    "voice actor"
+  ],
+  "qid": "Q464612",
+  "birthPlace": "Chengdu",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:55.247Z"
+}

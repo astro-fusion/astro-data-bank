@@ -1,0 +1,31 @@
+{
+  "publicId": "53ece111",
+  "wikipediaSlug": "Elpidio_González",
+  "wikipediaId": "Q5367308",
+  "name": "Elpidio González",
+  "fullName": "Elpidio González",
+  "profileSummary": "Elpidio González was an Argentine politician of the Radical Civic Union. He was Vice President from 1922 to 1928 in the Marcelo T. de Alvear administration.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elpidio_Gonz%C3%A1lez.JPG/330px-Elpidio_Gonz%C3%A1lez.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elpidio_Gonz%C3%A1lez",
+  "dateOfBirth": "1875-08-01",
+  "birthDateParsed": "1875-08-01",
+  "dateOfDeath": "1951-10-18",
+  "deathDateParsed": "1951-10-18",
+  "birthTime": null,
+  "birthCoordinatesLat": "-32.9575",
+  "birthCoordinatesLng": "-60.639444444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [],
+  "qid": "Q5367308",
+  "birthPlace": "Rosario",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:31.804Z"
+}

@@ -1,0 +1,35 @@
+{
+  "publicId": "99eb1af5",
+  "wikipediaSlug": "Malaysia_Vasudevan",
+  "wikipediaId": "Q3524165",
+  "name": "Malaysia Vasudevan",
+  "fullName": "Malaysia Vasudevan",
+  "profileSummary": "Vasudevan, popularly known as Malaysia Vasudevan, was a Malaysian Indian playback singer and actor. Born in the town of Kuala Selangor in the Federated Malay States, he moved to Madras, Tamil Nadu to work in films. His voice was recently revived using AI in the song \"Manasilaayo\" from the 2024 Tamil film Vettaiyan.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Malaysia_Vasudevan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Malaysia_Vasudevan",
+  "dateOfBirth": "1944-06-15",
+  "birthDateParsed": "1944-06-15",
+  "dateOfDeath": "2011-02-20",
+  "deathDateParsed": "2011-02-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "3.341688888",
+  "birthCoordinatesLng": "101.246327777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "composer"
+  ],
+  "qid": "Q3524165",
+  "birthPlace": "Kuala Selangor",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:45.013Z"
+}

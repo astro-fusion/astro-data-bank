@@ -1,0 +1,33 @@
+{
+  "publicId": "40214bea",
+  "wikipediaSlug": "Ederson_(footballer,_born_1993)",
+  "wikipediaId": "Q17074511",
+  "name": "Ederson (footballer, born 1993)",
+  "fullName": "Ederson (footballer, born 1993)",
+  "profileSummary": "Ederson Santana de Moraes, simply known as Ederson, is a Brazilian professional footballer who plays as a goalkeeper for Süper Lig club Fenerbahçe and the Brazil national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ederson_Brazil_V_Morocco_13_June_2026-14_%28cropped%29.jpg/330px-Ederson_Brazil_V_Morocco_13_June_2026-14_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ederson_(footballer%2C_born_1993)",
+  "dateOfBirth": "1993-08-17",
+  "birthDateParsed": "1993-08-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": null,
+  "birthCoordinatesLng": null,
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q17074511",
+  "birthPlace": null,
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:03.074Z"
+}

@@ -1,0 +1,33 @@
+{
+  "publicId": "d59b14c4",
+  "wikipediaSlug": "Esperanza_Silva",
+  "wikipediaId": "Q5840226",
+  "name": "Esperanza Silva",
+  "fullName": "Esperanza Silva",
+  "profileSummary": "María Esperanza Silva Soura is a Chilean actress, theater director and union leader, with a career in theater, film and television. She is the daughter of the prominent Chilean announcer and actor Sergio Silva Acuña.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Esperanza_Silva_%285182618622%29_%28cropped%29.jpg/330px-Esperanza_Silva_%285182618622%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Esperanza_Silva",
+  "dateOfBirth": "1960-07-12",
+  "birthDateParsed": "1960-07-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "trade unionist"
+  ],
+  "qid": "Q5840226",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:45.508Z"
+}

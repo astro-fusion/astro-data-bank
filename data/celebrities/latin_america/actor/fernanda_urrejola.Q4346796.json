@@ -1,0 +1,34 @@
+{
+  "publicId": "cc89f069",
+  "wikipediaSlug": "Fernanda_Urrejola",
+  "wikipediaId": "Q4346796",
+  "name": "Fernanda Urrejola",
+  "fullName": "Fernanda Urrejola",
+  "profileSummary": "Fernanda Loreto Urrejola Arroyo is a Chilean television, theatre and film actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fernanda_Urrejola_-_Mujer_Metralleta_2_%28cropped%29.jpg/330px-Fernanda_Urrejola_-_Mujer_Metralleta_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernanda_Urrejola",
+  "dateOfBirth": "1981-09-24",
+  "birthDateParsed": "1981-09-24",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "screenwriter"
+  ],
+  "qid": "Q4346796",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:34.583Z"
+}

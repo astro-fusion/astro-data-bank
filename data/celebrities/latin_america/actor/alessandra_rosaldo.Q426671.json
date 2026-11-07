@@ -1,0 +1,36 @@
+{
+  "publicId": "a3196b97",
+  "wikipediaSlug": "Alessandra_Rosaldo",
+  "wikipediaId": "Q426671",
+  "name": "Alessandra Rosaldo",
+  "fullName": "Alessandra Rosaldo",
+  "profileSummary": "Alessandra Rosaldo is a Mexican actress, singer and dancer. In 2006, she was the winner of the first prize in Televisa Network's, later broadcast in Univision Bailando por un Sueño.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alessandra_Rosaldo_%28Premiere_Instructions_Not_Included%29.jpg/330px-Alessandra_Rosaldo_%28Premiere_Instructions_Not_Included%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alessandra_Rosaldo",
+  "dateOfBirth": "1971-09-11",
+  "birthDateParsed": "1971-09-11",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q426671",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:11.107Z"
+}

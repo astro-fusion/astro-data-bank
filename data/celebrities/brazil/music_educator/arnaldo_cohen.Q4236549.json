@@ -1,0 +1,35 @@
+{
+  "publicId": "0d4d1f16",
+  "wikipediaSlug": "Arnaldo_Cohen",
+  "wikipediaId": "Q4236549",
+  "name": "Arnaldo Cohen",
+  "fullName": "Arnaldo Cohen",
+  "profileSummary": "Arnaldo Cohen is a Brazilian pianist.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnaldo_Cohen",
+  "dateOfBirth": "1948-04-22",
+  "birthDateParsed": "1948-04-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "music educator",
+    "pianist",
+    "musician"
+  ],
+  "qid": "Q4236549",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:08.726Z"
+}

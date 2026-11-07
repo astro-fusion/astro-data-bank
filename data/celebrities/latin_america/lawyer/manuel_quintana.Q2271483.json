@@ -1,0 +1,35 @@
+{
+  "publicId": "dfbecbce",
+  "wikipediaSlug": "Manuel_Quintana",
+  "wikipediaId": "Q2271483",
+  "name": "Manuel Quintana",
+  "fullName": "Manuel Quintana",
+  "profileSummary": "Manuel Pedro Quintana Sáenz was the President of Argentina from 1904 until his death in 1906.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Manuel_Quintana_presidente.png/330px-Manuel_Quintana_presidente.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Quintana",
+  "dateOfBirth": "1835-10-19",
+  "birthDateParsed": "1835-10-19",
+  "dateOfDeath": "1906-03-12",
+  "deathDateParsed": "1906-03-12",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q2271483",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:58.763Z"
+}

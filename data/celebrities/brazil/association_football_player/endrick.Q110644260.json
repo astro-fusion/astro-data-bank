@@ -1,0 +1,33 @@
+{
+  "publicId": "dd5b71a2",
+  "wikipediaSlug": "Endrick",
+  "wikipediaId": "Q110644260",
+  "name": "Endrick",
+  "fullName": "Endrick",
+  "profileSummary": "Endrick Felipe Moreira de Sousa Pessoa, known mononymously as Endrick, is a Brazilian professional footballer who plays as a striker for La Liga club Real Madrid and the Brazil national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_%28Endrick%29.jpg/330px-Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_%28Endrick%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Endrick",
+  "dateOfBirth": "2006-07-21",
+  "birthDateParsed": "2006-07-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-15.833333333",
+  "birthCoordinatesLng": "-48.056388888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q110644260",
+  "birthPlace": "Taguatinga",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:24.302Z"
+}

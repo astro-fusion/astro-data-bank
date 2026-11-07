@@ -1,0 +1,33 @@
+{
+  "publicId": "17500a73",
+  "wikipediaSlug": "Josef_Posipal",
+  "wikipediaId": "Q706786",
+  "name": "Josef Posipal",
+  "fullName": "Josef Posipal",
+  "profileSummary": "Josef \"Jupp\" Posipal was a German footballer. Born in Romania, he was part of the Germany national team that won the 1954 FIFA World Cup. During his club career he played for SV Linden 07, SV Arminia Hannover, and Hamburger SV.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Josef_Posipal_1953.jpg/330px-Josef_Posipal_1953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josef_Posipal",
+  "dateOfBirth": "1927-06-20",
+  "birthDateParsed": "1927-06-20",
+  "dateOfDeath": "1997-02-21",
+  "deathDateParsed": "1997-02-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "45.686111111",
+  "birthCoordinatesLng": "21.900555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q706786",
+  "birthPlace": "Lugoj",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:17.131Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "439afc43",
+  "wikipediaSlug": "Ana_María_Gazmuri",
+  "wikipediaId": "Q5673906",
+  "name": "Ana María Gazmuri",
+  "fullName": "Ana María Gazmuri",
+  "profileSummary": "Ana María Gazmuri Vieira is a Chilean actress, politician and activist.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ana_Mar%C3%ADa_Gazmuri_Vieira.jpg/330px-Ana_Mar%C3%ADa_Gazmuri_Vieira.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Mar%C3%ADa_Gazmuri",
+  "dateOfBirth": "1966-01-22",
+  "birthDateParsed": "1966-01-22",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "politician"
+  ],
+  "qid": "Q5673906",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:37.741Z"
+}

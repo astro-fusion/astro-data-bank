@@ -1,0 +1,33 @@
+{
+  "publicId": "7a5fbca4",
+  "wikipediaSlug": "Aleksei_Chichibabin",
+  "wikipediaId": "Q725528",
+  "name": "Aleksei Chichibabin",
+  "fullName": "Aleksei Chichibabin",
+  "profileSummary": "Alekséy Yevgényevich Chichibábin was a Soviet Russian organic chemist. His name is also written Alexei Yevgenievich Chichibabin and Alexei Euguenievich Tchitchibabine.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D0%A7%D0%B8%D1%87%D0%B8%D0%B1%D0%B0%D0%B1%D0%B8%D0%BD_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksei_Chichibabin",
+  "dateOfBirth": "1871-03-29",
+  "birthDateParsed": "1871-03-29",
+  "dateOfDeath": "1945-08-15",
+  "deathDateParsed": "1945-08-15",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.146749652",
+  "birthCoordinatesLng": "34.650053441",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "chemist"
+  ],
+  "qid": "Q725528",
+  "birthPlace": "Kuzemin",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:40.306Z"
+}

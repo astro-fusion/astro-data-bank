@@ -1,0 +1,33 @@
+{
+  "publicId": "5dc26dc5",
+  "wikipediaSlug": "Gabriel_Martinelli",
+  "wikipediaId": "Q61460651",
+  "name": "Gabriel Martinelli",
+  "fullName": "Gabriel Martinelli",
+  "profileSummary": "Gabriel Teodoro Martinelli Silva is a Brazilian professional footballer who plays as a forward or left winger for Premier League club Arsenal and the Brazil national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gabriel_Martinelli_Brazil_V_Morocco_13_June_2026-144.jpg/330px-Gabriel_Martinelli_Brazil_V_Morocco_13_June_2026-144.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Martinelli",
+  "dateOfBirth": "2001-06-18",
+  "birthDateParsed": "2001-06-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.466666666",
+  "birthCoordinatesLng": "-46.533333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q61460651",
+  "birthPlace": "Guarulhos",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:56:35.968Z"
+}

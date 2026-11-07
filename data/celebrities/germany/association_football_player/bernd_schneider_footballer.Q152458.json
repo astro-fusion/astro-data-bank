@@ -1,0 +1,33 @@
+{
+  "publicId": "04f598bb",
+  "wikipediaSlug": "Bernd_Schneider_(footballer)",
+  "wikipediaId": "Q152458",
+  "name": "Bernd Schneider (footballer)",
+  "fullName": "Bernd Schneider (footballer)",
+  "profileSummary": "Bernd Schneider is a German former professional footballer who played as a midfielder. After retiring in June 2009, he took up an advisory role at his first club, Carl Zeiss Jena, and a scouting position at Bayer Leverkusen.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernd_Schneider.JPG/330px-Bernd_Schneider.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernd_Schneider_(footballer)",
+  "dateOfBirth": "1973-11-17",
+  "birthDateParsed": "1973-11-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.927222222",
+  "birthCoordinatesLng": "11.586388888",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q152458",
+  "birthPlace": "Jena",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:08.417Z"
+}

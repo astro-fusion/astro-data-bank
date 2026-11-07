@@ -1,0 +1,35 @@
+{
+  "publicId": "09af924c",
+  "wikipediaSlug": "Alexander_Pokryshkin",
+  "wikipediaId": "Q159582",
+  "name": "Alexander Pokryshkin",
+  "fullName": "Alexander Pokryshkin",
+  "profileSummary": "Alexander Ivanovich Pokryshkin was a Soviet fighter pilot in World War II, and later a marshal of aviation. He was one of the highest-scoring Soviet aces, and the highest-scoring pilot ever to fly an American aircraft, having achieved the great majority of his kills in the Lend-Lease Bell P-39 Airacobra. During the war Pokryshkin earned the title Hero of the Soviet Union three times: 24 May 1943, 24 August 1943, and 19 August 1944. After the war, he served in the Soviet Air Defense Forces, reaching the rank of Marshal of Aviation; he retired in 1981.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alexander_Pokryshkin_1_%28cropped%29.jpg/330px-Alexander_Pokryshkin_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Pokryshkin",
+  "dateOfBirth": "1913-02-21",
+  "birthDateParsed": "1913-02-21",
+  "dateOfDeath": "1985-11-13",
+  "deathDateParsed": "1985-11-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "55.033333333",
+  "birthCoordinatesLng": "82.916666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "aircraft pilot",
+    "fighter pilot",
+    "politician"
+  ],
+  "qid": "Q159582",
+  "birthPlace": "Novosibirsk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:53.207Z"
+}

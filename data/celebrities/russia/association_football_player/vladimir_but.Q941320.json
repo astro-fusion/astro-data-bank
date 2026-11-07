@@ -1,0 +1,33 @@
+{
+  "publicId": "2eca0901",
+  "wikipediaSlug": "Vladimir_But",
+  "wikipediaId": "Q941320",
+  "name": "Vladimir But",
+  "fullName": "Vladimir But",
+  "profileSummary": "Vladimir Vladimirovich But is a Russian former professional footballer who played as a midfielder. He works as director of sports for Chernomorets Novorossiysk.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_But",
+  "dateOfBirth": "1977-09-07",
+  "birthDateParsed": "1977-09-07",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "44.716666666",
+  "birthCoordinatesLng": "37.766666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q941320",
+  "birthPlace": "Novorossiysk",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:37:03.426Z"
+}

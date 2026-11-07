@@ -1,0 +1,35 @@
+{
+  "publicId": "f5b58f96",
+  "wikipediaSlug": "Luis_Sáenz_Peña",
+  "wikipediaId": "Q455709",
+  "name": "Luis Sáenz Peña",
+  "fullName": "Luis Sáenz Peña",
+  "profileSummary": "Luis Sáenz-Peña was a lawyer and President of Argentina. He was the father of president Roque Sáenz Peña.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luis_Saenz_Pena.jpg/330px-Luis_Saenz_Pena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_S%C3%A1enz_Pe%C3%B1a",
+  "dateOfBirth": "1822-04-02",
+  "birthDateParsed": "1822-04-02",
+  "dateOfDeath": "1907-12-10",
+  "deathDateParsed": "1907-12-10",
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "jurist"
+  ],
+  "qid": "Q455709",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:53:57.160Z"
+}

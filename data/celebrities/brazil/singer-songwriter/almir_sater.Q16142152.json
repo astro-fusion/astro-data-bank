@@ -1,0 +1,36 @@
+{
+  "publicId": "5f930b32",
+  "wikipediaSlug": "Almir_Sater",
+  "wikipediaId": "Q16142152",
+  "name": "Almir Sater",
+  "fullName": "Almir Sater",
+  "profileSummary": "Almir Eduardo Melke Sater is a Brazilian singer-songwriter and actor.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Show_com_Almir_Sater_em_Votuporanga_03.jpg/330px-Show_com_Almir_Sater_em_Votuporanga_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Almir_Sater",
+  "dateOfBirth": "1956-11-14",
+  "birthDateParsed": "1956-11-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-20.468611111",
+  "birthCoordinatesLng": "-54.622222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer-songwriter",
+    "actor",
+    "guitarist",
+    "violinist"
+  ],
+  "qid": "Q16142152",
+  "birthPlace": "Campo Grande",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:49.199Z"
+}

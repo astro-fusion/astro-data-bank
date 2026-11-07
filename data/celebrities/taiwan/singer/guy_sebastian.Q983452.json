@@ -1,0 +1,36 @@
+{
+  "publicId": "d9198cc4",
+  "wikipediaSlug": "Guy_Sebastian",
+  "wikipediaId": "Q983452",
+  "name": "Guy Sebastian",
+  "fullName": "Guy Sebastian",
+  "profileSummary": "Guy Theodore Sebastian is an Australian singer, songwriter and record producer who rose to fame after winning the first season of Australian Idol, in 2003. Born in Malaysia and raised in Adelaide, Australia, Sebastian has since released eleven top ten albums, including three achieving number one in Australia. Eight have gained either platinum or multi-platinum certification. He has also achieved twenty three top twenty singles, with fourteen of them, reaching the top ten, including six achieving number one in Australia. Sebastian is the only Australian male artist in Australian chart history to achieve six number one singles, and places third overall for all Australian acts. Twelve of his singles have been certified multi-platinum, including the 14× platinum \"Battle Scars\". His debut single \"Angels Brought Me Here\" was the highest selling song in Australia in the decade 2000 to 2009. With eighty-two platinum and seven gold certifications and combined album and single sales of over six million in Australia, Sebastian has the highest certifications and sales of any Australian Idol contestant.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/20150517_ESC_2015_Guy_Sebastian_1049.jpg/330px-20150517_ESC_2015_Guy_Sebastian_1049.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guy_Sebastian",
+  "dateOfBirth": "1981-10-26",
+  "birthDateParsed": "1981-10-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "3.033333333",
+  "birthCoordinatesLng": "101.45",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "singer-songwriter",
+    "record producer",
+    "musician"
+  ],
+  "qid": "Q983452",
+  "birthPlace": "Klang",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:11:11.405Z"
+}

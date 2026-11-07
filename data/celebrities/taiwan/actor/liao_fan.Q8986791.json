@@ -1,0 +1,35 @@
+{
+  "publicId": "03d1472a",
+  "wikipediaSlug": "Liao_Fan",
+  "wikipediaId": "Q8986791",
+  "name": "Liao Fan",
+  "fullName": "Liao Fan",
+  "profileSummary": "Liao Fan is a Chinese film and theatre actor. He is a graduate of Shanghai Theatre Academy. In February 2014 he won the Silver Bear for Best Actor at the 64th Berlin International Film Festival, for his performance in the film Black Coal, Thin Ice.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Liao_Fan_Berlinale_2014.jpg/330px-Liao_Fan_Berlinale_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Liao_Fan",
+  "dateOfBirth": "1974-02-14",
+  "birthDateParsed": "1974-02-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "28.19874",
+  "birthCoordinatesLng": "112.97087",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "stage actor",
+    "television actor"
+  ],
+  "qid": "Q8986791",
+  "birthPlace": "Changsha",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:09:42.631Z"
+}

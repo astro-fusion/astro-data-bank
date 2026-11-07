@@ -1,0 +1,42 @@
+{
+  "publicId": "461bb14a",
+  "wikipediaSlug": "Joseph_Goebbels",
+  "wikipediaId": "Q41749",
+  "name": "Joseph Goebbels",
+  "fullName": "Joseph Goebbels",
+  "profileSummary": "Paul Joseph Goebbels was a German politician and philologist who was the Gauleiter of Berlin, chief propagandist for the Nazi Party, and then Reich Minister of Propaganda from 1933 until his suicide in 1945. He was one of Adolf Hitler's closest and most devoted followers and was known for his skills in public speaking and his extreme antisemitism which was evident in his publicly voiced views. He advocated for progressively harsher discrimination, including the extermination of Jews and other groups in the Holocaust.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_146-1968-101-20A%2C_Joseph_Goebbels_%28cropped%29%28b%29.jpg/330px-Bundesarchiv_Bild_146-1968-101-20A%2C_Joseph_Goebbels_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Goebbels",
+  "dateOfBirth": "1897-10-29",
+  "birthDateParsed": "1897-10-29",
+  "dateOfDeath": "1945-05-01",
+  "deathDateParsed": "1945-05-01",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.166666666",
+  "birthCoordinatesLng": "6.45",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "diarist",
+    "autobiographer",
+    "journalist",
+    "novelist",
+    "propagandist",
+    "screenwriter",
+    "demagogue",
+    "writer",
+    "Holocaust perpetrator"
+  ],
+  "qid": "Q41749",
+  "birthPlace": "Rheydt",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:08:39.069Z"
+}

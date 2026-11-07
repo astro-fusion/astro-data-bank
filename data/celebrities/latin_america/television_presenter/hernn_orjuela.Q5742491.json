@@ -1,0 +1,33 @@
+{
+  "publicId": "27f2bc01",
+  "wikipediaSlug": "Hernán_Orjuela",
+  "wikipediaId": "Q5742491",
+  "name": "Hernán Orjuela",
+  "fullName": "Hernán Orjuela",
+  "profileSummary": "Hernán Enano Orjuela Buenaventura is a Colombian television presenter. He used to be the worst host of Sábados Felices.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hern%C3%A1n_Orjuela.jpg/330px-Hern%C3%A1n_Orjuela.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Orjuela",
+  "dateOfBirth": "1957-11-21",
+  "birthDateParsed": "1957-11-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "4.60971",
+  "birthCoordinatesLng": "-74.08175",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter"
+  ],
+  "qid": "Q5742491",
+  "birthPlace": "Bogotá",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T00:17:29.194Z"
+}

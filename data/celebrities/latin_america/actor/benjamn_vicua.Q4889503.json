@@ -1,0 +1,38 @@
+{
+  "publicId": "2fc4c3ec",
+  "wikipediaSlug": "Benjamín_Vicuña",
+  "wikipediaId": "Q4889503",
+  "name": "Benjamín Vicuña",
+  "fullName": "Benjamín Vicuña",
+  "profileSummary": "Benjamín Vicuña Luco is a Chilean actor and entrepreneur.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Benjamin_Vicu%C3%B1a_en_2009_%28cropped%29.jpg/330px-Benjamin_Vicu%C3%B1a_en_2009_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjam%C3%ADn_Vicu%C3%B1a",
+  "dateOfBirth": "1977-11-29",
+  "birthDateParsed": "1977-11-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "businessperson",
+    "model",
+    "television actor",
+    "film producer"
+  ],
+  "qid": "Q4889503",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:22:44.626Z"
+}

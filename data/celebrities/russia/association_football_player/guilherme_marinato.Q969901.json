@@ -1,0 +1,33 @@
+{
+  "publicId": "5e015aeb",
+  "wikipediaSlug": "Guilherme_Marinato",
+  "wikipediaId": "Q969901",
+  "name": "Guilherme Marinato",
+  "fullName": "Guilherme Marinato",
+  "profileSummary": "Guilherme Alvim Marinato or simply Guilherme is а former professional footballer who played as a goalkeeper. Born in Brazil, he represented the Russia national team.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guilherme_Marinato_2021.jpg/330px-Guilherme_Marinato_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Guilherme_Marinato",
+  "dateOfBirth": "1985-12-12",
+  "birthDateParsed": "1985-12-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.388888888",
+  "birthCoordinatesLng": "-42.696944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q969901",
+  "birthPlace": "Cataguases",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:36:19.776Z"
+}

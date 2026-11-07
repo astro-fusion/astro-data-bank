@@ -1,0 +1,35 @@
+{
+  "publicId": "09a7a602",
+  "wikipediaSlug": "Imanol_Landeta",
+  "wikipediaId": "Q339785",
+  "name": "Imanol Landeta",
+  "fullName": "Imanol Landeta",
+  "profileSummary": "Imanol Landeta, more commonly known simply as Imanol, is a Mexican former singer and actor. His acting career started with the film Última llamada in 1996, and he has appeared in almost a dozen films and television series since. He is the son of actor Manuel Landeta. Imanol Landeta began working as an airplane pilot after retiring from show business.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Imanol_Landeta",
+  "dateOfBirth": "1987-07-23",
+  "birthDateParsed": "1987-07-23",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "television actor"
+  ],
+  "qid": "Q339785",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:24:09.132Z"
+}

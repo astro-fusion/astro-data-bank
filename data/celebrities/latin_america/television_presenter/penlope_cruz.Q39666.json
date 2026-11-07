@@ -1,0 +1,40 @@
+{
+  "publicId": "fb507370",
+  "wikipediaSlug": "Penélope_Cruz",
+  "wikipediaId": "Q39666",
+  "name": "Penélope Cruz",
+  "fullName": "Penélope Cruz",
+  "profileSummary": "Penélope Cruz Sánchez is a Spanish actress. Prolific in Spanish and English-language films, her accolades include an Academy Award, BAFTA Award, a David di Donatello and three Goya Awards.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Goyas_2024_-_Pen%C3%A9lope_Cruz-2_%28cropped%29.jpg/330px-Goyas_2024_-_Pen%C3%A9lope_Cruz-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
+  "dateOfBirth": "1974-04-28",
+  "birthDateParsed": "1974-04-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.533333333",
+  "birthCoordinatesLng": "-3.633333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television presenter",
+    "film actor",
+    "television actor",
+    "presenter",
+    "voice actor",
+    "photographer",
+    "film director",
+    "actor"
+  ],
+  "qid": "Q39666",
+  "birthPlace": "Alcobendas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:37.293Z"
+}

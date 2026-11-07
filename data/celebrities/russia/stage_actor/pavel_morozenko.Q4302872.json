@@ -1,0 +1,34 @@
+{
+  "publicId": "7e8fb8af",
+  "wikipediaSlug": "Pavel_Morozenko",
+  "wikipediaId": "Q4302872",
+  "name": "Pavel Morozenko",
+  "fullName": "Pavel Morozenko",
+  "profileSummary": "Pavel Semyonovich Morozenko was a Soviet theatre and film actor, Merited artist of the Ukrainian SSR (1973).",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavel_Morozenko",
+  "dateOfBirth": "1939-07-05",
+  "birthDateParsed": "1939-07-05",
+  "dateOfDeath": "1991-07-14",
+  "deathDateParsed": "1991-07-14",
+  "birthTime": null,
+  "birthCoordinatesLat": "48.016666666",
+  "birthCoordinatesLng": "38.766666666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q4302872",
+  "birthPlace": "Snizhne",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:32:03.315Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "bff761d3",
+  "wikipediaSlug": "Pancho_Villa",
+  "wikipediaId": "Q192278",
+  "name": "Pancho Villa",
+  "fullName": "Pancho Villa",
+  "profileSummary": "Francisco \"Pancho\" Villa was a Mexican revolutionary, guerrilla leader, and politician. He was a key figure in the Mexican Revolution, which forced out President and dictator Porfirio Díaz, subsequently ending the Porfiriato, and brought Francisco I. Madero to power in 1911. When Madero was ousted by a coup led by General Victoriano Huerta in February 1913, Villa joined the anti-Huerta forces in the Constitutionalist Army led by Venustiano Carranza. After the defeat and exile of Huerta in July 1914, Villa broke with Carranza. Villa dominated the meeting of revolutionary generals that excluded Carranza and helped create a coalition government. Emiliano Zapata and Villa became formal allies in this period. Like Zapata, Villa was strongly in favor of land reform, but did not implement it when he had power. Villa served as provisional governor of Chihuahua from 1913 to 1914.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/General_Francisco_Villa_%28cropped%29.jpg/330px-General_Francisco_Villa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Pancho_Villa",
+  "dateOfBirth": "1878-06-05",
+  "birthDateParsed": "1878-06-05",
+  "dateOfDeath": "1923-07-20",
+  "deathDateParsed": "1923-07-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "24.7775",
+  "birthCoordinatesLng": "-104.459166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "partisan",
+    "national hero",
+    "revolutionary"
+  ],
+  "qid": "Q192278",
+  "birthPlace": "San Juan del Río del Centauro del Norte",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:14:14.649Z"
+}

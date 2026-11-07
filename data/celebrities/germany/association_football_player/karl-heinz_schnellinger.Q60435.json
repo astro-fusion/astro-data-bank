@@ -1,0 +1,33 @@
+{
+  "publicId": "e17f3b34",
+  "wikipediaSlug": "Karl-Heinz_Schnellinger",
+  "wikipediaId": "Q60435",
+  "name": "Karl-Heinz Schnellinger",
+  "fullName": "Karl-Heinz Schnellinger",
+  "profileSummary": "Karl-Heinz Schnellinger was a German footballer who played as a defender.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Karl-Heinz_Schnellinger.jpg/330px-Karl-Heinz_Schnellinger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl-Heinz_Schnellinger",
+  "dateOfBirth": "1939-03-31",
+  "birthDateParsed": "1939-03-31",
+  "dateOfDeath": "2024-05-20",
+  "deathDateParsed": "2024-05-20",
+  "birthTime": null,
+  "birthCoordinatesLat": "50.8031684",
+  "birthCoordinatesLng": "6.4820806",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q60435",
+  "birthPlace": "Düren",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:43:06.476Z"
+}

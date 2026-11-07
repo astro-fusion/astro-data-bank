@@ -1,0 +1,35 @@
+{
+  "publicId": "6981b167",
+  "wikipediaSlug": "Daniel_Alcaíno",
+  "wikipediaId": "Q5216381",
+  "name": "Daniel Alcaíno",
+  "fullName": "Daniel Alcaíno",
+  "profileSummary": "Daniel Alcaíno Cuevas is a Chilean actor and comedian. He is popularly known for his comedy characters Peter Veneno, and Yerko Puchento, an outspoken showbusiness journalist and political satirist. Although he has gain further recognition for dramatic roles as well such as Exequiel Pacheco in Los 80 and Mario Medina in 42 Days of Darkness.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Daniel_Alcaino_2023.jpg/330px-Daniel_Alcaino_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Alca%C3%ADno",
+  "dateOfBirth": "1972-04-06",
+  "birthDateParsed": "1972-04-06",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-33.4375",
+  "birthCoordinatesLng": "-70.65",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "comedian",
+    "actor",
+    "television actor"
+  ],
+  "qid": "Q5216381",
+  "birthPlace": "Santiago",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:24:03.288Z"
+}

@@ -1,0 +1,37 @@
+{
+  "publicId": "3801cd80",
+  "wikipediaSlug": "Dagmar_Koller",
+  "wikipediaId": "Q94715",
+  "name": "Dagmar Koller",
+  "fullName": "Dagmar Koller",
+  "profileSummary": "Dagmar Koller is an Austrian actress and singer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/1272Dagmar_Koller.JPG/330px-1272Dagmar_Koller.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Dagmar_Koller",
+  "dateOfBirth": "1939-08-26",
+  "birthDateParsed": "1939-08-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "46.616666666",
+  "birthCoordinatesLng": "14.3",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film actor",
+    "dancer",
+    "musician"
+  ],
+  "qid": "Q94715",
+  "birthPlace": "Klagenfurt am Wörthersee",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:10:30.352Z"
+}

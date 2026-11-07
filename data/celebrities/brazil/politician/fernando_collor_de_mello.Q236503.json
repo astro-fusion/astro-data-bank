@@ -1,0 +1,34 @@
+{
+  "publicId": "c3c3c701",
+  "wikipediaSlug": "Fernando_Collor_de_Mello",
+  "wikipediaId": "Q236503",
+  "name": "Fernando Collor de Mello",
+  "fullName": "Fernando Collor de Mello",
+  "profileSummary": "Fernando Affonso Collor de Mello is a Brazilian politician who served as the 32nd president of Brazil from 1990 to 1992, when he resigned in a failed attempt to stop his impeachment trial by the Brazilian Senate. Collor was the first president democratically elected after the end of the Brazilian military dictatorship. He became the youngest president in Brazilian history, taking office at the age of 40. After he resigned from the presidency, the impeachment trial on charges of corruption continued. Collor was found guilty by the Senate and disqualified from holding elected office for eight years (1992–2000). He was later acquitted of ordinary criminal charges in his judicial trial before Brazil's Supreme Federal Court, for lack of valid evidence.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Foto_oficial_do_presidente_Fernando_Collor_de_Melo._%2838405801411%29.jpg/330px-Foto_oficial_do_presidente_Fernando_Collor_de_Melo._%2838405801411%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Collor_de_Mello",
+  "dateOfBirth": "1949-08-12",
+  "birthDateParsed": "1949-08-12",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "writer"
+  ],
+  "qid": "Q236503",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:11.213Z"
+}

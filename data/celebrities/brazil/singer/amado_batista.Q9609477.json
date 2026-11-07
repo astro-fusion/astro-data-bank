@@ -1,0 +1,34 @@
+{
+  "publicId": "188f16b4",
+  "wikipediaSlug": "Amado_Batista",
+  "wikipediaId": "Q9609477",
+  "name": "Amado Batista",
+  "fullName": "Amado Batista",
+  "profileSummary": "Amado Batista is a Brazilian singer. He also acted in some Brazilian films of the 1980s. He placed 86 in the poll O Maior Brasileiro de Todos os Tempos. During his more than 40 years of career, he recorded 38 albums and sold more than 13 million records, received hundreds of awards, including 28 gold, 28 platinum and one diamond records, consecrating himself as one of the artists best selling in the history of Brazilian music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Amado_batista.jpg/330px-Amado_batista.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amado_Batista",
+  "dateOfBirth": "1951-02-17",
+  "birthDateParsed": "1951-02-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-15.883333333",
+  "birthCoordinatesLng": "-49.833333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "recording artist"
+  ],
+  "qid": "Q9609477",
+  "birthPlace": "Goiás",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:27:44.987Z"
+}

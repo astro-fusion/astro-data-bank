@@ -1,0 +1,34 @@
+{
+  "publicId": "a009824a",
+  "wikipediaSlug": "Amarildo_(footballer,_born_1939)",
+  "wikipediaId": "Q454934",
+  "name": "Amarildo (footballer, born 1939)",
+  "fullName": "Amarildo (footballer, born 1939)",
+  "profileSummary": "Amarildo Tavares da Silveira, also known as Amarildo, is a Brazilian former footballer who played as a striker. He is the only living player who participated in the 1962 World Cup final.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Amarildo_en_1965_au_Milan_AC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Amarildo_(footballer%2C_born_1939)",
+  "dateOfBirth": "1939-07-29",
+  "birthDateParsed": "1939-07-29",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-21.753888888",
+  "birthCoordinatesLng": "-41.323888888",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach"
+  ],
+  "qid": "Q454934",
+  "birthPlace": "Campos dos Goytacazes",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:26.272Z"
+}

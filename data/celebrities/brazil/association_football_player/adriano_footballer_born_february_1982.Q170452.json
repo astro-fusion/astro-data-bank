@@ -1,0 +1,33 @@
+{
+  "publicId": "2d9e3990",
+  "wikipediaSlug": "Adriano_(footballer,_born_February_1982)",
+  "wikipediaId": "Q170452",
+  "name": "Adriano (footballer, born February 1982)",
+  "fullName": "Adriano (footballer, born February 1982)",
+  "profileSummary": "Adriano Leite Ribeiro is a Brazilian former professional footballer. He had four prolific seasons in Italy with Italian clubs Parma and Inter Milan, being considered one of the best strikers in the world during this time and earning the nickname of L'Imperatore.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Adriano_2009_%28cropped%29.jpg/330px-Adriano_2009_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriano_(footballer%2C_born_February_1982)",
+  "dateOfBirth": "1982-02-17",
+  "birthDateParsed": "1982-02-17",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q170452",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:55:13.803Z"
+}

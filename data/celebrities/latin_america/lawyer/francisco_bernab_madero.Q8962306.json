@@ -1,0 +1,34 @@
+{
+  "publicId": "a8adc95b",
+  "wikipediaSlug": "Francisco_Bernabé_Madero",
+  "wikipediaId": "Q8962306",
+  "name": "Francisco Bernabé Madero",
+  "fullName": "Francisco Bernabé Madero",
+  "profileSummary": "Francisco Bernabé Madero was an Argentine lawyer and politician. He served as Vice President of Argentina, and founded the town of Maipú.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Francisco_B_Madero.JPG/330px-Francisco_B_Madero.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Bernab%C3%A9_Madero",
+  "dateOfBirth": "1816-10-14",
+  "birthDateParsed": "1816-10-14",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-34.599722222",
+  "birthCoordinatesLng": "-58.381944444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician"
+  ],
+  "qid": "Q8962306",
+  "birthPlace": "Buenos Aires",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T23:52:47.658Z"
+}

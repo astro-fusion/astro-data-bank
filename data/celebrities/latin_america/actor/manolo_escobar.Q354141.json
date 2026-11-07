@@ -1,0 +1,36 @@
+{
+  "publicId": "2cd84f8e",
+  "wikipediaSlug": "Manolo_Escobar",
+  "wikipediaId": "Q354141",
+  "name": "Manolo Escobar",
+  "fullName": "Manolo Escobar",
+  "profileSummary": "Manuel García Escobar, better known as Manolo Escobar, was a Spanish singer of Andalusian copla and other Spanish music. He was also an actor and performed in multiple musicals. His popular songs include \"El Porompompero\" (1962), \"Mi carro\" (1969), \"La minifalda\", and \"Y viva España\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Manolo_Escobar_2010_-_Foto_Pedro_Andreo_%28cropped%29.jpg/330px-Manolo_Escobar_2010_-_Foto_Pedro_Andreo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Manolo_Escobar",
+  "dateOfBirth": "1931-10-19",
+  "birthDateParsed": "1931-10-19",
+  "dateOfDeath": "2013-10-24",
+  "deathDateParsed": "2013-10-24",
+  "birthTime": null,
+  "birthCoordinatesLat": "36.7575",
+  "birthCoordinatesLng": "-2.751111111",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "stage actor",
+    "film actor"
+  ],
+  "qid": "Q354141",
+  "birthPlace": "Las Norias",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:48:49.346Z"
+}

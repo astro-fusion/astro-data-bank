@@ -1,0 +1,35 @@
+{
+  "publicId": "db52c9fb",
+  "wikipediaSlug": "Gerald_Asamoah",
+  "wikipediaId": "Q107829",
+  "name": "Gerald Asamoah",
+  "fullName": "Gerald Asamoah",
+  "profileSummary": "Gerald Asamoah is a German football executive and former professional player who works as the first-team manager of Schalke 04.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gerald_Asamoah_%E2%80%93_Tag_der_Legenden_2016_02.jpg/330px-Gerald_Asamoah_%E2%80%93_Tag_der_Legenden_2016_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerald_Asamoah",
+  "dateOfBirth": "1978-10-03",
+  "birthDateParsed": "1978-10-03",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "7.066666666",
+  "birthCoordinatesLng": "-1.4",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player",
+    "association football coach",
+    "functionary"
+  ],
+  "qid": "Q107829",
+  "birthPlace": "Mampong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:42:55.847Z"
+}

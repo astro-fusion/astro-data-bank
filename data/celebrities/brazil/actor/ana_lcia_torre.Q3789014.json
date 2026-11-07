@@ -1,0 +1,36 @@
+{
+  "publicId": "60dc0801",
+  "wikipediaSlug": "Ana_Lúcia_Torre",
+  "wikipediaId": "Q3789014",
+  "name": "Ana Lúcia Torre",
+  "fullName": "Ana Lúcia Torre",
+  "profileSummary": "Ana Lúcia Torre Rodrigues is a Brazilian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2023-07-17_Pr%C3%AAmio_APCA_2023%2C_Ana_L%C3%BAcia_Torre.jpg/330px-2023-07-17_Pr%C3%AAmio_APCA_2023%2C_Ana_L%C3%BAcia_Torre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_L%C3%BAcia_Torre",
+  "dateOfBirth": "1945-04-21",
+  "birthDateParsed": "1945-04-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-23.550394444",
+  "birthCoordinatesLng": "-46.633947222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film actor",
+    "television actor",
+    "stage actor"
+  ],
+  "qid": "Q3789014",
+  "birthPlace": "São Paulo",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:32:20.594Z"
+}

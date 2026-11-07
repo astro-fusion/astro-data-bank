@@ -1,0 +1,33 @@
+{
+  "publicId": "ffda2ffa",
+  "wikipediaSlug": "Bélgica_Castro",
+  "wikipediaId": "Q5736476",
+  "name": "Bélgica Castro",
+  "fullName": "Bélgica Castro",
+  "profileSummary": "Bélgica Castro Sierra was a Chilean stage, film, and television actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Belgica_Castro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/B%C3%A9lgica_Castro",
+  "dateOfBirth": "1921-03-06",
+  "birthDateParsed": "1921-03-06",
+  "dateOfDeath": "2020-03-06",
+  "deathDateParsed": "2020-03-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "-36.826944444",
+  "birthCoordinatesLng": "-73.050277777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q5736476",
+  "birthPlace": "Concepción",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:23:47.976Z"
+}

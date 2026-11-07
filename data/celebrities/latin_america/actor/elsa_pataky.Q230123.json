@@ -1,0 +1,37 @@
+{
+  "publicId": "591b856c",
+  "wikipediaSlug": "Elsa_Pataky",
+  "wikipediaId": "Q230123",
+  "name": "Elsa Pataky",
+  "fullName": "Elsa Pataky",
+  "profileSummary": "Elsa Lafuente Medianu, known professionally as Elsa Pataky, is a Spanish model and actress. Pataky is known for her leading role of Raquel Alonso in the Spanish teen drama Al salir de Clase (1997–2002), before garnering international recognition as Elena Neves in the Fast & Furious franchise. She has appeared in the films Snakes on a Plane (2006), Giallo (2009) and Give 'Em Hell, Malone (2009). She also starred in the Spanish film Di Di Hollywood (2010) and played Mr. Norton and the Vuvalini General in Furiosa: A Mad Max Saga (2024) in a dual role.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Elsa_Pataky_Cannes_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Elsa_Pataky",
+  "dateOfBirth": "1976-07-18",
+  "birthDateParsed": "1976-07-18",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "40.416944444",
+  "birthCoordinatesLng": "-3.703333333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "film producer",
+    "model",
+    "singer",
+    "film actor"
+  ],
+  "qid": "Q230123",
+  "birthPlace": "Madrid",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:47:53.685Z"
+}

@@ -1,0 +1,38 @@
+{
+  "publicId": "2911075d",
+  "wikipediaSlug": "Josephine_Siao",
+  "wikipediaId": "Q709927",
+  "name": "Josephine Siao",
+  "fullName": "Josephine Siao",
+  "profileSummary": "Josephine Siao Fong-fong is a Hong Kong film star who became popular as a child actress and continued her success as a mature actress, winning numerous awards including Best Actress at the 45th Berlin International Film Festival. Since retiring from show business, she has become a writer and a psychologist, known for her work against child abuse.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Josephine_Siao_20260425.jpg/330px-Josephine_Siao_20260425.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Josephine_Siao",
+  "dateOfBirth": "1947-03-13",
+  "birthDateParsed": "1947-03-13",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "31.2325",
+  "birthCoordinatesLng": "121.469166666",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "psychologist",
+    "singer",
+    "film director",
+    "film actor",
+    "screenwriter"
+  ],
+  "qid": "Q709927",
+  "birthPlace": "Shanghai",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:55.136Z"
+}

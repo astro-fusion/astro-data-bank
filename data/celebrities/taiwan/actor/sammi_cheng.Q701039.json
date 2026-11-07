@@ -1,0 +1,35 @@
+{
+  "publicId": "cf11bbb6",
+  "wikipediaSlug": "Sammi_Cheng",
+  "wikipediaId": "Q701039",
+  "name": "Sammi Cheng",
+  "fullName": "Sammi Cheng",
+  "profileSummary": "Sammi Cheng Sau-man is a Hong Kong singer and actress. She is one of the most prominent female singers in Hong Kong, with album sales of over 25 million copies throughout the Asia-pacific. Most notably in the 1990s, she was dubbed by the media as the \"Cantopop Diva\". Having success in entertainment industry for over three decades, Cheng also played roles in Hong Kong rom-com films in the early 2000s that were box office hits. For her performance in the 2022 film Lost Love, she won 4 best actress honors including the Hong Kong Film Award for Best Actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sammi_Cheng_2023_%28cropped%29.jpg/330px-Sammi_Cheng_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sammi_Cheng",
+  "dateOfBirth": "1972-08-19",
+  "birthDateParsed": "1972-08-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.280068253",
+  "birthCoordinatesLng": "114.160327229",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "recording artist"
+  ],
+  "qid": "Q701039",
+  "birthPlace": "British Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:41:08.743Z"
+}

@@ -1,0 +1,34 @@
+{
+  "publicId": "372c6b19",
+  "wikipediaSlug": "Fey_(singer)",
+  "wikipediaId": "Q508962",
+  "name": "Fey (singer)",
+  "fullName": "Fey (singer)",
+  "profileSummary": "María Fernanda Blázquez Gil, known professionally as Fey, is a Mexican singer and songwriter. She rose to prominence with her first three studio albums, which established her as a teen idol and fashion icon in Latin America during the 1990s.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fey_%288343795672%29.jpg/330px-Fey_%288343795672%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fey_(singer)",
+  "dateOfBirth": "1973-07-21",
+  "birthDateParsed": "1973-07-21",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "recording artist"
+  ],
+  "qid": "Q508962",
+  "birthPlace": "Mexico City",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:23:14.538Z"
+}

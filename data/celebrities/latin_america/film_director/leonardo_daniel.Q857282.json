@@ -1,0 +1,33 @@
+{
+  "publicId": "68fea788",
+  "wikipediaSlug": "Leonardo_Daniel",
+  "wikipediaId": "Q857282",
+  "name": "Leonardo Daniel",
+  "fullName": "Leonardo Daniel",
+  "profileSummary": "Leonardo Daniel is a Mexican actor and director. His real name is Leonardo Daniel López de Rodas García.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonardo_Daniel",
+  "dateOfBirth": "1954-06-26",
+  "birthDateParsed": "1954-06-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.353773",
+  "birthCoordinatesLng": "-99.13589",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "film director",
+    "television actor",
+    "film actor"
+  ],
+  "qid": "Q857282",
+  "birthPlace": "Mexico City",
+  "fetchedAt": "2026-08-16T13:16:51.478Z"
+}

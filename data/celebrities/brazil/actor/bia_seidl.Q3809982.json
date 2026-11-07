@@ -1,0 +1,33 @@
+{
+  "publicId": "656087b3",
+  "wikipediaSlug": "Bia_Seidl",
+  "wikipediaId": "Q3809982",
+  "name": "Bia Seidl",
+  "fullName": "Bia Seidl",
+  "profileSummary": "Maria Beatriz Parpinelli Seidl is a Brazilian actress.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bia_Wiki.jpg/330px-Bia_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bia_Seidl",
+  "dateOfBirth": "1961-09-19",
+  "birthDateParsed": "1961-09-19",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor"
+  ],
+  "qid": "Q3809982",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:33:09.270Z"
+}

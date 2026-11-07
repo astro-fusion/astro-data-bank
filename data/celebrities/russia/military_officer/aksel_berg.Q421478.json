@@ -1,0 +1,37 @@
+{
+  "publicId": "cf6a80c7",
+  "wikipediaSlug": "Aksel_Berg",
+  "wikipediaId": "Q421478",
+  "name": "Aksel Berg",
+  "fullName": "Aksel Berg",
+  "profileSummary": "Aksel Ivanovich Berg was a Soviet scientist in radio-frequency engineering and Soviet Navy Admiral, Hero of Socialist Labour. He was a key figure in the introduction of cybernetics to the Soviet Union.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Aksel_Ivanovich_Berg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aksel_Berg",
+  "dateOfBirth": "1893-11-10",
+  "birthDateParsed": "1893-11-10",
+  "dateOfDeath": "1979-07-09",
+  "deathDateParsed": "1979-07-09",
+  "birthTime": null,
+  "birthCoordinatesLat": "51.766666666",
+  "birthCoordinatesLng": "55.1",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "military officer",
+    "submariner",
+    "engineer",
+    "admiral",
+    "physicist"
+  ],
+  "qid": "Q421478",
+  "birthPlace": "Orenburg",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T13:46:06.400Z"
+}

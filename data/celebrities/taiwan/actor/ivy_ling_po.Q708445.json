@@ -1,0 +1,35 @@
+{
+  "publicId": "aec468bf",
+  "wikipediaSlug": "Ivy_Ling_Po",
+  "wikipediaId": "Q708445",
+  "name": "Ivy Ling Po",
+  "fullName": "Ivy Ling Po",
+  "profileSummary": "Huang Yuet-chu, known professionally by her stage name Ivy Ling Po, is a retired actress and Chinese opera singer from Hong Kong. She gained widespread fame during the 1960s for her roles in several popular Huangmei opera films; most notably The Love Eterne (1963).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ivy_Ling_Po_1960s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivy_Ling_Po",
+  "dateOfBirth": "1939-11-16",
+  "birthDateParsed": "1939-11-16",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "23.353888888",
+  "birthCoordinatesLng": "116.682222222",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "singer",
+    "film director"
+  ],
+  "qid": "Q708445",
+  "birthPlace": "Shantou",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:40:33.449Z"
+}

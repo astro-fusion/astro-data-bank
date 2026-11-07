@@ -1,0 +1,35 @@
+{
+  "publicId": "fe6fae13",
+  "wikipediaSlug": "Campos_Sales",
+  "wikipediaId": "Q382919",
+  "name": "Campos Sales",
+  "fullName": "Campos Sales",
+  "profileSummary": "Manoel Ferraz de Campos Sales was a Brazilian lawyer, coffee farmer, and politician who served as the fourth president of Brazil from 1898 to 1902.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Campos_Sales.jpg/330px-Campos_Sales.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Campos_Sales",
+  "dateOfBirth": "1841-02-15",
+  "birthDateParsed": "1841-02-15",
+  "dateOfDeath": "1913-06-28",
+  "deathDateParsed": "1913-06-28",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.900913888",
+  "birthCoordinatesLng": "-47.057294444",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "lawyer",
+    "politician",
+    "farmer"
+  ],
+  "qid": "Q382919",
+  "birthPlace": "Campinas",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:18.877Z"
+}

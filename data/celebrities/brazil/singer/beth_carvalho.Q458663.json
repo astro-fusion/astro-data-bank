@@ -1,0 +1,33 @@
+{
+  "publicId": "7ad1dfc4",
+  "wikipediaSlug": "Beth_Carvalho",
+  "wikipediaId": "Q458663",
+  "name": "Beth Carvalho",
+  "fullName": "Beth Carvalho",
+  "profileSummary": "Elizabeth Santos Leal de Carvalho was a Brazilian samba singer, guitarist, cavaquinist, and composer.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beth_Carvalho_%282011%29.jpg/330px-Beth_Carvalho_%282011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Beth_Carvalho",
+  "dateOfBirth": "1946-05-05",
+  "birthDateParsed": "1946-05-05",
+  "dateOfDeath": "2019-04-30",
+  "deathDateParsed": "2019-04-30",
+  "birthTime": null,
+  "birthCoordinatesLat": "-22.911111111",
+  "birthCoordinatesLng": "-43.205555555",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer"
+  ],
+  "qid": "Q458663",
+  "birthPlace": "Rio de Janeiro",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:44.159Z"
+}

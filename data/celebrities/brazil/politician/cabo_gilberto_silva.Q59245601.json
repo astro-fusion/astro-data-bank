@@ -1,0 +1,34 @@
+{
+  "publicId": "9b1cda3b",
+  "wikipediaSlug": "Cabo_Gilberto_Silva",
+  "wikipediaId": "Q59245601",
+  "name": "Cabo Gilberto Silva",
+  "fullName": "Cabo Gilberto Silva",
+  "profileSummary": "Gilberto Gomes da Silva, better known as Cabo Gilberto Silva, is a Brazilian politician serving as a federal deputy in the Chamber of Deputies since 2023.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cabo_Gilberto_Silva_in_2025_%283x4%29.jpg/330px-Cabo_Gilberto_Silva_in_2025_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cabo_Gilberto_Silva",
+  "dateOfBirth": "1981-04-01",
+  "birthDateParsed": "1981-04-01",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "-7.113888888",
+  "birthCoordinatesLng": "-34.977777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "police officer"
+  ],
+  "qid": "Q59245601",
+  "birthPlace": "Santa Rita",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:22:12.673Z"
+}

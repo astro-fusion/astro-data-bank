@@ -1,0 +1,34 @@
+{
+  "publicId": "66045fa0",
+  "wikipediaSlug": "Francisco_Lagos_Cházaro",
+  "wikipediaId": "Q148065",
+  "name": "Francisco Lagos Cházaro",
+  "fullName": "Francisco Lagos Cházaro",
+  "profileSummary": "Francisco Jerónimo de Jesús Lagos Cházaro Mortero was the acting President of Mexico designated by the Convention of Aguascalientes from 9 June to 10 October 1915.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Francisco_Lagos_Chazaro.png/330px-Francisco_Lagos_Chazaro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Lagos_Ch%C3%A1zaro",
+  "dateOfBirth": "1878-09-20",
+  "birthDateParsed": "1878-09-20",
+  "dateOfDeath": "1932-11-13",
+  "deathDateParsed": "1932-11-13",
+  "birthTime": null,
+  "birthCoordinatesLat": "18.613025",
+  "birthCoordinatesLng": "-95.656273611",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "politician",
+    "lawyer"
+  ],
+  "qid": "Q148065",
+  "birthPlace": "Tlacotalpan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:13:27.545Z"
+}

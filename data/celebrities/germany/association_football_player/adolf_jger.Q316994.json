@@ -1,0 +1,33 @@
+{
+  "publicId": "e3f0fa0e",
+  "wikipediaSlug": "Adolf_Jäger",
+  "wikipediaId": "Q316994",
+  "name": "Adolf Jäger",
+  "fullName": "Adolf Jäger",
+  "profileSummary": "Adolf Jäger was a German amateur football player who competed in the 1912 Summer Olympics.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolf_J%C3%A4ger",
+  "dateOfBirth": "1889-03-31",
+  "birthDateParsed": "1889-03-31",
+  "dateOfDeath": "1944-11-21",
+  "deathDateParsed": "1944-11-21",
+  "birthTime": null,
+  "birthCoordinatesLat": "53.55",
+  "birthCoordinatesLng": "9.9333",
+  "birthTimezone": "Europe/Paris",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "association football player"
+  ],
+  "qid": "Q316994",
+  "birthPlace": "Altona",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:41:40.143Z"
+}

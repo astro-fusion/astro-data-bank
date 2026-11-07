@@ -1,0 +1,36 @@
+{
+  "publicId": "20822414",
+  "wikipediaSlug": "Astrud_Gilberto",
+  "wikipediaId": "Q230401",
+  "name": "Astrud Gilberto",
+  "fullName": "Astrud Gilberto",
+  "profileSummary": "Astrud Gilberto was a Brazilian and American bossa nova and samba singer. She was the first wife of Brazilian bossa nova guitarist João Gilberto, whose surname she continued to use professionally after their divorce in 1964. She gained international attention in the mid-1960s following her vocal contribution to the song \"The Girl from Ipanema\", which was awarded a Grammy in 1965. Astrud Gilberto went on to be a popular bossa nova singer in the United States and internationally, being particularly popular in Japan. Although the best-known part of her career was from the mid-1960s to the early 1970s, she had a singing career spanning over 30 years before retiring following the release of her last album in 2002. Because of her contributions to popularizing bossa nova, many of her fans have given her the nickname \"Queen of Bossa Nova\".",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Astrud_Gilberto_1966_%28cropped%29.jpg/330px-Astrud_Gilberto_1966_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Astrud_Gilberto",
+  "dateOfBirth": "1940-03-29",
+  "birthDateParsed": "1940-03-29",
+  "dateOfDeath": "2023-06-05",
+  "deathDateParsed": "2023-06-05",
+  "birthTime": null,
+  "birthCoordinatesLat": "-12.983055555",
+  "birthCoordinatesLng": "-38.492777777",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "jazz singer",
+    "songwriter",
+    "musician",
+    "singer"
+  ],
+  "qid": "Q230401",
+  "birthPlace": "Salvador",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:28:12.089Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "164acfaf",
+  "wikipediaSlug": "Anita_Yuen",
+  "wikipediaId": "Q1369795",
+  "name": "Anita Yuen",
+  "fullName": "Anita Yuen",
+  "profileSummary": "Anita Yuen Wing Yee is a Hong Kong actress and beauty pageant titleholder. She is best known for her roles in the films C'est la vie, mon chéri (1993), He's a Woman, She's a Man (1994), and From Beijing with Love (1994).",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%E8%A2%81%E8%A9%A0%E5%84%80.jpg/330px-%E8%A2%81%E8%A9%A0%E5%84%80.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Anita_Yuen",
+  "dateOfBirth": "1971-09-04",
+  "birthDateParsed": "1971-09-04",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.278333333",
+  "birthCoordinatesLng": "114.158611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "model",
+    "beauty pageant contestant",
+    "singer"
+  ],
+  "qid": "Q1369795",
+  "birthPlace": "Hong Kong",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-17T01:39:53.805Z"
+}

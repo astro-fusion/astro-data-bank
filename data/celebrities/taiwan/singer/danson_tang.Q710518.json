@@ -1,0 +1,36 @@
+{
+  "publicId": "dbd06773",
+  "wikipediaSlug": "Danson_Tang",
+  "wikipediaId": "Q710518",
+  "name": "Danson Tang",
+  "fullName": "Danson Tang",
+  "profileSummary": "Danson Tang is a Taiwanese model, actor and singer.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danson_Tang",
+  "dateOfBirth": "1984-09-02",
+  "birthDateParsed": "1984-09-02",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "24",
+  "birthCoordinatesLng": "121",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "actor",
+    "television actor",
+    "model"
+  ],
+  "qid": "Q710518",
+  "birthPlace": "Taiwan",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:00:49.414Z"
+}

@@ -1,0 +1,36 @@
+{
+  "publicId": "df5767bf",
+  "wikipediaSlug": "Berta_Vázquez",
+  "wikipediaId": "Q21001794",
+  "name": "Berta Vázquez",
+  "fullName": "Berta Vázquez",
+  "profileSummary": "Berta Vázquez is a Ukraine-born Spanish actress. Her career began in dance, and later transitioned to acting and music. Vázquez first appeared as Bisila in Palm Trees in the Snow (2015). She played Estefania \"Rizos\" Kabila in Locked Up.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Berta_Vazquez.jpg/330px-Berta_Vazquez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Berta_V%C3%A1zquez",
+  "dateOfBirth": "1992-03-28",
+  "birthDateParsed": "1992-03-28",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "50.45",
+  "birthCoordinatesLng": "30.523611111",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "television actor",
+    "film actor",
+    "singer",
+    "actor"
+  ],
+  "qid": "Q21001794",
+  "birthPlace": "Kyiv",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T17:31:16.854Z"
+}

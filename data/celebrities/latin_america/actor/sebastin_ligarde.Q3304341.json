@@ -1,0 +1,34 @@
+{
+  "publicId": "2145bd30",
+  "wikipediaSlug": "Sebastián_Ligarde",
+  "wikipediaId": "Q3304341",
+  "name": "Sebastián Ligarde",
+  "fullName": "Sebastián Ligarde",
+  "profileSummary": "Sebastián Ligarde is a Mexican-American actor and acting coach best known for his work in telenovelas and the big screen. In his four decade career he has appeared in more than 25 TV shows and over 90 films - most of them in first billing.",
+  "profileImageUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Ligarde",
+  "dateOfBirth": "1954-01-26",
+  "birthDateParsed": "1954-01-26",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": "12:00:00",
+  "birthCoordinatesLat": "19.0412967",
+  "birthCoordinatesLng": "-98.2061996",
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "actor",
+    "television actor",
+    "film actor",
+    "stage actor"
+  ],
+  "qid": "Q3304341",
+  "birthPlace": "Puebla Municipality",
+  "fetchedAt": "2026-08-16T13:17:07.075Z"
+}

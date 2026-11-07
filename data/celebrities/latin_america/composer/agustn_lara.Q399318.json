@@ -1,0 +1,39 @@
+{
+  "publicId": "d255e76d",
+  "wikipediaSlug": "Agustín_Lara",
+  "wikipediaId": "Q399318",
+  "name": "Agustín Lara",
+  "fullName": "Agustín Lara",
+  "profileSummary": "Ángel Agustín María Carlos Fausto Mariano Alfonso del Sagrado Corazón de Jesús Lara y Aguirre del Pino, known as Agustín Lara, was a Mexican composer and performer of songs and boleros. He is recognized as one of the most popular songwriters of his era. His work was widely appreciated not only in Mexico but also in Central and South America, the Caribbean and Spain. After his death, he has also been recognized in the United States, Italy, and Japan. His 1958 bolero album Rosa has been rated as one of the top 25 albums in the history of Latin American music.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Agust%C3%ADn_Lara%2C_circa_1950s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Lara",
+  "dateOfBirth": "1900-10-30",
+  "birthDateParsed": "1900-10-30",
+  "dateOfDeath": "1970-11-06",
+  "deathDateParsed": "1970-11-06",
+  "birthTime": null,
+  "birthCoordinatesLat": "19.839364",
+  "birthCoordinatesLng": "-96.055621",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "composer",
+    "singer",
+    "actor",
+    "songwriter",
+    "film actor",
+    "trumpeter",
+    "conductor"
+  ],
+  "qid": "Q399318",
+  "birthPlace": "Veracruz",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T14:22:10.380Z"
+}

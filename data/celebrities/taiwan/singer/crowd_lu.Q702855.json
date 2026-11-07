@@ -1,0 +1,36 @@
+{
+  "publicId": "22262fca",
+  "wikipediaSlug": "Crowd_Lu",
+  "wikipediaId": "Q702855",
+  "name": "Crowd Lu",
+  "fullName": "Crowd Lu",
+  "profileSummary": "Crowd Lu Kuang-chung is a Taiwanese singer, songwriter and actor. He is also nicknamed \"Vitas Lu\" after making a parody of the song Opera No. 2 by the Russian singer Vitas, having the ability to hit the same high notes. Due to a serious car accident in his first year at Tamkang University, Lu learned to play guitar during his hospitalization. The following year, Lu won first prize for musical composition and solo performance and proceeded to once again take the gold in composition and become the crowd favorite at National Chengchi University.",
+  "profileImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/20180223CrowdLu.jpg/330px-20180223CrowdLu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Crowd_Lu",
+  "dateOfBirth": "1985-07-15",
+  "birthDateParsed": "1985-07-15",
+  "dateOfDeath": null,
+  "deathDateParsed": null,
+  "birthTime": null,
+  "birthCoordinatesLat": "22.95",
+  "birthCoordinatesLng": "120.233333333",
+  "birthTimezone": null,
+  "moonSign": null,
+  "sunSign": null,
+  "lagnaSignText": null,
+  "planetaryCombinationIndex": [
+    "Manual_Sync_Required"
+  ],
+  "dataSource": "wikipedia_crawler",
+  "isVerified": false,
+  "categories": [
+    "singer",
+    "composer",
+    "lyricist",
+    "actor"
+  ],
+  "qid": "Q702855",
+  "birthPlace": "Rende District",
+  "astroDbId": null,
+  "fetchedAt": "2026-08-16T16:01:03.396Z"
+}
